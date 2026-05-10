@@ -26,15 +26,15 @@ To assess the reliability and epistemic role of sources in the corpus, this stud
 **H5.**Epistemic Reliability Rarity Hypothesis - Sources that simultaneously satisfy all three criteria of trustworthiness—connection to primary data, high in-degree, and mutual reinforcement via the Trust Triangle—are structurally rare (<1% of the corpus) and belong to mediators (Step 2) rather than authorities (Step 3).
 
 ## Repository Structure
-- paper/          # Текст статьи (черновики, финал)
-- datasets/       # Данные (сырые и обработанные)
-- notebooks/      # Jupyter notebooks
-- cripts/         # Python скрипты
-- visualizations/ # Графики и карты
-- bibliography/   # Библиография
-- documentation/  # Методология и workflow
-- presentations/  # Презентации и постеры
-- outputs/        # Финальные результаты
+- paper/          
+- datasets/       
+- notebooks/     
+- cripts/         
+- visualizations/ 
+- bibliography/   
+- documentation/  
+- presentations/  
+- outputs/        
 
 ## Methodology
 [Кратко: какие методы DH используешь — NLP, network analysis, etc.]
