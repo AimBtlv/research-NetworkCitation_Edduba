@@ -1,4 +1,4 @@
-**research-NetworkCitation_Edduba**
+# research-NetworkCitation_Edduba
 
 How knowledge about scribal schools circulates within academic discourse? 
 
