@@ -27,7 +27,7 @@ The project's goal is thus aligned with the aim of information visualisation: to
 - outputs/        # Финальные результаты
 
 ## Methodology
-[Кратко: какие методы DH используешь — NLP, network analysis, etc.]
+Network metrics — including in-degree, betweenness centrality, eigenvector centrality, and a custom step-distance model — were applied to classify sources by their epistemic role. Visualisations reveal a structurally sparse network in which primary archaeological sources are systematically decoupled from high-centrality clusters.
 
 ## Data
 - Источник:
