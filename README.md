@@ -30,10 +30,10 @@ The project's goal is thus aligned with the aim of information visualisation: to
 Network metrics — including in-degree, betweenness centrality, eigenvector centrality, and a custom step-distance model — were applied to classify sources by their epistemic role. Visualisations reveal a structurally sparse network in which primary archaeological sources are systematically decoupled from high-centrality clusters.
 
 ## Data
-- Источник:
-- Формат:
-- Язык:
-- Период:
+- Sources: Archaeological Report and Scholar Editions about Scribal School in Old Babylonian Period. 
+- Format: Pdf format
+- Language: English, French, German
+- Period: 1890 - 2024 
 
 ## Tools
 - Python 3.x
