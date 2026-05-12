@@ -1,0 +1,425 @@
+# METADATA
+author: George A.R.
+title: In Search Of The É.dub.ba.a: The Ancient Mesopotamian School
+in literature and reality
+Year: Unknown
+Source_ID:  George0000_InSearchOf
+Source_Type:  Article
+Source_Role,Step_distance: 2 ,3,4 
+Pages: 1-9
+Web: 
+Notes: Bibliography 
+
+# TEXT
+
+In search of the é.dub.ba.a: the ancient Mesopotamian school
+in literature and reality*
+A. R. George
+Many Sumerian literary compositions survive that describe life in ancient schools,
+known in Sumerian as é.dub.ba.a.1 This Edubba-literature, as it is often called, is a
+typical genre of the traditional literature copied out in the Old Babylonian period, when
+young boys learning to be scribes had to master a complicated and progressively difficult
+corpus of sign-lists, lexical texts and literary compositions. Their school-work survived to
+be excavated, particularly at Nippur and Ur but also at Isin, Uruk and other sites. The
+tablets left behind by these young Babylonian apprentices are the principal source that
+modern scholars in Philadelphia and elsewhere have used over the past sixty years to
+reconstruct the canonical corpus of Sumerian literary texts, the first important body of
+literature anywhere in the world.
+Texts such as ‘Schooldays’ (Kramer 1949) and ‘Edubba D’ (Civil 1985) provide witty
+insights into the life and times of learner scribes. So in Schooldays we encounter the
+memorable passage that tells of the boy who can do no right. Everything he does attracts
+punishment by one or other of the school staff. Falling foul of every regulation, he
+laments,
+lú ká.na.ke a.na.·e.àm gá.da nu.me.a íb.ta.è e.·e in.túd.dè.en
+4
+lú dugla¿tan.na.ke a.na.·e.àm gá.da nu.me.a x ·u ba.e.ti e.·e in.túd.dè.en
+4
+lú eme.gi .ra.ke eme.uri bí.in.dug e.·e in.túd.dè.en
+7 4 4
+um.mi.a.mu ·u.zu nu.sa .sa e.·e in.túd.dè.en
+6 6
+Schooldays 38–412
+The door monitor (said), ‘Why did you go out without my say-so?’ He beat me.
+The jug monitor, ‘Why did you take [water or beer] without my say-so?’ He beat me.
+The Sumerian monitor, ‘You spoke in Akkadian!’ He beat me.
+My teacher, ‘Your handwriting is not at all good!’ He beat me.
+This passage serves incidentally to remind us that until quite late scribal education in
+Mesopotamia was conducted in Sumerian, not in Akkadian. In the é.dub.ba.a a
+Sumerian monitor was even on hand to make sure that pupils spoke only the old
+language of literary expression. The Edubba dialogues add the further information that a
+successful student considered himself a ‘Sumerian’; other texts reveal that many later
+Babylonian scholars formally registered this new identity by adopting Sumerian versions
+* This article develops an idea presented in brief to the conference on the Fifth Millennium of the
+Invention of Writing at Baghdad in March 2001. The generous hospitality of the Ministry of Culture and
+Information is acknowledged here. A short text of the conference paper may be published in a future
+volume of proceedings.
+1 On the expression, its history and problematical etymology, see most recently Volk 2000: 2–5.
+2 The composition is now better understood than it was in Kramer’s day. For the passage quoted see
+Volk 1996: 199–200 and fn. 131, Sjöberg 1993: 1, and cf. Civil 1992: 304.
+George/2
+of their names.3 Even in the Parthian period scribal families originally from Nippur were
+still adopting the pretence of Sumerian descent (Oelsner 1982, George 1991: 162).
+By the Old Babylonian period, if not earlier, Sumerian had long died out among the
+people as a spoken language, but it was still much in use as a written language.
+Mesopotamian culture was famously conservative and since Sumerian had been the
+language of the first writing, more than a thousand years before, it remained the principal
+language of writing in the early second millennium. A much greater volume of
+documentation was written in the Babylonian dialect of Akkadian, but Sumerian
+retained a particular prestige. Its primacy as the language of learning was enshrined in the
+curriculum that had to be mastered by the student scribe. In order to learn how to use
+the cuneiform script, even to write Akkadian, the student traditionally had to learn
+Sumerian, for, as the proverb said, dub.sar eme.gir nu.mu.un.zu.a
+15
+a.na.àm dub.sar e.ne ‘A scribe who knows no Sumerian, what sort of scribe is
+he?’ (Proverb Collection 2 no. 47, ed. Alster 1997: 54). To prove he had mastered the art
+of writing and the traditions that went with it, the would-be scribe copied out, on
+dictation and from memory, texts in Sumerian. The most advanced Sumerian texts that
+he had to master were a prescribed corpus of traditional Sumerian literary compositions.4
+Then as now even the best students, it seems, had to be reminded that they were only
+novices. So, in Edubba D a boy nearing the completion of his studies in the
+é.dub.ba.a proudly announces how good he is at his work. Like any other youngster,
+he thinks he knows it all:
+nam.dub.sar.mu mu.ub.zu.zu
+níg.na.me nu.mu.·i.ib.sìr.re.en
+um.mi.a.mu gu.sum di·.àm mu.un.pàd.de
+gé·tug.mu.ta di· min bí.ib.da¿.e.en
+ki.ulutin.mu.u· a.ba.da.tu·.ù.nam
+eme.gir nam.dub.sar ·à.dub.ba ·id níg.kas mu.da.ab.sá.sá.e.en
+15 7
+eme.gir .ta inim mu.da.ab.bal.e.en
+15
+¿é.eb.da.gál eme.gir i.ri.dul.la.a·
+15
+Edubba D 32–8, ed. Civil, Mélanges Birot, p. 70
+I really know my scribal knowledge,
+I don’t get stuck at anything!
+My teacher shows me a certain sign,
+I add one or two more from memory!
+Now I’ve been here for the stipulated time
+I can cope with Sumerian, scribal work, archiving, accounting, calculation!
+I can even hold a conversation in Sumerian!
+The boy’s interlocutor is some one senior to him who has heard this kind of boasting
+before. He is quick to put the young upstart down. ‘If that is so’, he responds drily,
+‘Sumerian must be keeping its secrets from you . . .’
+3 See Landsberger 1958: 96. On Sumerian versions of scholars’ names see further Lambert 1957: 6–7,
+George 1993: 63–4.
+4 On the scribal curriculum of the Edubba see Sjöberg 1976, Tinney 1998, 1999 and further literature
+there cited.
+George/3
+Schooldays, Edubba D and other examples of Edubba-literature, some of them later
+provided with Akkadian translations, thus allow us a glimpse of the institutions in which
+boys learned to write (see further Falkenstein 1953, Gadd 1956). They have suggested to
+modern scholars that the é.dub.ba.a, with its elaborate hierarchy of staff, large
+student body and sophisticated and varied curriculum, was a ‘secular university’
+(Landsberger 1958). The fact that this literature survives on Old Babylonian tablets has
+led to a dating of this é.dub.ba.a to the same period. Thus, according to one
+important and influential study, the ‘institution of learning, the eduba, is also specifically
+Old Babylonian, and as an institution of education, the eduba seems to die out at the end
+of the Old Babylonian period’ (Sjöberg 1976: 159–60, Landsberger 1958: 97). This
+theory argues that scribal education fell into the hands of private individuals only in the
+‘post-Old Babylonian period’.
+It has been apparent for some time that the archaeological record of the Old
+Babylonian period shows a different picture. The buildings where modern archaeologists
+excavated the tablets left by those schoolboys of Nippur and Ur were, those that have
+been recorded, very modest affairs. Nearly all were private dwelling-houses and none was
+large enough to accommodate the kind of complex and large-scale academic institution
+described in the Edubba-literature.
+Three well-known case-studies show this. The first is House F in Area TA at Nippur,
+uncovered by Carl Haines and Donald McCown in the 1951–2 season of excavations.
+This dwelling-house has been the subject of detailed study by Elizabeth Stone (Stone
+1987: 56–9, also Charpin 1990: 4–7).5 In levels dating to the reign of Samsuiluna in the
+late eighteenth century BC, the excavators recovered from Room 205 some fourteen
+hundred cuneiform tablets and fragments. Most of these were apparently old tablets that
+had been put to secondary use as fill but a few may have been stored in accessible
+locations.6 The texts inscribed on them were mostly literary compositions and school
+exercises, in other words the typical output of learner scribes of the early second
+millennium BC. The presence of unused tablet clay in the kitchen, Room 191, makes it
+probable that the scribal apprentices who produced the tablets wrote them on the
+premises. Room 205, where most of the tablets were found, was the largest chamber of
+House F but measured only about 3 ´ 5 m. It was not, therefore, a space large enough to
+accommodate a large body of pupils, a teacher and ancillary staff.
+My second and third case-studies are similar houses at Ur, excavated by Sir Leonard
+Woolley in the course of his many seasons at Ur (1922–34). Two Old Babylonian
+dwelling-houses of early eighteenth-century date, No. 7 Quiet Street and No. 1 Broad
+Street, are remarkable for the quantity of cuneiform tablets found in them. In the former
+Woolley found more than forty tablets that are typical products of Old Babylonian
+5 A new study of this house and its tablets is being made by Eleanor Robson.
+6 Thorkild Jacobsen reports that the tablets were found ‘helter-skelter under the floor . . . as fill’
+(Jacobsen 1953: 126). Stone notes that a mud bench in Room 205 was constructed out of ‘the most readily
+available raw material, old tablets. The walls of this room had bags or shelves on them to hold the [current]
+tablets’ (Stone 1987: 57). Charpin observes that most of the tablets found in House F were packing for a
+new floor (Charpin 1990: 7).
+George/4
+learner scribes. In the latter about four hundred similar tablets came to light, most in
+secondary contexts as fill. Both houses were described by Woolley as ‘schools’. He went
+so far as to style the man he supposed was the occupant of No. 1 Broad Street, a certain
+Igmil-Sîn, as the ‘headmaster of a boys’ school’ (Woolley 1963: 185), a description that,
+coming from such a source, might conjure up in the impressionable mind a vision of an
+English public school complete with junior masters, tuck shops and rugby football
+pitches.
+Woolley would not have intended such an understanding but he was jumping to
+unwarranted conclusions, nonetheless. The two houses of Ur and the finds made in them
+have been exhaustively studied by Dominique Charpin (Charpin 1986: 419–86). He has
+shown that, as with House F in Area TA at Nippur, we are dealing with private dwelling-
+houses that belonged to men of the literate, priestly class. Charpin’s conclusions are that
+No. 7 Quiet Street was certainly a venue of scribal education, though a modest one;
+however, it is unsafe to assume that No. 1 Broad Street was, for the tablets that were built
+into the fabric of its floors may have come from elsewhere.
+The dwellings House F, No. 7 Quiet Street and others like them that functioned as
+places of schooling elsewhere, for example at Isin (Wilcke 1987: 83), Tell ed-D∂r
+(Gasche 1989: 19–20, 40–1) and Tell Harmal,7 clearly show that already in the Old
+Babylonian period much scribal training was a small-scale occupation run by private
+individuals and not by the state. This view is now generally accepted. The owners of such
+houses were learned scholars who taught apprentice scribes to write, instructing them in
+their own homes in the ways of cuneiform and the literature of tradition. They may have
+taught only two or three boys at a time, their own sons and other young relatives and
+maybe also the sons of colleagues. Most of the tablets the boys produced were recycled
+(Civil 1979: 7) but others were kept and slowly accumulated until they were found new
+uses as building materials. It is no doubt to places like these that the few Old Babylonian
+letters that refer to schools allude.8 This kind of education, small-scale and from one
+generation to the next, was traditional in other crafts and is much the same set-up as we
+find in the third and first millennia, when scribal training was also conducted by learned
+men (um.mi.a // ummânu) teaching small groups of boys in their own houses.9
+The houses of the Old Babylonian scholar-teachers were sizeable residences in good
+neighbourhoods, but they cannot be imagined as institutional buildings housing large-
+scale educational establishments. In fact, no such buildings have yet been found in any
+Old Babylonian city. Indeed, the whole idea of a school building as a distinctive structure
+has been called into question recently (e.g. Wilcke 1987: 83; Volk 2000: 7–8). It is now
+agreed that much teaching, reading and writing was necessarily done outside in the
+7 See the definitive report on the excavations at Tell Harmal now being prepared by Peter Miglus and
+Laith Hussein.
+8 The Akkadian is b¬t fluppim, ‘tablet house’; for the relevant passages see Sjöberg 1976: 160–1, Volk
+2000: 8 with fn. 41.
+9 See briefly Waetzoldt 1989: 39. The Late Babylonian copies of traditional literary compositions
+excavated in an area of private dwelling-houses at Uruk in 1970–1 present a picture similar to that
+obtained in Old Babylonian Nippur and Ur. The many commentaries found among them reveal a picture
+of oral instruction in cuneiform lore by the ummânu.
+George/5
+courtyard rather than indoors; this can be inferred not only from the need for bright light
+that most Assyriologists recognize from their own experience with tablets but also from
+telling passages of the E-dubba literature (Volk 2000: 7 and fn. 35–6). Writing of the
+later Old Babylonian period Michel Tanret comments, ‘l’idée d’un espace architectural
+réservé uniquement à l’enseignement, d’une salle de classe, nous paraît donc, pour cette
+période, un anachronisme’ (Tanret 1982: 49).
+Now that Old Babylonian schools are revealed to have been very modest affairs located
+in private houses, there arises a discrepancy between the archaeological evidence and the
+literary documentation that led to Landsberger’s characterization of the é.dub.ba.a as
+a ‘secular university’. Briefly stated, the problem is that the schools reported in the
+Edubba literature were obviously institutions of a kind very different from the schools in
+which the remains of this literature were found.
+The answer to this problem lies in understanding that the texts and the material
+remains report conditions of education in different periods. The Edubba-literature was
+traditional literature, already old when writing was taught in the houses of eighteenth-
+century Nippur and Ur. The tradition enshrined in Sumerian literature is that under the
+kings of the Third Dynasty of Ur (Ur III) there were special academies of learning in
+exactly these cities, Nippur and Ur. These institutions were very probably an innovation
+of this dynasty made to satisfy the growing bureaucracy’s demand for scribes that could
+not be met by the small-scale operations of the private sector (Waetzoldt 1986: 39). One
+of the hymns in praise of King ∞ulgi of Ur (twenty-first century) records his special
+connection with the scribal academies:
+sig.·è urímki.ma ki.sikil.la bí.mú
+é.gé·tug.dnissaba.mul èn.du.gá.ka (var. a.kam)
+nim.·è nibruki.a ki.gal.la bí.gub
+·ùd é.kur.ra ki ¿é.ús.sa.mu.u·
+dub.sar ¿é.du ·u.ni ¿é.eb.dab.bé
+nar ¿é.du gù ¿u.mu.un.né.re.dé (var. ¿u.mu.ne.re.dé.[(e)])
+é.dub.ba.a da.rí ur nu.kúr.ru.dam
+5
+ki.úmun da.rí ur nu.·ilig.ge.dam
+5
+∞ulgi Hymn B 308–15, ed. Castellino, Two ∞ulgi Hymns, pp. 60–310
+Downstream, at Ur, in the Pure Place (my song) is sung,
+the House of Wisdom of Starry Nissaba is (the place) of my song.
+Upstream, at Nippur, in the Great Place (my song) is established
+for my benediction in Ekur, the place that I did set on a firm footing.
+The scribe shall come, his hand shall capture (the song in writing),
+the minstrel shall come, shall declaim thereof for them,11
+For all eternity the Edubba is never to change,
+for all eternity the Place of Learning is never to cease functioning.
+From the hymns of ∞ulgi that have been so well elucidated by Jacob Klein, especially,
+we learn that ∞ulgi was particularly proud of his literacy and cultural accomplishments.
+He had rosy memories of his boyhood at the é.dub.ba.a, where he boasted that he
+10 On ll. 311–15 see Sjöberg 1976: 174; on ll. 311–19 see Klein 1981a: 20; on ll. 313–15 see Ludwig
+1990: 42; on ll. 309–14 see Alster 1992: 45–6; on ll. 312–14 see Black 1992: 100.
+11 See Alster 1992: 45.
+George/6
+was the most skilled student in his class.12 This claim is not unique and may have been
+an expression of an ideal rather than a reality,13 but in later life ∞ulgi was certainly an
+enthusiastic patron of the arts. If he did not himself found the academies of Sumerian
+learning at Ur and at Nippur, he clearly adapted them to his purpose, speaking of his
+‘libraries’ (gìr.gin.na) set up for the use of court minstrels (∞ulgi Hymn B 318 and
+329). The aim was evidently to provide a reliable corpus of Sumerian songs and other
+texts for future generations. Thus ∞ulgi envisaged that hymns to his glory and other
+courtly literature of his day would be preserved for posterity. Evidently he was worried
+that as the Sumerian language died out the songs, hymns and other compositions written
+in it would be forgotten — and with them his glorious memory. And so they were not
+forgotten, for his academies established a literary corpus that survived as the core of the
+scribal curriculum at Nippur, Ur and other cities for three centuries.
+When ∞ulgi speaks of his state-sponsored academies at Nippur and Ur as
+é.gé·tug.dnissaba.mul, ‘House of Wisdom of Starry Nissaba’, and ki.úmun,
+‘Place of Learning’, it seems to me he is using the expressions much as one used the
+ceremonial names of temples. With institutions that could bear such distinctive names he
+surely had in mind physical structures dedicated to the scribal art. Thus I would maintain
+that the é.dub.ba.a of the Edubba-literature was an architectural as well as an
+institutional reality. In contrast to the Old Babylonian schools described earlier, we can
+suppose that these grand imperial schools occupied purpose-built accommodation,
+whether whole buildings or complexes of rooms.
+It is not difficult to imagine that scribal training in the Ur III period came, like so
+much else, under the control of the state.14 Documentation reveals that provincial
+governors had responsibility for the upkeep of learner scribes in local centres.15
+Connections between state and é.dub.ba.a were strong.16 Certainly the courts of the
+kings of Ur and the succeeding dynasty of Isin were witness to considerable literary
+creativity in Sumerian. The é.dub.ba.a was an important instrument not only for
+handing down traditional texts but also for producing new royal compositions. Hymns
+were composed articulating the imperial pretensions of the first six kings of Isin and a few
+of the later ones, and several of them were included in the basic curriculum of the scribal
+trainee.17
+This suggests that the state é.dub.ba.a of the Ur III period was maintained in some
+form by the court of Isin for as much as one and a half centuries after the fall of Ur, an
+12 See ∞ulgi Hymn B 13–20, re-edited by Volk 1996: 202–3, fn. 148; cf. Klein 1981a: 15.
+13 Note the similar passage in a hymn of I·me-Dag®n of Isin: Ludwig 1990: 166 ff., I·D V 5–9.
+A
+14 See already Nissen 1993: 108, who considers it ‘conceivable that the sector of scribal education
+formerly supported by private initiative increasingly came under state influence during the Ur III period’.
+15 At Girsu the governor provided regular rations for twelve scribal apprentices (dub.sar tur.tur):
+see Waetzoldt 1986: 39, 1989: 39.
+16 Cf. Kraus 1973: 24–5, who argues for a close relationship between the é.dub.ba.a and the courts
+of the successor states of the early second millennium, speaking of the é.dub.ba.a as a ‘Hofkanzlei’.
+17 The group of four literary texts first encountered by Old Babylonian schoolboys, called the ‘Tetrad’ by
+Tinney 1999: 162–8, contained three hymns to kings of Isin, Iddin-Dag®n B, Lipit-I·tar B and Enlil-b®ni
+A.
+George/7
+example of continuity in state practice that is wholly expected. There is even evidence to
+suggest that the scholars of the academy at Nippur were not much impressed with the
+rival establishment just down the road (van Dijk 1989: 448–50). Probably we should
+seek the é.dub.ba.a of the Isin period near the royal residences, or even in them. In
+this connection it should be pointed out that a complex of chambers and courtyards used
+for scribal training would not necessarily contain distinctive furnishing or equipment of
+any kind beyond rudimentary bins for new and recycled clay, so that the recognition on
+the ground of an Ur III period é.dub.ba.a — or indeed any other large-scale
+educational institution — may not be a simple matter.18
+Measured in terms of royal hymns and prayers literary creativity in Sumerian at the
+courts of Larsa and Babylon was starkly reduced,19 an indication that in the eighteenth
+century the state secretariats of Babylonia had abandoned many of the traditions of the
+old é.dub.ba.a. In the later Old Babylonian period, three and four centuries after
+King ∞ulgi, the royal academies of the kings of Ur and Isin were surely gone altogether.
+In an era characterized by private enterprise many other imperial institutions of the Third
+Dynasty of Ur had also disappeared. Though the presence of school tablets in royal
+residences, for example in the palace of Sîn-k®·id at Uruk (Cavigneaux 1982: 21–30),
+shows that the petty kingdoms of the middle Old Babylonian period continued to have
+an interest in training a literate bureaucracy, most schooling was probably undertaken in
+the private sector.
+But the Sumerian literary corpus that ∞ulgi’s academies had established survived, for it
+had become a teaching resource. Sumerian lists and texts were the standard copy books of
+learner scribes wherever they were taught. In the Old Babylonian period, when scholars
+and other literate men instructed their sons and a few others in the rooms and courtyards
+of their own houses, they passed on to them a literature much of which was already three
+hundred years old. From the texts that report life in the Sumerian é.dub.ba.a the
+boys learned that once, in the golden years of King ∞ulgi, their predecessors had attended
+schools vastly different from the modest establishments they knew themselves in the reign
+of King Samsuiluna.
+My point, then, is simple. Any attempt to identify the many private houses where
+scribes were trained in the Old Babylonian period with the grand institutions called
+é.dub.ba.a in Sumerian literary texts is misconceived. To look for material remains of
+this é.dub.ba.a in Old Babylonian levels is to try to match the realities of two very
+different eras. The reigns of ∞ulgi and his successors were the heyday of the
+é.dub.ba.a, and it is educational practice of their era that is reflected in the Edubba
+18 Note in this regard that the supposed school-room famously excavated in Zimri-Lim’s palace at Mari
+remains a space of uncertain function. The evidence for scribal training therein is not compelling; on this
+question see most recently Waetzoldt 1986: 39, Tanret 1981: 33–4, Volk 2000: 5–6 and fn. 26.
+19 The relative sizes of the corpora of royal compositions stemming from the courts in question can
+easily be seen in the catalogue of Neo-Sumerian and Old Babylonian royal hymns published by Klein
+1981b: 24 and 226–34; at the time of compilation Ur III scored 39, Isin 55, Larsa 13 and Babylon 15
+(including Akkadian and bilingual compositions).
+George/8
+literature.20 If one wishes to find the remains of the grand imperial school it is in the
+levels of the Ur III and early Isin periods that one should look.
+References
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Alster, Bendt 1992: Interaction of oral and written poetry in early Mesopotamian
+literature, in M. Vogelzang and H. L. J. Vanstiphout (eds.), Mesopotamian Epic
+Literature (Lampeter), pp. 23–69
+Alster, Bendt 1997: Proverbs of Ancient Sumer (Bethesda, Md)
+Black, Jeremy 1992: Some structural features of Sumerian narrative poetry, in M.
+Vogelzang and H. L. J. Vanstiphout (eds.), Mesopotamian Epic Literature
+(Lampeter), pp. 71–101
+Cavigneaux, Antoine 1982: Schultexte aus Warka, Baghdader Mitteilungen 13, pp. 21–30
+Charpin, Dominique 1986: Le clergé d’Ur au siècle d’Hammurabi (Geneva and Paris)
+Charpin, Dominique 1990: Un quartier de Nippur et le problème des écoles (suite),
+Revue d’assyriologie 84, pp. 1–16
+Civil, Miguel 1985: Sur les ‘livres d’écolier’ à l’époque paléo-babylonienne, in J.-M.
+Durand and J.-R. Kupper (eds.), Miscellanea Babylonica: Mélanges offerts à
+Maurice Birot (Paris), pp. 67–78
+Cooper, Jerrold S. 1973: Sumerian and Akkadian in Sumer and Akkad, Orientalia 42,
+pp. 239–46
+Civil, Miguel 1979. Ea A = nâqu, Aa A = nâqu, with their Forerunners and Related Texts.
+MSL 14 (Rome). In collaboration with Margaret W. Green and W. G. Lambert
+Civil, Miguel 1992: Education in Mesopotamia, Anchor Bible Dictionary 2 (New York),
+pp. 301–5
+Dijk, J. van 1989: Ein spätaltbabylonischer Katalog einer Sammlung sumerischer Briefe,
+Orientalia NS 58, pp. 441–52
+Falkenstein, A. 1953: Die babylonische Schule, Saeculum 4, pp. 125–37
+Gadd, C. J. 1956: Teachers and Students in the Oldest Schools (London)
+Gasche, H. 1989: La Babylonie au 17e siècle avant notre ère. MHEM 1 (Ghent)
+George, A. R. 1991: Babylonian texts from the folios of Sidney Smith, Part Two:
+Prognostic and diagnostic omens, Revue d’assyriologie 85, pp. 137–67
+George, A. R. 1993: Ninurta-p®qid®t’s dog bite, and notes on other comic tales, Iraq 60,
+pp. 63–75
+Jacobsen, Thorkild 1953: review of L. Legrain, Ur Excavations Texts III, in American
+Journal of Archeology 57, pp. 125–8
+Klein, Jacob 1981a: The Royal Hymns of Shulgi King of Ur: Man’s Quest for Immortal
+Fame. TAPS 71/7 (Philadelphia)
+Klein, Jacob 1981b: Three ∞ulgi Hymns (Ramat Gan)
+20 In this analysis we must accept the testimony of the Edubba-literature, that the pupils’ first language
+was Akkadian not Sumerian, as further evidence in the debate over the date of the death of Sumerian as a
+vernacular language, for it will apply to the late third millennium. This detail supports the view that
+‘Sumerian as a spoken language was in all probability dead or nearly so in Ur III’ (Cooper 1973: 241).
+George/9
+Kramer, Samuel N. 1949: Schooldays: A Sumerian Composition Relating to the Education of
+a Scribe (Philadelphia); also in JAOS 69 (1949), pp. 199–215
+Kraus, F. R. 1973: Vom mesopotamischen Menschen der altbabylonischen Zeit und seiner
+Welt (Amsterdam)
+Lambert, W. G. 1957: Ancestors, authors and canonicity, Journal of Cuneiform Studies
+11, pp. 1–14
+Landsberger, B. 1958: Scribal concepts of education, in C. H. Kraeling and R. M. Adams
+(eds.), City Invincible (Chicago), pp. 94–101
+Ludwig, Marie-Christine 1990: Untersuchungen zu den Hymnen des I·me-Dagan von Isin.
+SANTAG 2 (Wiesbaden)
+Nissen, Hans J. 1993: The education and profession of the scribe, in Nissen, P.
+Damerow and R. K. Englund, Archaic Bookkeeping. Writing and Techniques of
+Economic Administration in the Ancient Near East (Chicago), pp. 105–9
+Oelsner, Joachim 1982: Spätachämenidische Texte aus Nippur, Revue d’assyriologie 76,
+pp. 94–5
+Sjöberg, ÅAke W. 1976: The Old Babylonian Eduba, in Sumerological Studies in Honor of
+Thorkild Jacobsen. AS 20 (Chicago), pp. 159–79
+Sjöberg, ÅAke W. 1993: CBS 11319+. An Old Babylonian schooltext from Nippur,
+Zeitschrift für Assyriologie 83, pp. 1–21
+Stone, Elizabeth C. 1987: Nippur Neighborhoods. SAOC 44 (Chicago)
+Tanret, Michel 1981: L’apprentissage de l’écriture à Sippar Amnanum à la fin de la
+période paléo-babylonienne, in K. De Clerck and H. Van Daele (eds.), Prof. R. L.
+Plancke 70. Getuigenissen en bijdragen (Gent), pp. 31–40
+Tanret, Michel 1982: Les tablettes ‘scolaires’ découvertes à Tell ed-D∂r, Akkadica 27
+(1982), p. 39
+Tinney, Steve 1998: Texts, tablets, and teaching: scribal education in Nippur and Ur,
+Expedition 40, 2 (1998), pp. 40–50
+Tinney, Steve 1999: On the curricular setting of Sumerian literature, Iraq 61 (1999), pp.
+159–72
+Volk, Konrad 1996: Methoden altmesopotamischer Erziehung nach Quellen der
+altbabylonischen Zeit, Saeculum 47 (Freiburg and Munich), pp. 178–216
+Volk, Konrad 2000: Edubba’a und Edubba’a Literatur: Rätsel und Lösungen, ZA 90, pp.
+1–30
+Waetzoldt, Hartmut 1986: Keilschrift und Schulen in Mesopotamien und Ebla, in Lenz
+Kriss-Rettenbeck and Max Liedtke, Erziehungs- und Unterrichtsmethoden im
+historischen Wandel (Bad Heilbrunn)
+Waetzoldt, Hartmut 1989: Der Schreiber als Lehrer in Mesopotamien, in Johann Georg
+Prinz von Hohenzollern and Max Liedtke (eds.), Schreiber, Magister, Lehrer (Bad
+Heilbrunn)
+Wilcke, Claus 1987: Die Inschriftenfunde der 7. und 8. Kampagnen (1983 und 1984),
+in Isin III, in B. Hrouda (ed.), Isin–I·®n BaΩr¬y®t III. Die Ergebnisse der
+Ausgrabungen 1983–1984 (Munich), pp. 83–120
+Woolley, Leonard 1963: Excavations at Ur (London)
+

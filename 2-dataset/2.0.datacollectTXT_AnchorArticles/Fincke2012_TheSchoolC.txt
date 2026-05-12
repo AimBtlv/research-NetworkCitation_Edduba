@@ -1,0 +1,816 @@
+# METADATA
+Author: Fincke J.C.
+source_id:Fincke2012_TheSchoolC
+title: The School Curricula From Hattuša, Emar And Ugarit: A Comparison
+Year: 2012
+Source_ID:  Fincke2012_TheSchoolC
+Source_Type: Article, Article in Book: STUDIES IN SCHOOL EDUCATION IN THE ANCIENT NEAR EAST AND BEYOND, edited by W.S. VAN EGMOND and W.H. VAN SOLDT
+Source_Role,Step_distance: 0,1,2 ,3,4 
+Pages: 85 - 102
+Web:
+
+# TEXT
+
+THEORY AND PRACTICE OF
+KNOWLEDGE TRANSFER
+STUDIES IN SCHOOL EDUCATION IN
+THE ANCIENT NEAR EAST AND BEYOND
+PAPERS READ AT A SYMPOSIUM
+IN LEIDEN, 17-19 DECEMBER 2008
+edited by
+W.S. VAN EGMOND and W.H. VAN SOLDT
+NEDERLANDS INSTITUUT VOOR HET NABIJE OOSTEN
+LEIDEN
+2012
+
+TABLE OF CONTENTS
+W.S. van Egmond and Introduction 1
+W.H. van Soldt
+N. Veldhuis Domesticizing Babylonian Scribal Culture in Assyria: 11
+Transformation by Preservation
+M. Mostert Latin Learning and Learning Latin: Knowledge 25
+Transfer and Literacy in the European Middle Ages
+P. Michalowski Literacy Schooling and the Transmission of 39
+Knowledge in Early Mesopotamian Culture
+J. Jansen When Style Matters: Literacy in an ‘Illegible’ Place in 59
+Rural Mali
+W.S. van Egmond Informal Schooling and Textual Communities: 69
+A Medievalist’s Ruminations on Schooling in the
+Ancient Near East
+J.C. Fincke The School Curricula from Hattuša, Emar and Ugarit: 85
+˘
+A Comparison
+W.H. van Soldt Why Did They Write? On Empires and Vassals in 103
+Syria and Palestine in the Late Bronze Age
+Y. Cohen The Historical and Social Background of the Scribal 115
+School at the City of Emar in the Late Bronze Age
+G. Beckman Šamaš among the Hittites 129
+T. Scheucher Errors and Mistakes: The Narrow Limits of Orality- 137
+Literacy Research in the Study of Ancient Cultures –
+The Case of Lexical Lists from Ancient Hattuša
+˘
+W. Waal Reading between the Lines: Hittite Scribal Conventions 147
+THE SCHOOL CURRICULA FROM HATTUŠA, EMAR AND
+˘
+UGARIT: A COMPARISON
+∗
+Jeanette C. Fincke
+1. GENERAL INTRODUCTION
+The three Ancient Near Eastern cities that are the subject of this study – Hattuša, the capital of the
+˘
+Hittite kingdom, located in present-day Anatolia, Ugarit, a city-state on the Mediterranean coast of
+Syria, and Emar, located on the river Euphrates in northern Syria (see the map on page VI) – have
+the following features in common. All three cities are located on the western or north-western
+periphery of Mesopotamia and they all produced ‘school texts’ from the Late Bronze Age, which
+means from the mid-second millennium BC until roughly 1200 BC. The spoken language in each
+place differed not only significantly from the others but also from the lingua franca of those days,
+Akkadian. The same holds true for the scripts and materials they used to write their native
+languages. This situation led to the need for providing a local school education according to the
+Mesopotamian model in order to teach Akkadian in each place adequately. Since the students of
+each school faced the same problem of learning a language that was not only different from their
+native one, but also sometimes even belonged to a different language family, it is of particular
+interest to compare the school curricula of all these places.
+2. ‘SCHOOL EDUCATION’ AND ‘SCHOOL CURRICULUM’ IN THE CONTEXT OF THIS STUDY
+‘School education’ and ‘school curriculum’ in connection with the Late Bronze Age cities on the
+periphery of Mesopotamia mean dealing with learning Sumerian and Akkadian and reading
+compositions of Mesopotamian origin written in both languages on cuneiform tablets. The school
+curriculum used for this purpose was derived from the Old Babylonian one (ca. 19th-16th century BC)
+and differs substantially from the curriculum used to teach the local language in the places in
+question.1 For the students in Hattuša, Emar, and Ugarit, school education according to the
+˘
+∗
+Leiden University: J.C.Fincke@hum.leidenuniv.nl This study is part of my research on The
+Second Phase of the School Curriculum in Syria and Anatolia as part of the project Transfer of Knowledge in
+a Cuneiform Culture, led by W.H. van Soldt and funded by the Nederlandse Organisatie voor
+Wetenschappelijk Onderzoek (NWO) in collaboration with the Leiden Institute for Area Studies (LIAS).
+1 At least from the Middle Hittite period onwards, Hittite scribes seem to have been taught to write
+Hittite texts and Akkadian translations of official documents, e.g. some of the international treaties, in
+cuneiform script as apprentices in the various scriptoria in Hattuša. Learning Akkadian and Sumerian seems
+˘
+to have been an additional training for fully educated Hittite scribes. For studies on the Mesopotamian
+cuneiform script in Hattuša and the schooling of Hittite scribes see e.g. Archi 2007, Beckman 1983 and 2001,
+˘
+Klinger 1998, 2003 and 2005, Lorenz and Rieken 2010, Torri 2008: 780, van den Hout 2005, 2009a, 87-96
+and 2009b, Wilhelm 1992. The Ugarit curriculum for the alphabetic script has been described by van Soldt
+86 J.C. FINCKE
+Mesopotamian model could mean learning a new script,2 but it certainly meant learning two new
+languages (see Figure 1). The school texts were written in Sumerian, an agglutinative, split
+ergative-language that is not related to any other known language, and in Akkadian, an east-Semitic
+language that developed into the two dialects Assyrian and Babylonian, the native languages of
+Mesopotamia in the second and first millennium BC. This means the students of these three cities
+on the periphery of Mesopotamia had to learn two languages from language families different from
+their own native tongues. Some of the students had already been raised bilingually, since another
+language had spread during the mid-second millennium BC to all three cities in question and could
+therefore easily be considered as the local tongue in each of the three cities: the Hurrian language,
+also an ergative agglutinative language, but not related to Sumerian.
+Language Dialect Language family
+School tablets Sumerian Language isolate
+(agglutinative – split
+ergative)
+School tablets Akkadian Assyrian East Semitic
+Babylonian
+Hattuša Hittite, Luwian Indo-European
+˘
+Ugarit Ugaritic West Semitic
+Emar Hittite Indo-European;
+Akkadian Babylonian with East Semitic
+strong Aramaic or Northwest Semitic
+Arabic influence West Semitic
+North-Syria, Hurrian Hurro-Urartian group
+Hittite kingdom, (ergative – agglutinative)
+Ugarit (?), Emar (?)
+Figure 1: The languages involved.
+Although the number of languages already spoken in all three cities was quite large, the
+need to learn Sumerian and Akkadian also was always present for some professions. Since
+Assyrians and Babylonians had always tried to expand to the west in order to get access to the
+Mediterranean Sea, for many periods of time, they ruled over some of the Syrian cities and
+1995b, 183-189. For Emar, only the school curriculum according to the Mesopotamian model is known; for
+this see Cohen 2009.
+2 The cuneiform script had already been introduced to the Hittites in the late 17th or early 16th
+century BC, see Van den Hout 2009b: 28-35. In addition to this writing system, the Hittites used the so-called
+Hittite hieroglyphs for writing the Luwian language; for the relation of Hittite to Luwian and both writing
+systems in the Hittite kingdom see e.g. van den Hout 2006. The Ugaritians had invented their own
+cuneiform-like script, which is an alphabetic script, for their native language, Ugaritic. For Emar, however,
+neither the native language nor a special script is known.
+SCHOOL CURRICULA FROM HATTUŠA, EMAR AND UGARIT 87
+˘
+imported their own administration to these occupied places. This administration, of course, used
+Akkadian for its documents. Akkadian became the lingua franca of the time and any contact
+between two countries where different languages were spoken was done in Akkadian. This is the
+reason why even the Hittites, who were never conquered by Assyrians or Babylonians, also learned
+the Akkadian language during the Late Bronze Age.
+The school curriculum these three Late Bronze Age cities used to learn Sumerian and
+Akkadian derived from the Mesopotamian one and accordingly consisted of two parts. During the
+first phase the pupils learned the cuneiform signs and wrote endless lists of words and compound
+words as well as short grammatical exercises, all of them monolingually in either Sumerian or
+Akkadian or bilingually in both languages. Occasionally, also a column in their own native
+language was added. The objective of the second phase of the school education was to acquire and
+master both languages by copying sequences of proverbs, narratives, letters, religious texts and the
+like. The students also learned how to compose a colophon, which was meant to give information
+about the name of the composition, about the scribe himself – his name and perhaps his profession
+or rank within the apprenticeship to become a scribe – and the purpose for which the tablets were
+written. The second phase of the school curriculum is the subject of the following study.
+3. ‘SCHOOL TEXTS’ IN THE CONTEXT OF THIS STUDY
+In order to reconstruct the school curriculum of each city, the school texts need to be studied. The
+school curriculum of the first phase of the school education can easily be reconstructed with help of
+the pupils’ school exercise tablets, because they have a distinct, inexperienced handwriting.3 When
+the students entered the second phase of their school education, their handwriting had become very
+elaborate; at first glance, the tablets of students do not differ from the ones written by fully
+educated scribes. The only possible way to learn about the qualification of the writer would be the
+colophon. Unfortunately, the relevant tablets from Hattuša have generally no colophon. There is
+˘
+only one exception: one tablet from Hattuša can be clearly identified as a school exercise text,
+˘
+because the writer explained in his colophon that he had written down an exercise given by his
+teacher.4 The text in question is a medical text, a text genre that is not common among the
+Mesopotamian school texts.
+The situation in the other two cities in question is slightly different. The school texts from
+Emar5 – all of them have been found at the same place, in the so-called Temple M1 (see § 5) –
+occasionally have a colophon. Among the Ugarit school texts6 only some of the ones found at the
+Maison aux Tablettes Littéraires have one. All the other texts could be either school exercise
+3 The cuneiform signs are coarse. The students made many mistakes, some of which they erased, but
+others stayed unrecognized on the tablets. The lines are unlevelled. These school exercise tablets have
+usually been destroyed or reused. Occasionally some survived in private tablet collections or at ancient
+‘schools’. For surveys on the Old Babylonian school curriculum of the first phase see especially Vanstiphout
+1995, Veldhuis 1997, Tinney 1999, and Robson 2001.
+4 KUB 37.1 (CTH 808).
+5 See Arnaud 1985 and 1987.
+6 See Arnaud 2007.
+88 J.C. FINCKE
+tablets written by students or tablets written by teachers or other independent scholars; any tablet of
+good quality was suitable to be kept in the relevant libraries for further reference and often was
+included in the tablet collections. Still, because any of them could in principle have been used for
+the education of students, in this research all Sumerian and Akkadian literary texts with
+compositions of Mesopotamian origin are regarded as school texts of the second phase of school
+education.7
+4. THE SECOND PHASE SCHOOL TEXTS FROM HATTUŠA
+˘
+The vast majority of school texts come from the lower city of Hattuša. Here, they were found
+˘
+mainly in three places: in temple 1, in the so-called ‘house on the slope’, and in the royal palace
+Büyükkale. At the same time, all three places also held Hittite tablet collections – archives and
+libraries – written by scribal apprentices (KAB.ZU.ZU) and fully qualified scribes.8 All three places
+can, therefore, be considered scriptoria where Hittite scribes were trained and – to a lesser extent –
+school education according to the Mesopotamian model took place.
+The corpus of second phase school texts from Hattuša consists of 477 tablets and fragments
+˘
+that represent 388 individual compositions. These compositions can be divided into six groups (see
+Figure 2).
+Number of Percentage Number of Percentage
+compositions tablets / fragments
+Text genres known from the 14 3.61 % 19 3.99 %
+Old Babylonian school curriculum
+Religious texts 59 15.21 % 78 16.35 %
+Medical texts 56 14.43 % 93 19.49 %
+Lists 5 1.29 % 5.5 1.15 %
+Divination 137 35.31 % 160.5 33.65 %
+Unclassifiable fragments 117 30.15 % 121 25.37 %
+Total 388 100 % 477 100 %
+Figure 2: Groups of second phase school texts from Hattuša.
+˘
+The group called ‘text-genres known from the Old Babylonian school curriculum’
+comprises proverbs, fables (not attested in Hattuša), so-called eduba-texts, letters, historical texts,
+˘
+narrative compositions such as myths and epics, and the composition ‘message of lú-dingir.ra’
+(see also below Figure 6). Students had already studied texts from these text-genres at school
+during the Old Babylonian period.9 Although the objective of the Old Babylonian school education
+7 See, however, Van den Hout 2005, 287-289 on the problem of defining the purpose of these texts
+found at different places in Hattuša.
+˘
+8 See Van den Hout 2002 and 2005. For the scribes attested at the ‘house on the slope’ see Torri
+2008.
+9 See e.g. Sjöberg 1975, Vanstiphout 1995, Veldhuis 1997, 61-66, Tinney 1999, Cunningham 2007.
+SCHOOL CURRICULA FROM HATTUŠA, EMAR AND UGARIT 89
+˘
+was to learn Sumerian,10 it is known that Akkadian – e.g. Babylonian letters11 – and bilingual12
+texts were also studied at school. In the mid-second millennium BC on the periphery of
+Mesopotamia, on the other hand, the basic objective was to learn Akkadian. Therefore, this group
+of school texts has Sumerian compositions as well as Akkadian or bilingual ones. In Hattuša, this
+˘
+group of texts is very small within the school curriculum of the second phase of school education,
+just 3.61 %. Furthermore, this group of texts also does not result in many multiple copies of
+individual compositions: only the Gilgameš-epic13 and the composition ‘message of lú-
+dingir.ra’have been copied twice or thrice (see below, Figure 6).
+Religious texts comprise descriptions of gods, hymns, prayers, and rituals as well as
+Sumerian, Akkadian and bilingual incantations. At 15.21 % (59 individual compositions) religious
+texts make up the third largest group of school texts in Hattuša. Many individual compositions have
+˘
+been copied more than once, which can be seen in the number of fragments that have been found
+(78 text fragments or 16.35 % of the total). This is no wonder considering the fact that, in general,
+Hittite religious texts make up about 80 % of all Hittite tablets unearthed in the Hittite capital.
+Religion played an immense part in Hittite society, and this is reflected in the school curriculum.
+Medical texts – describing ‘therapeutic-medical’ as well as ‘magical-religious’ treatments –
+form a group of texts unknown to the Old Babylonian school curriculum. In Hattuša, these texts
+˘
+make up 14.43 % of the school texts (56 compositions) and represent the fourth largest group.
+The group of lists assigned to the second phase of the school curriculum differs
+substantially from the lexical and grammatical lists read during the first phase. The five lists in
+question comprise lists of seeds of medicinal plants, lists of soldiers from various cities, and lists of
+eponyms, hapiru-people or gifts. This group of texts is at 1.29 % the smallest among the second
+˘
+phase school texts from Hattuša.
+˘
+Technically speaking, the divinatory texts should be grouped with the religious texts. The
+texts dealing with divination (137 compositions), however, make up the largest group within the
+school texts of Hattuša – more than 35 % – so that establishing a new group seemed a good idea.
+˘
+The last group is formed by the unidentified fragments that cannot even be classified
+according to one of the given groups of texts. Unfortunately, in Hattuša the fragments (117) make
+˘
+up the second largest group at 30.15 %. Since it is likely that future studies will result in joining
+fragments from this group to already established compositions, the number of attested
+compositions of the other groups of second phase school texts will not be changed sufficiently.
+All together, 388 different compositions can be established for the school texts from
+Hattuša that are represented by 477 tablets and fragments. Apart from the foreign ductus variants
+˘
+such as Middle Babylonian (101), Assyro-Mittanian (37), Mittanian (22), Middle-Assyrian (22),
+and Syrian ductus (4), the tablets are written in Old Hittite (5), Middle Hittite (75), and – in most
+10 Sjöberg 1975, 161-162, Vanstiphout 1979, 118-119 and 1995, 5-6, Waetzoldt 1989, 36, Tinney
+1999, 159 with reference to further bibliography.
+11 Kraus 1964, 16-39, Sjöberg 1975, 165.
+12 Bilingualism is e.g. attested for the school curriculum from Ur, see Tinney 1999, 167-168.
+13 For the reception of the Gilgameš-epic in Hatti see Beckman 2003 and Klinger 2005.
+˘
+90 J.C. FINCKE
+cases – in Neo-Hittite (151) script.14 The attested Hittite ductus variants cover a period of at
+minimum three hundred years. In this, the school texts from Hattuša differ considerably from the
+˘
+ones from Emar and Ugarit: the tablets from these two cities in Syria have most likely been written
+within just fifty years or less.
+5. THE SECOND PHASE SCHOOL TEXTS FROM EMAR
+Emar is located in Syria, as is Ugarit, but further to the east on the river Euphrates. All school texts
+of the second phase of the school education15 were found at one place: in the so-called temple M116
+in the citadel of Emar. The following four groups of texts are included in this part of the school
+curriculum (see Figure 3).
+Number of Percentage Number of Percentage
+compositions tablets / fragments
+Text genres known from the 9 6.92 % 17 7.98 %
+Old Babylonian school curriculum
+Religious texts 41 31.54 % 46 21.60 %
+Medical texts 1 0.77 % 1 0.47 %
+Lists – – – –
+Divination 79 60.77 % 149 69.95 %
+Unclassifiable fragments – – – –
+Total 130 100 % 213 100 %
+Figure 3: Groups of second phase school texts from Emar.17
+The group of ‘text-genres known from the Old Babylonian school curriculum’ from Emar
+consists of proverbs, fables and narrative compositions such as myths and epics or unidentified
+compositions. By contrast to Hattuša and Ugarit, letters and the composition ‘message of lú-
+˘
+dingir.ra’ are not attested in Emar (see also Figure 6). As is the case in Ugarit, so-called eduba-
+texts are missing in Emar. All together, this group of texts is at 6.92 % (9 compositions) the second
+smallest one among the second phase school texts. Still, the number of duplicates among this group
+is relatively high (17 fragments).
+In Emar, the group of religious texts of Mesopotamian origin comprises hymns, rituals and
+Akkadian and Sumerian incantations. Bilingual incantations are not attested. Considering the
+religious background of the find-spot of the school texts in Emar, the so-called Temple M1, it is no
+surprise to find that the group of religious texts is at 31.54 % (41 compositions) the second largest
+14 23 fragments have archaic sign forms that are close to the Old Babylonian ones, and 37 fragments
+are too small to establish the ductus.
+15 Published by Arnaud 1985 and 1987.
+16 For this building see Fleming 2000, 35-36 and Cohen 2009, 54-56.
+17 To facilitate comparison, groups not found in Emar but attested in Hattuša are included in the
+˘
+figure.
+SCHOOL CURRICULA FROM HATTUŠA, EMAR AND UGARIT 91
+˘
+one among the second phase school texts. Still, the number of duplicates is quite small (46
+fragments).
+There is only one medical text (0.77 %) attested among the second phase school texts in
+Emar.
+No lists other than lexical and grammatical ones from the first phase of school education
+have been found in Emar.
+The largest group is the divinatory texts at more than 60 % and numbering 79 compositions.
+This group of texts also has the largest number of duplicates.
+All together, there are 130 different compositions attested among the school texts from
+Ugarit, which is about double the number of school texts from Ugarit (62) and about one-third of
+those from Hattuša (388). In Emar, the tablets and fragments of the second phase school texts (213)
+˘
+are basically written in the Syro-Hittite ductus (130), but also in Syrian ductus (16), a mixed ductus
+combining Syrian and Syro-Hittite signs forms (4), or in Middle-Assyrian ductus (2); fifty
+fragments have not enough diacritic sign forms to establish the ductus. Second phase school texts
+with Middle Babylonian ductus have not been not found.
+6. THE SECOND PHASE SCHOOL TEXTS FROM UGARIT
+In Ugarit, which is located on the Syrian coast of the Mediterranean Sea, school texts18 were found
+in various houses within the city.19 These houses belonged to officials working for the city
+administration.20 The attestation of school texts in these places reveals that these officials educated
+pupils and students in their private houses and in so doing ran a kind of private ‘school’ in addition
+to their official duties.21 Most of these private schools in Ugarit seemed to have specialised in
+teaching certain text genres that cover more or less parts of the curriculum.22 This means that the
+students must have gone to different ‘schools’ depending on the lections they needed to learn. The
+school curriculum of the second phase of school education in Ugarit was comprised of the
+following five groups (Figure 4).
+In Ugarit, the group of ‘text-genres known from the Old Babylonian school curriculum’
+comprises proverbs, letters, fables, narrative compositions (such as myths and epics, or otherwise
+unidentified compositions) and the composition ‘message of lú-dingir.ra’. Contrary to Hattuša,
+˘
+so-called eduba-texts are not attested, but fables are added instead, as is the case in Emar. In
+general, this group of texts is at 40.32 % (25 compositions) the largest of the second phase school
+texts in Ugarit.
+18 Published by Arnaud 2007 (with reference to earlier publications).
+19 Van Soldt 1995b, 178.
+20 Van Soldt 1995b.
+21 For the origin of the teachers see e.g. Van Soldt 1995a, 205.
+22 Van Soldt 1995b, 179-180, 196-206 (Appendix I) and 207-208 (Appendix II).
+92 J.C. FINCKE
+Number of Percentage Number of Percentage
+compositions tablets / fragments
+Text genres known from the 25 40.32 % 33 45.83 %
+Old Babylonian school curriculum
+Religious texts 18 29.03 % 20 27.78 %
+Medical texts 5 8.07 % 5 6.94 %
+Lists 1 1.61 % 2 2.78 %
+Divination 13 20.97 % 12 16.67 %
+Unclassifiable fragments – – – –
+Total 62 100 % 72 100 %
+Figure 4: Groups of second phase school texts from Ugarit.
+Eighteen religious texts of Mesopotamian origin – hymns, prayers, and rituals as well as
+Sumerian and Akkadian incantations, but no bilingual ones – have been found in Ugarit. Only two
+compositions (one hymn and one Akkadian incantation) have been copied more than once, which is
+surprising since religious texts form the second largest group of school texts in this place.
+The group of medical texts is the second smallest group and comprises just five texts (8.07
+%), one with ‘therapeutic-medical’ and four with ‘magical-religious’ treatments.
+There is only one text that can be classified as a list (1.61 %), which is a library catalogue
+listing compositions in Sumerian and syllabic Sumerian.
+Divinatory texts make up the third largest group of second phase school texts in Ugarit. At
+20.97 % (13 compositions) this group is only slightly smaller than the group of religious texts
+(29.03 %). Still, there are no duplicates among the texts of this group attested in Ugarit.
+The second phase school texts from Ugarit consist of altogether 62 different compositions,
+which is less than one-sixth of the school texts from Hattuša (388) and about half of the number
+˘
+found in Emar (130). In Ugarit, the tablets and fragments of the second phase school texts (72) are
+basically written in Ugaritian ductus, either in its pure form (16) or mixed with either Middle
+Babylonian (18) or Middle-Assyrian (1) or both sign forms (4), or in Middle Babylonian ductus
+(28).
+7. COMPARISON BETWEEN THE THREE CITIES
+A comparison of the percentage of compositions attested for each of the text genres in the three
+cities in question results in the following (Figure 5).
+Hattuša has the largest number of school texts (388). Therefore it does not come as a
+˘
+surprise that they also represent the largest variety of groups of the second phase school texts as a
+whole. This is due to the unidentified and unclassifiable fragments which are attested only here.
+Although Emar has the second highest number of second phase school texts (130) among the cities
+in question, this corpus consists of the smallest number of groups, because there are no lists among
+the second phase school texts. The third city in question, Ugarit, has the smallest corpus of second
+phase school texts (62). Since the total number of attested compositions in each city varies very
+SCHOOL CURRICULA FROM HATTUŠA, EMAR AND UGARIT 93
+˘
+much, the percentage of each individual group among the complete corpus of each city represents
+the only figure suitable for comparison.
+Despite the fact that lists are only attested in Hattuša and Ugarit, and unidentified
+˘
+fragments only in Hattuša, the numbers given for Hattuša and Emar show more similarities than the
+˘ ˘
+ones for Ugarit compared with any of the other cities. In both Hattuša and Emar the groups of
+˘
+divination and religious texts are the largest (Hattuša: 35.31 %; Emar: 60.77 %) and second largest
+˘
+one (Hattuša: 15.21 %; Emar 31:54 %) if one considers only the groups of identified text genres. In
+˘
+Ugarit on the other hand, the group of religious texts (29.03 %) is not only larger than the one of
+divination (20.97 %), but these groups also represent just the second and third largest groups of
+texts. Furthermore, the group of ‘text genres known from the Old Babylonian school curriculum’ is
+the second smallest one in Hattuša (3.61 %) and Emar (6.92 %), whereas in Ugarit it is by far the
+˘
+largest one (40.32 %).
+Cities on the periphery Hattuša Emar Ugarit
+˘
+of Mesopotamia Percentage (number Percentage (number Percentage (number
+Text genre of compositions) of compositions) of compositions)
+Text genres known from the 3.61 % (14) 6.92 % (9) 40.32 % (25)
+Old Babylonian school curriculum
+Religious texts 15.21 % (59) 31.54 % (41) 29.03 % (18)
+Medical texts 14.43 % (56) 0.77 % (1) 8.07 % (5)
+Lists 1.29 % (5) – 1.61 % (1)
+Divination 35.31 % (137) 60.77 % (79) 20.97 % (13)
+Unclassifiable fragments 30.15 % (117) – –
+Total 100 % (388) 100 % (130) 100 % (62)
+Figure 5: Groups of second phase school texts from Hattuša, Emar and Ugarit.
+˘
+The only similarity between Hattuša and Ugarit can be found among the lists. In both cities
+˘
+the group of lists is the smallest one within the school curriculum of the second phase (Hattuša:
+˘
+1.29 %; Ugarit: 1.61 %); in Emar none of these have been found so far.
+Although the group of medical texts is attested in all three cities in question, this group
+shows the most dissimilarity. In Hattuša, medical texts make up the fourth largest group of second
+˘
+phase school texts (14.43 %). In Emar and Ugarit, this group of texts belongs to the smallest (Emar:
+0.77 %) and second smallest (Ugarit: 8.07 %) group of school texts of the second phase school
+education.
+The survey on the weighing of the different text genres among the second phase school
+texts reveals that all three cities have a clear emphasis on religious and divinatory texts. In Hattuša
+˘
+and Ugarit, both groups together form about 50 %, but in Emar they amount to more than 92 %.
+The so-called temple M1 in Emar seems to have run a school for priests and other temple personnel,
+as can also be seen in the colophons of the relevant texts that name the following professions:
+94 J.C. FINCKE
+diviner (LÚ ZU.ZU 23 or LÚ HAL 24), diviner of the Gods of Emar (LÚ HAL ša DINGIR MEŠ URUe-mar)25 and
+˘ ˘
+priest of Dagan (LÚ SANGA dda-gan)26.
+8. THE TEXT GENRES IN MORE DETAIL
+After surveying the general emphasis laid on the individual groups of second phase school texts a
+more detailed look at some of the text genres need to be taken. Those text genres or compositions
+that are attested in more than one city provide evidence of the school curriculum from which the
+curricula of the relevant cities are derived. First, the group of ‘text genres known from the Old
+Babylonian school curriculum’ will be examined in this respect (Figure 6).
+Cities on the periphery Hattuša Emar Ugarit
+˘
+of Mesopotamia Number of Number of Number of
+Text genre compositions compositions compositions
+Sagesse Syrienne – 1 1
+Proverbs Sagesse d’Ugarit – – 1
+Others 2 – 2
+Fables – 1 3
+edubba-texts 1 – –
+Letters Letter of lugal-ibila 1 – 1
+to lugal-nisag (Sumerian) (syllabic Sumerian;
+Akkadian)
+Myths Atram-hasīs 1 – 1
+˘
+Others 2 1 3
+Epics Gilgameš 1 (3 copies) 1 (2 copies) 1 (5 copies)
+Poem about early rulers – 1 1 (in 3 copies)
+‘Praise of the king’ – 1 1 (syllabic Sumerian)
+Others 1 – 2
+‘Message of lú-dingir.ra’ 1 (2 copies) – 1 (copy from Hattuša)
+˘
+Others 4 3 7
+Total 14 (3.61 %) 9 (6.92 %) 25 (40.32 %)
+Figure 6: ‘Text genres known from the Old Babylonian school curriculum’ – individual
+compositions.
+23 Msk. 74153 = Emar VI.4 no. 767.
+24 Msk. 74212 = Emar VI.4 no. 698.C and possibly also to be restored in Msk. 7491b = Emar VI.4
+no. 705.
+25 Msk. 74296a = Emar VI.4 no. 611.A, which can also be restored in Msk. 731077a+b = Emar VI.4
+no. 698.A.
+26 Msk. 74243 = Emar VI.4 no. 775.
+SCHOOL CURRICULA FROM HATTUŠA, EMAR AND UGARIT 95
+˘
+Although the weighing of this group of texts in the three relevant cities points to a similar
+emphasis in Hattuša and Emar, where it is the second smallest group in both cases, as opposed to
+˘
+Ugarit, where it is the largest group (see Figure 5), there are only similarities between Hattuša and
+˘
+Ugarit when it comes to individual compositions, but none between Hattuša and Emar: three
+˘
+compositions (‘letter of lugal-ibila to lugal-nisag’, the Atram-hasīs story and the ‘message
+˘
+of lú-dingir.ra’) are attested only in Hattuša and Ugarit. It is remarkable that one copy of the
+˘
+‘message of lú-dingir.ra’ from Hattuša ended up in Ugarit, but was never copied by any
+˘
+Ugaritian scribe.
+Contrary to the result of the general emphasis of this group of school texts in the three
+cities (Figure 5), there is much conformity between Emar and Ugarit when it comes to individual
+compositions. Three compositions (the proverb collection ‘Sagesse Syrienne’ and the narratives
+‘Poem about early rulers’ and ‘Praise of the king’) are attested only in Emar and Ugarit, but not in
+Hattuša. The same is true for the text genre of fables. The so-called edubba-texts are only attested
+˘
+in Hattuša, but not in the two Syrian cities.
+˘
+Only one composition is attested in all three cities in question: the narrative about the
+ancient king of Uruk seeking eternal life, the Gilgameš-epic27. It is, however, not the same version
+or tablet within the series of which a copy had been brought to the different cities. Hattuša has a
+˘
+late Old Babylonian or early Middle Babylonian version,28 while Emar29 and Ugarit30 have a
+Middle Babylonian one. Emar provides the stories that later entered tablets IV and VI, and Ugarit
+the ones of the later tablets I, V and XI.
+Cities on the periphery Hattuša Emar Ugarit
+˘
+of Mesopotamia Number of Number of Number of
+Text genre compositions compositions compositions
+(percentage of (percentage of (percentage of
+all compositions) all compositions) all compositions)
+General description of gods 1 (0.26 %) – –
+Hymns 10 (2.58 %) 2 (1.54 %) 7 (11.29 %)
+Prayers 6 (1.55 %) – 1 (1.61 %)
+Rituals 9 (2.32 %) 30 (23.08 %) 2 (3.23 %)
+Akkadian 4 (1.03 %) 3 (2.31 %) 6 (9.67 %)
+Incantations Sumerian 3 (0.77 %) 6 (5.61 %) 2 (3.23 %)
+Bilingual 13 (3.35 %) – –
+Unidentified 13 (3.35 %) – –
+Total 14 (3.61 %) 9 (6.92 %) 25 (40.32 %)
+Figure 7: Religious texts – texts genres.
+27 For this epic see George 2003; for the Hittite versions see also above note 13.
+28 See George 2003, 24-26, 306-326; see also the literature quoted in note 13.
+29 See George 2003, 326-339.
+30 See AuOr Suppl. 23, nos. 42-45.
+96 J.C. FINCKE
+So far, no individual religious composition has been identified that is attested in more than one of
+the cities in question. Therefore, only the emphasis that is laid on certain text genres of this group
+within the school curricula of these three cities can be compared. The group of religious texts
+31 32
+consists of general religious texts, hymns, prayers, rituals, and incantations that were not
+embedded in rituals. In Hattuša and Ugarit, incantations form the largest group (Hattuša: 5.15 %;
+˘ ˘
+Ugarit: 12.9 %), followed by the hymns (Hattuša: 2.58 %; Ugarit: 11.29 %). In Emar, on the other
+˘
+hand, rituals form the largest number (23.08 %), followed by incantations (7.92 %). Another
+similarity between Hattuša and Ugarit is the prayers that are only attested in these two cities
+˘
+(Hattuša: 1.55 %; Ugarit: 1.61 %) but not for Emar.
+˘
+As for the incantations that are not part of the description of a ritual, the high percentage of
+bilingual ones in Hattuša (3.35 %) is remarkable, whereas the students in Emar and Ugarit
+˘
+apparently did not study these kinds of incantation, but only monolingual Akkadian or Sumerian
+ones.
+Among the groups of medical texts and lists there is no overlap at all. The medical texts are in most
+cases much too fragmentary in their state of preservation to identify duplicates in the corpora of the
+three cities. The lists of the second phase of the school education, on the other hand, are well
+preserved, but their content is too diverse to be compared with each other (see above, § 4 for
+Hattuša and § 6 for Ugarit; Emar has no lists).
+˘
+The group of divinatory texts is as complex as the one of religious texts (see above). Only for two
+compositions an attestation in two cities can be established. One text from Emar33 is a duplicate of
+one from Hattuša34 with omens based on the behaviour of the lamb while it is being slaughtered.35
+˘
+One fragmentary text with celestial omens regarding solar eclipses found in Ugarit36 and a similar
+text from Hattuša37 seem to be duplicates – at least for one omen.38 In view of the high number of
+˘
+divinatory texts found in Hattuša (137) it does not come as a surprise that Hattuša has a copy of
+˘ ˘
+both divinatory texts in question.
+Apart from these duplicates an analysis of the focus given to the various divination
+methods in these three cities produces the following result. As is the case with the general weighing
+of divinatory texts within the school curricula of Hattuša and Emar – in both cities divination is the
+˘
+largest group (see above, § 4, § 5, and Figure 5) – also the focus within the corpus of divinatory
+texts is the same; in both, Hattuša and Emar, extispicy (marked in light grey in Figure 8) has the
+˘
+31 The gods named in the hymns are in Hattuša: Adad, Šamaš; in Ugarit: Šamaš, messengers of Ea
+˘
+and Šamaš, Marduk, Enki/Ea; in Emar: Šamaš, Enlil.
+32 The gods named in the prayers are in Hattuša: Adad, Ištar, Šamaš, Ṣarpanītu, and gods of the
+˘
+night; in Ugarit: Enlil or Aššur (to be restored). In Emar no prayers have been preserved.
+33 Emar VI.4 698.A-F.
+34 KBo 36, 47 (CTH 560.I [1]).
+35 See Cohen 2007.
+36 AuOr-Suppl 23 no. 7, edited by Arnaud 1996.
+37 KUB IV 63 (CTH 534.I.1.A), edited by Riemschneider 2004, 64-55.
+38 See Arnaud 1996.
+SCHOOL CURRICULA FROM HATTUŠA, EMAR AND UGARIT 97
+˘
+highest number (in total 15.73 % in Hattuša and 14.62 % in Emar). In Ugarit, on the other hand, the
+˘
+emphasis is on the birth omens (6.46 %), which make up the fourth largest group in Hattuša (2.84
+˘
+%) and the third largest one in Emar (6.15 %). The second largest group in Hattuša is the diagnostic
+˘
+omens (4.38 %), which is among the minor groups in Emar (3.84 %) and absent in Ugarit.
+Cities on the periphery Hattuša Emar Ugarit
+˘
+of Mesopotamia Number of Number of Number of
+Text genre compositions compositions compositions
+(percentage of (percentage of (percentage of
+all compositions) all compositions) all compositions)
+Celestial omens (EAE) 13 (3.35 %) 17 (13.08 %) 3 (4.84 %)
+Terrestial omens (šumma ālu ?) – 1 (0.77 %) 1 (1.61 %)
+Omens from a ram’s behaviour 1 (0.26 %) – –
+(šumma ālu ?)
+Diagnostic omens (SA.GIG) 17 (4.38 %) 5 (3.84 %) –
+Birth omens (šumma izbu) 11 (2.84 %) 8 (6.15 %) 4 (6.46 %)
+Oil omens 2 (0.51 %) – –
+Physiognomic omens 4 (1.03 %) 1 (0.77 %) –
+Monthly omens (iqqur īpuš) 2 (0.51 %) 3 (2.31 %) 1 (1.61 %)
+Hemerologies 4 (1.03 %) – –
+Babylonian Almanac – 1 (0.77 %) 1 (1.61 %)
+Liver models 38 (9.79 %) 2 (1.54 %) –
+Liver omens 20 (5.16 %) 16 (12.31 %) 1 (1.61 %)
+Omens from the behaviour of a lamb 1 (0.26 %) 1 (0.77 %) –
+Omens from a sacrificial lamb 1 (0.26 %) – –
+Extispicy procedure 1 (0.26 %) – –
+Fragments 22 (5.67 %) 24 (18.46 %) 1 (1.61 %)
+Total 137 (35.31 %) 79 (60.77 %) 13 (20.97 %)
+Figure 8: Divination – text genres.
+9. SUMMARY AND CONCLUSIONS
+The corpus of second phase school texts varies in large number between the cities in question. The
+total is 388 (Hattuša) : 130 (Emar) : 62 (Ugarit) (see § 7), which makes a ratio of about 6 : 2 : 1.
+˘
+Consequently, the corpus from Hattuša has the largest variety, and many overlaps between two
+˘
+cities involve Hattuša.
+˘
+When it comes to assessing the five groups of school texts (see above, § 7 and Figure 5), the largest
+number of them in both Hattuša and Emar is in the group of divination texts, and next to that in the
+˘
+98 J.C. FINCKE
+group of religious texts.39 This prominence of religious texts in Hattuša mirrors the number of
+˘
+Hittite tablets unearthed in the Hittite capital, which are generally said to form about 80 %.
+Religion clearly played an immense part in Hittite society, which had an effect also on the
+cuneiform school curriculum. The emphasis on these groups of texts in the Emar curriculum can be
+interpreted in the light of the find-spot of the school texts: the so-called Temple M1, which also
+housed the archive of a priest, and seems to have run a school for priests and temple personnel (see
+above, § 7).
+In Ugarit, the focus is clearly on the group of ‘text genres known from the Old Babylonian
+school curriculum’. The secondary group is made up of the religious and divinatory texts. All three
+groups together form more than 90 % of the school curriculum, which does not leave much room
+for other text genres. This would suggest that the curriculum of Ugarit was much closer to the
+Mesopotamian model than to the curriculum of the other two cities.
+Medical texts, which form quite a large group in Hattuša (14.43 % or the third largest
+˘
+group), play almost no role in Emar (0.77 %) and Ugarit (8,07 %).
+So far, only two groups of school texts produce individual compositions that are attested in more
+than one city (see above, § 8): the ‘text genres known from the Old Babylonian school curriculum’
+(7 compositions, hereafter marked with ‘a’) and divination (one composition, hereafter marked
+with ‘b’). Only one composition is part of all three school curricula, albeit in different versions: the
+Gilgameš-epic (group a).
+Contrary to the similar emphasis on the groups of school texts in Hattuša and Emar, there is
+˘
+almost no similarity between these two cities when it comes to the overlapping of individual
+compositions. Only one composition from the group of divination (b) has been found in both
+Hattuša and Emar.
+˘
+Although there is not much similarity in the general emphasis on the groups of school texts
+between Hattuša and Ugarit apart from the religious texts (in both, incantations have the largest
+˘
+number followed by hymns; prayers are only attested in these two cities, not in Emar; see Figure 7),
+three compositions are attested only at these two places (all from group a). The copy of one of them
+that was written in Hattuša even ended up in Ugarit, but was never copied again in Syria.
+˘
+There are only three compositions that are attested in both Ugarit and Emar (group a) but
+not in Hattuša. Also for two text genres from the group of ‘text genres known from the Old
+˘
+Babylonian school curriculum’ an overlap between both cities can be found: fables are only
+attested in Emar and Ugarit, but the so-called edubba-texts are absent in both cities (see Figure 6).
+The results of this study can be explained in the light of the political and geographical situation.
+Considering the political circumstances in Syria during the Late Bronze Age, the given results are
+easy to explain: during the thirteenth and twelfth century BC, Emar was subject to the king of
+Carchemiš, who was a Hittite client-king.40 The political influence from Hattuša not only left traces
+˘
+39 This is the case if one neglects the group of unidentified and unclassified fragments only attested
+in Hattuša.
+˘
+40 See e.g. Yamada 2006.
+SCHOOL CURRICULA FROM HATTUŠA, EMAR AND UGARIT 99
+˘
+in the ductus of the cuneiform script,41 but obviously also in the Emar school curriculum. This
+influence, however, did not necessarily result in the exchange of school texts, scholars or teachers,
+but in the general focus of the school curriculum.
+In Ugarit, the situation was different: from the thirteenth century onwards, Ugarit had to
+pay tribute to the Hittite king, but remained independent with its own local kings and culture,
+which can also be seen in the general outline of the school curriculum. Nevertheless, the alliance
+between both cities led to an exchange of school texts and probably also of scholars.
+Regardless of the political situation, Emar and Ugarit were both Syrian cities. Therefore,
+both cities belonged to the same cultural sphere.42 Even as regards the transmission of foreign
+literature, Emar and Ugarit were closer together than any of these cities and Hattuša. One of the
+˘
+routes from Babylonia to the Hittite kingdom ran via Syria. Scholars who took this route passed
+through Syria; some of them even stayed. It is therefore not surprising to find compositions attested
+in Emar and Ugarit, but not in Hattuša.
+˘
+ABBREVIATIONS
+AuOr Suppl. 23 see Arnaud 2007.
+Emar VI.4 see Arnaud 1987.
+CTH Emmanuel Laroche, 1971, Catalogue des textes hittites, Paris.
+KBo 1923-, Keilschrifttexte aus Boghazköi, Berlin.
+KUB 1921-1990, Keilschrifturkunden aus Boghazköi, Berlin.
+Msk. Meskene, siglum of the findings from Meskéné-Emar.
+BIBLIOGRAPHY
+Archi, Alfonso, 1982, “Hethitische Mantik und ihre Beziehungen zur mesopotamischen Mantik”, in:
+Mesopotamien und seine Nachbarn. Politische und kulturelle Wechselbeziehungen im Alten Vorderasien
+vom 4. bis 1. Jahrtausend, eds. H.-J. Nissen and J. Renger, Berliner Beiträge zum Vorderen Orient 1-I,
+Berlin, 279-293.
+―, 2007, “Transmission of Recitative Literature by the Hittites”, Altorientalische Forschungen 34, 186-203.
+Arnaud, Daniel, 1985, Textes sumériens et accadiens, Recherches au pays d’Aštata EMAR VI.1-3, Paris.
+―, 1987, Textes de la bibliothèque: transcriptions et traductions, Recherches au pays d’Aštata EMAR VI.4,
+Paris.
+―, 1996 , “L’édition ougaritaine de la série astrologique « Éclipses du dieu-Soleil »”, Semitica 45, 7-18.
+―, 2007, Corpus des textes de bibliothèque de Ras Shamra-Ougarit en sumérien, babylonien et assyrien,
+Aula Orientalis Supplementa 23, Barcelona.
+Beckman, Gary, 1983, “Mesopotamians and Mesopotamian Learning at Hattuša”, Journal of Cuneiform
+˘
+Studies 35. 97-114.
+41 The Hittite cuneiform script influenced the local Syrian ductus, which then became a new style,
+the so-called ”Syro-Hittite” type.
+42 See e.g. Archi 1982, 281-282, although he considers the cultural sphere of Anatolia and Syria as
+“ein einziges Randgebiet, das syrisch-anatolische”, which was “innerlich sehr gegliedert” (281).
+100 J.C. FINCKE
+―, 2001, “Sargon and Naram-Sin in Hatti: Reflections of Mesopotamian Antiquity among the Hittites”, in:
+˘
+Die Gegenwart des Altertums. Formen und Funktionen des Altertumsbezugs in den Hochkulturen der
+Alten Welt, eds. D. Kuhn and H. Stahl, Heidelberg, 85-91.
+―, 2003, “Gilgamesh in Hatti”, in: Hittite Studies in Honor of H. A. Hoffner Jr, eds. G. Beckman, R. Beal
+and G. McMahon, Winona Lake, 37-57.
+Cohen, Yoram, 2007, “Akkadian Omens from Hattuša and Emar: The šumma immeru and šumma ālu
+Omens”, Zeitschrift für Assyriologie 97, 233-251.
+―, 2009, The scribes and scholars of the city of Emar in the late Bronze age, Winona Lake.
+Cunningham, Graham, 2007, “A Catalogue of Sumerian”, in: Analysing Literary Sumerian. Corpus Based
+Approaches, eds. J. Ebeling and G. Cunningham, London, 351-412.
+George, Andrew, 2003, The Babylonian Gilgamesh Epic. Introduction, Critical Edition and Cuneiform Text,
+Oxford.
+Fleming, Daniel, 2000, Time at Emar. The Cultic Calendar and the Rituals from the Diviner’s House,
+Mesopotamian Civilizations 11, Winona Lake.
+Klinger, Jörg, 1998, “‘Wer lehrte die Hethiter das Schreiben?’ Zur Paläographie früher Texte in akkadischer
+Sprache aus Boğazköy: Skizze einiger Überlegungen und vorläufiger Ergebnisse”, in: III. Uluslararası
+Hititoloji Kongresi Bildirileri, Çorum 16-22 Eylül 1996 - Acts of the IIIrd International Congress of
+Hittitology, Çorum, September 16-22, 1996, eds. S. Alp and A. Süel, Ankara, 365-375.
+―, 2003, “Zur Paläographie akkadischsprachiger Texte aus Hattuša”, in: Hittite Studies in Honor of Harry A.
+˘
+Hoffner Jr. on the Occasion of His 65th Birthday, eds. G. Beckman, R. Beal and G. McMahon, Winona
+Lake, 2003, 237-248.
+―, 2005, “Die hethitische Rezeption mesopotamischer Literatur und die Überlieferung des Gilgameš-Epos in
+Hattuša”, in: Motivation und Mechanismen des Kulturkontaktes in der späten Bronzezeit, ed. D. Prechel,
+˘
+Eothen 13, Florence, 103-127.
+Kraus, Fritz Rudolf, 1964, “Briefschreibübungen im altbabylonischen Schulunterricht”, Jaarbericht “Ex
+Oriente Lux” 16, 16-39.
+Lorenz, Jürgen, and Elisabeth Rieken, 2010, “Überlegungen zur Verwendung mythologischer Texte bei den
+Hethitern”, in: Festschrift für Gernot Wilhelm anläßlich seines 65. Geburtstages am 28. Januar 2010,
+ed. J.C. Fincke, Dresden, 217-234.
+Riemschneider, Kaspar K. 2004, Die akkadischen und hethitischen Omentexte aus Boğazköy, Dresdner
+Beiträge zur Hethitologie Band 12, 2004 (post mortem publication of the manuscript of his
+Habilitationsschrift from 1973 (?); for this date see Jeanette C. Fincke, “Zu den hethitischen
+Übersetzungen babylonischer Omentexte; die kalendarischen und astrologischen Omina in KUB VIII
+35”, Studi Micenei ed Egeo-Anatolici 46, 2004, 215-241, 216, note 2).
+Robson, Eleanor, 2001, “The Tablet House: A Scribal School in Old Babylonian Nippur”, Revue
+d’assyriologie et d’archéologie orientale 95, 39-66.
+Sjöberg, Åke W., 1975, “The Old Babylonian Eduba”, in: Sumerological Studies in Honor of Thorkild
+Jacobsen on His Seventieth Birthday, June 7, 1975, ed. St.J. Lieberman, Assyriological Studies 20,
+Chicago, 159-179.
+Tinney, Steve, 1999, “On the Curricular Setting of Sumerian Literature”, Iraq 61, 159-172.
+Torri, Giulia, 2008, “The Scribes of the House on the Slope”, Studi Micenei ed Egeo-Anatolici 50, 771-782.
+Van den Hout, Theo, 2002, “Another View of Hittite Literature”, in: Anatolia Antica. Studi in memoria di
+Fiorella Imparati II, eds. St. de Martino and F. Pecchioli Daddi, Eothen 11, Florence, 857-878.
+―, 2005, “On the Nature of the Tablet Collections of Hattuša”, Studi Micenei ed Egeo-Anatolici 47, 277-289.
+˘
+―, 2006, “Institutions, Vernaculars, Publics: The Case of Second-Millennium Anatolia”, in: Margins of
+Writing, Origins of Cultures, ed. S.L. Sanders, Chicago, 217-256.
+SCHOOL CURRICULA FROM HATTUŠA, EMAR AND UGARIT 101
+˘
+―, 2009a, “Reflections on the Origins and Development of the Hittite Tablet Collections in Hattuša and
+˘
+Their Consequences for the Rise of Hittite Literacy”, in: Central-North Anatolia in the Hittite Period –
+New Perspectives in Light of Recent Research. Acts of the International Conference Held at the
+University of Florence (7-9 February 2007), eds. F. Pecchioli Daddi, G. Torri and C. Corti, Studia
+Asiana 5, Rome 2009, 71-96.
+―, 2009b, “A Century of Hittite Text Dating and the Origins of the Hittite Cuneiform Script”, Incontri
+linguistici 32, 11-35.
+Van Soldt, Wilfred H., 1995a, “The Akkadian of Ugarit: Lexicographical Aspects”, Studi epigrafici e
+linguistici sul Vicino Oriente antico 12, 205-215.
+―, 1995b, “Babylonian Lexical, Religious and Literary Texts and Scribal Education at Ugarit and its
+Implications for the Alphabetic Texts”, in: Ugarit – Ein ostmediterranes Kulturzentrum im Alten Orient.
+Ergebnisse und Perspektiven der Forschung. I. Ugarit und seine altorientalische Umwelt, eds. M.
+Dietrich and O. Loretz, Abhandlungen zur Literatur Alt-Syrien-Palästinas 7, Münster, 171-212.
+Vanstiphout, H. L. J., 1979, “How Did They Learn Sumerian”, Journal of Cuneiform Studies 31, 118-126.
+―, 1995, “On the Old Babylonian Eduba Curriculum” in: Centres of Learning. Learning and Location in
+Pre-Modern Europe and the Near East, eds. J.W. Drijvers and A.A. MacDonald, Leiden and New York,
+3-16.
+Veldhuis, Nicolaas C., 1997, Elementary Education at Nippur. The Lists of Trees and Wooden Objects,
+Groningen.
+Yamada, Masamichi Yamada, 2006, “The Hittite Administration in Emar: The Aspect of Direct Control”,
+Zeitschrift für Assyriologie 96, 222-234.
+Waetzold, Hartmut, 1989, “Der Schreiber als Lehrer in Mesopotamien”, in: Schreiber, Magister, Lehrer. Zur
+Geschichte und Funktion eines Berufsstandes, eds. J.G. Prinz von Hohenzollern and M. Liedtke, Bad
+Heilbrunn.
+Wilhelm, Gernot, 1992, “Zur Babylonisch-Assyrischen Schultradition in Hattuša”, in: Uluslararası 1.
+˘
+Hititoloji Kongresi Bildirileri, (19-21 Temmuz 1990), ed. S. Alp, Ankara, 83-93.
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

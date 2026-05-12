@@ -1,0 +1,786 @@
+[
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "Jeremy A."
+      },
+      {
+        "family": "Cunningham",
+        "given": "Graham"
+      },
+      {
+        "family": "Flückiger-Hawker",
+        "given": "Eleanor"
+      },
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      },
+      {
+        "family": "Zólyomi",
+        "given": "Gábor"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "The Electronic Text Corpus of Sumerian Literature"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "note": [
+      "Accessed May 11, 2012."
+    ],
+    "url": [
+      "http://www-etcsl.orient.ox.ac.uk"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Böck",
+        "given": "Barbara"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Überlegungen zu einem Kultfest der altmesopotamischen Göttin Inanna"
+    ],
+    "volume": [
+      "51"
+    ],
+    "pages": [
+      "20–46"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Numen"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "The Texts from Meskene-Emar"
+    ],
+    "volume": [
+      "7"
+    ],
+    "pages": [
+      "5–25"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Aula Orientalis"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Ancient Mesopotamian Lexicography"
+    ],
+    "container-title": [
+      "Civilizations of the Ancient Near East"
+    ],
+    "editor": [
+      {
+        "family": "Sasson",
+        "given": "Jack M."
+      }
+    ],
+    "pages": [
+      "2305–2314"
+    ],
+    "location": [
+      "New York"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Clayden",
+        "given": "Tim"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Kurigalzu I and the Restoration of Babylonia"
+    ],
+    "volume": [
+      "58"
+    ],
+    "pages": [
+      "109–121"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "Yoram"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Kidin-Gula – The Foreign Teacher at the Emar Scribal School"
+    ],
+    "volume": [
+      "98"
+    ],
+    "pages": [
+      "81–100"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revue d’Assyriologie et d’Archéologie Orientale"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Feldman",
+        "given": "Marian H."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Diplomacy by Design: Luxury Arts and an ‘International Style’ in the Ancient Near East, 1400–1200 BCE"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Finkelstein",
+        "given": "Jacob J."
+      }
+    ],
+    "date": [
+      "1953"
+    ],
+    "title": [
+      "Cuneiform Texts from Tell Billa"
+    ],
+    "volume": [
+      "7"
+    ],
+    "pages": [
+      "111–176"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fleming",
+        "given": "Daniel E."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "The Installation of Baal’s High Priestess at Emar: A Window on Ancient Syrian Religion"
+    ],
+    "volume": [
+      "42"
+    ],
+    "location": [
+      "Atlanta"
+    ],
+    "publisher": [
+      "Scholars Press"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Harvard Semitic Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fleming",
+        "given": "Daniel E."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Time at Emar: The Cultic Calendar and the Rituals from the Diviner’s Archive"
+    ],
+    "volume": [
+      "11"
+    ],
+    "location": [
+      "Winona Lake, IN"
+    ],
+    "publisher": [
+      "Eisenbrauns"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mesopotamian Civilizations"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Foster",
+        "given": "Benjamin R."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Before the Muses: An Anthology of Akkadian Literature"
+    ],
+    "location": [
+      "Bethesda, MD"
+    ],
+    "publisher": [
+      "CDL Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Izre’el",
+        "given": "Shlomo"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "The Amarna Scholarly Tablets"
+    ],
+    "volume": [
+      "9"
+    ],
+    "location": [
+      "Groningen"
+    ],
+    "publisher": [
+      "Styx"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Cuneiform Monographs"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kramer",
+        "given": "Samuel Noah"
+      },
+      {
+        "family": "Baqir",
+        "given": "Taha"
+      },
+      {
+        "family": "Levy",
+        "given": "Solon J."
+      }
+    ],
+    "date": [
+      "1948"
+    ],
+    "title": [
+      "Fragments of a Diorite Statue of Kurigalzu in the Iraq Museum"
+    ],
+    "volume": [
+      "4"
+    ],
+    "pages": [
+      "1–38"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sumer"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lenzi",
+        "given": "Alan"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Secrecy and the Gods: Secret Knowledge in Ancient Mesopotamia and Biblical Israel"
+    ],
+    "container-title": [
+      "State Archives of Assyria Studies 19"
+    ],
+    "location": [
+      "Helsinki"
+    ],
+    "publisher": [
+      "Neo-Assyrian Text Corpus Project"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Machinist",
+        "given": "Peter E."
+      }
+    ],
+    "date": [
+      "1984",
+      "1984"
+    ],
+    "title": [
+      "The Assyrians and Their Babylonian Problem: Some Reflections"
+    ],
+    "container-title": [
+      "Jahrbuch des Wissenschaftskollegs zu"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [
+      "353–364"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Maul",
+        "given": "Stefan M."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Marduk, Nabû und der assyrische Fall: Die Geschichte eines sumerischen Šuʾilas"
+    ],
+    "container-title": [
+      "In tikip santakki mala basmu ... Festschrift für Rykle Borger",
+      "Cuneiform Monographs"
+    ],
+    "editor": [
+      {
+        "family": "Maul",
+        "given": "Stefan M."
+      }
+    ],
+    "pages": [
+      "159–197"
+    ],
+    "volume": [
+      "10"
+    ],
+    "location": [
+      "Groningen"
+    ],
+    "publisher": [
+      "Styx"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Moran",
+        "given": "William L."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "The Amarna Letters"
+    ],
+    "location": [
+      "Baltimore"
+    ],
+    "publisher": [
+      "Johns Hopkins University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Myhrman",
+        "given": "David W."
+      }
+    ],
+    "date": [
+      "1911"
+    ],
+    "title": [
+      "Babylonian Hymns and Prayers. Publications of the Babylonian Section 1/1"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University of Pennsylvania"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pedersén",
+        "given": "Olof"
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Archives and Libraries in the City of Assur: A Survey of the Material from the German Excavations. Part 1"
+    ],
+    "volume": [
+      "6"
+    ],
+    "location": [
+      "Uppsala"
+    ],
+    "publisher": [
+      "Almqvist & Wiksell"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Studia Semitica Upsaliensia"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sallaberger",
+        "given": "Walther"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Review of Fleming 1992"
+    ],
+    "volume": [
+      "86"
+    ],
+    "pages": [
+      "140–147"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Slanski",
+        "given": "Kathryn E."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Classification, Historiography and Monumental Authority: The Babylonian Entitlement narû (kudurrus"
+    ],
+    "volume": [
+      "52"
+    ],
+    "pages": [
+      "95–114"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mieroop",
+        "particle": "Van de"
+      },
+      {
+        "given": "Marc"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "A History of the Ancient Near East"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Blackwell"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Soldt",
+        "particle": "Van"
+      },
+      {
+        "family": "H",
+        "given": "Wilfred"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Nabû-šallim, an Assyrian Scribe Working in the ‘Southern Palace’ at Ugarit"
+    ],
+    "container-title": [
+      "Veenhof Anniversary Volume"
+    ],
+    "editor": [
+      {
+        "family": "Soldt",
+        "given": "Wilfred H.",
+        "particle": "van"
+      },
+      {
+        "others": true
+      }
+    ],
+    "pages": [
+      "429–444"
+    ],
+    "location": [
+      "Leiden"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek C."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Kassite Exercises: Literary and Lexical Extracts"
+    ],
+    "volume": [
+      "52"
+    ],
+    "pages": [
+      "67–94"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek C."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Kurigalzu’s Statue Inscription"
+    ],
+    "volume": [
+      "60"
+    ],
+    "pages": [
+      "25–51"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Weidner",
+        "given": "Ernst F."
+      }
+    ],
+    "date": [
+      "1952"
+    ],
+    "title": [
+      "Die Bibliothek Tiglatpilesers I"
+    ],
+    "volume": [
+      "16"
+    ],
+    "pages": [
+      "197–215"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Archiv für Orientforschung"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Westenholz",
+        "given": "Joan G."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Sing a Song for Šulgi"
+    ],
+    "container-title": [
+      "An Experienced Scribe Who Neglects Nothing"
+    ],
+    "editor": [
+      {
+        "family": "Sefati",
+        "given": "Yitschak"
+      },
+      {
+        "others": true
+      }
+    ],
+    "pages": [
+      "343–373"
+    ],
+    "location": [
+      "Bethesda, MD"
+    ],
+    "publisher": [
+      "CDL Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiggermann",
+        "given": "Frans A.M."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "A Babylonian Scholar in Assur"
+    ],
+    "container-title": [
+      "Studies in Ancient Near Eastern World View and Society"
+    ],
+    "editor": [
+      {
+        "family": "Spek",
+        "given": "R.J.",
+        "particle": "van der"
+      }
+    ],
+    "pages": [
+      "203–234"
+    ],
+    "location": [
+      "Bethesda, MD"
+    ],
+    "publisher": [
+      "CDL Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamada",
+        "given": "Masamichi"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "The Hittite Administration in Emar: An Aspect of Direct Control"
+    ],
+    "volume": [
+      "96"
+    ],
+    "pages": [
+      "222–234"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+# METADATA
+author: Harper R.F.
+source_id:Harper1892_AssyrianAn
+title: Assyrian And Babylonian Letters Belonging To The K. Collection Of The British Museum
+Year: 1892
+Source_ID:  Harper1892_AssyrianAn
+Source_Type: book: 
+Pages: 
+Web:
+Published: THE UNIVERSITY OF CHICAGO PRESS
+
+# TEXT
+
+ASSYRIAN
+AND
+BABYLONIAN LETTERS
+BELONGING TO
+THE K. COLLECTION OF THE
+BRITISH MUSEUM
+.
+BY
+ROBERT FRANCIS HARPER
+,
+OF THE UNIVERSITY OF CHICAGO .
+PART I.
+THE UNIVERSITY OF CHICAGO PRESS.
+LUZAC AND CO., LONDON.
+D. C. HEATH AND CO., CHICAGO.
+1892
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

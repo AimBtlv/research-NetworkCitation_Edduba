@@ -1,0 +1,1050 @@
+# METADATA
+author: Robson E.
+source_id:Robson2001_TheTabletH
+title: The Tablet House: A Scribal School In Old Babylonian Nippur
+Year: 2001 
+Source_ID:  Robson2001_TheTabletH
+Source_Type: Article in Book: Revue d'Assyriologie et d'archéologie orientale, 2001, Vol. 95, No. 1
+Source_Role,Step_distance:2 ,3,4 
+Pages: 39-66
+Web:  
+
+# TEXT
+
+THE TABLET HOUSE: A SCRIBAL SCHOOL IN OLD BABYLONIAN NIPPUR
+Author(s): ELEANOR ROBSON
+Source: Revue d'Assyriologie et d'archéologie orientale, 2001, Vol. 95, No. 1 (2001), pp.
+39-66
+Published by: Presses Universitaires de France
+Stable URL: https://www.jstor.org/stable/23282005
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+Presses Universitaires de France is collaborating with JSTOR to digitize, preserve and extend
+access to Revue d'Assyriologie et d'archéologie orientale
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+[RA 95-2001] 39
+THE TABLET HOUSE: A SCRIBAL SCHOOL
+IN OLD BABYLONIAN NIPPUR
+BY
+ELEANOR ROBSON
+Introduction
+The traditional approach to the study of scribal training has been to focus on the
+evidence from literature about school, especially the Sumerian eduba texts of the early
+second millennium BCE which purport to describe Old Babylonian school life (most
+recently Volk 1996; 2000). These compositions are illuminating and often entertaining,
+but have three major limitations as historical evidence (cf. Civil 1980: 229). First, they
+present a very stylised and even exaggerated picture of scribal schooling, in which we
+cannot disentangle realistic représentation from heightened reality or even wilful misre
+presentation for humorous effect. Second, even if we were able to separate the truth from
+the fiction in these accounts, we would have a very generalised image that does not
+acknowledge chronological change or geographical variation, or the rôle of individual
+anomaly or innovation in the educational process. Third, the eduba stories tell us nothing
+about the physical environment of scribal schools.
+More recently, there has been a move towards examining the material culture of
+scribal éducation, as scholars such as Tinney (1998; 1999), Yeldhuis (1997; 1997—98;
+2000) and Gesche (2000) have taken physical tablets rather than disembodied text
+as their primary subject matter. By emphasising the multi-textual tablet as a
+by-product of an educational process they have brought major new insights to our
+understanding of ancient Mesopotamian schooling. This paper aims to take that
+approach one step further, by examining the archaeology and cuneiform tablets of just
+Revue d'Assyriologie, volume XCV, p. 39 à 67, 1/2001
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+40 ELEANOR ROBSON [RA 95
+one scribal school.1 "House F" was in opération in Nippur during the 1740s BCE (the
+early reign of king Samsu-iluna).2 It was excavated by the joint Chicago-Philadelphia
+expédition in 1951—52, yielding nearly one and a half thousand fragments of tablets.3
+Treating these finds—most of the so-called 3N-T tablets—not as exemplars of Sumerian
+literary compositions or lexical lists but as the by-products of scribal training in one
+individual school allows us to pose (if not always to answer satisfactorily) some fonda
+mental questions about the physical environment of éducation and the consistency and
+function of the scribal "curriculum" in the early second millennium BCE. This article is
+much more an intérim report than the définitive results of a completed study (which
+will appear in due course in monographie form). Nevertheless, as issues of Mesopo
+tamian literacy and éducation are in such sharp focus at the moment, it seemed an
+appropriate moment to add further evidence and interprétation to the debate.
+The archaeology of House F
+House F was a small domestic dwelling in the middle of urban Nippur, just
+250 métrés south of the temple of Enlil in the excavation Area TA (Fig. 1, Fig. 2).4 It was
+probably built some time in the early eighteenth century, while Nippur was under the rule
+of Rim-Sin of Larsa (Stone 1987: 35, 119). The house consisted of a small courtyard,
+locus 192, with three small rooms (191, 189, and 184) ranged to its northwest and a larger
+back room or courtyard, 205, to its northeast. The entrance hall, locus 203, was only
+partially excavated, but the total usable floor area of the house must have been about
+45 square métrés (Fig. 3).5
+The excavators found several dozen fragments of domestic pottery, in rooms 205 and
+184, as well as about ten pieces of figurines and plaques in rooms 205 and 191.6 A fragment
+of a gaming board made of tablet clay, rather like the Royal Game of Ur, was also
+1. Of course, it is not the first to do so: see Charpin (1986). More recently Wilcke (2000) has briefly surveyed the
+archaeological evidence for Mesopotamian schooling; and see now Tanret's magnifïcent study of schooling in the gala-mahs'
+house in Sippir Amnânum (Tanret 2002).
+2. According to the conventional middle chronology (e.g., Walker 1995); or during the 1650s following the ultra-short
+chronology proposed by Gasche et al. (1998).
+3. Previous studies of House F and its neighbours were made in the original excavation report by McCown and
+Haines (1967: 64^-66) and in Stone's study of the architecture and domestic documentation (Stone 1987: 56-59), with
+important reviews by Charpin (1989-90), Postgate (1990) and Van Driel (1990).
+4. TA was dug on the mound now known as Tablet Hill, due to the vast numbers of tablets found there in the
+University of Pennsylvania's excavations, precisely in the hope and expectation of fînding more of them (McCown and
+Haines 1967: viii; Zettler 1997: 149—50).
+5. Stone's figure of 35.58 m2 excludes courtyard 192 (Stone 1987: 58).
+6. McCown and Haines (1967: 116, pis. 88, 95.5, 96.1, 96.7, 127.9, 130.5, 131.6, 134.9, 136.2, 142.10); Stone (1987:
+Appendix II: Object Catalog, 161—212, sv. 184, 189, 191, 192, 203, 205).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Fig. 1. — Excavation plan of Nippur, showing the location of Area TA (Gibson et al. 2001: fïg. 1)
+2. — Excavation plan of Area TA 3. — Composite excavation plan of House F,
+(after Stone 1987: pl. 19) Level 10 (after Stone 1987: pis. 17—19)
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+42 ELEANOR ROBSON [RA 95
+recovered from the house (Fig. 4). There was a bread oven in the front room, 191, and
+benches in the back room 205 and the courtyard 192. The doorways between the rooms
+and the courtyard had been altered at various points of the house's history. It was
+abandoned some time after 1739, the tenth year of Samsu-iluna's reign, and later rebuilt
+(Civil 1979: 8; Stone 1987: 57, 119).7
+d
+Fig. 4. — Fragment of a gaming board from House F
+As described so far, there is nothing to distinguish House F from its immediate
+neighbours. However, while most houses excavated in Area TA yielded at most a few
+handfuls of tablets totalling 209, House F produced 1,425 fragments, over 85% of the
+entire number found in TA that season (Fig. 5; McCown and Haines 1967: pl. 160 D). And
+whereas the tablets in the other houses were a roughly equal mixture of administrative
+and légal documents, Sumerian literature, and elementary school tablets, in House F only
+2% of the tablets are clearly archivai in character. Over 50% contain Sumerian literature,
+42% are other school documents, and 6% remain to be identified (Fig. 7).
+The tablets were shared between the University Muséum, Philadelphia, the Chicago
+Oriental Institute, and Iraq Muséum in Baghdad (Fig. 6).8 I have personally studied ail
+the tablets in Chicago and Philadelphia, but most of my information about the Baghdad
+7. The stratigraphy of House F has been re-assessed twice: first by McCown and Haines between excavation and
+publication (as attested by the amendments made to the fîeld notebooks) and then by Stone (1987). Neither analysis took
+into account the joins between school tablets. When these are factored in, it turns out that the fîeld stratigraphy, in which
+ail the school documents come from Level 10, works best for House F after ail. Stone (1987: 133—144) détails the équations
+between the three différent stratigraphies. Stone (1987: 118) lists the latest datable tablets in each stratum of TA. In her
+Level XI (= fîeld level 10) the youngest tablets are from 1739 and 1738.
+8. The 733 tablets in Philadelphia include the 533 fragments published by Heimerdinger (1979), expected to be
+returned to the Iraq Musem in due course. The 347 pieces labelled in Figure 6 as "B/C casts" are fragments returned to
+Baghdad from Chicago, plaster casts of which were retained in the Oriental Institute.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2001] THE TABLET HOUSE: A SCRIBAL SCHOOL
+□ Philadelphia
+0 Chicago
+□ B/C casts
+B Baghdad
+733
+Fig. 5. — Number of tablet fragments found in F Higo. u6s.e — F Number of muséum TA tablet fragments
+and the rest of TA in collections
+Contents of tablet
+Fig. 7. — Subject matter of the tablets in House F and TA
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+44 ELEANOR ROBSON [RA 95
+tablets cornes from casts in Chicago and the excavation notebooks held in Philadelphia. I
+have recently begun the task of examining the tablets in the Iraq Muséum, but meanwhile
+the numerical data I give here are necessarily provisional.9
+The Sumerian word for school, eduba, is often understood to mean "tablet house"
+after the Akkadian bit tuppim.10 The huge numbers of literary and scholarly tablets in
+House F strongly suggest that it functioned as a school as well as a house. But House F
+was a tablet house in another sense too: the tablets were built into the very floors, walls,
+and furniture of the rooms. The large number of joins between rooms and across substrata
+implies that the tablets are a homogeneous group (Fig. 8). The number of tablets cornes
+down to about 1,300 after known joins, but that total should decrease further, to less than
+a thousand, as more fragments are identified.
+How do we know that the tablets were not taken from some other place to be used as
+building material?11 The answer lies in some of the household furnishings (Fig. 3). In the
+northern corner of courtyard 192, next to one of the benches, a baked-brick box had been
+sunk into the floor. When excavated it contained a large storage jar fïlled with small pots.
+At the other end of the bench, by the doorway to room 189, a smaller box was later used.
+A further box was discovered at the eastern end of the bench in 205. It had been built of
+whole tablets plastered over, and was found filled with tablet fragments and clay
+(McCown and Haines 1967: 64, pl. 160 E-F). These boxes, it appears, functioned as
+recycling bins, into which old tablets could be thrown for soaking, reshaping and re-using
+(Faivre 1995).
+Recycling bins are associated with school tablets in other houses too. For instance, a
+more substantial house in Sippir Amnânum was occupied by two successive gala-mah
+priests, Inana-mansum and his son Ur-Utu, and their families from 1655 to 1629, a
+century after the heyday of House F (Gasche 1989; Gasche and Dekiere 1991). In its
+courtyard the excavators found a baked brick bin with fragments of 65 school tablets and
+fragments scattered in and around it (Tanret 1982; Gasche 1989: 19, pl. 9; Tanret 2002),
+from which the excavators concluded that the yard was used as a school during
+Inana-mansum's time—perhaps to teach Ur-Utu himself (Gasche 1989: 20; Tanret 2002).
+As well as the school tablets, of course, the gala-mahs left a large and very informative
+9. For this reason I have not used rigorous statistical procédures to support the statements made here as such
+methods would be unwarranted on an unchecked dataset. Similarly I have not listed tablet numbers or places of publi
+cation. The final publication will include a full database and copies and/or digital photos of ail the 3N-T tablets from TA.
+10. E.g., Pearce (1995: 2270). Volk (2000: 3) has convincingly shown, however, that e2-dub-ba-a is better understood
+as "the house that distributes (= ba) tablets" or perhaps "house in which tablets are distributed". They are certainly distri
+buted liberally ail over House F!
+11. Cf. No. 1, Broad Street in Ur, where a large number of school tablets had been used as fïll but, as
+they were jumbled up with disparate lots of other tablets, may not have been written in the house itself (Charpin 1986;
+481-482).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2001] THE TABLET HOUSE: A SCRIBAL SCHOOL
+Room : 184 189 191 205
+Floor 1
+T\
+— < >A.
+A
+v ,\
+Floor 2 • •
+v
+Floor 3 — —
+Fig. 8. — Joins between tablet fragments across floors and rooms in House F Level 1012
+household archive (Van Lerberghe and Yoet 1991), from which much has been deduced
+about their family and professional affairs.13 In contrast, we know almost nothing yet
+about the inhabitants of House F, apart from their educational activities.14
+Elementary Education in House F
+The school tablets in House F fall neatly into two more-or-less equal halves:
+Sumerian literature, which I discuss in the following section, and the lists on which
+elementary éducation was based. Civil (1979: 5—7; 1995: 2308) identified four différent
+tablet formats15 were used for school lists in Old Babylonian Nippur; in addition it may be
+useful to distinguish prisms from other large tablets (Table l).16
+The Type II tablets are the most useful for recovering information about the educa
+tional curriculum. It has long been known that the obverse of these tablets each contains an
+extract from a composition that a student was learning for the first time: the good version
+on the left is by the teacher (or an advanced student), and the poor copy (occasionally two
+copies) on the right is by the student, who often wrote, erased, and re-wrote several times.
+3N-T 397 for instance (Fig. 9), has eleven lines from the middle of Syllable Alphabet B on
+the left of the obverse; the student's copy on the right has been erased ready for re-copying.
+The first thirty lines of the same list cover the three columns of the reverse.
+12. The thickness of the lines between rooms and floors is proportional to the number of joins.
+13. E.g., Dekiere 1994; Janssen 1991, 1992, 1996; Janssen et al. 1994; Tanret and Van Lerberghe 1993.
+14. Eighteen fragments of Akkadian letters from Level 10 of House F could yield at least the name of House F's
+occupant(s), but it is not yet clear whether these are genuine letters or scribal school exercises (Charpin 1990: 4—5). Tablets
+from a later occupational phase of House F, after its abandonment and rehabitation, are discussed by Stone (1987: 57-59).
+There is no reason to suppose that the later residents of the house were the same as had lived there when it was a school.
+15. Tinney (1999: 160) has recently elaborated on this typology; for our purposes, however, the simple four-fold
+division is suffïcient.
+16. Some or ail of these tablet formats were used outside Nippur too, but not necessarily with the same functions. In
+Ur, for instance, Type II tablets are virtually unknown, while Type IV tablets were used for mathematical rough work as
+well as for very short literary extracts (Gadd and Kramer 1966; Robson 1999: 245-272).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+46 ELEANOR ROBSON [RA 95
+Table 1. — Simple physical typology of elementary school tablets from Nippur
+I. Large multi-columned tablets
+With 2—6 or more columns on each side, containing a whole composition of several hundred lines, or a
+third or a half of the composition, in small script.
+II. Large teacher-student copies
+The obverse (conventionally denoted II/l) contains 2-3 columns of about 10—30 lines in large, calli
+graphie script, with the same text in each column. The left-hand column is more competently written
+than the right-hand one(s), in which there are frequently erasures. The reverse (II/2) contains a long
+extract of another composition, or an earlier section of the same one, in 3—6 or more columns of smaller,
+cursive script.
+III. Small one-columned tablets (Sumerian im-gid^-da)
+One column on each side of the tablet, with a 10—30 line extract of a composition, and sometimes the
+fïrst line of the next section or composition in the sériés.
+IV. Round tablets ("buns" or "lentils")
+Two to four lines of a composition, in various combinations of the teacher's and student's copies on the
+obverse and reverse.17
+P. Prisms
+Four- or six-sided prisms, typically with one two columns per face and a hollow central axis, with the
+same sort of contents as Type I tablets.
+Fig. 9. — 3N-T 397 = UM 55—21—320 (obverse and reverse), a Type II tablet from House F
+The typology of Type IV tablets was further elaborated by Gordon (1959: 7—8).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2001] THE TABLET HOUSE: A SCRIBAL SCHOOL 47
+Niek Veldhuis studied Type II tablets recovered from ail over Nippur (Yelduis 1997:
+40—63). He proposed that the longer extract on the reverse was typically by the same
+student who wrote the obverse, repeating passages of a composition he had learned
+earlier. Veldhuis was thus able to reconstruct the elementary scribal curriculum from Old
+Babylonian Nippur by correlating the contents of the obverses and reverses of Type II
+tablets.18 His results show consistent patterns of learning, which he grouped into four
+phases: writing techniques; Sumerian nouns and nominal phrases; sign lists and arith
+metic; and Sumerian language (Table 2). Only in the third phase was he unable to
+determine the exact order of the curriculum (Veldhuis 1997: 58).
+Table 2. — The elementary scribal curriculum in Nippur (Veldhuis 1997: 63)
+First Phase: writing techniques
+1. Exercises in sign forms (single wedges)
+2. Syllable Alphabet B (sign forms)
+3. tu-ta-ti (syllabic values)
+4. Lists of personal names (Hnana-tes2) (basic Akkadian and Sumerian)
+Second Phase: thematic noun lists (so-called forerunners to URs.RA = hubullu)
+5. List of trees and wooden objects
+6. List of reeds, vessels, leather, and métal objects
+7. List of animais and méats
+8. List of stones, plants, fïsh, birds, and garments
+9. List of geographical names and terms, and stars
+10. List of foodstuffs
+Third Phase: advanced lists (order uncertain)
+11. Metrological lists and tables
+12. Proto-Ea (Sumerian readings of signs)
+13. Proto-Lu (thematic-acrographic: occupations, kinship terms, etc.)
+14. Proto-Izi }
+15. Proto-Kagal } (acrographic: ordered by initial sign(s))
+16. Nigga }
+17. Proto-Diri (compound signs)
+18. Multiplication and reciprocal tables
+Fourth Phase: introductory Sumerian
+19. Model contracts (Sumerian sentences)
+20. Proverbs (literary Sumerian)
+The Type II tablets from House F comprise some 16% of Veldhuis's 1,500-strong dataset.
+Preliminary analysis of the House F tablets alone, using Veldhuis's methodology,
+therefore not surprisingly shows a similar, although not identical picture (Table 3).
+Of the very elementary writing exercises, tu-ta-ti is not attested at ail in House F,
+while there is only one exemplar of the simplest practice in sign writing. There are
+18. He has also found a convincing curricular sequence in the Type II tablets from the Scherbenloch in OB Uruk
+(Yeldhuis 1997-98: 361).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+48 ELEANOR ROBSON [RA 95
+abundant copies of Syllable Alphabet B and the personal name lists, on the other hand,
+strongly suggesting that these two exercises comprised the entire first curricular phase in
+House F. The second phase, namely the thematic noun lists, is entirely as expected. The
+third phase comprises the sign lists and the arithmetical lists. At this point, where
+Veldhuis's conclusions for the whole of Nippur are uncertain, we can make a more
+concrete statement for House F. It is clear that the three acrographic lists were taught
+first, followed by the professions list Proto-Lu and/or the sign list Proto-Ea. Weights and
+measures followed by multiplications and divisions were next, while Proto-Diri, the list of
+compound signs, was the last in the sequence. The fourth and final phase is exactly as
+Veldhuis demonstrated. The proverb collection most highly attested is SP 2+6 with
+28 copies,19 followed by SP 1 (7 copies) and SP 3 (6 copies).
+This comparison between Nippur in général and House F in particular strongly
+suggests that the order of the curriculum varied from school to school, even within
+Nippur, although the actual contents of the curriculum were substantially the same.
+Remarkably few House F tablets contain compositions which fall outside this scheme
+(although it must be remembered that over 70 exemplars of elementary lists remain
+unidentified on House F tablets): there is just one copy each of Ugumu and OB Lu, and
+four of Proto-Aa. However, the picture may get more complicated as further identifica
+tions are made.
+Table 3. — The order of the elementary curriculum in House F
+Phase/Composition Number of tablets in House F20
+First Phase: writing techniques 146
+— Exercises in sign forms 1
+1 Syllable Alphabet B 70
+— tu-ta-ti 0
+2 Lists of personal names (dinana-tes) 82
+Second Phase: thematic noun lists 98
+3 List of trees and wooden objects 28
+4 List of reeds, vessels, leather, and metal objects 20
+5 List of animals and meats 19
+6 List of stones, plants, fish, birds, and garments 25
+7 List of geographical names and terms, and stars 6
+8 List of foodstuffs 7
+19. See Veldhuis (2000) for the join between SP 2 and SP 6.
+20. Of ail types, not only Type II. The numbers in the column are not commensurate because of the co-occurrence of
+différent compositions on the Type II tablets.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2001] THE TABLET HOUSE: A SCRIBAL SCHOOL 49
+Third Phase: advanced lists 207
+9 Nigga } 16
+9 Proto-Kagal } order uncertain 10 + 1 bilingual
+9 Proto-Izi } 30
+12 Proto-Lu 22
+13 Proto-Ea 17
+14 Metrological lists and tables 15
+15 Multiplication and reciprocal tables 93
+16 Proto-Diri 16
+Fourth Phase: introductory Sumerian 107
+17 Model contracts 54
+18 Proverbs 55
+Each tablet type, it appears, had a différent function. The short extracts on
+Type II/l and Type III tablets were deployed in a student's first encounters with a
+composition, as he memorised it section by section. The longer passages on Types I, II/2,
+and P tablets, on the other hand, seem to be written in order to revise earlier work, conso
+lidating individually memorised sections into lengthier segments. I have presented the
+detailed evidence for this argument using the arithmetical lists as a case study (Robson
+2002). This shows an even, if thin, distribution of Type II/l and Type III tablets across
+the multiplication sériés but a high preponderance of Type I and Type II/2 tablets
+covering only the first sections. (There are no Type P prisms bearing multiplications in
+House F.) It thus appears that students initially learned the whole sériés but revised only
+the beginning—again and again. This pattern of learning is also suggested by the numbers
+of tablets attested across the sériés of thematic noun lists: there are many more exemplars
+from the beginning of the sériés than from the end (Table 3).
+The two-fold functional distinction is also reflected in the number of each tablet type
+attested in House F, after known joins are taken in to account (Fig. 10). My data
+collection is unfinished as I have as yet had access to very few of the Baghdad tablets, and
+it is often not possible to determine tablet typology from the Chicago casts. The exact
+numbers should thus be taken with a large pinch of sait (as should ail of those presented
+here). Nevertheless, as there is no reason to suppose that the tablet types are not
+randomly distributed across the three muséum collections, the broad sweep of these crude
+and provisional results are still striking. Type IV tablets are almost never attested in
+House F compared to the other houses in TA; in Houses G and K, for instance, around
+half of the elementary school tablets are Type IV buns (Fig. 2; Fig. 10). It is not at ail
+clear to me whether the House F teacher disliked Type IV tablets as teaching média, or as
+a suitable building material. Type II tablets, on the other hand, make up some two thirds
+of the surviving House F elementary tablets. Again, this may be a reflection of their suita
+bility as hefty substitute bricks, but that factor alone would not account for the fact that
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+50 ELEANOR ROBSON [RA 95
+248 I~1 Type 1
+0 Type II
+□ Type III
+200
+B Type IV
+El Type V
+■ Unidentified
+47 52
+_' 25
+4 H 1 2 ,iD 4 o 4 0 3 0 3 1 3 2
+House F House G House H House K
+Houses with ten or more elementary tablets
+Fig. 10. — Typological distribution of elementary tablets in House F and TA
+they outnumber the similarly sized Type I tablets by a ratio of about 5:1. Perhaps their
+dual rôle in initial exposure to new material as well as in revision made them particularly
+attractive as efficient scholastic média.
+SUMERIAN LlTERATURE IN HOUSE F
+The other large group of tablets in House F, as mentioned above, contained
+Sumerian literature. Even taking joins into account, this makes a corpus of nearly
+600 tablets attesting over eighty différent literary compositions, in ail five of Miguel
+Civil's generical catégories (Fig. 11; Fig. 12): myths and epics; city laments and hymns
+to rulers; law codes and literary letters; hymns to deities; and school dialogues, disputa
+tions and wisdom literature.21 However, as will become clear, this catégorisation is a
+21. This is also the typology followed by the Electronic Text Corpus of Sumerian Literature (Black et al. 1998— ),
+with the addition of a section for Sumerian proverbs—which, as shown above, constituted the final component of the
+elementary curriculum. Ail literary compositions and ancient catalogues are cited according to the ETCSL titles and
+catalogue numbering here.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2001] THE TABLET HOUSE: A SCRIBAL SCHOOL
+□ Myths and epics
+H Historical
+H Letters and laws
+□ Hymns to deities
+E3 Eduba
+nUnidentified/misc
+Fig. 11. — Number of Sumerian literary 12. — Number of Sumerian literary
+tablets in House F compositions in House F
+modem one and does not reflect ancient scholastic usage. I present the data in
+this format initially in order to provide an overview of the material in terms that we
+are familiar with. Some forty fragments, just over 5% of the pieces, remain to be
+identified.
+House F has given us an average of eight cuneiform sources for each composition
+found there, but in fact the sources are not distributed at ail evenly (Fig. 13). If each
+literary work in the house had originally been recorded on roughly the same number of
+tablets, and those tablets had been broken or lost randomly, we would expect most
+compositions to have between four and twelve sources each, with a very few found either
+on one fragment alone or on many. The picture we get is very différent: nearly fïfty
+compositions are found on one, two, or three fragments, while over twenty of them have
+more than ten exemplars. In fact, our graph shows two différent corpora: one large group
+of compositions written on just a few tablets each; and a smaller group, each written on an
+average of eighteen tablets. What are we to make of this?
+Steve Tinney (1999) has recently analysed the curricular setting of Sumerian
+literature. He sees two bodies of school texts: a group of four very elementary hymns
+which he calls the Tetrad (Table 4), and ten more advanced compositions which he labels
+the Decad (Table 5). The Tetrad has almost no presence in House F, but as expected
+(Yeldhuis 1997: 67; Tinney 1999: 162) the few witnesses we do have are quite clearly
+written on tablets belonging to the typology of the elementary curriculum (Table 1). Ail
+members of the Decad, on the other hand, are very well attested, with an average of
+twenty sources each in House F.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+52 ELEANOR ROBSON [RA 95
+Number of sources
+Fig. 13. — Tablets bearing Sumerian literary compositions in House F
+Strikingly, Table 5 shows that the House F tablets account for between a fifth and
+a half of the total number of Nippur sources for each of the Decad members. The
+majority of the other Sumerian literary tablets from Nippur were excavated by
+Hilprecht's expédition from Philadelphia in the late nineteenth century, ?nd very little
+reliable archaeological information about them survives. The data presented here,
+however, along with other evidence from House F, lead to the hypothesis that inost of
+the Sumerian literary tablets may have come from three or four small, densely packed
+schools like House F. The rest may have been scattered more sparsely tlirough other
+dwellings, like the neighbours of House F in Area TA. We can also see how heavily
+Nippur and House F have contributed to our overall picture of Sumerian literature, and
+potentially skewed our understanding of what is normative within the corpus: over a
+quarter of ail Decad tablets are from House F, and ail but a fifth of them are from
+Nippur more generally. The much more varied evidence of the Tetrad (Table 4), though,
+shows that Nippur is not necessarily simply a magnified reflection of the rest of the
+Sumerian literary world.
+The Decad are not the only well attested literary compositions in House F : a further
+fourteen have over ten exemplars and/or account for a significant proportion of known
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2001] THE TABLET HOUSE: A SCRIBAL SCHOOL
+Table 4. — The Tetrad in House F22
+House F House F Nippur
+Sources Sources Sources sources as % sources as % sources as %
+ETCSL Compo- from from from all of Nippur of sources of sources
+no. sition House F Nippur sites sources from all sites from all sites
+2.5.5.2 Lipit-Eshtar
+Hymn B 323 25 39 12 7 64
+2.5.3.2 Iddin-Dagan
+Hymn B 0 2 20 — — 10
+2.5.8.1 Enlil-bani
+Hymn A 2U 8 19 25 11 42
+4.16.1 Nisaba
+Hymn A 0 3 14 — — 21
+Mean 1.2 9.5 23.0 13 9 61
+Table 5. — The Decad in House F25
+House F House F Nippur
+Sources Sources Sources sources as % sources as % sources as %
+ETCSL from from from all of Nippur of sources of sources
+no. Composition House F Nippur sites sources from all sites from all sites
+2.4.2.01 Shulgi Hymn A 17 46 66 37 26 70
+2.5.5.1 Lipit-Eshtar
+Hymn A 12 56 70 21 17 80
+5.5.4 Song of the Hoe 24 70 92 34 26 76
+4.07.2 Inana Hymn B 36 83 96 43 38 86
+4.05.1 Enlil Hymn A 24 57 73 42 33 78
+4.80.2 Kesh Temple
+Hymn 22 69 89 32 25 76
+1.1.4 Enki's Journey to
+Nippur 9 53 64 17 14 83
+1.3.2 Inana and Ebih 18 60 75 30 24 80
+4.28.1 Nungal Hymn 19 48 56 40 34 86
+1.8.1.5 Gilgamesh and
+Huwawa (A) 21 72 92 29 23 78
+Mean 20.2 61.4 77.3 33 26 79
+22. Numerical data based on Tinney (1999: 171—172).
+23. Two Type II/l tablets, one with Syllable Alphabet B; one collective tablet with Lipit-Eshtar Hymn D
+(ETCSL 2.5.5.4).
+24. One Type IV tablet, one of unknown format.
+25. Numerical data based on ETCSL database.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+54 ELEANOR ROBSON [RA 95
+Table 6. — The House F Fourteen
+ETCSL House F Nippur Total % Ho. F % Ho. F % Nippur
+no. Composition sources sources sources in Nippur overall overall
+5.1.2 Eduba Composition B 11 45 56 24 20 80
+5.1.3 Eduba Composition C 14 38 39 37 36 97
+1.8.1.4 Gilgamesh, Enkidu, and
+the Nether World 15 47 59 32 25 80
+1.6.2 Deeds and Exploits of
+Ninurta 15 75 82 20 18 91
+2.1.5 Cursing of Agade 15 90 102 17 15 88
+2.4.2.2 Shulgi Hymn B 17 65 70 26 24 93
+2.2.2 Ur Lament 17 76 94 22 18 81
+5.6.1 Instructions of Shuruppag 18 54 68 33 16 79
+5.1.1 Schooldays (Eduba A) 18 69 71 26 25 97
+5.3.2 Debate between Sheep and
+Grain 19 56 66 34 29 85
+1.4.3 Dumuzid's Dream 20 52 66 38 30 79
+5.6.3 Farmer's Instructions 21 35 44 60 48 80
+5.4.1 Eduba Dialogue 1 22 50 59 44 37 85
+5.3.1 Debate between Hoe and
+Plough 30 52 59 58 51 88
+Mean 18 57 67 31 27 86
+□ Fourteen
+BDecad
+1-3 4-6 7-9 10-12 13-15 16-18 19-21 22-24 25-27 28-30 31-33 34-36
+Number of sources
+Fig. 14. — Sources for the Decad and the Fourteen in House F
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2001] THE TABLET HOUSE: A SCRIBAL SCHOOL 55
+sources (Table 6). As a group, their number of attested sources is not significantly
+différent from the Decad (Fig. 14). I have called this group the House F Fourteen.
+Like the Decad (Tinney 1999: 168—169), the Fourteen are listed together on some
+Old Babylonian catalogues of Sumerian literature (Table 7). This strongly suggests that
+House F, and perhaps also in others in Nippur and Ur, they held a similar curricular
+status to the members of the Decad. This curricular status was not as strong or as
+pervasive as the Decad's though, even in Nippur. For instance, in Catalogue N2 from
+Nippur there is a six-composition gap between the Decad and the House F Fourteen,
+Table 7. — House F literary compositions in Old Babylonian literary catalogues
+Line number of catalogue26
+Composition N2 L SI U1 U2 B4 Y2
+D0127 Shulgi Hymn A 01 [01] 01 — 01 07 01
+D02 Lipit-Eshtar Hymn A 02 [02] 02 — 05 08 02
+D03 The Song of the Hoe 03 [03] 04 — — 09 03
+D04 Inana Hymn B 04 [04] 03 — 08 03 04
+D05 Enlil Hymn A 05 05 05 — 16 10 —
+D06 Kesh Temple Hymn 06 06 06 — 23 — —
+D07 Enki's Journey to Nippur 07 07 07 28 24 —
+D08 Inana and Ebih 08 08 08 1" 13 02 —
+D09 Nungal Hymn A 09 09 09 18 14 — —
+D10 Gilgamesh and Huwawa (A) 10 10 R3 14 09 — —
+F01 Debate between Sheep and Grain 17 11 — 15 — —
+F02 Cursing of Agade 18 12 — — 17 — —
+F03 Dumuzid's Dream 19 13 R4 — 26 — —
+F04 Gilgamesh, Enkidu and the Nether World 20 14 — — 29?28 — —
+F05 Instructions of Shuruppag 21 15 — — 2 19 9 —?
+F06 Debate between Hoe and Plough 25 16 — — 18 — —
+F 0S7hulgi 26 17H — y 01 m — — n — B
+F08 Deeds and Exploits of Ninurta — 18 — — 41 — —
+F09 Ur Lament 32 26 — — 4 — 4 —
+F10 Schooldays (Eduba Composition A) 50 — — 24?29 33? — 06?
+Fll Eduba Composition C 51 — R 2 9— 4 — ? 07?
+F12 Eduba Dialogue 1 52 — — 2 — 4 — ? 08?
+F13 Farmer's Instructions 53 — 10 22 35 22 —
+F14 Eduba Composition B 54 — — 07 — —
+26. N2 (ETCSL 0.2.01) from Nippur; L (0.2.02) from Nippur?; SI (0.2.18) from Sippir; U1 (0.2.03), U2 (0.2.04) from
+Ur; B4 (0.2.11), Y2 (0.2.12) unprovenanced. R = reverse.
+27. D01—10 = Decad; FOI—14 = House F Fourteen.
+28. This entry, ud re-a ud sud-ta re?~a, could be the incipit of either Gilgamesh, Enkidu and the Nether World or the
+Instructions of Shurrupag.
+29. This incipit, dumu e2-dub-ba-a, could belong to any one of Eduba A, Eduba C, Eduba F (ETCSL 5.1.a,
+unpublished), Eduba Dialogue 1, or Eduba Dialogue 3 (ETCSL 5.4.3).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+56 ELEANOR ROBSON [RA 95
+Table 8. — Other Sumerian literary compositions in House F
+Line number of catalogue
+Composition Sources N2 L SI U2
+1.1.3 Enki and the World Order 3 42 32 — —
+1.2.1 Enlil and Ninlil30 4 22 19?3! R10 —
+1.2.2 Enlil and Sud 7 23?32 — — —
+1.3.3 Inana and Shu-kale-tuda 1 44 34 — 36
+1.4.1 Inana's Descent to the Nether World 3 41 33 — 27
+1.6.1 The Return of Ninurta to Nippur 7 — 43 — 42
+1.8.1.2 Gilgamesh and the Bull of Heaven 4 11 37 — 22
+1.8.2.1 Lugalbanda in the Mountain Cave 7 38 22 — 37
+1.8.2.2 Lugalbanda 7 39 23 — 39
+1.8.2.4 Enmerkar and En-suhgir-ana 2 40 24 — —
+2.1.4 Sargon Legend 1 — — — —
+2.2.3 Sumer and Ur Lament 3 34 — — 45
+2.2.4 Nippur Lament 8 33 27 — —
+2.4.1.1 Ur-Namma Hymn A 1
+2.5.4.01 Ishme-Dagan Hymn A+V33 3 — 58 R02 51
+2.5.4.05 Ishme-Dagan Hymn E 1 — — — —
+2.5.4.06 Ishme-Dagan Hymn F34 1 — — — —
+2.5.4.07 Ishme-Dagan Hymn G 1 — — — —
+2.5.4.12 Ishme-Dagan Hymn L 2 — — — —
+3.4.02 Law Code of Lipit-Eshtar 1 — — — —
+4.07.3 Inana Hymn C 9 40
+4.07.4 Inana Hymn D 1 45 50 — —
+4.08.18 Dumuzid-Inana Hymn R 1 — — — —
+4.10.1 Lisin's Lament 1 — — — —
+4.14.1 Nanshe Hymn A35 6 24 19?36 Rll —
+5.3.3 Debate between Winter and Summer 4 29 30 22
+5.3.4 Debate between Tree and Reed 1 28 21 — 20
+5.3.5 Debate between Bird and Fish 1 — — — 19
+5.4.02 Eduba Dialogue 2 3 58 — — 32
+5.4.03 Eduba Dialogue 3 3 59 — — 06
+5.4.05 Eduba Dialogue 5 6 55 — — —
+5.9.2 Heron and Turtle 2 30 53 — —
+30. 1 tablet with Nanshe Hymn A.
+31. The incipit iri na-nam, which occurs in ail three catalogues, also opens Nanshe Hymn A (ETCSL 4.14.1).
+32. The incipit of the composition itself is damaged.
+33. One tablet also contains an unidentifïed hymn.
+34. On the same tablet as Ishme-Dagan Hymn G.
+35. 1 tablet with Enlil and Ninlil.
+36. The incipit iri na-nam, which occurs in ail three catalogues, also opens Enlil and Ninlil (ETCSL 1.2.1).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2001] THE TABLET HOUSE: A SCRIBAL SCHOOL 57
+while the Deeds and Exploits of Ninurta (F 08) is not listed at ail.37 Apart from that, there
+is complété agreement between Catalogues N2 and L in the order of nine of the Fourteen,
+though other compositions are scattered among them. The only non-Nippur catalogue
+with strong evidence for the Fourteen is U2 from Ur, but it clearly reflects a very différent
+curricular order, or some other ordering principle entirely. This is hardly surprising, given
+how very Nippur-dominated the sources for these compositions are (Table 5, Table 6). No
+catalogue has yet been identifïed in House F itself.
+What of the rest of House F's literary contents? Table 8 lists ail the remaining compo
+sitions identifïed so far, sorted by their ETCSL catalogue number, apart from the literary
+letters and related compositions, which are treated separately below.38 Most have only one
+or two sources, but another cluster of eight compositions emerges (shown in bold) with
+6—10 exemplars each and a presence in the three ancient catalogues N2, L, SI, and U2. A
+further fourteen, with just 1—4 exemplars, are also listed in the same catalogues. (Indeed
+only nine of the forty-odd House F compositions we have considered so far are not known to
+have been catalogued in ancient times.) This suggests that the Decad and Fourteen were
+not the only curricular groupings in the House F but rather that there were clusters of
+compositions that were regularly taught together. We have already seen that Lipit-Eshtar
+Hymn B, one of the two Tetrad members attested in the house, shares a tablet with the
+apparently non-curricular Lipit-Eshtar Hymn D (Table 4). Other pairs of compositions on
+the same tablet are Enlil and Ninlil with Nanshe Hymn A (perhaps because they share the
+same incipit); Ishme-Dagan Hymn F with Ishme-Dagan Hymn G; and Ishme-Dagan
+Hymn A with an as yet unidentified composition.
+The fît between the catalogues and the House F corpus is not perfect: many House F
+compositions are not listed in the catalogues (Table 8), while for instance Gilgamesh and
+Aga (N2 12, U2 12: ETCSL 1.8.1.1), Enmerkar and the Lord of Aratta (N2 48, L 24, U2 40:
+1.8.2.4), Ishbi-Erra Hymn E (N2 15, U2 2: 2.5.1.5), the Temple Hymns (N2 49, L 31,
+U2 21: 4.80.1), and the Home of the Fish (N2 16, L 48, SI R5: 5.9.1) are (hitherto)
+unattested in House F.
+The structure of the Letter Collections (Ali 1964) is strongly reflected in the House F
+finds (Table 9). Letter Collection A, which Ali constructed on the basis of a House F tablet
+containing ail three of its component letters A 01—A 03 was clearly a local reality but may
+not have had a life outside this particular school. Collection B, comprising 17 letters and
+three other short compositions, is more interesting for us, as Ali's primary source was a
+single tablet from elsewhere in Nippur containing the whole sequence of twenty, with half a
+dozen others from Nippur and Ur bearing sub-sequences of letters. These show that the
+collection was rather fluid, and that 3.1.05, 3.3.13, and 5.7.3—marked (B) in Tables 9
+37. Neither is The Return of Ninurta to Nippur (Table 8).
+38. There are also over forty tablets bearing still unidentified literary compositions.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+58 ELEANOR ROBSON [RA 95
+Table 9. — Literary letters, and related compositions, in House F
+Letter Sources Letter Coll. Cat. Wl39
+3.1.01 Letter from Arad-ngu to Shulgi about Apillasha 5 A 01
+3.1.02 Letter from Shulgi to Arad-ngu about Apillasha 2 A 02 —
+3.1.05 Letter from Arad-ngu to Shulgi about Aba-indasa's
+missing troops 1 (B) —
+3.1.17 Letter from Ishbi-Erra to Ibbi-Suen about purchasing
+grain 1 — —
+3.1.19 Letter from Puzur-Shulgi to Ibbi-Suen 2 A 03 06?
+3.1.21 Letter from Aba-indasa to Shulgi 2 B 01 11?
+3.2.01 Letter from Suen-illat to Iddin-Dagan 2 B 02
+3.2.08 Letter from Iter-pisha to a deity 1 — —
+3.3.01 Letter from Ur-shaga to a king 1 B 06
+3.3.02 Letter from Lugal-nisang to a king 3 B 07 —
+3.3.03 Letter from Lugal-nisang to a king 3 B 08 —
+3.3.04 Letter from Ur-Enlila to the ensi and sanga 2 B 10 28
+3.3.05 Letter from the ensi and sanga to a king 1 B 11 27
+3.3.06 Letter from Aba-tah-lugalnga to his brothers 2 B 13 16
+3.3.07 Letter from the "Monkey" to his mother 1 B 14 17
+3.3.08 Letter from dUTU-HI to Ilak-ni'id40 2 B 15 24
+3.3.09 Letter from Lugal-nisang to Enlil-massu 2 B 16 26
+3.3.10 Letter from Inanaka to Nintinuga 2 B 17 22
+3.3.11 Letter from KA-Inana to Enlil-massu 1 B 19 15
+3.3.12 Letter from KA-Inana to Lugal-ibila 2 B 20 —
+3.3.13 Letter from a sabra to the generals 2 (B) 29
+3.3.32 Letter from Nabi-Enlil to a king 2 — —
+2.1.3 History of the Tummal 1 B 09 14
+5.7.2 Nintinuga's Dog 1 B 18 30
+5.7.3 Dedication of an Axe to Nergal 2 (B) 20
+and 10—were ail considered to belong to the collection at différent times and by various
+people. Only three of the House F letters are not from Collection A or B, namely a Letter
+from Ishbi-Erra to Ibbi-Suen (3.1.17), which I have shown elsewhere is heavily scholasti
+cised (Robson 2002), the Letter from Iter-pisha to a Deity (3.2.08) and the Letter from
+Nabi-Enlil to a king (3.3.32), written on the same tablet as B 10. Ail the other House F
+sources are single-letter tablets. The only letters missing from House F are B 03—B 05 (from
+Iddin-Dagan to Suen-illat, from Nanna-kiang to Lipit-Eshtar, and from Lipit-Eshtar to
+Nanna-kiang) and B 12 (Public Announcement of the Loss of a Document).
+An OB catalogue of some thirty literary letters and related compositions, found in the
+Uruk Scherbenloch, lists many of the compositions from the second half of Collection B,
+albeit in a différent order to the Nippur collective tablets. It omits B 12 (as in House F) but
+39. Cavigneaux (1996: no. 12); ETCSL 0.2.17.
+40. On the same tablet as extracts from the lexical list Nigga.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2001] THE TABLET HOUSE: A SCRIBAL SCHOOL 59
+includes items, namely, the Letter to the Générais and the Dedication of an Axe to Nergal,
+which are in House F and on the periphery of Collection B. The degree of variation within
+this part of the curriculum, between schools and between cities, seems to be similar to
+the disparities in the Fourteen-like compositions chosen for inclusion in catalogues and
+curricula. However, for whatever reason, the letters are attested in smaller numbers in
+House F, with an average of fewer than 2 sources each. However, as only two known sources
+come from the Iraq Muséum, further fragments may yet come to light there.
+Four of House F's neighbours left identifiable literary tablets behind, ail in single
+exemplars (Fig. 2; Table 10). Their range is in général very similar to those from House F
+itself—and again there is no sign of the Tetrad.
+Table 10. — Sumerian literary tablets in other TA houses
+House Level41 ETCSL no. Composition Comments
+G 10.2 1.6.2 Deeds and Exploits of Ninurta F 08
+10.2 5.4.2 Eduba Dialogue 2
+10.1 1.6.1 The Return of Ninurta to Nippur
+10.1 1.8.2.1 Lugalbanda in the Mountain Cave
+10.1 3.3.6 Letter from Aba-dah-lugalnga to his brothers B 13
+10.1 1.1.3 Enki's Journey to Nippur D 07
+8.3 1.2.2 Enlil and Sud
+8.3 1.8.1.2 Gilgamesh and the Bull of Heaven
+8.3 1.8.1.4 Gilgamesh, Enkidu and the Nether World F 04
+8.3 2.1.5 Cursing of Agade F 02
+8.3 5.6.1 Instructions of Shuruppag F 05
+I 8.2 2.1.3 History of the Tummal B 09
+8.2 2.5.1.5 Ishbi-Erra Hymn E Not attested in House F
+8.2 3.1.05 Letter from Arad-ngu to Shulgi (B). On the same tablet
+as 3.2.01
+8.2 3.2.01 Letter from Sin-illat to Iddin-Dagan B 02. On the same tablet
+as 3.1.05
+8.2 — Literary (unidentified)
+J 12.2 2.2.2 Ur Lament F 09
+12.2 5.4.5 Eduba Dialogue 5
+9.3 — Literary (unidentified)
+K 11.3 2.5.5.1 Lipit-Eshtar Hymn A D 02
+10.1 1.6.1 The Return of Ninurta to Nippur
+10.1 4.14.1 Nanshe Hymn A
+9.2 1.4.3 Dumuzid's Dream F 03
+9.2 — Literary (unidentified)
+9 2..8.72.5 Prafyer foir Slamslu-iluna Not attested in House F
+8.1 fill — Literary (unidentified)
+41. Levels 11 and 12 date to before the school was active in House F; level 10 is approximately contemporary with it;
+levels 8 and 9 are post-school.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+60 ELEANOR ROBSON [RA 95
+SUMERIAN AND AKKADIAN IN HOUSE F AND AREA TA
+It should be obvious from the preceding discussion that the House F curriculum was
+substantially in Sumerian: only around twenty exemplars of bilingual elementary compo
+sitions have so far been identified (1 Proto-Kagal, 4 Proto-Aa, and the 16 copies of
+Proto-Diri; see Table 3), and just one piece of Akkadian literature: a fragment of
+OB Gilgamesh (Cavigneaux and Renger 2000).42 The established understanding of this
+situation is that the Old Babylonian scribal schools were deliberately traditionalist, conti
+nuing to promulgate Sumerian while most administrative, business, and légal documents
+were already written in Akkadian (e.g., Pearce 1995: 2270). Indeed an element of traditio
+nalism is displayed in the fact that, even outside the Tetrad, Decad, and Fourteen (which
+as curricular groupings we might expect to be conservative), the royal praise poetry in
+House F is ail to Ishme-Dagan (1953—35), who had ruled some two centuries earlier.43
+14
+House E House F House H House I House N
+Houses in TA with tablets dated after 1762 BCE
+Fig. 15. — Household distribution of dated tablets in TA (after 1762)
+42. As mentioned above, the eighteen Akkadian letters discovered in the house may also be scholastic compositions.
+43. Compare the relatively up-to-date school at No. 7, Quiet Street in Ur, destroyed like House F in about 1740 but
+which had probably not been used as a school for some time, in which Rim-Sin (1822-1763) was the main subject of royal
+praise poetry found there (Charpin 1986: 429—431, 433).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2001] THE TABLET HOUSE: A SCRIBAL SCHOOL 61
+However, although the school may hâve promoted old-fashioned literary models of
+kingship, the linguistic médium in which they were couched was not necessarily
+redundant too. Some thirty or so household documents written after Hammurabi's
+conquest of Nippur in 1762 survive from House F and its neighbours in Area TA.44 Over
+two thirds of them were written in Sumerian (Fig. 15),45 and continued to be written in
+Sumerian until the area was abandoned after 1721 (Fig. 16). As House F presumably
+trained scribes who lived locally this should hardly be surprising.
+□ Akkadian
+D Sumerian
+i d
+I I I : I 1
+^ ^ ^ <<* / <<* <<* <p> <<* jP ^
+Date
+Fig. 16. — Chronological distribution of dated tablets in TA (after 1762)
+Conclusions
+House F is a remarkable test case for our more général hypotheses and intuitions
+about Old Babylonian scribal éducation, which have necessarily been derived for the most
+part from decontextualised textual evidence. It has the potential not only to particularise
+but also to individualise and humanise our understanding of the scribes' physical and
+mental world. Although my ongoing study is by no means complété, there are already
+some important initial conclusions to be drawn.
+44. Stone 1987: texts 12-15, 22-23, 25-29, 31-32, 34, 38, 42-47, 49-50, 54, 56-57, 59-61.
+45. I have used a simplistic method to assign languages to documents: those with any Akkadian at ail (excluding
+personal names) are designated as Akkadian, and those without as Sumerian. As the issue here is literacy not orality I have
+not been concerned to determine what the language of speech in Area TA was.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+62 ELEANOR ROBSON [RA 95
+First, its physical environment is much smaller and more domestic than the
+Sumerian school literature would have us believe; there is no room in the tiny courtyard,
+less than 10 m2, for ail the teachers and pupils described in the famous "Schooldays" story
+(Kramer 1949). There must have a significant mismatch between the idealised image of
+scribalism portrayed in the Sumerian literature taught in House F and the experiences of
+the students who were learning it.
+Second, the presence of facilities for recycling used tablets explains why large
+scholastic corpora turn up only in exceptional circumstances (cf. Civil 1979: 7), such as
+sudden destruction of the school46 or deliberate re-use of the tablets in the fabric of the
+building as happened in House F.47 The différent scholastic functions of the elementary
+tablets are reflected both in their physical layouts (Types I—IV, P) but also in their
+patterns of usage.
+Third, we can closely outline the scribal curriculum in House F, which must have
+been broadly shared by the other Nippur school houses, perhaps three or four of which
+have been excavated. House F had its own particular additions and omissions though:
+tu-ta-ti, for instance, played no part in the sequence of elementary instruction, and very
+little mathematics was taught beyond the basic number facts (Robson 2002). Sumerian
+literature was practically the sole subject of post-elementary éducation in House F. While
+the Tetrad was not favoured, the Decad played a key rôle, as did other curricular
+groupings as attested by the House F Fourteen. Comparison with the Nippur literary
+catalogues, however, shows that there was by no means a standard curriculum across the
+city, but rather a common fund of shared compositions upon which individual teachers
+drew according to personal taste or pedagogical preference. The House F teacher made
+curricular choices that differentiated it from other Nippur schools. The prédominance
+of Sumerian-language teaching is reflected in the preponderantly Sumerian-language
+documents drawn up for the households neighbouring House F.
+Fourth, the curricular groupings within the educational corpus eut right across the
+generic boundaries the modem discipline has imposed upon Sumerian literature: the
+Decad and the Fourteen both mix myths and epics, royal praise poetry, and hymns to
+deities with the sort of compositions we have customarily described as "scribal training
+literature". Even the literary letters are not rigidly demarcated from the rest of the
+corpus. Incantations, however, had no rôle in the House F curriculum.
+Finally, the House F material has the potential to answer many more questions about
+Old Babylonian scribal éducation. For instance, when the dataset is complété it may be
+possible to estimate its "coefficient of completeness" (Civil 1980: 231): namely, how much
+survives of what might have been a "full set" of scribal exercises. That could lead in turn to
+46. For instance, No. 7 Quiet Street in Ur (Charpin 1986: 433).
+47. And, for instance, in No. 1 Broad Street in Ur (Charpin 1986: 481-2).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2001] THE TABLET HOUSE: A SCRIBAL SCHOOL 63
+an educated guess at the number of students trained in House F at any one time, and/or how
+much they wrote. We are still a long way, however, from determining the average duration
+of scribal éducation or the âges at which students typically started school or left it. It may
+be that these most basic of questions can never be answered, simply because such matters
+were so obvious they were never recorded (cf. Civil 1980: 227).
+As long as the 3N-T tablets were used simply as a rich fund of sources for Old
+Babylonian literary and lexical compositions they inevitably distorted our image of Old
+Babylonian Sumerian. Disentangling House F from the rest of Nippur and, in the future,
+comparing it carefully with other sources of well provenanced contemporary corpora,
+such as the Uruk Scherbenloch, No. 7 Quiet Street in Ur, and the gala-mahs' house in Sippir
+Amnànum, will enable us to see a more nuanced picture of Old Babylonian scribal
+éducation and its literary by-products, in which chronological and régional variation, and
+even individual choice, can be more clearly distinguished.
+ÂCKNOWLEDGEMENTS
+This article, an expanded version of a paper presented at the International Confé
+rence of the Fifth Millennium for the Invention of Writing in Mesopotamia, held in
+Baghdad, 20—24 March 2001, is based on research funded by a British Academy
+Post-Doctoral Fellowship, 1997—2000. My trip to Baghdad in March 2001 was financed by
+Ail Soûls College, Oxford. I extend sincere thanks to Erle Leichty, J. A. Brinkman, and
+Nawala al-Mutawalli for allowing me access to the 3N-T tablets held in the University
+Muséum, Philadelphia, the Oriental Institute, Chicago, and the Iraq Muséum, Baghdad. I
+am also very grateful to my colleagues in Philadelphia, Chicago, and Baghdad for
+generous hospitality during my visits. Many people have contributed to this work in
+various ways. My debt to the Electronic Text Corpus of Sumerian Literature project is
+enormous: spécial thanks to Graham Cunningham, Jon Taylor, Gâbor Zolyomi for being
+such thought-provoking, hard-working and easy-going colleagues. I am also particularly
+grateful to Paul Delnero, Irving Finkel, Andrew George, Piotr Michalowski, and Michel
+Tanret as well as the usual suspects—Jeremy Black, Steve Tinney, Luke Treadwell, and
+Niek Veldhuis—for their invaluable discussions and insights.
+REFERENCES
+Ali, F. A., 1964, "Sumerian letters: Two collections from the Old Babylonian schools", unpublished Ph.D.
+dissertation, Pliiladelpliia, University of Pennsylvania.
+Black, J. A., Cunningham, G. G., Fliickiger-Hawker, E., Robson, E., Taylor, J. J., and Zôlyomi, G. G., 1998,
+The electronic text corpus of Sumerian literature, <http://www-etcsl.orient.ox.ac.uk/>, Oxford, The
+Oriental Institute.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+64 ELEANOR ROBSON [RA 95
+Cavigneaux, A., 1996, Uruk: altbabylonische Texte aus dem Planquadral Pe XVI-4/5 nach Kopien von Adam
+Falkenstein (Ausgrabungen in Uruk-Warka. Endberichte, 23), Mainz, Yon Zabern.
+Cavigneaux, A. 1999, "A scholar's library in Meturan? With an édition of the tablet H 72 (Textes de Tell
+Haddad VII)", in T. Abusch and K Yan der Toorn (eds), Mesopotamian magie: textual, historical, and
+interprétative perspectives (Ancient Magic and Divination, 1), Groningen, Styx, 253—73.
+Cavigneaux, A., and Renger, J., 2000, "Ein altbabylonischer Gilgames-Text aus Nippur", in A. R. George and
+I. L. Finkel (eds), Wisdom, gods and literature: studies in Assyriology in honour of W. G. Lambert,
+Winona Lake, Eisenbrauns, 91—105.
+Charpin, D., 1986, Le clergé d'Ur au siècle d'Hammurabi (XIX'-XVIIV siècles av. J.-C.) (Hautes Etudes Orien
+tales, 22), Geneva, Librarie Droz.
+Charpin, D., 1989-90, "Un quartier de Nippur et le problème des écoles à l'époque paléo-babylonienne", Revue
+d'Assyriologie et d'Archéologie orientale 83, 97-112; 84, 1-16.
+Civil, M., 1979, Ea A — nâqu, Aa A = nâqu, with their forerunners and related texts (Materials for the Sumerian
+Lexicon, 14), Rome, Pontifical Biblical Institute.
+Civil, M., 1980, "Les limites de l'information textuelle", in M. Barrelet (éd.), L'archéologie de l'Iraq du début de
+l'époque néolithique à 333 avant notre ère: perspectives et limites de l'interprétation anthropologique des
+documents (Colloques internationaux du Centre national de la Recherche scientifique, 580). Paris,
+Éditions du Centre national de la Recherche scientifique, 225-32.
+Civil, M., 1995, "Ancient Mesopotamian lexicography", in J. Sasson (éd.), Civilisations of the ancient Near
+East, New York, Scribner, 2305—14.
+Dekiere, L., 1994, "La généaologie d'Ur-Utu, gala.mah à Sippar-Amnânum", in H. Gasche, M. Tanret,
+C. Janssen and A. Degraeve (eds), Cinquante-deux réflexions sur le Proche-Orient ancien offertes en
+homage à Léon de Meyer (Mesopotamian History and Environment, Occasional Publications, 2),
+Leuven, Peeters, 125—141.
+Faivre, X., 1995, "Le recyclage des tablettes cunéiformes", Revue d'Assyriologie 89, 57—66.
+Gadd, C. J., and Kramer, S. N., 1966, Literary and religious texts: second part (Ur Excavations, Texts, 6/2).
+London and Philadelphia, Joint Expéditions of the British Muséum and of the University Muséum,
+University of Pennsylvania, Philadelphia, to Mesopotamia.
+Gasche, H., 1989, La Babylonie au XVII' siècle avant notre ère: approche archéologique, problèmes et perspectives
+(Mesopotamian History and Environment, Sériés II, Memoirs, 1), Ghent, The University of Ghent.
+Gasche, H., Armstrong, J. A., Cole, S. W., and Gurzadyan, Y. G., 1998, Dating the fall of Babylon: A
+reappraisal of second-millennium chronology (Mesopotamian History and Environment, Sériés II,
+Memoirs, 1), Ghent, The University of Ghent.
+Gasche, H., and Dekiere, L., 1991, "A propos de la durée de vie d'une maison paléo-babylonienne en briques
+crues", NABU 1991/20, 16-18.
+Gesche, P., 2000, Schulunterricht in Babylonien im ersten Jahrtausend v. Chr. (Alter Orient und Altes
+Testament, 275), Munster, Ugarit-Verlag.
+Gibson McG., Hansen, D. P., and Zettler, R. L., 2001, "Nippur B. Archâologisch", in D. O. Edzard (éd.),
+Reallexikon der Assyriologie und vorderasiatischen Archàologie 9, Berlin / New York, Walter de Gruyter,
+546-565.
+Gordon, E. I., 1959, Sumerian proverbs: Glimpses of everyday life in ancient Mesopotamia (Muséum
+Monographs, 4), Philadelphia, University of Pennsylvania.
+Heimerdinger, J. W., 1979, Sumerian literary fragments from Nippur (Occasional Publications of the
+Babylonian Fund, 4), Philadelphia, University Muséum.
+Janssen, C., 1991, "e'iltam patârum: awat hade!", in Mesopotamie et Elam (CRRAI 36, 1989), Ghent,
+University of Ghent, 77—107.
+Janssen, C., 1992, "Inanna-mansum et ses fils: relation d'une succession turbulente dans les archives
+d'Ur-Utu", Revue d'Assyriologie 86, 19—52.
+Janssen, C., 1996, "When the house is on fire and the children are gone", in K. R. Veenhof (éd.), Houses and
+households in ancient Mesopotamia (CRRAI 40, 1993), Istanbul, Nederlands Historisch-Archaeologisch
+Instituut te Istanbul, 237—246.
+Janssen, C., H. Gasche, and Tanret, M., 1994, "Du chantier à la tablette: Ur-Utu et l'histoire de sa maison à
+Sippar-Amnânum", in H. Gasche, M. Tanret, C. Janssen and A. Degraeve (eds), Cinquante-deux
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2001] THE TABLET HOUSE: A SCRIBAL SCHOOL
+réflexions sur le Proche-Orient ancien offertes en hotnage à Léon de Meyer (Mesopotamian History and
+Environment, Occasional Publications, 2), Leuven, Peeters, 91—123.
+Kramer, S. N., 1949, "Schooldays: A Sumerian composition relating to the éducation of a scribe", Journal of
+the American Oriental Society 69, 199—215.
+McCown, D. E., and Haines, R. C., 1967, Nippur I: Temple of Enlil, scribal quarter, and soundings (Oriental
+Institute Publications, 78), Chicago, The Oriental Institute of the University of Chicago.
+Pearce, L. E., 1995, "The scribes and scholars of ancient Mesopotamia", in J. Sasson (éd.), Civilizations of the
+ancient Near East, New York, Scribner, 2265—78.
+Postgate, J. N., 1990, "Archaeology and the texts—bridging the gap", Zeitschrift fur Assyriologie 80, 228-240.
+Robson, E., 1999, Mesopotamian mathematics, 2100—1600 BCE: Technical constants in bureaucracy and
+éducation (Oxford Editions of Cuneiform Texts, 1). Oxford, Clarendon Press.
+Robson, E., 2002, "More than metrology: Mathematics éducation in an Old Babylonian scribal school", in
+A. Imhausen and J. Steele (eds), Under one sky: Mathematics and astronomy in ancient Egypt and
+Mesopotamia (Alter Orient und Altes Testament, 297), Munster, Ugarit-Verlag, 325-365.
+Stone, E. C., 1987, Nippur neighborhoods (Studies in Ancient Oriental Civilization, 44), Chicago, The Oriental
+Institute of the University of Chicago.
+Tanret, M., 1982, "Les tablettes 'scholaires' découvertes à Tell ed-Dër", Akkadica 27, 46—49.
+Tanret, M., 2002, Per aspera ad astra (Mesopotamian History and Environment, Sériés III: Texts, 3), Ghent,
+The University of Ghent.
+Tanret, M., and Yan Lerberghe, K., 1993, "Rituals and profits in the Ur-Utu archive", in J. Quaegebeur (éd.),
+Ritual and sacrifice in the ancient Near East (Orientalia Lovaniensia Analecta, 55), Leuven, Peeters,
+435^49.
+Tinney, S. J., 1998, "Texts, tablets, and teaching. Scribal éducation in Nippur and Ur", Expédition 40/2,
+40-50.
+Tinney, S. J., 1999, "On the curricular setting of Sumerian literature", Iraq 59, 159-172.
+Van Driel, G., 1990, "Old Babylonian Nippur", Bibliotheca Orientalis 47, 559—577.
+Van Lerberghe, K., and Voet, G., 1991, Sippar Amnânum: The Ur-Utu archive (Mesopotamian History and
+Environment, Sériés III, Texts, 1), Ghent, The University of Ghent.
+Veldhuis, N., 1997, "Elementary éducation at Nippur: The lists of trees and wooden objects", Unpublished
+doctoral thesis, University of Groningen.
+Veldhuis, N., 1997—98, "Review of Cavigneaux 1996", Archiv fiir Orientforschungen 44-45, 360—363.
+Veldhuis, N., 2000, "Sumerian proverbs in their curricular context", Journal of the American Oriental Society
+120, 383-399.
+Volk, K., 1996, "Methoden altmesopotamischer Erziehung nach Quellen der altbabylonischen Zeit",
+Saeculum 47, 178-216.
+Volk, K., 2000, "Edubba' a und Edubba' a-Literatur: Ràtsel und Lôsungen", Zeitschrift fiir Assyriologie 90,
+1-30.
+Walker, C. B. F., 1995, "Mesopotamian chronology", in D. Collon, Ancient Near Eastern art, London, British
+Muséum Press, 230—238.
+Wilcke, C., 2000, "Wer las und schrieb in Babylonien und Assyrien: Uberlegungen zur Literalitàt im Alten
+Zweistromland", Bayerische Akademie der Wissenschaften, Philosophisch-Historische Klasse, Sitzungsbe
+richte. Jahrgang 2000, Heft 6, Munich.
+Zettler, R. L., 1997, "Nippur", in E. M. Meyers (éd.), The Oxford encyclopedia of archaeology in the Near East
+IV, New York / Oxford, Oxford University Press, 148-152.
+RÉSUMÉ
+La maison F dans la Nippur du XVIIIe siècle a livré plus de 1 400 tablettes dans un contexte archéolo
+gique précis. Elle fournit donc une occasion unique de vérifier nos théories relatives à la nature de la formation
+des scribes et au rôle de la littérature sumérienne à l'époque paléo-babylonienne. On constate que la sagesse,
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+66 ELEANOR ROBSON [RA 95
+reposant avant tout sur la littérature de Veduba relative à l'école, est absente, tandis que les hypothèses
+récentes formulées par Veldhuis et Tinney sur l'enseignement élémentaire et celui de la littérature sont
+confirmées et élargies. Il apparaît qu'il n'y avait pas un curriculum monolithique à Nippur mais plutôt un
+répertoire de compositions et un petit nombre de genres de tablettes standardisées qui étaient considérés
+comme formant un matériel pédagogique approprié, que les maîtres pouvaient utiliser quand ils le jugeaient
+opportun. En outre, le simple volume de tablettes de la maison F en particulier et de Nippur en général a
+presque certainement déformé fortement notre image de l'éducation scribale paléo-babylonienne en leur
+faveur, au détriment d'autre sites moins intensivement fouillés.
+ABSTRACT
+House F from eighteenth-century Nippur has yielded over 1,400 archaeologically contextualised
+tablets. It thus offers a unique opportunity to test our assumptions about the nature of scribal éducation and
+the rôle of Sumerian literature in the Old Babylonian period. The received wisdom, based predominantly on
+the eduba literature about school, is shown to be wanting, while more récent hypotheses put forward by
+Yeldhuis and Tinney on the elementary and literary curricula are upheld and developed. It appears that there
+was no monolithic Nippur curriculum but rather a repertoire of compositions and a small range of standard
+tablet formats which were considered appropriate teaching material, both of which scribal teachers could
+draw on as they saw fit. Further, the sheer volume of tablets from House F in particular and Nippur in général
+has almost certainly skewed our picture of Old Babylonian scribal éducation heavily in their favour compared
+to other less intensively excavated sites.
+Eleanor Robson
+Ali Soûls College, Oxford 0X1 4AL, UK
+<elean0r.r0bs0n@all-80uls.0x.ac.uk>
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 21:34:03 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

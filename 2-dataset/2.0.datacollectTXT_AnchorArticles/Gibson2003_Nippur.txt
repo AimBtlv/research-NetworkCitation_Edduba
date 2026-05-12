@@ -1,0 +1,136 @@
+# METADATA
+author: Gibson M.
+source_id:Gibson2003_Nippur
+title: Nippur
+Year: 2003
+Source_ID:  Gibson2003_Nippur
+Source_Type: Archaeological Report
+Source_Role,Step_distance: 1
+Pages: 76-78
+Web: oi.uchicago.edu
+: 
+
+# TEXT
+
+oi.uchicago.edu
+ModeliNG ANCieNt SettleMeNt SYSteMS
+and evolution of language. Through these related projects, the MASS model itself grows more
+refined.
+During his tenure as PI, Tony Wilkinson was particularly active in communicating MASS
+work to other researchers within the field of social modeling and in promoting general outreach
+activities to inform fellow academics about the advantages of modeling complex systems. He was
+awarded $2,800 to organize a seminar on “Modeling Behavior” at Durham University, with an
+additional £1,000 ($1,900) made available for a lecture series on the subject of “Modeling Being
+Human” to follow in 2008 (with Professor Michael Goldstein; Durham, Dept. of Mathematics).
+Through Professor Wilkinson’s efforts, MASS representatives have participated in sessions on
+modeling complex systems organized by Doug White (Oxford), Tim Kohler (Santa Fe Institute
+and the Society for American Archaeology), and others. More general communications are being
+presented at meetings such as the Theoretical Archaeology Group conference, (Exeter, UK), the
+Hewlett Packard Centre’s eGrid Seminars (Birmingham, UK) and at the University of Durham
+Institute of Advanced Studies (the last named has as its theme “Modeling,” for 2007/2008).
+The list of talks and publications given by individual members of the MASS team is far too
+lengthy to present in full here. Two noteworthy publications, representing collaborations by
+several team members, appeared this past year: “Modeling Settlement Systems in a Dynamic
+Environment: Case Studies from Mesopotamia” (in The Model-Based Archaeology of Socionatu-
+ral Systems, edited by T. A. Kohler and S. E. van der Leeuw, pp. 175–208 [Sante Fe: School for
+Advanced Research Press]) and “Urbanization within a Dynamic Environment: Modeling Bronze
+Age Communities in Upper Mesopotamia” (American Anthropologist 109: 52–68).
+Work for the Coming Year
+In 2007/2008 the MASS project enters its final year under the present NSF grant. The team has
+begun initial planning for a MASS symposium to be held at the Oriental Institute in January 2008
+(immediately following the annual meeting of the American Institute of Archaeology, which
+takes place in Chicago next year). A draft of the final monograph will be presented to the Univer-
+sity of Chicago Press by August 2008.
+——————————
+Nippur
+McGuire Gibson
+As far as anyone can tell from this distance, Nippur is relatively safe from looting. Our guards re-
+port to our representative in Baghdad that the site is fine and that they wish we would come back
+to dig. Besides our guards, there are supposed to be a number of special antiquities guards housed
+in a new building near our expedition house. These new guards are responsible not only for
+Nippur but also for the other sites in the area. A fairly recent satellite image showed that there was
+no new illegal digging at Nippur. The damage done in 2003 was restricted to the northern part
+of the West Mound, and the holes were relatively shallow. A couple of small outlying mounds
+of Sasanian and Islamic date were also dug on, but they probably did not give the diggers much,
+76 The OrienTal insTiTuTe
+oi.uchicago.edu
+Nippur
+unless they found some glass bottles, for which there is a very
+active market.
+The looting of sites is still going on all over southern Iraq.
+Again, satellite images show dramatic increases in the areas of
+mounds that are being destroyed. The images shown here are
+of the site of Isin, which is only about 30 km south of Nippur.
+It was already being dug on in the 1990s, when the embargo
+was creating economic problems in Iraq, which resulted in the
+laying off of many government employees, including antiqui-
+ties inspectors. At the same time, because the government had
+very little control over the south of Iraq, looters could dig with
+impunity. The first photo is from 2002, and you can see a lot
+of holes in one part of the site. The second photo is from 2006,
+and you can see the great increase in the digging. Isin, as one
+of the important capitals in Babylonia in two different periods
+(2017–1794 and 1157–1026 b.c.), has drawn the interest of
+scholars for a century, and a German expedition worked there
+from the 1970s until 1990. Whether anyone will be willing to
+work there in the future will depend on how much of the site
+is left intact. Although the antiquities organization is currently Map of Mesopotamia
+trying to stop looting at some sites in the south, it is not certain
+that it can have much effect, especially at places like Isin, which is miles from a town, and there-
+fore hard to police. Nippur, being only five miles from the town of Afak, is more easily brought
+within the orbit of whatever government presence there is.
+Here in Chicago, we continue to work on publication of our excavation reports, and there
+is slow progress. The recent death of Donald P. Hansen, longtime professor of art history and
+archaeology at New York University’s Institute of Fine Arts, adds greater urgency to the need
+for publishing previous work at Nippur. Don was an excavator of extraordinary skill, and a great
+Isin: (left) 12/27/02 and (right) 12/25/06
+2006–2007 annual repOrT 77
+oi.uchicago.edu
+Nippur
+synthesizer of material. Working as a Research Associate of the Oriental Institute under Carl
+Haines, the director of the Nippur excavations in the early 1960s, he was the person responsible
+for the detailed excavation of the Inanna Temple, with its dozens of fine statues, seals, and other
+objects of the Early Dynastic period (ca. 3000–2450 b.c.). That sequence of temples gave the
+evidence for a new organization of the pottery and other objects of the period, with Hansen even-
+tually coming to the conclusion that instead of dividing the era into three parts, it would be better
+divided into two. His arguments were given in a series of brilliant articles, and in a dissertation
+by one of his students, Jean Evans. But even with all this work, the manuscript of the final report
+that Hansen was doing with Richard L. Zettler, professor at Pennsylvania, is not yet finished. We
+now need to assemble all the persons with an interest in the Inanna Temple and in the two seasons
+that he conducted for the Oriental Institute at Abu Salabikh and decide how best to parcel out the
+effort to see all his work to publication. At the same time, I need to gather together all the pieces
+from different team members to get my own excavations at Nippur finished. This will take up a
+lot of time in the next year, and I expect it to lead to real results.
+James A. Armstrong, former team member at Nippur and now the Curator of the Semitic Mu-
+seum at Harvard, received a grant to work with Hermann Gasche in Paris with the aim of finishing
+the Corpus of Second Millennium Pottery that the University of Ghent and the Oriental Institute
+have been cooperating on for more than twenty-five years. Steven Cole hosted Gasche for a week
+in Chicago in order to proceed with the analysis of the southern end of the Iraqi/Iranian alluvial
+plain, another aspect of the cooperation that the Ghent and Nippur expeditions have fostered.
+Augusta McMahon’s The Early Dynastic to Akkadian Transition, volume five in the Nippur
+series, for which I wrote an introduction and did the initial editing, appeared this year. It is a very
+handsome book, reflective of the care and precision that has been McMahon’s hallmark. During
+the year, I wrote a long article on the history of excavation at Nippur, listing all the operations
+and the important findings. I delivered a digested form of this article at the British Association for
+Near Eastern Archaeology meetings in Edinburgh. The article was supposed to go into a volume
+being published in Britain. As it happens, most of the other contributors did not meet the deadline,
+and the volume was canceled. I am looking into an alternative for publication, probably a journal.
+If I could find the time, I would like to expand it into a book about the site, its significance, and
+the history of investigations there.
+——————————
+NubiAN expeditioN
+Geoff emberling and bruce Williams, with Contributions by Justine James
+The Oriental Institute Nubian Expedition (OINE) was revived in 2007, with a season of
+excavation in the Merowe Dam salvage project in northern Sudan, co-directed by Geoff
+Emberling and Bruce Williams. The last fieldwork of the OINE ended thirty-nine years ago in
+1968.
+The Merowe Dam, located just upstream of royal Kushite pyramids at Nuri and Jebel Barkal,
+will form a lake one hundred miles long and two miles wide when it is finished in the summer
+of 2008. It will flood virtually all of the Fourth Cataract (fig. 1), a region in which virtually
+no archaeological research had been conducted before the dam project began. That alone is a
+78 The OrienTal insTiTuTe
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

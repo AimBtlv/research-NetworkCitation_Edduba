@@ -1,0 +1,685 @@
+# METADATA
+Author: Schneider B.
+Title: Nippur: City of Enlil and Ninurta Introduction: Location as Advantage
+Year:2022
+Source_ID: Schneider2022_NippurCit
+Source_Type: Article in JOurnal: 
+Source_Role,Step_distance:2 ,3,4 
+Pages: 745 -763
+Web: https://doi.org/10.1515/9783110798432-039 
+published: De Gruyter
+
+# TEXT
+
+Bernhard Schneider
+Nippur: City of Enlil and Ninurta
+Introduction: Location as Advantage
+Nippur flourished for over five thousand years, well into the Early Islamic period
+(until about AD 1000), something documented by the establishment of Nippur/
+Niffer as the seat of a bishop. In this way, it was a city of religious importance for
+nearlyfourthousandyears.Also,thepreservationofthenameofthecity,withonly
+aslightshiftofthemiddleconsonants,atteststothelongevityofthissettlement.
+TheimportanceofNippurmaybeexplainedbyitsstrategicpositionatthebor-
+dersofNorthandSouthBabyloniaor,earlier,betweenAkkadandSumer.Addition-
+ally, the favourable conditions for agriculture facilitated by natural levees might
+have provided an early push for the settlement.1 Furthermore, Nippur is also situ-
+atedatthecrossroadsofthemaintraderoutesfromwesttoeastinthedirectionof
+Susa (Persia) as well as north to south leading up via Assur to Anatolia and along
+theEuphratesdowntoUrukandthePersianGulfwithDilmun/BahrainandMagan/
+Omanasitsnexttradehubs.Tradecouldhavebeenthereasonforanearlyconnec-
+tionbetweenNippurandDēr,BÀD.AN.KI(Sum.),“boltofheavenandearth”onthe
+borderregiontowardsElamintheeast,possiblyalreadyatthebeginningofthe3rd
+MillenniumBC.ThewritingofthecitynameseemstobeanallusiontoDUR.AN.KI
+(Sum.),“bondofheavenandearth”intheeasternpartofthecity,knownfromthe
+inscriptionsofŠulgiattheInanaTemple(MoundVI).2
+The name Nippur was written logographically as EN.LÍLKI, meaning literally
+“place of Enlil”. This could lead us to the conclusion that this “place of Enlil” ex-
+istedbeforeavenerablecitysurroundedit.Besidesotherquestions,thishypothesis
+willbetestedarchaeologicallyinthispaper.3
+AcomparablecaseexistswiththegodAššurinhiscity(akk.)Aš-šurKI(sum.AN-
+SÁRKI).First,therewastherockrisingabovetheTigrisriverasasacredplace,then
+thecityfollowed.ItevendevelopedinsuchawaythatWilfredLambertstated,“...
+ Wilkinson/Jotheri2021,243–255.
+ Later,theBabylonianchroniclesusethisterm,seemingly,forNippurasawhole.
+ DuringtheconferenceinToulouse,thepaperbenefittedfromthecommentsofNicolaLaneriand
+RociodaRiva.AnadvancedversionofthispaperwasgivenataZoom-talkorganisedbyAbather
+Sadoon,Al-MuthannaUniversity,Iraq.Someoftheargumentsgiveninthisarticlebenefittedfrom
+thediscussionwithJanaMatuszakduringthistalk.NumerousdiscussionswithAageWestenholz
+(“NippurDigitized”)concerningtheexcavationsonthe“Westmound”inspiredquiteafewpointsI
+raisehere.Therefore,Iextendmythankstohim.Everythingdiscussedinthispaperisunderthe
+soleresponsibilityoftheauthor.HansNeumann,HeatherBaker,andJanineWendeprovidedme
+whichotherwisewouldhaveremainedinaccessibletome.
+OpenAccess.©2022theauthor(s),publishedbyDeGruyter. Thisworkislicensedunderthe
+CreativeCommonsAttribution4.0InternationalLicense.
+https://doi.org/10.1515/9783110798432-039
+746 BernhardSchneider
+thatthegodAššuristhedeifiedcity.”4Itisinterestingthattheimmediatesurround-
+ingsofbothcitieswereoccupiedupuntiltheIlkhanidperiod(AD1258–1410)andthe
+moundscontinuedtobeusedasgraveyardsuntilmoderntimes.5
+History of Research
+Nippur has beenexplored sincethe mid-19thcentury by several Britishexpeditions,
+although it was the French-German Assyriologist Jules Oppert who identified the
+ruinsof NifferwithNippur.6Upuntil1948,theUniversityof Pennsylvania hadcon-
+ductedthelargestscaleexcavationsatthesite,butsince1948,thesizeoftheUniver-
+sity of Chicago’s excavations has surpassed those of the Pennsylvania excavations.
+From the early 1970s, McGuire Gibson, as director of the Nippur excavations, con-
+ductedseveralstudiesconcerningtheurbanlayoutofNippurinvarioushistoricalpe-
+riods.7 Most recently, Hans Neumann dedicated a study to the earlier history of
+Nippurupuntilthebeginningofthe2ndMillenniumBC.8Theaimofthispaperisto
+addsomenewinformationconcerningthebuild-upofthemoundsinNippurthrough
+anintegratedapproachincludingarchaeologicalandepigraphicsourceswithoutre-
+peatingallthemainconclusionsthesemostrecentstudiesprovide.
+Archaeological Evidence
+ThemoundscomposingtheruinsofNippur/NifferbegantoaccumulatefromUbaid
+times in the 5th Millennium BC (in the Hajji Muhammed phase, c. 5000–4300 BC:
+Ubaid2).Thetownmusthavealreadybeenconsiderablewhentheinfluenceofthe
+Uruk expansion, a phenomenon of widespread urbanization, reached the site dur-
+ingthesecondhalfofthe4thMillenniumBC.Later,followingtheJemdetNasrand
+EarlyDynasticIperiod,fromabout3100BConwards,Nippurwashometoasanctu-
+aryrelatedtothegodEnlil.ThisissuggestedasthecitynameofNippuritselfwas
+alreadywrittenwiththenameofthegodEnlil.
+ Lambert1983,83.
+ Gibson1992;Schneider2018a.
+ Oppert1863,270–271.
+ Seeforexample,Gibson1992;Gibson1993;Gibson/Hansen/Zettler2001.
+ Neumann2018.IwanttothankHansNeumannforprovidingmewithacopyofthispaper.For
+furtherbibliographicreferencesandabroaderconsiderationofSouthernMesopotamianurbanism
+duringthe2ndand1stMillenniumBCseenowalsoBaker2022.
+Nippur:CityofEnlilandNinurta 747
+TheBuild-Upofthe “TempleMound” (MoundIII)
+TheearliestsettlementcanbedatedtotheHajjiMuhammadphase(Ubaid2)ofthe
+Ubaid period, generally set around the beginning of the 5th Millennium BC (more
+recently, 5400–5200).9 At this depth, the excavators could barely distinguish be-
+tweenstructuresandthesurroundingclaybecauseofthedampnessofthematerial
+close to the water level. This was at least partly the result of the raising of the
+groundwaterlevelintheregionbythelocalOttomangovernmentinaround1900,
+documented by the early excavators. There are some sherds published by Dough-
+ertyinthe1920safterhissurveythroughSouthernMesopotamia,whichwerefound
+inthethenstillopentrenchesattheEastMoundofNippur(“TempleMound”,No.
+III on Fig. 1; see also Fig. 2).10 The post-World War II soundings made towards the
+northwest of this mound could trace Ubaid sherds from a depth of 78.95 m.11 It is
+thereforebelievedthatitwasfromthisareathattheParthiansextractedthematerial
+Fig.1:ThemoundsofNippurassurveyedbyPerezHastingsField,architectoftheexpeditionof
+1889withthenumbersofthemoundsmentionedinthetext.UniversityofPennsylvaniaMuseum
+ofArchaeologyandAnthropology(©B.Schneider).
+ Aurencheetal.2001.SeethesectionpublishedbyFisher1905/06,Pl.17.
+ Dougherty1926,Fig.30.
+ McCown/Haines1967,156–157.
+748 BernhardSchneider
+forthelater“ParthianFortress”on“TempleMound.”Accordingtooneoftheexcava-
+tors,thehigherbricksshowedtentativelyearliermaterialthantheloweronesinthis
+massiveconstructionproject.12
+Not surprisingly, it is in the Ubaid time that Hans Neumann, in his recent as-
+sessmentoftheearlyhistoryofNippur,searchedfortherootsofNippurasacultic
+site. By the Late Uruk period, Nippur was still a small town of about 25 hectares,
+muchsmaller thanmoresouthernsites, suchas Eriduwith40 hectaresand,natu-
+rally,Urukwithupto100hectares.Tosomeextent,thismightbeareasonfor the
+great amount of overlay which accumulated at Nippur in the following four thou-
+sand years and onwards. Additionally, painted clay cones made in the mud brick
+material were spread during the heavy construction work during the Parthian pe-
+riod(untilaboutAD150).ThatNippurwaspartofa“NetworkofSouthernMesopo-
+tamian Cities” becomes clear later with the mention in the “City Seals” of the
+JemdetNasr/EarlyDynasticIperiodfrom3100untilabout2700BC.
+Neumann also mentions the place for the river ordeal, known from the Early
+Dynastic texts, which could have been another reason for the importance of Nip-
+pur.13 Still in the Ur III times, the ordeal god Ilurugu, together with Allatum, re-
+ceivedsacrificesonthe7thdayoftheInanafestivalofthe6thmonthoftheyear.14
+“Clean/HolyMound”,du .kug (Sum.)as Venerated
+6
+ArtificialHill (Tell)?
+It is in the Ubaid/Uruk time when the first artificial Tell started to accumulate at
+East-Nippur (No. III on Fig. 1).15 From then on, it must have been one of the most
+prominentplacesandthereforewaschosentoeventuallyhousethemaintempleof
+thecity.
+During Ur III times (c. 2100–2000 BC), the king himself took part in a festival
+dedicatedtothe“Clean/HolyMound”dukug(Sum.)onthe7thmonthoftheyear.16
+Forexample,atextfromthe46thyearofthereignofŠulgi,around2000BC,men-
+tions the “Clean/Holy Mound” dukug (Sum.) inside the Ekur complex, although
+without referring to the exact location.17 Other times, this so far not physically lo-
+cated featureseemsto beset somewhereelse,outsideof thetemple,followingthe
+ PersonalcommunicationwithEdwardJ.Keall(Toronto).
+ Neumann2018,42.
+ Sallaberger1993,128–129.
+ Fisher1905–06,Pl.17.
+ Sallaberger1993,130.
+ Pitts2015,29.
+Nippur:CityofEnlilandNinurta 749
+lists with sacrifices.18 This suggests that we should identify dukug with the Tell of
+the “Temple Mound” (No. III on Fig. 1), pre-existing before the foundation of Ur-
+namma in Ur III times, probably already before the foundation of Narām-Sîn and
+Šarkališarri.19
+Mythological Evidence of Foundation
+According tothe myth,“The creation of thepickaxe/Song of thehoe”(see below),
+Nippurwas builtbya hoe at theplace, which wasstill knownto be located at the
+site during the 1st Millennium BC, where a temple dedicated to the goddess Inana
+stoodfromabout2900BConwards,atthelatest.Thismightbenocoincidenceas,
+fromaperspectivedominatedbytheUruk-ideology–withInanaasthemaingod-
+dess -, this made sense and found its way into the literary tradition, right up until
+the2ndand1stMillenniumBC.
+Political Instrumentalization of the Sanctuary:
+An Overview
+AsthemainSouthernMesopotamiansanctuary,sometimesreferredtoastheMeso-
+potamianVatican,instrumentalizationwasomnipresentattheEkur(Fig.1:Mound
+III). Lugalzagesi, the Early Dynastic ruler of Umma, celebrated an enormous ban-
+quet here during the 24th century BC, the scale of which can only be estimated
+through hundreds of preserved fragments of stone bowls with a votive inscription
+commemoratinghissupremacyfromtheupperseauntilthelowersea.20Thiswasa
+short-livedsuccess,asonlyafewyearslaterhewasbroughttothegateofthevery
+same temple, this time in fetters and a neckstock as a clear sign of submission,
+after being defeated by Sargon of Akkad.21 The Akkad period (see below) saw the
+rise of Enlil besides Ištar to the head of the pantheon of the Early Empire of
+ Such-Gutierrez2003,88.ForOldBabyloniantimes,seeRichter2004,41–51.
+ ConcerningthematerialityofthefoundationoftheEkuratNippurduringUrIIItimes,see
+Schneider(forthcoming)2022a.
+ Theywerefoundspreadallovertheremainsofthesanctuarybutthemainaccumulationap-
+pearedinalayercontainingfragmentsofstonevesselswithvotiveinscriptionsmainlydatingto
+EarlyDynasticIIIB(c2450–2350BC).Anotherearlyexampleisthestonefragmentsofvotivevessels
+fromLugal-kiginne-dudu.
+ Sallaberger1997.
+750 BernhardSchneider
+Akkad.22 During this time, it even seems that Enil was succeeded by his son, Ni-
+nurta,whowentontobeidentifiedasthecitygodofNippur.23
+TheEkurtempleconstructionprojectofUrnamma,thefounderoftheThirdDy-
+nasty ofUr,seeminglydesignedtosurpass theearlierAkkadianfoundation,isan-
+othercasewhereNippur,withitsmainsanctuary,servedasthereligiouscentreof
+thestate,politicallycentredatUr.24AlthoughatfirstglanceitseemsthatUrnamma
+wanted to wipe out any knowledge of the legacy of Akkad with this new gigantic
+buildingproject,acloserlookatthematerialityofthisfoundationshowsthatthere
+wascontinuityviaanintermediatestratumwhich,besidestheearlierbrickstamps
+made of terracotta, even incorporated the older temple archive.25 Furthermore, an
+installationwhichcannotbeconnectedwithanyotherlevelofconstructionseems
+tohaveservedassomesortofbuildingritual.
+Later,duringtheMiddleBabylonianperiod,beginningwiththe14thcenturyBC,
+rulers of foreign, Kassite origin, best described as outsidersin thecenturies before,
+revitalised the Enlil cult in Nippur26 and dedicated a newly built residence in Dur-
+Kurigalzu, modern ‘Aqar Quf, on the growing outskirts of modern Baghdad, to the
+same god. Here, the choice of Enlil as a main god may have been favoured by the
+similarityofhisqualitiestothoseoftheKassitegodḪarbe.27But,moreimportantly,
+withEnlil’scultatNippurtherewasareligiousandideologicalcounterprogramwith
+the ability to oppose the Babylon-centred cult of Marduk, which was firmly estab-
+lishedbytheHammurabiDynastyduringthefirsthalfofthe2ndMillenniumBC.
+However,thesackingofBabylonbytheHittitesin16thcenturyBC(1595/1499),
+ascurrentknowledgeseemstoreveal,withthehelpofHanaeans(situatedaround
+the Middle Euphrates in Syria), as well as Kassites, and the exile of the Marduk
+statueatHanaintheaftermath,openedthewayforthenewcomers.28
+Evenwhenitseemedthatreligiousrealitiesmayfinallyhave changed infa-
+vour of a full domination of the Babylonian cult of Marduk at the end of the 2nd
+ Hansen2002;forthepottery(excavated1948–50)fromtheAkkadperioduntilKassitetimes
+fromthe“EnlilTemple”tothenortheastoftheziggurat,seeScazzosi2014/15.Concerningthear-
+chaeologicalevidenceofthewholeEkur,seeSchneider2018b.
+ Sallaberger1997.
+ Sallaberger1993.
+ SeeSchneider(forthcoming)2022.Forthecontentofthisarchive,seeWestenholz1987.The
+foundationlaidduringtheAkkadperiodwascomparablycutintoearlierlayersastheUrIIIfoun-
+dationdid.SeeSchneider2018b.
+ FortheKassiteEkur,seeSchneider2015;Schneider2016;Schneider2020a;Schneider2020b.
+Forthepoliticalhistory,seePaulus2014b.
+ Balkan1954,101–106;Balkan1954,219.
+ Paulus2014b.
+Nippur:CityofEnlilandNinurta 751
+MillenniumBC,NebuchadnezzarI(c.1121–1100BC)stillintroducedofficialdocu-
+ments drafted at Nippur with a hymn to Enlil as the supreme god, and not Mar-
+duk!29 And even in the 1st Millennium BC, during the Assyrian domination of
+Mesopotamia, itisstill Enlil who isvenerated atNippur,althoughbuilding inscrip-
+tionsappearwiththemorepragmaticwritingofthegod’snameasDINGIR50,which
+interchangeablystandsforEnlilaswellasAššur.InNeo-Babyloniantimes,thesame
+designation could stand for Marduk, althoughthereare nearlynoroyalinscriptions
+extantfromNippurlaterthantheNeo-Assyrianperiod,withasinglebrickcontaining
+theinscriptionofAššur-eṭel-ilānicommemoratingconstructionworkattheEkurtem-
+ple as the most recentone.30 The stamped bricksof NebuchadnezzarIIwhich were
+foundinsituinthe“EnlilTemple”oftheEkur,tothenortheastoftheziggurat,regret-
+tablyaddnofurtherinformationconcerningtheexactconstructionworkexecuted.A
+six-linestandardinscriptionmentionsthekingascaretakerofEsangilandEzida.31At
+least two additional examples of unpublished, fragmentary bricks, found in later
+layers, were documented by the excavators.32 Further bricks with the same inscrip-
+tion of Nebuchadnezzar II were found during several archaeological surveys con-
+ductedinthebroadersurroundingsofNippur.Theyseemtoattestatleastamodest
+amount of public construction work also during this period and suggest that from
+thistimeonwardthisruralareabecamemoredevelopedthaneverbefore.33
+ Paulus2014a,491–502(NbkI1).Intheintroductorydedicationofthisdocument,Enlilisclearly
+presentedasthehighestgod.Forthisstudy,itisinterestingthatthisdocument(Akk.kudurru)was
+called“NinurtaandNuskuaretheoneswhosetthekudurruforposterity”(o.I–II).Furthermore,
+NebuchadnezzarIisgiventhetitle“theonewhoawaitsEnlilandNinurtafearsomely”(II11).For
+thePost-KassiteevidenceattheEkur,seeSchneider2017.Thefragmentaryinscriptiononakudurru
+ofNebuchadnezzarIwhichrecentlyfounditswaybacktoIraq(2019)viatheBritishMuseumseems
+toalsoconcernEnlilandnotMarduk.IamindebtedtoJonTaylor(BritishMuseum)forproviding
+mewithhisunpublishedworkconcerningthecontentofthisobject(e-mailof26March2020).
+ WhenIwasabletocopythisbrickinscriptionintheHilprechtCollection(Jena),accesskindly
+providedbyManfredKrebernik,itwasinterestingtoseethatitsedgeswerecuttothesizeofthe
+inscription.ApapersqueezepreservedintheNippurarchiveattheUniversityofPennsylvaniaMu-
+seumofArchaeologyandAnthropologymadeitapparentthatitwascutintosuchaformat(bro-
+ken)inantiquity.SeeSchneider2018b.
+ SeeSchneider2018a;Schneider2022.
+ Accordingtothelistoffindswithinscriptions(1948–50)preservedattheUniversityofPennsyl-
+vaniaMuseumofArchaeologyandAnthropology,Nippurarchive.
+ TostudytheruralareanearbyNippurmainlyduringthe1stMillenniumBCistheaimofaproj-
+ectcurrentlydevelopedbytheauthor.ConcerningtheNeo-Babylonian/Achaemenidtransitionand
+thearchaeologicalevidenceoftheArad-Guladossierofthe“Ekur-archive”seeSchneider(forth-
+coming)2022b.OntheanalysisofaburialtypefromtheLateAchaemenid/Seleucidperiodsee
+Schneider(forthcoming)2022c.
+752 BernhardSchneider
+TheAdministrativeStructureat NippurduringtheAkkad-Period
+FollowingthestudyofOldSumerianandOldAkkadiantextsconductedbyAageWest-
+enholz,theEkurwasheadedtraditionallybyasanga(Sum.),withaliteralmeaningof
+“head”, which was now alsosupervised by a šagina (Sum.), who wasdesignated by
+andhadtoreporttotheleadersoftheEmpireofAkkad.34In1987,Westenholzcoined
+theterm“MesopotamianVatican”fortheOldAkkadianEkur,withwhichheprimarily
+meanttheorganisationallevel,asanindependentunitwithinthecityofNippur.De-
+spiteitsoriginalintentions,duringthe3rdMillenniumBC,astheSouthernMesopota-
+mianreligiouscentre,EkurwasindeedcomparabletothecurrentcentreofCatholicism
+intermsofitsculticimportanceaswellasitslayoutwithamainforecourtthathoused
+severaldivinestatuesinsteadofstatuesofsaints.35
+The administration under the ensí (Sum.), the “city ruler” of Nippur, concen-
+trated on the part dominated by the Ninurta temple, called Ešumeša. He was also
+theheadofthistemple.TheensíhadtomakeregulartripstoAkkad,whichisdocu-
+mentedinthe“OnionArchive”fromthenorth-westernpartofthe“Westmound”of
+Nippur(MoundI,Fig.1),publishedbyWestenholzinthesamevolumein1987.36
+Later on in the Ur III period, Ninurta was already accumulating some of Nin-
+girsu’s qualities. This might have been a reversed assimilation as, even earlier,
+theLagaš-dominatedpantheonheadedbyNingirsuwasincorporatingEnlilasthe
+fatherofthegod,atonepointevenwiththeconstructionofhisowntemplecalled
+È.AD.DA (Sum.), “house/temple of the father” while the king of Lagaš even in-
+cludedthetitle“obedientshepherdofEnlil”.37
+Localizing the Temple of Ninurta
+IfwelookatthelayoutoftheruinsofNippur,twopartsappearprominent(Fig.1).They
+consist of mainpartsthat canbe simplifiedas the“Westmound” and “East Nippur”
+witharelationofroughly3:2.Severalfindsleaddifferentresearcherstofavoureither
+the“Westmound”or“EastNippur”asthelocationoftheNinurtatemple.Inthefollow-
+ingtwosections,themainargumentswillbesummarisedwithadditionalevidence.
+ Westenholz1987;Westenholz1999.IamverythankfulthatIwasabletodiscusssomeofthis
+withIngerJentoftandAageWestenholzinpersonwhentheyinvitedme,withmywifeandchild,to
+theirhouseinDenmarkinSeptember2017.
+ AnothercomparisonwithamorelocalChristianmainsanctuarysuchas,forexample,theSte-
+phansdominVienna,wouldbethepossibilityofsettingupofmeasuringequipmentwithinthepe-
+rimeterofthebuilding.SeeSchneider2020a,162.
+ Westenholz1987.
+ Forasummaryoftheevidence,seeSelz1992.
+Nippur:CityofEnlilandNinurta 753
+TheEvidence forNinurta onthe “Westmound”
+Regrettably,theNinurtatemplewasnotfound,despiteabout170yearsofarchaeo-
+logical exploration at Nippur. Furthermore, it was not even added to the Middle-
+BabyloniancitymapofNippur.38Thiscanbeexplainedbythefactthatthiswasa
+strategic plan, concerning the defence of the city. Hence, only strategically impor-
+tant structures like the city walls, moats and water ways were indicated on this
+map.ThisalsomakesitclearthattheEkurtempleofEnlil,withtheadjacenttemple
+of his divine consort Ninlil, could have been used as a fortress in times of crisis.
+ThismighthavebeenthecaseseveraltimesinthelonghistoryofNippur.
+On his schematic plan of Nippur, Westenholz indicated the reconstructed ap-
+proximate findspot of the tablets from where the aforementioned “Onion archive”
+ofthecityrulerofNippurwasexcavated:Here,atthesouth-eastslopeofthenorth-
+westernpartofthe“Westmound”,designatedbytheearlyexcavatorsasMoundIor
+“CampHill”(seeFig.1).39
+Fig.2:Droneimageoverthe“Westmound”(MoundX,withMoundIVandMoundIabove)
+towardsEastNippur(MoundIII).(©K.Mohammadkhani/OrientalInstitute,
+UniversityofChicago).
+ SeeOelsner/Stein2011.
+ Westenholz1987,94.FortheapproximatelocationoftheOnionArchive,seeibid.88:Fig.2.
+WestenholzaddedseveralconvincingfindstothemainargumentsthattheNinurtaTempleistobe
+foundatthe“Westmound”.
+754 BernhardSchneider
+After1990, whenGibson identifiedtheWAtemple(Mound I,Fig. 1)as Gula’stem-
+ple, it was considered that the temple of her consort Ninurta could also be found
+nearby.40Inmyopinion,thisseemstobehighlylikelyifwekeepinmindthatthe
+equallyunexcavatedNinlilTemplewasalsoindicatedontheNippurcitymapbor-
+deringtheEnlilTempleonitsnortheastside.41Thelatterevidenceisalsostrength-
+enedbythefactthatadoorsocketcontainingadedicationtoNinlilbyaKurigalzu
+I/IIwasfoundalongthelineofthenorth-easternwallofthezigguratcourtyard.42
+One of the finds which points towards an identification of the excavated struc-
+tureastheGula/NinisinatempleaswellastheNinurtatemplewouldbethefragmen-
+tarypart(5.7x 4.9 x 2.3 cm) ofa green stoneaxe43withaninscription “propertyof
+dNIN...”whichshouldbereconstructedasdNIN.EZEN.NAassuggestedbyMiguel
+Civilaccordingtothetracesleftonthepublishedphotograph.44ThiswritingofNini-
+sinawasinuseduringthetimeofAdad-apla-iddina(1069–1048BC)andhisinscrip-
+tionsfromIsincanbefoundonbrick.45
+FurthertothesoutheastinWB(MoundIX,Fig.1),alistconcerningregularof-
+ferings, satukku (Akk.), was found. It is of a type postdating the satukku lists dis-
+cussed by Sigrist. The latter contain dates preserved until Rim-Sin of Larsa, (c.
+1822–1763BC).46
+Inanevenmoresouth-easternpartofthe“Westmound”(MoundX,Fig.1)two
+contractswerefoundamongaburialmentionnaditusofNinurtafrom“Placeofthe
+lukur-priestesses”, ki-lukur-ra (Sum.). From another burial came a pink diorite
+(lOB)cylindersealwhichbelongedtoa“lukurofNinurta”.Additionally,ajugwith
+theOldAkkadianinscriptionofUrdu,thechiefpotterofNinurta,wasfound.Itde-
+rives from a disturbed context on the foot of the northeast slope of Mound X, be-
+sidesothervotiveofferingswhichweredescribedbyHaynesinhisreportsofearly
+1895,duringthe3rdcampaign,asbeingerodeddownfromthemound.
+Alsopointinginthesamedirectionisthenameforthe“gateoftheculticallyim-
+purewomen”,abulmu-us-sú-ka-tim(Akk.)whichisknownfromtheMiddleBabylo-
+niancitymapandhastobelocatedonthenorth-westernpartofthe“Westmound”.
+Thenameofthisgatealludes,accordingtoAndrewGeorge,toa“processionofthese
+ladies”duringafestival,whenNinurtareturnstohistempleEšumešaonthe15thday
+inAyyaru(April/May).47
+ Gibson1990;Stone1991,235–236.
+ Stein2017,Fig.14.
+ Concerningtheevidenceofthefindspot,seenowSchneider2020a.Forareconstructionsee
+Scazzosi2014/15,11–12:Fig.3.
+ Gibson1975,38,45,Pl.28:3a-b.
+ Gibson1972,134–135.
+ Hroudaetal.1977,89–90(IB148ab38x38x6,5cm).ItwasfoundwithintheLevelIVtemple
+WA12,Room2,Floor12;Hroudaetal.1977,38.
+ Westenholz1987;Sigrist1984.ThedategivenisfollowingtheMiddleChronology.
+ George1990,157–158.
+Nippur:CityofEnlilandNinurta 755
+Some Evidencefor Ninurta at“EastNippur”
+The main argument for Zettler’s (1992, n. 41) location of Ninurta’s Temple near to
+theInanaTemplewasthat,withinthelaterParthianplatformoftheInanaTemple,
+“Vaughn Crawford noted that tablets from the archive of the Ninurta temple were in
+the fill of the northwestern part of the platform, whereas tablets from the archive of
+the Inanna temple were in fill of its center and southeastern sectors (Crawford, Nip-
+pur,theHolyCity,77–78).”
+To this, we should add the bricks dedicated by Išme-Dagān of Isin (c MC
+1953–1935 BC) for the socket of Ninurta’s 50-headed mace excavated by Peters in
+1890neartotheEkur.48ItisnotreallysurprisingthatNinurtahadasocketforhis
+maceneartothistempleashewasconsideredtobethe“herooftheEkur”.
+TheremightstillbeachancetofindthistempletosomedegreeintactasZettler
+rightlyaddedthat“sincetheNinurtatempletabletsdatetotheIsin-Larsaperiod,the
+Parthianbuildersprobablydidnotdisturbearlierlevelsofthattemple.”49
+ConclusionsConcerning theSiteof theTempleofNinurta
+Both Mound I and Mound III rise far over the rest of the mounds of Nippur which
+wouldindicateasomewhatsimilargeneralaccumulationprocessofbothmounds.50
+Sofar,a localization of the Ninurta templeon the northern“Westmound”, possibly
+onMoundI,shouldbepreferred.TheoverwhelmingevidenceconcerningNinurtaon
+the“Westmound”leadsmetopreferalocationoftheNinurtatempleonthispartof
+Nippur.
+With Mound I as the likely site of the Ninurta temple Ešumeša, one could de-
+duce that the tablets from the temple archive found their way into the north-
+westernpartoftheParthianfoundationoftheInanatemple(SoundingB)viamud
+bricks and filling material which originally came via the “canal in the mid of the
+city”. This would also explain the big wadi, separating Mound I to the north and
+MoundIVtothesouthofit(seeFig.1).
+ Peters1897.
+ Zettler1992.
+ Thisshouldratherbeseenasanapproximation,butwithahistoryofmorethan5000yearsof
+bothmounds ageneralizationis moretrustworthythanat amoundwithjust afewperiods of
+occupation.
+756 BernhardSchneider
+The Archaeological and Textual Evidence
+of Ekur (Mound III)
+The stratigraphy from the site of the Ekur temple of the main god Enlil clearly
+shows structures of a temple from about 2200 BC onwards. Before this time, one
+has to speculate whether the earlier sanctuary was being buried under the still
+standing ziggurat, founded in the 21st century BC. Early Dynastic stone vase frag-
+ments with votive inscriptions were buried below a much later floor, datable to
+about1000BCandprovidetheonlyinformation.Atleastthereissomescantyevi-
+dence about 80 m further to the southwest at the site of the Inana temple from
+about2800BConwards.ThesangapriestofEnlilmusthavebeeninterrelatedwith
+thesamepositionattheneighbouringInanatemple(MoundVI,Fig.1).Thiscould
+be the reason why, for example, the fragment of a statue of a sanga of Enlil was
+found there (IT VIIB).51 According to the mythology Enlil and the creation of the
+pickaxe (or Song of the hoe), the site of the Inana temple, the uzu-mú-a (Sum.),
+“(place)wherefleshsproutedforth”,istheplacewhereEnlildrovehispickaxeinto
+the ground and mankind emerged.52 Still, in a much later foundation cylinder for
+Inana’s templededicated by the Assyrian king Esarhaddon (683–669 BC), Inana is
+called“greatmistressofNippur,rulerofuzu-mú-a(Sum.)”.53Thesamemythologi-
+caltexttellsus:
+“TheEkur,thetempleofEnlil,wasfoundedbythehoe(Sum.al).Bydayitwasbuilding(sum.)
+andbynightitcausedthetempletogrow(Sum.al-mu-mu).”54
+BoththetempleofEnlilandthatofInanaarestillmentionedinthelastdateddocu-
+ments from Nippur, in the reign of Demetrios I. from 154 and 152 BC concerning
+baker’sprebendsofthetemples.55So,thegeneralstructureofEastNippurstillpre-
+vaileduntiltheveryendoftheSeleucidperiod.Whatalsobecomesapparentfrom
+thesetwolatestdocumentsisthat,besidesEnlil,Ninurtaisstillequallyprominent
+within personal names. On one occasion, even his divine consort Gula appears
+withinonename.Itcouldbepossiblethat,atthistime,theoldpantheonwaskept
+together within one multi-purpose building called, just like nearly 2000 years ear-
+lier, É DUR.AN.KI (Sum.), which was preserved until about 150 CE (Sounding B),
+ Evans2012,193–194,fig.69.
+ Jacobsen1946.
+ Gibson/Hansen/Zettler2001,522.
+ Translationfrom:https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.5.5.4#(accessed10thOctober,
+2021).
+ VanderSpek1992,235–260.FortheNeo-andPost-AssyrianconstructionsattheEkurproper,
+seeSchneider2018a;Schneider2022.
+Nippur:CityofEnlilandNinurta 757
+still in the traditional Babylonian style and on the original site of the Ur III Inana
+Temple to the southwest of the so-called “Parthian Fortress”.56 Near to the site of
+theInana Temple(Mound VI), theearlyexcavatorsof theUniversityof Pennsylva-
+niafoundaSasanian“Firetemple”attheendofthe19thcentury.57
+Whathappenedonthe“Westmound”wecanonlyinferfromthemeagreevidence
+of well documented excavations in this part of the city.In Achaemenid times, there
+stillexistedasmallshrineofwhichonlythelasttwotothreelayersofbrickswerepre-
+served.58 This building functioned until the later Seleucid period during the second
+centuryBC,atleast.Althoughwedon’tknowwhowasveneratedthereatthistime,it
+ispossiblethatalaterversionofNinurtawasstillveneratedatWestNippur.
+TheLocalizationofa ProcessionStreetfrom MoundIII
+toMoundV at Nippur
+Afragmentofabakedtablet(20N3139)whichwasrecently(2019)foundbyAbbas
+Alizadeh, Directorof theChicagoNippur expedition,andread bySusanne Paulus,
+containedarealestatesalewithanindicationthatthepropertywassituatedonthe
+“broadstreet,walkwayofthegod[sandking.. .]“.59Thefindspotofthistableton
+the surface of the north slope of “Tablet Hill” (Mound V, Fig. 1) is situated on the
+backfilloftheexcavationswhichbeganinFebruary1889,60presumablynottoofar
+fromitsoriginalplaceofdeposition.Thisprominentspotof“TabletHill”originally
+had a view to the central stairway, still visible nowadays at the ziggurat on the
+“Temple Mound” (Mound III, Fig. 1).61 Therefore, for the first time, an approxima-
+tion of a ceremonial procession street can be made while connecting the ziggurat
+andthefindspot,approximatelythespotwhereIIIandVarewrittenonFig.1.
+Interpretation and Some Further Remarks
+ThegreaterbulkofthetwomainpartsofNippur,withabouttwothirdstothesouth-
+west and approximately one third towards the northeast, separated by the current
+ Zettler1992.Fortracesofculticfunctionofthe“ParthianFortress”,seeSchneider2018b.
+ ThisidentificationwasconfirmedtomebyEdwardJ.Keall(personalcommunication).
+ Gibson1975.
+ Paulus2021;ConcerningstreetdesignationsseeBaker2022withfurtherbibliographicreferen-
+ces.SeealsothecontributionbyDaRivainthisvolume.
+ Afterpersonalexaminationofthisslopeofthe“TabletHill”.
+ PersonalcommunicationwithAbbasAlizadeh,e-mailof24December2020andduringthe21st
+SeasonoftheOrientalInstitute,ChicagoatNippurin2021.Concerningthedatingofthecentral
+staircase,seeSchneider2016;Schneider2020a.
+758 BernhardSchneider
+wadioftheShatten-Nil,theancientCanalintheheartofthecityfromtheKassitecity
+map, seems to have been settled around the two main sanctuaries of the city: the
+EnlilTempletowardsthenortheastandtheso-farunlocatedtempleofNinurta,Enlil’s
+son,62whichseemstolieburiedinthemoundstowardsthesouthwest.
+So, the ancient sanctuaries and not an ancient canal could have been the rea-
+son for the main setup of two main bulks of mounds at Nippur. Here, definitely,
+sanctuaries shaped the outline of the whole ancient city of Nippur, still visible in
+the remains of the ruins preserved today. This seems to be a pattern which is also
+visibleatotherSouthernMesopotamiansites,suchasancientKišandUruk.
+During the 1st millennium BC, we have an example of an intersection between
+space and language with the Akkadian word for temple ekurru deriving from the
+Sumerian name of Enlil’s temple Ekur at Nippur. This coincides with an apparent
+decrease of the supraregional importance of Nippur in favour of Babylon. Despite
+the loss of its status as the main sanctuary of Babylonia around the end of the2nd
+MillenniumBCwiththeriseofMardukofBabylon,theimportanceofNippurwould
+notdiminish.InthetimeofdominationbytheIsinIIDynasty,withinthenamesof
+thecitywallsofNippurandBabylonthegodswereswitched,withEnlilappearing
+inthenamesofthecitywallsofBabylon(Imgur-EnlilandNimit-Enlil)andMarduk
+at Nippur (Imgur-Marduk and Nimit-Marduk). Additionally, the sanctuary of Mar-
+dukwasmodelled,atleastideologically,ontheEkurofNippur.
+Still in Hellenistic times, knowledge from temple scribes of Nippur was pre-
+servedintheformofcuneiformtabletswhichcouldbetransferredtoUruk.Further-
+more, the revived cult of Anu at Uruk was also modelled on the cult of Enlil at
+Nippur,probablyviatransmissionfromBabylonorevenAssur.63
+AlthoughthestatusofpublicworkatNippurseemstobediminishedcompared
+toearlierperiods,inthesecondquarterofthe1stmillenniumBCtheChaldeanDy-
+nastywasactivelyintensifyingagricultureinthehinterlandofNippurwiththehelp
+of deported people.In this way,they were continuing thepolicy of Assyria, which
+hasbeenrecentlydocumented,forexample,inthe“ErbilPlain”surveybyJasonUr
+as well as the “Land of Niniveh” survey by Daniele Morandi Bonacossi in the cur-
+rentKurdistanRegionofNorthernIraq.Thistrendalsocontinuedduringthefollow-
+ing Achaemenid period64 and is best documented there in the Murašû archive,
+excavatedatNippur.65
+ Tummal,theculticplaceofhiswifeNinlilliesabout22kmtothesoutheastofNippur.Beside
+Puzriš-Dagan(Drehem)itwillbethefocusofexcavationsledbyAbbasAlizadehduringthenext
+coupleofyears.
+ Beaulieu1997.
+ Theseperiodsarethefocusofaprojectrecentlystartedbytheauthorwiththeaimtoidentify
+sitesknownthroughthetextsonlyintheNippurregionforthefirsttimearchaeologically.
+ SeeforexampleStolper1985.
+Nippur:CityofEnlilandNinurta 759
+Conclusions concerning the Basic Layout of the City
+The earliest settlement developed to the west and the east more or less simulta-
+neously around two cores with the “sacred hill”, dukug (Sum.) is the Tell of the
+TempleMound(MoundIII).IfwehavetosearchforNinurta’stempleatthe“West-
+mound” (Mound I?), and most of the indications point towards a location on
+Mound I, then this part of Nippur should be seen as “Ninurta’s city (quarter)”
+whereas“Enlil’scity(quarter)”,Duranki,“thebondbetweenheavenandearth”,is
+found at East Nippur (Mound III). The consequence of this two-partite city, sepa-
+ratedbythewadioftheShatten-Nil(Arab.),wouldalsobethatwewouldexpectto
+findthe“Citycouncil”atthe“Westmound”whilethe“Divineassembly”residedin
+Ekur. Hence, the city administration would also have to be expected on the west
+side. This would in turn be an indirect hint to a probable findspot (Mound X?) for
+thescribalschool,called“TabletHouse”,Edubba(Sum.),accordingtotheOldBab-
+ylonianliteratureandfoundedbyŠulgi,thesonofUrnammaoftheThirdDynasty
+of Ur. The temple scribes would have mainly lived in “East Nippur” which would
+explainwhyschooltablets,sofar,werefoundonlyinprivatecontextsatTabletHill
+(MoundV).
+Bibliography
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Armstrong,JamesAlan(1989),TheArchaeologyofNippurfromtheDeclineoftheKassiteKingdom
+untiltheRiseoftheNeo-BabylonianEmpire.PhDthesis,UniversityofChicago.
+Aurenche,Olivier/Galet,Philippe/Regagnon-Caroline,Emmanuelle/Evin,Jacques(2001),
+“Proto-NeolithicandNeolithicculturesintheMiddleEast–Thebirthofagriculture,livestock
+raising,andceramics:Acalibrated14Cchronology12,500–5500BC”,in:Radiocarbon43.3,
+1191–1202.
+Balkan,Kemal(1954),Kassitenstudien:1.DieSprachederKassiten(AmericanOrientalSeries37),
+Connecticut.
+Baker,Heather(2022),“TheLaterPhasesofSouthernMesopotamianUrbanism:Babyloniainthe
+SecondandFirstMillenniaBC”,in:JournalofArchaeologicalResearch2022,https://
+doi.org/10.1007/s10814-022-09174-8(Published:1June2022).
+Beaulieu,Paul-Alain(1997),“TheCultofAN.ŠÁR/AššurinBabyloniaaftertheFalloftheAssyrian
+Empire”,in:StateArchiveofAssyriaBulletin11,55–73.
+Clayden,Tim/Schneider,Bernhard(2015),“AssurbanipalandtheZigguratatNippur”,in:Kaskal
+12,349–382.
+Cole,StevenW.(1996a),NippurinLateAssyrianTimes(c.755–612BC)(StateArchivesofAssyria
+Studies4),Helsinki.
+Cole,StevenW.(1996b),NippurIV.TheearlyNeo-BabylonianGovernor’sarchivefromNippur
+(OrientalInstitutePublications114),Chicago.
+Dougherty,RaymondP.(1926),“AnArchæologicalSurveyinSouthernBabyloniaI”,in:Bulletinof
+theAmericanSchoolsofOrientalResearch23/Oct.1926,15–28.
+760 BernhardSchneider
+Evans,JeanM.(2012),TheLivesofMesopotamianSculpture:AnArchaeologyoftheEarlyDynastic
+Temple,Cambridge.
+Fisher,ClarenceS.(1905/1906),ExcavationsatNippur,2vols.Philadelphia.
+George,AndrewR.(1990),“ReviewofGurney,O.R.LiteraryandMiscellaneousTextsinthe
+AshmoleanMuseum”,in:ZeitschriftfürAssyriologieundVorderasiatischeArchäologie80,
+155–160.
+Gibson,McGuire(1975),ExcavationsatNippur,EleventhSeason(OrientalInstituteCommunications
+22),Chicago.
+Gibson,McGuire(1990),“Nippur:TheTempleofGulaandaGlimpseofThingstoCome”,in:
+OrientalInstituteAnnualReports1989–90,17–26.
+Gibson,McGuire(1992),“PatternsofOccupationatNippur”,in:MariadeJongEllis(ed.),Nippurat
+theCentennial.PapersReadatthe35eRencontreAssyriologiqueInternationale,Philadelphia,
+1988(OccasionalPublicationsoftheSamuelNoahKramerFund14),Philadelphia,33–54.
+Gibson,McGuire(1993),“Nippur,sacredcityofEnlil,supremegodofSumerandAkkad”,in:Al-
+Rāfidān14,1–18.
+Gibson,McG/Hansen,DonaldP./Zettler,RichardL.(2001),“NippurB.Archäologisch”.
+ReallexikonderAssyriologieundVorderasiatischenArchäologie9,546–65.
+Hansen,DonaldP.(2002),“ThroughtheLoveofIshtar”,in:LamiaAl-GailaniWer/JohnCurtis/
+HarrietP.Martin(eds.),OfpotsandPlans:PapersontheArchaeologyandHistoryof
+MesopotamiaandSyriapresentedtoDavidOatesinHonourofhis75thbirthday,London,91-
+112.
+Hrouda,Bartheletal.(1977),Isin—IšanBahriyatI:DieErgebnissederAusgrabungen1973–1974,
+München.
+Jacobsen,Thorkild(1946),“Mesopotamia”,in:HenriFrankfortandHenrietteAntonia.Frankfort
+(eds.),Theintellectualadventureofancientman,Chicago,125–219.
+Lambert,WilfredGeorge(1983),“ThegodAssur”,in:Iraq45.1,82–86.
+McCown,DonaldE./Haines,RichardC.(1967),NippurI:TempleofEnlil,ScribalQuarter,and
+Soundings.ExcavationsoftheJointExpeditiontoNippuroftheUniversityMuseumof
+PhiladelphiaandtheOrientalInstituteoftheUniversityofChicago(OrientalInstitute
+Publications78),Chicago.
+Neumann,Hans(2018),“Nippur–‘HeiligerOrt’derSumerer”,in:ReinhardAchenbach/Nikola
+Moustakis(eds.),HeiligeOrtederAntike–GesammelteStudienimAnschlussaneine
+RingvorlesungdesExzellenzclusters“ReligionundPolitikindenKulturenderVormoderneund
+derModerne”anderUniversitätMünsterimWintersemester2013/2014(Kasion1),Münster,
+37–66.
+Oelsner,Joachim/Stein,Peter(2011),“DerStadtplanvonNippur(HS197)”,in:Archivfür
+Orientforschung,52,104–116.
+Oppert,Jules(1863),ExpéditionScientifiqueenMésopotamieexécutéeparordreduGouvernement
+de1851à1854parMM.FulgenceFresnel,FélixThomasetJulesOppert.Tome1.Relationdu
+VoyageetRésultatsdel’Expédition,Paris.
+Paulus,Susanne(2014a),DiebabylonischenKudurru-Inschriftenvonderkassitischenbiszur
+frühneubabylonischenZeit–UntersuchtunterbesondererBerücksichtigunggesellschafts-
+undrechtshistorischerFragestellungen(AlterOrientundAltesTestament51),Münster.
+Paulus,Susanne(2014b),“Babylonieninder2.Hälftedes2.Jts.v.Chr.–(K)einImperium?–Ein
+ÜberblicküberGeschichteundStrukturdesmittelbabylonischenReiches(ca.1500–1000
+B.C.)”,in:MichaelGehler/RobertRollinger(eds.),ImperienundReicheinderWeltgeschichte,
+Wiesbaden,65–100.
+Paulus,Susanne(2021),“ANeo-BabylonianRealEstateSalefromNippur(20N3139)”,in:
+NouvellesAssyriologiquesBrèvesetUtilitaires2021.3,212–214.
+Nippur:CityofEnlilandNinurta 761
+Peters,JohnPunnett(1897),NippurorExplorationsandAdventuresontheEuphrates–The
+NarrativeoftheUniversityofPennsylvaniaExpeditiontoBabyloniaintheYears1888–1890,
+vol.2,NewYork–London.
+Pitts,Audrey(2015),TheCultoftheDeifiedKinginUrIIIMesopotamia.Doctoraldissertation,
+HarvardUniversity,GraduateSchoolofArts&Sciences.
+Richter,Thomas(2004),UntersuchungenzudenlokalenPantheaSüd-undMittelbabyloniensin
+altbabylonischerZeit(AOAT257),Münster.
+Sallaberger,Walther(1993),DerKultischeKalenderderUrIII-Zeit(Untersuchungenzur
+AssyriologieundVorderasiatischenArchäologie7/1),Berlin–NewYork.
+Sallaberger,Walther(1997),“NippuralsReligiösesZentrumMesopotamiensimhistorischen
+Wandel”,in:GernotWilhelm(ed.),DieOrientalischeStadtimWandel:Kontinuität,Wandel,
+Bruch,1.InternationalesColloquiumderDeutschen-OrientGesellschaft9.-10.Mai1996in
+Halle/Saale,Saarbrücken,147–168.
+Scazzosi,Giulia(2014/15),“TheEarlyPhasesoftheTempleofEnlilatNippur:AReanalysisofthe
+Evidence”,in:Ocnus22,9–28.
+Schneider,Bernhard(2015),“AninscribedbeadwithavotiveinscriptionofKadašman-Turgu(L–
+29–449)”,NouvellesAssyriologiquesBrèvesetUtilitaires2015/99,166–67.
+Schneider,Bernhard(2016),“RemarksontheArchaeologyoftheKassiteEkurofNippur,including
+someLapisLazuliFindingsinContext”,in:EnricoFoietta,C.Ferrandi,E.Quirico,
+F.Giusto,M.Mortarini,J.BrunoandL.Somma(eds.),Cultural&MaterialContactsinthe
+AncientNearEast.ProceedingsoftheInternationalWorkshop1–2December2014,Torino.
+Florence,54–62.
+Schneider,Bernhard(2017),“SomeRemarksontheArchaeologyoftheEkurofNippurduringPost-
+KassiteTimes”,in:OlgaDrewnowska/MałgorzataSandowicz(eds.),Proceedingsofthe60
+RencontreAssyriologiqueInternationale,Warsaw2014.WinonaLake,387–408.
+Schneider,Bernhard(2018a),“TheLate-andPost-AssyrianEkur”,in:BarbaraHorejs/Christoph
+Schwall(eds.)10thInternationalCongressontheArchaeologyoftheAncientNearEast,25–29
+April2016,Vienna,vol.1.,Wiesbaden,343–354.
+Schneider,Bernhard(2018b),BaugeschichtlicheUntersuchungenamEkurinNippur–
+StratigraphieundFundbearbeitung:AufarbeitungderErgebnissederGrabungenvon
+1889–1900und1948–1950.PhDDissertation,UniversityofInnsbruck.
+Schneider,Bernhard(2020a),“StudiesConcerningtheKassitePeriodEkurofNippur:Construction
+HistoryandFinds”,in:SusannePaulus/TimClayden(eds.),BabyloniaundertheSealandand
+KassiteDynasties(StudiesinAncientNearEasternRecords24),Boston–Berlin,146–164.
+Schneider,Bernhard(2020b),“AstampedbrickwiththeinscriptionofŠagarakti-Šuriašfrom
+Nippur”,in:NouvellesAssyriologiquesBrèvesetUtilitaires2020/1.18,41–43.
+Schneider,Bernhard(2022),DieZiqqurratvonNippurim1.Jahrtausendv.Chr(Marru12),Münster.
+Schneider,Bernhard(forthcoming2022a),“ThematerialityofthefoundationoftheUrIIIEkurat
+Nippur”,in:RobertRollinger/MartinLang/SebastianFink/CinziaPappi/IreneMadreiter
+(eds.),Proceedingsofthe64thRencontreAssyriologiqueInternationale/12thMelammu-
+Symposium,(CRRAI64),Vienna.
+Schneider,Bernhard(forthcoming2022b),“TracingRegimeChangeduringtheTransitionfromthe
+Neo-BabyloniantotheAchaemenidEmpireatNippur:ReconstructionofArchivesExcavatedin
+1889”,in:AsiaAnterioreAntica4.
+Schneider,Bernhard(forthcoming2022c),“Anearly“longtub”coffinfrom5thcenturyBC
+AchaemenidNippur”,in:AnthropologicaetPraehistorica132.
+Selz,GebhardJ.(1992),“EnlilundNippurnachpräsargonischenQuellen”,in:MariadeJongEllis
+(ed.)NippurattheCentennial–PapersReadatthe35eRencontreAssyriologique
+762 BernhardSchneider
+Internationale,Philadelphia,1988(OccasionalPublicationsoftheSamuelNoahKramerFund
+14),Philadelphia,189–225.
+Sigrist,Marcel(1984),Lessattukkudansl‘Ešumešadurantlaperioded’IsinetLarsa(Bibliotheca
+Mesopotamica11),Malibu.
+Stein,Peter(2017),“DerÄltesteStadtplanderWelt:EinPlanderVerteidigungsanlagenvon
+Nippur?”,in:Hilprecht-SammlungVorderasiatischerAltertümer:FrauProfessorHilprecht
+CollectionofBabylonianAntiquities,Jena,111–113.
+Stolper,Matthew,W.(1985),EntrepreneursandEmpire:theMurašûArchive,theMurašûFirm,and
+PersianRuleinBabylonia(Publicationsdel’Iinstituthistoriqueetarchéologique
+néederlandaisdeStamboul54),Leiden.
+Stone,ElizabethC.(1991),“TheSpatialOrganizationofMesopotamianCities”,in:AulaOrientalis
+9,235–242.
+Such-Gutierrez,Marcos(2003),BeitragezumPantheonvonNippurim3.Jahrtausendv.Chr.
+(MarterialiperilVocabolarioSumerico9),2Vols.,Roma.
+VanderSpek,RobartusJohannes(1992),“Nippur,Sippar,andLarsaintheHellenisticPeriod”,in:
+MariadeJongEllis(ed.)NippurattheCentennial–PapersReadatthe35eRencontre
+AssyriologiqueInternationale,Philadelphia,1988(OccasionalPublicationsoftheSamuel
+NoahKramerFund14),Philadelphia,235–260.
+Westenholz,Aage(1987),OldSumerianandOldAkkadianTextsinPhiladelphia,PartTwo,
+Copenhagen.
+Westenholz,Aage(1999),“TheOldAkkadianPeriod:HistoryandCulture”,in:WaltherSallaberger/
+AageWestenholz(eds.)AkkadeZeitundUrIIIZeit(OrbisBiblicusetOrientalis160/3),
+Freiburg/Göttingen,1–117.
+Wilkinson,TonyJ./Jotheri,Jaafar(2021),“TheOriginsofLeveeandLevee-basedIrrigationinthe
+NippurArea-SouthernMesopotamia”,in:MarkAltaweel/CarrieHritz(eds.),FromSherdsto
+Landscapes:StudiesontheAncientNearEastinHonorofMcGuireGibson,StudiesinAncient
+OrientalCivilization,Chicago,243–255.
+Zettler,RichardL.(1992),TheUrIIITempleofInannaatNippur–TheOperationandOrganization
+ofUrbanReligiousInstitutionsinMesopotamiaintheLateThirdMillenniumB.C.(BBVO11),
+Berlin.
+

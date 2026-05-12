@@ -1,0 +1,584 @@
+[
+  {
+    "author": [
+      {
+        "family": "Barnett",
+        "given": "R.D.nd"
+      }
+    ],
+    "title": [
+      "The Assyrian Palace Reliefs and Their Relation to the Sculpture of Babylonia and Persia"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Batchworth Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "Jeremy"
+      },
+      {
+        "family": "Green",
+        "given": "Anthony"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Gods, Demons and Symbols of Ancient Mesopotamia: An Illustrated Dictionary"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "British Museum Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Collon",
+        "given": "Dominique"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Catalogue of the Western Asiatic Seals in the British Museum. Cylinder Seals V: Neo-Assyrian and Neo-Babylonian Periods"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "British Museum Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Green",
+        "given": "Anthony"
+      }
+    ],
+    "date": [
+      "1983",
+      "pl"
+    ],
+    "title": [
+      "Neo-Assyrian Apotropaic Figures"
+    ],
+    "volume": [
+      "45",
+      "XII"
+    ],
+    "pages": [
+      "87–100,"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maxwell-Hyslop",
+        "given": "K.R."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "title": [
+      "Western Asiatic Jewellery c. 3000–612 B.C"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Methuen"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Madhloum",
+        "given": "Tariq A."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "title": [
+      "Foreword"
+    ],
+    "container-title": [
+      "Dr. Faisal el-Wailly, Nineveh. Sumer 22"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Madhloum",
+        "given": "Tariq A."
+      }
+    ],
+    "date": [
+      "1967"
+    ],
+    "title": [
+      "Excavations at Nineveh: A Preliminary Report (1965–1967"
+    ],
+    "volume": [
+      "23"
+    ],
+    "pages": [
+      "76–79,"
+    ],
+    "location": [
+      "pls. I, XIII"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sumer"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Madhloum",
+        "given": "Tariq A."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "title": [
+      "Nineveh: The 1967–1968 Campaign"
+    ],
+    "volume": [
+      "24"
+    ],
+    "pages": [
+      "45"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sumer"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Madhloum",
+        "given": "Tariq A."
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "title": [
+      "Nineveh: The 1968–1969 Campaign"
+    ],
+    "volume": [
+      "25"
+    ],
+    "pages": [
+      "43–58"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sumer"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Madhloum",
+        "given": "Tariq A."
+      },
+      {
+        "family": "Mahdi",
+        "given": "Ali"
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "title": [
+      "Nineveh. Historical Monuments in Iraq 1"
+    ],
+    "location": [
+      "Baghdad"
+    ],
+    "publisher": [
+      "Directorate General of Antiquities"
+    ],
+    "note": [
+      "Arabic"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Madhloum",
+        "given": "Tariq A."
+      },
+      {
+        "family": "Mahdi",
+        "given": "Ali"
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "title": [
+      "Nineveh. Historical Monuments in Iraq 1"
+    ],
+    "location": [
+      "Baghdad"
+    ],
+    "publisher": [
+      "Directorate General of Antiquities. (English"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Parker",
+        "given": "Barbara"
+      }
+    ],
+    "date": [
+      "1961"
+    ],
+    "title": [
+      "Administrative Tablets from the North-West Palace, Nimrud"
+    ],
+    "volume": [
+      "23"
+    ],
+    "pages": [
+      "15–66"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Parpola",
+        "given": "Simo"
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "title": [
+      "Neo-Assyrian Toponyms. Alter Orient und Altes Testament 6"
+    ],
+    "location": [
+      "Kevelaer and Neukirchen-Vluyn"
+    ],
+    "publisher": [
+      "Butzon & Bercker"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Reade",
+        "given": "Julian E."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Nineveh"
+    ],
+    "container-title": [
+      "Reallexikon der Assyriologie"
+    ],
+    "volume": [
+      "9"
+    ],
+    "pages": [
+      "388–433"
+    ],
+    "location": [
+      "Berlin and New York"
+    ],
+    "issue": [
+      "5–6"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Reade",
+        "given": "Julian E."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "The Ziggurat and Temples of Nimrud"
+    ],
+    "volume": [
+      "64"
+    ],
+    "pages": [
+      "135–217"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Scott",
+        "given": "Linda M."
+      },
+      {
+        "family": "MacGinnis",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Notes on Nineveh"
+    ],
+    "volume": [
+      "52"
+    ],
+    "pages": [
+      "63–73"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stronach",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "When Assyria Fell: New Light on the Last Days of Nineveh"
+    ],
+    "volume": [
+      "2"
+    ],
+    "pages": [
+      "1–2"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mir Gipri"
+    ],
+    "issue": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stronach",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Village to Metropolis: Nineveh and the Beginning of Urbanism in Northern Mesopotamia"
+    ],
+    "container-title": [
+      "Nuove fondazioni nel Vicino Oriente antico: Realtà e ideologia"
+    ],
+    "editor": [
+      {
+        "family": "Mazzoni",
+        "given": "S."
+      }
+    ],
+    "pages": [
+      "85–114",
+      "4"
+    ],
+    "location": [
+      "Pisa"
+    ],
+    "publisher": [
+      "Seminari di"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Stronach",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Notes on the Fall of Nineveh"
+    ],
+    "container-title": [
+      "Assyria: Proceedings of the 10th Anniversary Symposium of the Neo-Assyrian Text Corpus Project, Helsinki, Sept. 7–11, 1995"
+    ],
+    "editor": [
+      {
+        "family": "Parpola",
+        "given": "Simo"
+      },
+      {
+        "family": "Whiting",
+        "given": "R.M."
+      }
+    ],
+    "pages": [
+      "307–324"
+    ],
+    "location": [
+      "Helsinki"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Stronach",
+        "given": "David"
+      },
+      {
+        "family": "Lumsden",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "UC Berkeley’s Excavations at Nineveh"
+    ],
+    "volume": [
+      "55"
+    ],
+    "pages": [
+      "227–233"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Biblical Archaeologist"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sulaiman",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "title": [
+      "Adab al-Rafadan"
+    ],
+    "volume": [
+      "1"
+    ],
+    "pages": [
+      "45–97"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Adab al-Rafadan"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "R.Campbell"
+      }
+    ],
+    "date": [
+      "1929"
+    ],
+    "title": [
+      "A Century of Exploration at Nineveh"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Luzac & Co"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiggermann",
+        "given": "F.A.M."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Mesopotamian Protective Spirits: The Ritual Texts"
+    ],
+    "volume": [
+      "1"
+    ],
+    "location": [
+      "Groningen"
+    ],
+    "publisher": [
+      "Styx"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Cuneiform Monographs"
+    ]
+  }
+]

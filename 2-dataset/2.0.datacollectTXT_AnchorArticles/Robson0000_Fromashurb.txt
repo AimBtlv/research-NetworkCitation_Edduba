@@ -1,0 +1,1636 @@
+# METADATA
+author: Robson E.
+source_id:Robson0000_Fromashurb
+title: From ‘ashurbanipal’s Library’ And The ‘stream Of Tradition’ To New Approaches To Cuneiform Scholarship
+Year: Unknown
+Source_ID:  Robson0000_Fromashurb
+Source_Type:  Article in Book: Ancient Knowledge Networks- A Social Geography of Cuneiform Scholarship in First-Millennium
+Assyria and Babylonia
+Source_Role,Step_distance: 2 ,3,4 
+Pages: 10-48
+Web: 
+
+# TEXT
+
+Chapter Title: From ‘Ashurbanipal’s Library’ and the ‘stream of tradition’ to new
+approaches to cuneiform scholarship
+Book Title: Ancient Knowledge Networks
+Book Subtitle: A Social Geography of Cuneiform Scholarship in First-Millennium
+Assyria and Babylonia
+Book Author(s): Eleanor Robson
+Published by: UCL Press
+Stable URL: https://www.jstor.org/stable/j.ctvhn0csn.11
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+This content is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives
+4.0 International License (CC BY-NC-ND 4.0). To view a copy of this license, visit
+https://creativecommons.org/licenses/by-nc-nd/4.0/.
+UCL Press is collaborating with JSTOR to digitize, preserve and extend access to Ancient
+Knowledge Networks
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2
+From ‘Ashurbanipal’s Library’ and
+the ‘stream of tradition’ to new
+approaches to cuneiform scholarship
+Cuneiform script has been more or less readable to scholars since the
+1840s. Since at least the 1850s Assyriologists have been editing and
+analysing the many cuneiform tablets that show us how ancient think-
+ers observed and made sense of the world around them. And since the
+early twentieth century, carefully recorded excavations have helped to
+put those tablets into archaeological context. And yet, we have been sur-
+prisingly reluctant to write a generalist history of cuneiform scholarship,
+one that not only describes these writings but attempts to account for
+their existence and character.1 Instead, we have tended to characterise
+cuneiform scholarship as essentially unchanging and invariant. Why has
+this situation come about? In this chapter I shall try to answer that ques-
+tion by unpacking two big ideas that have accidentally dehistoricised our
+subject: ‘Ashurbanipal’s Library’ and ‘the stream of tradition’. I shall also
+outline some of the sources and approaches that I have found most useful
+in trying to put the history back in.
+The two phrases ‘Ashurbanipal’s Library’ and ‘the stream of tradi-
+tion’ often crop up together in accounts of intellectual life in Assyria and
+Babylonia. They have gained currency and power far beyond the special-
+ist discipline of Assyriology. Here, for instance, is a passage from John
+Van Seters’ justly influential book on historiography in the biblical world,
+written in the early 1980s:
+History writing … is not the result of an accidental accumulation
+of data but is a literary work that was written for, and becomes
+part of, the society’s ‘stream of tradition’. Leo Oppenheim, who
+coined this phrase, draws a distinction between the great mass of
+10
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+written documents preserved from ancient Mesopotamia dealing
+with day-to-day business and those literary texts that were meant
+to be preserved and handed down to posterity …. The greatest
+known example of such a scribal tradition in the Near East before
+Alexander was the library of Ashurbanipal.2
+In this passage, Van Seters rightly describes the ‘stream of tradition’ as a
+concept coined in modernity to capture the idea of a long-lived body of
+learned writings. In a similarly careful manner, he describes ‘the library
+of Ashurbanipal’ as ‘greatest known’ in the cuneiform world. Later in this
+chapter I will challenge the word ‘library’ and its attribution to one named
+king, but for now what matters is that Van Seters subtly signals the role of
+modern interpretation in this characterisation of the ancient past.
+Now compare Hans Barstad’s more recent account of cuneiform
+scholarship, written for a similar purpose and readership:
+Despite [the existence of] an enormous number of tablets, written
+in several different languages, the actual number of literary num-
+bers and works that were handed down from generation to gener-
+ation was fairly insignificant. We are, in other words, not dealing
+with newly invented, very different, or independent literary cre-
+ations. Rather, all of the literature belongs to the same ‘tradition
+stream’ or Einheitskultur, the bulk of which must have been known
+to most of the ancient Near Eastern civilized world.3
+Here Barstad implies that the ‘tradition stream’ was an objective feature
+of the first millennium bc, rather than a twentieth-century characterisa-
+tion of it. In an accompanying footnote he quotes Oppenheim’s assess-
+ment of ‘Ashurbanipal’s (668–627 bce) 20000 tablets strong [sic] library
+in Nineveh, now in the British Museum’ as ‘representative of the main
+body, if not the entire content, of the scribal tradition’.4 In other words,
+for Barstad cuneiform scholarship had no history – it never changed –
+and no geography – it was the same everywhere it existed. It simply var-
+ied in size. What is now in the British Museum is exactly what existed in
+antiquity. Consciously or not, Barstad presents the invidious cliché of the
+timeless and invariant Orient as incontrovertible fact.5
+At risk of simplification, I shall label Van Seters’ and Barstad’s depic-
+tions of cuneiform scholarship as soft and hard, or weak and strong ver-
+sions of the same idea: that in the first millennium bc cuneiform culture
+was transmitted unproblematically over time and from place to place;
+that for historians there is nothing to see here. No Assyriologist would, I
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 11
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+hope, have much sympathy with Barstad’s strong ahistoricity. But weaker
+versions of this model undoubtedly still underpin many of our assump-
+tions, and much of what we write and say, especially for wider audiences.
+In this chapter I explore how and why these images were created, and
+why they have endured so powerfully for so long. I shall also survey some
+of the new methodologies and sources that enable us to challenge, mod-
+ify and perhaps completely redraw these images, as Oppenheim himself
+already hoped would happen over half a century ago.6
+‘Ashurbanipal’s Library’: From Nineveh to London
+In the early nineteenth century the city of Mosul, now in northern Iraq,
+was a provincial capital at the eastern edge of the Ottoman empire. Its
+position on the Tigris river, crossing overland trade routes to nearby
+Persia, attracted Western traders and diplomats, while its substantial
+Christian communities drew European and North American Protestant
+missionaries seeking converts.7 They had a famous ancient role model in
+Nebi Younis, or the prophet Jonah, who had supposedly refused to preach
+against heathen Assyrian idolatry until God gave him time to reflect, in
+the belly of a whale.8 On changing his mind, he went to Nineveh, where
+he lived out the rest of his life. A Muslim shrine high on the east bank of
+the Tigris marked where the reluctant Old Testament prophet was said
+to be buried, linking the modern city opposite with the fabled ancient
+Assyrian city of Nineveh.
+In 1836 the posthumous travel account of an East India Company
+man, James Claudius Rich, made local knowledge about ancient Nineveh
+available to Western readers.9 In 1820, residents of Mosul had taken him
+to Jonah’s shrine and shown him half-buried inscriptions and images
+carved in stone. Assyrian cuneiform had yet to be deciphered but Rich
+knew very well what it signified. This was the first material evidence of
+the mighty ancient empire so far known only through classical and bib-
+lical tales.
+The French government quickly created a consular post in Mosul and
+chose Paul-Émile Botta as its first incumbent. Botta had begun his career
+as a naturalist and collector in California, Hawaii and Yemen before turn-
+ing to diplomacy and antiquarianism.10 He was expert in collecting spec-
+imens of plants and animals in the field for research and display back in
+Paris, and applied similar methods to collecting Assyrian artefacts.11 Botta
+began digging the mounds of Nebi Younis and nearby Kouyunjik in 1842,
+establishing the methods that would dominate antiquarian fieldwork in
+12 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+the region for much of the nineteenth century and beyond. These activ-
+ities were not ‘excavation’ in the modern, archaeological sense, and nor
+could they have been, for it was not until the early twentieth century that
+German archaeologists introduced controlled, stratigraphic, carefully
+documented excavations to Assyrian archaeology. Rather, they were exer-
+cises in tunnelling through the mounds, mostly following the line of the
+sculptured wall decorations, to look for portable objects.12
+Some four years later Botta was joined in Mosul by a young British
+traveller, Austen Henry Layard, first his protégé in antiquarian exploration
+but soon his rival.13 Layard began his own intermittent digs on Kouyunjik
+in 1846, famously discovering the palaces of ancient Nineveh and shipping
+their sculptures back to London for his sponsors at the British Museum.
+During one of Layard’s many prolonged absences, in the late spring of
+1850, the local foreman Toma Shishman discovered two connecting
+rooms containing many thousands of cuneiform tablets (Fig. 2.1).14 When
+Layard later wrote about these so-called ‘chambers of records’ he rightly
+identified them as belonging to the Southwest Palace of Nineveh, built
+for Ashurbanipal’s grandfather king Sennacherib in c. 700 bc, and num-
+bered them 40–41 on his room plan. Drawing from what must have been
+Shishman’s eyewitness account, he described these rooms as follows:
+To the height of a foot or more from the floor they were entirely
+filled with [tablets]; some entire, but the greater part broken into
+many fragments, probably by the falling in of the upper part of
+the building. They were of different sizes; the largest tablets were
+flat and measured about 9 inches by 6½ inches; the smaller were
+slightly convex, and some not more than an inch long, with but
+one or two lines of writing. The cuneiform characters on most of
+them were singularly sharp and well defined, but so minute in some
+instances as to be almost illegible without a magnifying glass.15
+As Reade points out, Layard’s description of the volume of the find can-
+not be taken entirely at face value, ‘since it is more than double the space
+now allocated to storing the … tablets individually in boxes on museum
+shelves’, but there is no doubt that Shishman had stumbled on a very sub-
+stantial trove.16 We do not know exactly how many objects it comprised,
+since there are no figures for the numbers of tablets in each shipment to
+London.17 But it must have been substantially more than the 278 tablets
+catalogued in the British Museum in the 1850s, for when George Smith
+re-excavated the same rooms in 1874 he found a further 3,000 or so frag-
+ments that Shishman and Layard’s tunnels had missed. And in the winter
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 13
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Figure 2.1: ‘Archive chamber, Kouyunjik, sketched on the spot by S.G.
+Malan’ (Layard 1853: opp. p. 345). Malan was a Swiss-British scholar of
+the Bible and Asian languages who travelled widely in India and the Middle
+East and was an accomplished artist. Many of the sketches he made while
+briefly visiting Layard’s expedition in 1850 formed the basis of Layard’s
+published illustrations (Gadd 1938; Clayden 2015). Public domain.
+14 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+of 1890–1 Wallis Budge discovered 300 more simply by sifting through
+his predecessors’ excavation dumps.18
+Although Shishman’s discovery of the ‘chambers of records’
+must have constituted, in Reade’s words, ‘the major find’ of tablets on
+Kouyunjik, it was not the only one (Fig. 2.2).19 Some time between 1852
+and 1855, Layard’s Moslawi former assistant Hormuzd Rassam and his
+English colleague Henry Loftus each unearthed significant numbers
+of tablets elsewhere in the Southwest Palace. They also found more in
+the southeastern quarter of the nearby North Palace, which had been
+commissioned for Ashurbanipal in the mid-seventh century. Smith and
+Figure 2.2: ‘Plan of excavated chambers of Kouyunjik’ (Layard 1853:
+opp. p. 67) with locations of major tablet finds added. Later generations
+of explorers also found tablets in the nearby temples of Ištar and Nabu
+as well as the North Palace on the same site. Public domain.
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 15
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Rassam picked up further tablets in this vicinity in 1874 and 1878–82
+respectively, while in the early twentieth century several hundred more
+were found in and around the temples of Nabu and Ištar, between the two
+palaces.20 However, it is now impossible to identify definitive findspots
+for most Kouyunjik tablets, while some that are supposedly from that
+site are clearly not from Nineveh at all. Some will have been purchased
+in-country by the excavators, and others mixed up with finds from other
+excavations, either on site or in the museum before cataloguing.21
+If the process of finding tablets was not yet archaeology, then back
+in London the treatment of this new type of museum object posed almost
+insurmountable problems too.22 Their collective bulk was so overwhelm-
+ing, their state often so fragmentary and fragile, and their contents so
+inscrutable that the British Museum was at a loss as to how to manage
+them. As mentioned above, in the early 1850s just 278 of the many thou-
+sands of tablets were photographed and catalogued with a ‘K-number’
+to mark them as members of the so-called Kouyunjik collection.23 By
+mid-decade there was a general consensus that the principles of cunei-
+form script had been correctly understood and that the underlying lan-
+guage, Assyrian, belonged to the Semitic language family.24 But it was
+only with the British Museum’s creation of a Department of Oriental
+Antiquities in 1860 that the organisation, conservation and publication
+of the Kouyunjik tablets really began.
+The first of five volumes of Cuneiform Inscriptions of Western Asia
+was published in 1861. It appeared under the name of the eminent poli-
+tician, diplomat and decipherer Sir Henry Creswicke Rawlinson but was
+mostly put together by Edwin Norris, the elderly General Secretary of
+the Royal Asiatic Society.25 It contained no translations or even alpha-
+betic transcriptions of ancient texts, but consisted entirely of lithographs
+of cuneiform inscriptions found on royal monuments, bricks and foun-
+dation stones from places such as Nineveh. These were the literal and
+metaphorical building blocks of Assyrian and Babylonian dynastic and
+military chronology, which – once edited and translated in other pub-
+lications – were helping historians, and the avid general public, situate
+ancient Assyria in relation to the events and peoples of the Old Testament.
+However, for the next two decades work was piecemeal and sporadic, for
+the department had a tiny staff and little space for visiting researchers to
+work in, while tablets continued to pour in from other ancient Assyrian
+and Babylonian sites which also had to be dealt with.26 Neither the con-
+ceptual nor the practical resources to handle this material yet existed.
+16 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+In short, for some decades it was almost impossible for the Museum’s
+staff, let alone other Assyriologists or the general public, to get any coher-
+ent understanding of just what had been unearthed from the ‘chambers
+of records’ and other similar findspots at Nineveh. Neither Layard himself
+nor his contemporaries ever talked of a ‘library’ in the 1850s; the word
+cannot be found in any immediate account of the discovery of Assyria.
+For instance, in Layard’s 1854 pamphlet on the Nineveh Court display at
+Sydenham Crystal Palace in London we read:
+An immense number of such documents have now been discovered
+in Assyrian and Babylonian ruins and a large collection is now in
+the British Museum …. In fact there is reason to hope that they
+form almost a complete Assyrian library, furnishing us with a vast
+amount of information regarding the history, sciences, and customs
+of the Ninevites.27
+Here it is clear that the ‘library’ Layard has in mind is the one that has
+been created in the British Museum, from tablets found all over Assyria
+and Babylonia, not a creation of the ancients.
+As far as I am aware, the Kouyunjik tablets became ‘Ashurbanipal’s
+Library’ only in the late 1860s. Earlier that decade, the ancient histo-
+rian George Rawlinson – brother of Henry and thus closely informed of
+the very latest discoveries – had produced a monumental four-volume
+account of the Five Great Monarchies of the Ancient Eastern World, com-
+prising Chaldea, Assyria, Babylon, Media and Persia.28 It made no men-
+tion of any Assyrian library. But in the 1871 revision Rawlinson averred
+that a ‘vast collection of clay tablets – a sort of Royal Library – was made
+at Nineveh’, and elsewhere referred to it explicitly as ‘the library of
+Asshur-bani-pal’.29 What had brought about this change?
+In 1866, the Department’s second instalment of Cuneiform
+Inscriptions of Western Asia had appeared.30 This volume, produced under
+the same arrangement as the first, mainly contained Sumerian-Assyrian
+word-lists and other bilingual texts, which Norris needed as raw mate-
+rial for his never-to-be-completed Assyrian Dictionary.31 Many of these
+tablets had short subscripts – colophons, in modern Assyriological par-
+lance – that marked them as royal property (Figs 2.3–2.4). The shortest
+read, simply, ‘Palace of Ashurbanipal, king of the universe, king of the
+land of Aššur’. The most elaborate, on Kouyunjik tablet K 39, can now be
+translated as:
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 17
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Figure 2.3: Lithograph showing the reverse side of British Museum
+tablet K 39, featuring Ashurbanipal’s colophon praising the divine pair
+Nabu and Tašmetu (Rawlinson and Norris 1866: pl. 21). Colophons like
+this, which described their storage in the palace at Nineveh, were key to
+interpreting the tablets as a ‘library’ in the late 1860s. Reproduced with
+the permission of the British Museum.
+18 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Figure 2.4: Composite digital photograph of the reverse side of British
+Museum tablet K 39, with the colophon highlighted. The Museum has
+systematically photographed all of the Kouyunjik tablets and developed a
+methodology for stitching together images of all surfaces – front (obverse),
+back (reverse) and edges. They are openly licensed on the Museum’s
+online collections database, allowing maximum accessibility and legibility
+for researchers with high-speed internet connections. The burn marks
+from the final destruction of the palace are visible, while some fragments
+of the original object remain missing or unidentified. Size 175 × 121 × 29
+millimetres. Reproduced with the permission of the British Museum.
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 19
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Palace of Ashurbanipal, king of the land of Aššur
+on whom Nabu and Tašmetu bestowed broad wisdom,
+who has sharp eyes: the highest level of the scribal art,
+such a skill as none amongst the kings my predecessors had learnt,
+the wisdom of Nabu, as many cuneiform signs as exist,
+I have written on tablets, checked and overseen (them), and
+for my viewing and reading out I deposited (those tablets) in my
+palace.32
+Here, then, was unequivocal evidence that at least some of the tablets in
+the ‘chambers of records’ were not simply administrative or propagandis-
+tic and had been assembled with the direct involvement of at least one
+Assyrian king. ‘Ashurbanipal’s Library’ was thus a natural label to give
+to the collection. The fact that the British Museum’s magnificent round
+Reading Room had been completed just a few years earlier in 1857 – after
+three years of very noisy construction work in the central Great Court –
+must also have meant that ideas about libraries were very much in the air
+in the Department at the time (Fig. 2.5).33
+By 1871 Samuel Birch, Keeper of the Department, was also publicly
+referring to the Kouyunjik tablets by their new name. In an address to the
+inaugural meeting of the Society for Biblical Archaeology, looking back
+over the Assyriological work of recent decades, he singled out:
+the excavations of MM. Layard, Rassam, Loftus, and Sir H.C.
+Rawlinson [which] exhumed the remains of the great archival
+library of Asshurbanipal at Kouyunjik, consisting of more than
+20,000 fragments, many of which have been put together by archae-
+ologists and scholars, and give a general idea of the literature and
+history of Assyria.34
+Likewise, in 1876 George Smith’s posthumous and enormously popular
+account of Assyrian and Babylonian mythology, The Chaldean Account
+of Genesis, talked retrospectively of ‘Mr Layard discover[ing] part of the
+Royal Assyrian library, and further collections, also forming part of this
+library, hav[ing] been subsequently found by Mr H. Rassam, Mr Loftus
+and myself’.35 By this time, there is no doubt, ‘Ashurbanipal’s Library’ had
+solidified into an excavated artefact as real as the Assyrian sculptures on
+display at the British Museum (Fig. 2.6).
+However, while the name ‘Ashurbanipal’s Library’ is attractive
+and enduring it is to a large extent misleading. As Julian Reade has so
+ably summarised, the 31,000 or more tablets and fragments found at
+20 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Figure 2.5: The Reading Room of the British Museum under construction,
+as shown in the popular periodical the Illustrated London News, 14 April
+1855. Although the British Museum had had a library at its heart since its
+very foundation, this new building surely reshaped conceptions of the form
+and functions of written collections, ancient and modern. Reproduced
+with the permission of the British Museum.
+Nineveh from the 1850s onwards came from many different sites on the
+Kouyunjik mound: the temples of Ištar and Nabu, private dwellings, as
+well as the Southwest and North Palace buildings.36 Many fragments
+have been joined to each other, so that the current total is nearer 25,000
+than 31,000 and highly likely to reduce again as work progresses.37
+About 5,500 of the Kouyunjik tablets are administrative records, legal
+documents and royal correspondence, mostly dating from the final two
+centuries of the Assyrian empire, c. 800–612 bc, with particular concen-
+trations from the reigns of Sargon, Esarhaddon and Ashurbanipal in the
+late eighth and early seventh centuries.38 A further thousand or so are
+official inscriptions built into the fabric of the institutional buildings:
+commemorative notices buried in the foundations; accounts of military
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 21
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Figure 2.6: The Central Assyrian Saloon of the British Museum, as shown
+in a newspaper clipping from the 1860s or 1870s. While the business of
+identifying and deciphering the Museum’s new cuneiform tablet collection
+went on behind the scenes, the public flocked to see the impressive
+sculptures that Layard had also brought to London, the first visual evidence
+of the Old Testament world. Reproduced with the permission of the British
+Museum.
+campaigns and building programmes inscribed on the walls; labels on
+free-standing sculptures; and so on.39 It is difficult to put an estimate on
+the number of scholarly tablets from Kouyunjik but the consensus gives
+some 5–10,000 original manuscripts, representing perhaps 800 different
+(chapters of) works.40 They too range in date from the early eighth to at
+least the mid-seventh centuries bc and therefore cannot all have origi-
+nally belonged to Ashurbanipal. We shall repeatedly return to the size of
+tablet collections in later chapters.
+If identifying Ashurbanipal as the ‘owner’ of the Kouyunjik tablets is
+problematic, then identifying them as a ‘library’ is just as questionable.41
+We have two sets of preconceptions to contend with here: the roman-
+tic, idealised connotations of ‘library’ that all Western-trained academics
+carry with them from their own formative experiences in such places;
+and the simplistic Assyriological definition of a ‘library’ as an excavated
+22 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+assemblage of a particular type of cuneiform tablet.42 I have tackled these
+questions elsewhere but continue to touch on them throughout the book
+and return to address them directly in the final chapter.43
+New sources for ancient scholarship
+It took over a decade for the Kouyunjik tablets to gain a coherent if
+slippery collective identity as ‘Ashurbanipal’s Library’. It was another
+thirty years before the individual tablets were fully transformed from
+found objects in their ‘natural’ state – uncleaned, unbaked, unjoined,
+unsorted, undocumented – to well-managed, tractable museum arte-
+facts. In the mid-1880s, decades after the tablets’ arrival in the Museum,
+a new Department of Egyptian and Assyrian Antiquities was created.
+Its Keeper, Ernest Wallis Budge, initiated a systematic documentation,
+storage and publication programme.44 The Department published five
+volumes of Carl Bezold’s catalogue of the Kouyunjik tablets at regular
+intervals from 1889 to 1899, the last being a general subject index that
+provided an overview of the finds.45 The Department also commissioned
+scale drawings – ‘hand copies’ – of the museum’s tablets from Kouyun-
+jik and elsewhere. Cuneiform Texts from Babylonian Tablets ran to about
+thirty volumes by the outbreak of the Great War and continued to grow
+sporadically throughout the twentieth century.46
+These research tools, together with the increased accessibility of
+the Museum collection itself, enabled outsiders to work systematically
+on the tablets for the first time. The publication floodgates opened. In the
+years between 1890 and the Great War Assyriologists edited and trans-
+lated a mass of primary sources from Nineveh: legal documents, political
+and scholarly royal correspondence, hymns and prayers, celestial omens
+and so on. These studies enabled in turn a new generation of synthetic,
+narrative accounts of Assyrian history, culture and religion.47
+However, that flurry of activity by no means exhausted research on
+the Kouyunjik collection. Publication continues to this day, while since
+the early twenty-first century the current generation of British Museum
+curators has spearheaded a new cataloguing and digitisation effort, the
+Ashurbanipal Library Project.48 Yet much is still unknown. It is currently
+impossible to say, for instance, exactly which Kouyunjik tablets were
+found by whom, in which locations on the royal citadel; how many bear
+Ashurbanipal’s colophons (though the colophons themselves have been
+classified into about thirty different types) and how many have those of
+other scholars; and how many different compositions are represented in
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 23
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+the collection, in how many manuscripts. It remains, paradoxically, at
+once the most famous and the least understood of Assyriological discov-
+eries. We shall revisit it in Chapter 3.
+Meanwhile, throughout the twentieth century, excavations at many
+dozens of ancient Assyrian and Babylonian cities brought to light many
+thousands more tablets, both archival and scholarly, from the first mil-
+lennium bc and earlier (Fig. 1.1). In the interwar period excavations
+mostly missed the opportunity to give archaeological context to cunei-
+form scholarship, by failing to keep systematic records of their discover-
+ies. However, several long-term post-war projects yielded an abundance
+of useful data for historians. The majority of these, thanks to ever-
+developing methods of contextual recording, offer enormous potential
+for further interpretation. I briefly present the most important of these
+excavations here, not in chronological order of their ancient finds – the
+order in which they will be used in the coming chapters – but rather in
+approximate order of their discovery.
+In the first decades of the twentieth century, several large groups
+of scholarly tablets were discovered in the cities of Assur and Babylon
+but the long, sad history of their post-excavation misfortunes means
+that, with the spectacular exception of the ‘āšipus’ house’ in Assur (see
+Chapter 4), many are now almost impossible to reconstruct in any useful
+detail.49 Similarly, the discovery in 1924 of a small group of early Neo-
+Babylonian scholarly tablets in Kish was badly managed and then largely
+forgotten.50 Even less can be done with the 1933–4 find of an unknown
+number of scholarly tablets in Neo- or Late Babylonian Ur.51 However,
+in the nearby city of Uruk in 1928–9, excavators at the goddess Ištar’s
+Neo-Babylonian temple Eanna unearthed some 250 scholarly tablets in
+secondary context, about half of which have been published.52 And at
+Khorsabad, the site of the short-lived Assyrian capital Dur-Šarruken in
+c. 705 bc, the American expedition of 1928–35 discovered fragments of
+about thirty scholarly and administrative tablets scattered throughout
+the temple of the god Nabu, adjacent to the royal palace.53 Two rooms of
+the temple were lined with storage niches, now empty, but which most
+likely originally served as tablet stores of some sort.54 The tablets are only
+now being prepared for systematic publication, having been separated
+from their find numbers long ago.55 We shall return to Dur-Šarruken,
+Assur and Neo-Babylonian Uruk in Chapters 3, 4 and 5 respectively.
+Between 1949 and 1963 the British School of Archaeology in Iraq
+carried out a detailed exploration of Nimrud, the ancient city of Kalhu
+or Calah.56 Situated on the eastern bank of the Tigris between Assur and
+Nineveh, it served as the Assyrian king’s main residence city in the ninth
+24 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+and eighth centuries and continued to be occupied even after its destruc-
+tion in 614 bc. In 1955–7 excavators unearthed around 250 scholarly
+tablets from the temple of Nabu, god of wisdom, on the royal citadel.57 In
+the mid-1980s an Iraqi team discovered more in the same place: a room
+whose doorway directly faced Nabu’s shrine.58 Perhaps not surprisingly,
+the few extant colophons feature the names of royal scholars, including
+Adad-šumu-uṣur, Esarhaddon’s chief āšipu-healer in the early seventh
+century bc. Both Kalhu and Nineveh will come under further scrutiny in
+Chapters 3 and 4.
+Huzirina (modern Sultantepe) was a tiny town in western Assyria,
+about 15 kilometres north of the provincial capital Harran, destroyed by
+the Medes and their allies in the final rout of the empire in 610 bc. In the
+early 1950s, brief excavations by a joint British–Turkish archaeological
+team revealed a cache of about 400 scholarly tablets piled up outside the
+door of a substantial private house, protected by a semi-circular arrange-
+ment of wine-jars.59 The most frequently occurring name on the tablets’
+colophons was Qurdi-Nergal, a šangû-priest of the god Zababa and his
+consort, along with other members of the Nur-Šamaš family. We shall
+return to this find in Chapter 4.
+In the mid-1980s Iraqi excavators working at Sippar, northwest of
+Babylon, were exploring the city’s main temple, Ebabbar, dedicated to
+the sun-god Šamaš. In an out-of-the-way storage room in the adjacent
+E-ulmaš, belonging to Šamaš’s divine consort Annunitu, they found
+about 800 scholarly tablets, still in their pigeonholes. Although only
+about thirty tablets have been published so far, their colophons date from
+the mid- to late sixth century bc and feature scholars from several differ-
+ent families.60 We will use some of this material in Chapter 6.
+One of the most important finds for the history of cuneiform schol-
+arship comes from a house in the southern Babylonian city of Uruk,
+rebuilt several times from the late fifth to early fourth centuries bc and
+perhaps later. Between the late 1960s and early 1970s the Deutsche
+Orient-Gesellschaft found about 420 scholarly tablets in it, as well as
+around fifty household legal documents. Some tablets were stored in
+large jars but most had been scattered by later burials dug down between
+the walls.61 It turned out that most of the tablets had belonged to two dif-
+ferent families of āšipu-healers: the descendants of Šangu-Ninurta, who
+had occupied the house until about 420 bc; and the Ekur-zakir family,
+who had lived there about a century later.62
+Members of both families had connections to Reš, the enormous
+temple to the sky-god Anu in Uruk. In the late 1950s and early 1960s
+the same German team unearthed some 110 scholarly tablets, plus about
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 25
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+thirty administrative records, from a small room near the southeast gate-
+way to the temple, where illicit diggers had worked in earlier decades.
+The formally excavated tablets, which date to the first half of the third
+century bc, are clearly the remains of a much larger group that includes
+many tablets sold on the antiquities market in the early twentieth cen-
+tury and dispersed to museum collections worldwide. Many originally
+belonged to the Ekur-zakir and Sin-leqi-unninni families of āšipu- healers
+and kalû-lamenters, but it is impossible to reconstruct exactly which of
+the illicitly excavated tablets were originally stored with the formally
+excavated ones.63 The tablets from the houses and temples of Late
+Babylonian Uruk will be a primary focus of Chapter 5.
+Sourcing the ‘stream of tradition’
+Despite this wealth of new discoveries, ‘Ashurbanipal’s Library’ has
+remained the reference point and model for the publication and inter-
+pretation of scholarly writings in cuneiform. It was not only the first sub-
+stantial find of such tablets but also the largest, and remains so. And, as
+Layard noticed back in 1853, Assyrian court scribes had beautiful hand-
+writing and used the very best clay, so the Kouyunjik tablets are amongst
+the best-preserved and most clearly written of all cuneiform artefacts.64
+For all these reasons, Assyriologists are still drawn inexorably to the Kou-
+yunjik tablets and tend to treat similar finds from other places as supple-
+mentary or variant sources. Since the late nineteenth century editors of
+the great works of cuneiform scholarship have typically assembled man-
+uscripts from archaeological sites all over the Middle East, from periods
+throughout the first millennium bc, to create scores and composite texts.
+Scores assemble the witnesses to each line of the composition synopti-
+cally, like the musical score of an orchestral composition, so that variants
+are directly comparable. Composite texts, meanwhile, tend to hide vari-
+ation by presenting the ‘best’ single reading of each line, word and sign,
+chosen from amongst all available manuscripts.65
+There are many advantages to this editorial methodology, most obvi-
+ously that it presents an immediate overview of the whole. But because
+most surviving scholarly tablets happen to be from Kouyunjik – half of
+the known manuscripts of the Standard Babylonian Epic of Gilgamesh, for
+instance, and perhaps as many as three-quarters of the omen series Enūma
+Anu Ellil – that view of the whole is heavily slanted towards seventh-c entury
+Nineveh.66 Similarity is privileged over difference, making it difficult to
+study local variation, chronological change and personal idiosyncrasy.
+26 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Indeed, the very term ‘Standard Babylonian’ for the literary dialect of
+Akkadian subconsciously encourages such standardising approaches. And
+while composite text methodology is perhaps necessary for print publica-
+tion – Andrew George’s masterful critical edition of the Epic of Gilgamesh
+had to relegate its scores to the internet – it is not well suited to works such
+as Enūma Anu Ellil which circulated in greatly variant versions.67
+This homogenising attitude was most starkly expressed by the doy-
+enne of late twentieth-century Assyriology, Erica Reiner, in two reviews
+of the tablets from Huzirina mentioned above (and to which we shall
+return in Chapter 4). Of the first volume she wrote in 1960: ‘the collec-
+tion is a representative sampling of Mesopotamian literature, and the
+novelties it offers are due to the fortunate but accidental circumstance of
+their preservation’.68 Of the second, she reiterated:
+No major discoveries concerning literary genres can be expected
+from excavations of a new site, or even from publications of ‘new’
+types of texts. I tried to stress [in my review of the first volume],
+and I should emphasize even more now, that our scholarly duty lies
+in the interpretation and reinterpretation of long-known texts, in
+order to gain more insight into both the underlying civilization and
+the literary forms that exist as its vehicles.69
+In other words, for Reiner’s generation it was still difficult to see geo-
+graphical and chronological variation as anything but distracting noise
+in the historical record: the outcome of unfortunate but essentially unin-
+teresting circumstances of preservation and recovery rather than an arte-
+fact of historical choice and change.
+The ‘composite text’ method was not merely a matter of pragma-
+tism, a reflection of the fact that the Kouyunjik collection comprised the
+bulk of primary sources for Assyrian and Babylonian scholarship, but
+also had a historiographical component. Indeed, Reiner’s ideas belong
+to what we might call the Chicago school of Assyriology, for it was her
+colleague A. Leo Oppenheim who formulated this approach most explic-
+itly. In 1960 he was commissioned to write a programmatic article on
+Assyriological method, which was reprinted a few years later in his justly
+influential monograph Ancient Mesopotamia.70 To account for the appar-
+ent homogeneity of cuneiform intellectual culture Oppenheim coined
+the felicitous phrase ‘the stream of tradition’. It described ‘what can for
+convenience be called the corpus of literary works of various types that
+was maintained, controlled, and carefully kept alive by a tradition served
+by successive generations of learned and well-trained scribes’.71
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 27
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Assyriologists were quick to adopt this elegant term to describe
+the apparent consistency of cuneiform scholarship across time and
+space, particularly in the first millennium bc. In the second of Reiner’s
+reviews, in 1967, she already calls it ‘accepted’ and it remains in common
+currency today, far beyond Assyriology.72 Indeed it is still useful when
+handled sensitively, as Van Seters demonstrates in the passage that opens
+this chapter. More problematically, some – like Barstad – now write as
+if the ‘stream of tradition’ were a native Mesopotamian concept, not a
+twentieth-century historiographical construct.73 This was not what
+Oppenheim intended. Surprisingly, neither the phrase ‘the stream of
+tradition’, nor the lengthy discussion that Oppenheim embedded it in, has
+ever – so far as I know – been subjected to any sustained analysis.74 The
+word ‘tradition’ encapsulates the mid-century Assyriological consensus
+about the conservative nature of cuneiform culture while ‘stream’ invokes
+a natural, self-perpetuating process that disallows individual creativity
+or local singularity. Let us consider them in turn.
+At one point Oppenheim describes the ‘stream’ as a ‘chain’ of tab-
+lets which ‘a class of scribes … considered its duty to copy and recopy
+faithfully’ in order to keep it ‘functioning’ or ‘unbroken’.75 He attributes
+this duty neither to ‘the desire to preserve a body of religious writings’,
+nor ‘the wish to sustain one tradition against the opposition of, or in
+competition with, rival traditions’ but to the ‘purely operational though
+highly effective device’ of scribal training which consisted in ‘copy[ing]
+faithfully the texts that made up the stream of tradition’. In this view the
+‘stream’ is entirely without human agency: scholarly works were copied
+simply as a means of inducting new members into the profession, with
+little sense of the motivations behind the ‘duty’ or ‘faith’ ascribed to them.
+However, he does acknowledge the existence of ‘a rich and productive
+oral literary tradition’, apparently more creative than its written coun-
+terpart, which ran ‘parallel and subsequent’ to it and which sometimes
+made its way into the margins of cuneiform culture.76
+Yet while the word ‘stream’ implies an ever-changing, moving body
+of knowledge, Oppenheim puts great emphasis on the stasis of tradition:
+on works which ‘at some point in their early history were frozen into a
+specific wording and an established arrangement of content’. This stand-
+ardisation or canonisation, which apparently began in ‘the third quarter
+of the second millennium bc’, ‘effectively maintained the [works’] orig-
+inal contents against the pressures of changing concepts and attitudes,
+preserving obsolete text material that would otherwise have certainly
+disappeared’.77 Given, as we have seen, the scarcity at mid-century of
+provenanced, dateable tablets from sites other than Kouyunjik and the
+28 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+homogenising tendencies of text-editorial methodologies, this was a rea-
+sonable interpretation of the evidence available in 1960.
+Yet even when Oppenheim was writing, this was no longer the con-
+sensus view (although it may have been the majority one). For instance,
+in 1957 Wilfred Lambert wrote: ‘Much Akkadian literature did assume
+a final fixed form, did become a textus receptus [i.e. received text], but
+not all. The Gilgamesh Epic never reached a canonical form, and Enuma
+Anu Enlil circulated in several variant official editions.’78 We have already
+seen some evidence that this was the case, and indeed Oppenheim him-
+self noted historical shifts in ancient scholarly practice in his later writ-
+ings, as we shall see further in Chapter 7.79
+At the coarsest level of chronological, geographical and textual gran-
+ularity, we also see significant change, much of which was also percepti-
+ble to Oppenheim himself, for the evidence was already known.80 Genres
+came and went: Babylonian observational astronomy first appears in the
+mid-eighth century in the form of eclipse records and survived until the
+first century ad but was apparently never adopted at the Assyrian court.
+Horoscopic astrology was developed in the late fifth century, with other
+disciplines such as medicine and divination adapting to it shortly after.81
+Mathematical astronomy took off in the fourth century, with significant
+differences in methodology between Uruk and Babylon.82 We see chang-
+ing trends even amongst the very last generations of cuneiform scholars
+in second-century Uruk: there was a steady shift away from the omen
+series Enūma Anu Ellil towards ever more sophisticated mathematical
+methods of astronomical prediction, even while the lamentations and
+rituals of kalûtu continued to be reproduced as before.83 We shall return
+to these matters in Chapters 5 and 6.
+In short, over the past half-century Oppenheim’s notion of the ‘stream
+of tradition’ has, ironically, formed its own meta-stream. That is, many of
+the supposed features of the ancient ‘stream’ – essentially, preservation
+of the original in the face of new concepts and attitudes – seem in fact to
+apply more to the modern reception of Oppenheim’s idea than to antiquity
+itself. In fact, the very stability of ‘stream of tradition’ historiography is –
+another irony – not at all what Oppenheim intended for it. He hoped that:
+when Assyriologists will be able to follow the fate of individual
+text groups through the history of their tradition, they will obtain
+more insights into the workings of this ‘stream’ and, conceivably,
+light will be shed some day on ideological preferences and other
+attitudes that neither the content nor the wording of these texts is
+likely to reflect directly.84
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 29
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Indeed, Oppenheim himself did just that in the final chapters of his
+Ancient Mesopotamia. In this light, then, my aim here is not to undermine
+or replace Oppenheim’s great idea but to push his own research agenda
+forward using some of the evidential and methodological resources that
+have since become available.
+New views of the past
+It is only since Oppenheim’s day that the mechanisms and motivations
+behind the dissemination of knowledge have become the subject of sus-
+tained academic study. This book takes inspiration from three broad
+fields in particular: the history of books and reading; the historical
+geography of science; and the study of the ways in which communities
+construct their pasts. Now, it is self-evident that in ancient Assyria and
+Babylonia there were, strictly speaking, neither ‘books’ nor ‘science’ in
+the modern senses of these words. But equally, it would be perverse to
+argue that there were no analogues to them either. We cannot simply
+transport models created for other fields into Assyriology and put them
+directly to work unchanged. But they can certainly provoke us into think-
+ing about new ways to approach our material, help to clarify problems
+and to formulate questions which we might not otherwise think to ask.
+Most immediately, the work of the historian Eric Hobsbawm and
+his colleagues can help to us to think more critically about ‘tradition’ and
+the uses of the past in the ancient world.85 Indeed, their influence is clear
+in some Assyriological writing, as we shall see below. Hobsbawm con-
+vincingly argued that tradition is not what it first appears, at least in the
+modern world: ‘“traditions” which appear or claim to be old are often
+quite recent in origin and sometimes invented’.86 Traditions can even be
+‘imagined’ ones with little relationship to what actually happened in the
+past.87 Indeed, Hobsbawm argues:
+The peculiarity of ‘invented’ traditions is that the continuity with
+[the historic past] is largely factitious. In short, they are responses
+to novel situations which take the form of reference to old situa-
+tions, or which establish their own past by quasi-obligatory repeti-
+tion. It is the contrast between the constant change and innovation
+of the modern world and the attempt to structure at least some
+parts of social life within it as unchanging and invariant, that makes
+the ‘invention of tradition’ so interesting for historians of the past
+two centuries.88
+30 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Now, if the invention of tradition is an artefact of the hurly-burly of the
+modern world, it could be argued that it has little to offer Assyriology.89
+Yet the three millennia of Mesopotamian history include many periods of
+political and social upheaval during which one can imagine reactionary
+cultural forces at work. For instance, Niek Veldhuis has argued that we
+should understand the flowering of Sumerian literature in the early sec-
+ond millennium bc as a succession of attempts to halt the flow of cultural
+change in the wake of several radical political upheavals.90 Paul-Alain
+Beaulieu views the ‘antiquarian’ royal inscriptions of the sixth-c entury
+rulers of Babylon, as they re-established their independence from
+Assyria, in a similar light.91 On a smaller scale, we can see ‘inventions of
+tradition’ at play in ‘pious forgeries’ such as the Cruciform Monument
+of Maništušu.92 This inscription purports to be a twenty-third-century
+royal edict granting rights and income to the Ebabbar temple in Sippar.
+Linguistic and historical anachronisms in the text reveal that it was com-
+posed in the early second millennium bc, presumably in order to establish
+historical precedents for new claims on the temple’s behalf. It continued
+to be copied until at least the sixth century bc. And should we really take
+at face value the narratives of ancient loss and fortuitous recovery of cult
+objects and temple ordinances as described, for instance, on the so-called
+Sun-God Tablet of Nabu-apal-iddina or the daily offering rituals of the
+Reš temple in Seleucid Uruk?93 We shall return to this topic in Chapter 5.
+But what of the long periods of relative socio-political calm dur-
+ing which there was, arguably, little need to create stabilising links with
+the past? Hobsbawm usefully goes on to contrast modern tradition with
+habitual custom:
+The object and characteristic of ‘traditions’, including invented
+ones, is invariance. The past, real or invented, to which they refer
+imposes fixed (normally formalized) practices, such as repetition.
+‘Custom’ … [by contrast] does not preclude innovation and change
+up to a point, though evidently the requirement that it must appear
+compatible or even identical with precedent imposes substantial
+limitations on it. What it does is to give any desired change (or
+resistance to innovation) the sanction of precedent, social continu-
+ity and natural law as expressed in history.94
+In other words, ‘tradition’ imposes an artificial stasis on practice, at
+least temporarily, by forging links with the past (in both senses of ‘forg-
+ing’), while ‘custom’ moves with the times, albeit often imperceptibly.95
+The latter concept is most closely analogous to Oppenheim’s ‘stream of
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 31
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+tradition’, despite his insistence on its purely ‘operational’ nature. But
+this ‘operational’ characteristic is a feature of Hobsbawm’s ‘convention
+or routine, which has no significant ritual or symbolic function as such,
+though it may acquire it incidentally’.96 Hobsbawm here contrasts the
+(conventional) wearing of protective headgear for horse-riding with the
+(traditional) form of riding hats and red jackets favoured by the British
+upper classes for hunting on horseback. Thus:
+[Conventions] are not ‘invented traditions’ since their functions,
+and therefore their justifications, are practical rather than ideo-
+logical … . They are designed to facilitate readily definable prac-
+tical operations, and are readily modified or abandoned to meet
+changing practical needs, always allowing for the inertia which
+any practice acquires with time and the emotional resistance to any
+innovation by people who have become attached to it.97
+We can illustrate the tripartite distinction between Hobsbawmian tradi-
+tion, custom and convention by looking at long-term changes in scribal
+education in cuneiform. In the late 1990s it became clear that scribal
+education was not as uniform as previously believed. At the crudest level
+of comparison, the elementary curriculum of eighteenth-century Nip-
+pur was significantly different from that of the late second millennium,
+which in turn differed from mid-first-century northern Babylonia, in sev-
+eral respects. In all three periods scribal teachers favoured standardised
+lists of signs, words and phrases, memorised through repeated copying.
+But the texts themselves, the ways they were used, the formats of the
+tablets and even the target language of instruction were all different.
+In eighteenth-century Nippur, the Old Babylonian city whose edu-
+cational practices we know best, students learned a more or less stand-
+ardised repertoire of long lists of signs, words and phrases in Sumerian,
+in roughly four phases of increasing complexity.98 Using four different
+types of tablet, students moved from initial copying of ten- to thirty-line
+extracts, through adding those newly learned passages to previously
+memorised sections of the same text, to recalling long sections of thor-
+oughly memorised compositions. Some students then undertook inten-
+sive study of Sumerian literature, which was designed to position them
+within a clearly defined and constructed (Hobsbawmian) tradition.
+Carefully chosen hymns to long-dead kings, narrative myths and leg-
+ends about traditional figures, and model texts about the attributes of
+an ideal society all contributed to the ‘creation of a Sumerian heritage’,
+in Veldhuis’s words.99 Furthermore, with its heavy emphasis on literacy,
+32 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+numeracy and law this heritage imagined the scribe as its central figure,
+an upholder of social justice on behalf of royalty and deity by means of
+fair measurement.100
+A comparison with contemporary training in non-p rofessional
+cuneiform literacy reveals the heavy ideological component in Babylonian
+scribal education. In early second-millennium Assur, several hundred
+miles to the north of Nippur, junior members of merchant families learned
+enough cuneiform to communicate long-distance with their families
+and trading partners. The small numbers of surviving exercises from
+Assur and its Anatolian trading colony Kanesh suggest that these skills
+were mostly learned on the job. But the exercises that do survive are all
+closely related to the merchants’ immediate needs to write about, and
+calculate with, the raw materials and manufactured goods in which they
+traded.101 One can easily detect ‘conventional’ components in the format
+of tablets and the content of exercises, but no self-conscious construction
+of a scribal or mercantile identity and heritage.
+Late second-millennium school tablets, primarily known from
+Kassite Nippur and Babylon, show a very different pattern of learning –
+although we have to bear in mind that only dozens, not thousands of
+these survive.102 Just a couple of tablet types have been identified. On
+the front, or obverse, students typically copied passages from literary
+works in both Sumerian and Akkadian; and wrote out omens, incanta-
+tions and laws, and monolingual or bilingual extracts from lexical lists
+on the reverse. Some exercises, especially the Sumerian literary works,
+were also used in eighteenth-century Nippur, while others are develop-
+ments from that time or entirely novel compositions. Some genres, such
+as incantations and omens, although known from professional practice
+in earlier times, are new to scribal education at this date.
+Another five centuries or more later, in and around Nebuchadnezzar’s
+Babylon, scribal trainees learned the basics of their craft in two stages,
+each of which employed three different tablet types.103 In the first stage,
+on large multi-columned tablets the students reproduced long passages
+of six standard curricular lists, none the same as in eighteenth-century
+Nippur.104 On the reverse of these tablets students sometimes added
+spelling exercises and short extracts from a selection of Akkadian-
+language compositions. In the second stage they wrote passages from
+a much wider variety of literary and lexical works, often three or more
+together, on smaller two-columned tablets. Unfortunately, at this stage of
+research we can say little about the internal chronology or geography of
+Neo-Babylonian education. But given the lack of centralised control over
+curricular content anywhere in the world before the early nineteenth
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 33
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+century ad, it is likely to have been as subject to change and local varia-
+tion as its Old Babylonian counterpart.105
+There are a few points of similarity across the millennia – the Neo-
+Babylonian vocabulary Ura = hubullu III is a much-expanded bilingual
+descendant of Old Babylonian Ur -ra I, for example, and the so-called
+5
+Weidner God List is found on both Kassite and Neo-Babylonian tablets –
+but these similarities are mostly superficial. For instance, all that remains
+of the long and complex Old Babylonian multiplication tables and metro-
+logical series in Neo-Babylonian scribal schooling are occasional short
+lists of squared integers and a few sequences of capacity and weight
+measures.106 We can attribute much of the shift in the very elementary
+curriculum to changing linguistic needs. In the Old Babylonian period
+we might attribute the continuing emphasis on Sumerian-language
+skills to conventional inertia, as defined by Hobsbawm. But eventually
+the Sumerian-language exercises disappeared in favour of bilingual or
+monoglot Akkadian counterparts, as the need for Sumerian declined.
+However, that explanation does not account for the continued promi-
+nence of the primarily Sumerian (or at least logographic) Weidner God
+List up until the Neo-Babylonian period, for instance. Indeed, the very
+use of a standardised list of deities, in any language, in any educational
+setting bears some religious or ideological weight; it cannot simply be a
+practical tool.
+We can now see that scribal education – which, for Oppenheim,
+was what fed the ‘stream of tradition’ – was neither unchanging nor
+purely ‘operational’. It did far more than simply impart the conventional
+technical skills necessary for the smooth transmission of ancient writ-
+ten knowledge. It adapted to socio-political upheaval by creating new
+traditions to stabilise itself, traditions that settled into custom in quieter
+times. Now, over half a century after Oppenheim, it would be eccentric
+to maintain that the choice of curricular material was entirely independ-
+ent of current social forces, as he then had it, and was purely utilitarian
+in aim.
+Books and texts
+Oppenheim’s ‘stream of tradition’ model implicitly works on the assump-
+tion of what the economist Stuart Chase called in 1934 an economy of
+abundance, namely an (economic) condition in which ‘an abundance of
+material goods can be produced for the entire population of a commu-
+nity’.107 In Assyriological terms, this translates into the tacit supposition
+34 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+that every Assyrian and Babylonian scholar had full access to the prod-
+ucts of cuneiform intellectual culture, thus enabling the small-scale
+replication of ‘Ashurbanipal’s Library’ in all times and places across the
+first-millennium Middle East. But we might do better to posit an ancient
+economy of scarcity, where, in Chase’s words, ‘the choice between sharing
+and fighting [for resources] is chronic’.108 How, and with what success,
+did potential scholars discover what was already known, and how much
+sharing and fighting was involved? These are central themes of this book,
+and we will use a variety of means to address them.
+In his justly famous article, ‘What is the history of books?’, Robert
+Darnton presented a diagram labelled ‘the communications circuit’,
+detailing the variety of professions involved in the production and con-
+sumption of books in eighteenth-century France.109 He highlighted the
+roles of not only authors, publishers and readers but also suppliers of
+ink, paper and other raw materials; printers, typesetters, binders and
+warehousemen; shipping agents, smugglers and customs officers; book-
+sellers, pedlars and librarians. That particular model has been critiqued
+and refined several times in the intervening thirty years, not least by
+Darnton himself.110 But the details are not at issue here, as very few of
+them are directly pertinent to the first millennium bc. For, as I have writ-
+ten elsewhere:
+If a book is a collection of pages bound together and sold on the
+open market, then there were no books in the ancient Middle East.
+If, on the other hand, a book is a means of recording and transmit-
+ting in writing a culture’s intellectual traditions, then there were
+very many.111
+In other words, merely by proposing ‘a general model for analysing the
+way books come into being and spread through society’, Darnton encour-
+ages us to consider the circulation of cuneiform tablets as material objects
+and all those involved in their production and distribution.112
+Darnton’s primary sources consisted of a whole host of ‘letters by
+authors, booksellers, paper millers, shipping agents, smugglers, wagon
+drivers, compositors, and pressmen; letters scrawled by such unlettered
+persons that they had to be sounded out and read aloud to be under-
+stood; letters that revealed a whole human comedy behind the books’.113
+Assyriologists, of course, have nothing of the sort to work with. That does
+not mean we have to abandon the enterprise; rather we must draw on
+other sorts of evidence, both archaeological and internal to the ‘books’
+themselves.
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 35
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+In the 1980s the literary theorist Gérard Genette proposed several
+ideas that are relevant here, whose overarching theme is ‘transtextuality’,
+or ‘all that sets the text in a relationship, whether obvious or concealed,
+with other texts’.114 What do these concepts mean in practice for Genette,
+and how are they applicable to cuneiform culture?
+Genette distinguished five types of transtextuality, the first being
+Julia Kristeva’s well-known intertextuality, ‘the actual presence of one
+text within another’, whether by acknowledged quotation, ‘undeclared
+borrowing’, or allusion.115 Assyriologists have already made productive
+use of intertextuality so I shall say little more of it here.116 The second is
+paratextuality, the relationships between the central text itself and those
+peripheral parts of it which ‘enable a text to become a book and to be
+offered as such to its readers’.117 For Genette, paratexts are the titles, con-
+tents pages, figure captions, indices, back-cover blurbs and so on which
+the modern reader encounters first when picking up a book, ‘thresholds’
+at which she may decide whether to go on or turn back. The Assyriological
+paratext par excellence is the colophon: the subscript on a tablet describ-
+ing the text and its circumstance of production. We saw above how deci-
+sive colophons were in creating the identity of ‘Ashurbanipal’s Library’
+in nineteenth-century London. Colophons have been classified and col-
+lected for many decades now, but Assyriologists have only started to
+exploit their potential as paratexts in the history of cuneiform scholar-
+ship.118 They will be vital evidence throughout this book.
+Returning to Genette’s classification of types of transtextuality, the
+third and no less relevant is metatextuality, or commentary, an impor-
+tant and significant phenomenon in cuneiform scholarship but which
+has, again, only recently begun to be studied in its own right.119 Fourth is
+hypertextuality, namely ‘any relationship uniting a text B (… the hyper-
+text) to an earlier text A (… the hypotext), upon which it is grafted in
+a manner which is not commentary’.120 Whatever the particular rela-
+tionship between them, hypertext B is ‘unable to exist, as such, without
+A, from which it originates through a process I shall provisionally call
+transformation, and which it consequently evokes more or less percep-
+tibly without necessarily speaking of it or citing it’.121 In Assyriology we
+are used to talking of ‘copies’ and ‘originals’, ‘forerunners’ and ‘urtexts’.
+The problem with terms such as ‘forerunner’ is that they presuppose a
+text’s validity only in relationship to their later, putatively more sophis-
+ticated descendant.122 The hypotext–hypertext pairing, however, frees us
+from such teleology and also allows us to articulate other sorts of rela-
+tionships, so that we can now, for instance, describe the Neo-Babylonian
+36 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+school exercise Ura = hubullu III, mentioned above, as a hypertext of Old
+Babylonian Ura I.123
+Genette developed this terminology in order to study pastiche, par-
+ody and other self-conscious transformations of hypotexts within highly
+textualised modern literary culture. He presents the written word as if
+it only interacts with itself. But it is likely that Assyrian and Babylonian
+scholarship entailed a great deal of memorisation and recall as well as
+direct text-to-text relationships. The medieval historian Brian Stock
+argued that such is the case in all textual communities, or ‘microsocieties
+organized around the common understanding of a script’:
+The question of oral versus written tradition need not be framed
+in inflexible terms. What was essential for a textual community,
+whether large or small, was simply a text, an interpreter, and a pub-
+lic. The text did not have to be written; oral record, memory, and
+reperformance sufficed.124
+The written word had to be present, in other words, but it did not need
+to be omnipresent.
+Indeed, we have already seen that editorial constructions of com-
+posite texts often fail precisely because purely textual models of trans-
+mission do not adequately explain the variety of surviving cuneiform
+manuscripts.125 This gives us further pause for reflection on the value of
+composite text methodology, already alluded to above.
+Jeremy Black, amongst others, reflected at length on the problems
+that arise for editors of Sumerian literary works when trying to construct
+a composite text from multiple sources that are not stemmatically related
+to each other.126 He concluded that, pragmatically, the composite text is
+a necessary tool, as long as both editor and reader are aware, in Piotr
+Michalowski’s words, ‘that a text such as the one presented [in the mod-
+ern edition] never existed’ in antiquity.127 In other words:
+For practical purposes, a … critically informed acceptance of the
+work of editors offers, in almost every case, the only possible basis
+for literary analysis and criticism of Sumerian literature, given the
+special problems with textual integrity that exist.128
+Of course, ‘literary analysis and criticism’ is only one possible avenue of
+research, and over recent decades Sumerologists have laid increasing
+emphasis on the importance of individual manuscripts and materiality in
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 37
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+historicising Sumerian literature.129 Equally, attempts to historicise first-
+millennium scholarship will need to delve underneath the smooth surface
+of the composite text, in order to disentangle the interestingly messy local
+histories underneath. There is no space here to tackle histories of individual
+texts head-on but the approaches described above fundamentally informed
+the editorial practices of the research project from which this book emerged.
+Geographies and communities
+If Genette’s tools are useful for constructing a Darntonian communi-
+cation circuit by analysing transtextual relationships, they are of little
+help in understanding the motivations and interests of the producers,
+consumers and patrons who are Darnton’s primary historical focus. For
+this I have turned to work in the social geography of science, pioneered
+in the 1970s and 1980s by the anthropologist Bruno Latour. Like Darn-
+ton, Genette and Hobsbawm, his foundational work has been subject to
+significant criticism and revision over the intervening decades. But, as
+before, it is the general principles rather than the particular details we
+are interested in, so let us start with his seminal 1987 study of modern
+techno-science, Science in Action. Here he articulated several related con-
+cepts that have opened up new lines of geographical research. First, and
+perhaps most influential, is the network:
+If techno-science may be described as being so powerful and yet so
+small, so concentrated and yet dilute, it means it has the character-
+istics of a network. The word network indicates that resources are
+concentrated in a few places – the knots and the nodes – which are
+connected with one another – the links and the mesh: these connec-
+tions transform the scattered resources into a net that may seem to
+extend everywhere.130
+If we now imagine the scholars of cuneiform culture as actors in a Latou-
+rian network, it becomes clear why earlier generations of Assyriologists
+perceived the intellectual world those scholars created as ubiquitous,
+monolithic and self-sustaining. As we shall see in later chapters, the
+absolute numbers of men involved in intellectual production in the first
+millennium bc were tiny, and concentrated in cities, around particular
+institutions. How they developed and maintained their networks will be
+of particular concern in the rest of this book.
+38 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Latourian Actor-Network Theory (ANT) is different in several respects
+from Social Network Analysis (SNA), which has become widely adopted
+in historical studies.131 Where SNA provides tools and models for mapping
+and quantifying the social relationships between large numbers of (human)
+individuals, ANT is fundamentally a means of thinking about how science
+comes to be: where it happens, and who and what make it happen. Most
+distinctively, for Latour people are not the only actors in the network;
+objects are too, with as much power to influence events as people have. It is
+this aspect of his work that has attracted most scepticism but also praise.132
+However, for our purposes it is most germane that, on Latour’s model, sci-
+entists must actively recruit other actors, both human and non-human, into
+their network, whether funders or experimental specimens.
+Latour also argues that we do not need to understand everything
+the (human and non-human) actors think and feel; we need only exam-
+ine their outcomes. These traces of actors Latour calls actants.133 To my
+mind this is exciting for Assyriology as it encourages us to acknowledge
+the divine actors in intellectual networks, interrogated directly through
+prayer and divination, recruited by the scholars to curse and protect
+their malefactors and benefactors. We saw this recruitment in action in
+Ashurbanipal’s appeal to his patrons Nabu and Tašmetu in the colophon
+above, but it is also visible in the correspondence between Assyrian kings
+and their courtly advisors. Scholars typically opened their more routine
+letters by invoking the gods Nabu and Marduk, as in this report from king
+Esarhaddon’s chief āšipu-healer on the good health of a royal baby:
+To the king, my lord: your servant Adad-šumu-uṣur. Good health to
+the king, my lord! May Nabu and Marduk bless the king, my lord!134
+However, when it became particularly important to gain the king’s atten-
+tion and support, larger numbers of senior gods were summoned, as
+when the same Adad-šumu-uṣur petitioned for his son, the āšipu Urad-
+Gula, to be returned to royal favour:
+To the king, [my] lord: your servant Adad-[šumu-uṣur]. Good
+health to [the king, my] lord! May Aššur, Sin, Šamaš, [Bel], Nabu
+and Nergal very greatly bless the [king], my lord!135
+The fact that scientists record knowledge, advice, information and data
+also matters to Latour. For him, inscriptions (whether computer print-
+outs or cuneiform tablets) are ‘immutable and combinable mobiles …
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 39
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+conveniently at hand and combinable at will, no matter whether they
+are twenty centuries old or a day old’.136 In other words, writing travels
+as much as people do, taking established knowledge to new places, and
+enabling new knowledge to be created through acts of editing and rewrit-
+ing. Of course, this is not the whole picture. As Brian Stock reminds us,
+knowledge also travels in people’s minds and in their bodies; memory
+and tacit knowledge are equally important to scientific communities too,
+as the sociologist Harry Collins showed back in the 1970s.137
+In order for science to happen, Latour argues, the messy real world
+has to be categorised and simplified into manageable scientific (or schol-
+arly) data: ‘Metrology is the name of this gigantic exercise to make of the
+outside a world inside which facts and machines can survive.’138 In cunei-
+form culture, Assyrian royal diviners’ observation and interpretation of
+sacrificial omens constitutes a clear example of Latourian metrology, as I
+have argued elsewhere.139 According to Latour’s ANT, the scientist’s final
+act in transforming new knowledge into established truth is to ‘black box’
+it, or erase all traces of the process of production.140 Cuneiform scholars
+too were masters of black-boxing: almost no evidence remains of how
+their learned writings came to be.
+More recently David Livingstone has argued very powerfully for the
+value of thinking geographically about science and about knowledge pro-
+duction more generally:
+Scientific theory evidently does not disperse evenly across the globe
+from its point of origin. As it moves it is modified; as it travels it
+is transformed. All this demonstrates that the meaning of scientific
+theories is not stable; rather it is mobile and varies from place to
+place. And that meaning takes shape in response to spatial forces
+at every scale of analysis – from the macropolitical geography of
+national regions to the microsocial geography of local cultures.141
+Livingstone’s work is primarily focused on the local site, the regional
+culture and the movements of science between them. However, as he
+acknowledges, this tripartite analysis is not just a matter of physical
+geography:
+We do not just inhabit material spaces. We also occupy a variety
+of abstract spaces, and we refer in spatial ways to the intellectual,
+social and cultural arenas through which we move. People close
+together physically may be ‘miles apart’ in terms of social distance
+or cultural space, living, as it were, in totally different worlds.142
+40 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+This is a salutary reminder that scholarly endeavour was highly socially
+stratified within cuneiform culture too. Not only shall we be looking for
+ways in which Assyrian and Babylonian scholars built and protected their
+professional identities and status, but we should also fundamental ques-
+tions of accessibility:
+The geography of science also calls attention to the uneven distri-
+bution of scientific information. Not everyone has had access to the
+deliverances of science because there are diffusion tracks along
+which scientific ideas and their associated gadgetry migrate.143
+These questions pertain not only to the scholars themselves, their col-
+laborators and rivals, but also to their patrons and potential clientele.
+However, they also draw attention to changes in the accessibility of
+Assyriological information in the decades since Oppenheim conceptu-
+alised the ‘stream of tradition’. Put simply, we have moved from a Cha-
+sean economy of scarcity to an economy of abundance, particularly in
+the last few years. This is largely due to the democratisation of access to
+sources. On the one hand, colleagues and I have championed the crea-
+tion of open access online ancient text corpora through Oracc and sim-
+ilar initiatives. On the other hand, commercial concerns such as Google
+and the university presses have undertaken huge-scale digitisation of
+journals, books and other secondary sources, as have funding agencies
+and organisations such as the Chicago Oriental Institute whose aims are
+primarily about freedom of access. Many of the modern sources I have
+drawn on in this chapter I discovered and accessed online as well as, or
+instead of, in print. Simply put, we are now in the privileged position of
+being able to find out much more about what ancient scholars wrote,
+and about what fellow historians think, than Oppenheim ever had the
+opportunity to do.144
+Equally germane to our enquiry, as Jim Secord argued in 2004, is
+the question of ‘knowledge in transit’. That is, while information about
+the world may be more uniformly accessible and globalised than at any
+time in history, it is still and always has been fundamentally local and
+contingent.145 It is individuals, professional communities and societies
+who make meaning from the world around them, and the meanings they
+make depend to a large extent on their own needs and interests. Thus
+the same ‘facts’ are valued and interpreted differently as they move from
+individual to individual, community to community, society to society.
+That is particularly worth bearing in mind when we consider the longev-
+ity of some works of cuneiform scholarship: was the Epic of Gilgamesh
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 41
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+always read and interpreted in the same ways over the millennia? Or the
+omen series Enūma Anu Ellil? Almost certainly not. Rather, their durabil-
+ity rested in the multiple ways they could be put to work in new contexts
+for new purposes. Works, ideas and techniques that could not adapt did
+not survive. We shall further explore the multifaceted mutability of the
+‘stream’ in Chapter 7.
+Conclusions
+Looking back at the quotations that opened this chapter, Van Seters’
+‘soft’ use of the phrase ‘stream of tradition’ still seems unobjectionable,
+and indeed helpful as a shorthand for a body of knowledge which is
+transmitted and reshaped by a society over a long period of time.146
+Barstad’s ‘hard’ characterisation, however, unwittingly picked out
+several features of Oppenheim’s connotations of the phrase that now
+seem problematic: that scholarly works were simply ‘handed down’,
+like heirlooms; that their number was ‘fairly insignificant’ despite
+the ‘enormous number’ of surviving manuscripts; that they were not
+‘newly invented, very different, or independent … creations’ but com-
+prised a cultural monolith that was ‘known to most of the ancient Near
+Eastern civilized world’, regardless of geography, chronology or social
+circumstance.147
+That is not to berate Barstad, or even Oppenheim, for character-
+ising cuneiform culture in this way. For as we begin to historicise the
+intellectual endeavours of the ancient past, we also become attuned to
+the historical circumstances in which our own predecessors were work-
+ing and writing. The ‘stream of tradition’ model was, in 1960, one that
+was built from the majority of the available data with the best available
+intellectual tools. For at mid-century the huge mass of seventh-century
+Kouyunjik tablets was still the only large body of cuneiform scholarship
+that had been catalogued, edited and studied in any detail. Pre-Second
+World War excavations had largely failed to capitalise on their textual
+discoveries while the publication and analysis of tablet assemblages exca-
+vated since the war – and indeed from Kouyunjik in nineteenth- century
+Mosul – were still decades away. Likewise, the ‘stream of tradition’ con-
+cept was shaped by the predominance of composite text-editorial meth-
+odology: at that time an absolute necessity for tracing the basic outlines
+of ancient intellectual endeavour, and perhaps the only viable means of
+doing so given the data-collection and publication technologies then
+available.
+42 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+Perhaps what is more surprising is for how long powerful historical
+models endure. The idea of ‘Ashurbanipal’s Library’ as a single entity, cre-
+ated by a single royal figure, was born in 1860s London, at a time when
+tablets were not yet archaeological artefacts but carried a dual identity
+as collected specimens for display and as bearers of decipherable text.
+Thus it mattered that they came from Kouyunjik, the site of the ancient
+city of Nineveh, as opposed to anywhere else. But their particular dispo-
+sition in the ground – in relation to the ruined buildings, to each other
+and to other found objects – was not germane at all. Contrariwise, (some
+of) the tablets’ own self-descriptions as ‘property of Ashurbanipal’s pal-
+ace’ were incontrovertible proof of their origins and function. Indeed,
+for much of the nineteenth century the British establishment privileged
+text over object- and people-based ways of studying the human past such
+as archaeology and ethnography.148 As well-educated Western men, the
+first- and second-generation Assyriologists were all trained in Classics,
+Old Testament Hebrew or both. Familiarity with Greece, Rome and the
+Bible not only enabled them to tie Assyria into the known ancient world
+but also provided the methods by which the overwhelmingly abundant
+cuneiform manuscripts could be edited together into coherent canonical
+texts. There was no reason (yet) to suppose that Assyria and Babylonia
+had fundamentally different relationships to text than the other, more
+familiar ancient civilisations.
+Thus Oppenheim inherited the working practices and tacit assump-
+tions of previous generations of Assyriologists, just as our generation has
+inherited his.149 Now, however, it is time to put the people and the objects
+back into the picture – informed but not, I hope, overwhelmed by the
+theoretical models discussed here. By doing so, as I aim to show, we start
+to give that picture life and movement, depth and texture. But it is only a
+first approximation, and I am confident that much in this book will turn
+out to be wrong or misguided. I hope too that we will not have to wait
+another half-century to find out.
+Notes
+1. Van De Mieroop (2015) and Rochberg (2016) both present accounts of Babylonian ‘epistemol-
+ogy’ that downplay the historical, social, geographical, political and contingent in favour of
+overarching grand synthesis.
+2. Van Seters (1983: 4).
+3. Barstad (2008: 63–4).
+4. Barstad (2008: 64 n66) citing Oppenheim 1977 [1964]: 15. Barstad’s chapter first appeared in
+a collective volume some years earlier (Barstad 2001: 70 with n47).
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 43
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+5. See Bahrani (1998) for a useful critique of the supposed ‘despotic Orientalism’ of ancient Mes-
+opotamia.
+6. Oppenheim (1960a: 412).
+7. Tejiran and Simon (2012: 87–9).
+8. The Old Testament Book of Jonah begins, in the words of the Authorised (King James) Ver-
+sion: ‘Now the word of the Lord came unto Jonah the son of Amittai, saying, Arise, go to
+Nineveh, that great city, and cry against it; for their wickedness is come up before me. But
+Jonah rose up to flee …. ’ He took a boat from Joppa (modern Jaffa in Israel) to escape his
+destiny, but was shipwrecked. ‘Now the Lord had prepared a great fish to swallow up Jonah.
+And Jonah was in the belly of the fish three days and three nights.’ Jonah prayed and repented,
+whereupon, at 2.10, ‘the Lord spake unto the fish, and it vomited out Jonah upon the dry
+land.’ Chapter 3: ‘And the word of the Lord came unto Jonah the second time, saying, Arise, go
+unto Nineveh, that great city, and preach unto it the preaching that I bid thee. So Jonah arose,
+and went unto Nineveh, according to the word of the Lord’ (https://www.kingjamesbibleon-
+line.org/Jonah-Chapter-1/, last accessed June 2018).
+9. Rich (1836: II 26–46).
+10. For a somewhat hagiographical bibliography of Botta, see McGovern and McGovern (1986);
+his natural historical writings include Botta (1831a [trans. Knowlton 1984]; 1831b; 1839;
+1841). The rubber boa (Charina bottae), a snake native to western North America, is named
+for him.
+11. A useful overview of early Victorian scientific collecting practices is Camerini (1997).
+12. On the development of archaeology in the nineteenth century see for instance Díaz-Andreu
+(2007); Rowley-Conwy (2007); and particularly Liverani (2000) for the development of mud-
+brick archaeology in the Middle East.
+13. On Layard’s discovery of 1850, see M.T. Larsen (1996: 262–4); on the reception of his writings
+and finds see e.g. Bohrer (2003: 98–222); T. Larsen (2009; 2013); Brusius (2012); Malley
+(2012).
+14. Russell (1991: 36–7). It is sometimes asserted (e.g. Damrosch 2007: 110–13) or implied (e.g.
+Stronach and Codella 1997: 145) that it was Hormuzd Rassam who found the bulk of the
+tablets, in the North Palace, after he took over the Nineveh excavations from Layard in 1852.
+However, Layard’s descriptions, given here, reveal that he (or rather Shishman) did in fact find
+substantial quantities of tablets in 1850. The misunderstanding may have arisen because of the
+fact that only 278 of those first tablets were catalogued by the British Museum straight away;
+the rest received accession numbers only much later (Reade 1986a: 213).
+15. Layard (1853: 345).
+16. Reade (1998–2001: 421).
+17. Reade (1986a: 213).
+18. Smith (1875: 144); Budge (1920: 83). For brief summaries of the tablets of the Southwest
+Palace at Nineveh, see Russell (1991: 34–43) and Reade (1988–2001: 421–2) with further
+literature.
+19. Reade (1998–2001: 421).
+20. Reade (1986a: 221; 1998–2001: 422; 2005: 382); Lambert and Millard (1968).
+21. Reade (1986a: 221; (1998–2001: 421).
+22. This account does not attempt to give a full history of the British Museum’s work on cuneiform
+tablets at this period; for further glimpses see Rowley-Conwy (2007); Brusius (2012; 2014).
+23. See Brusius (forthcoming) for an in-depth study of the relationships between photography and
+Assyriology in mid-Victorian England.
+24. See Robson (2013a) for a revisionist account of decipherment and its aftermath.
+25. Rawlinson and Norris (1861).
+26. Budge’s (1925: 89–172) defensive and partisan account of the British Museum’s work on the
+Kouyunjik tablets during these decades gives a vivid sense of the lack of staff, space, resources
+and expertise available – there or anywhere in the world.
+27. Layard (1854: 37).
+28. G. Rawlinson (1862–7). Rawlinson’s ‘Chaldean monarchy’ is what we would now call Sumer-
+ian culture. The correct name was identified by Jules Oppert in 1869 (Evans 2014: 16).
+29. G. Rawlinson (1871: II 212; III 13).
+30. Rawlinson and Norris (1866).
+31. Norris (1868–72).
+44 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+32. Short colophons, now known as Ashurbanipal Type a (Hunger 1968: no. 317): KUR mAN.ŠÁR–
+DÙ–A | MAN ŠÚ MAN kurAN.ŠÁRki (Rawlinson and Norris 1866: pl. 10, 11, 18, 35, 39, 40 × 2,
+59, 60, 65). Longer ones, mostly Ashurbanipal Types c–e (Hunger 1968: no. 319): Rawlinson
+and Norris (1866: pl. 21, 23, 27, 33, 38, 40, 42, 43, 51, 62). It is pl. 21 (Type d) that is translat-
+ed here, from a copy of the word-list Nabnītu Tablet 10 (K 39, ed. Finkel 1982: 117–23): DUB
+10-KÁM.MA SIG₇.ALAN nab-ni-tu₄ | É.GAL mAN.ŠÁR–DÙ–IBILA LUGAL ŠÚ LUGAL kuraš-šurki
+| ša dNÀ dtaš-me-tu₄ GEŠTU-MIN DAGAL-tu iš-ru-ku-šú | i-hu-zu IGI-MIN na-mir-tu na-šiq tup-
+·
+šar-ru-ti | ša ina LUGAL-MEŠ-ni a-lik mah-ri-ia | mám-ma šip-ru šu-a-tu la i-hu-uz-zu | né-
+me-qí dNÀ ti-kip sa-an-tak-ki ma-la ba-áš-mu | ina DUB-MEŠ áš-tur as-niq ab-re-e-ma | a-na
+·
+ta-mar-ti ši-ta-as-si-ia | qé-reb É.GAL-ia ú-kin.
+33. Harris (1998: 180–90); Caygill (2000: 6–16).
+34. Birch (1871: 5).
+35. Smith (1876: 2).
+36. Reade (1986a; (1998–2001: 421–7).
+37. Reade (1998–2001: 421).
+38. Now published in the SAA (online) series; see list of bibliographical abbreviations in the front
+matter.
+39. Published variously in the Royal Inscriptions of Mesopotamia and Royal Inscriptions of the
+Neo-Assyrian Period, republished and completed online by the Official Inscriptions of Middle
+Eastern Antiquity project (http://oracc.org/oimea, last accessed June 2018).
+40. Reade (1998–2001: 421, 423), based on Weidner (1952/3: 198); Oppenheim (1977 [1964]:
+15–20).
+41. Following Lambert (e.g. 1967: 126), some Assyriologists prefer to use the term ‘Ashurbanipal’s
+libraries’, thereby acknowledging the multiplicity of findspots, but this phrase does not address
+the fundamental definitional problem.
+42. E.g. Pedersén (1998: 2–3).
+43. Robson (2013b); Robson and Stevens (2019).
+44. Budge (1925: 160–5).
+45. Bezold (1889–99). Supplements were published throughout the twentieth century, following
+new discoveries on site and new joins and identifications in the Museum (King 1914; Lambert
+and Millard 1968; Lambert 1993). King (1914: xi) already acknowledges that the Kouyunjik
+collection is not co-extensive with or identical to ‘Ashurbanipal’s Library’.
+46. Cf. Budge (1925: 171–85). The whole series is now freely available for download in PDF for-
+mat at http://www.etana.org/coretexts/search/title?keyword=cuneiform%20texts%20bab-
+ylonian%20tablets.
+47. The list is too long to present exhaustively here. See e.g. Harper and Waterman (1892–1914);
+Knudtzon (1893); Craig (1895–7); Jastrow (1898); Johns (1898–1914); Thompson (1900);
+Boissier (1905–6); Virolleaud (1905–12); Olmstead (1908); Klauber (1913); Streck (1916).
+48. http://www.britishmuseum.org/research/research_projects/Ashurbanipal_library_phase_1.
+aspx, last accessed June 2018.
+49. Pedersén (1985–6; 2005; 2011). On the āšipus’ house, see Maul (2010).
+50. Moorey (1978: 48–50); Robson (2004: 46–62).
+51. Woolley (1962: 47); Robson and Stevens (2019).
+52. Falkenstein (1931).
+53. Loud and Altman (1938: 104–5).
+54. Loud and Altman (1938: 56–64).
+55. J.A. Brinkman, pers. comm., August 2010.
+56. Mallowan (1966); Oates and Oates (2001); Curtis et al. (2008); and see the Nimrud: Material-
+ities of Assyrian Knowledge Production project (http://oracc.org/nimrud), last accessed June
+2018.
+57. Wiseman and Black (1996); Black (2008).
+58. Hussein and Black (1985–6).
+59. Lloyd and Gökçe (1953); Gurney and Finkelstein (1957); Gurney and Hulin (1964).
+60. Hilgert (2013).
+61. Kose (1998: 374–90).
+62. Hunger (1976); von Weiher (1982; 1988; 1993; 1998); Clancier (2009a: 47–72, 387–405).
+63. Van Dijk and Mayer (1980); Clancier (2009a: 73–80, 406–9).
+64. Layard (1853: 345).
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 45
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+65. Editorial and analytic methodology has been the subject of much debate amongst literary
+Sumerologists in recent decades (for a useful overview see Delnero 2012) but is rarely dis-
+cussed by Assyriologists working on first-millennium scholarship. We shall return to this ques-
+tion later in the chapter.
+66. On the sources of the Epic of Gilgamesh, see George (2003: 391–415).
+67. George’s scores of Gilgamesh are at http://www.soas.ac.uk/nme/research/gilgamesh/stand-
+ard/ (last accessed June 2018). The seventy-odd Tablets of Enūma Anu Ellil are still not fully
+available in modern editions, partly because of its intractability to composite edition. So far the
+main studies include: Tablets 1–6 and 14 (the moon god Sin in its first crescent): Verderame
+(2002); Al-Rawi and George (1991/2); Tablets 15–22 (the moon god in the middle of the
+month, lunar eclipses): Rochberg-Halton (1988); Tablets 23/4–29/30 (the sun god Šamaš;
+coronas, parhelia, solar eclipses): van Soldt (1995); Gehlken (2000); Tablets 42–9 (thunder-
+storms, wind and rain): Gehlken (2008; 2012); Tablets 50/1, 56, 59–65 (signs from planets):
+Largement (1957); Reiner and Pingree (1978; 1981; 1998; 2005); and two catalogues show-
+ing different Tablet numbering systems (TCL 6: 15; Fincke 2001).
+68. Reiner (1960: 24).
+69. Reiner (1967: 177).
+70. Oppenheim (1960a; 1977 [1964]). Indeed, it was Reiner who oversaw the completion of the
+second edition of Ancient Mesopotamia after Oppenheim’s death in 1974.
+71. Oppenheim (1960a: 410–11); cf. Oppenheim (1977 [1964]: 13), where he calls it ‘the stream
+of the tradition’. The second ‘the’ is never used nowadays.
+72. Reiner (1967: 177). Searches for the terms ‘stream of tradition’ and ‘Traditionsstrom’ on Goo-
+gle Scholar reveals that instances of its use are manifold, in fields as various as ancient world
+and biblical studies and contemporary heavy metal music (Elflein 2008). In most cases the
+phrase has become normalised as idiomatic English and its origins in Oppenheim’s critique of
+Assyriology lost (search carried out on 16 October 2011).
+73. Sensitive uses include e.g. Ambos (2010: 17); Goldstein (2010: 200); but cf. e.g. Halton
+(2009).
+74. For Oppenheim’s (very racialised) reflections see (1967: 35–7; 47); my own preliminary dis-
+cussion is Robson (2011b: 557–9).
+75. Oppenheim (1960a: 411; 1977 [1964]: 13–14).
+76. Oppenheim (1960a: 414; 1977 [1964]: 22).
+77. Oppenheim (1960a: 413; 1977 [1964]: 18).
+78. Lambert (1957: 9).
+79. E.g. Oppenheim (1977 [1964]: 215, 225).
+80. E.g. Oppenheim (1967: 47).
+81. Rochberg (2004: 98–120); Heeßel (2008); Steele (2011a: 335–8); Monroe (2016); Wee
+(2016).
+82. Steele (2016).
+83. Robson (2007b).
+84. Oppenheim (1960a: 412; 1977 [1964]: 16).
+85. There are also several sociological theories of tradition, as usefully discussed by Hintersteiner
+(2001). Perhaps most relevant to us is that of Edward Shils (1981), as reviewed and critiqued
+by Jacobs (2007). Jacobs picks out several features of Shilsian tradition that will be useful
+for us here: ‘agents being irredeemably ignorant of facets of their traditions’ and thus the im-
+portance of Polanyian tacit knowledge; tradition’s creativity and adaptability to environmen-
+tal change; and its function ‘as a principle of exclusion’ (Jacobs 2007: 141, 142–4, 150; cf.
+Polanyi 1958: 49–50; 2009 [1966]: 1–25). But Jacobs (2007: 155–9) also picks out Shils’
+failure to consider methods of transmission of traditions, the role that learning and education
+play, and the necessity of agents valuing their traditions (cf. Radin 1937: 64). Without such
+constraints on Shils’ definition, he argues, ‘it encompasses virtually every facet of social life’
+(Jacobs 2007: 160).
+86. Hobsbawm (1992 [1983]: 1).
+87. Ranger (1993).
+88. Hobsbawm (1992 [1983]: 2).
+89. Critiques of Hobsbawm’s work include the collection edited by Dimitriyevic (2004).
+90. E.g. Veldhuis (2004).
+91. Beaulieu (1994; 2003a).
+92. Sollberger (1968); Al-Rawi and George (1994).
+46 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+93. Sun-god tablet: Woods (2004); offerings to Reš: TCL 6: 38; Linssen (2004: 227–32); Ambos
+(forthcoming).
+94. Hobsbawm (1992 [1983]: 2).
+95. Here Hobsbawm wants to claim ‘custom’ as belonging to ‘traditional societies’, in a per-
+haps unfortunate distinction between ‘modernity’ and ‘tradition’ (in the non-Hobsbawmian
+sense). As this supposed dichotomy between the ‘invented traditions’ of ‘modern’ societies
+and the ‘customs’ of ‘traditional’ ones seems both confusing and unhelpful I shall put it to
+one side in this discussion. Indeed Stock (1990: 163) usefully argues that ‘if we are to come
+to grips with how tradition works, we must not only distance ourselves from the ideological
+positions that favor tradition or modernity. It is also necessary to abandon the naïve dichot-
+omy “traditional/modern” …. Tradition and modernity are not mutually exclusive; they are
+mutually interdependent.’ Stock (1990: 164–6) does in fact make much the same distinction
+between different attitudes to the past as Hobsbawm does. But, confusingly, Hobsbawmian
+‘custom’ is analogous to Stockian traditional action: ‘the habitual pursuits of inherited forms
+of conduct which are taken to be society’s norms’; and Hobsbawm’s ‘tradition’ is comparable
+to Stock’s traditionalistic action, which he usefully defines as ‘the self-conscious affirmation
+of traditional norms [and] the establishment of such norms as articulated models for current
+and future behaviour, …. consciously selected from the fund of traditional knowledge in or-
+der to serve present needs’. We shall keep to Hobsbawm’s terminology for clarity’s sake.
+96. Hobsbawm (1992 [1983]: 3).
+97. Hobsbawm (1992 [1983]: 3).
+98. Namely, in phase 1, a handwriting exercise now called Syllable Alphabet B and three stand-
+ardised lists of personal names; in phase 2, the six-chapter Sumerian vocabulary Ura; in
+phase 3, sign lists such as Proto-Ea and Proto-Diri, multiplications and metrology; in phase 4,
+model legal contracts and proverbs. See most conveniently the overview by Veldhuis (2016).
+99. Veldhuis (2004: 66–80; 2011).
+100. Robson (2007a; 2008a: 97–124).
+101. Michel (1998; 2008); Robson (2008a: 134–6).
+102. Veldhuis (2000); Bartelmus (2016).
+103. Gesche (2001); Veldhuis (2003).
+104. Namely, the compositions now called Syllabary A (Sa), Syllable Vocabulary B (Sb), the Weid-
+ner God List and the first three tablets of Ura = hubullu (Gesche 2001: 66–78). Gesche counts
+seven, rather than six, but acknowledges that her SbA and SbB are two halves of the same
+work.
+105. See e.g. Kumar (1988) and Donnelly (1989) on the modern development of national cur-
+ricula; and Tanret (2002) and Ohgama and Robson (2010) on scribal education in the Old
+Babylonian cities of Sippar and Kish.
+106. Robson (2008a: 192–8).
+107. Chase (1934: 10).
+108. Chase (1934: 51). His aim was to draw attention to the dramatic shift between the two eco-
+nomic states, which he argued had taken place in North America at the turn of the twentieth
+century, and to reflect on the economic mismanagement that had arisen through failure to
+notice that shift. It was also a highly moral work, which romanticised the frugal past and con-
+demned present excesses. It is certainly not my intention to replicate such value judgements
+here.
+109. Darnton (1982: 68).
+110. E.g. Adams and Barker (1993); Darnton (2007).
+111. Robson (2007b: 67).
+112. Darnton (1982: 67).
+113. Darnton (2007: 496).
+114. Genette (1997a [1982]: 1).
+115. Genette (1997a [1982]: 2).
+116. E.g. Pongratz-Leisten (2010), in the collection by Alexander et al. (2010) which explicitly
+uses Genette’s theories on ancient and medieval literature of the Middle East and Mediterra-
+nean. A useful survey of early Assyriological studies of intertextuality is Hays (2008: 24–5).
+117. Genette (1997a [1982]: 3; 1997b [1987]: 1).
+118. The seminal studies were by Leichty (1964) and Hunger (1968), still indispensable. More re-
+cently see e.g. Pearce and Doty (2000); Robson (2008a: 220–60); and Maul (2010) amongst
+many other examples.
+FROM ‘ASHURBANIPAL’S LIBRARY’ AND ‘THE STREAM OF TRADITION’ TO NEW APPROACHES 47
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+119. Genette (1997a: 4); in Assyriology e.g. Frahm (2004; 2011a).
+120. Genette (1997a: 5).
+121. Genette (1997a: 5). Note that this is a rather different textual relationship from the borrow-
+ing or quoting of (snippets of) other texts that comprises intertextuality. Hypertexts funda-
+mentally depend on their hypotexts for their very existence; intertextual relationships consist
+of much more casual borrowings.
+122. See already Farber (1993) for an early critique of the standard Assyriological discourse on
+‘forerunners’ and ‘standard’ versions.
+123. Finally, the most abstract of Genette’s transtextual types is the architextual, or ‘the entire set
+of general or transcendent categories – types of discourse, modes of enunciation, literary gen-
+res – from which emerges a singular text’ (Genette 1997a: 1). Architext is ‘a purely taxonomic
+matter’ which ‘the text itself is not meant to know, and consequently not meant to declare’
+(Genette 1997a: 4). That is, architextual taxonomies may override or contradict paratextual
+declarations: while native genre classifications, for instance, are often helpful, equally often
+it is necessary to impose our own. This is not news to Assyriologists, of course, since von
+Soden’s famous coinage of the term Listenwissenschaft ‘list science’ as an overarching catego-
+risation of many types of Mesopotamian knowledge production (von Soden 1936; cf. Hilgert
+2009 for an important and long overdue critique).
+124. Stock (1990: 23, 37; cf. 140–58).
+125. Likewise, as hinted above, there is now a host of evidence that Old Babylonian scribal trainees
+learned mathematical and literary texts piecemeal, as much by reproduction from memory
+as by direct copying from pre-existing exemplars; e.g. Robson (2002); Delnero (2010); cf.
+Vogelzang and Vanstiphout (1992).
+126. Black (1998: 28–38).
+127. Michalowski (1989: 25).
+128. Black (1998: 38).
+129. E.g. Veldhuis (2004); Delnero (2010; 2012); Tinney (1999; 2011).
+130. Latour (1987: 180).
+131. E.g. Erickson (1997); Malkin et al. (2007); Malkin (2010); Ossendrijver (2011a; 2011b). On
+SNA methodology see e.g. Wellman and Berkowitz (1988); Scott (2000).
+132. Criticism: e.g. Yearley (2005: 55–68), with references to earlier literature; praise: e.g. Har-
+man (2009: 34).
+133. Latour (1987: 84).
+134. a-na LUGAL be-lí-ía | ARAD-ka mdIŠKUR–MU–PAB | lu šùl-mu a-na LUGAL be-lí-ía | dNÀ
+dAMAR.UTU a-na LUGAL | be-lí-ia lik-ru-bu (SAA 10: 194, obv. 1–5).
+135. a-na LUGAL be-[lí-ia] | ARAD-ka mdIŠKUR–[MU–PAB] | lu-u šùl-mu a-na [LUGAL] | be-lí-
+[ia] | daš-šur d30 dUTU [dEN] | dNÀ dU.GUR a-na [LUGAL] | be-lí-ia a–dan-niš a–[dan-niš] |
+⸢ ⸣
+lik-ru-bu (SAA 10: 224, obv. 1–8). Cf. Parpola (1987b); Westbrook (2005: 222–3).
+136. Latour (1987: 227); my italics.
+137. Stock (1990); Collins (1974). The literature on this subject is now vast. An important collec-
+tion of essays on this topic is Shapin (2010).
+138. Latour (1987: 251); my italics.
+139. Robson (2011b).
+140. Latour (1987: 2).
+141. D.N. Livingstone (2003: 4).
+142. D.N. Livingstone (2003: 6).
+143. D.N. Livingstone (2003: 12).
+144. However, this economy of Assyriological abundance has sharply demarcated geographical,
+linguistic and social boundaries. Those without the privilege to be an Anglophone westerner
+with subscription access to online collections such as JSTOR are still systemically excluded—
+including many academic colleagues in the Middle East.
+145. See also Renn (2012).
+146. Van Seters (1983: 4).
+147. Barstad (2008: 63–4).
+148. Rowley-Conwy (2007).
+149. I (almost) resist the temptation to frame this summary in terms of Kuhnian ‘normal science’
+(Kuhn 1996 [1962]: 10–42); cf. Bird (2011) with extensive further literature.
+48 ANCIENT KNOWLEDGE NETWORKS
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:33:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

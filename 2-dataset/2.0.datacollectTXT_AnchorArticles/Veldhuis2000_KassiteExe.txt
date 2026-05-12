@@ -1,0 +1,1096 @@
+# METADATA
+author: Veldhuis N.
+source_id:Veldhuis2000_KassiteExe
+title: Kassite Exercises: Literary And Lexical Extracts
+Year: 2000
+Source_ID:  Veldhuis2000_KassiteExe
+Source_Type:Article in Book: Journal of Cuneiform Studies, Vol. 52, (2000)
+Source_Role,Step_distance:2 ,3,4 
+Pages: pp. 67-94
+Web: 
+Published: The American Schools of Oriental Research
+
+# TEXT
+
+Kassite Exercises: Literary and Lexical Extracts
+Author(s): Niek Veldhuis
+Source: Journal of Cuneiform Studies, Vol. 52, (2000), pp. 67-94
+Published by: The American Schools of Oriental Research
+Stable URL: http://www.jstor.org/stable/1359687
+Accessed: 02/06/2008 16:31
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=asor.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit organization founded in 1995 to build trusted digital archives for scholarship. We enable the
+scholarly community to preserve their work and the materials they rely upon, and to build a common research platform that
+promotes the discovery and use of these resources. For more information about JSTOR, please contact support@jstor.org.
+http://www.jstor.org
+KASSITE EXERCISES: LITERARY AND
+LEXICAL EXTRACTS
+Niek Veldhuis
+GroningenU niversity
+The developmenta ndt ransmissiono f cuneiform and perhapsS ippar (CT 58 61 = BM 81700), all
+literatureb etween the Old Babylonianp eriod and representedb y one examplee ach.I n addition,t here
+the first millennium is still inadequatelyk nown aret wo or threeu nprovenancede xemplarsk nown
+and understood. The group of tablets presented to me.1
+here provides a small window on the riches of the A relatedt ablet type is the Middle Babylonian
+literary and lexical texts used in Kassite period lentil. Obversea ndr eversec ontaint he same kinds
+education.I n additiont o lexical extracts,t he exer- of extractsa s the pillow-shapedt ype. The text on
+cises include a surprising variety of texts and the reverse is at an irregulara ngle to that on the
+genres in both Akkadian and Sumerian: myths obverse. The diameteri s usually between 6 and 7
+(Inana's Descent; Enlil and Sud), proverbs, cm. So far, Middle Babylonianl entils are known
+riddles(?), Code of Hammurabi,o mens, and in- fromN ippuro nly, except from one exemplarf rom
+cantations. Qala'at al-Bahrain( Eidem 1997: 79:320).
+A typical Middle Babyloniane xercise tablet is Similart ablet formatsa re known from the Old
+pillow-shaped,a nd measuresa bout7 x 4 cm. Ob- Babylonian period, and occasionally the dating
+verse and reverse are inscribedi n differentd irec- remainsu ncertainO. n average,M iddleB abylonian
+tions. The obverse has a literary extract in land- lentils are smallert han Old Babyloniano nes. Old
+scapef ormat.T he reversec ontainsa few lines from Babylonian lentils repeat the extract (teacher's
+a lexical text and is in portraitf ormat. In many model andp upil's copy) and very rarelyc ontaina
+cases only the obverse or only the reverse is in- second exercise. In most cases Middle and Old
+scribed. Occasionally, the anepigraphics ide still Babylonianl entils can be distinguishede asily. Old
+shows evidence of previous writing and erasure. Babylonianp illow-shapede xerciset abletsi n land-
+This text type is known in numerous exemplars scape formata re very rare,b ut they do exist. One
+from Nippura nd Babylon, as well as in a few ex- type, known from Nippur only, has a model text
+emplarsf rom Kish (MSL SS 1 23), Ur (UET 6/2 on the left-hand side, repeatedb y a pupil to the
+400), Qala'at al-Bahrain( Eidem 1997: 79:319), right (HS 1498 = TMHNF3 50 = Proverb Collec-
+I wish to thank LeonhardS assmannshausen,w ho drew 1. NBC 7834; MAH 10828; and perhaps AO 17664
+my attentiont o several relevant tablets in the Philadelphia (Durand, TBER5 5, edition McEwan [1986: 87]; reference
+collection and beyond and made many valuable suggestions. courtesy L. Sassmannshausen).M AH 10828 was published
+Dr. Philip Jones contributedt o the deciphermento f UM 29- in photographb y Boissier, Bab. 9 (1926) 19-21, with pl. 1.
+16-606, and obliged me with a numbero f poignanto bserva- The photographs hows thatt he reverse is lexical. It may con-
+tions. My thanksa re due to both. Responsibilityf or all read- tain an extractf rom the list of birds, but unfortunatelyn ot a
+ings and interpretationsr emains entirelym ine. single entryc an be readf rom the photograph.
+67 JCS5 2 (2000)
+68 NIEK VELDHUIS
+tion 2 RRRR; CBS 6498 = PBS 1/2 136 = Prov- catalogue of the publisheda nd unpublishede xer-
+erb Collection 3 V; BT 15-formerly CBS cises known to me is found in the Appendix.
+12569-unknown exercise). Another type, also
+known from Nippur,i s not divided into columns.
+1. Dating
+UM 29-15-858 (unpublished)h as two lines from
+the hymn Lipit-EstarA (lines 98 and 100).2 This None of our tablets is dated, nor do they con-
+piece is undoubtedly Old Babylonian. It uses tain personal names or subscripts.T he dating of
+elaborate, somewhat old-fashioned (Ur III-like) this corpust herefored epends mainly on archaeo-
+sign forms, in compliance with the paleography logical data. In addition we may adduce paleo-
+of Old Babylonianl iteraryt exts fromN ippur.T he
+graphica nd textual evidence.
+format differs slightly from the average Kassite
+exercise tablet.T he corers arem orer ounded,a nd 1.1 Archaeological Evidencef rom Nippur4
+the tableti s somewhatl arger.C BS 13329 (fig. 2), Several tablets from our corpus were found in
+here included among the Kassite literarye xtracts, dated contexts. A group of exercise tablets dis-
+may in fact be Old Babylonian as well. It shares covered duringt he 12thNippurc ampaignd erives
+with UM 29-15-858 the rounded corers. Both
+from ash pits in a Kassite temple (see OIC 23,
+tabletsa rea lmostc ompletelyf illed on the obverse,
+12-13). Most of these tabletsr emainu npublished,5
+whereas the Kassite pieces usually leave most of but short descriptionso f format and contents are
+the obversee mpty.T he Old Babylonianp ieces are availablei n the catalogue by M. Civil in OIC 23.
+inscribedo n the obverseo nly. The crosswise com- The tablet3 N-T195 (IM 58367) was publishedi n
+bination with a lexical extract on the reverse is
+OIP 97: 90 42. It has a Sumeriant ext on the ob-
+characteristicf or the Kassite exercises.3
+verse and a bilingual extractf rom ur5-ra 13 (do-
+Kassite exercise texts are often writteni n very mestic animals) on the reverse. According to the
+bad hands.I t is quite possible thatm any more ex- catalogue the piece derives from Kassite layers
+amples are among the unattractive pieces still (OIP 97: 76). The lentil-shaped exercise tablet
+awaiting publication in museums all over the 11N-T26 was found in the temple in the WA area
+world. In any case this is true for the texts from in the context of Kassite pottery (OIC 22: 10).
+Nippur and Babylon. The findspot, Merkes 25nl Tablet 14 N 229 (OIP 111:p l. 98) has a slightly
+in Babylon, may have yielded over one hundred variantv ersion of ur5-ra2 117-123. It was found
+examples (see below). Only one of these may be as an isolated piece in the foundationo f the Level
+identified with certainty among the published II building in areaW C-1, and was registereda s a
+Babylon texts. "deliberatef ill" (see OIP 111: 120: Locus 34).
+The present contribution will focus on the The piece is thereforec ontemporaryw ith, or pre-
+Kassite exercises thata rek ept in the Universityo f datest he Level II building.T his buildingw as dated
+PennsylvaniaM useumi n Philadelphiaa ndt hata re
+approximatelyt o the second half of the thirteenth
+at least partlyu nderstandableto me. Several tab-
+century( OIP 111: 23).
+lets-badly broken,b adly written, or both-suc-
+cessfully resistedm y attemptsa t deciphermentA.
+4. Informationo n 2N-T and 3N-T tabletsi s partlyd erived
+from field notes by F. Steele, the epigraphero f the second
+and third Nippur campaigns, and from a typewrittenc ata-
+2. Reference courtesy H. L. J. Vanstiphout. logue. Both manuscriptsa re kept in the University of Penn-
+3. For Old Babylonian pillow-shaped tablets not from sylvania Museum.
+Nippur see the discussion in Michalowski (1981: 386-87) 5. 12N 587 was publishedi n transliterationin MSLS S 1,
+and (1998: 66-67). 73. 12N 579 (ibidem) apparentlyh as a differentf ormat.
+KASSITE EXERCISES:L ITERARYA ND LEXICALE XTRACTS 69
+Other tablets have not been found in securely the typewrittenc atalogue (see n. 4) andf rom field
+dated layers, but may be identified as Kassite by notes. All these tabletsa rer eportedt o be inscribed
+other tablets found in the same context. Tablets crosswise on the obverse and the reverse. The lo-
+2N-T348 (IM 58953) and 349 (IM 57957) derive cus TA level IV is associatedw ith Neo-Assyrian
+from locus TB 62-B1. Both are inscribed cross- rulei n Nippur( see OIP 78: 69-70). M. Civil, how-
+wise. Tablet 2N-T348 has a Sumeriane xtracto n ever, maintainst hat the archaeologicalc ontext of
+the obverse,a nda few lines from ur5-ra6 (wooden this group does not allow a precise dating (MSL
+objects) on the reverse. 2N-T349 has an extract SS 1: 89). Finally, 2N-T63 (UM 55-21-18; fig.
+from An = AnumI on the reverse6;t he obverse is 23) was found in areaT A 20 I 3, a layer associ-
+unidentified.T he locus TB 62 level B 1 is not de- ated with the Achaemenid period (OIP 78: 76-
+scribed or interpretedi n the excavation reports. 77). This dating is highly improbable, both on
+This location, however, yielded various pieces of paleographic and textual grounds. The tablet is
+Kassite origin. Among these are Kassite adminis- inscribed on the reverse with a monolingualv er-
+trativet ablets( 2N-T347 = IM 57956 and2 N-T353 sion of ur5-ra2 244-249. The piece is most likely
+= IM 57959) and a clay kudurru (2N-T356 = UM a stray,b ut no specific informationi s availablet o
+55-21-62). The latter piece is clearly Kassite as supportt his conclusion.
+was amply demonstrated by Sassmannshausen The majorityo f the remaining exercises were
+(1994). Tablets2 N-T75 (IM 57836; lentil-shaped) discovered during the early Nippur campaigns
+and 2N-T79 (A 29934) come from TB 34 B. Both (museumn umbersC BS; UM 29-; N; Ni; andH S).
+combine a Gilgames extract in Akkadianw ith a For these tablets no useful archaeologicali nfor-
+few lines from the gis section of urs-ra.7N o dis- mation is available.
+cussion of the finds and the stratigraphyo f TB 34
+B is known to me. Among the tablets in this lot 1.2 Archaeological Evidencef rom Babylon
+are two fragmentso f ur5-ra 1 (they may, in fact,
+belong to the same tablet). Since the Old The locus Merkes 25nl yielded 136 tablets,
+Babylonian Nippur version of ur5-rab egan with apparentlya ll school texts (Pedersen 1998a: 112).
+what was later tablet 3, we can be fairly certain The house in which they were found is dated to
+that this lot is post-Old Babylonian. the late Kassite period. Koldewey in his reporto n
+Some of our tablets may derive from post- this find commented: "Viele sind gut geformte
+Kassite layers. A groupo f exercises was found in Tablettenl anglichen Formats, 10x6cm groB, die
+TA 70 IV (2N-T 343-3458; 357-359; 363; and auf der einen Seite in der Lingsrichtung, auf der
+364).9 Most of these are known to me only from
+anderen in der Querrichtungb eschrieben sind"
+(1908: 17). This is an adequated escriptiono f the
+tablet format under discussion. Only two tablets
+6. Publishedi n transliterationb y Litke (1998: 20 and 27-
+28, source G); see ?3.2. from this lot have been published: VS 24 41 and
+7. 2N-T79 was published in photographa nd translitera- 93. Of these, the first belongs to our group. The
+tion by Tigay (1982: 297 photograph,a nd 266-67 translit- second (Atrahasis) is most probably not of this
+eration), George (1999: 127-28). (Both publicationsi gnore type. Van Dijk datedb oth publishedt ablets to the
+the reverse, which preserves traces of the lexical exercise.)
+2N-T75 was publishedi n transliterationb y Falkowitz (1983/ Old Babylonianp eriod. This led Pedersent o pro-
+84: 37). A copy of the text, with a discussion of find-spota nd pose that the whole lot may be a group of Old
+relatedt ablets, may be found in Veldhuis (1999). Babyloniane xercisest hats urvivedi nto the Kassite
+8. 2N-T343 was published in MSL SS 1, 89; 2N-T344 in
+period, and was in the process of being recycled
+MSL 5,198-199 (NBGTX), with correctionsi nMSLS S 1, 90.
+9. A 29975; IM 57954; A 29976; IM 57961; IM 58954; (Pedersen 1998a: 112; Pedersen 1998b: 337).
+IM 57962; IM 58955; and IM 58956 respectively. However, van Dijk's dating is based upon inter-
+70 NIEK VELDHUIS
+nal evidence alone. Van Dijk emphasizedt he un- bad hands that they are hardlyl egible and utterly
+certaintiesr elatedt o Old Babyloniana nd Kassite useless for paleographica nalysis. The only posi-
+paleographyi n his introduction( VS 24: 5). The tive paleographice vidence is the typical Kassite
+format of VS 24 41 and the unpublishedp ieces form of KUR found in N 4529 (fig. 9) and UM
+described by Koldewey make a Kassite dating, 29-16-35 (fig. 10).
+consistent with the archaeologicalc ontext, much Textually the lexical extracts are most useful
+more likely. for dating purposes. The extracts from ur5-ra=
+hubullus how a text that is fairly close to the first
+1.3 Archaeological Evidencef rom Qala'at millennium" canonical"r ecensiona ndi s ratherf ar
+al-Bahrain removedf romt he Old BabylonianN ippurv ersion.
+The extractsi n our corpus are in majoritym ono-
+Two of our texts, one pillow-shaped and one
+lingual Sumerian.M onolingualc opies of ur5-ra=
+lentil, come from the island of Bahrain, ancient
+hubullua re virtuallyu nknowni n the first millen-
+Dilmun. They belong to a group of nine mostly
+nium.11I n Middle Babylonian Ugarit and Emar
+administrativete xts thatw ere excavatedb y a Dan- monolingual and bilingual versions of ur5-ra=
+ish expedition several decades ago and recently
+hubullu existed side by side. Most probablyt his
+publishedb y JesperE idem (1997). These texts are
+was the case in Kassite Babylonia as well. On the
+securely dated to the period of Kassite domina-
+one hand, CBS 8769 (SLT 45) is a monolingual
+tion; the only period so far for which cuneiform
+copy of ur5-ra 14 and 15.12T he text is no doubt
+literacy is attestedi n ancientD ilmun. The corpus
+Kassite in origin as demonstratedb y the Kassite
+of texts from Dilmun was considerablye nlarged
+formo f KUR in lines 20 and2 2. On the otherh and,
+recentlyb y finds by a Frenche xpedition (Andre-
+HS 1828 + HS 1829 is a bilingualc opy of ur5-ra8
+Salvini 1999). This group of about fifty pieces
+from the same period (see MSL 7: 4). Similarly,
+containst abletsd atedt o Agum III.A s fara s I know
+ur5-rae xtractsi n our corpus occur side by side in
+this group does not include exercises of the kind
+monolinguala nd bilingualf ormats.T he majority,
+discussedh ere. Therei s, however, a fragmento f a
+however,a rem onolingual.T he bilinguale xamples
+multi-columnt ablet that may representa version
+are N 3988 (MSL6 : 82, S6: ur5-ra7 A; see ?3.1)13
+of Diri.?1
+and 3N-T195 (OIP 97: 90 42: ur5-ra 13). A fur-
+ther case of unknown provenance may be AO
+1.4 Paleographic and TextualE vidence
+17664 (DurandT BER5 5: urs-ra 2), but the attri-
+The paleographicd istinctionb etween late Old bution of this piece to our corpus remainsu ncer-
+Babylonian and Kassite is notoriously difficult. tain.
+Many of our tablets use, in fact, (late) Old
+Babylonian sign forms. However, school tablets
+througha ll ages tend to use slightly earlierf orms, 11. The only example known to me is SpBTU3 112 (ur5-
+probablyb ecause they are considered" good,"o r ra 16).
+12. Collation showed that more text is preservedt han re-
+"classic"f orms. Othert ablets are writteni n such
+producedi n SLT. Several small fragmentsi n the box could
+be rejoined, showing that a) the text is monolingual and b)
+the reverse had ur5-ra1 5. The preservedp arto f urs-ra 14 is
+very close to the Ugarit/Emarv ersion. Virtually nothing is
+10. Andre-Salvini( 1999: 126: 163). The contents of the left of ur5-ra1 5.
+tablet are describedb y the authora s sections from ur5-ra= 13. The Middle Babyloniand ate of this exercise is con-
+hubullua nd lu2= sa. Fromt he little thatc an be readf rom the firmedb y UM 29-13-947 (fig. 17), which has approximately
+photographit seems morel ikely thati t is Diri (sections TUG2 the same passage from urs-ra 7A in a monolingualv ersion,
+and EN in the right column). following the same ordero f items (see ?3.1).
+KASSITE EXERCISES:L ITERARYA ND LEXICALE XTRACTS 71
+Finally, one small piece of circumstantiale vi- has assertedt hat in the second half of the eighth
+dence may be adducedh ere. 2N-T75 (IM 57836; centuryN ippurb ecamea n outpostf or the Assyrian
+Veldhuis 1999: 391) is one of the roundt ablets in Empire. It derived its importancef rom its loca-
+our corpus.I t has on the obverse a few lines from tion on the bordero f a desert where tribalg roups
+Gilgames (in Akkadian;s ee ?2.3) and on the re- resisted Assyrian domination.
+verse an extractf rom ur5-ra5 (doors section). The The historyo f Nippurl eaves us with only a few
+extracto n the obverse is followed by a numbero f chronological possibilities for the dating of our
+peculiar" 9"s igns, with an extrah orizontalw edge tablets. A late Old Babylonian origin, attractive
+at the bottom.S eries of such signs arek nown from from a paleographicp oint of view, is excluded.
+a group of lentil-shaped exercise business docu- The period between 1225 and 750 is extremely
+ments from Kassite Nippur,r ecentlyp ublishedb y unlikely,b ecauseo f the paucityo f textuale vidence
+Sassmannshausen (1997), who interpreted the from Nippuri n this period. Some of the 3N-T tab-
+signs as tallies, counting to ten. The presence of lets are associated with Assyrian levels (TA 70
+such tallies in one of the tabletsi n our corpus sug- IV). We may therefore not entirely exclude the
+gests a chronological, perhaps even contextual possibility that the crosswise formatw as used af-
+proximityo f the two groups of school texts. ter 750. However, the exercise tablets that were
+found with the "Governor'sA rchive" (OIP 114:
+1.5 Conclusions nos. 114-123), securely dated to the second half
+of the eighthc entury,a rec losely relatedt o the later
+The texts from Qala'at al-Bahrain-only two Neo-Babylonians chool tradition.T hey are either
+in number-have a secure Kassite archaeological bilingual or in Akkadian.T he text types (lists of
+context. The Babylon texts may confidently be occupations, lists of Akkadianv erbal forms, the
+datedt o the late Kassitep eriod.U nfortunatelyf,e w sign list Sb)14 all relate these exercises to laterp e-
+of these texts have been published so far, so that riods, and have no connection with our corpus.
+this conclusion is of little help. The Nippur evi- Having said all that, the most likely date for
+dence is morec omplicated.C ole ( 1996: esp. Chap- our exercises is the period between 1400 and
+ter 1) has recently investigated the history of
+1225 BC.
+Nippur. It is now generally agreed that archaeo-
+logical and textual evidence for the late Old
+2. The Obverse Exercises
+Babylonian and early Kassite period occupation
+in Nippur is entirely lacking. This may indicate The extractse dited here are all very short, and
+eithert hatt he site was abandonedo, r thatt he settle- often only partly understood.T hey derive their
+ment was much reduced in size and importance. relevance from the very fact that they exist and
+This process affected not only Nippurb ut all cit- thus attestt o a large and diversifiedb ody of litera-
+ies in SouthernB abylonia.T extuale vidence starts ture.
+to reappeara round1 400 BC.N ippurr ose again to
+the status of a major center in the fourteentha nd 2.1 Code of Hammurabi
+thirteenthc entury. After 1225 the settlementd e-
+clined and only regainedi ts formeri mportancei n N 5489 (fig. 1) contains an extract from CH;
+the eighth century. During this period of decline probably? 1. The reverse is anepigraphic.
+there probably was a small population, perhaps
+connected to the Enlil temple. For this period of
+14. For comparisons ee, for instance, the exercises from
+almost five centurieso nly a handfulo f texts from the Nabu sa Haret emplei n Babylonp ublishedb y Cavigneaux
+Nippura rek nown (see Cole 1996:13 n. 50). Cole (1981).
+72 NIEK VELDHUIS
+sum-maa -wi-[lum ...] 2.3 Gilgames and Enkidu
+la uk-ti-i[n ...]
+The two pieces below that seem to belong to a
+version of the Gilgames epic are difficult to un-
+AnotherM iddle Babyloniane xercise that con-
+derstand.C BS 14167 (fig. 3) is around exemplar.
+tains an extract from the Code of Hammurabii s
+On the reversei t has a monolingualv ersion of the
+MAH 10828 (Boissier, Bab 9, 1926: pl. 1), of
+firstf ew lines of ur5-ra2 . The obverser eads:d bil4-
+unknown provenance.T his latter tablet contains
+ga-mes SUM?s a-su?.T he readingS UM is uncer-
+?7, precededb y two lines from Lipit-EstarA .
+tain. The sign correspondst o the Assyrian rather
+than to the Babylonianf orm.
+2.2 Riddles UM 29-16-606 (fig. 4) mentions Enkidu.T he
+CBS 13329 (fig. 2) contains three riddles in reversei s anepigraphicA. partf romE nkidu'sn ame
+Akkadian with their solutions. The reverse is very little can be understood.
+anepigraphicA. kkadianr iddlesa ree xtremelyr are.
+As far as I know TIM 9 53 is the only other ex- [...]-ab den-ki-duloa l-[x]
+ample. In the presentt ext the solutions are intro- [...]-[xl SAL-tumi -tak-ka-lu
+duced by ki-bur2-bia, conventionk nown from the [...] DINGIR.MESr ri?l-[x]-rxl
+Sumerianr iddles (Civil 1987; Cavigneaux 1996,
+15). Unfortunately,t wo of the riddles defied my Two more Kassite exercise tablets with
+attemptsa t decipherment. Gilgames extracts have recently been published
+(2N-T75 and 79; see Veldhuis 1999).
+1 [ ]-[xl-ru is-gu-nuki-bur2-bi
+BA AK I KU3-tu dsu'en-re-me-ni
+2.4 Proverbs: Sumerian
+ZA-al
+UM 29-15-848 (fig. 5) is a lentil shapedt ablet.
+2 inaqi2-bi ki-bur2-bi The obverse has a one-line extract from The
+DINGIRs it-ru-ki na-bi-den-lil2 Fowler and his Wife. This is a short story in
+Sumerian that was included in Nippur Proverb
+3 x-x bar-re ki-bur2-bi Collection 21 (Alster 1997: 253-54).15 The reverse
+[ ]xSI.A DINGIR has a monolinguale xtractf rom ur5-ra3 (section
+giahashur?;3 .1). The obverse reads: dam musen-
+The riddles1 and2 have personaln amesa s their
+du3d am-a-n[i-ir?]:" Thew ife of the fowler (said)
+solutions. Riddle 1 is unclear to me. In riddle 2
+to her husband:"T he extract does not even en-
+sit-ru-kip robablyd erives from sitruhu= magnifi- compass a complete sentence.
+cent. "On the command of the magnificent god. N 5447 is a fragmento f a lentil-shapedt ablet.
+Solution:N abi-Enlil."R iddle3 may say thats ome- It was publishedb y Sassmannshausen( 1997: 208
+thing is surpassing( SI.A or diri). The solution is no. 22 [photographp l. 15]). It has the first few
+simply, "god." words of Proverb Collection 2 113 and 114.16T he
+The formato f CBS 13329 slightlyd eviatesf rom
+reversei s uninscribed.T he fragmenti s unusuali n
+the rest of our corpus. The corners are more
+roundeda ndt he obversei s entirelyf illed with text.
+From a paleographicp oint of view the piece may,
+in fact, be Old Babylonian,t houghi t does not seem 15. The same story appearsi n an unprovenancedc ollec-
+tion, now labeled Proverb Collection 24 (Alster 1997: 274).
+to relate in format or contents to other Old
+16. See Gordon (1959: 260-61 and 538-39), Alster
+Babyloniant exts from Nippur. (1997: 68).
+KASSITE EXERCISES:L ITERARYA ND LEXICALE XTRACTS 73
+thatt he extracti s followed on the same side by an nig2-mus i-li-im sa3 ga-ra-ab-zu
+extractf rom (probably) ur5-ra4 (giig[u-za]).I t is
+not certain that this piece in fact belongs to our I will let you know my business:w ell-being(??)
+group. If the fragment turns out to be Old of the heart.
+Babylonian, however, it is irregulara s well. The
+new piece allows us to reconsidert he readinga nd Note the syllabic writing of silim. The lack of
+interpretationo f Proverb Collection 2 113. There postpositions makes the interpretationo f the line
+are now three sources (collated): uncertain.I f this were a proverb,i t would fit well
+the beginningo f Old BabylonianP roverb Collec-
+BBB (CBS 10972+): ur lul-la GU2 sa6 ur-gi7 tion 1 where every single proverb begins with
+gu2-has sa617 NIG2. The known versions of this collection do
+SSSS (CBS 5902): ur lul-la kun s[a6 ...] not contain the present line. Note, however, that
+N 5447: ur lul-la rkunl s[a6 ...] differentv ersions of Proverb Collection 1 existed
+in different Old Babylonian scribal centers (see
+A wild dog: a fine tail; a domesticatedd og: a Veldhuis 2000). Our proverbm ay well have ex-
+fine neck. isted in one of those local (i.e., non-Nippur)r e-
+dactions.
+The term gu2-has( kutallu) designatest he back AnotherK assitee xerciset abletw ith a Sumerian
+of the head. The opposition lul-la <=>g i7 is bal- proverbi s Ni 679, publishedi n ISET 2 109. This
+anced by kun2 <=>g u2-has. The latter opposition piece was recently edited by Alster (1997: 247).
+may be a metaphorf or a differencei n character- For the Sumerianp roverbso n the reverse of UM
+the (standing) tail of the wild dog as indicationo f 29-16-561, see ?3.4.
+independencea s againstt he neck of the more sub- Furthere videncef or post-OldB abylonianp rov-
+missive domestic dog. The implication seems to erbsi n Sumerianc omes fromN 3395 (Alster 1997:
+be that both have their own beauty. The variant 288-90). This is a bilingual with Sumerian and
+GU2 (for kun) in BBB is either an error,c aused Akkadians ide by side in two columns. This for-
+by the similarity between the two signs, or an mat18a nd the poor qualityo f the Sumeriana re in-
+unorthographicw riting for kun (gun2). dicative of a Kassite dating.
+The second proverb in N 5447 is probably to The transmissiono f Sumerianp roverbst o the
+be readu r ki tus-tus[ x-xl. The parallell ine in BBB post-Old Babylonianp eriod is most dramatically
+(entry skipped in SSSS) has ur ki tus-bi nu-mu- illustratedb y Proverb Collection 7, which is pre-
+zu-a. The traces in N 5447 cannot be reconciled served in a single Old Babyloniane xemplarf rom
+with anythingc lose to that. Nippur and two bilingual fragments from the
+CBS 8039 (fig. 6) has a one-line Sumeriani n- Kuyunjikc ollection (Alster 1997: 155). The Old
+scriptiont hat looks like a proverb.T he reverse is Babyloniant abletc onsists almoste ntirelyo f prov-
+anepigraphic. erbs known from other, more frequently copied
+collections. Appropriatelyi, t begins with the first
+proverb from the first collection a pupil would
+encounteri n the Nippur school (Proverb Collec-
+17. Alster's reading ur lul-la gu2-sa6-sa6?is impossible. tion 2).19 Proverb Collection 7 is the epitome of
+Collationc onfirmedG ordon'sr eadingo f text BBB. The sign
+KUN in SSSS is absolutely clear. In N 5447 the sign looks
+like MAS2. However, the surface is slightly worn and the 18. See most recentlyv an Dijk (1998: 12 n. 16), and ?2.7.
+differenceb etweenM AS2a ndK UN may well have been oblit- 19. For the curriculars etting of the Old Babylonianp rov-
+erated. erbs see Veldhuis (2000).
+74 NIEK VELDHUIS
+the corpus of proverbs as taught in the Nippur In liver omens dagal refers to a broadeninge i-
+Eduba. Its survival into the first millennium re- thert o the left or to the righto f the "finger"( Kraus
+mains a mystery.20 1985: 181). Omens in Sumeriana rev ery rare,a nd
+our text is by far the oldest example. As far as I
+2.5 Proverbs:A kkadian know CTN IV 89 is the only otherd ivinatoryt ext
+in monolingual Sumerian. Among the Late
+UM 29-15-594 (fig. 7) has a two-line extract
+Babyloniant exts from Urukt here are a few bilin-
+in Akkadian on the obverse, and a monolingual gual examples (SpBTU 1 85 and 3 86).22
+extractf rom ur5-ra3 on the reverse (giBasal2). There are two more pieces from our groupt hat
+may contain( Akkadian)o mens. 4N-T52 (OIP 97
+[a-ra]-am-mu-umk i-ma kam2-ma-rei -le-nu
+90, 41) is undecipheredb, ut each line begins with
+[mu?]-tral-am-mu-umk i-ma up-lim mu-uh-ha DIS. I know of 2N-T359 only from a catalogue;i t
+ul i-su
+may contain Akkadiano mens.
+The dam(?) is high like an earthenw all.
+2.7 SumerianL iterature
+The one who leaves(?) is like a louse withouta
+head. N 4529 (fig. 9) has an extractf rom an uniden-
+tified hymnic text. The reverse is inscribedi n the
+The startlingi magerym akes any reconstruction typical crosswise version, but the text is almost
+of the brokenf irst wordsr atherh azardous.I nstead completely destroyed. The obverse is written in
+of arammumo ne could readk arammum( "pile of an uncharacteristicallyn ice hand. The KUR sign
+grain,"" grains torage")i n line 1. In line 2 the louse (lines 2 and4 ) has the typical Kassite form. Lines
+that has no head is in all probability homeless 1-2 are quoted in Civil (1994: 160).
+rathert hand ecapitated.T he proposedr econstruc-
+tion murammum2is1 derived from the verb ramu. [ ]-ru iri za-a-kam2k ab-di in-ga-an-gar
+In the D stem this verb has a meaning "to leave [nib]ruki-saa g-kal kur-kur7ra-ke4
+behind, desert, leave a job." [ ] KA igi-du um-mi-ak i-en-gi-ra-ke4
+[ ] e2-kurg is-gal an ki-ke4
+2.6 Omens [ ] gis-hur-rad iri
+[ du]r2?b a-gar-gar-ra-am3
+UM 29-13-542 (fig. 8) has a liver-omen in
+Sumeriano n the obverse. The reverse (not cop- The ... of the city is yours;m oreover,y ou have
+ied) has an unidentified (lexical?) text in small establishedt he standardm easure.
+writing and is partly erased. In Nippur,p re-eminento ver all the lands.
+[...] the leader, the teacher of Sumer,
+tukun-bid agal [... su-si ...] [...] in the Ekur,t he pedestalo f heavena nde arth
+lu2-bi si nu-sa2 [...] the design of which is superior
+[...] is the one who is seated there.
+If there is a broadening[ to the left/righto f the
+finger]
+UM 29-16-35 (fig. 10) has on its obverse a few
+this man will not be all right.
+lines fromI nana'sD escent correspondinga pproxi-
+20. The incipit of the Neo-Assyrian version is preserved 22. Piotr Michalowski informs me that there is an omen
+in the Sidu cataloguep ublishedb y Finkel (1986) line 4. insertedi n the long version of the lettero f Ibbi-Sint o Puzur-
+21. I owe this suggestion to LeonhardS assmannshausen. Numusda.
+KASSITE EXERCISES:L ITERARYA ND LEXICALE XTRACTS 75
+mately to lines 26-35 of the Old Babylonianv er- M. Civil has published two one-line extracts
+sion (see Sladek 1974: 106-7). The reverse has from the story of Enlil and Sud in his edition of
+an extractf romA n = Anum( see ?3.2). Somewhat the composition (Civil 1983: UM 29-13-495
+less than half of the tablet is preserved.I t is pos- source G; and UM 29-13-545 source J published
+sible, therefore,t hatt he obverse had a second col- as UM 29-13-345). Both pieces belong to our
+umn with Akkadiant ranslationsT. he Kassite date group. The reverse of both tablets is uninscribed.
+of UM 29-16-35 is confirmedb y the typical form Other extracts from Sumerian literary texts are
+of the KUR sign, obverse 5 and 6. The text of found on the exercises from Babylon listed below
+Inana's Descent has some interestingv ariants.A (Appendix).T hey includeh ymnict exts (Sumerian
+peculiaro ne is ud-dak ur-ta[ ... ] in 5 and 6 for ud- andb ilingual)a ndb ilingualn arratives( Sargona nd
+da kur-se3( "When I [have descended] to the un- Anzu).
+derworld").T his variantm ay have been triggered Sumerianl iteraryt exts from the Kassite period
+by the fact thatA kkadiani na underc ircumstances are still relatively rare.T he usual formati s bilin-
+may correspondt o -ta. The text has glosses in line gual, with Sumeriani n the left and Akkadiani n
+1 and 5. Unfortunately,I have not been able to the right column. It is possible that the fragment
+deciphert hem. ofInana's Descent presenteda bove originallyh ad
+Again, most interestinga bout this fragmenti s this format.23
+that it exists. It provides a link between the Old
+Babylonianv ersions andt he laterA kkadians tory. 2.8 Miscellaneous: Sumerian
+The text will be fully treatedi n A. J. Ferrara'se di-
+tion of the composition. CBS 4615 was published as PBS 12/1 44. The
+reverse shows traces of erasure.T he contents of
+the two-line inscription on the obverse remain
+1 [ ]-im-DU [...] gloss: x-ma
+obscure.
+2 [ ] x u?l uh?-ha[ ...]
+3 rsukkall-a-nid nin-subur-rra[l. ..]
+4 sukkal-mud nin-subur[. ..] dag-ga-nag i-NE [ ]
+5 ud-da kur-ta[ ...] gloss: UD sa?
+[lu21g ur4-rat ur-zus u nam-bi-ba-ra
+6 ud-da kur-ta [...]
+Upon his throne24 ... [...]
+7 rer2l di-di-da ...] the importanto ne shouldn ot let your small one
+8 [[x [xl gu2-en-na[ ...]
+go.
+9 traces
+Not more than two lines lost.
+An alternativer eadingo f the beginning of line
+1 is kala-ga-na.T he restorationg i-izi-[la2] is im-
+N 3783 + N 5031 (fig. 11) is a lentil-shaped
+possible, since there are no traces of a vertical
+piece with four lines on the obverse and an uni-
+where the la2 would be expected. The readingt ur
+dentified sign list on the reverse (?3.3). Little of
+the obverse may be understood.T he last line, sur-
+prisingly, gives the incipit of Lugale (van Dijk 23. For two-columnK assite bilinguals see Cooper (1978:
+1983). 32, with furtherr eferencesi n the addendumo n p. 164), and
+van Dijk (1998: 12 with n. 16). According to Michalowski
+nim? nim-gir2 (1998: 70 n. 17), CBS 15203 is a furtherb ilingual duplicate
+of Ininsagura,p ossibly of Kassite date. Phillip Jones informs
+rx?le riduk[ xl
+me that this is an interlinearb ilingual.
+du3-au gu-[ ] rxl 24. Or: The bedroom ... (dag-ga-na for da-ga-na?).T his
+rlugall-e ud me-[l]am2-bin ir-gal2 was suggested to me by Piotr Michalowski.
+76 NIEK VELDHUIS
+(rathert hand umu) in line 2 is based upon the op- UD-ma i-la-nu r[a-bu-tu]
+position gur4 <=>t ur, as in Lugale 491-92 (Old
+Babylonianv ersion;v an Dijk [1983,I: 114-15]): When the greatg ods
+gur4-ra-zut ur-re-bih e2-gig UM 29-13-771 (fig. 16) is an almost complete
+tablet that has on the obverse a two-line extract
+May it be hardt o breaky our (the stone's) heavy fromw hatm ay be an incantationin Akkadian.T he
+pieces into small ones. reverse has urs-ra 1:100-104 (?3.1).
+UM 29-13-543 (fig. 12) is a complete pillow- li-ib-bi u3 [...]
+shapedt ablet.T he obverse contains a two-line in- u2-te-bi-ka ma-Fri?l[ x xl [...]
+scriptioni n Sumerian.T he reverse is uninscribed.
+My hearta nd [...]
+The writing on the obverse is ugly and at places I will drown you, son of [...]
+slightly worn.
+3. Reverse Exercises
+den-lil2-le na4N I BUR [X1
+ni2-te-na nu-de6-e-ba Most of the reverse exercises are extractsf rom
+ur5-ra= hubullu.I n additiont o this we find lists of
+Because(?) Enlil did not bring his own ... gods, sign lists, grammaticatl exts, Diri, andp rov-
+erbs.
+CBS 19831 (fig. 13) is a fragmentt hatp reserves
+the ends of two lines. The reverse is lost. The ob-
+3.1 Urs-ra
+verse contains words that are reminiscent of
+Sumerianr oyal inscriptionso r royal hymns: Some of our texts duplicateo r nearlyd uplicate
+the text known from first millennium copies,
+thoughu suallyi n a monolingualf ashion.T husU M
+[ -t]a?[ url-sag
+[ ] rxl x x-ta kala-ga 29-13-771 (fig. 16) contains the lines ur5-ra 1:
+100-104, with no variants:
+UM 29-16-383 (fig. 14) has a one-line extract
+in Sumerian on the obverse. The reverse has a 100 [ib]ila([DUMU].NITA)
+monolingual version of urs-ra 3 (trees) section 101 [dum]ug aba
+102 dumu-munusg aba
+gigU3-suh5.
+103 dumu
+104 dumu-dumu
+[x-m]u? sa6 e2 xl ba-an-ku4 [SU?'I xl [...]
+... enteredt he house ... Slight variants in spelling and in the order of
+items are common. A nice example is the lentil
+UM 29-15-848 (fig. 5), which has ur5-ra3 lines
+2.9 Miscellaneous:A kkadian
+40-44, omittingl ine 43 and swappingt he lines 41
+CBS 19840 (fig. 15) is a lentil, one quartero f and 42.
+which is lost. The reverse is uninscribed.T he ob-
+verse may contain a one-line extract from an 40 gi~hashudra m-si-lum
+Akkadianl iteraryt ext: 42 gi~hashurb a-an-za
+41 gi~hashura -ab-ba
+KASSITE EXERCISES:L ITERARYA ND LEXICALE XTRACTS 77
+44 gi%hashusre -gud 131=133 gis-gan-nu-tula2tul2-=la M2 IN sa2
+bur-ti
+Occasionallyw e find ur5-rae xtractsw ith more 132=134 gis-Piruebir(DUG = ) MIN sa2 me-e
+substantialv ariationf rom the later standardt ext. 133=135 gis-minebir-ka=s M IN sa2 si-ka-ri
+We are fortunatee nought o have two partlyd upli- 134=136 gis-ebir-ga = MIN sa2 si-iz-bi
+cating extractsf rom ur5-ra7 A. The one is bilin- 135=137 gis-maama2 = MIN sa2 me-e
+gual (N 3988; used in MSL 6: 93-94 as V6), the 136=138 gis-ma2-maquugur = MIN sa2 si-
+otherm onolingual( UM 29-13-947; fig. 17). They ka-ri
+contain the section gi4gan-nu-um(p ot stand) and 137=139 gis-DUG-gub-ba= MIN sa2 me-e
+related words. 138=140 gis-kas-sag-gub-ba = MIN sa2 si-
+In ordert o comparet he Kassite exercises with ka-ri
+the first millenniumv ersion ofurs-ra 7A, we need 139=141 gis-zabarza-ba-a-gub=-b Ma IN sa2
+to reconsider the composite text as published in MIN
+MSL6 . This edition is much confused throught he 140=129 gis-gan-nu-gu-la= MIN ni-sa-an-
+inclusion thereo f our tabletN 3988. This tablet- nu
+as we will see below-represents a traditiont hat 141=130 gis-gan-nu-tur= kan-du-ru-u2
+differs considerablyf rom the first millenniumr e- 142=142 gis-ZA.hbiSUH = kan-nus a2 bur-
+cension. Once this text is taken out, a much more tum
+homogeneous traditiona ppears:25 143=143 gis-KU-tu-rKIB= sih2-tum
+144=144 gis-KU-da-daria5(KIB=) p ar-ri-ka
+128=128 gis-ganga-an-nu= ka-an-nu 145=145 gis-dagda-si =SU-u
+129=131 gis-gan-nu-sag-du= MIN sa2
+DINGIR.MES The correspondencesb etween N 3988, UM 29-
+130=132 gis-gan-nu-ki-UD = MIN sa2 mas- 13-947, and the composite first millennium text
+ka-nu may be tabulateda s follows:
+N 3988 UM 29-13-947 Ur5-ra7 A
+1 gisgan-nu = ka-an-nu 128
+2 giggan-nu-gu-l=a sa SE-[im] 1
+3 giugan-nu-gu-l = a gu-un ni-sa-nu 2 140
+4 giggan-nu-a = MIN 3
+5 gigan-nu-a = sa me-e 4
+6 gi'gan-nu-ga= si-iz-[bi] 0
+7 giggan-nu-ka=ss a si-[ka-ri] 5
+8 giggan-nu-tu=r kam-du-r[u-u2] 6 141
+9 giggan-nu-ki-si = g mat-qa-n[u] 7 130?
+10 gisma-at-gan= MIN 8
+11 gisgan-nu-sagga2= sa DINGIR.[MES] 0 129
+25. The line numbers are those used in the updatede di-
+tion of ur5-ra7 A, preparedb y the authorf or the PSD project. firmedb y BM 37928; BM 49649; and BM 66830. These and
+The old line number in MSL 6: 93-94 is found after the = otherN eo-Babyloniane xercise texts were kindly made avail-
+sign. Variantsa red isregardedT. he new reconstructionis con- able to me by P. Gesche and M. Civil.
+78 NIEK VELDHUIS
+12 gi'mat-gan = MIN 9
+13 gigr e-bi-irlDUG= MIN 10 132
+14 gimas-gan = sa mas-ti-rul
+15 giiKAS = sa si-ka-ri
+16 gisma2 = MIN 135
+17 gisma2-gur8 = MIN 136
+18 gigDUG-gub-ba= MIN 137
+19 giizabar-gub-ba = MIN 139
+20 gig hal-bihalbi5(LAL2.GISGAL=) [MIN?] 142
+21 gig d u-rumdur4(KIB = ) si[h2-tum] 143
+22 gig d a-radara5(KIB = ) MIN p[a-ar-ri-ku] 144
+23 gig da-ragldag= rxl-[...] 145
+UM 29-13-947 (fig. 17) duplicatest he lines 2- The exercisei ncludest erminologyf or bothw ild
+13 of N 3988, with some minoro rthographicv ari- (1-3) and domesticp igs (4-11). In the ur5-rat ra-
+ants (gan-nu-umf or gan-nu; ma-at-ganf or mat- dition domestic and wild animals are treated as
+gan and e-bi-ir for e-birDUG),a nd skipping the two separatec ategories in tablets 13 and 14 re-
+lines 6 and 11. The first millennium text is only spectively. Pigs area lwaysc lassifiedw ith the wild
+loosely related. animals. The item <sah2>ir i nita (line 4), though
+Even furtherr emovedf romf irstm illenniumu r5- attestedi n administrativec ontexts,27is very rare
+ra-and, indeed, from all known versions of this in the lexical tradition.2T8 he terms for a pregnant
+text-is UM 29-15-944 (fig. 18). This tablet,w rit- sow, a sow that had piglets, sexually maturea nd
+ten in a very cursive hand, is inscribed on both immatures ows (6-11), aree ntirelyu nattestedo th-
+sides. The obverse has not been deciphered.T he erwise in lexical texts. The terminology for the
+reverse has a list of pigs (sah2). variousp rocreatives tages,h owever,i s well-known
+urs-ra 14
+1 sah2s i-mur-rum 171 sah si-mur-ra = SU-u
+2 nam-ni ak-a 172 sah nam-en-naa k-a = bit-ru-u2
+3 giS-gi 161 sah gis-gi = sah-ha-pu
+4 iri nita
+5 MUNUS.TAB.KUN26 183 megida2( TAB.KUN) = sa-hi-tu
+6 MUNUS.TAB.KUN a3 <<U>>
+7 sa3-pes-su
+8
+u3-tu
+9 nu-MIN
+10 zu-zu
+11 nu-MIN
+26. The spelling of megida2( sow) with MUNUS is other- niently collected in the glossaryi n Hilgert( 1998) unders ah2.
+wise unknownt o me. 28. The only (partial)p arallelt hat has come to my atten-
+27. In the so-calledS ulgi-simtuma rchive( Ur III) the term tion is the entrys ah2i ri in YBC 4679 rev. iv 2 (unpublished).
+is sah2 (nita2/munus)i ri, which functions in opposition to This is a large Old Babyloniant ableto f unknownp rovenance
+sah2 (nita2/munus)g is-gi. The terminology is most conve- with six columns on both sides (the last column on the re-
+KASSITE EXERCISES:L ITERARYA ND LEXICALE XTRACTS 79
+from ur5-ra1 3, where it is appliedt o ewes, cows, 68 [d]AK
+jennies,e .g. The resultingp assagei n our exercisei s 69 [dtas]-rmel-tum
+unparalleledin the lexical traditiont,h oughi t is cre- 71 dmi-us-HI
+atedo ut of the buildingb locksp rovidedb y ur5-ra. 72 distaran(KA.DI)
+The lexical series ur5-rai s by far the most com- 75 ddi-kud
+mon exercise in our corpus. Not all of these exer-
+cises are edited here, since they mostly adhere An = Anum (edited by Litke 1998) is equally
+closely to the text publishedi n MSL.T hey arei den- representedb y two tablets.U M 29-16-35 (fig. 10)
+tified below in the Appendix. The version of ur5- has Istar's Descent on the obverse (?2.7) and on
+ra we find in these texts is at most places close to the reverseA n = Anum V 196-206, skipping 201
+the firstm illennium" canonical"v ersion.T herei s, (section dma-nun-gal):
+however, enough evidence that ur5-ra in the
+Kassitep eriodw as still variablea ndf luid, andt hat 196 [dnin-gu2-har]-ranl-na = [ ]
+the processo f standardizatiohna dn ot yet produced 197 [d][nin-til-HAL = u[dug e2-a-ke4]
+a rigidly frozen text. 198 [dldu-lum= dumu-[a-ni]
+199 dup-lum = SU
+3.2 God Lists 200 dMINU H = MIN MIN a-[...]
+202 de-tu-ra-am-mi = sukkal d[xl [...]
+Two different god lists are representedi n our 203 dSU-sa2-dug4-ga = SU
+corpus:A n = Anuma ndt he WeidnerG odL ist. Five
+204 dgis-su = KUR [...]
+lines from the Weidnerl ist29a re found in the len-
+205 dgis-gir3 = KUR [...]
+til-shapede xerciseU M 29-15-976 (fig. 19). It con- 206 dgis-gu2 = [SUl
+tains the lines 7-11 with no variants:
+The left-handc olumnc orrespondsw ith the stan-
+7 [ ] dgibil6 dard text as edited by Litke. The right hand col-
+8 [ ] dlig-si4! umn-where preserved-has more deviations.I n
+9 [ ] dnin-sikil-la(sic;n ot la2) lines 200,204 and2 05 Litke's text has simply SU.
+10 [ ] dnanna Anothert ablet of our group that extractsA n =
+11 [ ] dsu'en Anumi s 2N-T349 = IM 57957. This exemplarw as
+used by Litke 1998 as source G for tablet 1. In the
+The text may have containedg losses. There is 2N-T field catalogue the piece is described as a
+a verticall ine before the DINGIRs igns. Theoreti- "lexical text of Kassite type; obv list of gods rev
+cally there is some space for glosses to the left of (X-wise) vocab?? (half of tablet missing)." This
+this line, an arean ow destroyed.A nother extract
+correspondsw ell to the format of the tablets in
+from the Weidner list is UM 29-15-970. The ob-
+our group, though we rathere xpect the god list to
+verse of this piece has an unidentified text in appearo n the reverse.
+Akkadian( fig. 20). The reversei s mucht oo eroded Other sources for An = Anum of probable
+to be copied. The traces,h owever, may be identi- Kassite date are 12 N 595 (unpublishede xercise
+fied with lines 68-69; 71-72 and7 5 of the Weidner
+text; Civil, OIC 23: 120) and 14 N 259 (OIP 111:
+list:
+pl. 103). Fragmentb of the latterp iece preserves
+verse is not used). It has a monolinguall ist of domestic ani- pronunciationg losses for the Marduks ection of
+mals (ur5-ra 13) followed by a short extractf rom ur5-ra1 4. tablet2 195-205. The threef ragmentso f 14 N 259
+The item is found among regulars ah2i tems. were found in secondaryc ontext in Level I pit B.
+29. Treatedm ost recently by Cavigneaux( 1981: 79-99). The pit itself is of uncertaind ate, but the tablets
+80 NIEK VELDHUIS
+foundt herea rep resumedt o derive fromt he Level The grammaticale xtractsk nown to me have all
+II building,d atedt o the Kassitep eriod( see Zettler, been published in transliterationin MSL 4; MSL
+OIP 111:23). 5; and MSL SS 1 (see the Appendix below: 2N-
+T343; 2N-T344; 2N-T357; and 12N 587).
+3.3 Other:S ign Lists, Diri, GrammaticalL ists
+3.4 Proverbs31
+Our corpus so far contains three sign lists, two
+from Nippura ndo ne from Qala'ata l-Bahrain.A ll UM 29-16-561 (fig. 22) contains a two-line
+of them appearo n lentil-shapedt ablets. None of extracto n the obverse. The text is brokenb eyond
+these may be relatedt o one of the traditionals ign recovery. The reverse has three proverbs in
+lists (Sa, Ea, etc.). Sumerian.T he writing is very cursive and diffi-
+CBS 8554 (fig. 21) has an unidentified one- cult to read. Only the thirds ection has been deci-
+line exercise on the obverse. The piece is dam- phered,t hankst o a paralleli n ProverbC ollection2 :
+aged and written in a very cursive hand, so that
+only a few signs may be identified with reason- 9 sag sig2 sar-ra A head that grows hair
+able certainty.T he lines 3-5 of the reverse read: 10 sig2b a-an-tuku-tukui-sa h aving hair;
+11
+u3
+se?r i-ri andw heng rainisc ollected
+12 dasnan Asnan
+3 U 13 ba-an-diri-diri will make it plenty
+4 GALAM 14 e-se they say.
+5 NE
+This is a near duplicateo f Proverb Collection
+N 3783 (fig. 11) has an unidentifiede xercise 2: 134.32T he first clause was translatedb y Alster
+on the obverse (see ?2.7). The sign list on the re- (1998: 70) as "he who shaves his head"( follow-
+verse reads:
+ing Gordon 1959: 541). In texts concerning the
+leatheri ndustry,h owever, kus sig2 SAR has been
+1 [KU6-tenul
+identified as hide with hair (see Stol 1980-1983:
+2 KU6-tenu
+531 with references to earlierl iterature;a nd van
+3 10
+de Mieroop 1987: 144-45 sub kus-a-GAR-nag-a,
+4 20
+5 30 and 146 sub kus-sig2-mu2).
+6 SE
+7 TIR Conclusions
+8 UZ
+In formatt he texts discussed above may be un-
+derstooda s an earlyf orm of the extractt abletst hat
+The Bahrain example (Eidem 1997, 79: 320)
+were used in Neo-Babylonian schools.33 Neo-
+containsa list of complex signs. The legible items
+Babyloniane xtractt abletsu suallyc ombinea short
+includeE 3,Z I/ZI.[LAGAB],a ndZ I/ZI.[LAGAB]
+quotation from a literary or sub-literary text
+(lines 3-5).
+CBS 7884 contains an extractf rom Diri. This (Akkadiano r bilingual) followed by several lexi-
+text will be treatedb y Civil in his edition of the cal extracts,t ypically ur5-ra= hubullu.U nlike the
+series.30
+31. For proverbso n the obverse see ?2.4 and 2.5.
+32. Majorv ariantsi n the new text: sag sig2 sar-raf or sag
+sar-ra;a nd u3 se? for U31 u2s e.
+30. For Kassite-periodD iri see also n. 10. 33. Manye xamplesa rep ublishedin MSLS S 1 andO ECT1 1.
+KASSITE EXERCISES:L ITERARYA ND LEXICALE XTRACTS 81
+present corpus, the Neo-Babylonian texts were found on both "lexical" and "literary" tablet
+conceived as a single exercise, continuing from types.34I n the Kassite periodt hey may have had a
+the obverse to the reverse. There are several other similar transitionals tatus.
+differences in both form and content between the The Kassitep eriodi s held responsiblef or much
+two groups. The Kassite lexical extracts are usu- of the creativityu nderlyingt he new first millen-
+ally, though not always, monolingual Sumerian, nium Akkadianl iterature.N one of this literature
+whereas their Neo-Babylonian counterpartsa re has appeareds o far in the exercises. In fact, those
+always bilingual. Kassite exercises never contain exercisest hatm ay be connectedw ith known com-
+more than one lexical extract. Sumerianl iterary positions refer back to the Old Babylonian liter-
+extractsa re common in the Kassite group,b ut not ary tradition,r athert hanp oint forwardt o the first
+among the Neo-Babylonian tablets (with the ex- millennium. This may not be surprising.S chool
+ception of bilinguals). Educationalp ractices and curriculat end to be conservative,a nd may not in-
+needs no doubt changed over this long period of clude anythingn ew or revolutionary.
+time; the practiceo f combining short literarya nd Quite a few of the literary extracts are in
+lexical extractso n a single tablet remained. Sumerian.I t is known that a small selection of the
+Taken separately,t he pieces presented above Old Babylonian literaryc orpus survived into the
+are ratheru ninformativea nd of little importance firstm illenniumL. ugale,A ngin,E nlil and Sud, and
+for literaryh istory.A s a group,h owever,t hey dem- Enki and Ninmah are examples of compositions
+onstratet he richness of the writtent raditioni n the that are primarilyk nown to us in Old Babylonian
+Middle Babylonian period. In summary, the copies, but also exist in first-millenniumb ilingual
+Nippur Kassite curriculumi ncluded at least the exemplars.35T he existence of such texts in one
+following text types: form or anotheri n the Kassite period is expected.
+* lexical texts, includingg od lists (on the reverse) Thust he incipito f Lugalei n N 3783+ andt he quota-
+* technical texts (divination; Code of tions fromE nlil and Sud do not come as a surprise.
+Hammurabi) For cultic laments such as balags and ersahun-
+* proverbs gas, the situationi s the reverse.T hey aref requently
+* traditionalS umerianl iterature( Enlil and Sud; attestedi n late bilingual copies, but are relatively
+Lugal-e; Inana's Descent; Lipit-EstarA ) rarei n the Old Babylonianc orpus. They were not
+* "new"S umeriant exts used in the core curriculum of the schools in
+* Akkadiani ncantations Nippur and Ur, our main sources for Old
+* Akkadianl iterature Babylonian Sumerianl iterature.M any of the ex-
+Proverbs are found both on the obverse (?2.4 tant examples may come from northernc enters
+and 2.5) and, in one case, on the reverse (?3.4) of (e.g., Sippar,K ish;M ichalowski1 987). The trans-
+tablets. As an obverse exercise the proverbs are mission-historyo f the cultic laments may well be
+grouped with the literary and technical extracts. very differentf rom that of the compositionsm en-
+As a reverse exercise they fall into one category tioned above. It is possible that some of our exer-
+with lexical texts and god lists. Interestingly,t his cises containe xtractsf rom cultic laments,36b ut no
+ambivalentc ategorizationc orrespondst o the cur- certaini dentificationsh ave been made so far.
+riculars lot of proverbsi n Old Babyloniane duca-
+tion. In the Old Babylonian scribal school prov-
+34. See in more detail Veldhuis (2000).
+erbsw ere taughtb etween lexical lists (first phase) 35. Several more compositionsa re listed by Michalowski
+and literary exercises (second phase). The two (1987: 38-39).
+phases may be distinguishedb y the typology of 36. See 2N-T343 and 2N-T358 below in the catalogue. I
+the tablets used. Old Babylonian proverbs are know both pieces only from descriptions.
+82 NIEK VELDHUIS
+A special case in the transmission history is sitions which survived the end of the Old
+Inana'sD escent.A n Akkadianv ersiono f the myth, Babylonianp eriod,b ut apparentlyd id not make it
+known as Istar's Descent, is attested in Middle to the first millennium.G iven the scarcity of our
+and Neo-Assyrian copies. The Akkadian text is evidence, it is impossible to say whether this is
+not simply a translationo f Inana's Descent, but significant or not. In general, the reason or rea-
+rathera n abbreviatedr etelling of the story. Vari- sons why some texts survived and others did not
+ous aspects of the Akkadianv ersion, in particular is in need of a thoroughi nvestigation.T he Ninurta
+Dumuzi's role at the end, are not understandable texts Lugale andA ngin were probablyt ransmitted
+without broaderk nowledge of the mythological because of the importanceo f Ninurtaf or the royal
+background.37 Stories about Inana/Istar and ideology of the Assyriank ings. Enki and Ninmah
+Dumuzi were simply around,t hey were known, andE nlil and Sud may have surviveda s mere aca-
+and could be freely referredt o in other composi- demic rarities.
+tions, as was alreadyt he case in the Old Babylonian Of considerablei nterest is the Sumerianl iver
+period.38T he new Kassite fragment( UM 29-16- omen (?2.6). There is no traditioni n Sumerian
+35), far from being a free rendering,i s very close divinatoryl iteratures, o the conclusionm ustb e that
+to the Old Babylonianv ersiono fInana's Descent. the omen was translatedf rom the Akkadian.T he
+It shows that the interest of this scribe-or his technical vocabulary of Middle Babylonian
+teacher-is not primarily,o r at least not only, in divinatory texts was usually written in
+the mythologicalm ateriala s such, but in the pres- Sumerogramsa nyway,39s o that this was a rela-
+ervation and transmissiono f a Sumerianl iterary tively small step. In its own small way the frag-
+text. Notwithstandingt his, the Sumerianv ersion ment shows an active interesti n Sumeriano n the
+of Inana's Descent was forgottens oon afterwards. parto f the scribes. Since traditionala nd practical
+The brief school exercisesw ere hardlyt he main considerationsa rec learlyo ut of the questionh ere,
+vehicles for the transmissiono f Sumerianl itera- we must explain the unusualc hoice for Sumerian
+ture during the Kassite period. Other text types, in terms of prestige.40
+capable of containing larger portions of text ex- Sumerian did not merely survive the Kassite
+isted. Very few such tabletsh ave come to light so period. Fragmenteda s our evidence is, it shows
+far. Most importanta ret he two-columnb ilinguals thatK assite schools actively preservedt he lexical
+(see n. 23). Such tablets are known for instance and literaryt raditionso f the past, and fosteredt he
+forAngin,I ninsagura,a ndt he Inanah ymnr ecently Sumerianl anguage as a precious and prestigious
+edited by van Dijk (1998). heritage.
+This latter text belongs with Ininsagura and
+Inana's Descent to a groupo f threeI nana-compo-
+39. See Kraus (1985) for the Middle Babylonian omen
+reportsa nd their technical vocabulary.
+37. See the analysis by Reiner (1985: 29-49). 40. LeonhardS assmannshausenr emindsm e in this con-
+38. Closely related to Inanna's Descent are Dumuzi's nection that Kassite royal inscriptionsa nd brick inscriptions
+Dream andD umuzia nd Gestinanna.R ecent editions of both use Sumerian.S ee for instancet he Kurigalzus tatuep ublished
+texts are found in Black (et al. 1998-). in Sumer4 /1 Plates I-IX.
+KASSITE EXERCISES:L ITERARYA ND LEXICALE XTRACTS 83
+APPENDIX
+CATALOGUE OF MIDDLE BABYLONIAN EXERCISES
+The following catalogue provides basic information about the Middle Babylonian exercises of the
+format described above known to me. The bibliography is kept to the absolute minimum. For 2N-T and
+3N-T tablets the information on contents often derives from Steele's field notes and the typewritten
+catalogue referred to in n. 4. Numerous additional Nippur exemplars both pillow-shaped and round,
+were found during the twelfth campaign. Most of these remain unpublished. They were catalogued by
+M. Civil in OIC 23 and will be treated by him in full in his Lexical Texts from the Eleventh-Thirteenth
+Nippur Campaigns (announced in OIC 23: 112). Since there is little point in repeating the terse infor-
+mation found in OIC 23, only 12N 587, partlyp ublishedi n MSL SS1, is included here.4
+Nippur
+Pillow-shaped Tablets
+Museum # Publication Obverse Reverse
+content language content language
+2N-T63 fig. 23 0 ur5-ra2 sum
+2N-T79 Tigay 1982: 29742 Gilgames akk ur5-ra3 -7 sum
+2N-T343 MSL SS 1: 89 liturgical sum grammatical bil
+2N-T344 MSL 5: 19843 lament bil grammatical bil
+2N-T345 Dumuzi/Inana bil lexical
+2N-T348 literary sum urs-ra 6 sum
+2N-T349 Litke 1998: 20 ? An = Anum bil.
+2N-T357 MSL 4: 170 hymn sum grammatical bil
+2N-T358 lament sum ?
+2N-T359 omen? akk ?
+2N-T363 literary sum lexical sum?
+2N-T364 literary sum lexical
+3N-T195 OIP 97 90: 42 literary sum ur5-ra 13 bil
+4N-T52 OIP 97 90:41 omens? akk? 0
+12N587 MSLS S 1:73 literary sum grammatical bil
+14 N 229 OIP 111:98 0 urs-ra 2 sum
+CBS 4615 PBS 12/1 44 proverb sum 0
+CBS 6405 SLT 143 0 ur5-ra3 sum
+CBS 7133 literary sum 0
+CBS 788444 literary sum diri bil?
+CBS 8039 fig. 6 proverb sum 0
+CBS 13329 fig. 2 riddles akk 0
+41. Almost all the numbersi n the ranges 12N 577-599 and 651-655 may belong to our corpus.
+42. See now George (1999: 127-28).
+43. See MSLS S 1 90.
+44. This text was temporarilyu navailablei n the University of PennsylvaniaM useum.
+84 NIEK VELDHUIS
+CBS 13330 unidentified akk? lexical sum
+CBS 1982345 erased 0
+CBS 19831 fig. 13 literary sum lost
+HS 1781 RT 19: 62, no.446 0 ur5-ra2 sum
+N 1486 unidentified akk 0
+N 3988 MSL 6: 82 S6 0 ur5-ra7 A bil
+N 4516 unidentified 9 lexical sum
+N 4529 fig. 9 hymn sum fragmentary
+N 5489 fig. 1 Code of akk 0
+Hammurabi
+N 7662 unidentified sum? 0
+Ni 679 ISET2 109 proverb( 19 E 2) sum 0
+UM 29-13-647 unidentified s lexical sum
+UM 29-13-322 unidentified sum 0
+UM 29-13-495 JAOS 103: 47 G Enlil and Sud sum 0
+UM 29-13-542 fig. 8 omen sum unidentified sum?
+UM 29-13-543 fig. 12 literary sum 0
+UM 29-13-545 JAOS 103: 48 J Enlil and Sud48 sum 0
+UM 29-13-771 fig. 16 incantation? akk ur5-ra 1 sum
+UM 29-13-947 fig. 17 erased ur^-ra7 A sum
+UM 29-15-594 fig. 7 literary akk ur5-ra3 sum
+UM 29-15-854 unidentified akk ur5-ra1 6 sum
+(single line)
+UM 29-15-883 unidentified sum? 0
+UM 29-15-944 fig. 18 unidentified sum ur5-ra1 4 sum
+UM 29-15-970 fig. 20 unidentified akk WeidnerG odL ist sum
+UM 29-16-35 fig. 10 Inana's Descent sum An=AnumV bil
+UM 29-16-338 fig. 24 erased ur5-ra13 sum
+UM 29-16-383 fig. 14 literary sum ur5-ra3 sum
+UM 29-16-528 unidentified sum? 0
+UM 29-16-561 fig. 22 broken proverbs sum
+UM 29-16-596 unidentified akk 0
+UM 29-16-606 fig. 4 Gilgames akk 0
+(Enkidu)
+45. This tablet contains no text. The obverse has a single an unpublishedc opy by Hilprecht.S cheil's text was used in
+erasedl ine. The formato f the tablet conformsw ith the other MSL 5: 65-66 as V8.
+pillow-shapedp ieces. 47. Accordingt o the catalogueo f the BabylonianS ection
+46. The identificationo f Scheil's text in RT as HS 1781 is this fragmentj oins the missing fragmentU M 29-13-4.
+virtuallyc ertain.I know HS 1781 froma photographa ndf rom 48. Publisheda s UM 29-13-345.
+49. Edition McEwan (1986: 87).
+KASSITE EXERCISES:L ITERARYA ND LEXICALE XTRACTS 85
+Round Tablets
+Museum# Publication Obverse Reverse
+content language content language
+2N-T75 BiOr 56: 391 Gilgames akk ur5-ra5 sum
+11N-T26 OIC 22 140:18 traces ur5-ra8 sum
+CBS 8554 fig. 21 unidentified sign list
+CBS 14167 fig. 3 Gilgames ? ur5-ra2 sum
+CBS 19840 fig. 15 literary akk 0
+N 3783 + N 5031 fig. 11 literary sum sign list
+N 5048 unidentified ? unidentified ?
+N 5447 BaM 28: 208 proverbs/gis sum 0
+UM 29-13-79 unidentified ? 0
+UM 29-15-848 fig. 5 Fowler& hisW ife sum ur5-ra3 sum
+UM 29-15-976 fig. 19 0 WeidnerG odL ist sum
+Textsf rom OtherP laces
+Babylon probably yielded more than hundred examples of pillow-shaped exercise tablets, all from
+late Kassite context in Merkes 25nl (see above ?1.2). VS 24 41 is known to derive from this find-spot.
+The table below contains several more pieces from Babylon published in VS 24. For most of these (VS
+24 15; 38; 39; 72; and 75) the excavation number is lost, so that we cannot be certain about the exact
+provenance. They may all come from Merkes 25nl. Based on the copy, VS 24 76 may have the same
+format,b ut it does not belong to this same lot. Accordingt o VS 24 the tabletd erives from Merkes2 7o2.
+Pedersen does not treatt his locus in his discussion of archives and librariesf rom Merkes. (Pedersen
+1998a: 108-12 and 1998b). VS 24 76 may be an isolated find.
+A furthert ext that at first sight might appeart o be a case in point is OECT1 1: 59. The obverse has an
+extractf rom ur5-ra6 (copied by van der Meer in Iraq 6 no. 51). The reverseh as an "incantationw ritten
+across the tablet"( Gurney,O ECT 11: 8). Upon collation, however, the fragmentp rovedt o be a slightly
+unusual Neo-Babylonian exercise. Paleography and the formal characteristicso f the lexical section
+supportt his conclusion. The relevant characteristicsa re: horizontald ividing lines between sections; a
+vertical dividing line between the Sumeriana ndt he Akkadianc olumn;a nd glosses writteno n the line in
+the same seize as main text. The copy in Iraq 6 seems to indicatet hatt he lexical extracti s monolingual.
+This, however, is not the case. Thought he Akkadians ide is largely broken,e nough is theret o see thati t
+contains the standardt ranslations.
+None of the tablets below has been collated, except for NBC 7834 and MSL SS 1: 23. For the pieces
+that are not inscribed on both sides the attribution to our present corpus must remain uncertain.
+Round Tablet
+Eidem 1997: sign list
+79:320 Qala'at al-Bahrain 0 (complex signs)
+86 NIEK VELDHUIS
+Pillow Shaped
+Publication or
+Museum no Provenance Obverse Reverse
+content language content language
+VS 24 15 Babylon hymn? sum lu2 = sa bil
+VS 24 38 Babylon temple hymn sum 0
+VS 24 39 Babylon temple hymn bil 0
+VS 24 41 Babylon royal hymn bil 0
+VS 24 72 Babylon Anzu bil 0
+VS 24 75 Babylon Sargon bil 0
+VS 24 76 Babylon literary sum 0
+UET 6400 Ur literary akk ur5-ra 13 sum
+Eidem 1997 319 Qala'at al-Bahrain 0 ? sum
+MSL SS 1 23 Kish 0 ur5-ra 8 sum
+CT 58 61 Sippar? literary sum 0
+Boissier Bab. Lipit-Estar A and sum
+9 pl. I Unknown Code ofHammurabi akk lexical sum
+NBC 7834 Unknown (few broken signs) ur5-ra 4 sum
+TBER 55:
+AO 1766449 Unknown 0 ur5-ra 2 bil
+References
+Alster, B. Civil, M.
+1997 Proverbso fAncientS umer.B ethesda: CDL. 1983 Enlil and Ninlil: The Marriageo f Sud. Pp.
+Andre-Salvini,B . 43-66 in Studies in Literaturef rom the An-
+1999 Les tablettes cuneiformes de Qal'at al- cient Near East Dedicated to Samuel Noah
+Bahrein. Pp. 126-28 in Bahrein. La Kramer (AOS 65 = JAOS 103, 1), ed. Jack
+civilisation des deux mers, ed. Pierre M. Sasson. New Haven:A mericanO riental
+Lombard.P aris:I nstitutd u monde arabe. Society.
+Black, J. A.; G. Cunningham; E. Robson; and G. 1987 SumerianR iddles: A Corpus.A uOr 5: 17-
+Z6lyomi 37.
+1998- TheE lectronicT extC orpuso fSumerianL it- 1994 The Farmer's Instructions. Sabadell-
+erature.w ww-etcsl.orient.ox.ac.ukO/. xford. Barcelona:A USA.
+Cavigneaux,A . Cole, S. W.
+1981 Textess colaires du templed e Nabu sa Hare. 1996 Nippur in Late Assyrian Times. SAAS 4.
+Baghdad:R epublico f Iraq,M inistryo f Cul- Helsinki:H elsinki University.
+ture. Cooper,J . S.
+1996 Miettes de l'edubba.P p. 11-26 in Tablettes 1978 The Returno f Ninurta to Nippur. AnOr 52.
+et images aux pays de Sumer et d'Akkad. Rome: PontificiumI nstitutumB iblicum.
+Melanges offerts a MonsieurL imet, eds. 0. Dijk, J. J. A. van
+Tunca and D. Deheselle. Liege: Universite 1983 LUGALU D ME-LAM-bNi IR-GAL.L e recit
+de Liege. epiquee t didactiqued es Travauxd e Ninurta,
+KASSITE EXERCISES: LITERARY AND LEXICAL EXTRACTS 87
+du Deluge et de la Nouvelle Creation.. ceming the Kassites. AION 41: 385-89.
+Leiden: Brill. 1987 On the Early History of the Ershahunga
+1998 Inanna raubt den "groBen Himmel". Ein Prayer.J CS 39: 37-48.
+Mythos. Pp. 9-38 in Festschriftf ur Rykle 1998 Literaturea s a Sourceo f Lexical Inspiration:
+Borger zu seinem6 5. Geburtstaga m 24. Mai Some Notes on a Hymn to the Goddess
+1994. tikip santakki mala basmu ..., ed. Inana. Pp. 65-73 in Written on Clay and
+Stefan M. Maul. CM 9. Groningen:S tyx. Stone. Ancient Near Eastern Studies Pre-
+Eidem, J. sented to KrystynaS zarzynskao n the Occa-
+1997 CuneiformI nscriptionsP. p. 76-80 in Qala'at sion of her 80'hB irthday,e d. J. Braune t al.
+al-Bahrain Volume 2. The Central Monu- Warsaw:A gade.
+mental Buildings (Jutland Archaeological Mieroop, M. van de
+Society Publications XXX:2), eds. F. 1987 Crafts in the Early Isin Period. OLA 24.
+Hojlund and H. H. Andersen. Aarhus: Louvain:P eeters.
+AarhusU niversity. Pedersen,O .
+Falkowitz, R. S. 1998a Archives and Libraries in the AncientN ear
+1983/ Round Old BabylonianS chool Tablets East 1500-300 B.C. Bethesda:C DL.
+84 from Nippur.A fO 29/30: 18-45. 1998b Zu den altbabylonischen Archiven aus
+Finkel, I. L. Babylon.A oF 25: 328-38.
+1986 On the Series of Sidu. ZA 76: 250-53. Reiner, E.
+George, A. 1985 YourT hwartsi n Pieces YourM ooringR ope
+1999 TheE pic of Gilgamesh.N ew York:P enguin. Cut. Ann Arbor:U niversity of Michigan.
+Gordon,E . I. SassmannshausenL, .
+1959 SumerianP roverbs: Glimpses of Everyday 1994 Ein ungew6hnliches mittelbabylonisches
+Life in Ancient Mesopotamia.P hiladelphia: Urkundenfragmenta us Nippur. BaM 25:
+University Museum. 447-57.
+Hilgert, M. 1997 Mittelbabylonischreu ndeT afelna us Nippur.
+1998 DrehemA dministrativeD ocumentsf rom the BaM 28: 185-208.
+Reign of Sulgi, OIP 115. Chicago: Chicago Sj6berg,A .
+University. 1975 In-nin sa-gur4-ra.A Hymn to the Goddess
+Koldewey, R. Inannab y the en-PriestessE nheduanna.Z A
+1908 Aus den BerichtenP rofessorD r. Koldeweys 65: 161-253.
+aus Babylon. MDOG 38: 5-21. Sladek, W. R.
+Kraus,F . R. 1974 Inanna's Descent to the Netherworld.P h.D.
+1985 Mittelbabylonische Opferschauprotokolle. diss. Baltimore:T he JohnsH opkinsU niver-
+JCS 37: 127-28. sity.
+Litke, R. L. Stol, M.
+1998 A Reconstructiono f the Assyro-Babylonian 1980 Leder(industrie).R lA 6: 527-43.
+God Lists An: dA-nu-uma nd An: Anu sa -83
+ameli. New Haven: Yale University. Tigay, J.
+McEwan, G. J. P. 1982 The Evolutiono f the GilgameshE pic. Phila-
+1986 Review of: Jean Marie Durand, Textes delphia:U niversity of Pennsylvania.
+babyloniensd ' epoquer ecente. (Paris 1981); Veldhuis, N. C.
+andF rancisJ oannes,T extese conomiquesd e 1999 Review of S. Parpola, The Standard
+la Babylonier ecente.( Paris 1982). OrNS5 5: Babylonian Epic of Gilgamesh. (Helsinki
+85-89. 1997). BiOr 56: 388-92.
+Michalowski, P. 2000 SumerianP roverbsi n their CurricularC on-
+1981 An Old BabylonianL iteraryF ragmentC on- text. JAOS 120: 383-99.
+88 NIEK VELDHUIS
+Fig. 1. N 5489 obv. (rev. anepigraphic) Fig. 2. CBS 13329 obv. (rev. anepigraphic)
+F
+B~-4- /t--
+1.<
+4
+C-i:-';C?.,...-x-':
+~~
+Fig. 3. CBS 14167
+Fig. 4. UM 29-16-606 obv. (rev. anepigraphic)
+KASSITE EXERCISES:L ITERARYA ND LEXICALE XTRACTS 89
+Fig. 5. UM 29-15-848
+Fig. 7. UM 29-15-594
+Fig. 6. CBS 8039 obv. (rev. anepigraphic)
+Fig. 8. UM 29-13-542 (rev. worn and partly erased)
+90 NIEK VELDHUIS
+Fig. 9. N 4529 obv. (rev. broken)
+Fig. 10. UM 29-16-35 Fig. 11. N 3783 + N 5031
+A
+KASSITE EXERCISES:L ITERARYA ND LEXICALE XTRACTS 91
+Fig. 12. UM 29-13-543 obv. (rev. anepigraphic)
+r ;
+, * 1, f ;, t p
+', ( ( .t *i . .
+obAvC(.Fr Beig8S.4 13. 19831
+Fig. 13. CBS 19831 obv. (rev. broken) Fig. 15. CBS 19840 obv. (rev. anepigraphic)
+Fig. 14. UM 29-16-383
+92 NIEK VELDHUIS
+Fig. 16. UM 29-13-771 Fig. 17. UM 29-13-947 rev. (obv. erased)
+.^^'^?l/I S^S*'.
+^*^< r rE
+^p^=s~Ir4rrt'u
+^S X
+^^^-q^.T
+>/ -X AM
+^-^^^ e
+__/i~3tP
+~1
+nwfb
+~ ~ ~ ~~~~~
+= _ _ .
+Fig. 18. UM 29-15-944
+4 4it
+4p~~ p~arP~brl- r r - - W. . . . . --
+-
+F
+I~~I
+I["
+I
+1 iCY~~~li.t 40
+l
+PP-
+I?;k
+KASSITE EXERCISES:L ITERARYA ND LEXICALE XTRACTS 93
+Fig. 19. UM 29-15-976 rev. (obv. anepigraphic) Fig. 20. UM 29-15-970 obv. (rev. eroded)
+Fig. 21. CBS 8554
+94 NIEK VELDHUIS
+Fig. 22. UM 29-16-561 Fig. 23. 2N-T63 (UM 55-21-18)
+rev. (obv. erased)
+Fig. 24. UM 29-16-338 rev. (obv. erased)
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

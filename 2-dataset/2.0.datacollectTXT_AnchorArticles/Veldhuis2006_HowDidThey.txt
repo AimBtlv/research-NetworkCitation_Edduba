@@ -1,0 +1,1284 @@
+# METADATA
+author: Veldhuis N.
+source_id:Veldhuis2006_HowDidThey
+title: How Did They Learn Cuneiform? Tribute/word List C As An Elementary Exercise
+Year: 2006
+Source_ID:  Veldhuis2006_HowDidThey
+Source_Type: Article in Book: Approaches to Sumerian Literature (H. L. J. Vanstiphout)
+Source_Role,Step_distance: 2 ,3,4 
+Pages: 181-200
+Web:  
+Published: BRILL LEIDEN•BOSTON
+
+# TEXT
+
+Cuneiform Monographs
+Editors
+t. abusch ‒ m.j. geller
+s.m. maul ‒ f.a.m. wiggerman
+VOLUME 35
+Stip (Dr. H. L. J. Vanstiphout)
+Approaches to Sumerian
+Literature
+Studies in Honour of Stip
+(H. L. J. Vanstiphout)
+Edited by
+Piotr Michalowski and Niek Veldhuis
+BRILL
+LEIDEN•BOSTON
+2006
+This book is printed on acid-free paper.
+Library of Congress Cataloging-in-Publication Data is available on
+http: // catalog.loc.gov
+ISSN 0929-0052
+ISBN-10 90 04 15325 XX
+ISBN-13 978 90 04 15325 7
+© Copyright 2006 by Koninklijke Brill NV, Leiden, The Netherlands.
+Koninklijke Brill NV incorporates the imprints Brill Academic
+Publishers, Martinus Nijhoff Publishers, and VSP.
+All rights reserved. No part of this publication may be reproduced, translated,
+stored in a retrieval system, or transmitted in any form or by any means,
+electronic, mechanical, photocopying, recording or otherwise, without
+prior written permission from the publisher.
+Authorization to photocopy items for internal or personal
+use is granted by Brill provided that
+the appropriate fees are paid directly to The Copyright
+Clearance Center, 222 Rosewood Drive, Suite 910,
+Danvers, MA 01923, USA.
+Fees are subject to change.
+printed in the netherlands
+CONTENTS
+Piotr Michalowski and Niek Veldhuis
+H. L. J. Vanstiphout: An Appreciation .............................. 1
+Publications of H. L. J. Vanstiphout ...................................... 3
+Bendt Alster
+Ninurta and the Turtle: On Parodia Sacra
+in Sumerian Literature .......................................................... 13
+Nicole Brisch
+In Praise of the Kings of Larsa .......................................... 37
+A. J. Ferrara
+A Hodgepodge of Snippets: Some Thoughts on
+Narrative Now and Then .................................................... 47
+Alhena Gadotti
+Gilgame“, Gudam, and the Singer in
+Sumerian Literature .............................................................. 67
+W. W. Hallo
+A Sumerian Apocryphon? The Royal
+Correspondence of Ur Reconsidered .................................. 85
+Dina Katz
+Appeals to Utu in Sumerian Narratives .............................. 105
+Jacob Klein
+Man and His God: A Wisdom Poem
+or a Cultic Lament? .............................................................. 123
+Piotr Michalowski
+The Strange History of Tumal ............................................ 145
+Gonzalo Rubio
+”ulgi and the Death of Sumerian ........................................ 167
+vi contents
+Niek Veldhuis
+How Did They Learn Cuneiform?
+Tribute/Word List C as an Elementary Exercise .............. 181
+Claus Wilcke
+Die Hymne auf das Heiligtum Ke“. Zu
+Struktur und “Gattung” einer altsumerischen
+Dichtung und zu ihrer Literaturtheorie .............................. 201
+Index of Ancient Compositions Quoted or Discussed ............ 239
+Index of Sumerian and Akkadian ............................................ 245
+H. L. J. VANSTIPHOUT: AN APPRECIATION
+The scholarly work of H. L. J. Vanstiphout, known as Stip to his
+friends, reads as a persistent, stubborn meditation on one central
+theme: the importance of Mesopotamian literature as literature, that
+is as verbal art. The importance of this literature is paramount for
+any assessment of the thoughts, ideas, and ideologies of ancient
+Mesopotamians, and as a demonstration of their artistic and schol-
+arly know-how. Moreover, Vanstiphout argues, this literature is our
+earliest, and is therefore of critical importance if we are to under-
+stand literature as such. In the nineties of the last century the
+Mesopotamian Literature Group met three times in Groningen, at
+the initiative of Vanstiphout and Dr. Marjan Vogelzang. These lively
+meetings and their proceedings established Groningen as the world
+center for the study of cuneiform literature.
+Vanstiphout’s contributions to the field of cuneiform literary stud-
+ies may be classified under three closely related headings: structure,
+interdisciplinarity, and popularization. The emphasis on structure
+indicates a shift in attention from what the texts tell us—all too often
+understood as directly reflecting the ancient reality—to how they pro-
+duce their message. Vanstiphout’s studies of the literary disputes are
+excellent examples of this aspect of his scholarship, demonstrating
+that these texts exhibit a more or less fixed pattern, from (mytho-
+logical) introduction, to verbal exchange, to verdict—a pattern that
+may be used and altered creatively to achieve special effects.
+Vanstiphout’s consistent emphasis on structure further implies a shift
+in attention away from individual words and phrases towards an
+understanding of literary works, genres, and indeed the whole cor-
+pus of cuneiform literature as integrated, meaningful wholes. His var-
+ious contributions to the problem of genre and the curricular
+background of Sumerian literature may be seen in this light.
+The concept structure as employed by Vanstiphout has its roots
+in the Prague Linguistic Circle and in the related French structuralist
+movements of the last century. The introduction of such ideas, con-
+cepts, and research methods from other disciplines, including lin-
+guistics, literary theory, and mediaeval studies, is a remarkable constant
+in his work. An outstanding example is his “Un Carré d’Amour
+2 h. l. j. vanstiphout: an appreciation
+sumérien,” a discussion of several Sumerian poems about love pur-
+suits of the gods, in which he successfully applied concepts and analy-
+ses first introduced by the famous French medievalist E. Le Roy
+Ladurie. Co-operation with scholars from a variety of disciplines led
+to a number of meetings that resulted in edited volumes on Dispute
+Poems, Aspects of Genre, and Cultural Repertories—all of them (co)-
+edited by Vanstiphout and inspired by the idea that interaction with
+non-cuneiformists enriches our knowledge and results in a whole that
+is more than the mere accumulation of its parts. The pursuit of
+interdisciplinary studies is never easy, since it requires extensive knowl-
+edge in an array of scholarly fields and sometimes invites skepticism,
+if not worse, from colleagues who are not willing to go beyond tra-
+ditional notions of philology. But Vanstiphout has always based his
+literary analysis on solid philological foundations: he has authored
+or co-authored a number of primary text editions, and has always
+worked closely with original sources. Indeed, he is a frequent visi-
+tor to the Babylonian Section of the University Museum in Phila-
+delphia, where he works on deciphering, identifying, and collating
+ancient tablets from the school rooms of Nippur.
+Vanstiphout’s intense interaction with scholars from various disci-
+plines created the necessity and obligation to make the primary evi-
+dence available to the non-specialist. Over the last decade he has
+published four volumes of translations; three in Dutch and one in
+English, all of them provided with introductions that draw attention
+to the literary structure and qualities of the texts translated. True
+popularization eschews simplification, and thus the reader of Vanstip-
+hout’s Dutch translation of Sumerian heroic and mythological poems
+(the first such anthology in the language) is confronted with a long
+essay that discusses the essentials of the Sumerian writing system and
+language, the literary system of genres, verse and strophe, and var-
+ious issues of Sumerian culture and religion. Much the same can be
+said about his rendition of Gilgamesh, which was greeted with much
+praise by the Dutch press.
+The present book is a collection of studies in Sumerian literature
+in honor of Stip, who through his work as teacher, scholar, con-
+vener, and editor transformed this field beyond recognition.
+Piotr Michalowski and Niek Veldhuis
+PUBLICATIONS OF H. L. J. VANSTIPHOUT
+1. Books
+1.1 Proeve van Beschrijvende Linguistiek met Betrekking tot de Beïnvloeding
+van een Indo-Europese Taal door een niet-Indo-Europese Taal, Licenciate
+thesis. Catholic University of Louvain, 1971.
+1.2 Studies in the Literary Traditions about the Destruction of Ur, Doctoral
+dissertation, Catholic University of Louvain, 1975.
+1.3 The Rebel Lands. An Investigation into the Origins of Early Mesopotamian
+Mythology. J. V. Kinnier Wilson, with the assistance of Herman
+Vanstiphout. Cambridge Oriental Publications 29. Cambridge:
+Cambridge University Press, 1979.
+1.4 Helden en Goden van Sumer. Een keuze uit de heroïsche en mythologi-
+sche dichtkunst van het Oude Mesopotamië, Nijmegen: SUN, 1999.
+1.5 Het Epos van Gilgame“. Nijmegen: SUN, 2001.
+1.6 Epics of Sumerian Kings: The Matter of Aratta. Writings from the
+Ancient World 20. Atlanta: Society of Biblical Literature; Leiden:
+Brill, 2003.
+1.7 Eduba. Schrijven en Lezen in Sumer. Nijmegen: SUN, 2004.
+2. Edited Volumes
+2.1 Scripta Signa Vocis. Studies about Scripts, Scriptures, Scribes and Languages
+in the Near East, Presented to J. H. Hospers by his Pupils, Colleagues
+and Friends, eds. H. L. J. Vanstiphout, K. Jongeling, F. Leemhuis,
+and G. J. Reinink. Groningen: Forsten, 1986.
+2.2 Dispute Poems and Dialogues in the Ancient and Mediaeval Near East.
+Forms and Types of Literary Debates in Semitic and Related Literatures,
+eds. G. J. Reinink and H. L. J. Vanstiphout. Orientalia
+Lovaniensia Analecta 42. Louvain: Peeters, 1991.
+2.3 Mesopotamian Epic Literature: Oral or Aural? eds. M. E. Vogelzang
+and H. L. J. Vanstiphout. Lewiston: Mellen, 1992.
+2.4 Mesopotamian Poetic Language: Sumerian and Akkadian, eds. M. E.
+Vogelzang and H. L. J. Vanstiphout. Cuneiform Monographs
+6. Groningen: STYX, 1996.
+4 h. l. j. vanstiphout: an appreciation
+2.5 Aspects of Texts in the Ancient Near East. Dutch Studies on NearEastern
+Languages and Literatures 2 (1996): 5–80 (special volume editor).
+2.6 All Those Nations...Cultural Encounters within and with the Near
+East (Studies presented to H. J. W. Drijvers), ed. H. L. J.
+Vanstiphout with the assistance of W. J. van Bekkum, G. J.
+van Gelder and G. J. Reinink. Groningen: STYX, 1999.
+2.7 Aspects of Genre and Type in Pre-Modern Literary Cultures, eds. Bert
+Roest and H. L. J. Vanstiphout. COMERS/ICOG Commu-
+nications 1. Groningen: STYX, 1999.
+2.8 Cultural “Repertoires:” Structure, Function, and Dynamics, eds. G. J.
+Dorleijn and H. L. J. Vanstiphout. Groningen Studies in
+Cultural Change 3. Louvain: Peeters, 2003.
+3. Articles and Reviews
+3.1 Vorst en Stad in de Vroegsumerische Koningsinscripties. Pp.
+170–74 in Handelingen van het XXVIIe Vlaamse Filologencongres,
+ed. Anon. Louvain, 1970.
+3.2 Political Ideology in Early Sumer. Orientalia Lovaniensia Periodica
+1 (1970): 7–38.
+3.3 Linguistic Arguments for a Hurrian Influence upon Hittite
+Syntax. Orientalia Lovaniensia Periodica 2 (1971): 71–101.
+3.4 Was een Pestepidemie de Oorzaak van de Ondergang van
+het Nieuwsumerische Rijk? Phoenix 20 (1974): 351–70.
+3.5 Over de Reconstructie van de Sumerische Letterkunde. Phoenix
+23 (1977): 65–83.
+3.6 A Note on the Series “Travel in the Desert.” Journal of Cuneiform
+Studies 29 (1977): 52–56.
+3.7 Lipit-E“tar’s Praise in the Edubba. Journal of Cuneiform Studies
+30 (1978): 33–61.
+3.8 Joins in Texts Published and Unpublished. Revue d’Assyriologie
+72 (1978): 81–83.
+3.9 How Did They Learn Sumerian? Journal of Cuneiform Studies
+31 (1979): 118–28.
+3.10 The Death of an Era: The Great Mortality in the Sumerian
+City Laments. Pp. 83–89 in Death in Mesopotamia, ed. B. Alster.
+Copenhagen: Akademisk Forlag, 1980.
+3.11 Some Notes on “Enlil and Namzitarra.” Revue d’Assyriologie 74
+(1980): 67–71.
+publications of h. l. j. vanstiphout 5
+3.12 Over het Vak “Sumerisch” aan de Oudbabylonische Scholen.
+Pp. 29–42 in Het Kind in de Oosterse Beschavingen, eds.
+A. Theodorides, P. Naster and J. Ries, Louvain: Peeters, 1980.
+3.13 Enùma eli“: tablet V Lines 15–22. Journal of Cuneiform Studies
+33 (1981): 196–98.
+3.14 An Essay on “The Home of the Fish.” Pp. 311–19 in Studia
+Paulo Naster Oblata II: Orientalia Antiqua, ed. J. Quaegebeur.
+Orientalia Lovaniensia Analecta 13. Louvain: Peeters, 1982.
+3.15 Een Sumerische Stadsklacht uit de Oudbabylonische Periode.
+Turmenuna of de Nippurklacht. Pp. 330–41 in Schrijvend Verleden.
+Documenten uit het Oude Nabije Oosten Vertaald en Toegelicht, ed.
+K. Veenhof. Leiden-Zutphen: Ex Oriente Lux: 330–41.
+3.16 Problems in the Matter of Aratta (Summary). Akkadica 31
+(1983): 27–28.
+3.17 Problems in the “Matter of Aratta.” Iraq 45 (1983): 35–42.
+3.18 The Rhetorical Structure of the Disputation between the Hoe
+and the Plough (Summary). Akkadica 36 (1984): 29.
+3.19 Aantal, getal en Reeks als Stijlmiddelen in de Mesopotamische
+Letterkunde. Akkadica 36 (1984): 1–17.
+3.20 Sumerische Literatuur. Pp. 185–91 in Moderne Encyclopedie van
+de Wereldliteratuur2 Vol. 7. Weesp-Antwerpen: Spectrum, 1984.
+3.21 Inanna/Ishtar as a Figure of Controversy. Pp. 225–38 in
+Struggles of Gods. Papers of the Groningen Work Group for the Study
+of the History of Religions, ed. H. Kippenberg. Religion and
+Reason 31. Berlin-New York-Amsterdam: de Gruyter, 1984.
+3.22 On the Sumerian Disputation between the Hoe and the Plough,
+Aula Orientalis 2 (1984): 239–51.
+3.23 On the Verbal Prefix /i/ in Standard Sumerian. Revue
+d’Assyriologie 79 (1985): 1–15.
+3.24 Review of J. S. Cooper, Reconstructing History from Ancient
+Inscriptions, Malibu 1983. Journal of the American Oriental Society
+105 (1985): 326.
+3.25 Some Remarks on Cuneiform écritures. Pp. 217–34 in Scripta
+Signa Vocis. Studies about Scripts, Scriptures, Scribes and Languages in
+the Near East, Presented to J. H. Hospers by his Pupils, Colleagues
+and Friends, eds. H. L. J. Vanstiphout, K. Jongeling, F. Leemhuis,
+and G. J. Reinink. Groningen: Forsten, 1986.
+3.26 Some Thoughts on Genre in Mesopotamian Literature. Pp.
+1–11 in Keilschriftliche Literaturen, eds. K. Hecker et al. Berlin:
+Reimer Verlag, 1986.
+6 h. l. j. vanstiphout: an appreciation
+3.27 Towards a Reading of “Gilgamesh and Agga.” Part II:
+Construction. Orientalia Lovaniensia Periodica 17 (1986): 33–50.
+3.28 Towards a Reading of “Gilgamesh and Agga.” Part I: The
+Text. Aula Orientalis 5 (1987): 129–41.
+3.29 Un carré d’amour sumérien, or How Once Woman Was Won,
+(summary), Akkadica 50 (1987): 25–26.
+3.30 Un carré d’amour sumérien, or Ways to Win a Woman. Pp.
+163–78 in La femme dans le Proche-Orient Antique, ed. J.-M.
+Durand. Paris: SEC, 1987.
+3.31 Lahar and Ashnan. Presentation and Analysis of a Sumerian
+Disputation, Acta Sumerologica 9 (1987): 1–43. With Bendt Alster.
+3.32 Erra Epic, tablet iv 1. 49. N.A.B.U. 1987/3 no. 69: 37.
+3.33 Joins in enùma eli“. N.A.B.U. 1987/3 no. 70: 37–38.
+3.34 Joins Proposed in Sumerian Literary Compositions. N.A.B.U.
+1987/3 no. 87: 46–47.
+3.35 Enùma eli“, tablet I:3. N.A.B.U. 1987/4 no. 95: 52–53.
+3.36 A Proposal for a Uniform Siglum System for Sumerian Standard
+Literature. NA.B.U. 1987/4 no. 121: 68–69.
+3.37 Review article of J. van Dijk, LUGAL UD ME-LAM -bi NIR-
+2
+GAL , Leiden 1983 in Aula Orientalis 5 (1987): 179–84.
+2
+3.38 Een (k)oud spoor in de vossejacht. Belgisch Tijdschrift voor Filologie
+en Geschiedenis 66 (1988): 5–31.
+3.39 Mi¢iltum, or the Image of Cuneiform Writing. Visible Religion
+6 (1988): 152–68.
+3.40 The Importance of “The Tale of the Fox.” Acta Sumerologica
+10 (1988): 191–227.
+3.41 De Toren van Babel, Stierkolossen en Kleitabletten. Achtergron-
+den van een onvolkomen inwerking. Pp. 113–31 in De Orient.
+Droom of Dreiging? Het Oosten in Westers Perspectief, eds. H. Bakker
+and M. Gosman. Kampen: Kok, 1988.
+3.42 Het Gilgamesj-epos. Pp. 19–34 in Onsterfelijke Roem. Het eposin
+verschillende culturen, ed. Mineke Schippers. Baarn: Ambo, 1989.
+3.43 Fabels uit Mesopotamia. Phoenix 34 (1989): 15–28.
+3.44 Enmerkar’s Invention of Writing Revisited. Pp. 515–24 in
+DUMU-E -DUB-BA-A. Studies in Honor of Å. W. Sjöberg, eds.
+2
+H. Behrens et al. Philadelphia: University Museum, 1989.
+3.45 The Akkadian Word for Grain and Lahar and Ashnan 11.
+189–190. N.A.B.U. 1989/4 no. 89: 72–73.
+3.46 Gilgame“ and Agga, Frgt. X (N 1250). N.A.B.U. 1989/4 no.
+99: 73–74.
+publications of h. l. j. vanstiphout 7
+3.47 Over de Mesopotamische Letterkunde. Belgisch Tijdschrift voor
+Filologie en Geschiedenis 68 (1990): 5–53.
+3.48 The Mesopotamian Debate Poems. A General Presentation
+(Part I). Acta Sumerologica 12 (1990): 271–318.
+3.49 A double entendre concerning Uttu. N.A.B.U. 1990/2 no. 57:40–44.
+3.50 Once Again: Sex and Weaving. NA.B.U. 1990/2 no. 60: 45–46.
+3.51 The Craftmanship of Sîn-leqi-unninì. Orientalia Lovaniensia Periodica
+21 (1991): 45–79.
+3.52 The Exchange of Goods as a Literary Topic in Mesopotamian
+Myth and Legend. Pp. 217–40 in Ancient Economy in Mythology:
+East and West, ed. Morris Silver. Savage, MD: Rowman and
+Littlefield, 1991.
+3.53 Lore, Learning and Levity in the Sumerian Disputations: A
+Matter of Form, or Substance? Pp. 23–46 in Dispute Poems and
+Dialogues in the Ancient and Mediaeval Near East. Forms and Types
+of Literary Debates in Semitic and Related Literatures, eds. G. J.
+Reinink and H. L. J. Vanstiphout. Orientalia Lovaniensia
+Analecta 42. Louvain: Peeters, 1991.
+3.54 The Man from Elam. A Reconsideration of Ishbi-Erra “Hymn
+B.” Jaarbericht van het Vooraziatisch-Egyptisch Genootschap Ex Oriente
+Lux 31 (1990): 53–62.
+3.55 A Further Note on Ebi¢. N.A.B.U. 1991/4 no. 103: 71–72.
+3.56 A Note on the Format of “Bird and Fish.” N.A.B.U. 1991/4
+no. 104: 72–73.
+3.57 Repetition and Structure in the Aratta Cycle: Their Relevance
+for the Orality Debate. Pp. 247–64 in Mesopotamian Epic Literature:
+Oral or Aural? eds. M. E. Vogelzang and H. L. J. Vanstiphout.
+Lewiston: Mellen, 1992.
+3.58 The Mesopotamian Debate Poems. A General Presentation.
+Part II: The Subject. Acta Sumerologica 14 (1992): 339–67.
+3.59 Joins in Sumerian Literary Compositions. N.A.B.U. 1992/2
+no. 47: 37–38.
+3.60 The Banquet Scene in the Sumerian Debate Poems. Res
+Orientales 4 (1992): 37–63.
+3.61 Enmerkar and the Lord of Aratta line 503. N.A.B.U. 1993/1
+no. 13: 9–10.
+3.62 “Verse Language” in Standard Sumerian Literature. Pp. 305–29
+in Verse in Ancient Near Eastern Prose, eds. J. C. de Moor and
+W. G. E. Watson. Kevelaer and Neukirchen: Butzon and
+Bercker, 1993.
+8 h. l. j. vanstiphout: an appreciation
+3.63 Enùma eli“ as a Systematic Creed. Orientalia Lovaniensia Periodica
+23 (1992): 37–61.
+3.64 On the Old Babylonian Eduba Curriculum. Pp. 3–16 in Centres
+of Learning. Learning and Location in Pre-Modern Europe and the Near
+East, eds. J. W. Drijvers and A. A. MacDonald. Leiden: Brill,
+1995.
+3.65 Gilgamesh for the Antwerp Puppet Theatre. A Masterpiece
+on a Masterpiece. Dutch Studies on Near Eastern Languages and
+Literatures 1 (1995): 7–19.
+3.66 Remarks on “Supervisor and Scribe” (or Dialogue 4, or Eduba
+C). N.A.B.U. 1996/1 no. 1: 1–2.
+3.67 The Matter of Aratta. An Overview. Orientalia Lovaniensia
+Periodica 26 (1995): 5–20.
+3.68 Memory and Literacy in Ancient Western Asia. Pp. 2181–96
+in Civilizations of the Ancient Near East Vol. IV, ed. J. M. Sasson.
+New York: Scribners, 1995.
+3.69 Ambiguity as a Generative Force in Standard Sumerian
+Literature, or Empson in Nippur Pp. 155–66 in Mesopotamian
+Poetic Language: Sumerian and Akkadian, eds. M. E. Vogelzangand
+H. L. J. Vanstiphout. Cuneiform Monographs 6. Groningen:
+STYX, 1996.
+3.70 Introduction. Pp. ix–xi in Mesopotamian Poetic Language: Sumerian
+and Akkadian, eds. M. E. Vogelzang and H. L. J. Vanstiphout.
+Cuneiform Monographs 6. Groningen: STYX, 1996.
+3.71 Another Attempt at the “Spell of Nudimmud.” Revue d’Assyriologie
+88 (1994): 135–54.
+3.72 De Heilige Lugalbanda. Phoenix 42 (1996): 35–53.
+3.73 On a Sumerian Proverb (SP 1.126). N.A.B.U. 1996/2 no. 51:
+43–44.
+3.74 Erra IV 18. N.A.B.U. 1996/2 no. 53: 44–46.
+3.75 On a Passage in The Marriage of Martu. N.A.B.U. 1996/2 no.
+54: 46–47.
+3.76 Introduction. Pp. 5–10 in Aspects of Texts in the Ancient Near
+East, ed. H. L. J. Vanstiphout. Dutch Studies on Near Eastern
+Languages and Literatures 2 (1996).
+3.77 Tùppi ilàni takùltu piri“ti “amê u ersètim. Annali del’istituto universi-
+tario orientals di Napoli 55 (1996): 30–32. With N. Veldhuis.
+3.78 Why Did Enki Organize the World? Pp. 78–105 in Sumerian
+Gods and Their Representations, eds. I. Finkel and M. Geller.
+Groningen: STYX, 1997.
+publications of h. l. j. vanstiphout 9
+3.79 The Disputation between Ewe and Wheat. Pp. 575–78 in The
+Context of Scripture Vol. I: Canonical Compositions, ed. W. W. Hallo.
+Leiden: Brill, 1997.
+3.80 The Disputation between the Hoe and the Plough. Pp. 578–81
+in The Context of Scripture Vol. I: Canonical Compositions, ed. W.W.
+Hallo. Leiden: Brill, 1997.
+3.81 The Disputation between Bird and Fish. Pp. 581–84 in The
+Context of Scripture Vol. I: Canonical Compositions, ed. W. W. Hallo.
+Leiden: Brill, 1997.
+3.82 The Disputation between Summer and Winter. Pp. 584–8 in
+The Context of Scripture Vol. I: Canonical Compositions, ed. W.W.
+Hallo. Leiden: Brill, 1997.
+3.83 The Dialogue between Two Scribes. Pp. 588–90 in The Context
+of Scripture Vol. I: Canonical Compositions, ed. W.W. Hallo. Leiden:
+Brill, 1997.
+3.84 The Dialogue between a Supervisor and a Scribe. Pp. 590–92
+in The Context of Scripture Vol. I: Canonical Compositions, ed. W.W.
+Hallo. Leiden: Brill, 1997.
+3.85 The Dialogue between an Examiner and a Student. Pp. 592–93
+in The Context of Scripture Vol. I: Canonical Compositions, ed. W.W.
+Hallo. Leiden: Brill, 1997.
+3.86 Comparative notes on ”ar Tam¢àri. Pp. 573–89 in XXXIVème
+Rencontre Assyriologique Internationale, eds. V. Donbaz et al. Istanbul:
+Türk Tarih Kurumu, 1998.
+3.87 Hak en Ploeg. Over een Sumerisch Strijdgedicht. Pp. 375–97
+in Het Heilig Vuur. De kern van het universitair bestaan, eds.
+K. Willemen et al. Groningen: Wolters-Noordhoff, 1998.
+3.88 Reflections on the Dream of Lugalbanda. Pp. 397–412 in
+Intellectual Life of the Ancient Near East, ed. Ji®i Proseckÿ. Prague:
+Oriental Institute, 1998.
+3.89 A New Edition of Gilgamesh and Akka. Journal of the American
+Oriental Society 119 (1999): 293–96.
+3.90 De Enki-administratie, of waarom de wereld zo in elkaar zit.
+Belgisch Tijdschrift voor Filologie en Geschiedenis 77 (1999): 5–51.
+3.91 “I Can Put Anything In Its Right Place.” Generic and Typo-
+logical Studies as Strategies for the Analysis and Evaluation
+of Mankind’s Oldest Literature. Pp. 79–99 in Aspects of Genre
+and Type in Pre-Modern Literary Cultures, eds. Bert Roest and
+H. L. J. Vanstiphout. COMERS/ICOG Communications 1.
+Groningen: STYX, 1999.
+10 h. l. j. vanstiphout: an appreciation
+3.92 Postscriptum. Pp. 129–39 in Aspects of Genre and Type in Pre-
+Modern Literary Cultures, eds. Bert Roest and H. L. J.
+Vanstiphout. COMERS/ICOG Communications 1.
+Groningen: STYX, 1999. With Bert Roest.
+3.93 The Twin Tongues. Theory, Technique, and Practice of
+Bilingualism in Ancient Mesopotamia. Pp. 141–59 in All Those
+Nations...Cultural Encounters within and with the Near East (Studies
+presented to H. J. W. Drijvers), ed. H. L. J. Vanstiphout
+with the assistance of W. J. van Bekkum, G. J. van Gelder
+and
+G. J. Reinink. Groningen: STYX, 1999.
+3.94 The Use(s) of Genre in Mesopotamian Literature. An After-
+thought. Archív Orientální 67 (1999): 703–17.
+3.95 Water in het Oude Mesopotamië. Groniek 147 (2000): 138–52.
+3.96 A Meeting of Cultures? Rethinking the “Marriage of Martu.”
+Pp. 461–74 in Languages and Cultures in Contact, eds. K. Van
+Lerberghe and G. Voet. Louvain: Peeters, 2000.
+3.97 Shamshum Aj-jabar: On the persistence of Mesopotamian
+Literary Motifs. Pp. 515–527 in Veenhof Anniversary Volume.
+Studies Presented to Klaas R. Veenhof on the Occasion of his Sixty-
+Fifth Birthday, eds. W. H. van Soldt, J. G. Dercksen, N. J.C.
+Kouwenberg and Th. J. H. Krispijn. Leiden: NINO, 2001.
+3.98 Ischtar. P. 246 in Religion in Geschichte und Gegenwart, Handwörter-
+buch für Theologie und Religionswissenschaft, vierte völlig neu bear-
+beitete Auflage, Band 4, eds. H. D. Betz, D. S. Browning, B.
+Janowski, E. Jüngel. Tübingen: Mohr-Siebeck, 2001.
+3.99 Babel versus Bijbel, Enkele voorbeelden. Schrift 197 (2001):
+144–47.
+3.100 Scripta manent. De overgankelijke cultuur van Tweestromen-
+land. Schrift 197 (2001): 139–43.
+3.101 Nippur Klage. Pp. 565–66 in Reallexikon der Assyriologie und
+vorderasiatische Archäologie. Band 9, ed. D. O. Edzard. Berlin-
+New York: Walter de Gruyter, 2001.
+3.102 Sanctus Lugalbanda. Pp. 259–89 in Riches Hidden in Secret
+Places, Ancient Near Eastern Studies in Memory of Thorkild Jacobsen,
+ed. T. Abusch. Winona Lake: Eisenbrauns, 2002.
+3.103 “Wijsheidsliteratuur” in de Mesopotamische letterkunde. Schrift
+203 (2002): 148–55.
+3.104 The Old Babylonian Literary Canon: Structure, Function,
+and Intention. Pp. 1–28 in Cultural “Repertoires:” Structure, Func-
+publications of h. l. j. vanstiphout 11
+tion, and Dynamics, eds. G. J. Dorleijn and H. L. J. Vanstiphout.
+Groningen Studies in Cultural Change 3. Louvain: Peeters,
+2003.
+3.105 On the Structure and Function of Cultural Repertoires: An
+Introduction. Pp. ix–xix in Cultural “Repertoires:” Structure,Function,
+and Dynamics, eds. G. J. Dorleijn and H. L. J. Vanstiphout.
+Groningen Studies in Cultural Change 3. Louvain: Peeters,
+2003. With G. J. Dorleijn.
+3.106 O heiligdom Nippur, hef nu je bittere klaagzang aan! Over
+de Sumerische “historische” klaagzangen. Schrift 214 (2004):
+111–16.
+3.107 Is “de Toren van Babel” Babylonisch? Pp. 29–52 in De Toren
+van Babel, ed. E. van Wolde. Zoetermeer: Meinema, 2004.
+3.108 The nth Degree of Writing at Nineveh. Iraq 66 (2004): 51–54.
+HOW DID THEY LEARN CUNEIFORM?
+TRIBUTE/WORD LIST C AS AN ELEMENTARY EXERCISE
+Niek Veldhuis
+H. Vanstiphout’s question “How Did they Learn Sumerian?” (Vansti-
+phout 1979) has provoked a long series of studies by a variety of
+scholars improving our understanding of the role of literary and lex-
+ical compositions in Old Babylonian education. This contribution
+will concentrate on a composition first attested in archaic Uruk and
+variously labeled as Tribute List, or Sumerian Word List C.1 I will argue
+that this is an exercise designed for beginning students in order to
+tackle the new technique of writing. This analysis, which aims tothrow
+new light on archaic lexical and educational texts, is dedicated to
+Stip, my teacher and friend, from whom I learned Sumerian.
+Introduction: Previous Interpretations
+In the late Uruk period, around 3,200 BCE, writing was inventedas
+an administrative tool in order to help managing the increasing com-
+plexity of institutional transactions.2 The archaic text corpus consists
+of accounting texts and lists of words (lexical lists) for use in scribal
+education. Our understanding of the archaic corpus, both the admin-
+istrative texts and the lexical lists, has made enormous progress
+through the publications of the Berlin team, in particular Hans Nissen
+and Bob Englund, in the series Archaische Texte aus Uruk and in numer-
+ous other contributions. An in-depth analysis of the evidence appeared
+in Englund 1998.
+Within the archaic lexical tradition Sumerian Word List C occupies
+a special place, because it exhibits textual features that are otherwise
+unattested in this corpus. First, it contains a section with quantitative
+1 Despite my own misgivings (see below), this is the label I will use here.
+2 Hans Nissen has recently argued that societal complexity is not a sufficient
+explanation for the introduction and use of writing, and that there are many other
+ways to store information—instead or alongside of writing (Nissen 2004).
+182  
+items such as “10 cows” or “1 bull.” Throughout the Mesopotamian
+written tradition such items are a give-away characteristic of admin-
+istrative texts, not to be found in lexical tablets. Second, Sumerian
+Word List C has a long section that is repeated line by line, word
+for word. Repetitions are well known in literary texts, but not in
+lexical compositions. Finally, the last ten lines of Sumerian Word ListC
+are identical with the first ten lines of another archaic composition,
+usually labeled as “Plant.” In short, on first glance, Sumerian Word
+List C does not qualify as a typical lexical list. The main reason why
+the composition is usually included in the category of lexical lists is
+that its transmission history is identical with that of the more typi-
+cal members of the group: it is found in multiple exemplars in the
+archaic record and was copied, albeit with slight modifications,all
+through the third millennium and even into the Old Babylonianperiod.
+The unusual characteristics of Word List C have led to a varietyof
+interpretations, reading the text as a tribute list, as a literary piece,or
+as the earliest example of esoteric knowledge. Before looking in more
+detail at the text itself I will briefly discuss each of these interpretations.
+Sumerian Word List C
+This title, introduced by Pettinato in his edition of the text in MEE3,
+is used in the present contribution as a neutral description that does
+not anticipate any decision concerning the actual contents of the
+composition. However, neutrality is hard to achieve and the designa-
+tion “Word List” seems to be out of place since, as we have seen
+above, the text lacks all of the main characteristics of the early lex-
+ical corpus. Word List C is not a lexical list of words on a par with
+the list of professions (Lu A) or the list Metals. It should be noted,
+however, that there are other non-thematic early lexical texts and
+some of them may share features with Word List C: the list Plants
+(which contains many plant names, but also includes sections on time
+indications and other topics) and the list Grain, which lists a variety
+of foodstuffs but also includes a section on numbers.3
+3 On Plants and Grain, see Englund (1998:95 and 98 with further literature). Both
+texts are badly represented in the archaic record so that most of our understand-
+ing of these compositions derives from third millennium parallels.
+     183
+Tribute
+The title Tribute was introduced by the Berlin team (M. Green,
+H. Nissen, and R. Englund) in their publications on the archaic sign
+list (Green and Nissen 1987) and on the archaic lexical lists (Englund
+and Nissen 1993). The title is based primarily on the word gu or
+2
+gun (tax), which appears at two places in the text in what may be
+2
+understood as explanatory interpolations, since both lines are absent
+in the archaic version.
+The word gu occurs in the final section of the text in the ED
+2
+and OB versions in a well-known expression (“ag gu -bi nam-gi )
+4 2 4
+that has nothing to do with taxes, but means “rising of the flood.”4
+The other passage where the word gu appears is found only in the
+2
+Old Babylonian version, where it comes after the long list of ani-
+mals and commodities (O.B. version lines 32a and 58a):5
+“ag nam-gu “um
+4 2 2
+Sumerian nam-gu means “oppression,” or “wrongdoing” rather than
+2
+“tribute.” In third millennium legal context nam-gu -“e ...ak refers
+2 3
+to wrongful appropriation, in particular of inheritance. The expres-
+sion usually follows a list of commodities and identifies the agent of
+the sentence as the wrongdoer (with the victim in the dative).6 Whether
+this has anything to do with our line remains uncertain, but the fact
+that it is found at the end of a list of commodities is suggestive.
+The interpretation of the two lines that contain the sign GU as
+2
+referring to tribute, therefore, has to be rejected in one case (in the
+expression “ag gu -bi nam-gi ) and lacks sufficient supporting evidence
+4 2 4
+in the other. Moreover, both passages are missing from the Archaic
+text, so that they may explain to us the way in which ED and OB
+scribes understood this text—but we cannot be certain that this accu-
+rately reflects the original contents and function of the composition.
+4 See the discussion of line 76 in the ED version below section 3.3 and Englund
+(1998:99 with n. 222).
+5 These lines appear in the unpublished fragment Ni 1597 and are quoted in
+Englund and Nissen (1993:25).
+6 References in Wilcke (2003:44 n. 107).
+184  
+Literature
+The idea that Sumerian Word List C may represent the earliest piece
+of literature was put forward in detail by Englund (1998:99) and is
+based first of all on the wholesale repetition of a considerable portion
+of the text. This, indeed, is an important characteristic of narrative
+and hymnic texts. In narrative, repetition may be used to relate a
+dream, followed by the dream come true (e.g. The Death of Gilgame“),
+or to give instructions to a messenger, followed by the messenger
+actually delivering his message (e.g. Enmerkar and the Lord of Aratta).7
+In certain types of hymns refrains are repeated at more or less reg-
+ular intervals, as in ”ulgi B. In the present case the repeated section
+is a list of animals and commodities, and this is neither a hymnic
+refrain nor an example of narrative repetition.
+Another piece of evidence that has been adduced to support the
+literary interpretation is the appearance, in some sources, of the sign
+UD in the first and second line of the archaic version. This may be
+understood as a temporal indication—“when”—which is very com-
+mon in introductions to Sumerian literary texts. However, such use
+of the sign UD is not otherwise known in the archaic record, and
+later versions of the composition omit this element.
+Short of actually understanding the contents of the text, and noone
+has claimed to have achieved this, it is hard to support the literature
+theory. The main problem with this hypothesis, however, is that it
+is completely out of context. Archaic writing was a semiotic system
+that represented transactions and prognostications rather than language.
+This system existed alongside of language and borrowed elements
+(in particular nouns and names) from this language, but did not rep-
+resent it anymore than old-fashioned DOS commands such as dir
+/p (directory, one screen at a time) represent English. The syntax
+of this system is largely provided by tablet layout rather than by lin-
+guistic means (Green 1981). The raw material of literature is language—
+patterned or heightened language. Nothing in the archaic record
+prepares us for expecting literature—except that we, modern readers,
+easily associate writing with a story, or at least with connected text.
+For the time being, therefore, the narrative hypothesis has to be laid
+aside as improbable.
+7 Vanstiphout (1992).
+     185
+Secret Lore
+Finally we have to discuss Joan Westenholz’s interpretation of our
+composition as secret lore (Westenholz 1998). This proposal is based,
+first, on her understanding of the introduction (lines 1–2), which she
+tentatively translates as “(When) counsel (was) first given, (when) the
+abrig (...) sage brought the secret lore....” Second, Westenholz
+bases her interpretation on an explanation of the entire archaic lex-
+ical corpus as a representation of the divine order. The lexical lists,
+according to Westenholz, are far too extensive, and contain far too
+many words to be explained by the needs of scribal education. The
+great majority of the words in the archaic lexical series in fact never
+appears in administrative documents. The word lists, according to
+Westenholz, give a complete inventory of all the words in a given
+area of reality; ultimately they are theological or cosmological in
+nature, since they provide every element of reality with its own name.
+The name of a thing represents its nature, and thus the lexical texts,
+by providing a complete list of names for everything not only rep-
+resent the proper order of the world, but also make it possible to
+affect the world by magical means (Westenholz 1998:453).
+Westenholz’s hypothesis suffers from the same weakness as the lit-
+erature theory: the character of the archaic writing system seems ill
+suited for recording secret lore. The idea that the lists are theolog-
+ical in nature and describe the order of the world goes back at least
+to Von Soden’s famous “Leistung und Grenze sumerischer und baby-
+lonischer Wissenschaft,” (Von Soden 1936). Although Oppenheim
+(1977:248) protested against “such a quasi-mythological concept as
+Ordnungswille” (according to Von Soden a defining element of the
+Sumerian mentality), von Soden’s approach continues to enjoy a
+broad popularity in Assyriology. I have written about Von Soden’s
+essay elsewhere (Veldhuis 2004:81–2), and I will restrict myself here
+to the interpretation of the archaic lexical texts—a group of texts
+that he had hardly access to. A brief analysis of the archaic corpus
+will demonstrate that a cosmological interpretation is untenable.
+186  
+The Archaic Lexical Corpus
+Overview
+The archaic lexical corpus (Englund and Nissen 1993) includes thir-
+teen compositions that are attested in multiple copies, most of which
+still are also attested in the Early Dynastic period and even as late
+as Old Babylonian.8
+Title Number of Exemplars
+Lu A (professions) 185
+Vessels (and Garments) 91
+Tribute (Sumerian Word List C) 56
+Metal 55
+Cattle 24
+Officials 23
+Fish 22
+Wood 30
+Cities 17
+Geography 12
+Grain (Sumerian Word List D) 9
+Birds 6
+Plants 5
+In addition, there are quite a few archaic tablets and fragments that
+are of a similar nature but do not belong to a standardized com-
+position and may represent ad-hoc exercises.
+The table shows that the distribution is very uneven: Lu A (a list
+of professions) is by far the most frequent; the text that interests us
+here comes in as a good third. The archaic lexical corpus is sometimes
+described as a coherent corpus of thematic word lists, but the facts
+are a little more complicated. The lists Lu A, Metal, Fish, Wood, Cities,
+and Birds are proper thematic lists that may provide a complete
+inventory of the semantic field at hand. The Officials text includes
+personal names as well as names of professions, and may be understood
+8 The numbers and the labels are taken from Englund (1998:88); see also Englund
+and Nissen (1993:12). The numbers require some adjustment because of the dis-
+covery of several additional exemplars, but since these new copies do not change
+the overall picture, they have been ignored here. Not included in the overview is
+the list Pigs, because the two extant copies do not reflect a standardized text (see
+Englund 1998:94 with earlier literature).
+     187
+as a thematic list only in a weak sense (indications of persons). The
+list Vessels and Garments includes a section that seems to play with
+the basic idea of a compound sign—a sign inscribed within another
+sign—and is therefore organized, in this section at least, by graphemic
+rather than by semantic criteria (Krispijn 1992). The list Cattle has
+a standard set of twenty-four attributes that qualify four different
+words for bovines, so that the density of information is much lower
+here than in most other lists. Several compositions, including Word
+List C, Grain, and Plants, despite their conventional labels, have hardly
+any thematic organization at all.
+The archaic lists were used as instruments to teach the newly
+invented accounting system, yet their contents suggest that they are
+also something else. The most frequent list, the list of professions Lu
+A, contains about 140 entries, very few of which are ever encoun-
+tered in contemporary accounts. The same holds true for the other
+lists. The numerous complex signs in Vessels, consisting of the sign
+for container inscribed with the sign for some commodity, are rarely,
+if ever, attested outside of the lexical corpus. In other words, the
+lexical corpus contains many words and signs that seem superfluous
+and cannot be explained by the immediate necessities of education.9
+The cosmological or theological interpretation of this apparent lack
+of fit between the lexical and the administrative corpus is untenable
+because, as one may see in the list above, many essential elements
+of any cosmology are missing, such as gods, stars, rivers, mountains,
+and wild animals. At the same time, a list of vessels and garments—
+including many apparently newly created signs—seems oddly out of
+place in a theological corpus.
+It is necessary, therefore, to find another way of explaining the
+incongruous relationship between the thematic lists and the admin-
+istrative texts. To do so, we have to look in more detail at the sur-
+viving records.
+Nouns, Numbers, and Days
+In his overview of the archaic text corpus Bob Englund (1998)
+identified five administrative “offices:” fisheries; domesticated animals
+and animal products; labor organization; grain and grain products;
+9 It should be noted, though, that such incongruence between teaching tools and
+actual writing practice is a constant throughout the history of cuneiform education.
+188  
+and fields. Each of these “offices” deals with a specific set of goods
+and uses characteristic numerical systems. Fishermen not only deliver
+fish, but also other marsh products, including wild boar and birds.
+The animals office deals with the accounting of sheep, goats, cows,
+and pigs, but also with milk and textiles. The grain office is respon-
+sible for beer production. A smaller group of administrative texts
+deals with metal objects (see W 13946,a; W 13946,b; W 13946,d;
+W 13946,n; and several other texts in the W 13946 group; W 14265).
+In addition to such commodities, the archaic accounts include ref-
+erences to persons, times, and places. There is a rough match between
+the types of words needed in the accounts and those listed in the
+lexical corpus:
+Subject Lexical Text (Conventional Label)
+numbers “grain” (Word List D)
+grain and grain products “grain” (Word List D)
+fish fish
+birds birds
+domestic animals animals
+wood and wood products wood
+dairy products vessels
+containers vessels
+textiles vessels
+metals metals
+persons Lu A; officials
+place names cities
+time indications “plant”
+The match is not exact. The archaic corpus uses many different
+kinds of number systems; almost none of those appear in the lexi-
+cal corpus. Personal names and the names of gods do not appear
+in the lexical texts, although a small number of personal names may
+appear in the Officials list. There are two exemplars of a Swine list,
+but they are not duplicates of each other, and therefore it appears
+that there is no standardized lexical composition concerning this sub-
+ject. Nevertheless, the correspondence is close, even the more so
+when one considers the negative evidence. Wild animals, stars, and
+rivers are of little use in this administrative system and they are
+absent from the lexical texts. These compositions do contain many
+words and signs that are not otherwise attested, but the categories
+of words represented match the administrative corpus very well.
+     189
+The Urge to be Complete
+The archaic lexical lists seem to display a drive to be complete, to
+include every possible item in a certain category—even if it was
+entirely useless within the administrative system of the time. Rather
+than postulating a specific Sumerian character trait or mentality, we
+may explain the appearance of the archaic corpus in more practical
+terms. Creating a true system cannot be done bit by bit—the whole
+needs to be functional from the start and therefore it must be able
+to accommodate all possibilities.10 Writing is an excellent example.
+An alphabetic system cannot be developed letter by letter; the idea
+becomes useful only once the whole set of characters is in place.The
+same holds true for an administrative system. A bookkeeping soft-
+ware package that can perform all but one of the basic bookkeeping
+functions is entirely useless. Those who designed the archaic book-
+keeping system went for even the remotest possibilities. All these
+officials that never took charge of deliveries were still listed in Lu
+A—because once upon a time they might. The drive to be complete,
+therefore, has a very practical background in the need to designsome-
+thing entirely new. We may again invoke the parallel with a software
+package here. Most of us only use a few pages of any software man-
+ual—the great majority of the options are obscure and very rarely
+used. The manual, however, must be complete, and by necessity lists
+them all.
+At the same time, the people who created the archaic lists may
+well have enjoyed the idea of inventing signs for as many birds or
+fish as they could think of. In other words, there is an intellectual
+and speculative background to the archaic lexical lists, although the
+intellectual effort builds on the needs of an administrative system,
+not on theology. It has been convincingly argued that Lu A represents
+a full inventory of the administrative hierarchy of Uruk, with the
+highest official heading the list (most recently Englund 1998:103–6).
+Apart from an administrative and intellectual relevance Lu A maythus
+also have an ideological background, and this may well account for
+the extraordinary number of copies found. The lexical texts, therefore,
+push the limits of this new administrative technique, accommodating
+for intellectual and ideological contents at least in some marginal
+way. To realize the full potential of intellectual and ideological uses
+10 That the archaic writing system was created ab ovo as a system (rather than
+being a gradual development from something else) has been argued for some time
+by Michalowski; see in particular Michalowski (1994).
+190  
+of writing, however, the cuneiform system needed the ability to
+represent language—a development that took several centuries to
+materialize.
+Sumerian Word List C
+We may now take a closer look at Word List C and try to understand
+how this composition fits in the world of archaic writing. Based on
+formal criteria, the text may be divided into three sections of unequal
+length. The first consists of a short and enigmatic introduction of
+just two lines, which was expanded to four in later versions. The
+middle section is formed by a long passage which lists quantities of
+animals, food items, and other commodities; this passage is repeated
+in its entirety, word for word, and sign for sign. The third section,
+finally, is another long passage that may contain words and expres-
+sions that refer to raw materials and to work on the land. Admittedly,
+this last section contains many items that are unintelligible, and may
+therefore include other themes as well.
+The Introduction
+The introduction may well provide explicit clues to the meaning and
+function of the composition, but it is frustratingly laconic and opaque.
+In the archaic version the introduction takes only two lines, and
+there is some variation among the sources (W15895, bb):
+SAGˆ KI AD
+a a
+HAL ABRIG AD
+a
+Several sources add UD in one or in both lines. Some scholars have
+ventured the hypothesis that UD introduces “when” clauses (see sec-
+tions 1.3 and 1.4), but we lack the parallels in the archaic corpus
+to support such an interpretation. The word abrig is known from
+lists of professions and is used in later Sumerian for a purification
+priest. The ED version is only slightly better comprehensible:
+ad-gi
+4
+ki-sa@
+ad-hal
+abrig
+     191
+The word ad-gi means “counsel;” ad-hal = “secret,” and ki-sa@ may
+4
+stand for sa@-ki = “rites.” Unfortunately, none of our sources places
+these words in a meaningful sentence, and we have no checks to
+confirm that these isolated words indeed meant in the archaic period
+what they meant more than a thousand years later. Joan Westenholz’s
+translation of these lines (see above 1.4) may be right or not—we
+simply cannot say.
+The List of Commodities
+The introduction is followed by a list of animals, fish, herbs, eggs
+and other commodities, with indications of quantities (lines 3–26, or
+5–28 in the post-archaic versions). Where understandable, the entries
+are directly related to food and food producing animals. Many of
+the items are relatively well understood, because the words appear
+in other archaic contexts as well. Here is a brief passage:
+18 10 ga 10 units of milk
+b
+19 10 gara 10 units of cream
+2a
+20 10 ab 10 cows
+2
+21 1 gud 1 bull
+22 10 u 10 ewes
+8
+23 1 utua 1 ram
+b
+The list of commodities is followed by four lines that may be inter-
+preted as names of professions:
+27 ku“ (I” ) steward
+7 b
+28 nar singer
+29 UB ”AG barber?
+4a1
+30 @ar ?
+The interpretation and reading of these lines remains provisional and
+is based on the comparison with later versions (ED):
+29 ku“ steward
+7
+30 nar singer
+31 @ar ?
+32 kinda SAHAR “ag barber,....
+2 4
+In at least one of the archaic sources (W 20266,117) the last two
+lines are inverted, as they are in the ED sources, and at least two
+archaic sources have line 29 as ”AG URI, where URI is identical
+4a1
+to kinda in the ED version. The ED entry may be compared to
+2
+192  
+ˆ
+ED Lu B (= SF 70) 30: kinda SAHAR GAR. In the Old Babylonian
+2 2
+version “ag (archaic 29/ED 32) is expanded to “ag nam-gu “um
+4 4 2 2
+(32a).11 This line, which may function as a kind of subscript andmay
+contain some indication of how Old Babylonian scribes interpreted
+the text, is unfortunately unclear (see the discussion above §1.2).
+The list of commodities and officials(?) is repeated line by line
+(31–58). The Old Babylonian version has again the additional line
+“ag nam-gu “um (60a).
+4 2 2
+The Final Section
+The final section consists of some thirty lines; many of these lines
+seem to refer to plants or other agrarian products, but there are no
+numbers—except, perhaps, for “ar (1 N ) in 59–60:
+2 45
+59 “ar ki
+2 a
+60 “ar ki ki
+2 a a
+Lines 61–66 may contain words for raw materials, including wood,
+plum (“ennur), reed, and rushes(?), followed by the name of a temple
+or administrative center (e piri@ ug (EZEN)-ga “house of the exalted
+2 x
+lion;” this interpretation is again based on ED and O.B. versions).12
+In 68–94 (end of text) the later versions suggest that this section
+deals with work in fields, ditches, etc., as the following passage may
+show (ED version 74–80; Archaic version 72–76):
+ED Archaic
+74 al-tar 72 gi al [...]
+75 al-tar gana
+2
+76 “ag gu gi ø
+4 2 4
+77 pa 73 A
+78 pa 5 lum(ZU&ZU.SAR)13 74 A SAR ¢GˆI”?Ü[...]
+5 x
+79 @i“ 75 @i“
+80 @i“apin sur(EREN)14 76 apin sur(EREN)
+x 2 x 2
+11 The line appears in Ni 1597 (joins SLT 42), quoted in Englund and Nissen
+(1993:25 with n. 49).
+12 This reading is indicated by the Schøyen text, which reads e piri@u(EZENxAN)
+confirming the Old Babylonian e piri@ u. Both Fara sources r 2 ead e 9 piri@ EZEN-
+2 2
+ga. For ED ug = exalted see Cohen (1976).
+13 For lum(Z 5 U.SAR) see Krebernik (1998:275).
+x ZU
+14 For this reading of EREN see Steinkeller (1990).
+2
+     193
+The passage includes words about hoeing (ED 74–75), ditches (ED
+77–78) and plow teams (ED 80). Line ED 76, which has no parallel
+in the archaic version, may refer to a time of the year—spring
+floods—when work on the ditches was to be performed.15
+The final ten lines are duplicated by the first ten lines of the ED
+version of the Plants list (SF 58 and parallels, not preserved in archaic
+duplicates). The connection between Word List C and the Plants list
+is perhaps confirmed by the fact that one archaic tablet contained
+both (W 20266, 44), but other examples of such combinations are
+known.16 The penultimate line of the archaic version (93) may be
+read sanga sar.17 In the Early Dynastic version, which in this sec-
+2
+tion differs in quite some details from the archaic text, this becomes
+the final line (97). The verb sar is used in colophons in texts from
+Fàra and Abu Salabikh for “to write” (see Biggs 1974:33–35 and
+Krebernik 1998:325–33) and this may well be how Early Dynastic
+scribes interpreted this final line (“written by the purification priest”).
+It is unlikely, however, that this is the actual meaning of the archaic
+text. First, sar is not known in this function in archaic documents.
+Second, BAD SUG (Archaic 91) and sar sanga (Archaic 93) are
+2
+known from the “Figure aux Plumes” in what seems to be a list of
+field names (see Gelb et al. 1991:67),18 and this may be a likely inter-
+pretation for the final section of our text as well.
+An Elementary Exercise
+The difference between the thematic archaic lexical lists and Word
+List C is not only found in formal characteristics, such as the use of
+numbers and the repetition of a passage, but also, and more impor-
+tantly, in the relevance of this exercise for writing actual adminis-
+trative records. Where texts such as Lu A and Fish may be compared
+to the exhaustive manuals of a software package that document every
+obscure feature of the program, Word List C is more like a quick
+reference guide, concentrating on frequently used elements of the
+15 For the expression “ag gu gi, “flood,” a common metaphor for abundance,
+4 2 4
+see most recently Steinkeller (2004a:143).
+16 For instance W 11986,a which contains Lu A and Metals.
+17 The ED versions have sanga (LAK175) sar. For LAK 175 = sanga see
+2 2
+Krebernik (1998:283), with earlier literature. For the archaic sign (“”AGAN”) and
+its reading see Steinkeller (1995:708–9).
+18 See also Wilcke (1995).
+194  
+system such as animals, numbers, foodstuff, and the terminology for
+work in the fields. It is instructive to look at the numbers in Word
+List C, which appear exclusively in the repeated section, the list of
+commodities.
+3 5 LAGABxNAGA 5 units of salt(?)
+4 5 gazi 5 units of mustard
+5 5 LAGABxNE.E 5 units of ?
+2
+6 5 uz 5 ducks
+a
+7 5 ma“ si 5 ?
+4a
+8 10 TU 10 TU animals19
+9 10 gukkal 10 gukkal sheep
+10 1 KAL ab 1 milk(?) cow20
+a 2
+11 1 amar ga 1 suckling calf
+b
+12 10 SUHUR 10 ?
+13 10 KAR 10 ?
+2a
+14 3 KAD 3 ?
+4b
+15 3 ZATU612 3 units of cereal dish21
+16 4 an-@ir 4 metal knives(?)
+2a
+17 10 an“e da 10...donkeys22
+18 10 ga 10 units of milk
+b
+19 10 gara 10 units of cream
+2a
+20 10 ab 10 cows
+2
+21 1 gud 1 bull
+22 10 u 10 ewes
+8
+23 1 utua 1 ram
+b
+24 10 ud 10 goats
+5a
+25 1 ma“ 1 billy goat
+2
+26 61 mu“en nunuz?-a23 61 eggs?
+19 TU is a domestic animal, not a dove. See Sumerian Word List D (MEE 3 172–3),
+line 61 and 84 where TU appears immediately before gukkal, as is the case here.
+20 The interpretation is based on the OB parallel which has ab ga gu-e“ (see
+2 7
+Green and Nissen 1987:228).
+21 The ED texts read LAK 384, (to be read uz?), which indicates some food
+x
+product, perhaps a dish of cereal products (see Civil 1983 for an extensive discus-
+sion of this sign).
+22 For the identification of the sign (ZATU 297) as AN”E (instead of KI”) see
+Steinkeller (2004b:179). The Old Babylonian text has ¢xÜ da-ri-a.
+23 The sign read nunuz here was read BALA in ATU 3. In W 21208, 2 (Plate
+a
+51) the sign is a true BALA; in W 20266,66 (Plate 50) it may well be NUNUZ,
+in other sources the sign is broken (for archaic NUNUZ see Steinkeller (1995:706–7).
+     195
+While much is uncertain or speculative here, this list will do verywell
+to engrain the correct writing of the basic numbers 1, 10, and 60
+and their differences and given the importance of that skill it makes
+a lot of sense to repeat the whole passage. Word List C allowed the
+student to combine numbers with nouns in what appear to be real-
+istic example entries. Most interesting is the last item in the passage
+quoted above, which perhaps means “61 eggs.” Later versions of the
+text have 71 nuz kad mu“en “71 eggs of the kad bird” (an unidentified
+4 4
+bird).24 In cuneiform, the significance of the number 71 is immedi-
+ately clear: it is the combination of the three most basic number
+signs in the sexagesimal system: 60 + 10 + 1. The archaic text reads
+61, combining only two such signs—one variant exemplar (W 21208,
+2), however, sides with the later versions and has the number 71.
+The number was chosen for its instructional value.
+The archaic writing system is an administrative tool, and therefore,
+numbers and number writing are crucial for anyone who needs to
+learn how to use it. Archaic metrology is very complex, using five
+basic systems and several derived ones. In spite of their complexity
+and importance, numbers are not treated to any large extent in the
+archaic lexical corpus. The Word Lists C and D (Grain) pay some
+attention to numbers, but this stands in no relation to the significance
+of number writing in archaic record keeping. To some extent this
+may be explained by the very importance and ubiquity of numbers.
+The metrological systems that seem so complicated to the modern
+observer presumably were in common use and familiar to everybody—
+even those outside the circles of scribal specialists. Numbers are not
+difficult to draw, they are rather straightforward in design, and their
+proper use was easier to learn through accounting exercises (several
+of which have been identified) than through lists (see further Englund
+1998:106–10).
+In contrast to the thematic lists, Word List C is an exercise that
+remains relatively close to the practice of archaic writing. Among
+the frequently attested lists (Lu A, Vessels, Word List C, Metal) it is no
+doubt the one with the most practical relevance. Far from being lit-
+erature or secret lore, Word List C is an exercise in elementary admin-
+istrative skills.
+24 See Veldhuis (2004:241–2).
+196  
+The Later History of Word List C
+Word List C became part of the main stream of the lexical tradition
+in the third millennium and was still known in Ur III and Old Baby-
+lonian Nippur. Copies of the list have been found in the Mesopotamian
+heartland (Fara, Abu Salabikh) as well as in Syria (Ebla) in EDtimes.
+Interpolations in the text may reflect the attempts of the scribes to
+make sense of a composition that must have been rather opaque to
+them.
+The single extant Old Babylonian copy is written on a small six-
+sided prism, identical in size and shape to a contemporary prism
+that contained ED Lu A.25 The two no doubt belong together, and
+may have been the proud possession of a Nippur scholar. Lexical
+texts in Nippur first of all served scribal education, witnessed by the
+thousands of lexical exercise tablets. These two prisms, however, are
+hardly school texts. They are more likely written by an accomplished
+scribe who copied these enigmatic texts to appropriate part of an
+ancient tradition, a chain of knowledge that went back all the way
+to the invention of writing.
+Without changing much in its actual wording Word List C came
+a long way from an elementary exercise in the archaic period to a
+piece of venerated traditional knowledge in the Old Babylonian
+period. While this is a remarkable career, it is by no means exceptional.
+In the history of cuneiform several lists that were originally designed
+as primers became bearers of venerable or speculative knowledge. A
+first example is Syllable Alphabet A, an elementary exercise which prob-
+ably goes back to the Ur III period,26 and which consists of basically
+meaningless syllable combinations. It is one of the very few exercise
+texts that was rigidly standardized in all Old Babylonian scribal cen-
+ters. In the Old Babylonian and Middle Babylonian period it was
+provided with speculative translations in Akkadian—apparently inspired
+by its enigmatic contents (see Farber-Flügge 1999). Second, Sa—an
+elementary sign list used in the Sippar area in the Old Babylonian
+period (see Tanret 2002)—was used later on to organize a variety
+25 For a photograph of both prisms side by side see Veldhuis (2004:92 and pl.
+35). Both prisms are broken; the pieces ended up in Philadelphia and Istanbul. The
+ED Lu A piece is CBS 7845 (SLT 113) + Ni 1600 + Ni 2528 (see Veldhuis and
+Hilprecht 2003–2004).
+26 A probable Ur III exemplar is MVN 6 4 (transliteration only).
+     197
+of scholarly data, including the mysterious lists that link a sign with
+a number (Pearce 1996). Again, the erstwhile elementary school books
+have turned into the speculative tools of a scholar.
+Archaic cuneiform was not a tool for writing poetry or narrative.
+It was an administrative tool with extraordinary flexibility—the poten-
+tial of which went far beyond the wildest imagination of its inventors.
+198  
+APPENDIX
+Sources
+The archaic sources of Sumerian Word List C are all published and
+edited in Englund and Nissen (1993:112–20).27 The Early Dynastic
+and later sources known by the time were edited by Pettinato in
+MEE 3 (1981), 155–165. More recent lists of sources appeared in
+Englund and Nissen (1993:25note49)and Krebernik (1998:338,under
+SF 12). A newly identified source is MS 2462 (Schøyen collection);
+for convenience a full list, excluding the archaic sources, follows:
+ED III Fara SF 12; TS” 264 + SF 13
+Abu-Salabikh OIP 99 402?; 459; 465; AbS 2545
+(Iraq 52 Pl. XV)
+Ebla MEE 3 47
+Unknown Schøyen MS 2462
+http://www.nb.no/baser/schoyen/
+Pre-Sargonic Unknown MVN 3 15
+Ur III Nippur 6 N-T 676 (unpublished)
+Old Babylonian Nippur SLT 42 + Ni 1597 (unpublished)
+References Cited
+Biggs, Robert D.
+1974 Inscriptions from Tell Abù Íalàbìkh. OIP 99. Chicago: The University of
+Chicago Press.
+Civil, Miguel
+1983 The Sign LAK 384. OrNS 52:233–40.
+Cohen, Mark E.
+1976 The Name Nintinugga with a Note on the Possible Identification of Tell
+Abu Salabikh. JCS 28:82–92.
+Englund, Robert K.
+1998 Texts from the Late Uruk Period. Pp. 15–233 in Mesopotamien. Späturuk-
+Zeit und Frühdynastische Zeit. Annäherungen, eds. P. Attinger and M. Wäfler.
+OBO 160/1. Fribourg: Universitätsverlag.
+Englund, Robert K., and Hans J. Nissen
+1993 Die lexikalischen Listen der archaischen Texte aus Uruk. ATU 3. Berlin: Gebr.
+Mann.
+27 See now the Digital Corpus of Cuneiform Lexical Texts, http://cuneiform.
+ucla.edu/dcclt.
+     199
+Farber-Flügge, Gertrud
+1999 Kleiner Leitfaden zum Silbenvokabular A. Pp. 117–33 in Munuscula
+Mesopotamica. Festschrift für Johannes Renger, eds. B. Böck, E. Cancik-
+Kirschbaum, and T. Richter. AOAT 267. Münster: Ugarit-Verlag.
+Gelb, Ignace J., Piotr Steinkeller, and Robert M. Whiting
+1991 Earliest Land Tenure Systems in the Near East. Ancient Kudurrus. OIP 104.
+Chicago: The Oriental Institute of the University of Chicago.
+Green, M. W., and Hans J. Nissen
+1987 Zeichenliste der archaischen Texte aus Uruk. ATU 2. Berlin: Gebr. Mann.
+Green, M. W.
+1981 The Construction and Implementation of the Cuneiform Writing System.
+Visible Writing 15:345–72.
+Krebernik, Manfred
+1998 Die Texte aus Fàra und Tell Abù Íalàbìh. Pp. 237–427 in Mesopotamien.
+Späturuk-Zeit und Frühdynastische Zeit. Annäherungen 1. eds. Pascal Attinger
+and Markus Wäfler OBO 160/1. Fribourg: Universitätsverlag.
+Krispijn, Theo J. H.
+1992 The Early Mesopotamian Lexical Lists and the Dawn of Linguistics.
+JEOL 32:12–22.
+Ludwig, Marie-Christine
+1990 Untersuchungen zu den Hymnen des I“me-Dagan von Isin. SANTAG 2. Wiesbaden:
+Otto Harrassowitz.
+Michalowski, Piotr
+1994 Writing and Literacy in Early States: A Mesopotamianist Perspective. Pp.
+49–70 in Literacy: Interdisciplinary Conversations, ed. D. Keller-Cohen. Cresskill:
+Hampton Press.
+Nissen, Hans J.
+2004 Die Verwendung der Schrift im frühen Babylonien. Pp. 217–20 in Von
+Sumer nach Ebla und zurück. Festschrift Giovanni Pettinato zum 27. September
+1999 gewidmet von Freunden, Kollegen und Schülern, ed. H. Waetzoldt. HSAO
+9. Heidelberg: Heidelberger Orientverlag.
+Oppenheim, A. Leo
+1977 Ancient Mesopotamia. Portrait of a Dead Civilization. Revised Edition Completed
+by Erica Reiner. 2nd ed. Chicago: The University of Chicago Press.
+Pearce, Laurie E.
+1996 The Number-Syllabary Texts. JAOS 116:453–74.
+Steinkeller, Piotr
+1990 The Value sur of ÉREN in Third Millennium Sources. N.A.B.U.1990/12.
+x
+1995 Review of M. W. Green and Hans J. Nissen, Zeichenliste der archaischen
+Texte aus Uruk. ATU 2. Berlin 1987. BiOr 52:689–713.
+2004a A Building Inscription of Sin-iddinam and Other Inscribed Materials
+from Abu Duwari. Pp. 135–52 in The Anatomy of a Mesopotamian City:
+Survey and Soundings at Mashkan-shapir, eds. E. C. Stone and P. Zimanski.
+Winona Lake: Eisenbrauns.
+2004b Studies in Third Millennium Paleography, 4: Sign KI”. ZA 94:175–85.
+Tanret, Michel
+2002 Per aspera ad astra. L’apprentissage du cunéiforme à Sippar-Amnanum pendant la
+période paléobabylonienne tardive. MHET I/2. Ghent: University of Ghent.
+Vanstiphout, Herman L. J.
+1979 How did they Learn Sumerian? JCS 31:118–26.
+1992 Repetition and Structure in the Aratta Cycle: Their Relevance for the
+Orality Debate. Pp. 247–64 in Mesopotamian Epic Literature. Oral or Aural,
+eds. M. E. Vogelzang and H. L. J. Vanstiphout. Lewiston: The Edwin
+Mellen Press.
+200  
+Veldhuis, Niek C.
+2004 Religion, Literature, and Scholarship: The Sumerian Composition “Nan“e and
+the Birds,” With a Catalogue of Sumerian Bird Names. CM 22. Leiden:
+Brill-STYX.
+Veldhuis, Niek C., and H. V. Hilprecht
+2003–2004 Model Texts and Exercises from the Temple School of Nippur: BE
+19. AfO 50:28–49.
+Von Soden, Wolfram
+1936 Leistung und Grenze sumerischer und babylonischer Wissenschaft.
+Die Welt als Geschichte 2:411–64 and 509–57. Reprint, with B.
+Landsberger, Die Eigenbegrifflichkeit der babylonischen Weltin: Sonderausgabe
+Wissenschaftliche Buchgesellschaft, Darmstadt (1965).
+Westenholz, Joan
+1998 Thoughts on Esoteric Knowledge and Secret Lore. Pp. 451–62 in
+Intellectual Life of the Ancient Near East. Papers Presented at the 43rd Rencontre
+assyriologique internationale Prague, July 1–5, 1996 ed. Jirˇi Prosecky´.
+Prague: Academy of Sciences of the Czech Republic. Oriental
+Institute.
+Wilcke, Claus
+1995 Die Inschrift der “Figure aux plumes”—ein frühes Werk sumerischer
+Dichtkunst. Pp. 669–74 in Beiträge zur Kulturgeschichte Vorderasiens:
+Festschrift für Rainer Michael Boehmer, eds. U. Finkbeiner, R. Dittmann
+und H. Hauptmann. Mainz am Rhein: Philipp von Zabern.
+2003 Early Ancient Near Eastern Law. A History of its Beginnings. The Early
+Dynastic and Sargonic Periods. SBAW 2003/2. Munich: C. H. Beck.
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

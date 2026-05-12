@@ -1,0 +1,637 @@
+# METADATA
+author: Veldhuis N.
+source_id:Veldhuis2013_PurityAndA
+title: Purity And Access: A Catalog Of Lexical Texts Dedicated To Nabû
+Year: 2013
+Source_ID:  Veldhuis2013_PurityAndA
+Source_Type:  Article in Book:Journal of Cuneiform Studies, Vol. 65
+Source_Role,Step_distance: 2 ,3,4 
+Pages: 169-180
+Web: 
+
+# TEXT
+
+PURITY AND ACCESS: A CATALOG OF LEXICAL TEXTS DEDICATED TO NABÛ
+Author(s): Niek Veldhuis
+Source: Journal of Cuneiform Studies, Vol. 65 (2013), pp. 169-180
+Published by: The American Schools of Oriental Research
+Stable URL: https://www.jstor.org/stable/10.5615/jcunestud.65.2013.0169
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+The American Schools of Oriental Research is collaborating with JSTOR to digitize, preserve and
+extend access to Journal of Cuneiform Studies
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:17:42 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+PURITY AND ACCESS: A CATALOG OF
+LEXICAL TEXTS DEDICATED TO NABÛ
+Niek Veldhuis (University of California, Berkeley)
+This article discusses a Late Babylonian school text from Babylon (CTMMA 2 65 = Gesche 2005) that lists on
+the obverse the opening lines of lexical texts, ranging from Ura to Nabnitu, with a dedicatory prayer to Nabû, the
+god of writing, on the reverse. The lexical catalog offers a complete overview of the entire lexical corpus of the
+time. The prayer invites a discussion of the educational, religious, and social context of the tablet and of scribal
+education in the Late Babylonian period.1
+Late Babylonian school exercises with a dedicatory prayer to Nabû are well known; they usually appear on large
+multicolumn exercise texts (Type 1), which represent the most elementary level of scribal education. Contents
+and layout of Type 1 school exercises have been discussed and described in full detail by Gesche (2001: 44–49 and
+61–171). The obverse of a Type 1 tablet is typically inscribed with sequences of DIŠ.AŠ.U (that is, the main com-
+ponents of cuneiform signs); sequences of A; and passages from the most elementary scribal exercises: Sa and Sb
+(signs only); Weidner God List; and Ura 1 and 2. The reverse of a Type 1 exercise may include various nonstandar-
+dized exercises (names, exercises in Akkadian orthography, etc.) and a dedicatory prayer, like the one in our text.
+More advanced Late Babylonian exercises are found on single-column practice tablets (Type 2) that are divided
+into small sections (4 to 7 lines) by horizontal rulings. Type 2 exercises typically contain short extracts from lite-
+rary and religious texts, followed by a sequence of extracts from lexical texts. Type 2 exercise tablets have also been
+studied by Gesche (2001: 49–52 and 172–98), distinguishing between several subtypes.
+In her edition, Gesche (2005: 257) demonstrated that CTMMA 2 65 belongs to a group of four Late Babylonian
+Type 1 exercises that share a number of unusual features. First, they are smaller than regular Type 1 tablets, with
+only one column of text on the obverse; second, they turn like the page of a book; and third, the exercises on the
+obverse do not follow the established patterns.2 Each of these has a dedication to Nabû on the reverse; the two best-
+preserved examples show that Nabû ša nikkassi, a Babylon manifestation of Nabû, was the recipient.
+1. CTMMA 2 65 Obverse: The Lexical Catalog
+In her discussion of CTMMA 2 65 (P412236), Gesche already suggested that the tablet may contain opening
+lines of advanced lexical series—the most obvious one being the final line: SIG₇.ALAN nab-ni-tu. Now that M.
+1. Most of the tablets referred to in this article are edited in the Digital Corpus of Cuneiform Lexical Texts (http://oracc.org/dcclt). The
+address of each tablet in DCCLT may be found through its six-digit P number, a unique identifier issued by the Cuneiform Digital Library
+Initiative (http://cdli.ucla.edu). For instance, the edition of CTMMA 2 65 (P412236) will be found at http://oracc.org/dcclt/P412236. That same
+page provides links to the catalog page in CDLI and to images, when available.
+2. The texts that Gesche identified as belonging to this group include CTMMA 2 65 and 66; BM 32620 (2001: 222–24) and BM 47882 (2001:
+330–31 and 2005: 264–65).
+169 JCS 65 (2013)
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:17:42 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+170 NIEk vELDhUIS
+Civil’s edition of Diri is available (MSL 15), as well as a full edition of Malku = šarru (hrůša 2010), it is evident that
+the tablet provides a full inventory of the entire lexical corpus of the time. My reading of CTMMA 2 65 is based
+upon the published copy by Ira Spar as well as collations by Francesca Rochberg, for which I am most grateful. The
+collations showed that Spar’s copy is very reliable.
+In the edition below, rows of asterisks represent rows of decorative wedges (a common feature of exercises
+with dedication to Nabû) that seem to be impressed at random places. The symbol ¶ represents the single vertical,
+which by convention introduces each line in the sign list Ea (lines 8–9).
+Obverse:
+1. [ĝeštaskarin t]as-ka-r[i-in-nu …] Ura 3 […]
+2. […] ⌈ĝešna⌉-mul ĝeštukul ši[ta? …] […] Ura 6; Ura 7a […]
+2
+3. [… uz]u muš na4ka-gi-na […] […] Ura 15; Ura 14; Ura 16 […]
+************
+4. […] nibruki kur a SISkUR lu sipad kA x […] […] Ura 21; Ura 22; Ura 23; Ura 24; Lu₂ 1; Lu₂ 2;
+2 2
+? […]
+5. [… s]u-la-a lugal-e šum-ma-nu erim-h[uš] […] Malku 3; Malku 4; Malku 5; Erimhuš 1
+************
+6. […] dag ĝišgal kU-me-AL-AL šu ĝar […] Erimhuš 3; Erimhuš 4; Erimhuš 5
+7. […] [le]-u? DUB SI.A SISkUR MA.DIM U.kUR.RA […] Erimhuš 6; Diri 1; Diri 2; Diri 3; Diri 4
+5 4 2
+8. […] AN.USAN ¶ A ¶ kAk ¶ PA […] Diri 7; Ea 1; Ea 2; Ea 3
+*************
+9. [… ¶ ŠU]M ¶ GAN AN a-u-um […] Ea 7; Ea 8; An = Anum 1
+10. […] GIŠGAL dlugal-ban-da […]; ?; An = Anum 5
+3
+*************
+11. […]-re dutu ĝeš-nu ?
+11
+**************
+12. SIG-ALAN nab-ni-tum Nabnitu 1
+7
+The text lists the opening lines of sequential chapters of Ura, Lu₂, Malku, Erimhuš, Diri, Ea, An = Anum, and
+Nabnitu, providing only the left column word of the incipit, except for the first and the last entry which are both
+bilingual. Thus line 4 of our text has […] nibruki kur a SISkUR lu sipad, which in a more conventional
+2
+arrangement would have looked like:
+nibruki ni-ip-pu-ru
+kur ša -du-u
+2 2
+a mu-u
+2
+lal 3 diš-pu
+3
+lu ša
+2 2
+sipad re-e -a-um
+2
+The enumeration of lexical incipits in CTMMA 2 65 follows the standard sequence of lexical texts in the Late
+Babylonian period, confirmed by the late Achaemenid lexical catalog from Uruk SpTU 4 186 (P274492) and by
+several other pieces of evidence.4
+3. CTMMA 2 65 has SISkUR instead of LAL₃; see below.
+4. For the dating see Clancier 2009: 396 and 58–59.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:17:42 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+A CATALOG OF LEXICAL TEXTS DEDICATED TO NABÛ 171
+The catalog SpTU 4 186 may be summarized as follows:
+obverse i obverse ii reverse i reverse ii
+[…] […] broken Nabnitu 7–29
+Ura 22–24 Aa Iv/1–Iv/5
+Lu₂ 1–2 Aa v/1–v/5
+Malku 1–5 Aa vI/1-…
+Erimhuš 1–7 (2 lines broken)
+(end of column)
+The main difference between the sequences of these two tablets is the replacement of Ea by Aa, but one could
+argue that Aa is simply an expanded version of Ea.
+The elementary exercises Syllabary A (Sa), Syllabary B (Sb), Weidner God List, and Ura 1–2 do not occur in
+either text. SpTU 4, 186 is broken at the beginning and so it is possible that they have to be restored; there is no
+space for such restoration in CTMMA 2 65.5 BM 32620 (P349414), one of the Type 1 tablets that were identified
+by Gesche as belonging to the same group as CTMMA 2 65, has on the obverse the opening lines of Sa, Sb 1, Sb 2,
+Weidner God List and Ura 1, 2, and 3. That is, with very little overlap BM 32620 provides all the elementary lists
+missing from CTMMA 2 65.
+The Neo-/Late Babylonian lexical corpus may thus be rendered schematically as follows:
+Syllabary A (Sa) sign list
+Syllabary B (Sb) 1–2 sign list
+Elementary Type 1 exercises
+Weidner God List traditional god list
+Ura 1–2 business expressions
+Ura 3–24 thematic lists Intermediate Type 2 exercises
+Lu₂ 1–2 list of professions
+Malku 1–5 Akkadian synonyms
+Erimhuš 1–7 word list
+Diri 1–7 compound signs Advanced Type 2 exercises (rare)
+Ea/Aa sign list
+An = Anum god list
+Nabnitu word list
+The order of the lexical compositions as established by the Babylon school text and the Uruk catalog is confir-
+med by several other pieces of evidence. A few type 2 school texts include sequences of extracts that continue from
+one series into another. These exercises confirm the following sequences: Ura – Lu ; Lu – Malku; Erimhuš – Diri
+2 2
+and Diri – Ea as follows: 6
+Text Provenance Exercise sequence
+BM 36417 (P349434); Gesche 2001: 254 Babylon6 Ura 24 Lu 1
+2
+UET 7, 127 (P347086) Ur Ura 20–24 Lu 1
+2
+5. A very small part of the upper edge is preserved (collation F. Rochberg).
+6. See Clancier 2009: 466.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:17:42 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+172 NIEk vELDhUIS
+U. 30948; hrůša 2010: Plate 407 Ur Lu₂ 2 Malku 1–4
+Ash. 1924-1421 (P349937); MSL 17, Plate 78 kiš Erimhuš 1–3 […] Diri
+[…] 3–4
+BM 46282; MSL 14, 173 S₁9 Babylon Diri 7 Ea 1–3
+789
+Among the counter examples that seem to suggest a different sequence are BM 36755 + 36844 (hrůša 2010:
+Plate 5; Babylon) which has an extract from Malku 2 and one from Ea 1 (lines 69ff.) and MSL SS 1 33 (kiš),10 which
+has Ura 17 followed by Lu₂ 1. BM 36755+ is (atypically) arranged in columns; the column to the left of the Malku
+2 extract remains unidentified. The school tablet from kiš is unusual, but does not constitute a real exception,
+because Type 2 exercise tablets do occasionally skip chapters of Ura.
+The sequence Erimhuš – Diri is further confirmed by the catchline in an unprovenanced Neo-Babylonian copy
+of the last tablet of Erimhuš (A 1595 = P388231; see MSL 17 80 text D).
+The Neo- or Late Babylonian lexical corpus thus reconstructed differs in several respects from its Neo-Assyrian
+counterpart. A number of lexical compositions that are well known from kuyunjik and other Neo-Assyrian tablet
+collections (Assur, Nimrud, Sultan Tepe) are missing from the list and those are, indeed, never found in Neo- or
+Late Babylonian exercises and only very rarely as (Babylonian) library exemplars. Those compositions include
+the Emesal vocabulary (rare in Babylonia),11 Antaĝal (very rare),12 acrographic lists (rare); Idu (absent), Lanu
+(absent); Igidu (absent); and the Practical vocabulary of Assur (absent). Murgud, the commentary to Ura, is the
+only exception to this rule. This composition does not appear in the Babylon exercise, nor in the Uruk catalog but
+is, in fact, well known in the tablet collections from Late Babylonian Uruk and Babylon.
+Another difference between Assyria and Babylonia is found in the placement and the extent of Malku. The
+Babylon text and the Uruk catalog agree that the two tablets of Lu are followed by five tablets of Malku. The Uruk
+2
+catalog lists the incipits of Lu₂ and Malku together in a single section, with subscript [7] DUB.MEŠ EME.MEŠ,
+“seven tablets of lišānāti.” The significance of EME.MEŠ here is not entirely clear (see Frahm 2011: 48 and 89), but
+the connection between Lu and Malku in the Late Babylonian period is confirmed by a Malku 3 copy from Uruk
+2
+that is designated in its colophon as “Tablet 5 of the series Lu = ša -a” (SpTU 3 120 = P274491). The Assyrian
+2 2
+versions of Malku are clearly different. The Nineveh edition had at least eight tablets; the Assur version probably
+had five, preceded by Igidu and the synonym list AN = šamû (hrůša 2010: 24–25).
+Another interesting divergence between Assyrian and Babylonian versions is found in the series Erimhuš. This
+text, as shown by colophons and catchlines, had seven tablets in both versions, but the order of the last two tablets
+differed.13 The Babylonian sequence is found in SpTU 4 186 i 14–21’:14
+erim-huš battle 1
+a-tar lal₂ to deride 2
+dag dwelling 3
+7. The number is given as U.30498 on p. 299 and elsewhere in the volume.
+8. See MSL 15 135 S₁₇. The final line is to be read [UD n ITI N]E es-h ̮e-[et]: “assigned on day n of the month Abu;” see Ludwig 2009: 241
+with earlier literature.
+9. See MSL 15, 196.
+10. Ashm 1924-1714 = P347756.
+11. Exceptions: VS 24 4 = P347124 (Babylon; MSL 4 11 B) and UM 29-15-134 = P228608 (Nippur; veldhuis 1996).
+12. Exception: VS 24 13 = P347132 (Babylon; MSL 17 150 F); see Pedersén 2005: 224 (195).
+13. The catchline at the end of the Middle Assyrian copy of Erimhuš 3 (vAT 5744 = P282337) has […] an-ta-šub = ša-na-du; no tablet
+with that incipit is known. This again suggests that the (Middle) Assyrian arrangement of Erimhuš may have been different from the one re-
+flected in SpTU 4 186 and CTMMA 2 65.
+14. The Erimhuš incipits in this catalog are listed in Sumerian only.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:17:42 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+A CATALOG OF LEXICAL TEXTS DEDICATED TO NABÛ 173
+kU-me-ur the extent of the land15 4
+šu ĝar to do a favor 5
+suku pole ?
+5
+li-u₅DUB tablet 6
+In Assyria the suku tablet followed after Tablet 6 (see MSL 17 88 catchline in text A16). In CTMMA 2 65 there
+5
+is a break between the incipits of Erimhuš 5 and 6 with space for the suku entry. No tablet that begins with suku
+5 5
+is known so far, but its existence is confirmed by a Late Babylonian Uruk copy of Erimhuš 5 (TCL 6 35 = P363707),
+which has a triple catchline (see MSL 17, 77 245a–c):
+suku ma-ša-h ̮u pole = to flare up/to measure
+5
+sur sa-ra-ru to squeeze = to flash/to drip
+šar-ra sa-ra-h ̮u splendid = to light up
+Incidentally, the passage is a nice illustration of how Erimhuš works. The three Akkadian verbs form a group
+of near synonyms (“to flare up, to flash, to light up”). however, Sumerian suku (pole) does not relate to mašāh ̮u
+5
+B, “to flare up,” but is to be associated with mašāh ̮u A (“to measure;” in particular for measuring fields), since
+measuring fields is done with a pole. Similarly, Sumerian sur (“to squeeze” or “to drip”) does not relate to sarāru
+B, “to flash,” (of shooting stars) but rather to sarāru A, “to drip.” What this passage makes clear is that the scholars
+who compiled this list did not distinguish between mašāh ̮u A and B or sarāru A and B; or rather that they did not
+care about such distinction, utilizing homonyms in order to increase the number of potential Sumerian–Akkadian
+associations.
+Unfortunately, the An = Anum entries that follow Ea in CTMMA 2 65 and may have been listed in the broken
+third column of the Uruk catalog, remain largely unclear. Although two of the entries clearly correspond to tablets
+1 and 5, the rest of the passage as clearly does not correspond to anything at all.
+2. CTMMA 2, 65: Reverse: Dedication to Nabû
+The reverse of CTMMA 2, 65 has a dedicatory prayer to Nabû. Since I have nothing to add, essentially, to Ges-
+che’s edition of that prayer, I reproduce her translation with slight modifications:
+[For Nabû (…) whom the Igigi gods] respect [most in the] entire [universe], […] the son of Ahu-banu … for his long
+life, for his acquiring wisdom, for his well-being and his health, for the fulfillment of his wishes, for enjoying a long
+life and for releasing the <anger> of god and goddess, he pinched off clay from the open country, from a pure place
+and wrote this tablet and placed it in the temple of Nabû-of-accounting, the house of his great lordship, in the gunnu
+for the porter17 of the Esagil temple. O tablet, when you enter, intercede [and pronounce] good things for PN,18 son
+of Bēl-balassu-iqbi of the family of […]. … To establish wide understanding and … the son who … his? tablet. May
+he bring it into your house.
+Dedications of this type are best known from Type 1 exercises from the Nabû ša harê temple at Babylon (Cavigneaux
+1981 and Cavigneaux 1999), but there are also very similar examples from Borsippa and Sippar (see, most recently,
+15. The translation renders the Akkadian (si-ḫi-ip ma-a-tu).
+2
+16. vAT 10262 + (P381866) = Cavigneaux 1980: 265–66.
+17. For the terms gunnu and kānik bābi in these dedications, see Cavigneaux 1999: 389–90 and George 2010: 276.
+18. Gesche 2005 read this name IĒdu(AŠ?)-ētir(kARir), but the copy has IDU?-kAR-NA, (accuracy of the copy confirmed by collation F.
+Rochberg). I do not know how to read this name.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:17:42 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+174 NIEk vELDhUIS
+George 2010).19 Tablets with such dedication prayers are always elementary school texts with simple exercises in
+using the stylus (DIŠ.AŠ.U) and extracts from the most basic lists. The question has been raised whether the fairly
+complex prayers were written by the same pupil who wrote the elementary exercise on the obverse.20 The answer
+must be in the affirmative or, as George (2010: 277) put it, “it was surely the intention that, as far as possible, they
+wrote their votive tablets with their own hand.” It is not unusual to find errors and erasures in the votive text; in the
+present case line 4’ is partly erased and the sign DIB (kimiltu, “anger”) is omitted in line 6’.
+Although the catalog on the obverse of CTMMA 2 65 is highly unusual, according to its dedication the tablet
+is unambiguously associated with the first stage of scribal education as discussed by Gesche (2001: 61–171). The
+scribe who dedicated this tablet to Nabû, therefore, may have written other Type 1 exercises with extracts from
+Syllabary A and Syllabary B, Weidner God List and Ura 1 and 2, but that is how far his lexical knowledge reached;
+he was still a beginner. The tablet is well formed, much nicer indeed than what is customary for an exercise of
+this type, and inscribed with a very good hand (collation F. Rochberg). Yet, the obverse has quite a few obvious
+mistakes that betray a lack of knowledge of the contents of the lexical corpus. The following errors may be listed:
+4. SISkUR for lal₃ (Ura 24), “honey”
+5. su-la-a for su-la-ti (Malku 3), “fighting”
+6. kU me AL-AL for kU me ur₄-ur₄ (Erimhuš 4)
+7. MA.DIM₄ for GIŠ.DIM₄ (Diri 3)
+8. PA for GADA (Ea 3)
+9. [ŠU]M? for NINDA₂ (Ea 7)
+9. a-u-um for a-nu-um (An = Anum 1)
+Moreover, in at least one case the text ignores the standard sequence of Ura (line 3), placing uzu (Ura 15) before
+muš (Ura 14). In some cases the error amounts to a minor omission or the addition of just a few wedges. The
+difference between for instance GADA and PA (line 8) is small indeed; a final vertical would have made the SIS-
+kUR into an acceptable LAL₃ (line 4); AL and UR₄ (line 6) are related in their gestalt, with AL adding two small
+horizontals in front. Francesca Rochberg’s collations demonstrated that all my proposed emendations are, in fact,
+unjustified and that the copy by Ira Spar as published in CTMMA 2 faithfully reproduces the original (faulty) text.
+Even though this pupil was able to produce elegant writing, and he was competent enough to write or copy a com-
+plex prayer in Akkadian, he seems to have been out of his comfort zone when it came to the rare words and less
+frequent signs that one encounters in Malku or Erimhuš. The long list of incipits is not a testament to the know-
+ledge that this scribe had acquired, but rather a vision of the erudition he hoped to reach.
+how did this vision work out—what did our student learn in his subsequent lessons and how did he learn it?
+Rather than copying and learning one lexical tablet at a time, students wrote out a number of brief passages of
+consecutive chapters of a lexical series. The intermediate level of Neo-Babylonian education is represented by
+single column Type 2 exercise tablets. Typically, such tablets begin with a few lines from a (bilingual) incantation
+series, continue with a brief section from a literary text (a prayer or Enuma Eliš) and finish with a series of brief
+sections, usually four to seven lines each, from a sequence of lexical texts (Gesche 2001: 172–98). By far the most
+frequently extracted lexical text is the thematic list Ura, but we also find the list of professions Lu ; the list of (Akka-
+2
+dian) synonyms Malku = šarru; the word list Erimhuš; the list of compound signs Diri; the sign list Ea; the god list
+An = Anum; and the word list Nabnitu21—in other words, all the lists in the catalog above.
+19. Dedication prayers on school texts have received much attention in the last two decades; see in particular the studies by Snell 1994;
+Frahm 1995; Gesche 1995; Cavigneaux 1996; Maul 1998; and Gesche 2001: 153–66.
+20. See Snell 1994: 63; Cavigneaux 1996: 26; Gesche 2001: 155; 2005: 257; George 2010: 277.
+21. For all these see Gesche 2001; for the Nabnitu extracts see MSL 16 7–8.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:17:42 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+A CATALOG OF LEXICAL TEXTS DEDICATED TO NABÛ 175
+The chapters 3–24 of the thematic list Ura were learned by writing long sequences of Type 2 exercise tablets, a
+few lines at a time. By analyzing the contents of hundreds of such extract tablets, Gesche 2001 was able to show that
+students gradually added higher number chapters of the Ura series. An example is BM 54203 = P349571 (Gesche
+2001: 387) which, after extracts from a bilingual incantation and a prayer to Marduk includes extracts from Ura
+10–17 as follows:
+Ura 10 (earthenware) 421–427
+Ura 13 (domestic animals) 76–81
+Ura 14 (wild animals) 48–53
+Ura 15 (meat cuts) 13–18
+Ura 16 (stones) 9–13
+Ura 17 (plants) 1–5
+The idea is that the student had worked himself, bit by bit, through almost all of Ura 10 and in the meantime
+started on the higher chapters. As a result, the section that is copied from a higher chapter number has lines more
+towards the beginning of that chapter. In the previous lesson this student made a start on Ura 16, now he is adding
+Ura 17 for the first time. BM 54203 is one of the rare Type 2 exercises where chapters are skipped (Ura 11 and 12)
+—perhaps this student had already finished them, since not all chapters of Ura are of equal length. Gesche’s theory
+may be confirmed by a sequence of school exercises from Ur:222324
+BM 132805 UET 7, 136 UET 7, 139 UET 7, 127 UET 7, 134
+P247830 P247831 P247835 P347086 P347092
+Magical […] Šurpu […] Maqlu 2 […]
+Shrine list23 […] B C A […]
+Ura 14 […] 233–236b ø ø
+Ura 15 224–229 229–234 ø ø
+Ura 16 287–292 292–297 ø ø
+Ura 17 99–103 101–105 380–387 ø ø
+Ura 18 95–99 (break) 102–104 ±280 ø ø
+Ura 19 221–225 ø ø
+Ura 20 Sect 7, 1–6 Sect 6 […]
+Ura 21 Sect 7, 13–19 Sect 6, 2–10 unplaced
+Ura 2224 o ii 33–39 r I 30–36 r I 47?–52
+Ura 23 e 1–4 iv 3–8 iv 19–24
+Ura 24 […] 239-243 255–257
+Lu₂ = ša₂ 1 107–111 […]
+BM 132805, the first in this group, is unexcavated, but its relationship with UET 7 136 proves beyond doubt
+that it is from Ur;25 the two tablets form a sequence with slight overlap (usually just one line) between the lexical
+22. Unless otherwise indicated, the line numbering in the table is the one used for the composite texts in MSL 8–11; those numbers are
+often highly provisional. The many breaks, for instance, in the text of Ura 17 prevent a simple computation of the distance between the extracts
+in UET 7 136 and UET 7 139.
+23. George 1992: 202–3.
+24. In relation to SpTU 3 114A (P387478).
+25. The online British Museum catalog indicates that BM 132805 belongs to a group of 103 tablets that was donated by Mrs Maud
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:17:42 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+176 NIEk vELDhUIS
+extracts. The same scribe may have written the other exercises in this group; they show a progression through
+the individual chapters of Ura, as well as gradually including higher chapter numbers. Where the obverse is pre-
+served, the exercises include an otherwise unknown list of shrines of the Ekišnugal temple at Ur (George 1992:
+202). Because of the fragmentary nature of the MSL reconstructions of some of the Ura chapters (in particular the
+higher numbers), it is not always possible to place extracts in relation to each other. In the case of UET 7 127 and
+134, however, we may observe that their extracts of Ura 22, 23, and 24 are consistently separated by ten to twelve
+lines—corresponding to two missing exercises.26
+This sequence of Ur exercises suggests that some students did indeed work through very long sections of Ura
+(or the entirety of Ura?) in bite-sized pieces of 4 to 7 lines at a time. For the more advanced lexical texts, however,
+such a scenario seems very unlikely, if only because these exercises are rare. In terms of numbers, the index in
+Gesche 2001 provides the following:27
+Lu₂ = ša 4 exercises
+Malku = šarru 4 exercises
+Erimhuš 5 exercises
+Diri 3 exercises
+Ea 9 exercises
+An = Anum 1 exercise
+Nabnitu 0 exercises28
+Compared to the hundreds of Ura extracts that are found in the same corpus, it seems unlikely that those other
+lexical compositions were covered as thoroughly as Ura was.
+The most advanced lexical texts were studied by producing a new copy of such a text. Many of the Neo-/
+Late Babylonian library tablets, lexical, literary, and otherwise, indicate in the colophon that they were owned
+by a senior scribe but written by an apprentice or junior scribe.29 Ossendrijver (2011b) has used the late Babylo-
+nian Uruk colophons to show that such teacher-pupil relationships reveal a network of connections crisscrossing
+family boundaries throughout the elites of Uruk.30 This is, apparently, how an established scholar built his library;
+the practice is attested already in the Middle Assyrian period,31 and may well go back even earlier. In the most
+advanced stages of training, the study of a composition, copying it, and providing the library of your father or
+teacher with a new exemplar were all part of one and the same process. here the difference between library text
+and school text collapses; the “pupils” (or junior scribes) copying such texts are often very accomplished scribes.
+Winckworth in 1959. As far as I know, the only other pieces of this group that have been published are BM 132785 (Erimhuš extracts; MSL
+17 Plate 1), BM 132709 (Malku 1; hrůša 2010: 298 I), and BM 132804 (RIME 3/2.1.3.1, ex.32). Judging from the copy, BM 132785 (Erimhuš
+extracts) is similar in structure to UET 7, 140 (MSL 17 Plate 1), but the extracts are not adjacent. hrůša indicates that BM 132709 comes from
+Nineveh, but his reasons for saying so remain unclear; the writing is Babylonian. The large majority of the tablets in the Winckworth group
+are administrative or legal in character (Ur III and OB) and a further study of that group might yield additional clues for its modern history.
+26. The pattern suggests that the extracts from Ura 21 may also be about 12 lines apart and that the reconstruction of Ura 21 should be
+adapted accordingly.
+27. All of these numbers are too low as exemplified, for instance, by the twenty-three school tablets (including Assyrian exemplars) with
+Diri extracts identified by Miguel Civil in MSL 15 and the 13 Babylonian school tablets with extracts from Malku mentioned by hrůša 2010:
+26. Gesche’s numbers are based primarily (but not exclusively) on BM tablets; they provide a good data set for internal comparisons or relative
+frequency.
+28. For Nabnitu extract tablets see MSL 16, 7–8.
+29. See Clancier 2009: 225–29 and Pearce 1993.
+30. See also Ossendrijver 2011a.
+31. See the tablets copied by the sons of Ninurta-uballissu (MA Assur), discussed by Wagensonner 2011 (add to Wagensonner’s text group
+Ass.2001.D-586, Emesal vocabulary 3 reported by Frahm 2002: 61).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:17:42 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+A CATALOG OF LEXICAL TEXTS DEDICATED TO NABÛ 177
+3. Social and Religious Context
+As far as I know, the scribe who wrote the dedicatory prayer to Nabû in CTMMA 2 65, PN son of Bēl-balassu-
+iqbi, is not known from elsewhere, but other such dedication texts are more forthcoming. MS 5007, a very ele-
+mentary exercise published by George (2010: 274–79), concludes with the prayer of Šamaš-rīhtu-usur, son of
+Šamaš-iddina the Baker of Šamaš and Aya. As George points out, the father is known from the Ebabbar archives
+of Sippar as holder of a baker’s prebend and is discussed by Bongenaar (1997: 197). The pupil who wrote MS 5007
+thus belonged to one of the prebendary families of Sippar—and that is not surprising.
+During the Neo- and Late Babylonian period a number of elite families dominated the priesthood at the impor-
+tant temples in each of the Babylonian cities (Waerzeggers 2011). “Priests,” in Waerzeggers’ terminology, included
+caterers (bakers, butchers, fishermen, etc.), ritual specialists (singers, acrobats, exorcists), artisans (reed workers,
+potters), and what one may call staff (measurers, scribes, gatekeepers). All of these functions contributed to the
+daily care of the gods,32 which was considered the essential all-important function of the temple organization that
+was performed, at least in theory, under direct responsibility of the king, the ultimate provider for the gods. These
+tasks were organized through a prebendary system by which a priest received remuneration in exchange for a cer-
+tain number of days of service. Prebendary offices were reserved for a few elite families in each city; it was in these
+circles of prebendaries that the cuneiform tradition was maintained.
+A prebendary baker, like Šamaš-iddina, was bound by rules of purity and access. he was expected to punctually
+prepare the bread for the god’s meal and hand that over in a presentation ceremony in the temple courtyard to a
+priest of higher rank whose task it was to bring the food to the god. The baker’s status as a mid-level priest was spa-
+tially delimited by his access to the courtyard—but not beyond. The purity of the divine meal not only depended
+on the purity of the ingredients and the finished food, but also on the correct lineage and moral and physical
+attributes of the baker himself.33
+The dedications of school texts to Nabû touch upon the two defining aspects of priesthood: purity and access.
+The tablet dedicated to Nabû was made from pure clay that was not taken from the regular supply, but from a
+location outside of the city. The emphasis on pure clay connects directly to the social and professional context in
+which these pupils grew up. Secondly, the pupil presented his work not directly to the god, but rather left it at the
+doorman in a gunnu container, not unlike the prebendary baker who presented the finished food in a ceremony
+at the temple courtyard.
+The dedication prayer thus illustrates how writing and education were part of the conceptual world that regu-
+lated the functioning of the temples and the prebendary families who used their prebends, as well as their literacy,
+to acquire and maintain their elite position in the city.
+4. Appendix
+The following table sets the obverse of CTMMA 2 65 against known incipits:
+entry incipit of attested incipit
+ĝeštaskarin = tas-ka-ri-in-nu Ura 3 ĝeštaskarin = tas-ka-ri-in-nu boxwood
+ĝešna-mul Ura 6 ĝešna-mu-ul-lum = ŠU-lum (a wooden object)
+ĝeštukul Ura 7? ĝeššita₂ = kak-ku (line 6: ĝeštukul) weapon
+(break)
+32. As Waerzeggers 2011 points out, the word “priest” is more easily applied to exorcists and singers than to bakers, butchers or gatekeep-
+ers, but in the Babylonian context all these functions were organized in the same way (through prebends), all were in need of basic purity and
+all contributed to the same goal, namely, the care of the god.
+33. For all these aspects see Waerzeggers 2010, summarized in Waerzeggers 2011.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:17:42 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+178 NIEk vELDhUIS
+uzu Ura 15 su = ši-i-ri; uzu = ši-i-ri meat
+muš Ura 14 muš = se-ri snake
+na₄ka-gi-na Ura 16 na₄ = ab-nu ; na₄ka-gi-na = ša -da-nu haematite
+2
+(break)
+nibruki Ura 21 nibruki = ni-ip-pu-ru Nippur
+kur Ura 22 kur = ša -du-u mountain
+2 2
+a Ura 23 a = mu-u water
+2
+SISkUR Ura 24 lal = diš-pu honey
+3
+lu Lu 1 lu = ša who
+2 2 2 2
+sipad Lu 2 sipad = re-e -a-um shepherd
+2 2
+kA ?-x ?
+2
+(break)
+su-la-a Malku 3 su-la-ti = ta-ḫ a-zu battle
+lugal-e Malku 4 lugal-ra -su-u = mu-bar-ru-u ša DINGIR (an official)
+2 2
+šum-ma-nu Malku 5 šum-man-nu = nar -dap-pu halter or clamp
+3
+erim-huš Erimhuš 1 erim-huš = a-na-an-tu battle
+(break)
+dag ĝišgal Erimhuš 3 dag = šu-ub-tu; ĝišgal = man-za-zu dwelling; station
+kU me AL-AL Erimhuš 4 kU me ur-ur = si-h ̮i-ip ma-a-tu the extent of the land
+2
+šu ĝar Erimhuš 5 šu ĝar = ga-ma-lu to do a favor
+(break)
+[li]-u5?DUB Erimhuš 6 li-u5DUB = li-mu tablet
+SI.A Diri 1 di-ir SI.A = at-ru additional
+SISkUR Diri 2 […] SISkUR.SISkUR = ni-qu-u offering
+2
+MA.DIM Diri 3 ge-eš-bu GIŠ.DIM = kip-pa-tum rim
+4 4
+U .kUR.RA Diri 4 šim-bi-ri-da U .kUR.RA.SAR = ni-nu-u a medicinal plant
+2 2 2
+(break)
+AN.USAN Diri 7 u₂-sa-a-an AN.USAN = [liliātu] evening
+¶ A Ea 1 e-a A = na-a-qu to cry
+¶ kAk Ea 2 [du-u] kAk = [ba-nu-u] to build
+¶ PA Ea 3 [ga-da GADA = ki-tu-u] flax
+(break)
+¶ ŠUM Ea 7 gur NINDA na-mad-du measuring vessel
+2
+¶ GAN Ea 8 [ga-na GAN ga-ra-bu] leprosy
+AN a-u-um An = Anum 1 an = a-nu-um An
+(break)
+GIŠGAL ?
+dlugal-ban -da An = Anum 5 dlugal-ban -da = ŠU Lugalbanda
+3 3
+(break)
+dutu ĝeš-nu₁₁ ? Utu, the lamp
+SIG .ALAN nab-ni-tum Nabnitu 1 SIG .ALAN = nab-ni-tum form
+7 7
+Remarks:
+Ura 6: The writing ĝešna-mul is known from the catchline of 83-1-18, 463 (MSL 5 51).
+Ura 7: In all known sources the incipit is ĝeššita = kakku, with ĝeštukul = kakku in line 6.
+2
+Ura 15: The first line is su = ši-i-ri (also attested as catchline at the end of Ura 14), with the uzu entry in line 2.
+however, all other lines in Ura 15 start with uzu (meat cuts) and thus uzu is a plausible title for the tablet. Colla-
+tion by F. Rochberg confirmed that the wedges remaining before MUŠ may be read [UZ]U.
+Ura 16: the only first-millennium attestation of the opening line has na = ab-nu (TCL 6 36 = P363708). how-
+4
+ever, all earlier versions of the list of stones (Middle and Old Babylonian) begin with na4ka-gi-na (line 2 in TCL 6
+36) and thus the word is a plausible incipit for Ura 16. Curiously, CBS 11889 (P267027), a Middle Babylonian copy
+of Ura 17 from Nippur (bilingual; identified by Jeremiah Peterson), has na4ka-gi-na as catchline.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:17:42 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+A CATALOG OF LEXICAL TEXTS DEDICATED TO NABÛ 179
+Ura 22: the incipit was restored from the catchline of Ura 21 in MSL 11: 23 and is now confirmed by SpTU 3
+114A (P387478) and the lexical catalog SpTU 4 186.
+Ura 23: the incipit of Ura 23 is given by SpTU 3 114A (P387478; catchline); confirmed by the lexical catalog
+SpTU 4 186.
+Ura 24: SISkUR is an error for LAL (TA×hI).
+3
+Lu 1 and 2: see MSL 12 89. This is the so-called short version, which is predominant in the late period; the
+2
+“standard version” is primarily kassite.
+Malku 4: this is an abbreviated (or garbled?) rendering of the rare word lugalarausû.
+Erimhuš 3: exceptionally, the list provides the first two entries of Erimhuš 3.
+Erimhuš 4: the known copies of Erimhuš 4, 1 have kU me ur-ur = si-h ̮i-ip ma-a-tu . The equation is otherwise
+2
+known from Igituh I 329, which reads kU me ur = si-h ̮i-ip ⌈ma-a⌉-[ti] (unpublished; see the lexical section of
+4
+CAD sih ̮pu and MSL 17, 57). Most likely AL-AL in CTMMA 2 65 is an error for ur -ur . The verb ur (to collect)
+4 4 4
+is common in connection with me, as in e me ur -ur (house that collects the MEs), but the present expression
+2 4 4
+remains unclear to me.
+Diri 6–7: the break in the tablet deprives us of the still missing incipit of Diri 6. For Diri 7 see the discussion by
+M. Civil in MSL 15: 196 and Peterson (2007).
+Ea 2 and 3: the reading ¶ kAk is more or less confirmed by the traces as copied. ¶ PA is an error for ¶ GADA.
+The incipit of Ea 3 is known from the catchline at the end of Ea 2.
+Ea 7: for Ea 7 see CUSAS 12 1.1.2 (Civil 2010: 8–18). The ŠUM (error for NINDA ?) remains unexplained; what
+2
+is left of the sign is identical to the ŠUM in line 5: šum-ma-nu (collation F. Rochberg).
+Ea 8: The incipit is preserved in Aa vIII/1 (39) and as catchline at the end of Aa vII/4 (38).
+An = Anum: unfortunately, only two entries may be identified here; the rest remains unclear.
+References
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Bongenaar, A. C. v. M.
+1997 The Neo-Babylonian Ebabbar Temple at Sippar: Its Administration and Its Prospography. PIhANS 80. Istanbul:
+Nederlands historisch-Archaeologisch Instituut.
+Cavigneaux, A.
+1980 Die Fragmente der sumerisch-akkadischen Wortliste “ERIMhUŠ” im vorderasiatischen Museum zu Berlin.
+Forschungen und Berichte 20/21: 259–70.
+1981 Texts from Babylon. Textes scolaires du Temple de Nabû ša Harê. Baghdad: Republic of Iraq, Ministry of Culture &
+Information.
+1996 Un Colophon de Type Nabû ša Harê. ASJ 18: 23–29.
+1999 Nabû ša harê und die kinder von Babylon. Pp. 385–91 in Babylon: Focus mesopotamischer Geschichte, Wiege
+früher Gelehrsamkeit, Mythos in der Moderne, ed. J. Renger. CDOG 2. Saarbrücken: Saarbrücker Druckerei.
+Civil, M.
+2010 The Lexical Texts in the Schøyen Collection. CUSAS 12. Bethesda: CDL.
+Clancier, P.
+2009 Les bibliothèques en Babylonie dans la deuxième moitié du Ier millénaire av. J.-C. AOAT 363. München: Ugarit-
+verlag.
+Frahm, E.
+1995 Ton vom Ton des heiligen hügels. N.A.B.U. 1995/9.
+2002 Assur 2001: Die Schriftfunde. MDOG 134: 47–86.
+2011 Babylonian and Assyrian Text Commentaries: Origins of Interpretation. GMTR 5. Münster: Ugarit-verlag.
+George, A. R.
+1992 Babylonian Topographical Texts. OLA 40. Louvain: Peeters.
+2010 The Colophon of MS 5007. Pp. 274–79 in M. Civil, The Lexical Texts in the Schøyen Collection. CUSAS 12. Bethesda:
+CDL.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:17:42 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+180 NIEk vELDhUIS
+Gesche, P. D.
+1995 Ton vom Ton des heiligen hügels - woher stammt der Ton wirklich? N.A.B.U. 1995/66.
+2001 Schulunterricht in Babylonien im ersten Jahrtausend v. Chr. AOAT 275. Münster: Ugarit-verlag.
+2005 Late Babylonian School Exercise Tablets. Pp. 257–65 in Literary and Scholastic Texts of the First Millennium B.C.,
+ed. I. Spar and W. G. Lambert. CTMMA 2. New York: The Metropolitan Museum of Art.
+hrůša, I.
+2010 Die akkadische Synonymenliste malku = šarru. Eine Textedition mit Übersetzung und Kommentar. AOAT 50.
+Münster: Ugarit-verlag.
+Ludwig, M.-C.
+2009 Literarische Texte aus Ur. UAvA 9. Berlin: de Gruyter.
+Maul, S. M.
+1998 Tikip santakki mala bašmu … Anstelle eines vorwortes. Pp. vii–xvii in Festschrift für Rykle Borger zu seinem 65.
+Geburtstag am 24. Mai 1994. tikip santakki mala bašmu, ed. S. M. Maul. CM 10. Groningen: Styx.
+Ossendrijver, M.
+2011a Exzellente Netzwerke: Die Astronomen von Uruk. Pp. 631–44 in The Empirical Dimension of Ancient Near East-
+ern Studies. Die empirische Dimension altorientalischer Forschungen, ed. Gebhard J. Selz and k. Wagensonner.
+WOO 8. vienna: LIT.
+2011b Science in Action: Networks in Babylonian Astronomy. Pp. 213–21 in Babylon. Wissenskultur in Orient und Ok-
+zident, ed. E. Cancik-kirschbaum, M. van Ess and J. Marzahn. Topoi 1. Berlin: de Gruyter.
+Pearce, L. E.
+1993 Statements of Purpose: Why the Scribes Wrote. Pp. 185–93 in The Tablet and the Scroll: Near Eastern Studies in
+Honor of William W. Hallo, ed. M. E. Cohen, D. C. Snell, and D. B. Weisberg. Bethesda: CDL.
+Pedersén, O.
+2005 Archive und Bibliotheken in Babylon. Die Tontafeln der Grabung Robert Koldeweys 1899–1917. ADOG 25. Saar-
+brücken: Saarländische Druckerei.
+Peterson, J.
+2007 A New Source for Diri Tablet 7. N.A.B.U. 2007/5: 5–6.
+Snell, D. C.
+1994 A Neo-Babylonian Colophon. RA 88: 59–63.
+veldhuis, N. C.
+1996 A Nippur Emesal vocabulary. ASJ 18: 229–34.
+Waerzeggers, C.
+2010 The Ezida Temple of Borsippa. Priesthood, Cult, Archives. Achaemenid history 15. Leiden: Nederlands Instituut
+voor het Nabije Oosten.
+2011 The Babylonian Priesthood in the Long Sixth Century BC. Bulletin of the Institute of Classical Studies 54: 59–70.
+Wagensonner, k.
+2011 A Scribal Family and Its Orthographic Peculiarities. On the Scientific Work of a Royal Scribe and his Sons. Pp.
+645–701 in The Empirical Dimension of Ancient Near Eastern Studies. Die empirische Dimension altorientalischer
+Forschungen, ed. G. J. Selz and k. Wagensonner. WOO 6. vienna: LIT.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:17:42 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+

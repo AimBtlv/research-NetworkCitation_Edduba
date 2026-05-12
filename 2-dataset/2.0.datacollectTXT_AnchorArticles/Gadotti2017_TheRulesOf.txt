@@ -1,0 +1,1385 @@
+# METADATA
+author: Gadotti A.
+source_id:Gadotti2017_TheRulesOf
+title: The Rules Of The School
+Year: 2017
+Source_ID:  Gadotti2017_TheRulesOf
+Source_Type: Article in Book: Journal of the American Oriental Society, Vol. 137, No. 1 
+Source_Role,Step_distance: 2 ,3,4 
+Pages: pp. 89-116 
+Web: 
+Published: American Oriental Society
+# TEXT
+
+“The Rules of the School”
+Author(s): Alhena Gadotti and Alexandra Kleinerman
+Source: Journal of the American Oriental Society, Vol. 137, No. 1 (January-March 2017),
+pp. 89-116
+Published by: American Oriental Society
+Stable URL: https://www.jstor.org/stable/10.7817/jameroriesoci.137.1.0089
+REFERENCES
+Linked references are available on JSTOR for this article:
+https://www.jstor.org/stable/10.7817/jameroriesoci.137.1.0089?seq=1&cid=pdf-
+reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+American Oriental Society is collaborating with JSTOR to digitize, preserve and extend access to
+Journal of the American Oriental Society
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+“The Rules of the School”
+ALHENA GADOTTI
+TOWSON UNIVERSITY
+and
+ALEXANDRA KLEINERMAN
+CORNELL UNIVERSITY
+“The Rules of the School,” or Eduba R, is a previously unedited Sumerian literary
+composition that describes a day in the life of an Old Babylonian student. In this
+paper, we examine the nature of Eduba R, its place within the corpus of scribal
+life texts (and particularly its relationship to the more popular composition Eduba
+A), and its pedagogical role within the Old Babylonian scribal school curriculum
+as a whole. In addition, we publish a transliteration, translation, commentary, and
+photos of the two primary manuscripts of the composition.
+“T
+he Rules of the School,” or Eduba R, is a previously unpublished Sumerian composi-
+tion that describes the daily routine of an Old Babylonian student. The composition was
+first identified by M. Civil from several incomplete manuscripts. Since then, two larger and
+more complete exemplars have come to light, one in the Schøyen collection in Oslo, Norway
+(hereafter X2), the other in a private collection (hereafter X1), which we had the opportunity
+to study in the Jonathan and Jeannette Rosen Near Eastern Studies Seminar at Cornell Uni-
+versity. Both are multi-column tablets and, while neither is complete, they provide enough
+detail to merit publication of the composition. 1 However, roughly fifty-five lines are still
+missing or unplaced. 2 The purpose of this article is not only to publish Eduba R, but also to
+investigate its position within the Old Babylonian scribal school, which is the context from
+A preliminary version of this article was presented as a paper at the 222nd annual meeting of the American Oriental
+Society held in Boston, MA on March 16–19, 2012. We wish to thank David I. Owen and the anonymous collector
+for providing us the opportunity to study and publish Text X1. We would also like to thank Konrad Volk, Andrew
+George, and Martin Schøyen for allowing us to study and publish one of the key manuscripts for Eduba R, MS
+3311 (X2), from the Schøyen Collection, Oslo, Norway, and for arranging for one of us (Kleinerman) to work on
+this manuscript in the collection in Oslo. Mr. and Mrs. Schøyen were extremely gracious in sharing their space and
+their time with her. We are very thankful to Konrad Volk for providing us with his preliminary transliterations of
+portions of the composition, as well as with photos of the Schøyen collection piece and his numerous collations. In
+addition we are grateful to Jana Matuszak for her careful collations of MS 3311 and the Ur manuscripts in the British
+Museum, and to Renée Kovacs for her unwavering support.
+Miguel Civil was instrumental in our understanding of this very difficult composition. We are deeply grate-
+ful for his willingness to share his wisdom with us. We wish to thank Gonzalo Rubio, Jerrold S. Cooper, and the
+anonymous reviewer for their insights. Many thanks to Laura Johnson-Kelly, Rosen Foundation Conservator and
+Photographer in the Jonathan and Jeannette Rosen Ancient Near Eastern Studies Seminar at Cornell University, for
+her photographs of the tablet. Thanks also to Mr. John Hohm for his additional photographs of MS 3311.
+Finally, this article would not have been possible without David Owen’s extraordinary encouragement. We also
+acknowledge the generous support of Jonathan and Jeanette Rosen.
+1. Civil 1992: 303 discusses sections of the composition.
+2. According to the colophon preserved on X1, the composition originally contained 185 lines. 130 are pre-
+served, so that we are missing 55 lines total with the following distribution:
+between col. 1 and col. 2 we are missing approximately 13.5 lines
+between col. 2 and col. 3 we are missing approximately 27 lines
+between col. 3 and col. 4 we are missing approximately 13.5 lines.
+Journal of the American Oriental Society 137.1 (2017) 89
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+90 Journal of the American Oriental Society 137.1 (2017)
+which the majority of Sumerian compositions known to us derive. In particular, we exam-
+ine the relationship between Eduba R, which is not well attested, and Eduba A, commonly
+known as “Schooldays,” which was extremely popular in the Nippur schools (Kramer 1949).
+Eduba R begins with a dialogue between a teacher and a student, although in what is
+preserved there is no evidence that the dialogue continued beyond the introduction. After the
+teacher asks the student to recite the school’s regulations (Section 1: 1–3), the student replies
+that if he starts enumerating the rules he will be too busy to do his school work (Section 1:
+4–7). Despite his misgivings, however, the student accepts the teacher’s challenge (Section
+1: 8ff.). The rest of Eduba R is devoted to an outline of the school day, with the student
+gathering the supplies needed for his day (Section 1: 12–13). However, although he feels
+prepared and obeys orders, some school officials still punish him (Section 1: 14–19). One
+of the school’s officials then gathers all of the pupils together for the first lesson of the day,
+which consists of recitation of arithmetic and vocabulary (Section 1: 27–30).
+Section 1 of both X1 and the Schøyen manuscript breaks off soon thereafter, and when
+the text resumes a third-person narrator is describing various activities that involve all the
+students. For instance, they receive instructions to prepare a tablet board (Section 2: 13–14).
+The composition names a large number of school staff members who are in charge of the
+different facets of the school’s daily activities: the man in charge of the tablet boards (lú
+dub-dím) instructs them to prepare their tablet boards (Section 2: 6–9). The man in charge
+of flattening the clay (lú im-dúb) is the staff member for ordering the students to shape their
+clay tablets (Section 2: 24). 3
+The largest gap is between Sections 2 and 3 (approximately twenty-seven lines according
+to X1, five of which are preserved on the Schøyen manuscript). When the narrative contin-
+ues, the students have their lunch break (Section 3: 7–8). After lunch, they are instructed to
+write their assignment on a tablet, perhaps the same assignment that they had recited aloud
+in the morning (Section 3: 17). The teacher then checks the students’ work and, if it is not
+up to the school’s standards, they are punished (Section 3: 19–27). After the work has been
+checked, the assistant in charge of the water instructs the students as follows: “take the jars,
+you idiots, your jars.” 4 Presumably, the students are here expected to erase their tablets and
+make new ones. They go to fetch water from a nearby canal (Section 3: 28–31).
+Approximately thirteen lines are missing between Sections 3 and 4 of X1, four of which
+are preserved at the beginning of Section 4 of the Schøyen manuscript. In the final section of
+the composition additional instructions are given to the students, who begin to practice the
+next day’s lesson by reading from lentils (Section 4: 19). Finally, the students’ families come
+to school to see their progress (Section 4: 23–25). According to Eduba R, the Old Babylonian
+students had a very structured day, with a morning recitation, a lunch break, afternoon written
+exercises, review of the assignment, and clean-up and preparation for the next day.
+Aside from X1 and the Schøyen tablet, Eduba R is attested on at least five other manu-
+scripts, three from Nippur and two from Ur. Thus, while Eduba R was fairly widespread, it
+is not well attested, at least not in comparison to the other so-called Eduba compositions,
+all of which originated from the Old Babylonian Sumerian scribal schools. 5 For example,
+Presumably, sections of the missing lines are contained in the unplaced sections of four manuscripts (N1, N2, N3,
+and Ur2), which are also published below.
+3. For a complete list of the preserved school staff members see the appendix.
+4. As when the students are beaten when they’ve done nothing wrong, here they are insulted for no apparent
+reason. This suggests that the text represents or considers the students’ perspective.
+5. The modern category “Eduba literature” includes so-called Eduba compositions, scribal dialogues, and exam
+texts. There is no certain evidence, however, that these compositions were conceived of as a unit in antiquity (for
+example there are no compliation tablets with Eduba texts, such as there are for the tetrad and decad; see Kleiner-
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+GADOTTI and KLEINERMAN: “The Rules of the School” 91
+Eduba A, which like Eduba R illustrates a school-day, is attested on at least sixty-five Nippur
+manuscripts. Eduba B, a dialogue between a father and his misbehaving son (unpublished,
+but see Civil 1992), and Eduba C, a dialogue between a teacher and a student, are each
+attested in over thirty Nippur exemplars (Vanstiphout 1997: 590–92). However, the only
+Eduba compositions relatively well attested outside of Nippur are Eduba B and Eduba R.
+The high number of copies of Eduba A, B, and C indicates that they played a significant
+role in the Sumerian scribal curriculum at Nippur in the early second millennium. However,
+this was clearly not the case for Eduba R. A possible explanation for this may lie in the strong
+similarity between Eduba A, the most popular Eduba composition at Nippur, and Eduba R.
+Similarly to Eduba R, Eduba A begins with a dialogue in which the student is asked by
+an unnamed interlocutor what he has been learning at school:
+Eduba A, ll. 1–7
+1. dumu é-dub-ba-a u -ul-la-àm me-šè ì-ĝen-ne-en
+4
+2. é-dub-ba-a-šè ì-ĝen-ne-en
+3. é-dub-ba-a a-na-àm ì-ak
+4. dub-ĝu ì-šid níĝ-ka-gub-ĝu ì-gu
+10 10 7
+5. dub-ĝu ì-dím i-sar ì-til-ma
+10
+6. mu-gub-ba-ĝu ma-an-gub-bu-uš
+10
+7. kíĝ-sig im-šu-ĝu ma-an-gub-bu-uš
+10
+1. “Graduate from many years ago, where did you go?”
+2. “I went to school.”
+3. “What did you do at school?”
+4. “I recited my tablet, and I ate my lunch.
+5. I fashioned my tablet, I wrote (it), and I finished (it).
+6. I laid out my lexical list.
+7. (After) the afternoon snack, I laid out my lentil-shaped tablet.”
+In this passage the student briefly answers the question by explaining how he has spent his
+day. He then reports that he went home and showed his father the exercises he did in class.
+Like the student in Eduba R, the student in Eduba A is eager to go back to school and to get
+there early. However, despite his enthusiasm, he is beaten by a number of staff members for
+improper behavior, exactly like his counterpart in Eduba R:
+Eduba A, ll. 37–38
+37. lú ĝiš-hur-ra-ke a-na-aš-àm ĝá-da nu-me-a ì-zi-ge-en in-túd-dè-en
+4
+38. lú ká-na-ke a-na-aš-àm ĝá-da-nu-me-a íb-ta-è-e-še in-túd-dè-en
+4
+37. The man in charge of drawing (asked me): “Why, without my permission, did you get
+up?” And then he beat me.
+38. The man in charge of the gate (asked): “Why, without my permission, did you go out?”
+And then he beat me.
+The final section of Eduba A, as in Eduba R, is devoted to a meeting between a parent and
+a teacher in which the latter praises the student’s accomplishments.
+man 2011: 57–58). Moreover, while Eduba texts are classified together in catalogs (e.g., UM 29-15-155 = P255993),
+Delnero has shown that the catalogs are inventory lists and so cannot necessarily be used to place compositions
+together in generic groupings (Delnero 2010: 46).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+92 Journal of the American Oriental Society 137.1 (2017)
+A comparison of Eduba A and Eduba R illustrates that the two compositions are modifica-
+tions of a basic plot line: each emphasizes different aspects of a normal day in the life of a
+student as reflected in the Eduba corpus. Whereas Eduba A is focused on the father-son and
+father-teacher interactions and outlines the school day only in brief, Eduba R reverses the
+attention paid to these two themes as it focuses on the school day and only marginally on the
+relationship between the teacher and the student’s family.
+As such, Eduba R and Eduba A are elaborations of the same story. The discovery of a
+number of manuscripts of Eduba A in excavated context at Nippur indicates that Eduba
+A was a favorite with some of the Nippur teachers, 6 while Eduba R was not. However,
+Eduba R is attested not only on multi-column tablets but also on single-column exercise
+texts (imgida). This places it securely within the advanced Old Babylonian Sumerian scribal
+curriculum. These findings support the argument that in early second millennium Babylonia,
+teachers had the final say as to what was studied in their classrooms, and they took advantage
+of an existing corpus of stories that they modified to suit their pedagogical needs.
+SOURCES
+Eduba R is attested so far on seven manuscripts. One, N1, is an imgida, and four (N2,
+Ur1, X1, X2) are multi-column. N2 and Ur1 are fragments of what in origin must have been
+four-column tablets. X1 and X2 are four-column tablets, both missing the bottom third of
+the tablet. Two (N3 and Ur2) contain passages of Eduba R that are currently unplaced, and
+at this time we are unable to determine their tablet typology.
+N1 = CBS 4573 (PBS 12/1, 30 = PBS 1/2, 98) = P260885 7
+tablet type: imgida
+lines: obverse = unplaced lines; reverse = col. iii 19–31
+N2 = CBS 11786 = P266923 8
+tablet type: multi-column
+lines: obverse = col. i 1–7; reverse = unplaced
+N3 = Ni 4103 (ISET 1 72)
+tablet type: unclear
+lines: obverse = unplaced; reverse = unplaced
+Ur1 = UET 6/2, 168 9
+tablet type: multi-column
+lines: obverse = col. i 15–26; reverse = col. iv 17–24
+Ur2 = UET 6/3, 620 = P346657 10
+tablet type: unclear
+lines: obverse = unplaced; reverse = unplaced
+X1 = private collection manuscript (Figs. 1–2)
+tablet type: multi-column
+lines: obverse col. i = col. i 1–37, obverse col. ii = col. ii 12–43, reverse col. iii = col. iii 5–36,
+reverse col. iv = col. iv 5–27 + colophon
+6. For Eduba A in House F at Nippur see Robson 2001: 54.
+7. Collated by A. Gadotti, June 2011.
+8. Collated by A. Gadotti, June 2011.
+9. Collated by J. Matuszak, 2012.
+10. Parallels the obverse of CBS 4573 and perhaps reflects the end of col. ii. It is possible that UET 6/2, 168 and
+UET 6/3, 620 may be fragments from the same tablet (M. Civil and G. Rubio, pers. comm.).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+GADOTTI and KLEINERMAN: “The Rules of the School” 93
+Fig. 1. Manuscript X1, obverse.
+X2 = MS 3311 = P252252 (Figs. 3–4) 11
+tablet type: multi-column
+lines: obverse col. i = col. i 1–26, obverse col. ii = col. ii 1–27, reverse col. iii = col. iii 1–31,
+reverse col. iv = col. iv 1–27
+11. Collated by A. Kleinerman, November 2011; K. Volk, November 22, 2012 and May 3, 2013; and J.
+Matuszak, spring 2016.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+94 Journal of the American Oriental Society 137.1 (2017)
+Fig. 2. Manuscript X1, reverse.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+GADOTTI and KLEINERMAN: “The Rules of the School” 95
+Fig. 3. Manuscript X2, obverse.
+EDITION
+Section One 12
+1.
+N2 col. i 1 lú tur dumu é-dub-ba-me-en /dumu é\-[. . .]
+X1 col. i 1 lú tur dumu é-dub-b[a-me]-en dumu é-dub-ba-me-en
+X2 col. i 1 [l]ú /tur\ dumu /é-dub-ba-me-en dumu é\-dub-ba-[me]-/en\
+2.
+N2 col. i 2 tukum-bi dumu é-dub-ba-me-[en]
+X1 col. i 2 tukum-bi dumu é-dub-ba-me-en
+X2 col. i 2 /tukum\-bi dumu é-dub-ba-me-/en\
+3.
+N2 col. i 2* a-na-àm á-áĝ-ĝá [. . .]
+X1 col. i 3 a-na á-áĝ-ĝá é-dub-ba-kam
+X2 col. i 3 /a\-na-àm á-áĝ-ĝá é-dub-ba{erasure}-a
+*N1 l.3 indented below l.2
+12. As the text is incomplete, we are reluctant to divide it into columns based only on two tablets. Thus, we have
+opted for the label “section,” which will become superflous if a manuscript preserving the entire text becomes available.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+96 Journal of the American Oriental Society 137.1 (2017)
+Fig. 4. Manuscript X2, reverse.
+4.
+N2 col. i 3 tukum-bi á-áĝ-ĝá é-dub-ba [. . .]
+X1 col. i 4 tukum-bi á-áĝ-/ĝá é\-dub-ba èn ma-tar-re
+X2 col. i 4 /tukum\-bi á-áĝ-ĝá é-dub-ba èn ma-tar-re-en
+5.
+N2 col. i 4 [ga-b]a-e-ĝar dutu-è-ta ud é-[. . .]
+X1 col. i 5 ga-ba-e-ĝar dutu-è-ta ud é-gar -e gi -a-šè
+8 4
+X2 col. i 5 /ga\-ba-e-da-ĝar dutu-è-a-ta ud é-gar -e gi -a-šè!
+8 4
+6.
+N2 col. i 5 [inim-inim] nu-mu-da-til-le [. . .]
+X1 col. i 6 inim-inim-da nu-mu-da-til-le
+X2 col. i 6 /inim\-inim-da /nu\-mu-e-da-til-e
+7.
+N2 col. i 6 [. . .]
+X1 col. i 7–8 á-áĝ-ĝá é-dub-ba a-ab-zu // an-zag nu-zu-a
+X2 col. i 7 /á-áĝ\-ĝá é-dub-ba a-ab-zu an-zag nu-zu-a
+8.
+X1 col. i 8 dím-ma nu-di-da-gin di-di-da nu-ub-zu
+7
+X2 col. i 8 /di nu-di\-da-ka di-/di\-dè nu-ub-/zu\-a
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+GADOTTI and KLEINERMAN: “The Rules of the School” 97
+9.
+X1 col. i 9 é-dub-ba-šè DU-a-ĝu -ne
+10
+X2 col. i 9 é-dub-ba-šè {erasure} DU-a{erasure}-ĝu -/ne\
+10
+10.
+X1 col. i 10 gi 1/3-àm a an-da-ĝál gú-ĝu ab-zi-zi-in ka-ĝu ab-ak-en
+6 10 10
+X2 col. i 10 gi 1/3-àm a! an-da<<-da>>-ĝál gú-ĝu ab-zi-zi-/in\ ka-ĝu
+6 10 10
+ab-ak-en
+11.
+X1 col. i 11 ka-ĝu ub-ta-ak-an
+10
+X2 omits
+12.
+X1 col. i 12 gi-dub-ba-ĝu im-šu-ĝu níĝ-gù-dé-ĝu
+10 10 10
+X2 omits
+13.
+X1 col. i 13 ù níĝ-al-di é-dub-ba-a-ke ? šu ba-ti
+4
+X2 col. i 11 /ù\ níĝ-al-di *é-dub-ba-a šu ù-ba-ti
+*X2: extra vertical before é
+14.
+X1 col. i 14 é-dub-ba-a-šè sun -na-bi al-du-un /x x\
+5
+X2 col. i 12 é-dub-ba-šè sun -na-bi al-du-un igi nu-bar!-bar!-re-en
+5
+15.
+Ur1 obv. 1′ é-dub-ba-a-šè è[n . . .]
+X1 col. i 15 /é-dub-b\a-a-šè ku -ku -/da-ĝu -ne\
+4 4 10
+X2 col. i 13 /é\-dub-ba-šè ku -ku -da-ĝu -ne
+4 4 10
+16.
+Ur1 obv. 2′ šu!-ĝu ab-ús š[u . . .]
+10
+X1 col. i 16 /šu x\ [ . . . a]b!-ús šu-kin an!-dab
+5
+X2 col. i 14 šu!-bi-ni?-ĝu ab-ús šu-kin {erasure} a-dab
+10 5
+17.
+Ur1 obv. 3′ lú kisal-lá dub! š[u . . .]
+X1 col. i 17 lú /kisal\-[lá dub š]u-tab-ba-ĝu ki /ù-ub-tag\
+10
+X2 col. i 15 /lú\ kisal-lá dub /šu\-tab-ba-ĝá-a ki <<šu>> un-na-/an\-tag
+18.
+Ur1 obv. 4′ lú pa-mušen-na-[. . .]/ mu-u[b?-. . .]
+X1 col. i 18 lú pa-mušen-na [. . .]
+X2 col. i 16 /lú im\-pa-mušen-na-ke ki dùb gurum-ma diri? /mu?\-da-zu ba-
+4
+DU-ne
+19.
+Ur1 obv. 5′ ki dùb gurum-ma K[A . . .]
+X1 col. i 19 ki dùb gurum-ma K[A . . .]
+X2 col. i 17 ki dùb gurum-ma saĝ-ĝá an-šè <mu>-un-sàg
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+98 Journal of the American Oriental Society 137.1 (2017)
+20.
+Ur1 obv. 6′ tukum-b[i . . .]
+X1 col. i 20 tukum-bi [. . .]
+X2 col. i 18 /tukum\-bi bappir-šè im-ma-an-tag
+21.
+Ur1 obv. 7′ im pa-mušen-[. . .]
+X1 col. i 21 im pa-mušen-na-ka mu-ub-[gub-bé]
+X2 col. i 19 /im\ pa-mušen-na-ka mu-ub-/da\-gub-bé-e[n]
+22.
+Ur1 obv. 8′ ki dùb gurum-m[a . . .]
+X1 col. i 22 ki dùb gurum-ma-ta mu-ni-in-/è?\-en
+X2 col. i 20 /ki dùb\ gurum-ma-ta mu-un-/da\-è-dè
+23.
+Ur1 obv. 9′ lú kisal-l[á . . .]
+X1 col. i 23 lú kisal-lá-ka šu-tab-ba-ĝu /ki mu-na\-tag
+10
+X2 col. i 21 [lú kisa]l-/lá-ke šu-tab-ba\-ĝá-a ki šu un-na-/an\-tag
+4
+24.
+Ur1 obv. 10′ tuš-ù /ù\-[. . .]
+X1 col. i 24 tuš-ù ù-ma-an-dug /x x x x\-en
+4
+X2 col. i 22 [. . .] KU KU ù-dé-en
+25.
+Ur1 obv. 11′ tukum-b[i . . .]
+X1 col. i 25 tukum-bi d/nisaba!\ <gù> ù-dé-en
+X2 col. i 24 [. . .]-dé-en
+26.
+Ur1 obv. 12′ dúr-ru-u[n . . .]
+X1 col. i 26 dúr-ru-un-ba-an-zé-en ù gù dé!-dé-en-zé-en
+X2 col. i 23 [. . . d]é<<-en>>-/dé\-en
+27.
+X1 col. i 27 lú kisal-lá<<-la>>-ke 2-ta-bi-šè téš-bi ù-bí<<-ab>>-tag
+4
+28.
+X1 col. i 28 lú lú-ù an-ni-ib-šid-e-a
+29.
+X1 col. i 29 lú a-rá ab-šid-e-a a-rá ab-šid-dè
+30.
+X1 col. i 30 lú inim-inim ab-šid-e-a inim-inim-ma ab-šid-dè
+31.
+X1 col. i 31 tukum-bi di -di -lá gú nu-um-ma-an-si-eš
+4 4
+32.
+X1 col. i 32 lú ab-ta-lá bar ĝá!(DAG)-gi -a-ka an-ši-ĝen
+4
+33.
+X1 col. i 33 di -di -lá gú ù-un!-si-eš
+4 4
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+GADOTTI and KLEINERMAN: “The Rules of the School” 99
+34.
+X1 col. i 34 lú kisal-lá-ke im pa-mušen-na im-bi {erasure} /si\-il im
+4
+níĝ-al-di é-dub-ba-a
+35.
+X1 col. i 35 u -min-ta u -eš -ta igi ab-kár-kár
+4 4 5
+36.
+X1 col. i 36 im pa-mušen-na-ka mu-un-ku -ra
+4
+37.
+X1 col. i 37 [. . .]
+Section Two
+1.
+X2 col. ii 1 /lú lalahtan\-na-ke /x\ [. . .]
+4
+2.
+X2 col. ii 2 lú im-šu-ka-ni nu-[. . .]
+3.
+X2 col. ii 3 lú lalahtan-na-ke /dub x x\ [. . .] im erin -na /x\[. . .]
+4 2
+4.
+X2 col. ii 4 lú kisal-lá-ke lú dub-dím-e /ù x\ [. . .]
+4
+5.
+X2 col. ii 5 /ús\-ús-bi-šè bí-[. . .]
+6.
+X2 col. i 6 lú dub-dím-me bí-/x\-ne /íb\-[. . .]
+7.
+X2 col. ii 7 /en-na dub-ba\-ni ab-d[ím-x]
+8.
+X2 col. ii 8 dub /lú dub-ba-ni\ ab-dím-e /si\ al-/x\-/sá\
+9.
+X2 col. ii 9 lú dub gub-bu-dè dub-/ba-a íb-gub-bé\
+10.
+X2 col. ii 10 /en-na\ dub-ba-ni bí-da-gub-bu-/x\
+11.
+X2 col. ii 11 igi lú /dub-ba-ni\ bí-da-gub-bu-a-šè /x {erasure?}\-DU
+12.
+X1 col. ii 1 gu-šúm an-na-sar-r[a . . .]
+X2 col. ii 12 /gu-šúm\ an-ni-/ib\-dab -bé
+5
+13.
+X1 col. ii 2 lú ki-ús-ke -a-ni dub-dím / si sá-a ù-bí-i[n-dug ]
+4 4
+X2 col. ii 13 lú ki-ús-a-ke -/ni\ dub-dím-e si sá-a ù-bí-in-dug
+4 4
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+100 Journal of the American Oriental Society 137.1 (2017)
+14.
+X1 col. ii 3 ki-ús-bi-šè si ba-sá-ne
+X2 col. ii 14 ki-ús-bi-/šè dub-dím ub\-ba-ab-è-ne-eš
+15.
+X1 col. ii 4 ki-ús-ka dùb gurum-ma al-gub-n[e]
+X2 col. ii 15 ki-ús-a-ka dùb /gurum\-ma /al-gub-bu-ne\
+16.
+X1 col. ii 5 lú šúm-ma-ab-zé-en /šu\ gaba-na /x\ [. . .]
+X2 col. ii 16 lú šúm-ma-ab-zé-en-na níĝ-šu gaba-ni ab-ús šu-kíĝ ì-dab
+5
+17.
+X1 col. ii 6 ugu-bi níĝ-zi-da inim a-ab-/ak?\
+X2 col. ii 17 ugu-/bi\ níĝ-zi-da-a dirig inim-inim ak-da-ni al-gub
+18.
+X1 col. ii 7 šúm-ma-ab-zé-en gù al-dé-[dé?]
+X2 col. ii 18 šúm-ma-ab-zé-en gù al-dé-dé-/e\
+19.
+X1 col. ii 8 lú igi-ni al-bar-re-a lú šu-ni lú ĝiri -ni al-[x]
+3
+X2 col. ii 19 lú igi-ni al-x-ù-a lú ĝiri !-ni al-/x\
+3
+20.
+X1 col. ii 9 lú šúm-ma-ab-zé-en mu-ni-un-[x (x?)]
+X2 col. ii 20 lú šúm-ma-ab-zé-en-na níĝ mu-ni-un-pàd-dè [. . .]
+21.
+X1 col. ii 10 ki-ús-a-ka a ba-da-[x x (x?)]
+X2 col. ii 21 ki-/ús\ a ba-da-gub-ba a-rá 1 a-rá 2-ka /a\ [. . .]
+22.
+X1 col. ii 11 a-rá 1 a-rá 2-àm-ka /x\ [x (x?)]
+X2 (with line 21)
+23.
+X1 col. ii 12 lú a-a-ke dug kéš-d[a . . .]
+4
+X2 col. ii 22 lú a-a-ke dug kéš-da ù-bí-/in\-[x]
+4
+24.
+X1 col. ii 13 /dúb\-ba-ab lú im-/dúb\-[. . .]
+X2 col. ii 23 dúb-ba-ab lú im-dúb /ù-bí-in\-[. . .]
+24a.
+X1 col. ii 14 tag-ab-ba x /x\-[. . .]
+25.
+X1 col. ii 15 /dug\ ù-NE íd šà [iri-ka . . .]
+X2 col. ii 24 /íd a-bi\ ù-NE /íd šà\ iri-ka [. . .]
+26.
+X1 col. ii 16 /na \-na -ne x /x x\ [. . .]
+8 8
+X2 col. ii 25 [. . .] /x x x x ta?\ àm-mi-íb-[. . .]
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+GADOTTI and KLEINERMAN: “The Rules of the School” 101
+27.
+X1 col. ii 17 [. . .] ab-lá [. . .]
+X2 col. ii 26 [. . .] /x x x\ [. . .]
+28.
+X1 col. ii 18 /x x\ DI dumu é-dub-ba-a [. . .]
+29.
+X1 col. ii 19 lú-e ká saĝ íl-ta-àm [. . .]
+30.
+X1 col. ii 20 šu-ne-ne-ta lú! ab-lá-e [. . .]
+31.
+X1 col. ii 21 lú kisal-lá-ke lú dub-sar! /x\ [. . .]
+4
+32.
+X1 col. ii 22 ki dùb gurum-ma-šè mu-ni-íb-/x\-[. . .]
+33.
+X1 col. ii 23 lú a-a-ke a-bi níĝ-zi-da [. . .]
+4
+34.
+X1 col. ii 24 lú x-x-x-na šu-ne-[. . .]
+35.
+X1 col. ii 25 šu-ne-ne-a ù-un-/x\-[. . .]
+36.
+X1 col. ii 26 lú /lú\-ù ab-da-lá-a [. . .]
+37.
+X1 col. ii 27 lú /x-x\ nu-un-šid-[. . .]
+38.
+X1 col. ii 28 šà šu-na egir šu-na ud{erasure}-bi /x\
+39.
+X1 col. ii 29 lú a-a-ke a bí-íb-na -na
+4 8 8
+40.
+X1 col. ii 30 a na -a-ni nu-ub-ta-kar de -de -ga ba-an-na-ab-bé ba-an-/x\
+8 5 5
+41.
+X1 col. ii 31 lú kisal-lá-ke si sá-a bí-in-dug si ba-sá-e-ne-eš
+4 4
+42.
+X1 col. ii 32 /ki?-ús? x x\-ta lú /dirig\ [. . .]
+43.
+X1 col. ii 33 [. . .] /x x\-a-àm [. . .]
+Section Three
+1.
+X2 col. iii 1′ [. . .]
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+102 Journal of the American Oriental Society 137.1 (2017)
+2.
+X2 col. iii 2′ /x x\ [. . .]
+3.
+X2 col. iii 3′ /KA NÍĜ\ [. . .] /x x\ [. . .]
+4.
+X2 col. iii 4′ /lú ki-ús\ [. . .] /x x\ [. . .]
+5.
+X2 col. iii 5′ /x\ [. . .] /x x-a\-šè x [. . .]
+6.
+X1 col. iii 1′ [. . .]
+X2 col. iii 6′ /x x x x x x\ [. . .]
+7.
+X1 col. iii 2′ gu -an-zé-en ù-ba-ab-dug al-/ak\-[eš]
+7 4
+X2 col. iii 7′ [g]u ?-/an-x?-zé-en\ ù-/bí\-[dug . . .]
+7 4
+8.
+X1 col. iii 3′ níĝ-gu -ta dub-ba PAD-/x\
+7
+X2 col. iii 8′ /x x x x x x x\ [. . .]
+9.
+X1 col. iii 4′ lú šu-na ka-ga -na hé-šub-bé ab-ta-[. . .]
+14
+X2 col. iii 9′ /lú šu-na ka-ga -na bí-ib\-[. . .]
+14
+10.
+X1 col. iii 5′ lú saĝ-ĝar-ke šu ù-bí-in-dug ! bí!-g[u ?-. . .]
+4 4 7
+X2 col. iii 10′ /lú saĝ-ĝar-ke \ ù-bí-in-x x x [. . .]
+4
+11.
+X1 col. iii 6′ lú a-a-ke a bí-íb-na -na
+4 8 8
+X2 col. iii 11′ l[ú a-a]-ke a bí-ib-[na -na ]
+4 8 8
+12.
+X1 col. iii 7′ a na -a-ni nu-ub-da-kar-aš
+8
+X2 col. iii 12′ [. . .]-ni nu-ub-[. . .]
+13.
+X1 col. iii 8′ im-deg -ne an-na-ab-tag ba-an-da-ab-kar
+x
+X2 col. iii 13′ /im-deg -ne an-na-ab\-tag ba-a[n . . .]
+x
+14.
+X1 col. iii 9′ a na -na -dè ù-ba-ab-til
+8 8
+X2 col. iii 14′ [a n]a -n[a -d]è un-[. . .]
+8 8
+15.
+X1 col. iii 10′ ĝešsa ab-lá-e bí-a-ab-gíd ù-bí-ĝar
+X2 col. iii 15′ [x] /a\-ab-lá-e bí-a-ab-gíd ù-bí-[ĝar*]
+*X2: broken but room for just one sign
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+GADOTTI and KLEINERMAN: “The Rules of the School” 103
+16.
+X1 col. iii 11′ ĝešsa ù-ba-ab-lá-e-a ù-ba-ab-gíd
+X2 col. iii 16′ /ĝešsa ù\-ba-ab-lá-a ù-ba-ab-/gíd\
+17.
+X1 col. iii 12′ lú kisal-lá-ke sar-ra-en-zé-en ù-bí-dug ba-an-sar-sar-ne-eš
+4 4
+X2 col. iii 17′ /lú kisal-lá\-ke si sá-ab-zé-en ù-bí-/ib-dug \ si ba-/sá\-e-ne-eš
+4 4
+18.
+X1 col. iii 13′ dúr-ru-ba-an-zé-en ù-ba-e-dug ba-dúr-ru-ne-ne
+4
+X2 col. iii 18′ /dúr-x-ba-an-zé\-en /ù-bí\-in-dug ba-/dúr-ru\-ne-en-ne-en
+4
+19.
+X1 col. iii 14′ tukum-bi dub-e igi bí-íb-kár-kár
+X2 col. iii 19′ /tukum\-bi dub-/e igi\ bí-ib-/kár-kár\
+20.
+N1 rev. 1′ dumu é-dub-ba-a sar-šub-ba-ni ù mu-[gub-ba-ni]
+X1 col. iii 15′ dumu é-dub-ba-[k]e ? im sar-šub-ba-ni ù im mu-gub-[ba-ni]
+4
+X2 col. iii 20′ /dumu\ é-dub-ba-ke sar-šub-ba-na ù mu-/gub\-[b]a-na
+4
+21.
+N1 rev. 2′ ĝiškim-ma-na inim àm-ĝál-[x]
+X1 col. iii 16′ ĝiškim-ma-na inim an-na-ĝ[ál-x]
+X2 col. iii 20′ [ĝiš]kim-ma-na inim an-na-/ĝál\
+22.
+N1 rev. 3′ ad-da é-dub-ba-a-ka-ni da-bi ì-ur -/ur \
+4 4
+X1 col. iii 17′ ad-da é-dub-ba-ka si an-na-[. . .]
+X2 col. iii 21′ ad-da é-dub-ba-ka-/ni\ si an-na-ab-sá [x]
+23.
+N1 rev. 4′ šeš-gal-e ù-ba-dab dub-bé igi bí-íb-kár-kár
+5
+X1 col. iii 18′ šeš-gal-e /ù-ba\-a-dab dub igi /bí\-[. . .]
+5
+X2 omits
+24.
+N1 rev. 5′ ki gu-sum si nu-ub-sá-a si an-na-ab-sá-e
+X1 col. iii 19′ ki gu-/sum si nu\-[. . .]
+X2 col. iii 22′ /ki\ gu-sum si nu-ub-sá-e si an-na-ab-sá-[e]
+25.
+N1 rev. 6′ tukum-bi dumu é-dub-ba-a tur-re
+X1 col. iii 20′ /x x\ [. . .]
+X2 col. iii 23′ tukum-bi šu dumu é-dub-/ba-a\ tur-ra nu-tag-ta[g-x]
+26.
+N1 rev. 7′ sar šub-ba-ni ù mu-gub-ba-ni ka-ga -na li-bí-in-sè
+14
+X1 col. iii 21‘ /x x x x\ ù mu-[. . .]
+X2 omits
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+104 Journal of the American Oriental Society 137.1 (2017)
+27.
+N1 rev. 8′ šeš-gal-e ad-da é-dub-ba-a ka-ni an-túd-dè
+X1 col. iii 22′ šeš-gal-e ad-da é-dub-/ba\ [. . .]
+X2 col. iii 24′ šeš-/gal\-e /ad-da é\-[du]b-ba /ka\-ni an-/túd\-[dè]
+28.
+N1 rev. 9′ níĝ-kurum ak-dè ù-ba-ab-til
+7
+X1 col. iii 23′ šid-kurum /ak-da\ /ù-ba\-[ab-til]
+7
+X2 col. iii 25′ /šid-kurum \ [. . .] /ù-ba-ab\-[til]
+7
+29.
+N1 rev. 10′ [lú] a-a-ke dug dab -ba-ab lú im dug-zu ù-bí-in-du -du
+4 5 11 11
+X1 col. iii 24′ lú a-a-ke /dug? dab -ba-ab lú im\ [dug-zu] ù-bí-/in\-[du -du ]
+4 5 11 11
+X2 col. iii 6′ /lú\ [. . .b]a-ab /lú im dug\ [. . .]
+30.
+N1 rev. 10′ ab-dab -bé-ne
+5
+X1 col. iii 25′ dug ab-dab -bé-ne
+5
+X2 col. iii 27′ [. . .]
+31.
+N1 rev. 11′ íd šà iri-ka-ta àm-mi-ib-si-si-ne
+X1 col. iii 26′ íd šà iri-ka-ta-a àm-mi-ib-/si\-[si-ne]
+X2 col. iii 28′ [. . .]-ke àm-[. . .]
+4
+32.
+X1 col. iii 27′ /diš\ lahtan-na ù-bí-in-si-[. . .]
+33.
+X1 col. iii 28′ [x] /x é?\-dutu /ĝešsa\ ab-lá-e a-ab-gíd ù-[. . .]
+34.
+X1 col. iii 29′ [. . .]/x\-NE ki ĝeš/gu\-za dnin-[x(-x?)]
+35.
+X1 col. iii 30′ [. . .] /x-ab-x\-[. . .]
+36.
+X1 col. iii 31′ [. . .] /x\-ĝar-re-eš ù-[. . .]
+37.
+X1 col. iii 32′ [. . .] /x\ ba-an-/x\-[. . .]
+Section Four
+1.
+X2 col. iv 1′ [. . .]
+2.
+X2 col. iv 2′ [. . .] /é?\-dub [. . .]
+3.
+X2 col. iv 3′ [. . .] x da x [. . .]
+4.
+X2 col. iv 4′ [. . .]-/e KA hé-en-na-x-bi\ [. . .] /x\
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+GADOTTI and KLEINERMAN: “The Rules of the School” 105
+5.
+X1 col. iv 1′ dug /x\ [. . .]
+X2 col. iv 5′ [. . . z]é-en šu-na x x DU x x [x]
+6.
+X1 col. iv 2′ ì-šid-bi x x [. . .]
+X2 col. iv 6′ [. . .] /x x x x\ [. . .]
+7.
+X1 col. iv 3′ a-na-aš-àm kurum -ma-ne-ne al-e-tur
+6
+X2 col. iv 7′ [. . .] al-[. . .]
+8.
+X1 col. iv 4′ a-na-aš-àm kurum -ma-ne-ne níĝ-gu nu-ĝál
+6 7
+X2 col. iv 8′ a-[. . .-n]e-ne /x x níĝ-gu nu-ĝál\
+7
+9.
+X1 col. iv 5′ lú lú-ù dumu ĝá-gi -a-ka x-x-en-nu
+4
+X2 col. iv 9′ /lú?\ [. . .]-a-ka x x [. . .] x x
+10.
+X1 col. iv 6′ gú-ne-ne zi-ga-an-zé-en
+X2 col. iv 10′ [. . . g]ú-ne-ne /zi-ga-an-zé\-[en]
+11.
+X1 col. iv 7′ si sá-zé-en ù-bí-íb-dug si sá-sá-e-ne-eš
+4
+X2 col. iv 11′ [. . . b]í-in-dug si sá-sá-/x\-[. . .]
+4
+12.
+X1 col. iv 8′ é-šè te-te-a-šè
+X2 col. iv 12′ [. . .]
+13.
+X1 col. iv 9′ 2-bi-šé dnisaba-šè ki ĝešgu-za dnin-líl!
+X2 col. iv 13′ [. . . ĝe]šgu-/za dnin\-[. . .]
+14.
+X1 col. iv 10′ dumu é-dub-ba ki gešgú-za um-mi-a
+X2 col. iv 14′ /*dumu é-dub-ba ki\ [. . .] /x-x\ [. . .]
+*X2: two Winkelhaken before the first sign
+15.
+X1 col. iv 11′ dug -ba-ne-ne-a ki ab-za-za-ne
+4
+X2 col. iv 15′ dug -/bí\-ne-ne-a ki a[b? . . .]
+4
+16.
+X1 col. iv 12′ ká lú bal-a-ka ki ĝeš KA šeš-a-ka
+X2 col. iv 16′ ká lú balala-ke ki ĝe[š KA še]š-x [. . .]
+4
+17.
+Ur1 rev. 1′ /x x\ [. . .]
+X1 col. iv 13′ ki-ús-bi ba-ab-da-gíd-dè
+X2 col. iv 17′ ki-ús-bi-šè /ba-ab-gíd-dè\
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+106 Journal of the American Oriental Society 137.1 (2017)
+18.
+Ur1 rev. 2′ šeš-gal-e [. . .]
+X1 col. iv 14′ šeš-gal-e ù-ba-gub
+X2 col. iv 18′ šeš-gal-e ù-ba-/gub\
+19.
+Ur1 rev. 3′ im šu-ka-ne-ne-a gù /x\-[. . .] an-na-dé!-/e\-ne
+X1 col. iv 15′ im šu-ne-ne-a gù an-na-dé-e-ne
+X2 col. iv 19′ im šu-ka-ne-ne gù /mu-x\-[(x)]-/(x)-dé-e-ne?\
+20.
+Ur1 rev. 4′ dé-ma-da-ni-/ib\ x x [. . .] al-du-un-n[a?. . .]
+X1 col. iv 16′ dé-ma-da-ni-ib <<ni-ib>> al-DU
+X2 col. iv 20′ /gù ak\-da-ni-ib al-DU-DU
+21.
+Ur1 rev. 5′ lú tag-tag-ge da ke -d[a . . .] sahar mu-ab-gub-/x\
+4
+X1 col. iv 17′ lú tag-tag-ge da ke -da úr-ra ab-gub
+4
+X2 col. iv 21′ lú tag-tag-ge da ke -da-bi a[l]-gub
+4
+22.
+Ur1 rev. 6′ lú búr-ra-bi al-DU-[. . .] im-ma bí-in-du [. . .]
+8
+X1 col. iv 18′ lú búr-ra-bi al-DU-na im-ma-na-dúb-bé
+X2 col. iv 22′ lú búr-ra-bi al-DU-/un-na x bí?\-in-DU-bé-en
+23.
+Ur1 rev. 7′ dumu é!-/dub\-ba-ke é!-[šid-da-na] sar?-[ra-ni]
+4
+X1 col. iv 19′ dumu é-dub-ba-a é-šid-da-na sar-ra-ni
+X2 col. iv 23′ dumu é-dub-/ba\-a é-šid-da-/na\ [sar-r]a-ni
+24.
+Ur1 rev. 8′ im /šu šid\-na [. . .] /da\ [. . .]
+X1 col. iv 20′ im šu-na šid-da-na ama-na nin-a-ni šeš-a-ni
+X2 col. iv 24′ [im šu-na šid]-da-na ama-/na nin-a-ni\ [šeš]-/a\-ni
+25.
+X1 col. iv 21′ šu ti -ab tag-ge gù ba-dé-e
+4
+X2 col. iv 25′ [šu ti ]-/ab tag-ge gù im\-[. . .] gú an-na-dé-e
+4
+26.
+X1 col. iv 22′ á-áĝ-ĝá é-dub-ba-a um-mi-a
+X2 col. iv 26′ [á-áĝ-ĝá] /é-dub-ba\ um-mi-a
+27.
+X1 col. iv 23′ dnisaba zà-mí
+X2 col. iv 27′ [dnisaba] zà-mí
+X1 Colophon šu-niĝin 3 šu-ši 5
+UNPLACED LINES
+N1 = CBS 4573 obverse
+Ll. 3–8 parallel UET 6/3, 620 reverse ll. 2–9 (see below). These lines likely fall at the end
+of col. ii of the composite above.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+GADOTTI and KLEINERMAN: “The Rules of the School” 107
+1. tukum-bi UŠ-a-ni
+2. lú ki dùb gurum-ma túg ki-na u[n-n]a-tag UŠ-a-ni al-de -de
+5 5
+3. UŠ-a-ni un-/de !-de ? \ nu-ub-tag-tag-{ge: erased}-ge<<-en-en>> à[m-m]i-in-
+5 5
+e -dè
+11
+4. sar-šub-ba-ni ù mu-/gub\-ba-ni ab-/du -ge\
+10
+5. dub-ba-ne-ne un-til-le-eš
+6. sar-šub-ba-ne-ne ù mu-gub-ba-ne-ne inim-inim 13-ne-ne ù-bí-in-sè-ge -eš
+5
+7. ki im-na 14 na-de -de -ge-ne ki im-na na-ab-tag-tag-ge-ne
+4 5 5 4
+8. [. . .] NE A àm-ma-ib-si-si-ne
+1. If . . .
+2. After the man who sat down touched the cloth at his seat he gathers his . . .
+3. After he gathered his . . . he does not touch it but he gets up.
+4. His exercise tablet and his lexical list are good.
+5. After they have completed their tablets
+6. (and) after they have placed their exercise tablet, their lexical list, and their assignments
+7. they should not gather at the place of the im-stone, they should not touch (anything) at
+the place of the im-stone.
+8. . . .
+N2 = CBS 11786, reverse col. iv
+1′. [x x] /a-rá 3-àm\ [é]-dub-ba-šè [. . .]
+2′. níĝ-zú-gub pa ù-ba-ab-[è? . . .]
+3′. KA-ĜAR-ke lú nam-ta-du -ga [. . .] im-ma bí-in-gub-b[é]
+4 11
+(double line ruling indicating the end of the exercise)
+1′. . . . for the third time . . . to the school
+2′. After lunch was served . . .
+3′. . . . he set out the clay.
+Ni 4103 (ISET 2, 72)
+This tablet is included because of the verb ù-bí-in-dug . This chain occurs frequently in
+4
+Eduba R, but is otherwise poorly attested in Sumerian compositions.
+obverse
+(beginning broken)
+1′. [. . .] /x\-šu-ne
+2′. [. . .]-RU-ne-ne-eš
+3′. [. . . e]n?-/KA\-en ù-bí-in-dug
+4
+4′. [. . .]-/x\-e-ne
+5′. [. . .]-/x\-x-šú šu-ne-ne àm-ĝál
+6′. [. . . N]E in-ub-ra
+7′. [. . .]-/x\-ba-ab-dug
+4
+8′. [. . .]-/x\-kam
+13. For inim-inim as “assignment” see col. i l. 6.
+14. im-na , Akkadian immanakku, is a stone used for making cylinder seals (CAD I 128). The lú-im-na -a
+4 4
+is attested alongside the lú-dug-lahtan and the lú-ká-na in OB Lu A 467ff. Alternatively, im-na , Akkadian
+4
+kuššikku, is a type of clay (AHw 517).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+108 Journal of the American Oriental Society 137.1 (2017)
+9′. [. . .]-ta-/x\-a
+10′. [. . .]-/x\-dé-dé-e
+11′. [. . .]-/x\
+(rest broken)
+reverse
+(beginning broken)
+1′. [. . .] /x\ [. . .]
+2′. [. . .]-ma-an-DU-eš
+3′. [. . . d]é-e
+4′. [. . . a]n-/x\ ab-bé
+5′. [. . .]-/x\ x mu-ba-a-BAD
+6′. [. . .]-na-dug
+4
+7′. [. . .] /x\-ba-te
+8′. [. . .] /x\ NI ù mu-gub-ba-ni
+9′. [. . .] /x\ šúm-mu
+10′. [. . .] /x\ im-ma-an-DU-eš
+11′. [. . .] in x pad ba-ni-KU ab-ta-è
+12′. [. . .] /x\ [. . .]
+(rest broken)
+Ur2 = UET 6/3, 620
+Reverse ll. 2–9 parallels CBS 4573 obverse ll. 3–8 (see above).
+obverse
+1. [. . .]-/bé?\ [. . .]
+2. [. . .]-ab-bé ba-a[n-x]
+3. [. . .]-na -ne un-/x\-[x]
+8
+4. [. . . lú kisa]l-lá-ke si sá-a-[ab] si ba-sá-e-e[n]
+4
+5. [. . . na]m-šeš-gal-ta diri lú AN-zu-gin
+7
+6. [. . .] x NE-NE-dè-eš [. . .]-ku -ku -dè-eš
+4 4
+7. [lú kisal-lá-ke sar-ra-ab-en]-zé-en ù-bí-in-dug [ki-tuš-ne-ne-a ba]-dúr-ru-
+4 4
+ne-dè-eš
+8. [. . .]-edè šu ti-ba-ab-zé-en
+9. [. . .] dub-ba-na-ka a-ab-šú [šu-n]e-ne-a àm-ĝál
+10. . . .]-a kisal búr-ra-bi in-gub-ba [. . .-n]i gù ba-an-dé
+11. [. . .] /x\ ĝešdub-dím-ta-a ra-ra
+12. [lú ĝeš-hu]r-ra-ke ĝiri -bi ĝeš bí-íb-hur-ra
+4 3
+13. [. . .] /x\-zé-en ù-ba-ab-du -ga
+11
+14. [. . .] /x\-ga nam-šeš-gal-ta
+15.[. . .] /x\-ne a-ab-til-le [. . .]-dé-e
+reverse
+1. [. . .] /x\ [. . .]
+2. [. . . à]m-mi-in-/e -dè\
+11
+3. [. . . g]ub-ba-ni ab-du -g[e]-en
+10
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+GADOTTI and KLEINERMAN: “The Rules of the School” 109
+4. [. . . u]n-til-le-eš
+5. [. . .] mu-gub-ba-ne-ne
+6. [. . .] /ù\-bí-in-sè-ge-eš
+7. [. . . d]e -ge-da
+5
+8. [. . .]-de -de -ge-dè
+5 5
+9. [. . . m]a-ib-si-si-ne
+10. [. . .]-dug
+4
+11. [. . .] /x\ ù-da-dug [. . .]-dé
+4
+12. [. . .-u]n-DU-dè-eš
+13. [. . .] níĝ al-sur-re
+14. [. . .]-til-le-eš
+15. [. . .] /x\ bí-ib-KU-/x\-a
+16. [. . .] AN DU-a-aš [. . .]
+17. [. . .] /x\ KA /x\ [. . .] /x x\ [. . .]
+18. [. . .] /x x\ [. . .]
+19. [. . .] /x\ [. . .]
+TRANSLATION
+Section One
+1. [Teacher:] “Youngster, are you a student?” [Student:] “I am (indeed) a student.”
+2. [Teacher:] “If you really are a student,
+3. (then) what are the rules of the school?”
+4. [Student:] If you (were to) ask me about the rules of the school,
+5. (then) let me put it to you: I would be speaking from sunrise until sunset,
+6. and I wouldn’t be able to finish my assignments!
+7. But I do know the rules of the school, which are limitless.
+8. [Teacher:] “Just as one who is mute, you do not know how to speak.”
+9. [Student:] When I go to school
+10. it is the third (watch) of the night, it is raining, but I lift my head and eat (my breakfast).
+11. After I ate (my breakfast),
+12–13.
+X1: I took my stylus, my lentil-shaped tablet, the things that I was told (I needed) and
+the things I was requested (to have) for school.
+X2: After I took the things that I was requested (to have) for school
+14. I went to school humbly, I was not looking (around).
+15. Once I entered the school,
+16. I set my hand in place (respectfully), and I prostrated myself.
+17. The courtyard attendant placed the tablet (which had been) in my hands on the ground.
+18. The man in charge of macerating clay, sitting down, . . .
+19. (Despite) sitting down, he beat my head against the ceiling? (lit. against the sky.)
+20. If he touches . . .
+21. he will set up the macerated clay.
+22. After sitting down, I got up,
+23. (but once again) the courtyard attendant placed my hands on the ground.
+24. After he told me “Sit!”, then I . . .
+25. “(Only) if Nisaba tells me!”
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+110 Journal of the American Oriental Society 137.1 (2017)
+26. [Courtyard attendant:] “You all sit down and recite (your work)!”
+27. After the courtyard attendant placed them (i.e., the students) together for the second time,
+28. as one recites to another,
+29. he recites arithmetic to the one who, in turn, recites arithmetic.
+30. He recites vocabulary to the one who, in turn, recites vocabulary.
+31. If the children have not been assembled,
+32. then the one who . . . went outside the ĝá-gi -a (of the school to get them).
+4
+33. After the children have been assembled,
+34. the courtyard attendant, the macerated clay, clay that has been cut up (to make tablets),
+the clay that is desired for school (work),
+35. after several days he will examine it.
+36. (Once) the macerated clay has been brought in,
+37. . . .
+(Approximately 13 lines are missing from the end of X1, which may be duplicated at the
+beginning of col. ii of X2.)
+Section Two
+1. The man in charge of the water jugs . . .
+2. The man in charge of the lentils . . .
+3. The man in charge of the water jugs . . .
+4. The courtyard attendant, the man in charge of the tablet boards, and . . .
+5. . . .
+6. The man in charge of the tablet boards . . .
+7. Until he has fashioned his tablet,
+8. each one fashions (and) prepares his own tablet.
+9. In order to set up the tablet, one sets up the tablet.
+10. Until he is able to set up his tablet,
+11. he . . . before he can set up his tablet.
+12. X1 Having written the wedge for him . . .
+X2 He writes the wedge.
+13. After the man . . . said “prepare the tablet board,”
+14. they prepared it at their ki-ús.
+15. Having sat at the ki-ús, they set it (= the tablet board) up.
+16. X1 (He said:) “You all give it to the man!” . . . his chest (and) . . .
+X2 (He said:) “You all give it to the man!” He brought his hand to his chest (and)
+prostrated himself.
+17. X1 On account of (his) authority, he gave instructions.
+X2 On account of (his) authority, he stood to give additional instructions.
+18. He called out “You all give it!”
+19. X1 As the man looked, he . . . his hand and he . . . his foot.
+X2 The man having . . . eyes, having . . . his foot.
+20. X1 He [called (out:)] “You all give it to the man!”
+X2 (He said:) “You all give it to the man!” He found something there . . .
+21. Once he was able to set the water at the ki-ús,
+22. once, twice . . .
+23. After the man in charge of the water [prepared] the bound pot,
+24. the man in charge of flattening the clay [said:] “Flatten it!”
+24a. . . . “Touch it!”
+25. The canal, its water, . . . the Canal in the Heart of the City . . .
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+GADOTTI and KLEINERMAN: “The Rules of the School” 111
+26. . . .
+27. . . .
+28. . . . the student . . .
+29. . . .
+30. The man in charge of drawing the water . . . from their hands.
+31. The courtyard attendant . . . the scribe.
+32. Having sat down, he . . . there.
+33. The man in charge of the water, . . . their water with authority.
+34. . . .
+35. After he . . . in their hands,
+36. since they can carry each other . . .
+37. The one who does not count . . .
+38. . . . in his palm and on the back of his hand.
+39. The man in charge of the water feeds them water.
+40. He does not take his drinking water away. He says to him “gather (it) up!” and [they
+gathered it up].
+41. The courtyard attendant said “put things in order (to get ready to work)!” and they put
+them in order.
+42–43. . . .
+(Approximately 27 lines are missing at the end of X1 col. ii and the beginning of X1 col. iii,
+five of which are preserved at the beginning of col. iii of X2.)
+Section Three
+1–6. . . .
+7. After he said “you eat,” they ate
+8. the food according to the food allocation tablet.
+9. The man . . . into his hand and into his mouth . . .
+10. After the man in charge of entwining accomplished (this), he ate.
+11. The man in charge of the water was drinking water
+12. because his water had not been taken away.
+13. He touched and took their. . .
+14. After he finished drinking,
+15. he stretched a net (over the water jug) and dragged it (away). After he placed (. . .),
+16. after he stretched the net (over the jug) and dragged (it away),
+17. X1 then, once the courtyard attendant said “you write,” they wrote.
+X2 then, once the courtyard attendant said “get ready,” they got ready.
+18. After he said “you sit down,” they sat down.
+19. If a tablet is to be reviewed,
+20–21. then the student will lay out words as his signs on his exercise tablet and his lexical
+list.
+22. N2 and his teacher will hover by (his) side.
+X1, X2 and his teacher will correct it.
+23. After the senior student has collected the tablets, he will review them.
+24. He will correct the places where the wedges are incorrect.
+25. N1 If the student is junior,
+X2 If the student is junior and an ignoramus,
+26. is unable to recite his exercise tablet and his lexical list,
+27. the senior student and the teacher will slap his face.
+28. After the inspection is completed,
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+112 Journal of the American Oriental Society 137.1 (2017)
+29. and after the man in charge of the water says “take the jars, you idiots, your jars,”
+30. then they will take the jars.
+31. They will fill them from the Canal in the Heart of the City.
+32. After they have filled one jar,
+33. . . . he dragged the net and stretched it. After . . .
+34. . . . at the place of the chair Nin-. . .
+35–37. . . .
+(Approximately 13 lines are missing from X1, four of which the beginning of col. iv of X2
+preserves.)
+Section Four
+1–6. . . .
+7. Why are their food rations inadequate?
+8. Why is there nothing to eat in their rations?
+9. Everyone among the children of the ĝá-gi -a . . .
+4
+10. After he said “You lift your heads
+11. and set (them) straight,” once they set them straight,
+12. as they approach the school,
+13. just like Ninlil (does) at the chair of Nisaba,
+14.-15. the students are obedient at the chair of the senior teacher, even when speaking.
+16. At the gate of the man on duty, at the place of the . . . of the classmate,
+17. they are able to drag their ki-ús.
+18. After the senior student was present,
+19. they read aloud from their lentil-shaped tablets.
+20. (He said:) “read.” (Then) he left.
+21. Once the man in charge of the felted cloth arrived, he stood (on the ground). 15
+22. Once the man in charge of loosening the clay loosened it, he trampled it. 16
+23. While the student is writing in his storeroom,
+24–25. he says, (referring to) his lentil and his account, “Take it! Touch it!” to his mother,
+his sister, and his brother.
+26. These are the senior teacher’s rules of the school!
+27. Praise Nisaba!
+Colophon: total = 185 (lines)
+COMMENTARY
+Section One
+L. 1: Eduba R is attested in the Nippur Catalogue No. 2 l. 57 by its third line instead of by
+its incipit. As Civil (1985: 67) demonstrated, some literary compositions that opened with the
+same line were identified by the first divergent line in order to avoid confusion.
+L. 3: Literally “What are the rules of the school?” However, what is meant is the entire
+routine of the eduba, as the student goes on to explain.
+15. The manuscript tradition for the second half of this line is different. Whereas Ur1 and X1 specify where the
+subject stands (sahar and úr), X2 omits this specification.
+16. We understand the main verb of this clause to be dúb, “to trample,” and the other verbs (du and DU) to
+8
+be aural mistakes.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+GADOTTI and KLEINERMAN: “The Rules of the School” 113
+L. 5: In this line, “sunset” is expressed metaphorically, literally as “until (the sun) returns
+to the walls (of his abode)” (M. Civil pers. comm.). The expression is attested lexically; see
+OBGT I/1 xi 33′ = 815.
+L. 6: The postposition -da does not have a comitative nuance here but is a hyper-corrected
+form influenced by the abilitative nuance of the -da- verbal infix.
+L. 10: We would like to thank M. Civil for providing us with the solution to this diffi-
+cult line. He suggests that the latter part of this line parallels Eduba A l. 21, which reads:
+KA×X-ĝu íb-ta-an-ak and where X appears to be ĜAR in at least one manuscript. In
+10
+view of ka ak-a = patānu, “to eat” (CAD P 271), the student is here eating his breakfast.
+L. 12: For im-šu, “lentil(-shaped tablet),” see George 1993: 70–71.
+L. 14: The meaning of sun is problematic. The OB lexical tradition is as follows:
+5
+lú al-sun -na = ša-al-ṭù “haughty” OB Lu-Azlag A 93
+5
+lú al-sun -na = wa-aš-[rum] “humble” OB Lu-Azlag A 95
+5
+sun as a variant for sun , “to be haughty,” is attested lexically and in only one literary
+5 7
+composition (Inana and Bilulu). Therefore, and given the context, we prefer the meaning “to
+be humble.” We interpret igi nu-bar-bar-re as indicating that the student keeps his head
+down, wishing to remain inconspicuous.
+L. 17: The lú kisal-lá is also attested in Eduba A 31, where he orders the students
+to write (as in our text col. iii 15). Kramer (1949: 211) suggested that “the courtyard was
+utilized for classroom purposes when the weather permitted” and that “it would seem that
+the ‘man of the courtyard’ acted as a kind of proctor and saw that the pupils kept to their
+assigned writing tasks.” Charpin (2011: 26) proposed the translation “recess attendant.”
+L. 18: lú pa-mušen-na is attested lexically in OB Lu A 462 (MSL 12 171, a bilingual in
+which it is equated to ša gappi, “of the feather”) and OB Lu D 299 (MSL 12, 209), as well
+as in Eduba A. In all three texts it is associated with the lú ĝiš-hur, “man of the drawing.”
+We would like to thank our anonymous reviewer for suggesting a definition of the lú
+pa-mušen-na. The reviewer pointed out that “the clay used for school tablets was finely
+macerated” and that this may be what is happening in the present context: the clay was finely
+“feathered” and used to make tablets. As such, the lú pa-mušen-na would be the man in
+charge of macerating the clay.
+L. 19: For an-šè sàg, describing upward motion, see Volk 1995: 57 n. 381.
+Ll. 24–25: We understand this passage as follows: the courtyard attendant gives an order
+to the narrator, which he refuses to obey, claiming that Nisaba has more authority then the
+supervisor. The supervisor then turns to the other students, gathers them, and groups them
+into pairs. He then orders them to recite their lessons, which they do.
+Ll. 25–26: Implied here is the sentiment “then I will do it.” For a similar example of a
+conditional clause with the /u/ prefix see Jagersma 2010: 524 ex. 34.
+L. 26: The verb in X2 has the suffix -en-dé-en, an error for -en-zé-en, perhaps due to
+dittography given the verbal root.
+L. 27: To the best of our knowledge the expression 2-ta-bi-šè is otherwise unattested.
+We propose that this is a synonym for teš-bi, stressing the idea that the students are paired.
+L. 28: For lú lú-ù, “one to another,” see Steinkeller 1989: 47.
+L. 32: The term ĝá-gi , gagû, is usually translated as “cloister” or “women’s quarter,”
+4
+in reference to the area in which the Old Babylonian nadītus lived. This meaning, however,
+is not suitable to the present context. The term is also known from a few Ur III contexts
+(e.g., BPOA 6, 1329, SAT 2, 393), which, however, do not offer conclusive evidence as to
+its meaning.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+114 Journal of the American Oriental Society 137.1 (2017)
+Section Two
+L. 11: Both hé-DU and al-DU are possible.
+L. 12: dab as a synonym of sar, “to write,” occurs in a small fragment (Ni 4217+) that
+5
+fills in part of the end of OBGT III (Civil 1998: 5).
+L. 13: The identity of the lú ki-ús is unclear. Interpreting ki-ús as a cultic dais seems
+unlikely in this context; perhaps it refers to a platform on which the students sat.
+L. 17: The basic meaning of níĝ-zid is “righteousness” or “reliability.” However, a trans-
+lation such as “authority” better fits our context.
+L. 24: For the reading of sum for TAG see Proto-Ea 847 (MSL 14 62).
+6
+Section Three
+Ll. 7–8: The syntax of these lines is unexpected, but parallels that of SP 3 100. We pre-
+sume a compound verb níĝ-gu ak, and assume that an -eš has been lost at the end of the
+7
+verb in l. 7. The reading of PAD as šukur or kurum is uncertain. The grammatical rela-
+2
+tionship between dub and PAD is also unclear, but we assume a genitival relationship from
+context.
+L. 10: For šu dug , “to accomplish,” see Attinger 1993: 699. For na4saĝ-ĝar, “upper
+4
+millstone,” see Stol 1979: 89, 92–93; Civil 2006: 123. For lú saĝ-ĝar-ra = ṭa-mu-˹u -um˺,
+2
+“the one who braids, twists, spins, entwines” (CAD T 45; OB Lu B iii 47 = MSL 12 181) is
+perhaps involved with braiding or entwining reed mats or baskets.
+L. 20: Note the following lexical equivalents:
+im-sar-ra ṭuppu (Hh X 441 = MSL 7 102)
+im-sar-šub-ba ŠU-u (Hh X 442 = MSL 7 102)
+im-mu-gub-ba ŠU-u (Hh X 443 = MSL 7 102)
+im-mu-gub-ba ši-pir-tum (Hg to Hh X 115, MSL 7 112)
+mu-gub-ba [ši-ṭi]r š[u]-m[i] (Erimhuš VI 67, MSL 17 83)
+L. 28: The translation follows the Nippur text. X1 and X2 have šid-kurum ; perhaps
+7
+something like “after the recitation is finished” was intended.
+L. 31: For the “Canal in the Heart of the City,” the name of a canal in Nippur according to
+a Middle Babylonian map, see Gibson et al. 1998–2001: 560. Cf. Section Two, l. 25.
+Section Four
+Ll. 11–12: We understand the final verb in both lines here as dependent on the finite verb
+in l. 15.
+Ll. 13–14: 2-bi-šè is the equivalent of Akkadian šanîš, with the meaning “similarly”
+attested in OB (CAD Š/I 386–87). For Nisaba as the mother of Ninlil, see Krebernik 1998–
+2001: 456; Michalowski 1998–2001: 576–77. We understand ll. 13–14 as a chiastic structure
+in which Ninlil is to Nisaba as the students are to the professor.
+L. 16: We translate lú-bal-a as “man on duty” following Civil 1992: 304. Kramer (1949:
+205) translates “monitor” (see Eduba A 24). While there was likely a gate between the house
+and the street, this was certainly not an imposing barrier (Stone 1987: plts. 17–19). A better
+sense here is something like “station” or “post.”
+L. 20: This line is problematic. Contextually, the imperative is unexpected since there is
+no real sequence of events from ll. 19–21 that would justify l. 20 as it stands. Moreover, the
+imperative is never written in this text without the verb “to speak.” As such, we are unsure
+of the reading of DU. While we might assume it as a mistake for dug , its occurrence in
+4
+three manuscripts makes this assumption unlikely. We amend the second ni-ib in X1 as a
+dittography.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+GADOTTI and KLEINERMAN: “The Rules of the School” 115
+As for the verb gù ak in X2, this is an Akkadianism modeled on the expression pâm
+epēšum. For parallels see George 2009: 107 and commentary to col. i 10 above.
+L. 21: For the “man of the felted cloth” see Civil 1992: 304. For da ak as a variant of á
+ak (“to approach, to enter”), see Attinger 2005: 220 with references. We understand úr in
+this context as “ground.” For úr dun-dun, “to sit on the ground,” see Wilcke 1969: 190–91;
+Volk 1995: 202.
+L. 22: du-un (X2) is a syllabic spelling of dun “to dig.” Lexically, lú-al-búr-ra is
+equated to pašru (OB Lu B iii 22 = MSL 12 180) “man in charge of procuring (lit: loosening
+up) the clay.”
+L. 23: For the tenative translation of é-šid as “storeroom,” see the discussion of šid
+nibruki in Tinney 1996: 131–32.
+APPENDIX: SCHOOL STAFF
+Several of the school officials appearing in Eduba R (presented in order of appearance
+below) are attested in the Old Babylonian Lu list (MSL 12), often grouped together. For
+example, the lú pa-mušen-na occurs together with the lú lalahtan-na and lú dub-dím,
+although they are separated by other professional titles that are not preserved in the surviv-
+ing sections of Eduba R. This may be nothing more than coincidence. Alternatively, it may
+suggest that the list was extracted from this composition, or, more likely, that this composi-
+tion was elaborated from this section of the list. A third possibility is that both Eduba R and
+OB Lu refer back to a third source, currently unknown. The relationship between Sumer-
+ian literature and lexical lists is a well-documented phenomenon (Civil 1987; Michalowski
+1998; Rubio 2004), but is at present still poorly understood.
+lú kisal-lá courtyard attendant
+lú pa-mušen-na man in charge of macerating clay MSL 12 157A: 462; MSL 12
+209: 299
+lú lalahtan-na man in charge of the water jugs MSL 12 157A: 468; MSL 12
+209: 308
+lú im-šu man in charge of the lentils
+lú dub-dím man in charge of the tablet boards MSL 12 157A: 465;
+MSL 12 209: 305
+lú ki-ús —
+lú a-a man in charge of the water
+lú im-tag man in charge of preparing the clay MSL 12 181: 51
+lú ab-lá-e man in charge of drawing water
+lú ab-ta-lá —
+lú saĝ-ĝa man in charge of entwining MSL 12 181: 47
+ad-da teacher
+šeš-gal senior student
+um-mi-a senior teacher
+lú tag-tag-ge man in charge of the felted cloth
+lú búr-ra-bi man in charge of loosening the clay MSL 12 209: 301
+REFERENCES
+Attinger, P. 1993. Eléments de linguistique sumérienne: La construction de du /e/di <<dire>>.
+11
+G öttingen: Vandenhoeck & Ruprecht.
+. 2005. A propos de AK <<faire>>. ZA 95: 46–64, 208–75.
+Charpin, D. 2011. Reading and Writing in Babylon. Cambridge, MA: Harvard Univ. Press.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+116 Journal of the American Oriental Society 137.1 (2017)
+Civil, M. 1964. A Hymn to the Beer Goddess and a Drinking Song. In From the Workshop of the
+Chicago Assyrian Dictionary: Studies Presented to A. Leo Oppenheim, ed. R. D. Biggs and J. A.
+Brinkman. Pp. 67–89. Chicago: The Oriental Institute.
+. 1985. Sur les “Livres d’écolier” à l’époque Paléo-Babylonienne. In Miscellanea Babyloni-
+ca: Mélanges offerts à Maurice Birot, ed. J.-M. Durand and J.-R. Kupper. Pp. 67–78. Paris: Editions
+Recherche sur les Civilisations.
+. 1987. Feeding Dumuzi’s Sheep: The Lexicon as a Source of Literary Inspiration. In Lan-
+guage, Literature and History: Philological and Historical Studies Presented to Erica Reiner, ed.
+F. Rochberg-Halton. Pp. 37–55. New Haven: American Oriental Society.
+. 1992. Education. In The Anchor Bible Dictionary 2: 301–5.
+. 1998. Bilingual Teaching. In Festschrift für Rykle Borger zu seinem 65. Geburtstag am 24.
+Mai 1994, ed. Stefan M. Maul. Pp. 1–7. Groningen: STYX Publications.
+. 2006. The Song of the Millstone. In Šapal tibnim mû illakū: Studies Presented to Joaquín
+Sanmartín on the Occasion of His 65th Birthday, ed. G. del Olmo Lete, L. Feliu, and A. M. Alba.
+Pp. 121–38. Barcelona: Editorial AUSA.
+Delnero, P. 2010. Sumerian Literary Catalogs and the Scribal Curriculum. ZA 100: 32–55.
+George, A. 1993. Ninurta-Pāqidāt’s Dog Bite, and Notes on Other Comic Tales. Iraq 55: 63–75.
+. 2009. Babylonian Literary Texts in the Schøyen Collection. Bethesda, MD: CDL Press.
+Gibson, M., D. P. Hansen, and R. L. Zettler. 1998–2001. Nippur, B. Archäologisch. RLA 9: 546–65.
+Jagersma, B. 2010. A Descriptive Grammar of Sumerian. PhD diss., University of Leiden.
+Kleinerman, A. 2011. Education in Early 2nd Millennium BC Babylonia: The Sumerian Epistolary
+Miscellany. Leiden: Brill.
+Kramer, S. N. 1949. A Sumerian Composition Relating to the Education of a Scribe. JAOS 69: 199–
+215.
+Krebernik, M. 1998–2001. Ninlil. RLA 9: 453–61.
+Michalowski, P. 1998. Literature as a Source of Lexical Inspiration: Some Notes on a Hymn to the
+Goddess Inanna. In Written on Clay and Stone: Ancient Near Eastern Studies in Honor of Krystina
+Szarzynska, ed. J. Braun et al. Pp. 65–73. Warsaw: Agade.
+. 1998–2001. Nisaba. A. Philologisch. RLA 9: 575–79.
+Robson, E. 2001. The Tablet House: A Scribal School in Old Babylonian Nippur. RA 95: 39–66.
+Rubio, G. 2004. Early Sumerian Literature: Enumerating the Whole. In De la tablilla a la inteligencia
+artificial: Homenaje al Prof. J. L. Cunchillos en su 65 aniversario, ed. J.-P. Vita and A. González
+Blanco. Vol. 1, pp. 131–42. Zaragoza: Instituto de Estudios Islámicos y del Oriente Próximo.
+Sallaberger, W. 1993. Der kultische Kalender der Ur III-Zeit. Berlin: W. de Gruyter.
+Sjöberg, Å. 1972. A Commemorative Inscription of King Šūsîn. JCS 24: 70–73.
+Sladek, W. R. 1974. Inanna’s Descent to the Netherworld. PhD diss., Johns Hopkins University.
+Snell, D. 1982. Ledgers and Prices: Early Mesopotamian Merchant Accounts. New Haven: Yale Univ.
+Press.
+Steinkeller, P. 1989. Sale Documents of the Ur III Period. Stuttgart: Franz Steiner Verlag.
+Stol, M. 1979. On Trees, Mountains, and Millstones in the Ancient Near East. Leiden: NINO.
+Stone, E. 1987. Nippur Neighborhoods. Chicago: The Oriental Institute.
+Tinney, S. 1996. The Nippur Lament: Royal Rhetoric and Divine Legitimation in the Reign of Išme-
+Dagan of Isin (1953–1935 B.C.). Philadelphia: Univ. of Pennsylvania Museum.
+Vanstiphout, H. L. J. 1997. School Dialogues. In The Context of Scripture, I: Canonical Compositions
+from the Biblical World, ed. W. W. Hallo and K. L. Younger. Pp. 588–93. Leiden: Brill.
+Volk, K. 1995. Inanna und Šukaletuda. Zur historisch-politischen Deutung eines sumerischen Liter-
+aturwerkes. Wiesbaden: Harrassowitz Verlag.
+Wilcke, C. 1969. Das Lugalbandaepos. Wiesbaden: Harrassowitz Verlag.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.161.76.129 on Wed, 15 Mar 2023 19:19:39 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

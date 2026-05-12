@@ -1,0 +1,849 @@
+[
+  {
+    "author": [
+      {
+        "family": "Attinger",
+        "given": "Pascal"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Éléments de linguistique sumérienne: La construction de du /e/di « dire »"
+    ],
+    "location": [
+      "Göttingen"
+    ],
+    "publisher": [
+      "Vandenhoeck & Ruprecht"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Attinger",
+        "given": "Pascal"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "À propos de AK « faire »"
+    ],
+    "volume": [
+      "95"
+    ],
+    "pages": [
+      "46–64, 208–275"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Charpin",
+        "given": "Dominique"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Reading and Writing in Babylon"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "Harvard University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "title": [
+      "A Hymn to the Beer Goddess and a Drinking Song"
+    ],
+    "container-title": [
+      "From the Workshop of the Chicago Assyrian Dictionary"
+    ],
+    "editor": [
+      {
+        "family": "Biggs",
+        "given": "R.D."
+      },
+      {
+        "family": "Brinkman",
+        "given": "J.A."
+      }
+    ],
+    "pages": [
+      "67–89"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Sur les ‘livres d’écolier’ à l’époque paléo-babylonienne"
+    ],
+    "container-title": [
+      "Miscellanea Babyloniaca"
+    ],
+    "editor": [
+      {
+        "family": "Durand",
+        "given": "Jean-Marie"
+      },
+      {
+        "family": "Kupper",
+        "given": "Jean-Robert"
+      }
+    ],
+    "pages": [
+      "67–78"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "publisher": [
+      "Éditions Recherche sur les Civilisations"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Feeding Dumuzi’s Sheep: The Lexicon as a Source of Literary Inspiration"
+    ],
+    "container-title": [
+      "Language, Literature and History"
+    ],
+    "editor": [
+      {
+        "family": "Rochberg-Halton",
+        "given": "Francesca"
+      }
+    ],
+    "pages": [
+      "37–55"
+    ],
+    "location": [
+      "New Haven"
+    ],
+    "publisher": [
+      "American Oriental Society"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Education"
+    ],
+    "container-title": [
+      "The Anchor Bible Dictionary"
+    ],
+    "volume": [
+      "2"
+    ],
+    "pages": [
+      "301–305"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Doubleday"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Bilingual Teaching"
+    ],
+    "container-title": [
+      "Festschrift für Rykle Borger"
+    ],
+    "editor": [
+      {
+        "family": "Maul",
+        "given": "Stefan M."
+      }
+    ],
+    "pages": [
+      "1–7"
+    ],
+    "location": [
+      "Groningen"
+    ],
+    "publisher": [
+      "Styx"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "The Song of the Millstone"
+    ],
+    "container-title": [
+      "Šapal tibnim mû illakū"
+    ],
+    "editor": [
+      {
+        "family": "Olmo Lete",
+        "given": "Gregorio",
+        "particle": "del"
+      },
+      {
+        "family": "Feliu",
+        "given": "Lluís"
+      },
+      {
+        "family": "Alba",
+        "given": "A.M."
+      }
+    ],
+    "pages": [
+      "121–138"
+    ],
+    "location": [
+      "Barcelona"
+    ],
+    "publisher": [
+      "Editorial Ausa"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Delnero",
+        "given": "Paul"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Sumerian Literary Catalogs and the Scribal Curriculum"
+    ],
+    "volume": [
+      "100"
+    ],
+    "pages": [
+      "32–55"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "George",
+        "given": "Andrew"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Ninurta-Pāqidāt’s Dog Bite, and Notes on Other Comic Tales"
+    ],
+    "volume": [
+      "55"
+    ],
+    "pages": [
+      "63–75"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "George",
+        "given": "Andrew"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Babylonian Literary Texts in the Schøyen Collection"
+    ],
+    "location": [
+      "Bethesda, MD"
+    ],
+    "publisher": [
+      "CDL Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gibson",
+        "given": "McGuire"
+      },
+      {
+        "family": "Hansen",
+        "given": "Donald P."
+      },
+      {
+        "family": "Zettler",
+        "given": "Richard L."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Nippur, B. Archäologisch"
+    ],
+    "volume": [
+      "9"
+    ],
+    "pages": [
+      "546–565"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Reallexikon der Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jagersma",
+        "given": "Bram"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "A Descriptive Grammar of Sumerian"
+    ],
+    "genre": [
+      "PhD diss.,"
+    ],
+    "publisher": [
+      "Leiden University"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Kleinerman",
+        "given": "Alexandra"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Education in Early 2nd Millennium BC Babylonia"
+    ],
+    "location": [
+      "Leiden"
+    ],
+    "publisher": [
+      "Brill"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kramer",
+        "given": "Samuel Noah"
+      }
+    ],
+    "date": [
+      "1949"
+    ],
+    "title": [
+      "A Sumerian Composition Relating to the Education of a Scribe"
+    ],
+    "volume": [
+      "69"
+    ],
+    "pages": [
+      "199–215"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of the American Oriental Society"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Krebernik",
+        "given": "Manfred"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Ninlil"
+    ],
+    "volume": [
+      "9"
+    ],
+    "pages": [
+      "453–461"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Reallexikon der Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Michalowski",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Literature as a Source of Lexical Inspiration"
+    ],
+    "container-title": [
+      "Written on Clay and Stone"
+    ],
+    "editor": [
+      {
+        "family": "Braun",
+        "given": "Jerzy"
+      },
+      {
+        "others": true
+      }
+    ],
+    "pages": [
+      "65–73"
+    ],
+    "location": [
+      "Warsaw"
+    ],
+    "publisher": [
+      "Agade"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Michalowski",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Nisaba"
+    ],
+    "volume": [
+      "9"
+    ],
+    "pages": [
+      "575–579"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Reallexikon der Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "The Tablet House: A Scribal School in Old Babylonian Nippur"
+    ],
+    "volume": [
+      "95"
+    ],
+    "pages": [
+      "39–66"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revue d’Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rubio",
+        "given": "Gonzalo"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Early Sumerian Literature: Enumerating the Whole"
+    ],
+    "container-title": [
+      "De la tablilla a la inteligencia artificial"
+    ],
+    "editor": [
+      {
+        "family": "Vita",
+        "given": "J.-P."
+      },
+      {
+        "family": "Blanco",
+        "given": "A.González"
+      }
+    ],
+    "volume": [
+      "1"
+    ],
+    "pages": [
+      "131–142"
+    ],
+    "location": [
+      "Zaragoza"
+    ],
+    "publisher": [
+      "Institución Fernando el Católico"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sallaberger",
+        "given": "Walther"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Der kultische Kalender der Ur III-Zeit"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "de Gruyter"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sjöberg",
+        "given": "Åke"
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "title": [
+      "A Commemorative Inscription of King Šūsîn"
+    ],
+    "volume": [
+      "24"
+    ],
+    "pages": [
+      "70–73"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sladek",
+        "given": "William R."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "title": [
+      "Inanna’s Descent to the Netherworld"
+    ],
+    "genre": [
+      "PhD diss.,"
+    ],
+    "publisher": [
+      "Johns Hopkins University"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Snell",
+        "given": "Daniel C."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "title": [
+      "Ledgers and Prices: Early Mesopotamian Merchant Accounts"
+    ],
+    "location": [
+      "New Haven"
+    ],
+    "publisher": [
+      "Yale University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Steinkeller",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Sale Documents of the Ur III Period"
+    ],
+    "location": [
+      "Stuttgart"
+    ],
+    "publisher": [
+      "Franz Steiner Verlag"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stol",
+        "given": "Marten"
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "On Trees, Mountains, and Millstones in the Ancient Near East"
+    ],
+    "location": [
+      "Leiden"
+    ],
+    "publisher": [
+      "Brill"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stone",
+        "given": "Elizabeth C."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Nippur Neighborhoods"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tinney",
+        "given": "Steve"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "The Nippur Lament"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University of Pennsylvania Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Vanstiphout",
+        "given": "Herman L.J."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "School Dialogues"
+    ],
+    "container-title": [
+      "The Context of Scripture"
+    ],
+    "volume": [
+      "1"
+    ],
+    "editor": [
+      {
+        "family": "Hallo",
+        "given": "William W."
+      },
+      {
+        "family": "Younger",
+        "given": "K.Lawson",
+        "suffix": "Jr"
+      }
+    ],
+    "pages": [
+      "588–593"
+    ],
+    "location": [
+      "Leiden"
+    ],
+    "publisher": [
+      "Brill"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Volk",
+        "given": "Konrad"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Inanna und Šukaletuda"
+    ],
+    "location": [
+      "Wiesbaden"
+    ],
+    "publisher": [
+      "Harrassowitz"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilcke",
+        "given": "Claus"
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "title": [
+      "Das Lugalbandaepos"
+    ],
+    "location": [
+      "Wiesbaden"
+    ],
+    "publisher": [
+      "Harrassowitz"
+    ],
+    "type": "book"
+  }
+]

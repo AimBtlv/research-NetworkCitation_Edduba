@@ -1,0 +1,735 @@
+# METADATA
+author: Hasselbach‐Andee R.
+source_id:Hasselbach-Andee2020_Multilingu
+title: Multilingualism And Diglossia In The Ancient Near East
+Year: 2020
+Source_ID:  Hasselbach-Andee2020_Multilingu
+Source_Type:  Article in Book: A Companion to Ancient Near Eastern Languages, First Edition. 
+John Wiley & Sons, Inc. Published 2020 by John Wiley & Sons, Inc.
+Source_Role,Step_distance: 0,1,2 ,3,4 
+Pages: 457-470 (ch24)
+Web: 
+Publisher:John Wiley & Sons, Inc. Published 2020 by John Wiley & Sons, Inc.
+
+# TEXT
+
+CHAPTER TWENTY-FOUR
+Multilingualism and Diglossia in the Ancient Near East
+
+Rebecca Hasselbach‐Andee
+
+
+Introduction
+
+It has long been noticed by linguists, anthropologists, and sociologists that bi‐ or multi-
+lingualism is not, as usually perceived by many people who grew up in Western countries
+such as the US and many European countries, a minority phenomenon but rather a daily
+D
+necessity for the majority of the world’s population (Romaine 2003, 512; Schendl 2014,
+521). In the majority of today’s countries, bilingualism or even multilingualism is an
+essential part of how thEe society and speech communities function. These multilingual
+societies arise through various factors, such as trade, marriage, education, and political or
+religious reasonsS. As true as it is for today’s countries and societies that the use of two or
+more languages represents the majority situation, the same can be said about ancient soci-
+eties. Human communities have always been in contact with each other (Romaine 2003,
+I
+513–514), which has led to evidence of language contact and bi‐ or multilingualism from
+V
+the earliest attestations that we have for human language in writing.
+A few words need to be said about bi‐ and multilingualism and the problems faced
+E
+when investigating these features in ancient societies before turning to examples from the
+Ancient Near East. “Bilingualism” generally means the alternate use of and proficiency in
+Rtwo languages (Langslow 2002, 26; Weinreich 1968, 1), while “multilingualism” refers to
+the use of more than two languages or linguistic varieties. In this article, the term “multi-
+lingualism” is preferred over “bilingualism” because it is less restrictive regarding the
+number of languages concerned and allows for more flexibility in describing multilingual
+societies. “Proficiency” has been variously defined and is often understood as the ability to
+speak different languages with the same degree of fluency, although some scholars also
+simply consider less than native‐speaker fluency in both languages as sufficient for calling
+A Companion to Ancient Near Eastern Languages, First Edition. Edited by Rebecca Hasselbach-Andee.
+© 2020 John Wiley & Sons, Inc. Published 2020 by John Wiley & Sons, Inc.
+0004541074.INDD 457 1/21/2020 4:13:04 PM
+458 Rebecca Hasselbach‐Andee
+an individual bi‐ or multilingual. It has to be noted, however, that in reality, multilingual
+individuals are hardly ever equally fluent in the languages they know. This is due to the
+fact that individuals or certain population groups in situations in which multilingualism
+is widespread, hardly ever use the same languages for the same functions (Romaine 2003,
+512). It is often the case that a language or language register is only appropriate for cer-
+tain situations, such as the use of one language among family and friends, while another
+S
+is used in education, for formal purposes such as dealings with the government, at the
+work place, or for religious purposes. Language choice in multilinguals is thus not arbi-
+trary but is determined by social factors (Romaine 2003, 517). Given Fthe functional dif-
+ferentiation between the linguistic varieties spoken by a multilingual, the individual will
+be more fluent in a given variety according to the domains Ofor which the language is
+used, while using a variety in an unusual domain can lead to interference, that is, influ-
+ence from the variety that is usually used for that domain (Romaine 2003, 525). For
+O
+example, an individual who is accustomed to speak one language at home and with
+friends but uses another language at work, might experience interference such as includ-
+ing specialized vocabulary from the latter languRage when speaking about his or her work
+in the language more commonly used for the communication with family and friends.
+Consequently, proficiency most commonly does not mean equal fluency in two or more
+P
+languages, but rather proficiency in each language in certain domains of use, that is, dif-
+ferent situational contexts.
+When the choice which language to use in specific situations becomes institutionalized
+at the societal level, we speak ofD “diglossia” (Romaine 2003, 519). The concept of diglos-
+sia was first introduced by C. Ferguson (Ferguson 1959; see also Ferguson 1991).
+Ferguson defined diglossia as a special sociolinguistic situation in which two varieties of
+E
+the same language are used for different functions (Ferguson 1959, 325). The functional
+domains of each variety, which Ferguson calls H = High variety and L = Low variety based
+S
+on their prestige, are divided into L being used for informal situations, such as among
+family and friends, for informal conversations, and folk literature, while H is used for for-
+mal situations sIuch as education and the government, in writing, the news, etc. Important
+V
+to note is also that L in these situations is the native language of each speaker while H has
+to be formally learned. Lastly, L is commonly not written and has no standard variant,
+wEhile H is the language of a significant body of literature and thus has a written standard
+(Ferguson 1959, 329‐331). Examples given by Ferguson include Arabic, Modern Greek,
+and the language situation in Switzerland.
+R
+Ferguson’s definition of diglossia has subsequently been broadened to include situa-
+tions in which two or more different languages instead of varieties of the same language
+show an institutionalized functional distribution (see especially Fishman 1967). Today,
+scholars use various definitions of the term diglossia. Some adhere to the stricter definition
+given by Ferguson, while others apply the term to any situation in which two or more
+linguistic varieties are used for different domains. The different approaches taken with
+regard to the definition of the term are one reason why there is often no consensus regard-
+ing whether or not a given situation should be interpreted as diglossic. Varying definitions
+of the term can also be observed in the discussions of linguistic situations in the Ancient
+Near East, as will be shown further below, where they equally lead to rather different
+interpretations of the data.
+0004541074.INDD 458 1/21/2020 4:13:04 PM
+Multilingualism and Diglossia in the Ancient Near East 459
+Besides these general issues regarding the definition of certain terms, another problem
+faced when dealing with the question of multilingualism and diglossia in ancient societies
+in particular is the lack of data. As everybody working on ancient or dead languages
+knows, we are limited to the evidence that has been preserved in written form with regard
+to what we can say about the language or languages used. This differs greatly from mod-
+ern situations where linguists have access to spoken varieties and are able to observe the
+S
+choice of language and the extralinguistic reasons for a switch in language or language
+register. For ancient languages it is important to be aware that we are lacking this direct
+evidence and to carefully distinguish between written and spoken mulFtilingualism.
+Written records do not tell us how people actually spoke, they only tell us how they
+wrote and what type of standards they used in writing (VersOteegh 2002, 57). Similarly,
+linguistic changes reflected in writing, which can be either historical changes or changes
+within language registers, only provide us with insights concerning the attitudes of a
+O
+respective speech community or author towards the grammar and style that was deemed
+acceptable in writing, and not necessarily with evidence of changes in the spoken form of
+the language. In other words, the linguistic chaRnges witnessed in writing do not necessar-
+ily reflect changes that occurred in the spoken language at the same time. It is well known
+that it can take quite some time before a linguistic change in the spoken language becomes
+P
+acceptable for the written standard (Versteegh 2002, 59, 66). Similarly, attempts at lan-
+guage maintenance can obscure the actual influence of one language on another in its
+written form. The problem with writt en evidence is thus that there is a danger of overrat-
+ing the evidentiary value of wDritten texts in terms of spoken language use and to assume
+that it represents how people actually spoke or how spoken language developed. Because
+of these restrictions in the available data, we have to be aware that what we can trace with
+E
+our evidence primarily reflects written multilingualism in the Ancient Near East and we
+have to keep in mind that the spoken reality might have been rather different. The actual
+S
+speech situations can, if at all, only be deduced by indirect evidence such as occasional
+mistakes, slips of the pen, hypercorrections, loanwords, etc. (Versteegh 2002, 53).
+Lastly, we ofIten lack knowledge about the circumstances of the attested texts, that is, their
+V
+sociolinguistic background. In many cases, it is difficult to determine why an author used
+one language over another or switched between languages since the extralinguistic informa-
+tEion on social parameters that determine language use is lacking (Schendl 2014, 526).
+R
+Multilingualism in the Ancient Near East
+With these preliminary remarks in mind, it is possible to turn to the evidence for multilin-
+gualism and diglossia in Ancient Near Eastern societies. There is plenty of evidence that
+ancient societies were similar to modern ones in that multilingualism rather than mono-
+lingualism was more common, if not the norm. We know that Ancient Near Eastern peo-
+ples and cultures were in contact with each other continuously based on archaeological
+and textual evidence for trade connections, migrations, and contact between adjacent
+political entities and cultures.
+Written evidence throughout the Ancient Near East provides us with plenty of informa-
+tion about multilingual societies and/or population groups, including, for example, the at
+0004541074.INDD 459 1/21/2020 4:13:04 PM
+460 Rebecca Hasselbach‐Andee
+least bilingual contact between Akkadian and Sumerian in Mesopotamia, the co‐existence
+of various languages such as Hittite, Hurrian, Luwian, and Hattic, among others, in
+Anatolia – texts in each of these languages were found in the capital of the Hittite empire
+Hattuša (see also chapter 12) –, the multilingual situation that has been discovered in
+Ugarit, where texts in several languages, including Ugaritic, Akkadian, Sumerian, Hittite,
+Hurrian, and Egyptian were found (Pardee 2004, 289), the close contact between Hebrew
+S
+and Aramaic in the Levant starting during the Biblical period and lasting until the death of
+Hebrew as a spoken language in the first two centuries of the common era (see also chap.
+23), the close contact of Akkadian and Aramaic that ultimately led to lFanguage shift, that
+is, the replacement of Akkadian by Aramaic as a spoken language, and the multilingual situ-
+ation in Greco–Roman Egypt, where Greek, Egyptian (CopticO and Demotic), and, to a
+certain degree, Latin are attested in writing, with other minor languages including Nubian,
+Carian, and Aramaic (see e.g. Fewster 2002, 224), to name just a few. These examples,
+O
+although they are far from being comprehensive, are nevertheless representative and show
+the complexity of Ancient Near Eastern societies from a linguistic point of view. We have
+to keep in mind, however, that all the aforemeRntioned examples point towards written
+multilingualism and do not necessarily indicate that the spoken reality was the same.
+In the following, this contribution will look at some of the evidence for multilingualism
+P
+in the Ancient Near East in more detail:
+Multilingualism in Mesopotamia
+D
+In Mesopotamia, multiculturalism and with it multilingualism was the norm. The open-
+ness of Mesopotamia in terms of cultural diversity has, besides common factors such as
+E
+migrations, two main reasons: first, the large lowland basin of the Tigris‐Euphrates river
+valley has no geographic borders, that is, no barriers such as high mountains or the like
+S
+that hinder access, and second, Mesopotamia is poor in natural resources, which is a fact
+that favors economic, political, and cultural contacts with peoples and societies outside of
+Mesopotamia (IGalter 1995, 25). Because of this situation, two or more languages were
+V
+spoken in Mesopotamia during most of the historical periods that we can trace. In the
+following, this article will first look at the multilingual situation of the third and early
+seEcond millennium BCE, which primarily concerns the use of Sumerian and Akkadian, and
+then turn to the situation attested in the first millennium BCE, which provides evidence for
+Akkadian and Aramaic bilingualism.
+R
+Sumerian and Akkadian
+Sumerian and Akkadian bilingualism goes back at least to the early third millennium BCE.
+When exactly the contact between the two languages started is unknown since it is uncer-
+tain when Semitic speaking people migrated into Mesopotamia. Although there is no
+direct evidence from the early to mid‐third millennium BCE for Akkadian in the form of
+texts, it is clear that there was a Semitic speaking presence that was in close contact with
+Sumerian speakers in southern Mesopotamia since unilingual Sumerian texts that were
+composed in Fara and Abu Salabikh during the Early Dynastic III period often contain
+scribal names that are of Semitic origin (see e.g. Biggs 1967, 104, 57; Krebernik 1998,
+0004541074.INDD 460 1/21/2020 4:13:04 PM
+Multilingualism and Diglossia in the Ancient Near East 461
+265). Furthermore, at the time when monolingual Akkadian texts start to be written,
+around 2350 BCE, the changes in the language that can be attributed to Sumerian influ-
+ence are already completed or at least have started to appear, such as the change in word
+order from VSO to SOV (completed), the loss of the five typical Semitic guttural pho-
+nemes /ˀ/, /h/, /ḥ/, /ˁ/, /ġ/ (in progress), the presence of Sumerian loanwords in
+Akkadian and vice versa, etc. (see e.g. Zólyomi 2011, 397). The presence of these interfer-
+S
+ence phenomena from Sumerian in the earliest written Akkadian texts indicates that the
+contact between the two languages, and thus bilingualism involving the two, must have
+started considerably earlier than the appearance of the first fully writteFn Akkadian texts.
+As in many other cases of ancient languages, there is no direct evidence how this bilin-
+gualism was realized in practice. We do know that in the first hOalf of the third millennium
+BCE, Sumerian was the language used for writing, for example for administrative pur-
+poses, given that all economic and administrative transactions were recorded in Sumerian,
+O
+and that it was the language of cultural prestige. Akkadian, at this early stage, was not
+used for writing, at least not explicitly, as far as we can tell. What percentage of the popu-
+lation of Mesopotamia were native speakers ofR Sumerian or Akkadian – was the majority
+of the Akkadian‐speaking population bilingual or just a small educated part? – and how
+the interaction between the two languages happened, that is, among which population
+P
+groups, is impossible to know. Scholars such as Galter (1995) and Vanstiphout (1999)
+have nevertheless tried to draw some conclusions about how this early bilingualism was
+realized based on comparisons with p eripheral cultures such as Ebla. In particular, they
+have looked at the existence, Dor lack thereof, of certain types of text genres, including
+bilingual lexical lists and bilingual texts, and noted that the earliest bilingual lexical lists
+do not originate in Mesopotamia proper but were found at Ebla. It further seems that the
+E
+first true bilingual texts likewise come from Ebla (Vanstiphout (1999, 147). The Ebla
+material dates to approximately 2370–2320 BCE, while the first real Akkadian‐Sumerian
+S
+bilingual texts from Mesopotamia start to appear around 1900 BCE (Vanstiphout 1999,
+148; see also chapter 21), after Sumerian declined as a spoken language. There is further
+evidence thatI the earliest attestations for professional “translators” between Akkadian
+V
+and Sumerian appear during the Sargonic period, when, for the first time, Akkadian was
+used as an administrative language (Vanstiphout 1999, 147). The question is why the
+aEttested types of text genres differ in Ebla and Mesopotamia proper. Galter and
+Vanstiphout have suggested that the degree of bilingualism and proficiency in the respec-
+tive languages (Akkadian and Sumerian in Mesopotamia, Eblaite and Sumerian at Ebla)
+R
+differed. Both of them assume that the extent of bilingualism in Mesopotamia, at least
+among the scribal elite during Early Dynastic times, made translations from one language
+into the other unnecessary (Vanstiphout 1999, 151; Galter 1995, 27). In other words,
+native Akkadian‐speaking scribes learned Sumerian and Sumerian writing in the same way
+as Sumerians and were equally proficient in both Akkadian and Sumerian. In Ebla, how-
+ever, Sumerian was a foreign language and thus tools such as bilingual lexical lists and
+texts were created for teaching purposes (Galter 1995, 27). Only with the rise of Akkadian
+as the predominantly spoken and then written language and the decline of Sumerian in
+Mesopotamia, which led to the ultimate demise of Sumerian as a spoken language, was it
+felt necessary to create similar devices in Mesopotamia. Although this idea requires fur-
+ther proof, it provides an interesting explanation for the chronological difference in the
+0004541074.INDD 461 1/21/2020 4:13:04 PM
+462 Rebecca Hasselbach‐Andee
+emergence of genres such as bi‐ or multilingual lexical lists and bilingual texts in
+Mesopotamia proper and its western periphery. If Galter and Vanstiphout are correct, the
+initial bilingualism in Mesopotamia of at least the scribal elite must have exhibited near
+equal proficiency in both languages. Only with the loss of Sumerian as a spoken language
+and language of administration did this proficiency decline in favor of Akkadian, so that
+Sumerian had to be studied as a foreign language with the help of certain educational
+S
+tools, as was the case in Ebla centuries earlier.
+Based on the evidence presented above it thus seems that at least the scribes who were
+native speakers of Akkadian were highly proficient in Sumerian as welFl and were able to
+switch easily from one language to the other, making translations unnecessary. Whether
+this high proficiency of native Akkadian speakers permeated thOe majority of the Akkadian
+language community or not is difficult to assess since there are no sources that address the
+issue. It is likely, however, that some larger part of the Akkadian language community had
+O
+at least some knowledge of Sumerian because of the significant influence that Sumerian
+had on Akkadian. As mentioned above, the loss of the typical Semitic guttural phonemes
+/ˀ/, /h/, /ḥ/, /ˁ/, and /ġ/ are usually attribRuted to Sumerian influence. The typical
+Semitic word order VSO, which is still attested in some early Akkadian names, changed to
+SOV, also under Sumerian influence. Some morphemes such as the ventive ending –am
+P
+might have changed their function based on parallel morphemes in Sumerian. Last not
+least, there is a significant amount of Sumerian loanwords in Akkadian. Changes such as
+these, especially the structural changes that pervaded all dialects of Akkadian, can hardly
+be explained by solely originatDing in scribal schools. They are easier explained based on
+larger groups of native Akkadian speakers that were proficient, at least to a certain degree,
+in Sumerian as well. It is thus likely that, besides scribes, at least local elites and maybe
+E
+even some parts of the general population had proficiency in both Akkadian and Sumerian.
+It is more difficult to determine the degree of proficiency of native Sumerian speakers in
+S
+Akkadian. Sumerian has a number of Akkadian loanwords, but it is not as easy to identify
+comparable structural changes based on contact with Akkadian as they are found in the
+latter (see also Ichapter 21). It could thus be speculated that initially the attested bilingual-
+V
+ism was stronger in one direction, native Akkadian speakers adopting Sumerian, than the
+other way round. This situation changed, however, when Akkadian became the major
+spEoken and written language of Mesopotamia starting during the Sargonic period. With
+the rise of Akkadian, Sumerian speakers adopted Akkadian as their main language with the
+result that Sumerian died out as a spoken language around the late third/early second
+R
+millennium BCE.
+The Second Millennium BCE
+The linguistic situation in Mesopotamia continued to change after the end of the third
+millennium BCE. The ongoing changes were caused by several factors, including migra-
+tions and political and economic contacts. At the beginning of the second millennium BCE,
+multiple languages were written and spoken in southern Mesopotamia, including Sumerian
+(as literary language), Akkadian, Hurrian, Elamite, and Amorite (Crisostomo 2015, 162).
+In the second half of the second millennium BCE, Kassite was added to the mix while
+Amorite disappeared. There is no evidence to what degree Amorite was spoken in
+0004541074.INDD 462 1/21/2020 4:13:04 PM
+Multilingualism and Diglossia in the Ancient Near East 463
+Mesopotamia during the first half of the second millennium BCE since there are no texts in
+this language and it hardly left any traces in Akkadian itself. It seems, therefore, that the
+Amorite population quickly assimilated into the existing Mesopotamian culture and gave
+up their own language within a few generations. A similar situation is attested with regard
+to Kassite, which entered Mesopotamia during the Middle Babylonian period (approxi-
+mately 1500–1000 BCE) and equally left hardly any traces in the written sources.
+S
+Regarding Sumerian and Akkadian, Akkadian, as mentioned before, had become the
+primary spoken language in Mesopotamia and was also used for all types of writing, while
+Sumerian was restricted to certain literary genres such as magical incFantations, liturgy, a
+few specific administrative documents, and education – in fact scribal education was always
+conducted in Sumerian (Crisostomo 2015, 162). O
+In the late second millennium and early first millennium BCE, Aramaic speakers began
+to migrate into Mesopotamia and brought their language with them. The bilingual situa-
+O
+tion between Akkadian and Aramaic during the first millennium BCE will be discussed in
+more detail in the following section.
+R
+Akkadian and Aramaic
+P
+During the first millennium BCE, Arameans increasingly started to enter Mesopotamia and
+to have contact with Assyria and Babylonia. The migrations were in part voluntary, that is,
+they followed the pattern witnessed in previous migrations into Mesopotamia involving
+groups such as Akkadian speakDers and Amorites, and in part they were forced. When the
+Neo Assyrian Empire expanded westward, its policies included the resettlement of con-
+quered population groups, resulting in the resettlement of Aramaic speakers from con-
+E
+quered Aramean kingdoms into Assyria (Pitard 1994, 213, 227). Furthermore, the relative
+open borders of Assyria promoted trade and other forms of contact with neighboring
+S
+cultures, which equally brought it into direct contact with speakers of Aramaic. Due to
+these circumstances, we can witness a growing number of West Semitic, including Aramaic
+names, amongI the personal names attested in the Mesopotamian textual material from the
+V
+beginning of the first millennium BCE on (Tadmor 1987, 449; Gzella 2015, 107). The use
+of Aramaic in Mesopotamia continuously increased during the first few centuries of the
+fEirst millennium BCE. The exact process of the spread of Aramaic and the reasons why it
+became the predominant language in both Assyria and Babylonia are yet unknown. One
+theory is that the presumed large amount of Aramaic speakers that were resettled into
+R
+Assyria and that were assimilated into Assyrian society had a major influence on the local
+Assyrian population in linguistic terms. In addition, Aramaic was the most widely used
+language west of Assyria due to the presence of numerous Aramaean states in northern
+Mesopotamia, Syria and even eastern Anatolia, and was thus used as the diplomatic lan-
+guage between Assyria and its western vassals (Tadmor 1987, 449, 451–452; Pitard 1994.
+227; for a general overview see also Niehr 2014).
+The reason why it is so difficult to trace the spread of Aramaic is that Aramaic was writ-
+ten on perishable material so that only very few documents and written attestations of its
+use are preserved. What we can deduct with relative certainty from the attested material,
+is that Aramaic had become the second administrative language of Assyria by the eight to
+seventh centuries BCE and that by the sixth century BCE, the Neo Babylonian royal
+0004541074.INDD 463 1/21/2020 4:13:04 PM
+464 Rebecca Hasselbach‐Andee
+administration was most likely bilingual (Beaulieu 2013, 359). Evidence for the use of
+Aramaic comes from both written and other sources. Depictions of Aramaic scribes writ-
+ing on parchment versus Akkadian scribes writing on tablets are known from Neo Assyrian
+reliefs starting with Tiglath‐Pileser III (744–727 BCE). From the textual point of view,
+Neo Assyrian documents mention Aramaic scribes. Furthermore, a few texts in Aramaic
+are preserved from both the Neo Assyrian and Neo Babylonian periods. These written
+S
+sources include a bilingual Assyrian – Aramaic inscription dating to the second half of the
+ninth century BCE that has been found in Tell Fekheriye and that shows the use of both
+languages side by side (see e.g. Sasson 1985). Cuneiform tablets sFometimes contain
+Aramaic clay epigraphs (Fales 1986), while some 200 administrative tablets and fragments
+in Aramaic have been discovered that date to the seventh to theO sixth centuries BCE (Gzella
+2015, 109; see also Streck 2011, 417‐418). After the sixth century BCE, the evidence for
+Aramaic increases, but it never comes close to the amount of texts written in Akkadian at
+O
+the same time.
+The aforementioned is very meager evidence for what must have been the actual situa-
+tion regarding the use of Aramaic versus AkRkadian in both Assyria and Babylonia.
+Furthermore, its use as secondary administrative language, as Aramaic is presented in the
+written material, hardly explains the outcome of the contact between Aramaic and
+P
+Akkadian, namely the death of Akkadian as a spoken language and its replacement by
+Aramaic around the fifth to fourth centuries BCE. Language shift usually involves a period
+of bilingualism that precedes the mon olingualism in a new language. In many cases of
+language shift, a group becomeDs transitionally bilingual in a new language, often through
+contact with a more powerful group, until the new language becomes the main spoken
+language and the former native language is given up (Romaine 2003, 526–527). This
+E
+means that Aramaic must have first become the secondary language of the local Akkadian
+speaking population, resulting in Akkadian – Aramaic bilingualism, before it became the
+S
+predominant language, which led to the decline of Akkadian as spoken language. How
+and when this happened, and especially why Aramaic rose to such a predominance over
+the language oIf the seemingly militarily and culturally predominant local population, is
+V
+impossible to tell with the evidence at our disposal. The written record does not reflect
+this language shift until centuries later – Akkadian being written until the first century CE.
+EBesides the meager textual evidence, the growing influence of Aramaic can be noticed
+through contact features in Akkadian such as loanwords and grammatical structures that
+reflect interference from Aramaic. It is disputed how many Aramaic loanwords there are
+R
+in first millennium BCE Akkadian, especially in Neo and Late Babylonian. The loanwords
+that are more widely accepted come from semantic fields such as alphabetic writing, trade,
+cattle farming, and the military (Gzella 2015, 122). In general, Neo Assyrian shows rela-
+tively little and primarily lexical influence from Aramaic (Streck 2011, 418), while Neo
+and Late Babylonian also exhibit interference in their grammar. Beaulieu (2013) suggests
+a few grammatical features in Neo and Late Babylonian that are most likely the result of
+contact with Aramaic, such as the form anı̄nu for the 1cp independent pronoun “us” for
+normative Akkadian nı̄nu. This form is most likely the result of an analogical extension of
+the initial syllable of the Aramaic pronoun (Beaulieu 2013, 363–364). Another feature is
+the appearance of a 3fs prefix t‐ on the preterite and durative, where normative Babylonian
+has i‐, as in 3fs taparras instead of iparras. This shift from i‐ to t‐ is most likely influenced
+0004541074.INDD 464 1/21/2020 4:13:04 PM
+Multilingualism and Diglossia in the Ancient Near East 465
+by Aramaic, which regularly has a t‐prefix in the 3fs. Furthermore, the form iprus can be
+used as precative/jussive without the common Akkadian precative marker l‐ (as in
+Babylonian liprus), which is typical in Aramaic (Beaulieu 2013, 364‐370). There is thus
+both lexical and structural influence on Akkadian. The influence of Akkadian on Aramaic,
+on the other hand, is primarily lexical (Gzella 2015, 120). There are about 200 Akkadian
+loanwords in Aramaic, mostly in eastern Aramaic varieties such as Syriac, Mandaic, and
+S
+Jewish Babylonian Aramaic, which primarily consist of nouns relating to administration,
+economy, law, and a few other semantic fields (Gzella 2015, 120). These different borrow-
+ing patterns support the idea that Aramaic became the predomFinant language in
+Mesopotamia while Akkadian was reduced to certain functions such as administrative ones.
+A last issue to be addresses is that of diglossia. It has beenO suggested that around the
+eighth to seventh centuries BCE, when Akkadian was still a spoken and fully productive
+language, there existed a diglossic situation in Mesopotamia that involved Akkadian as
+O
+written and Aramaic as spoken language (see e.g. Gzella 2015, 119). This view, however,
+is rather problematic. At this time, Akkadian was most certainly still spoken, while Aramaic
+was also written and used as an administrative lRanguage. To which degree both languages
+were used for each function is impossible to know, but given that Aramaic was written on
+perishable material, we simply do not have the material evidence to judge how widely it
+P
+was used in writing. Claims of diglossia involving Akkadian and Aramaic at this time
+should thus be viewed with caution since both Aramaic and Akkadian were used in writing
+and as spoken languages.
+There is another situation dDuring the first millennium BCE that might be analyzed as
+diglossic, however, and that is the use between different forms of Akkadian. During the
+first millennium BCE, N
+E
+eo Assyrian, Neo Babylonian, and Late Babylonian were used for
+writing certain genres such as letters and administrative texts. For literary purposes, a dif-
+ferent form of Akkadian, Standard Babylonian, was used. Neo Assyrian and Neo Babylonian
+S
+were certainly closer to what people actually spoke than the artificially created literary
+dialect of Standard Babylonian (see chapter 25). Beaulieu has suggested (2013, 359) that
+there was diglIossia between the spoken forms of Neo Assyrian and Neo Babylonian versus
+V
+Standard Babylonian as the literary language. Although the former were also written, we
+can notice a clear functional and institutionalized division between the different varieties
+oEf Akkadian at this time. When we look for diglossia in Akkadian, this would certainly be
+a good place to start.
+R
+Diglossia in Aramaic
+As discussed in the previous section, it can be difficult to determine if a situation repre-
+sents diglossia when dealing with ancient languages because of the lack of evidence for the
+spoken varieties and the, often ambiguous, data coming from written sources. There is
+one case, however, that very closely resembles Ferguson’s definition and examples of
+diglossia that can be found in the evidence of ancient Semitic languages, and that is the
+case of Aramaic during the Achaemenid period. During the Old Aramaic period, that is,
+during the ninth and eighth centuries BCE, the Aramaic inscriptions found in the Levant,
+northern Mesopotamia, and Anatolia clearly show dialect variations. There did not exist a
+standardized dialect used for writing but each of the independent Aramean states, such as
+0004541074.INDD 465 1/21/2020 4:13:04 PM
+466 Rebecca Hasselbach‐Andee
+Damascus, Hamath, Arpad, Tell Halaf, and Sam’al, used their own variety of Aramaic in
+writing (Folmer 1995, 1). With the spread of Aramaic as administrative language, first
+with the Assyrians and then, more importantly, the Achaemenid Empire, however, the
+written form of Aramaic was standardized based on a particular variety of Aramaic and
+exhibits an astounding degree of uniformity, although certain minor variations depending
+on area and genre are found as well (for a general study of Imperial Aramaic see Folmer
+S
+1995; see also chapter 17). Despite these minor variations, the textual material attested
+during the Achaemenid period represents a standardized norm used for writing that
+replaced the previous local written varieties. This does not mean, hoFwever, that people
+also spoke the same variant of Aramaic used in writing. That this was not the case is clear
+from the fact that local varieties, such as Nabatean, Hatran, vaOrious Jewish Aramaic dia-
+lects, etc., start to emerge in writing after the decline of the Achaemenid Empire. These
+local varieties did not emerge from nothing but reflect dialects that were continued to be
+O
+spoken during the Achaemenid Empire, they just were not used in writing – although they
+might have been responsible for some of the local variations attested in Imperial Aramaic
+(see e.g. Gzella 2015, 164). During the AchaeRmenid Empire we thus have a very clear
+functional distribution of different varieties of Aramaic: Imperial Aramaic, the standard-
+ized written form, was used for all types of writing, while the local dialects were solely used
+P
+for oral communication and only started to be written after the loss of the central admin-
+istrative and political power that had driven the standardization and unification of the
+official idiom. Although this period is often overlooked in discussions of diglossia in the
+Ancient Near East (for an exceDption see Taylor 2002, 301), it represents a proto‐typical
+example of diglossia according to Ferguson’s definition of the term.
+E
+Hebrew and Aramaic
+S
+Another situation that is often interpreted as representing diglossia is that of Hebrew or
+Hebrew and Aramaic during the late Second Temple period, that is, between 100 BCE and
+100 CE. MuchI work has in particular been done on the linguistic situation of Jews in
+V
+Palestine during the first century CE (see e.g. Paulston 2000; Porter 2000; Smith 2000;
+Spolsky 1991; Watt 2000). During this time, multiple languages were spoken by the
+JeEwish population of the area, including Hebrew, Aramaic, Greek, and Latin. It is com-
+monly accepted that the variant of Hebrew that was spoken at this time was Mishnaic
+Hebrew (Spolsky 1991, 89; Rendsburg 1990, 11), while Biblical Hebrew was only used
+R
+in written form, mostly for liturgical and religious purposes, that is for formal specialized
+functions (Smith 2000, 38). The “vernacular” form, Mishnaic Hebrew, however, was
+written as well in some instances, as evidenced by the so‐called Bar‐Kokhba letters, a bun-
+dle of 15 letters by a military commander giving instructions to his troops, which date to
+the first half of the second century CE. These letters consist of letters in three languages,
+Aramaic (eight letters), Mishnaic Hebrew (five letters), and Greek (two letters), and are
+usually seen as proof that Mishnaic Hebrew was indeed a spoken and not just scholarly
+language (Rendsburg 1990, 9; Spolsky 1991, 89). It is commonly assumed that Hebrew
+was spoken by at least parts of the Jewish population until the end of the Bar Kokhba
+rebellion, that is, until about 135 CE. The degree to which Mishnaic Hebrew was spoken
+at this time, however, is highly disputed. Some scholars assume that it was still used by a
+0004541074.INDD 466 1/21/2020 4:13:04 PM
+Multilingualism and Diglossia in the Ancient Near East 467
+majority of the Jewish population in at least areas such as Judea (e.g. Spolsky 1991, 89),
+while others assume that Aramaic was the primary language of the Jewish population of
+that time and Hebrew was primarily used by educated Jews (e.g. Porter 2000, 57).
+It is well known that Aramaic had started to replace Hebrew as a spoken language in
+Palestine centuries earlier. By the first century CE, Aramaic and Hebrew speaking areas
+had been adjacent and in direct contact for at least a millennium. Furthermore, during the
+S
+Babylonian exile, Jews were increasingly exposed to Aramaic, which was one of the major
+languages used in Babylonia at the time. Lastly, as mentioned above, Aramaic had become
+the official language of the Achaemenid Empire, which caused it to sprFead over large areas
+of the Ancient Near East. All of these factors led the originally Hebrew speaking popula-
+tion of Palestine to increasingly use Aramaic. By the first centurOy CE, Aramaic had become
+the local vernacular of the area (Spolsky 1991, 94). Besides its use as spoken language,
+Aramaic was also used for various written and official purposes, including commercial and
+O
+legal transactions such as marriage and divorce contracts. It was further used for liturgical
+purposes in the form of Targumim, which are translations of the Hebrew Bible into
+Aramaic. These Targumim were initially onlyR transmitted and recited orally, although
+eventually they were written down as well. Targumim were intended for the general popu-
+lation who did not understand Hebrew any longer and thus must have been in an Aramaic
+P
+dialect that was relatively close to a spoken form – although how close or how different
+Targumic Aramaic was to the everyday colloquial Aramaic exactly is difficult to know.
+Within these various types of written Aramaic, it is further possible to distinguish certain
+regional variants, such as JudeDan and Galilean Aramaic (Watt 2000, 30).
+As can be seen from this short description, the linguistic situation of Jews in Palestine
+during the late Second Temple period is rather complex. There were two distinguishable
+E
+variants of Hebrew used for different purposes, Biblical and Mishnaic Hebrew, and also
+several varieties of Aramaic that were both written and spoken.
+S
+Based on this situation, scholars have suggested two main options for diglossia during
+this period. The most common view found is that, in accordance with Ferguson’s initial
+definition of tIhe term, there existed diglossia between two varieties of the same language,
+V
+namely Biblical and Mishnaic Hebrew. Biblical Hebrew supposedly represents the High
+variety, that is, the variety used for literature, while Mishnaic Hebrew reflects the Low
+vEariety used for everyday communication (see e.g. Rendsburg 1990, 7‐9; Spolsky 1991,
+91; Smith 2000, 49–50). As reasonable as this interpretation seems at first sight, it faces
+several problems. As mentioned before, it is far from certain to which degree Mishnaic
+R
+Hebrew was still spoken during the late Second Temple period. Furthermore, Biblical
+Hebrew was not the most commonly written language of the Jewish community of the
+time. It is true that it was used for religious and liturgical purposes, but it did not represent
+an institutionalized written standard for other types of writing. Aramaic and Greek were
+written more commonly, especially for legal and administrative purposes. The situation is
+thus more complex than simply assuming two varieties of Hebrew that stand in a diglossic
+relationship. Biblical and Mishnaic Hebrew are functionally distinct, but it is questionable
+if they truly meet the criteria for diglossia set up by Ferguson. The simple division between
+Biblical Hebrew = H and Mishnaic Hebrew = L further neglects to incorporate Aramaic
+and Greek, which were both widely used languages in the Jewish communities at this
+time. During the first century CE, Greek was the language of government in Palestine.
+0004541074.INDD 467 1/21/2020 4:13:04 PM
+468 Rebecca Hasselbach‐Andee
+Greek was also used for both public and private inscriptions, including many Jewish tomb
+inscriptions (Spolsky 1991, 95–96; Smith 2002, 63). In a simplified way, Hebrew was
+used for sacred writing, Aramaic for legal contracts and commerce, and Greek for govern-
+ment writing and many public and private inscriptions (Spolsky 1991, 98; Taylor 2002,
+301). Of course, there were local variations in the distribution of these languages, differ-
+ences between towns that had large Greek‐speaking population groups and those that did
+S
+not, urban and rural areas, etc., but the aforementioned distribution of written languages
+holds roughly in general.
+Given these issues, it has also been suggested that there was no Fdiglossia between
+two varieties of the same language, but, according to the broadened definition of
+diglossia introduced by Fishman, between two different but Oclosely related languages,
+namely Hebrew and Aramaic. This idea has in particular been promoted by Watt
+(2000). Watt considers Aramaic, which he says was both written and spoken within the
+O
+Jewish community during the late Second Temple period, to be the native language of
+Jews at this time, that is, the idiom used for all types of verbal and unofficial commu-
+nications, while Hebrew was only used by cerRtain scholarly circles and perhaps in the
+temple (Watt 2000, 25–26). In order to incorporate Greek, which Watt says was both
+written and spoken, he introduces the concept of “tertiary” (T) language. A tertiary
+P
+language is a third language in addition to the two others that form a diglossic situa-
+tion, which has to be included for a comprehensive descriptions of a given linguistic
+community (Watt 2000, 32–34). Aga in, this idea faces several problems. The extent to
+which Aramaic was spoken is uDnknown, although it seems that it was more widely used
+than Mishnaic Hebrew. The biggest issue, however, is that Aramaic was, as mentioned
+before and as admitted by Watt himself, written as well and even used for liturgical
+E
+purposes in the form of Targumim. Consequently, Aramaic does not fit the usual
+understanding of a Low variety at this particular time period and the distinction of
+S
+Aramaic as L and Hebrew as H fails to convince.
+Given these issues, scholars have also suggested not to use the concept of diglossia for
+describing the lIinguistic situation in Palestine in the late Second Temple period, but to use
+V
+other models and approaches to analyze the function and usages of the different languages
+and varieties of this time, such as register studies (see e.g. Porter 2000, 72). Considering
+thEe complexity of the multilingual situation, a different approach might indeed be more
+fruitful for the analysis of the linguistic situation during the late Second Temple period.
+R
+Conclusion
+As can be seen from the preceding discussion, the question of diglossia in Ancient Near
+Eastern societies is a complex one. It is essential for the study of diglossia to be aware what
+languages/dialects people speak in their everyday interactions, but it is exactly this evi-
+dence that is not available in most cases when working with ancient languages. Scholars of
+ancient languages are naturally limited to written evidence and consequently limited in the
+conclusions they can draw with regard to any sociolinguistic situation.
+Consequently, although multilingualism is prevalent in Ancient Near Eastern societies,
+it can be difficult to determine how this multilingualism was realized in practice, that is,
+to what degree the general population was bi‐ or multilingual and for which functions
+0004541074.INDD 468 1/21/2020 4:13:05 PM
+Multilingualism and Diglossia in the Ancient Near East 469
+the specific languages were used exactly. This does not mean that studies of diglossia and
+related phenomena should be abandoned, they should just be conducted and viewed
+with the necessary caution and the awareness of the difficulties involved in the interpreta-
+tion of the evidence.
+S
+REFERENCES
+Beaulieu, P. 2013. “Aspects of Aramaic and Babylonian Linguistic IntFeraction in the First
+Millennium BC Iraq.” Journal of Language Contact, 6: 358–378.
+Biggs, R. D. 1967. “Semitic Names in the Fara Period.” OrieOntalia, 36: 55–66.
+Crisostomo, C. J. 2015. “Language, Writing, and Ideologies in Contact: Sumerian and
+Akkadian in the Early Second Millennium BCE.” In Semitic Languages in Contact, edited
+O
+by A. M. Butts, 158–180. Leiden: Brill.
+Ferguson, C. A. 1959. “Diglossia.” Word, 15: 325–340.
+Ferguson, C. A. 1991. “Diglossia RevisitedR.” Southwest Journal of Linguistics, 10:
+214–234.
+Fewster, P. 2002. “Bilingualism in Roman Egypt.” In Bilingualism in Ancient Society:
+P
+Language Contact and the Written Text, edited by J.N. Adams, Mark Janse, and Simon
+Swain, 220–245. Oxford: Oxford University Press.
+Fishman, J. A. 1967. “Bilingualism With and Without Diglossia; Diglossia With and
+Without Bilingualism.” JourDnal of Social Issues, 2: 29–38.
+Folmer, M. L. 1995. The Aramaic Language in the Achaemenid Period: A Study in
+Linguistic Variation. Leuven: Peeters.
+E
+Galter, H. D. 1995. “Cuneiform Bilingual Inscriptions.” In Language and Culture in the
+Near East, edited by Shlomo Izre’el and Rina Drory, 25–50. Leiden: Brill.
+S
+Gzella, H. 2015. A Cultural History of Aramaic: From the Beginnings to the Advent of
+Islam. Leiden: Brill.
+Krebernik, MI. 1998. “Die Texte aus Fāra und Tell Abū Salābı̄ḫ.” In Mesopotamien –
+V
+Späturuk‐Zeit und Frühdynastische Zeit, edited by P. Attinger, 237–427. Göttingen:
+Vandenhoek and Ruprecht.
+LEangslow, D.R. 2002. Approaching Bilingualism in Corpus Languages. In Bilingualism
+in Ancient Society: Language Contact and the Written Text, edited by J.N. Adams, Mark
+Janse, and Simon Swain, 23–51. Oxford: Oxford University Press.
+R
+Niehr, H., ed. 2014. The Aramaeans in Ancient Syria. Leiden: Brill.
+Pardee, D. 2004. “Ugaritic.” In The Cambridge Encyclopedia of the World’s Ancient Languages,
+edited by Roger D. Woodard, 288–318. Cambridge: Cambridge University Press.
+Paulston, C. B. 2000. “Language Repertoire and Diglossia in First‐Century Palestine:
+Some Comments.” In Diglossia and Other Topics in New Testament Linguistics, edited
+by Stanley E. Porter, 79–89. Sheffield: Sheffield Academic Press.
+Pitard, W. T. 1994. “Arameans.” In Peoples of the Old Testament World, edited by Alfred J.
+Hoerth, Gerald L. Mattingly, and Edwin M. Yamauchi, 207–230. Grand Rapids: Baker
+Books.
+Porter, S. E. 2000. “The Functional Distribution of Koine Greek in First‐Century
+Palestine.” In Diglossia and Other Topics in New Testament Linguistics, edited by Stanley
+E. Porter, 53–78. Sheffield: Sheffield Academic Press.
+0004541074.INDD 469 1/21/2020 4:13:05 PM
+470 Rebecca Hasselbach‐Andee
+Rendsburg, G. A. 1990. Diglossia in Ancient Hebrew. New Haven: American Oriental
+Society.
+Romaine, S. 2003. “Multilingualism.” In The Handbook of Linguistics, edited by Mark
+Aronoff and Janie Rees‐Miller, 512–532. Malden, MA: Blackwell.
+Schendl, H. 2014. “Multilingualism, Code‐switching, and Language Contact in Historical
+Sociolinguistics.” In The Handbook of Historical Sociolinguistics, edited by Juan M.
+S
+Hernández‐Campoy and J. Camilo Conde‐Silvestre, 520–533. Malden, MA: Wiley
+Blackwell.
+Smith, S. P. 2000. “The Question of Diglossia in Hebrew.” In DiglossiFa and Other Topics
+in New Testament Linguistics, edited by Stanley E. Porter, 37–50. Sheffield: Sheffield
+Academy Press. O
+Spolsky, B. 1991. “Diglossia in Hebrew in the Late Second Temple Period.” Southwest
+Journal of Linguistics, 10: 85–104.
+O
+Streck, M. P. 2011. “Akkadian and Aramaic Language Contact.” In The Semitic Languages:
+An International Handbook, edited by Stefan Weninger, 416–424. Berlin: de Gruyter.
+Tadmor, H. 1987. “The Aramaization of ARssyria: Aspects of Western Impact.” In
+Mesopotamien und seine Nachbarn: Politische und kulturelle Wechselbeziehungen im
+Alten Vorderasien vom 4. bis 1. Jahrtausend v. Chr., edited by Hans‐Jörg Nissen and
+P
+Johannes Renger, 449–470. Berlin: Dietrich Reimer.
+Taylor, D. G. K. 2002. “Bilingualism and Diglossia in Late Antique Syria and Mesopotamia.”
+In Bilingualism in Ancient Society: L anguage Contact and the Written Word, edited by
+J.N. Adams, M. Janse and SiDmon Swain, 298–331. Oxford: Oxford University Press.
+Vanstiphout, H. L. J. 1999. “The Twin Tongues. Theory, Technique, and Practice of
+Bilingualism in Ancient Mesopotamia.” In All those Nations… Cultural Encounters
+E
+within and with the Near East, edited by H.L.J. Vanstiphout, 141–159. Groningen:
+Styx.
+S
+Versteegh, K. 2002. “Dead or Alive? The Status of the Standard Language.” In Bilingualism
+in Ancient Society: Language Contact and the Written Text, edited by J.N. Adams, Mark
+Janse, and SiImon Swain, 52–74. Oxford: Oxford University Press.
+V
+Watt, J. M. 2000. “The Current Landscape of Diglossia Studies: The Diglossic Continuum
+in First‐Century Palestine.” In Diglossia and Other Topics in New Testament Linguistics,
+Eedited by Stanley E. Porter, 18–36. Sheffield: Sheffield Academic Press.
+Weinreich, U. 1968. Languages in Contact: Findings and Problems. The Hague: de
+Gruyter Mouton.
+R
+Zólyomi, G. 2011. “Akkadian and Sumerian Language Contact.” In The Semitic
+Languages: An International Handbook, edited by Stefan Weninger, 396–404. Berlin:
+de Gruyter.
+0004541074.INDD 470 1/21/2020 4:13:05 PM
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

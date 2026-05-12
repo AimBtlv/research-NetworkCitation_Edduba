@@ -1,0 +1,371 @@
+# METADATA
+author: Yushu G.
+source_id:Yushu2010_TheSumeria
+title: The Sumerian Account Of The Invention Of Writing —a New Interpretation
+Year: 2010
+Source_ID:  Yushu2010_TheSumeria
+Source_Type:  Article in Book: Procedia Social and Behavioral Sciences 2 
+Source_Role,Step_distance: 2 ,3,4 
+Pages: 7446 -7453
+Web: www.sciencedirect.com
+# TEXT
+
+Available online at www.sciencedirect.com
+Procedia Social and Behavioral Sciences 2 (2010) 7446–7453
+Selected Papers of Beijing Forum 2004
+The Sumerian Account of the Invention of Writing —A New
+Interpretation
+Gong Yushu
+Professor für Assyriology, Oriental Literature Research Centre / Dept. of Oriental Studies, Foreign Languages School, Peking University
+The invention of writing is something that fascinate not only modern scholars, but also their ancient counterparts.
+Almost all ancient people with a written history have their own accounts of the invention of writing. These accounts,
+embedded in their literature, reflect the annotations they could give on the origin of their own writing systems.
+These accounts are written forms of oral traditions, the beginning of which is lost in the darkness of history. The
+written forms of the accounts of the invention of writing usually came into existence several hundred years, or more,
+after the invention, at a time when the writing system had become capable of such an account. In the case of
+Mesopotamia, the earliest known account pertaining to the invention of writing which is usually interpreted as “the
+Sumerian account of the invention of writing”i dates back to the Ur III (2112-2004 B.C.) period,ii was a millennium
+apart from the earliest evidence of the proto-cuneiform writing from Uruk.
+The Sumerian narrative poem (also called epic) containing such an account is known among modern scholars as
+Enmerkar and the Lord of Aratta, first transliterated and translated into English and made available to the public by
+S.N.Kramer in 1943.iii Its ancient name, the incipit, is “iri gud-huš AN.TÉŠ ní-gal gúr-ru”, meaning “city—majestic
+bull bearing vigour and great awesome splendor.”iv There have been many articles dealing with certain problems of
+this narrative poemv and the complete translations of it.vi
+According to the poem, Enmerkar, the second ruler of the First Dynasty of Uruk,vii sent a messenger to Aratta,viii
+a remote city separated from Uruk by seven great mountains, demanding that the people of Aratta bring gold, silver,
+lapis lazuli, and many other precious stones, and build for him various shrines and temples, particularly the Abzu-
+temple in Eridu (lines 3364). Uruk, situated in the flood-plain of what is today’s southern Iraq, was devoid of raw
+materials and precious stones of any kind necessary for massive constructions and decorations. Coveting these raw
+materials and precious stones, he decided to make a vassal state of Aratta, not by means of a military expedition, but
+of “war of nerves,” the very first of its kind in human history.ix It is in this “war of nerves” that the so-called
+“Sumerian account of the invention of writing” which we are going to deal with, was demonstrated.
+Following the advice of Inanna, the protective deity of his city, Enmerkar selected an eloquent messenger and
+sent him to Aratta to deliver his demand and threat by repeating what he said to him verbatim. Refusing to submit,
+the Lord of Aratta raised each time a prerequisite condition for his subjugation that seemed impossible to meet. The
+messenger had to go back and forth playing the role of the verbal transmitter between the two kings. However, as
+the battle of words became more fierce and the content of the messages more complicated,x the messenger became
+linguistically overwhelmed. Thus we see:
+501. kig-gi -a ka-ni dugud šu nu-mu-un-da-an-gi-gi
+2 4 4 4
+502. bar kig-gi-a ka-ni dugud šu nu-mu-un-da-an-gi-gi -da-ka
+2 4 4 4
+503. en kul-abaki-a-ke im-e šu bi-in-ra inim dub-gin bi -in-gub
+4 4 2 7 2
+504. ud-bi-ta inim im-ma gub-bu nu-ub-ta-gal-la
+2
+505. i -ne-še dutu ud ne-a ur he-en-na-nam-ma-am
+3 3 5 2 3
+506. en kul-abaki-a-ke inim [dub-gin] bi -in-gub ur he-[en-na]-nam-ma
+4 4 7 2 5 2
+1877-0428 © 2010 Beijing Forum. Published by Elsevier Ltd. Open access under CC BY-NC-ND license.
+doi:10.1016/j.sbspro.2010.05.110
+Gong Yushu / Procedia Social and Behavioral Sciences 2 (2010) 7446–7453 7447
+“(501) The messenger, whose mouth was heavy, was not able to repeat it. (502) Because the messenger, whose
+mouth was heavy, was not able to repeat it, (503) the Lord of Kulaba patted some clay and wrote the message like
+(on) a tablet. (504) Previously, the writing of messages on clay did not exist. (505) Now, under that sun and on that
+day, it indeed so exist. (506) The Lord of Kulaba wrote the message like on a tablet. It was indeed so.”
+This passage is generally regarded as the Sumerian account of the invention of writing and the writing medium
+clay tablet, and Enmerkar as their inventor. In the words of Komoroczy: “It is clear, that the author of the epic here
+intended to describe the invention of clay tablet (viz. the Mesopotamian writing material) and the writing on it (viz.
+the cuneiform writing);...In the eyes of the author, Enmerkar is the inventor of the indigenous writing.”xi
+Vanstiphout suggests “that the invention of writing is most aptly understood as an intergral part of the
+composition”.xii As far as I know, all the Assyriologists who have ever written something about this passage share
+the same opinion as is stated above. The latest treatment of this passage by Glassner is no exception.xiii However, the
+assignment of the invention of writing and its medium to Enmerkar is problematic.
+First, although it is stated explicitly in this composition that the Lord of Kulaba patted some clay and wrote the
+message-like on a tablet and that the writing of messages on clay did not exist formerly, it is not stated here that the
+writing of messages on media other than clay tablet (DUB, IM) did not exist. This may imply that in the mind of the
+Sumerians the writing of messages on other medium had been in existence prior to the events described in this
+composition including writing message on clay by Enmerkar took place. Even today, many facts and observations
+suggest this remains a possibility, to which we will later return.
+Second, it is clearly stated in the following passage of the same composition that the Lord of Aratta could read
+and understand what was written on the tablet handed over to him by the messenger from Uruk.
+524. en-me-er-kar dumu dutu-ke im ma-an-šum
+2 4 2
+525. en arattaki-ke im igi u-ni-bar šag inim-ma u-bi -zu
+4 3 4 3 2
+526. a-na ma-ab-be-en-na-bi u-mu-e-dug
+2 3 4
+“(524) Enmerkar, the son of Utu, has given me a clay tablet. (525) O Lord of Aratta, after you have examined the clay tablet,
+after you have learned the content of the message, (525) say whatever you will say to me”
+This passage is another explicit evidence that even in the mind of the author of this epic composition the writing of
+messages on other medium existed before, or also in co-existence after the transformation of that medium to clay
+tablet took place. Otherwise it would be hard to imagine, how the Lord of Aratta could read and understand the
+written message on clay that was just invented.
+Third, there is still a passage that may be taken as evidence that the Lord of Aratta understood the written
+message on clay presented to him by the messenger of Enmerkar, his powerful challenger.
+536. ur-gin hu-mu-na-ab-be-a-ka
+5 7 2
+537. en arattaki-ke kig-gi -a-ar
+4 2 4
+538. imŠU.RIN.NA-nišu ba-ši-in-ti
+539. en arattaki-ke4 im-ma igi i-ni-in-bar
+540. inim dug-ga gag-am sag-ki mi-re-da-am
+4 3 2 3
+541. en arattaki-ke imŠU.RIN.NA-ni igi im-bar-bar-re
+4
+“(536) After he had spoken thus to him, (537538) the Lord of Aratta received his kiln-fired tablet from the messenger. (539)
+The Lord of Aratta looked at the tablet. (540) The spoken words were just nails, and his brow was full of anger. (541) The Lord
+of Aratta looked at his kiln-fired tablet.”
+The crucial message of this passage lies in line 540 which is, however, subject to different interpretations.
+Kramer translated this line as follows: “The commanded word is nail-like, the appearance is ...”xiv and commented
+further: This line “seems to describe the appearance of the written signs; on the other hand, it may perhaps describe
+in some way the Lord of Aratta’s despondency upon reading its contents.”xv This supposition presupposes that the
+Lord of Aratta understood the content of the written message he was looking at. Jacobsen agreed apparently with the
+supposition made by Kramer. His translation is “The words were fierce words, were frowning.”xvi The Lord of
+7448 Gong Yushu / Procedia Social and Behavioral Sciences 2 (2010) 7446–7453
+Aratta was frowning, because “the words were fierce words.” It is no question here that Jacobsen meant that the
+Lord of Aratta understood the content of the written message. The latest attempt to interpret this line is made by
+Glassner who allies himself with Jacobsen in opinion,xvii but differs from him slightly in wording: “The word spoken
+was the nail is inserted’, it was an imperious command.”xviii
+For Komoroczy it is no doubt that “der Herr von Aratta die Note Enmerkars richtig verstanden hat.”xix But the
+prerequisite for his assumption is hard to believe. He assumed that the tablet handed over to the Lord of Aratta was
+of economic nature written in archaic script, and “Was den Charakter dieser Schrift betrifft, so kann man feststellen,
+da die Tafeln zu jener Zeit meistens auf den ersten Blick verst ndlich waren. Die Mehrzahl der Zeichen besteht aus
+Logogrammen; manche Zeichen sind sogar ihrer Form nach Piktogramme...Den Inhalt einer solchen Tafel, d.h.
+einer Note, konnte der Herr von Aratta richtig verstehen.”xx The tragedy of his explanation is that he depreciated the
+high standard of intelligence and learning process that might have been required to comprehend of anything that
+might be called writing. It is beyond doubt now that the proto-cuneiform texts from Uruk are written in Sumerian.xxi
+No matter what they may deal with, no matter how simple they may seem to be in the eyes of the modern scholars
+who have become well acquainted with these texts through a long-time training, they cannot be understood by
+anyone who sees them for the first time, whoever he is and whatever intelligence quotient he has. This is as true of
+the present as of the past.
+Different interpretation of the implicit tenor of this passage was first presented by Cohen. His translation of line
+540 runs as follows: “The related message being incisive, (his) face expressing anger.”xxii From this translation we
+cannot see whether the Lord of Aratta understood the written message or not. Cohen assumed that he did not, for he
+said that “the Lord of Aratta nevertheless brings a brazier to help the emissary read the written message.”xxiii But his
+explanation cannot be borne out by the text, because nowhere does the text say that the messenger reads the tablet
+for the Lord of Aratta.xxiv
+The most explicit presentation of the view that the Lord of Aratta did not or could not understand the message
+written by Enmerkar is provided by Vanstiphout. His translation of line 540 is nothing special: “The spoken word
+was but a nail, his face darkend,”xxv but his interpretation is unique and interesting: “The Lord of Aratta sees only
+nails where he had expected words. He is angry or depressed, however hard he keeps looking.”xxvi He notes further:
+“Writing does not yet exist, and the cuneiform signs because they are cuneiform mean nothing at all to the untutored
+Lord of Aratta who is understandably dejected. Cuneiform is consciously used here as the ultimate and unbeatable
+problem.”xxvii He concludes finally that “the Lord of Aratta could not read.”xxviii
+His interpretation is extraordinarily tempting, but suffers from several weaknesses. First of all, nowhere does the
+text say that Enmerkar invented writing in general, or for specific language, or even for specific use, but simply
+“wrote words like (on) clay tablet.” The equative adverbal dub-gin , as is shown more clearly in the next line of the
+7
+compostion, provides us with the information about the writing medium. Here, the emphasis on the writing medium
+clay is just as paramount as the emphasis on the action of “writing words.”
+Second, the text states unmistakably that “formerly, the writing of messages on clay did not exist.” The locative
+adverbal “on clay” (im-ma) makes Enmerkar’s invention something specific: what he invented is not the writing of
+words on materials in general, but the writing of words on clay in particular.
+Third, the expression “is nail-like” (gag-am ) is most likely a pun, a phrase having a double meaning. It denotes
+3
+the cuneiform appearance of the signs on clay on the one hand, and the imperious, nail-likely piercing content of the
+message on the other. From Jacobsen’s translation “The words were fierce words,”xxix we may perceive that such an
+understanding was already in his mind, although he did not take the opportunity to make his interpretation more
+explicit. At any rate, the expression itself inim dug -ga gag-am , even translated as “The spoken word was but a
+4 3
+nail,”xxx as Vanstiphout did, is, linguistically, no evidence for the inability of the Lord of Aratta to understand the
+message. Note, however, that the reaction of the early European travellers on the appearance of the cuneiform signs
+of the inscriptions they found was very much the same as that of the Lord of Aratta. For them they bore “the
+resemblance of pyramids inverted or with bases upwards, Trangles or Delta’s,”xxxi or were “three cornered,” in the
+form of “a Pyramide” or of “a little Obeliske.”xxxii Such a reaction itself is no negative evidence for their
+comprehension ability. But we know for certain in this case that they could not read and understand the inscriptions.
+Note further, that the nail-like appearance of the signs does not conform with the appearance of the earliest signs
+which might be described as linear. The former is a development of the latter which achieved its full measure in the
+Fara period that, in all likelihood, is later than the time during which Enmerkar might have lived. Ignorant of the
+linear appearance of the earliest signs on clay of the Uruk IV-III period, the author of the composition of the Ur III
+Gong Yushu / Procedia Social and Behavioral Sciences 2 (2010) 7446–7453 7449
+period took it for granted that the rudimental element of the signs on clay was nail-like in all periods. This error of
+his was due to the limitations of his time and should not prevent us from believing in the authenticity of his narration
+of an event happened in the distant past.
+Fourth, as for his interpretation “The Lord of Aratta sees only nails where he had expected words. He is angry or
+depressed, however hard he keeps looking,”xxxiii it is hard for us to imagine how could the Lord of Aratta have
+“expected words” by not being reluctant to see the “nails.” Since Sumerian “words” can only be expressed by
+“nails,” the rudemental elements of the Sumerian (cuneiform) script, we must in fact pose the question, how could
+he not expect to see “nails,” if he had expected to see “words”? Reading Sumerian is nothing but fingering out
+words from the interwoven “nails.” It is as true of the past as of the present.
+In other word, the assumption that the Lord of Aratta could not understand the message written by Enmerkar
+cannot be borne out by the text, however logical it may sound.
+To the contrary, the emphasis laid on the writing medium, “clay,” of the text (lines 503-504) makes it possible to
+interpret Enmerkar’s deed as the “invention” of writing on clay, as is opposed to writing on other materials. In this
+sense, what Enmerkar did should not be regarded as the invention of writing, but as the initial transformation of the
+writing medium, from a certain material to clay. Furthermore, as we have seen from the argument we made above,
+that the Lord of Aratta did understand the message on clay written by Enmerkar has also textual support, and the
+literacy, or the ability, of the Lord of Aratta to understand the written message leads logically to the conclusion that
+writing on materials other than clay had already been in existence prior to Enmerkar’s “invention” of writing on clay.
+That is the point of this “Sumerian account of the invention of writing”!
+This conclusion, borne out by the text, can also be supported by the following facts and observations.
+(1) Besides clay tablets, writing materials of ivory, wood, wax, leather and even papyrus were also in common
+use during the latter part of the Mesopotamian history.xxxiv Their origin is by no means clear. Some may be later
+inventions, others may well be the later development or even the continuation of an early tradition.
+(2) Some signs of the proto-cuneiform writing from Uruk do not seem to be the original invention on clay, but
+borrowings of signs already in existence on materials other than clay. The head of some animals such as donkey
+(ANŠE), ibex (DARA ), and ox (GIR ). and some other signs made up of curves and circles such as IDIGNA (a
+3 3
+kind of bird), NAM (swallow) and even LAGAB (a circle depicting a kind of enclosure) and its incorporated
+derivatives which were difficult to draw on clay, may be taken as such examples.xxxv
+(3) The proto-cuneiform writing system from Uruk displays such a high degree of complexity, stability and
+conventionality that it does not seem to represent the earliest stage of writing. This has already led many scholars to
+believe that the proto-cuneiform writing from Uruk represents a mature writing system, the beginning of which is
+lost in the darkness of prehistory.xxxvi Unfortunately, traces of such an assumed earlier stage have not yet been
+discovered,xxxvii so that “whether the pre-Uruk writing was on clay or perishable materials, took place in Uruk or
+elsewhere, and was used for sacred or economic purposes, we have no way of knowing.”xxxviii But absence of
+evidence is not evidence of absence.
+(4) Recently, Whittaker has propounded a theory about the origin of the proto-cuneiform writing that deserves
+our attention. He proposes that certain signs of the proto-cuneiform writing such as GIRI “foot” (sign-form is the
+3
+picture of an ox’s head in profile) and GURUŠ “young, able-bodied worker” (sign-form is the picture of a vehicle in
+profile)xxxix might have been of Proto-Indo-European origin. The Sumerians borrowed them and adapted them for
+their own use on the basis of the phonetic similarities, that is, similarities between the pronunciations of the words
+they stood for in the Proto-Indo-European script and those for which they were to stand in the Sumerian.xl To be
+sure, his evidence so far lies entirely in the area of comparative linguistics and has not yet been favoured by
+archaeological substantiation, and his interpretation of the proto-cuneiform text W 16632,b of the Uruk IV in Proto-
+Indo-Europeanxli is less convincing. But the direction of his thought is interesting. It coincides, to some extent, with
+the direction of thought which the Sumerian account of the invention of writing leads us to, that is, before the
+Sumerian invention of clay tablets, writing materials other than clay might have been in existence.
+Briefly stated, the passages we quoted above from the Sumerian epic composition Enmerkar and the Lord of
+Aratta suggest that writing on materials other than clay was already in existence in southern Mesopotamia prior to
+the point when Enmerkar wrote the message on clay, and that Enmerkar was not the one who invented writing for
+the first time, but the one who transformed writing already in existence from a material that remains unmentioned in
+the text to clay, and that the transformation of the writing medium had its subsequent effect on the appearance of the
+signs. Furthermore, we see an explicit hint in them that the Sumerians ascribed the transformation of the writing
+7450 Gong Yushu / Procedia Social and Behavioral Sciences 2 (2010) 7446–7453
+medium to man, while the invention of writing to gods,xlii as is the case of another Sumerian literary composition
+known as Inanna and Enki.xliii
+We know for certain that the earliest evidence of the proto-cuneiform writing on clay tablet comes from Uruk IV,
+at the end of the fourth millennium B.C. (ca. 3200 B.C.), a time when the transformation of the writing medium
+described in our literary composition Enmerkar and the Lord of Aratta, must have taken place. According to the
+Sumerian Kinglist, Enmerkar is the second ruler of the First Dynasty of Uruk,xliv who is assigned by most
+chronologies to the Early Dynastic II period, several hundred years later than the earliest evidence of the proto-
+cuneiform texts on clay from Uruk IV. Nevertheless, this chronological irreconcilability between Enmerkar and the
+emergence of writing in reality poses no difficulties for us to combined them together. The reasons are twofold: (1)
+The discovery, made by Green,xlv of a proto-cuneiform text from Uruk with “Lord of Aratta” written on the obverse
+may push the reign of Enmerkar considerably forward, almost to the very beginning of the archaeologically attested
+proto-cuneiform texts on clay, if the “Lord of Aratta” is identical with that one of our literary composition. (2) If that
+is not the case, we still find no difficulty in understanding that the author of this epic composition, regardless
+whether he was well aware of that discrepancy or was ignorant of it, combined them together to strengthen Sumer’s
+superiority over its political enemyxlvi in the person of the protagonist of his composition.
+1. Pictograms difficult to draw on clay
+2. Possible PIE-Pictograms Proposed by Whittaker
+3. Proto-Cuneiform Text of Economic Content
+Gong Yushu / Procedia Social and Behavioral Sciences 2 (2010) 7446–7453 7451
+4. Proto-Cuneiform Text with “Lord of Aratta”
+References
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Cohen 1973 = S.Cohen, Enmerkar and the Lord of Aratta, Dissertation Presented to the University of Pennsylvania in Partial Fulfilment of the
+Requirements of the Degree of Doctor of Philosophy, 1973.
+Englund 1998 = Robert K. Englund, “Texts from the Late Uruk Period”, in Josef Bauer, Robert K. Englund, Manfred Krebernik, Mesopotamien
+Späturuk Zeit und Frühdynastische Zeit, Universitätsverlag Freiburg Schweiz, Vandenhoeck & Ruprecht Göttingen, 1998, pp.15-217.
+Farber-Flügge 1973 = G. Farber-Flügge, Der Mythos “Inanna und Enki” unter besonderer Berücksichtigungen der Liste der me, Studia Pohl 10
+(1973).
+Glassner 2003 = Jean-Jacques Glassner, The Invention of Cuneiform Writing in Sumer, Translated and Edited by Zainab Bahrani / Marc van de
+Mieroop, The Johns Hopkins University Press, Baltimore and London, 2003.
+Green 1980 = M.W. Green, “Animal Husbandry at Uruk in the Archaic Period”, JNES 39 (1980), 1-35.
+Green 1981 = M.W. Green, “The Construction and Implementation of the Cuneiform Writing System, Visible Language,” Vol.15, Nr.4, 1981,
+345-372.
+Green / Nissen 1987 = M.W.Green / Hans J. Nissen, Zeichenliste der Archaischen Texte aus Uruk (ZATU), Gebr. Mann Verlag, Berlin 1987.
+Jacobsen 1939 = Th. Jacobsen, The Sumerian Kinglist, Chicago 1939 (= Assyriological Studies No.11).
+Jacobsen 1987 = Th. Jacobsen, The Harps that once—Sumerian Poetry in Translation, Yale University Press, New Haven and London 1987.
+Komoroczy 1975 = G.Komoroczy, “Zur Atiologie der Schrift Erfindung im Enmerkar Epos”, Altorientalische Forschungen 3 (1975), 19-24.
+Kramer 1952 = S.N.Kramer, Enmerkar and the Lord of Aratta, Philadelphia 1952.
+Kramer 1959 = S.N.Kramer, History Begins at Sumer, New York 1959.
+Lieberman 1980 = S.J.Lieberman, “Of Clay Pebbles, Hollow Clay Balls, and Writing: A Sumerian View”, AJA 84 (1980), 339358.
+Michalowski 1986 = P.Michalowski, “Mental Maps and Ideology: Reflections on Subartu”, in H.Weiss (ed.), The Origin of Cities in Dry-
+Farming Syria and Mesopotamia in the Third Millennium B.C., Four Quarters Publishing Co., Guilford, Connecticut, 1986, 129-156.
+Michalowski 1990 = P.Michalowski, “Early Mesopotamian Communicative Systems: Art, Literature, and Writing”, in A. Gunter (ed.),
+Investigating Artistic Environments in the Ancient Near East, Washington 1990, 53-69.
+Nissen 1990 = H.J.Nissen et al., Frühe Schriften und Techniken der Wirtschaftsverwaltung im alten Vorderen Orient, verlag franzbecker 1990.
+Pallis 1956 = S.A.Pallis, The Antiquity of Iraq, A Handbook of Assyriology, Copenhagen 1956.
+Powell 1981 = M.A.Powell, “Three Problems in the History of Cuneiform Writing: Origins, Direction of Script, Literacy”, Visible Language 15/4
+(1981), 419441.-
+Rogers 1915 = R.W.Rogers, A History of Babylonia and Assyria I, New York 1915.
+R llig 1990 = W.R llig, “Literatur”, RIA 7 (1987-1990), 35-66.
+Schmandt-Besserat 1977 = D.Schmandt-Besserat, “An Archaic Recording System and the Origin of Writing”, Syro-Mesopotamian Studies 1,
+No.2 (1977), 1-32.
+7452 Gong Yushu / Procedia Social and Behavioral Sciences 2 (2010) 7446–7453
+Schmandt-Besserat 1979 = D.Schmandt-Besserat, “An Archaic Recording System in the Uruk-Jemdet Nasr Period”, American Journal of
+Archaeology 83 (1979), 19-48.
+Schmandt-Besserat 1992 = D.Schmandt-Besserat, Before Writing, University of Texas Press, Austin 1992.
+Steinkeller 2004 = P.Steinkeller, “The Function of Written Documentation in the Administrative Praxis of Early Babylonia”, in Creating
+Economic Order, Record-Keeping, Standardization, and the Development of Accounting in the Ancient Near East, Vol. 5, eds. by Michael
+Hudson and Cornelia Wunsch, CDL, Bethesda, Maryland, 2004, 65-88.
+Vanstiphout 1989 = H.L.J.Vanstiphout: “Enmerkar’s Invention of Writing Revisited,” in H.Behrens / D.Loding / M.T.Roth (eds.), DUMU-E-
+2
+DUB-BA-A Studies in Honor of Åke W. Sjöberg, Philadelphia, 1989, 515-524.
+Vanstiphout 1994 = H.L.J.Vanstiphout, “Another Attempt at the Spell of Nudimmud’”, RA 88 (1994), 135-154.
+Vanstiphout 1999 = H.L.J.Vanstiphout, “The Twin Tongues Theory, Technique, and Practice of Bilingualism in Ancient Mesopotamia”,
+H.L.J.Vanstiphout (ed.), All Those Nations...Cultural Encounters within and with the Near East, Studies Presented to Han Drijvers(cid:708)=
+Commers/ICOG Communications 2(cid:709)(cid:712)Groningen 1999, 141-159.
+Whittaker 2001 = G.Whittaker, “The Dawn of Writing and Phoneticism”, Hieroglyphen, Alphabete, Schriftreformen, Lingua Aegyptia Studia
+Monographica 3, G/.öttingen 2001, 11-50.
+Wiseman 1955 = D.J. Wiseman, “Assyrian Writing-Boards”, Iraq 17 (1955), 3-13.
+i e.g. Glassner 2003, 9.
+ii Since epic literature is already attested in Abu Salabikh around 26 century B.C., the account of the origin of writing might be earlier than its
+attestation we have.
+iii For a list of early literature of this poem, see Vanstiphout 1994, 135, fn.2; Vanstiphout 1999, 141.
+iv Vanstiphout 1994, 135, fn.1; Röllig 1990, 39; http: //www.etcsl.orient.ox.ac.uk/section1.
+v e.g. Komoroczy 1975; Vanstiphout 1999; Vanstiphout 1994.
+vi The earliest complete translation is Kramer 1952, followed by Cohen 1973. The latest is Jacobsen 1987, 275-319.
+vii Jacobsen 1939, 87.
+viii The location of Aratta is still controversial. For different propositions made by scholars up to 1980, s. Green 1980, 17, fn.89. An interesting
+view is expressed by Michalowski 1986, 133.
+ix So called (“The First ‘War of Nerves’”) by Kramer (Kramer 1959, 17).
+x Line 500: dug-ga-ni (cid:759)mah(cid:761)-am Šag4-bi su-su-a-am.
+4 3 3
+xi Komoroczy 1975, 20: “Es ist durchaus klar, daß der Dichter des Epos hier die Erfindung der Tontafel (d.h. des mesopotamischen
+Schreibmaterials) und der darauf geschriebenen Schrift (d..h. der Keilschrift) darstellen wollte; ...Also gilt Enmerkar in seinen Augen als der
+Erfinder der einheimischen Schrift. ”
+xii Vanstiphout 1989, 524.
+xiii Glassner 2003, 16 and 28.
+xiv Kramer 1952, 41.
+xv Ibid., p.51.
+xvi Jacobsen 1987, 314.
+xvii “To learn its contents, the lord of Aratta had no choice but to take in his hand the clay lump so he could read the message that was written
+on it” (Glassner 2003, 16).
+xviii Glassner 2003, 24.
+xix Komoroczy 1975, 21.
+xx Ibid., p.23.
+xxi “Since systems of counting, like grammatical structures, tend to be stable elements in a language, the presence of sexagesimal structures in
+the early tablets constitutes cogent evidence that the language in which they are written is Sumerian” (Powell 1981, 423). There are scholars who
+hold different opinions on this issue, Englund (1998, 7475), for instance. A brief introduction of the controvesy would be beyond the scope of
+this essay.
+xxii Cohen 1973, 138.
+xxiii Ibid., p.38.
+xxiv Already Vanstiphout 1989, 517.
+xxv Vanstiphout 1989, 516.
+xxvi Ibid., p.520.
+xxvii Ibid., p.521.
+xxviii Ibid., p.522.
+xxix Jacobsen 1989, 314.
+xxx Vanstiphout 1989, 516.
+xxxi Pallis 1956, 60-61.
+xxxii Rogers 1915, 19-20.
+xxxiii Vanstiphout 1989, 520.
+xxxiv For the different writing materials found in Nimrud, see Wiseman 1955. For the use of wood tablets during the Ur III period, see
+Steinkeller 2004, 75 with Footnotes; for the use of wax (tablets), see ibid, 76 with Fn. 18.
+xxxv For examples of these signs, see the signlist in Green / Nissen 1987.
+Gong Yushu / Procedia Social and Behavioral Sciences 2 (2010) 7446–7453 7453
+xxxvi Lieberman 1980, 358: The Uruk tablets “point, rather, towards an unknown prehistory”; Schmandt-Besserat 1977, 3: “The abstract
+character of the signs, the extensive repertory of vocabulary, and its immediate standardization seem to indicate that, as we have it, it was already
+a well developed and sophisticated writing system, not a humble beginning”; Green 1981, 361: “What preliminary stages might have preceded
+the mature Uruk IV writing system we cannot yet establish precisely”; Green 1981, 356: “The signs they wrote were severely stylized and
+standardized”. The same or similar view is shared by many others including Nissen (Nissen 1990, 55).
+xxxvii The token-theory developed by D.Schmandt-Besserat (e.g. Schmandt-Besserat 1977, 1979, 1992) should not remain unmentioned here.
+Her contributions have evoked strong repercussions in academic circles. Some of them sceptical (e.g. Michalowski 1990, 54, 55-56), and some
+very positive (e.g. Powell 1981). At any rate, the tokens cannot explain the overwhelming majority of the proto-cuneiform signs from Uruk,
+especially those signs which might be called realistic pictures of the objects they depict.
+xxxviii Lieberman 1980, 358.
+xxxix Whittaker 2001, 16.
+xl Englund made a similar assumption, but did not specify the possible linkage (Englund 1998, 81).
+xli Whittaker 2001, 39.
+xlii A different interpretation has been made by Glassner: “The theory can be summed up in one sentence: if spoken language is the gift of the
+gods, writing is a human creation” (Glassner 2003, 9).
+xliii Farber-Flügge 1973. The latest transliteration and translation have been published by the “Oxford Sumerian Literature Homepage” (http:
+//www.etcsl.orient.ox.ac.uk/section1). The composition relates that “the scribal art” (nam-dub-sar) was stolen by Inanna from her father Enki and
+was given to the people of Uruk. This is a strong evidence for the Sumerian view that the writing from Uruk was of divine origin. A different
+interpretation has been made recently by Glassner: “In this passing on of the me from father to daughter we can see an allusion only to the
+function of scribe rather than to the creation of writing itself” (Glassner 2003, 9).
+xliv Jacobsen 1939, 87.
+xlv Green 1980, 17 and 27.
+xlvi A number of clues and traces show that the people of Uruk and Aratta were not only trade partners, but could also be the descendants of
+common ancestors.
+

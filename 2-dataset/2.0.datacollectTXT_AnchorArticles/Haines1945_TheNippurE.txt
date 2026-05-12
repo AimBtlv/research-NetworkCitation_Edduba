@@ -1,0 +1,37 @@
+# METADATA
+author: Haines R.
+source_id:Haines1945_TheNippurE
+title: The Nippur Expedition
+Year: 1945
+Source_ID:  Haines1945_TheNippurE
+Source_Type: Archaeological Report
+Source_Role,Step_distance: 1
+Pages: 
+Web:oi.uchicago.edu
+
+# TEXT
+
+
+4. THE NIPPUR EXPEDITION
+IN CHARGE: Richard C. Haines, Field Director and Field Architect.
+Thorkild Jacobsen, Professor of Social Institutions.
+Since 1945 five campaigns have been conducted at
+Nippur, religious center of ancient Mesopotamia. The three first
+were staffed and financed jointly with the University Museum of
+Philadelphia; the fourth and fifth, with the American Schools of
+Oriental Research. The clearance of most of the two great shrines
+flanking the temple tower, the quarters of the temple scribes, and
+a suburb will bring the work to a natural termination. Final
+reports on the work of the first three seasons, prepared by Donald
+E. McCown, are being published through the University Museum.
+The publication of the large yield of Sumerian literary texts will
+take many years to complete. Participating in the fifth campaign,
+in addition to the above, were Professor Albrecht Goetze (Yale
+University), Dr. Vaughn Crawford, and Donald Hansen.
+
+# FIGURE
+None
+
+# BIBLIOGRAPHY 
+None
+

@@ -1,0 +1,1234 @@
+[
+  {
+    "editor": [
+      {
+        "family": "Asch",
+        "given": "Ronald G."
+      },
+      {
+        "family": "Birke",
+        "given": "Adolf M."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Princes, Patronage, and the Nobility: The Court at the Beginning of the Modern Age"
+    ],
+    "pages": [
+      "1450–1650"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "editor": [
+      {
+        "family": "Baker",
+        "given": "Heather D."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "The Prosopography of the Neo-Assyrian Empire"
+    ],
+    "volume": [
+      "2"
+    ],
+    "location": [
+      "Part II",
+      "Helsinki"
+    ],
+    "publisher": [
+      "L–N",
+      "The Neo-Assyrian Text Corpus Project"
+    ],
+    "type": "book"
+  },
+  {
+    "editor": [
+      {
+        "family": "Bernards",
+        "given": "Monique"
+      },
+      {
+        "family": "Nawas",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Patronate and Patronage in Early and Classical Islam"
+    ],
+    "location": [
+      "Leiden; Boston; Tokyo"
+    ],
+    "publisher": [
+      "Brill"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bottéro",
+        "given": "Jean"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Mesopotamia: Writing, Reasoning, and the Gods"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brentjes",
+        "given": "Sonja"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Patronage of the Mathematical Sciences in Islamic Societies"
+    ],
+    "container-title": [
+      "The Oxford Handbook of the History of Mathematics"
+    ],
+    "editor": [
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      },
+      {
+        "family": "Stedall",
+        "given": "Jacqueline"
+      }
+    ],
+    "pages": [
+      "301–328"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Mesopotamian Planetary Astronomy–Astrology. Cuneiform Monographs 18"
+    ],
+    "location": [
+      "Groningen"
+    ],
+    "publisher": [
+      "Styx"
+    ],
+    "type": "book"
+  },
+  {
+    "editor": [
+      {
+        "family": "Dahan",
+        "given": "Alain"
+      },
+      {
+        "family": "Bottazzini",
+        "given": "Umberto"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Changing Images of Mathematics in History: From the French Revolution to the New Millennium"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Harwood Academic Publishers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fales",
+        "given": "Frederick M."
+      },
+      {
+        "family": "Lanfranchi",
+        "given": "Giovanni B."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "The Impact of Oracular Materials on the Political Utterances and Political Actions of the Sargonid Dynasty"
+    ],
+    "container-title": [
+      "Oracles et prophéties dans l’antiquité"
+    ],
+    "editor": [
+      {
+        "family": "Heintz",
+        "given": "Jean-Georges"
+      }
+    ],
+    "pages": [
+      "99–114"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "publisher": [
+      "de Boccard"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Fincke",
+        "given": "Jeanette C."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "The British Museum’s Ashurbanipal Library Project"
+    ],
+    "volume": [
+      "66"
+    ],
+    "pages": [
+      "55–60"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Frame",
+        "given": "Grant"
+      },
+      {
+        "family": "George",
+        "given": "Andrew R."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "The Royal Libraries of Nineveh: New Evidence for Their Formation"
+    ],
+    "volume": [
+      "67"
+    ],
+    "pages": [
+      "265–284"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hardwig",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "The Role of Trust in Knowledge"
+    ],
+    "volume": [
+      "88"
+    ],
+    "pages": [
+      "693–708"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Philosophy"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Heeßel",
+        "given": "Nils"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Babylonisch-assyrische Diagnostik. Alter Orient und Altes Testament 43"
+    ],
+    "location": [
+      "Münster"
+    ],
+    "publisher": [
+      "Ugarit-Verlag"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hunger",
+        "given": "Hermann"
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "title": [
+      "Babylonische und assyrische Kolophone"
+    ],
+    "volume": [
+      "2"
+    ],
+    "location": [
+      "Kevelaer and Neukirchen-Vluyn"
+    ],
+    "publisher": [
+      "Butzon & Bercker and Neukirchener Verlag"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Alter Orient und Altes Testament"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hunger",
+        "given": "Hermann"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Astrological Reports to Assyrian Kings. State Archives of Assyria 8"
+    ],
+    "location": [
+      "Helsinki"
+    ],
+    "publisher": [
+      "Helsinki University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jean",
+        "given": "Catherine"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "La magie néo-assyrienne en contexte. State Archives of Assyria Studies 17"
+    ],
+    "location": [
+      "Helsinki"
+    ],
+    "publisher": [
+      "The Neo-Assyrian Text Corpus Project"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jeyes",
+        "given": "Ulla"
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Divination as a Science in Ancient Mesopotamia"
+    ],
+    "volume": [
+      "32"
+    ],
+    "pages": [
+      "23–41"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Jaarbericht Ex Oriente Lux"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jeyes",
+        "given": "Ulla"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Assurbanipal’s bārûtu"
+    ],
+    "container-title": [
+      "Assyrien im Wandel der Zeiten"
+    ],
+    "editor": [
+      {
+        "family": "Waetzoldt",
+        "given": "Hartmut"
+      },
+      {
+        "family": "Hauptmann",
+        "given": "Harald"
+      }
+    ],
+    "pages": [
+      "61–65"
+    ],
+    "location": [
+      "Heidelberg"
+    ],
+    "publisher": [
+      "Heidelberger Orientverlag"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch-Westenholz",
+        "given": "Ulla"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Mesopotamian Astrology: An Introduction to Babylonian and Assyrian Celestial Divination"
+    ],
+    "location": [
+      "Copenhagen"
+    ],
+    "publisher": [
+      "Museum Tusculanum Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch-Westenholz",
+        "given": "Ulla"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Babylonian Liver Omens"
+    ],
+    "location": [
+      "Copenhagen"
+    ],
+    "publisher": [
+      "Museum Tusculanum Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch",
+        "given": "Ulla"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Secrets of Extispicy"
+    ],
+    "volume": [
+      "326"
+    ],
+    "location": [
+      "Münster"
+    ],
+    "publisher": [
+      "Ugarit-Verlag"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Alter Orient und Altes Testament"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lambert",
+        "given": "Wilfred G."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Questions Addressed to the Babylonian Oracle: The tāmītu Texts"
+    ],
+    "container-title": [
+      "Oracles et prophéties dans l’antiquité"
+    ],
+    "editor": [
+      {
+        "family": "Heintz",
+        "given": "Jean-Georges"
+      }
+    ],
+    "pages": [
+      "85–98"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "publisher": [
+      "de Boccard"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Lambert",
+        "given": "Wilfred G."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "The Qualifications of Babylonian Diviners"
+    ],
+    "container-title": [
+      "In tikip santakki mala bašmu"
+    ],
+    "editor": [
+      {
+        "family": "Maul",
+        "given": "Stefan"
+      }
+    ],
+    "pages": [
+      "141–158"
+    ],
+    "location": [
+      "Groningen"
+    ],
+    "publisher": [
+      "Styx"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Lambert",
+        "given": "Wilfred G."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Babylonian Oracle Questions"
+    ],
+    "volume": [
+      "13"
+    ],
+    "location": [
+      "Winona Lake, IN"
+    ],
+    "publisher": [
+      "Eisenbrauns"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mesopotamian Civilizations"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Larsen",
+        "given": "Mogens Trolle"
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "The Mesopotamian Lukewarm Mind"
+    ],
+    "container-title": [
+      "Language, Literature and History"
+    ],
+    "editor": [
+      {
+        "family": "Rochberg-Halton",
+        "given": "Francesca"
+      }
+    ],
+    "pages": [
+      "203–225"
+    ],
+    "location": [
+      "New Haven"
+    ],
+    "publisher": [
+      "American Oriental Society"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Leichty",
+        "given": "Erle"
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "title": [
+      "The Omen Series Šumma Izbu. Texts from Cuneiform Sources 4"
+    ],
+    "location": [
+      "Locust Valley, NY"
+    ],
+    "publisher": [
+      "Augustin"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lipton",
+        "given": "Peter"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "The Epistemology of Testimony"
+    ],
+    "volume": [
+      "29"
+    ],
+    "pages": [
+      "1–33"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Studies in History and Philosophy of Science"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Löhnert",
+        "given": "Anne"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "The Installation of Priests According to Neo-Assyrian Documents"
+    ],
+    "volume": [
+      "16"
+    ],
+    "pages": [
+      "273–286"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "State Archives of Assyria Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maul",
+        "given": "Stefan M."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Zukunftsbewältigung. Baghdader Forschungen 18"
+    ],
+    "location": [
+      "Mainz"
+    ],
+    "publisher": [
+      "Philipp von Zabern"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maul",
+        "given": "Stefan M."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Omina und Orakel"
+    ],
+    "volume": [
+      "10"
+    ],
+    "pages": [
+      "45–88"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "A. Mesopotamien.” Reallexikon der Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Oppenheim",
+        "given": "A.Leo"
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "title": [
+      "Ancient Mesopotamia: Portrait of a Dead Civilization"
+    ],
+    "edition": [
+      "Rev."
+    ],
+    "location": [
+      "Chicago and London"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Park",
+        "given": "G.K."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "title": [
+      "Divination and Its Social Contexts"
+    ],
+    "volume": [
+      "93"
+    ],
+    "pages": [
+      "195–209"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of the Royal Anthropological Institute"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Parpola",
+        "given": "Simo"
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "title": [
+      "Letters from Assyrian Scholars to the Kings Esarhaddon and Assurbanipal"
+    ],
+    "volume": [
+      "2"
+    ],
+    "location": [
+      "Kevelaer"
+    ],
+    "publisher": [
+      "Butzon & Bercker"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Parpola",
+        "given": "Simo"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Assyrian Library Records"
+    ],
+    "volume": [
+      "42"
+    ],
+    "pages": [
+      "1–29"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Near Eastern Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Parpola",
+        "given": "Simo"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Letters from Assyrian and Babylonian Scholars"
+    ],
+    "volume": [
+      "10"
+    ],
+    "location": [
+      "Helsinki"
+    ],
+    "publisher": [
+      "Helsinki University Press"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "State Archives of Assyria"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pečírková",
+        "given": "Jana"
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Divination and Politics in the Late Assyrian Empire"
+    ],
+    "volume": [
+      "53"
+    ],
+    "pages": [
+      "155–168"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Archiv Orientální"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Radner",
+        "given": "Karen"
+      },
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Knowledge and Power in the Neo-Assyrian Empire"
+    ],
+    "location": [
+      "Leeds"
+    ],
+    "publisher": [
+      "Higher Education Academy"
+    ],
+    "url": [
+      "http://knp.prs.heacademy.ac.uk"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Mesopotamian Medicine and Religion"
+    ],
+    "volume": [
+      "3"
+    ],
+    "url": [
+      "https://doi.org/10.1111/j.1749-8171.2008.00082.x"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Religion Compass"
+    ],
+    "doi": [
+      "10.1111/j.1749-8171.2008.00082.x"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rochberg",
+        "given": "Francesca"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "The Heavenly Writing"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Shapin",
+        "given": "Steven"
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "title": [
+      "History of Science and Its Sociological Reconstruction"
+    ],
+    "volume": [
+      "20"
+    ],
+    "pages": [
+      "157–211"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "History of Science"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shapin",
+        "given": "Steven"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "The Invisible Technician"
+    ],
+    "volume": [
+      "77"
+    ],
+    "pages": [
+      "554–563"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "American Scientist"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shapin",
+        "given": "Steven"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "A Social History of Truth"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Starr",
+        "given": "Ivan"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Queries to the Sungod. State Archives of Assyria 4"
+    ],
+    "location": [
+      "Helsinki"
+    ],
+    "publisher": [
+      "Helsinki University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Starr",
+        "given": "Ivan"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Chapters 1 and 2 of the bārûtu"
+    ],
+    "volume": [
+      "6"
+    ],
+    "pages": [
+      "45–54"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "State Archives of Assyria Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Steinkeller",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Of Stars and Men"
+    ],
+    "container-title": [
+      "Biblical and Oriental Essays in Memory of William L"
+    ],
+    "editor": [
+      {
+        "family": "Moran",
+        "given": "Angelo Gianto"
+      }
+    ],
+    "pages": [
+      "11–47"
+    ],
+    "location": [
+      "Rome"
+    ],
+    "publisher": [
+      "Pontifical Biblical Institute"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Traweek",
+        "given": "Sharon"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Beamtimes and Lifetimes"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "Harvard University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "On Interpreting Mesopotamian Namburbi Rituals"
+    ],
+    "volume": [
+      "42–43"
+    ],
+    "pages": [
+      "145–154"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Archiv für Orientforschung"
+    ]
+  },
+  {
+    "editor": [
+      {
+        "family": "Wallace-Hadrill",
+        "given": "Andrew"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Patronage in Ancient Society"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Routledge"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Westbrook",
+        "given": "Raymond"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Patronage in the Ancient Near East"
+    ],
+    "volume": [
+      "48"
+    ],
+    "pages": [
+      "210–233"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of the Economic and Social History of the Orient"
+    ]
+  }
+]

@@ -1,0 +1,374 @@
+# METADATA
+author: Hurowitz V.
+source_id:Hurowitz0000_LiteraryOb
+title: Literary Observations On “in
+Praise of the Scribal Art”
+Year: Unknown
+Source_ID:  Hurowitz0000_LiteraryOb
+Source_Type: Article
+Source_Role,Step_distance: 2 ,3,4 
+Pages: 49-57 
+Web: 
+
+# TEXT
+
+Literary Observations on “In
+Praise of the Scribal Art”
+VICTOR AVIGDOR HUROWITZ
+Ben-Gurion University of the Negev
+“In Praise of the Scribal Art” (IPSA) is a brief (17 lines), bilingual, poetic com-
+position addressed in second person,1 most likely to a pupil in a scribal school, ex-
+tolling and recommending the craft he is learning. It was edited in JCS 24 (1972),
+126–29 by Åke W. Sjöberg, who gave it its current designation. Benno Landsberger
+had referred to it as “Examination Text D.” Since the text contains no examination
+questions or problems that would challenge a schoolboy, Landsberger’s title is cer-
+tainly inappropriate.2 Since the text clearly sets out the bene˜ts granted by knowl-
+edge of the scribal art and depicts the pains at which it may be acquired, Sjöberg’s
+characterization is eminently more suitable.3
+In fact, the composition in its entirety may be compared to several other, later
+ancient Near Eastern works conventionally classi˜ed as “wisdom literature,” although
+no claims should be made of any direct relationship between the speci˜c texts. This
+category is, to be sure, an invention of modern scholarship and not a native clas-
+si˜cation, either in ancient Israel or any contiguous culture, and some would like to
+abandon it.4 It has also been used to designate texts of various genres and relates more
+to content and general attitudes of the texts involved than to their literary form, their
+1.ÙNote the imperatives, second person verbs, and pronominal su¯xes in ll. 4, 5, 6, 8, 9, 11.
+2.ÙThis is not to deny, of course, similarities in theme as well as shared expressions between IPSA and
+other “Edubba” texts bent on promoting the scribal art. See in particular Å. W. Sjöberg, “Der Examen-
+stext A,” ZA 64 (1975), 137–76, especially p. 146, l. 56: nam-dub-sar gis sub-ba-sig -ga tuk-dlama igi-
+5
+zalág-ga nì-sà-hab-é-gal-la-ke
+4
+: tupsarr¿tu isiq damaqi rasê lamassi igu mamirtu hisihti ekalli, “The
+scribal art is a good lot (the scribe) has a good guardian deity (countenance), bright eyes, and the needs
+of the palace,” which can be compared with IPSA l. 10 n[am-dub-s]ar-ra gis sub-ba-zíl-la nì-tuku nam-
+hé-[a] tupsarrútu isiq damaqi mesrê u n[uhsi], “The scribal art is a good lot, richness and abundance.”
+In the introductory comments to his study of Examenstext A, Sjöberg mentions an essential resemblance
+this text has with “A Dialogue Between a Father and His Disobedient Son” which he published in JCS 25
+(1973), 105ˆ., but he mentions similarities with IPSA only in the commentary to the text.
+3.ÙSee as well Å. W. Sjöberg, “The Old Babylonian Eduba,” in S. J. Lieberman, ed., Sumerological
+Studies in Honor of Thorkild Jacobsen, AS 20 (Chicago and London, 1975), 159–79, esp. 166–68, for the
+various scribal skills stipulated in the last three lines of the text. To the best of my knowledge, this text
+has not been included in any popular, more accessible form such as the classic compendia of ancient Near
+Eastern texts of J. B. Pritchard and W. W. Hallo. It is certainly for this reason that it is unknown to bib-
+lical scholars. For related texts dealing with Sumerian schools and scribal education see S. N. Kramer,
+The Sumerians (Chicago, 1963), 229–48.
+4.ÙFor the characteristics of wisdom and the inadequacies of “wisdom literature” as a designation for
+a coherent corpus of literature in Mesopotamian see G. Buccellati, “Wisdom and Not: The Case of Meso-
+potamia,” JAOS 101 (1981), 15–47.
+49
+50 JANES 27 (2000)
+use, or their Sitz im Leben. Nonetheless, the designation has usefulness in describing,
+inter alia, texts representing the literary productivity of educational and didactic
+frameworks such as schools and the family. The reservations concerning this nomen-
+clature notwithstanding, IPSA de˜nitely ˜ts the conventional rubric, may be called a
+work of wisdom literature, and may be compared with certain other texts usually
+given the same classi˜cation.5
+Although vastly separated by time and distance, the bene˜ts of the scribal art
+depicted in IPSA resemble, for instance, Wisdom’s rewards promised in biblical pas-
+sages such as Prov. 3:14–16. We should bear in mind, of course, that the scribal art
+of the Mesopotamian text was narrower, more professional in focus than the wisdom
+proˆered by Proverbs, but both were learned in schools and both held out to the elite
+of society. There are certain speci˜c similarities. Scribal art will enrich the student
+(l. 4) and provide him with wealth and abundance (l. 5), The scribal art is a good lot
+of riches and abundance (l. 10). Similarly, Wisdom of Proverbs promises:
+Her value in trade is better than silver; Her yield is greater than gold; She is more precious
+than rubies; all of your goods cannot equal her; In her right hand is length of days; in her left,
+riches and substance. (Prov. 3:14–16)
+or
+Riches and substance6 belong to me, negotiable wealth and success; my fruit is better than
+gold, ˜ne gold, and my produce better than choice silver. I endow those who love me with
+possessions;7 I will ˜ll their treasuries. (Prov. 8:18–19, 21)
+The delights of the scribal art mentioned in the second line of IPSA can be com-
+pared with the description of personi˜ed Wisdom as providing entertainment and
+joy to God Himself and to humankind in general in Prov. 8:30–31.8 The description
+of the scribal art as the mother of orators (so in the Sumerian) and father of masters
+in the ˜rst line of IPSA reminds us of the parental voice of the master teacher
+throughout the Book of Proverbs, but we should note in particular Prov. 6:22: “when
+you wake up it (wisdom) will make you speak (te¶îheka).
+5.ÙIt is quite surprising that certain volumes concerned with biblical wisdom literature which simul-
+taneously display pronounced interest in its ancient Near Eastern context mention neither IPSA or the
+Sumerian school texts to which it is related. See, e.g., W. McKane, Proverbs, Old Testament Library
+(Philadelphia, 1970), esp. 51–208, and the various essays in J. G. Gammie & L. G. Perdue, eds., The Sage
+in Israel and the Ancient Near East (Winona Lake, 1990). This is even more remarkable given the fact
+that by all standards some sages of ancient Israel are hardly to be distinguished from the Mesopotamian
+scribes, and what is taken for wisdom literature was certainly propagated in scribal schools and as part
+of scribal training in both societies. An explanation for this oversight may be the priority biblical scholars
+have given Egyptian wisdom literature as providing parallels to the biblical material, or the emphasis on
+the family or the clan rather than the school as the Sitz im Leben of biblical wisdom literature. Both
+notions are clearly misguided.
+6.ÙHebrew dwbk usually means “honor” but here it refers to wealth as, e.g., in Gen. 31:1; Hag. 2:7.
+7.ÙHebrew qt[ ˆwh is the equivalent of (rjwsl) rbw[ πsk and Akkadian kaspu ittiq. Hebrew çy is
+equivalent to Akkadian b¿su, property, derived from basû. On these terms see my article “Two Terms or
+Wealth in Proverbs VIII in Light of Akkadian,” VT 50 (2000), 252–57.
+8.ÙCompare the Hebrew pair qjç and [ç[ç with the Akkadian sâhu and lalû.
+Hurowitz: Literary Observations on “In Praise of Scribal Art” 51
+IPSA may also be compared with some passages in the Egyptian satirical work
+of the Nineteenth Dynasty, “The Instructions of Duauf,” which extols the life of the
+scribe even while ridiculing other professions.9 Mutatis mutandis, IPSA may be held
+up against Ben-Sira 38:24–39:11 (especially 38:24, 39:1–11) which, although it
+speaks more respectfully of other jobs than does the Egyptian work, urges learning
+the scribal craft, called here hokmat hassôper, a Hebrew synonym of nam-dub-sar-
+ra: tupsarr¿tu.10 The calling and activity of the Jewish scribe of the third century
+apocryphal work is far diˆerent from that of his Mesopotamian and Egyptian
+B.C.E.
+predecessors, and the various texts referred to derive from a vast geographical, chro-
+nological, and sociological range. But all of them are nonetheless products of edu-
+cated literati, engaged in the profession of preserving and studying their respective
+scribal traditions on one hand, and charged running government and civil institu-
+tions on the other hand, and they all boast the same high opinion of themselves.
+Both Ben-Sira and IPSA speak of the great eˆorts and loss of sleep that must be
+invested in learning the craft. Ben Sira 39:5 describes the scribe rising early to seek
+the Lord, while IPSA, l. 8 recommends that the scribe stay awake, lose sleep, and
+work ceaselessly at his craft (igi. um-ma-ra-ak-en: tadallipsimma), and both
+DU
+speak of their crafts revealing secrets. According to Ben-Sira, the scribe “studies the
+hidden meaning of proverbs, and is busied with the enigmas found in parables” (Ben
+Sira 39:3) and meditates upon God’s mysteries (v. 7). IPSA ll. 7–8 depicts the
+scribal art as the “secret of Ammanki” (Enki, see below), promising that the scribal
+craft will reveal its secrets to those who tire over it.
+These general and detailed similarities indicate that IPSA is an early example
+of a long-lived, common genre of ancient Near Eastern literature in which scribes
+promote themselves to the detriment of other, lower ranking, less essential members
+of society.11 I would like to suggest, however, that classifying IPSA narrowly and
+exclusively as a work of scribal self-aggrandizement and snobbery does not reveal
+the full intent of the text. Sjöberg has followed the common, reasonable practice of
+understanding the text according to its main content. Since the text deals over-
+whelmingly with the bene˜ts of learning the art of the scribe, and the term for
+scribal art, tupsarr¿tu, appears at the beginning of ten out of the seventeen lines of
+the composition, the title given is most appropriate. Also, it is well recognized that
+Mesopotamian texts often reveal their ultimate purpose only in what comes last.
+9.ÙSee now M. Lichtheim, “Dua-Khety or the Satire of the Trades,” in W. W. Hallo & K. L.
+Younger, Jr., eds., The Context of Scripture, vol. 1: Canonical Compositions from the Biblical World
+(Leiden, 1997), 122–25. Note also McKane, Proverbs, 86–91. Similar compositions from the twentieth
+dynasty include Papyrus Lansing P. British Museum 9994 and P. Chester Beatty IV = P. British Mu-
+seum 10684, for which see M. Lichtheim, Ancient Egyptian Literature (Berkeley, 1976), 2.165–78.
+10.ÙFor the Ben-Sira passage in general and a comparison with the Egyptian text in particular, see
+M. Z. Segal, Sefer Ben-Sira Ha-shalem (Jerusalem, 1959), 251–60 [in Heb.]; P. W. Skehan & A. A. Di
+Lella, The Wisdom of Ben Sira, AB (New York, 1987), 445–53; J. G. Gammie, “The Sage in Sirach,”
+in Gammie & Perdue, eds., The Sage in Israel, 355–72 esp. 366–68.
+11.ÙA democratized and highly Judaicized, late oˆshoot of the genre of praising the wisdom of the
+scribe is the sixth chapter of Pirkei Avot, which is a collection of adages concerning the bene˜ts of
+acquiring knowledge of the Torah, and the eˆorts which must be spent in the process. For Pirkei Avot as
+a successor to biblical wisdom literature, see I. B. Gottlieb, “Pirqe Abot and Biblical Wisdom,” VT 40
+(1990), 152–64. It can be expected that praises of scribes and their art are found in other cultures as well.
+52 JANES 27 (2000)
+Since the text concludes by mentioning not the scribal art but the scribe himself,
+there might be justi˜cation in calling it “In Praise of the Scribe.” However, an ad-
+ditional, subtle message of the text may be discerned if we heed some stereotyped
+literary features of the text which were beyond the purview of Sjöberg’s predomi-
+nantly philological and lexical study.12
+The bilingual text contains seventeen lines. Of these, the ˜rst seven begin with
+the Sumerian words nam-dub-sar-ra translated tupsarr¿tu (ll. 1–3, 7) or ana tup-
+sarr¿tu (ll. 4, 5, 6). The same words appear in lines 10 and 12, whereas line 17
+begins in nearly the same manner with dub-sar: tupsarr¿. Forms of dub-sar: tup-
+sarr¿ thus occur ten times, embracing and marking the entire composition with a
+Leitwort which appears a typologically signi˜cant number of times. The fact that the
+Leitwort occurs seven and an additional three for a total of ten times marks it as
+more than a mere, frequently repeated word. We will see, in fact, that the distribu-
+tion of the repeated word has signi˜cance as well.
+Examining the language of the text carefully reveals some additional words
+that occur more than once and in a signi˜cant manner. More precisely we ˜nd the
+following:
+a. l. 3 me-zu-gál: lamdat eu l. 8 ki-urì: nisirtasa
+b. l. 3. lú-su-bi: ahissa du l. 9 nam-mu-un-na-ab-sub-bè-en:
+ahka tanamdÿsimma
+c. l. 5 su-nì-gál-la: masrâ cu l. 10 nì-tuku: mesrê
+d. l. 6. á-zu na-an-sub-bé-en:
+ahka la tanamdi bu l. 14 zu-zu-dè: ahazu
+e. l. 7 ki-urì: nisirti au l. 14 [zu-zu-dè?]: lamadu
+This chart shows a list of ˜ve terms spanning the ˜rst seven lines of the com-
+position which are repeated one by one but in reverse order in the next seven lines,
+8–14.13 The turning point in the chain is the seventh line, the one where the ˜rst
+seven occurrences of nam-dub-sar-ra: tupsarr¿tu come to an end. More signi˜-
+cantly, however, is that between the words ki-urì: nisirti and ki-urì: nisirtasa we ˜nd
+12.ÙI have discussed such literary devices in some previous publications including “Literary Structures
+in Samsuiluna A,” JCS 36 (1984), 191–205; “Some Literary Observations on the †itti-Marduk Kudurru
+(BBSt 6),” ZA 82 (1992), 39–59; Inu Anum sÿrum, Literary Structures in the Non-Juridical Sections of
+Codex Hammurabi (Philadelphia, 1994), esp. 7–10; Divine Service and Its Rewards. Ideology and Poetics
+in the Hinke Kudurru, Beer Sheva. Studies By the Department of Bible and Ancient Near East 10 (Beer
+Sheva, 1997); “Reading A Votive Inscription. Simbar-Shipak and the Ellili˜cation of Marduk,” RA 91
+(1997), 39–47. The features relevant to the present inscription are the structural use of repeating a word
+seven times, the signi˜cance of the seventh position in a repetitive literary structure, and the use of chiasm
+to emphasize the high point and climax of a text.
+13.ÙThere may be a sixth pair for we ˜nd in the proper place in the sequence iåaddarsa, “be anxious
+about it,” in l. 3 recapitulated by the semantically similar tanamziq, “it causes you grief,” in l. 11. This
+is admittedly a rare juxtaposition, but cf. the sequence sunzuqaku, sudlupaku, adraku in LKA 58:12, cited
+in CAD N/2, 138, s.v. nazaqu 4b).
+Hurowitz: Literary Observations on “In Praise of Scribal Art” 53
+dAmmanki, a standard Emesal title of Ea/Enki, god of wisdom but not known in par-
+ticular as a patron deity of scribes.14 Although this name occurs only once in the
+composition and is the only proper name and divine epithet in the work, it is given
+added signi˜cance by its position. On the one hand, it occurs at the end of the sev-
+enth line, the number emphasized by the line containing the seventh appearance of
+the Leitwort. On the other hand, it is pivotal, occurring at the turning point of a
+chain of words and terms chiastically arranged.
+The triple emphasis on the deity Ammanki/Enki, reinforced by a word play on
+his name,15 is certainly intentional. It adds a theological dimension to the composi-
+tion that is overlooked if attention is given only to the more obvious elements such
+as the vocabulary and the linear development of the piece. Drawing attention to
+Enki/Ammanki by stylistic and structural devices means that this composition is not
+only a praise of the scribal art or the scribe in general but calls speci˜c attention to
+the god in charge. It may be considered not only a hymn to scribal art and scribes,
+but to the god of the scribal art.
+As a matter of fact, the hymn may have a subtext or ulterior motive. Although
+Enki is a god of wisdom and numerous crafts, he is never explicitly associated with
+the art of the scribe.16 To be sure, the only Mesopotamian deities ever explicitly as-
+sociated with tupsarr¿tu or given the title tupsarr¿ are Nisaba and later Nabû. The
+speci˜c “secrets of Ea (Enki),” nisirti Ea, are divination, barûtu, and lamentation,
+kalûtu, but never tupsarr¿tu.17 These areas are distinct disciplines and there is no
+reason to assume that the ˜rst two are simply subcategories of the third, so attributing
+14.ÙFor the passage see CAD N/2, 276a, s.v. nisirtu bilingual section, which translates “the scribe’s
+craft is a good thing, the secret lore of Enki, if you work ceaselessly with it, it will reveal its secrets to
+you.” For Ammanki cf. CT 24, 42f.; CT 25, 47, l. 109 [dAn-ma-a-an-ki dÉ-a samê u ersetim [a late
+Midrashic interpretation of the written form of the name]; H. D. Galter, Der Gott Ea/Enki in der akka-
+dischen Überlieferung. Eine Bestandsaufnahme des vorhandenen Materials, Dissertationen der Karl-
+Franzens-Universitat Graz 58 (1983), 20–23. Am-ma-an-ki is in this god list the second of Ea’s titles,
+preceding even En-engur and Nudimmud. B. Alster, Proverbs of Ancient Sumer (Bethesda, Maryland,
+1997), 2.503 lists dAm-an-ki in SP 11.9, a broken context, as emesal for dEn-ki. Galter, Der Gott Ea/
+Enki; Th. Jacobsen, The Treasures of Darkness (New Haven, 1976), 110–16; and S. N. Kramer &
+J. Maier, Myths of Enki, the Crafty God (Oxford, 1989) do not discuss the hymn and make no particular
+mention of an association of Ea/Enki with scribal art. Note, however, J. Black & A. Green, Gods, De-
+mons and Symbols of Ancient Mesopotamia. An Illustrated Dictionary (Austin, 1992), 185, s.v. “wedge,”
+who observe, “On seals and sealings of the Old Babylonian Period, this wedge [representing the actual
+stylus used to produce cuneiform script on leather hard clay] is held by a number of apparently diˆerent
+male deities, including the water god Ea (Enki); a god who stands on a bull, so probably Adad; and a god
+who stands on a snake dragon, probably Nabu.
+15.ÙP. Michalowski observes (private communication) that: “the point of this line is a play on words.
+The scribe made up the strange é-a nì-tuku, anticipating the ES form of the god’s name. The ki then re-
+appears in the strange ki-ùri, which is in “Proper” Sumerian, the equivalent of asar nisirti . . . It is a play-
+ful tour-de-force of philology, in which the same words and the same syllable segments are repeated with
+diˆerent meanings, assonances are used and semantic contrasts, very much like the kind of things one
+˜nds in late lexical texts.” Michalowski also has pointed out additional cases of possible word plays in
+the text that we may hope he will one day publish.
+16.ÙThe only passage cited by Galtner (Ea/Enki, p. 99) in support of Ea/Enki being associated with
+the intellectual endeavor of scribal art is IPSA.
+17.ÙSee CAD N/2, 277, s.v. nisirtu 1e); R. Borger, “Geheimwissen” RLA 3.188–91. Note that divina-
+tion and lamentations are religious enterprises, whereas the activities described in IPSA (“To write a
+stele, to draw a ˜eld, to settle accounts, [. . . . . .]. . . . . the palace. . . . .May the scribe be its (the scribal
+arts) servant, he calls for the corvee basket” ll. 15–17), are totally secular.
+54 JANES 27 (2000)
+the third to Ea is in fact an expansion of his role. IPSA may be intent on subverting
+the regular goddess of scribes, Nisaba, to the extent that she is still regarded as pa-
+tron of the scribal craft at this period, or of Nabû, who appears as the deity of scribes
+and scribal art at a later period, and replacing them by Enki.18 The text may be at-
+tempting to enhance Ea’s position in this aspect of wisdom as well.19 We should bear
+in mind, nonetheless, according to , the so-called “Blessing of Ni-
+NIN-MUL-AN-GIM
+saba by Enki,” that the goddess’s well-attested authority over schools and scribes is
+in fact blessed by Enki, which would indicate at least an indirect patronage of the
+scribal craft at a relatively early period.20 Also, according to a much later text, a
+colophon of Assurbanipal (Streck, Asb. 254 i 13), tupsarr¿tu is associated not with
+Ea himself but with his faithful servant Adapa.21 So here again Ea would be only an
+indirect patron. IPSA would therefore raise Ea from rank of indirect patron of the
+scribal art to direct patron. The promotion seems to have been quite short-lived.
+Whatever the case may be, IPSA is the only attestation speci˜cally linking Enki
+with the art of the scribe.
+Literary analysis of this text has shown that the scribal art permitted its adher-
+ents not only to write a stele or measure a ˜eld, but to write a ˜ne-tuned, precisely
+worded poem conveying a subtle, theological message. The composition not only
+praises scribal art above all others, but elevates the scribal art’s divine patron, Enki.
+A
+PPENDIX
+For the reader’s convenience I present here Sjöberg’s transliteration and transla-
+tion of IPSA. The only changes made include normalization of the Akkadian, indi-
+cation of caesuras in the individual verses as signs of poetic parallelism, paragraph
+divisions denoting thematic organization, and emphasis in bold type or underlining
+of the features discussed in the body of this article.
+1. nam-dub-sar-ra ama-gù-dé-ke -e-ne a-a um-me-a-ke -es
+4 4
+tupsarr¿tu ummu laåitat abi ummani
+2. nam-dub-sar-ra nam in-da-ab-tuk-a la-la-bi nu-un-gi -gi
+4 4
+tupsarr¿tu sajahatma lalâsa ul issebbi
+18.ÙAccording to T. Frymer-Kensky, In the Wake of the Goddesses (New York, 1992), 71, during the
+Old Babylonian period and later “Nisaba, patroness of learning, has all but disappeared. The chief ˜gure
+of wisdom is Enki/Ea, while Nisaba’s role as goddess of writing and patron of scribal schools was taken
+over by Nabu.” On Nisaba’s role as paradigmatic wise woman and her speci˜c functions, see ibid., 39–41.
+19.ÙIf this is the case it would be reminiscent of what we ˜nd in the Simbar-shipak inscription, where
+I have suggested that the centrality of Marduk in that composition is intended to promote his identity with
+Ellil; V. A. Hurowitz, “Reading a Votive Inscription” (above, n. 8). At a later period, Nabû, descendent
+of Ea/Enki, becomes the main Mesopotamian god of scribes.
+20.ÙSee W. W. Hallo, “The Cultic Setting of Sumerian Poetry,” in A. Finet, ed., Actes de la XVIIe Ren-
+contre Assyriologique Internationale. Université Libre de Bruxelles 30 juin- 4 juillet 1969 (Ham-sur-
+Heure, 1970), 116–34; and now “The Blessing of Nisaba by Enki,” in The Context of Scripture, 1.531–32.
+21.ÙCf. B. R. Foster, “Wisdom and the Gods in Ancient Mesopotamia,” Orientalia 43 (1974), 344–54.
+Hurowitz: Literary Observations on “In Praise of Scribal Art” 55
+3. nam-dub-sar-ra me-zu-gál lú-su-bi nu-un-diri-ga
+tupsarr¿tu la lamdat ahissa ul iåaddarsa
+4. nam-dub-sar-ra ir-pag ù-bí-ak á-tuku ha-ra-ab-dah-e
+ana tupsar[r]¿tu kipidma nemela lissibka
+5. nam-dub-sar-ra bar-dag ù-bí-ak su-nì-gál-la a-ra-ab-tuku
+ana tupsarr¿tu t¿pulma masra lisarsÿka
+6. nam-dub-sar-ra na-ab-íl-en á-zu na-ab-sub-bé-[en]
+ana tupsarr¿tu la egâta ahka la tanamdi
+7. nam-dub-sar-ra é-a nì-tuku ki-urì-dam-ma-an-ki-k[e ]
+4
+tupsarr¿tu bÿt b¿ni nisirti dammankima
+8. [igi]-DU um-ma-ra-ak-en ki-urì na-an-da-ab-lá-e[n]
+tadallipsima nisirtasa ukallamka
+9. g[ù]-dé nam-mu-un-na-ab-sub-bé-en ság-zu di-[di-e-dè]
+ahka tanamdÿsima masiktaka iqqabb[i]
+10. n[am-dub-s]ar-ra gis sub-ba-zíl-la nì-tuku nam-hé-[a]
+tupsarr¿tu isiq damaqi mesrê u n[uhsi]
+11. u -tur-ra-zu-ta nam-ma-si ab-gu-la-t[a x x (x)]
+4
+ina seherÿka tanamziq [ina rabêka . . . ]
+12. nam-dub-sar-ra dur-da-gan-KA-[x x] x nun me [x x x]
+tupsarr¿tu markas kulla[t x x] x i me [x x]
+13. gù-dé nam-mu-un-da-ab-gá-gá-an sig -ga-b[i x x x]
+5
+tassur¿simma du[muq]sa [. . . . . . .]
+14. nì-zu diri-ga eme-gi zu-zu-dè eme-[x] zu eme-sal [zu-zu-dè?]
+7
+ihzu s¿turu sumeru ahazu KAB-lit lam[adu x x x x]
+15. na -rú-a ab-sar-e-d[è a-sà]-ga gíd-e-[dè] nì-ka sá-du -[ge-dè] [x x x]
+4 9 11
+narâ satari eqla [sadad]u nikassa kasadu! [x x x]
+16. [x x (x)] é-g[al x] x x
+si se x[. . . . .] x É.GAL s¿ ka-[. . . . .]
+17. dub-sar a-ri-bi hé-a gi-dusu ab-x-[x x]
+tupsar l¿ arad isassi ina tupsikku [x x]
+56 JANES 27 (2000)
+1. The scribal art is the mother of orators,22 the father of masters;
+2. The scribal art is delightful, in never satiates you;23
+3. The scribal art is not (easily) learned (but) he who has learned it need no longer be anxious about it;
+4. Strive to (master) the scribal art, and it will enrich you;24
+5. Be industrious in the scribal art, and it will provide you with wealth and abundance;25
+6. Do not be careless concerning the scribal art, do not neglect it;
+7. The scribal art is a “house of richness,”26 the secret of Amanki.27
+8. Work ceaselessly28 with the scribal art and it will reveal its secret to you;
+9. If you neglect it, they will make malicious remarks about you;
+10. The scribal art is a good lot, richness and abundance;
+11. Since you were a child it causes you grief, since you have grown up [it . . . ],
+12. The scribal art is the “bond” of all . . . [. . . . .] . . .
+13. Work hard for it [and it will. . . . you] its beautiful prosperity,
+14. To have superior knowledge in Sumerian, to learn. . . . . , [to learn] Emesal,
+15. To write a stele, to draw a ˜eld, to settle accounts, [. . . . . .]
+16. . . . . . the palace. . . . .
+17. May the scribe be its (the scribal arts) servant, he calls for the corvee basket, [. . . .]
+22.ÙCAD L, 113, s.v. lâtu A, translates on the basis of the Sumerian “the scribal art is the mother of
+eloquent ones.” Note the pun between ummu and umanu.
+23.ÙLiterally, “one is never sated with its charms.” Cf. CAD †/2, 252, “the scribal art is a beguiling
+woman, one never can have enough of her charms.” The personi˜cation of the scribal art as perceived by
+the dictionary is undoubtedly analogous to the personi˜cation of wisdom as a female ˜gure in Prov.
+1:20–33; 8:22–31; and 9:1–12.
+24.ÙCAD N/2, 157, s.v. nemelu, translates “be assiduous with the scribal art and it will give you pro˜t.”
+25.ÙNote the alliteration in masrâ lisarsÿka.
+26.ÙSjöberg’s translation is based on an emendation reading é nì-tuku-a. Description of the scribal art
+as a house of good things, or a house of richness may be related perhaps to the house built by Wisdom
+in Prov. 9:1.
+27.ÙThe noun nisirtu undoubtedly bears the connotations here of both secret and treasures as it prob-
+ably does in the next line as well. This may be a case of Janus parallelism, the meaning “treasure” ap-
+propriate for the preceding words, while “secret” suits better the words that follow. CAD N/2, 276,
+translates: “the scribe’s craft is a good thing, the secret lore of Enki, if you work ceaselessly with it, it will
+reveal its secrets to you.” The text refers to the sophisticated use of double entendres, hidden meanings,
+or even mystical connotations of many texts facilitated by the complex cuneiform writing system and in-
+jected into the texts by astute and clever scribes.
+28.ÙThe verb dalapu has connotations of loss of sleep. Cf. loss of sleep in learning Torah in Avot 6:
+4 and 6.
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

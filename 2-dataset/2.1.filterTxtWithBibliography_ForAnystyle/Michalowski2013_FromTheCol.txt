@@ -1,0 +1,376 @@
+# METADATA
+author: Michalowski P.
+source_id:Michalowski2013_FromTheCol
+title: From The Collections Of An Old Babylonian Literary Connoisseur
+Year: 2013
+Source_ID:  Michalowski2013_FromTheCol
+Source_Type: Article in Book:Revue d'Assyriologie et d'archéologie orientale ,
+Source_Role,Step_distance: 2 ,3,4 
+Pages: Vol. 107, 15-22
+Web: 
+Published: Presses Universitaires de France 
+
+# TEXT
+
+FROM THE COLLECTIONS OF AN OLD BABYLONIAN LITERARY CONNOISSEUR
+Author(s): Piotr MICHALOWSKI
+Source: Revue d'Assyriologie et d'archéologie orientale, 2013, Vol. 107, RECUEIL
+D'ÉTUDES HISTORIQUES, PHILOLOGIQUES ET ÉPIGRAPHIQUES EN L'HONNEUR DE PAOLO
+MATTHIAE: Seconde partie (2013), pp. 15-22
+Published by: Presses Universitaires de France
+Stable URL: https://www.jstor.org/stable/42771758
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+Presses Universitaires de France is collaborating with JSTOR to digitize, preserve and extend
+access to Revue d'Assyriologie et d'archéologie orientale
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 20:03:33 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+[RA 107-2013] 15
+FROM THE COLLECTIONS OF AN OLD BABYLONIAN
+LITERARY CONNOISSEUR
+BY
+Piotr MICHALOWSKI
+The last two decades have witnessed a tremendous amount of progress in the understanding of Old
+Babylonian Sumerian literature and of the scribal curricula of educational establishments in Nippur, Ur,
+Uruk, Isin, Larsa, Susa, parts of Sippar and other places that utilized texts chosen in various ways from
+the same loose group of compositions.1 Less is known, however, about the circulation of Sumerian
+literary compositions in other places, where different choices were often made. Some aspects of the
+problem have been discussed in a recent essay by Steve Tinney (2011), who has reconstructed traces of
+archives or collections of "non-canonical" Sumerian poetry from a variety of places, including Nippur,
+the supposed center of the "standard" cursus, taking us beyond the standard curriculum discussions, and
+Anne Lö hnert (2008, 2011) has provided new insights on the geographical distribution and cultural
+functions of contemporary liturgical texts. Just recently Ahlena Gadotti and Alexandra Kleinerman
+(2011) published a fascinating Old Babylonian tablet, currently housed in the Jonathan and Jeannette
+Rosen Ancient Near Eastern Studies Seminar at Cornell University, that appears to be an Akkadian
+language request for tablets inscribed with balaģ liturgical laments, including a list of seven that the
+unnamed writer had in hand (text A). The authors of the article were able to identify three of the seven
+laments, but the remaining four remain unknown. Such poems were not usually part of the curriculum
+used in various ways at Nippur and in cities that followed similar pedagogical patterns, and it is unclear if
+many of the extant Old Babylonian balaģ tablets come from educational environments or from other
+settings. Therefore, it is impossible, at first glance, to contextualize the letter in its proper setting.
+Two other recently published tablets must be linked to this letter. The first is a short Sumerian
+text from the same Cornell collection, was edited by Gadotti and Kleinerman in a separate article (2012).
+The authors obviously first thought that the second tablet contained a list of incipits, but then changed
+their minds and suggested that it be read as a continuous five-line Sumerian composition or extract. For
+convenience I repeat the transliteration below (text B):
+1 . den-ki en zag-dib an ki-a nam-rma-ni zag1 nu-di
+2. lu na4kinkin gul-gul-dè
+3. ú-sal NI.RU.Ú
+4. ní-zu é buru3-dè ì-gub
+5. ma-ti aš-ru-ú i -ib-du7
+6. á-<ág>-gá á-ág-gá um-mi-a-ak
+7. ie-lí-ip-pa-al-sà-am
+1 . It is a pleasure to take part in the celebration of the scholarly career of Paolo Matthiae and to recall our
+first meeting at a seminar at Andrews University many years ago that was memorable for many reasons. I hope that
+he will forgive me if I offer him something that only mentions Ebla once! I would like to thank Gonzalo Rubio, Jerry
+Cooper and Konrad Volk for comments and to David I. Owen, Curator of Tablet Collections at the Jonathan and
+Jeannette Rosen Ancient Near Eastern Studies Seminar, Cornell University, for permission to republish the photos
+and Laura Johnson-Kelly for the outstanding photographs, which were kindly provided to me by Alexandra
+Kleinerman.
+Revue d'Assyriologie, volume CVII (2013), p. 15-22
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 20:03:33 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+16 PIOTR MICH ALO WSKI [RA 107
+It is possible that these lines were thrown together as an exercise to produce a running text, as
+the editors of the tablet suggest. Examples of disparate phrases used as exercises are known from earlier
+times, but I am not aware of any Old Babylonian examples. There are a few school exercises that
+combine lexical entries and "proverbs," but these are very different from what we are dealing with here
+(Krebernik 2004). From Ebla there is an enigmatic composition, at one time taken for a mythological
+fragment that is actually collection of personal names and phrases (Edzard 1984: 43-45 [ARET 5
+24=25=26]). 2 There may be three other Early Dynastic exercises of this type from Lagash/Al-Hiba, one
+listing phrases containing the name of the god Enlil and two others, and possibly two more with
+miscellaneous expressions.3
+More probably, their first hunch was correct and this is a brief list of literary tablets used for
+some purpose by someone named Ili-ippalsam. This would not be the first time that a list of literary
+incipits has been taken for something else. Over three decades ago I was surprised that I could identify a
+Sumerian literary "catalog" in the University Museum in Philadelphia, since Sam Kramer and many other
+experts had combed through the collection so many times. The only explanation I could offer was that the
+tablet in question was written in the "documentary hand" and was thus taken for an administrative text,
+and therefore of no interest to literary specialists (Michalowski 1980). More recently, Jeremiah Peterson
+(2010) demonstrated that TCL 15 17, edited by Äke Sjöberg (1960: 65-69) and Mark Hall (1985: 560-
+61) as a Nanna hymn, has to be reinterpreted as a list of Sumerian incipits.
+The first line is the opening of the letter or petition (letter-prayer) to Enki edited by W. W. Hallo
+(1968: 82-88) on the basis of three unpublished Yale tablets of unknown origin, possibly from Larsa or
+vicinity. A fourth fragmentary duplicate was discovered at Meturan/Tell Haddad (Cavigneaux 1998: 253,
+Brisch 2007: 82). The second line must be the incipit of a short "folktale about grain milling" that is
+known form a single exemplar, also of unknown origin, which must be restored accordingly (Civil 2006:
+138).
+Line 3 was read as u-sal i-ru-u in the original edition and translated as "hides in the meadow
+(instead)," taking ru as a variant of ri, "to lay down." This is certainly plausible; another way of
+interpreting this would be to read the line in Akkadian as aburrís ni-ru-ú or the like. The main objection
+to this lies in the fact that almost all forms of the verb rê'û , "to tend cattle, graze, pasture," retain the /e/
+vowel.
+Line 4 is probably an abbreviation of 1. 12 of the taunt composition "Good Seed of A Dog" (a
+duio-ga ur-ra), known only from two Nippur sources: ní-zuh é buru3-buru3 êlsig gub-bu za-ra suh-ù, "He is
+a thief, constantly breaking into houses, removing the door, tearing out the door-pivot" (Sjöberg 1972:
+107). Line 5 is probably another extract from an Akkadian composition, while line 6 must be from an
+"eduba'a essay" that is presently unknown to us. For the latter, compare, for example, um-mi-a á-ág-gá é-
+dub-ba-a èn tar-ri-da-ni, "Once the master consulted the regulations of the teaching establishment ..."
+Schooldays 28 (Kramer 1949: 204-5; Edzard 2004: 533-4), or á-ág-gá é-dub-ba-a um-mi-a, in Eduba'a
+R iv 25 (unp., courtesy A. Gadotti and A. Kleinerman). Note that the writer was getting sloppy at the end,
+or perhaps was worried about the length of line 6; thus we have á-<ág>-gá at the beginning and at the end
+ak for ka.
+The format of the two tablets is quite similar; both use the landscape orientation, are lined, and
+then have a subscript. In the case of the second tablet, the final line consists only of a personal name: Ili-
+ippalsam. The name is not unknown in Old Babylonian documents.4 One of the more interesting
+references, in this context, is a colophon on a mathematical school exercise: im-gid-da nig i-U-ip-pa-al-
+2. See Krebernik 1996; Rubio 2003: 204.
+3. The first is Biggs 1967 no. 30, as interpreted by Marchesi 1999: 3. Biggs 1967 nos. 27 and 28, edited by
+Marchesi 1999: 5-17 must belong to the same general type of phrase collections, although Marchesi suggests that
+they were inventories of various texts, including literary ones.
+4. e.g .AbB 9 41:15; 117: 18; OECT 8 4 (n. 25): 33, OECT 3 31:4, UET 5 201, 202 ,PBS 8/2 145: 14, 16, etc.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 20:03:33 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+20 1 3] FROM THE COLLECTIONS OF AN OLD BABYLONIAN LITERARY CONNOISSEUR 1 7
+sà-am ... , "practice tablet belonging to Ili-ippalsam."5 Another prominent person by that name, probably
+active in Larsa acted as a "judge" (di.ku5) and was the temple administrator (saga) of Nergal,6 while still
+another served as a rabiãnum in Kutalla early in the reign of Samsuiluna (Charpin 1990: 64) .7 But the
+occurrence of the name, or a variant of it that has the most bearing on the issues under discussion here
+comes to us from a school practice tablet of unknown provenance with a model contract about music
+lessons.8 This is a portrait-oriented imgida. The obverse has the exercise, followed, as in the other two
+examples under discussion, by a ruling. In translation the text reads (text C):
+Hedu-Eridu, son of Adad-lamassi, apprenticed with Ili-siri to learn music. At the time, Adad-
+lamassi gave Ili-siri five shekels of silver as his wages, so that he could teach (his son) the skill of playing
+the tigidla, asila, tigi, and adab instruments/songs, to the seventh degree.
+The reverse has the annotation that apparently reads:
+[i /i^-lí-ip-pa-t aP-sà-ni
+rlu?1(-)um-mi-a
+The on-line photograph of the tablet on the Sch0yen web site does not include the reverse and
+therefore collation was impossible until now, but a better photograph, this time including the reverse, is
+now available on the CDLI web site, under the number P252010. Inspection of the photographs confirms
+the general accuracy of Geller' s hand copy. The first sign in the name on the reverse is broken with only
+the faint traces of the beginning and end of a horizontal wedge and perhaps small remnants of other
+wedges. Geller and Shehata read it as T; in my edition it was rku' i.e. ^1.9 All three of us read the
+final line as QiT-um-mi-a; Geller and Shehata rendered this as "schoolmaster" and "(Schreib-)Gelehrte,"
+respectively, while I suggested "music master." However, um-mi-a is never written with the professional
+name classifier, and therefore, if this reading were correct, Ili-ippalsam would be the "man" of the um-
+mi-a, and not the master himself. Without the ability to personally inspect the tablet, I can only rely on
+the photograph, but by comparing the writing of the personal name here and on text B, I would cautiously
+suggest that the first sign of the annotation is indeed rKU = i6' which is written in a manner that reaches
+down low and therefore its remaining lower horizontal stroke appears to belong to the line below, but
+does not. Such a reading, if correct, would eliminate the troublesome rlu?1 before the designation
+"master." It would also bolster the case for the identification of Ili-ippalsani and Ili-ippalsam; not also
+that the writings of the name in texts B and C share the same somewhat idiosyncratic writing of the sign
+al.
+While working on this exercise I was in correspondence with David Owen; when I called his
+attention to the published photo of the model contract he immediately recognized that all three tablets
+described up to this point come from the same hand and therefore I associated the two names. The
+evaluation of paleography is a difficult and highly subjective process, especially when one is dealing with
+photographs and does not have the opportunity to hold the originals; in this case the annotations after the
+line are written in cursive, in a slightly different hand than the body of text. That is to say, the annotation,
+5. MCT 99 22 (p. 23), NBC 7346 (no copy, needs collation). For a similar colophon see, for example, Irving
+Finkel 1998: 250 fig. 17 1. 17: nig den.zu -ga-mi-il (following dnidaba on an unprovenanced imgida with an
+incantation).
+6. VS 18 1: 6.
+7. On the complex functions of the rabianum in Old Babylonian times see Seri 2005: 51-96 "chief of the
+city"; Charpin 2007: 169-75 ("mayor").
+8. Now MS 2951 the Martin Sch0yen collection (http://www.schoyencollection.com/music.html); originally
+published by M. J. Geller 2003, subsequently edited in Piotr Michalowski 2010: 204-5 and Dahlia Shehata 2009:
+112-13.
+9. The reading was established by Miguel Civil apud Gadotti and Kleinerman 2012: 211 on the basis of i =
+KU = lu-bu-us-tu (Ea I 149 [MSL 14 184]).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 20:03:33 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+1 8 PIOTR MICH ALOWSKI [RA 1 07
+which seems more like the writing on texts A and B, was written by one person, while the model contract
+itself came from a different hand. It is most probable, however, that these instances of Ili-ippalsam and
+Ili-ippalsani were intended to refer to the same person.
+What does this tablet trio tell us about literary life in Old Babylonian times? When confronted
+by list of incipits or an imgida with a model contract, one immediately thinks of an educational setting.
+But text A is an Akkadian language request for tablets containing Sumerian liturgical poems and the
+author had in mind a specific set of twenty-one such texts. The geographical setting is unknown, and it is
+possible that these were necessary for instructional purposes, but it is equally probable that the writer had
+ritual performance or his own library collection in mind. This, in turn, may suggest that the incipit list, as
+well as the model contract, which were both written by the person who made this request and not by a
+student, were likewise part of an eclectic tablet collection that may not necessarily have been intended for
+instructional purposes. Although it would be good to think that this person was none other than the Ili-
+ippalsam/Ili-ippalsani whose name figures in the subscripts of texts B and C. But however one sees it, it
+is fascinating to observe that this collector was interested in Emesal register balaģ liturgical texts as well
+as somewhat obscure main dialect Sumerian compositions such as the letter of petition to Enki and the
+millstone story and in hitherto unidentified Akkadian texts. Was he also skilled in music, as the model
+contract would suggest, or was his name added at the end only as a piece of fancy, with an equally
+fanciful title of um-mi-a?
+Ili-ippalsam was forgotten for millennia and now that we have retrieved his memory, we have
+still only lifted a tiny corner of the veil suspended over his life by the mists of time. Perhaps he had a
+substantial collection of mainstream Old Babylonian literary tablets and the lists revealed to us only
+concern marginalia that he needed to complete his holdings, but it is also possible that he eschewed the
+well-treaded school texts that he had committed to memory during his youth and was only interested in
+contemporary literary exotica. Such speculations immediately bring to mind the Old Babylonian
+epigraphic discoveries from Meturan, that is Tell Haddad in the Hamrin Basin, as described by Antoine
+Cavigneaux (1998). One of the houses in the city contained two different sets of literary tablets in
+different rooms. One room revealed standard literary materials such as "Inana and Ebih," four of the five
+standard Sumerian Gilgamesh stories, "The Farmer's Instructions," divine hymns, literary letters, etc.,
+while the other divulged magical and hemerological texts written in a somewhat different hand. With all
+due caution, Cavigneaux (1998: 257) suggested that this house contained something akin to a "library" of
+"'a Fachman,' of a man sensitive in the realms of religion and literature; a man we would now like even
+more to identify and know better, an intellectual with universal and perhaps even historical interests." Ili-
+ippalsam may have been a kindred soul, and there were doubtless more such people, who evidently
+stayed in touch, exchanging tablets from their collections. We do not know where his tablets come from
+except that they are not from Nippur, Ur, or Uruk, but that still does not allow us to label them as
+provincial, rather, they confirm Steve Tinney' s work on the multiple settings of Old Babylonian
+literature, which radiated far beyond the limits of childhood education. One could speculate that much the
+same could be said of the person associated with the list of literary incipits CBS 8086 from the
+Philadelphia museum that included main curriculum items such as the "Kesh Temple Hymn" as well
+liturgical texts and compositions that are unknown to us at present (Michalowski 1980). Like Text B
+from the Ili-ippalsam group, this list includes lines that are not incipits of compositions but of extract
+tablets and therefore may have some connection with education, but the content suggests that it was not
+part of the regular Nippur cursus and therefore may have belonged to some collector, perhaps a colleague
+of the persons who accumulated the "hymnic archive" from Nippur, as reconstructed by Steve Tinney
+(2011: 585) or the similar collection of unknown origin, now in the British Museum, likewise identified
+by Tinney (2011: 586). Other texts among those that have been grouped together as "literary catalogs"
+enumerate heterogeneous lists of incipits that may have originated in non-pedagogical contexts.10 One
+such Old Babylonian "catalog" is written on an unprovenanced tablet in the holdings of Andrews
+10. See, in general, Krecher. These texts are now conveniently transliterated in on place on the Oxford
+ETCSL web site, http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.0.2*#. On the heterogeneous nature of the
+supposed category of "literary catalogs" see Michalowski 1980.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 20:03:33 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+20 1 3] FROM THE COLLECTIONS OF AN OLD BABYLONIAN LITERARY CONNOISSEUR 1 9
+University, arranged like a lexical text according to initial sign (Cohen 1976: 131-33). It includes many
+main curriculum texts such as "Shulgi A," "Lipit-Eshtar," "Inana and Ebih," etc., some otherwise
+unattested literary letters (Michalowski 1991), as well as incipits that cannot be identified at the present
+time. Like Ili-ippalsam's Text В it also includes some Akkadian language incipits, including the "Dialog
+Between Shupe-ameli and his Father," currently attested only in Middle Babylonian manuscripts from
+Ugarit and Emar.11 The way that the texts are arranged on this tablet suggests a catalog of holdings rather
+than a curricular list.
+In each and every case it is possible to propose alternative explanations, some of them
+pedagogical, for the lists and collections that I have mentioned, given the fragmentary nature of the
+documentation and the lack of exact provenance. Nevertheless, speculative as it may, it is interesting to
+investigate the faint remains of literary life outside the academy in ancient times.
+Text A (CUNES 50-07-013)
+11. Collated; reading 1. 15 as [ši-mé'-e mi-il-kam with Civil 1989: 7. For the composition see, most recently,
+Kämmerer 1998: 9, 12, 176-207. The next line seems to have [lu-mu'-un li-ib-bi.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 20:03:33 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+20 PIOTR MICHALOWSKI [RA 107
+Text В (JON 16)
+BIBLIOGRAPHY
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Biggs, Robert D.
+1976 Inscriptions from Al-Hiba-Lagash : The First and Second Seasons. BiMes 3. Malibu: Undena.
+Brisch, Nicole Maria
+2007 Tradition and the Poetics of Innovation: Sumerian Court Literature of the Lar sa Dynasty (с.
+2003-1 763 ВСЕ) . AO AT 339 (Münster: Ugarit-Verlag) .
+Cavigneaux, Antoine
+1998 A Scholar's Library in Meturan? Pp. 251-73 in Mesopotamian Magic: Textual , Historical , and
+Interpretive Perspectives , ed. T. Abusch and Karel van der Toorn. Studies in Ancient Magic and
+Divination, 1 (Leiden: Styx).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 20:03:33 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+20 1 3] FROM THE COLLECTIONS OF AN OLD BABYLONIAN LITERARY CONNOISSEUR 2 1
+Charpin, Dominique
+1990 Les divinités familiales des Babyloniens d'après les légendes de leurs sceaux-cylindres. Pp. 59-78
+in De la Baby Ionie à la Syrie en passant par Mari. Mélanges offerts à Monsieur J.-R. Küpper à
+l'occasion de son 70° anniversaire , ed. Ö. Tunca (Liège: Université de Liège).
+2007 Chroniques bibliographiques. 10. Économie, société et institutions paléo-babylonienne:
+nouvelles sources, nouvelles approches. RA 101: 147-82.
+Civil, Miguel
+1989 The Texts from Meskene-Emar. AuOr 7: 5-25.
+2006 The Song of the Millstone. Pp. 121-35 in Sapai tibnim mû illaku: Studies Presented to Joaquin
+Sanmartín , ed. Olmo Lete, G. et al. AuOr SuDDlementa 22 (Barcelona: Editorial AUSA).
+Cohen, Mark E.
+1976 Literary Texts from the Andrews University Archaeological Museum. RA 70: 129^-4.
+Edzard, Dietz Otto
+1984 Hymnen, Beschwörungen und Verwandtes (aus dem Archiv L. 2769). ARET 5. Rome: Missione
+archeologica italiana in Siria.
+2004 Altbabylonische Literatur und Religion. Pp. 485-640 in Dominique Charpin, Dietz Otto Edzard
+and Marten Stol, Mesopotamien. Die altbabylonische Zeit , ed. P. Attinger, W. Sallaberger and M.
+Wäfler. OBO 160/4. Fribourg: Academic Press/Göttingen: Vandenhoeck & Ruprecht.
+Finkel, Irving
+1998 On Some Dog, Snake and Scorpion Incantations. Pp. 211-50 in Mesopotamian Magic : Textual,
+Historical, and Interpretive Perspectives , ed. T. Abusch and Karel van der Toorn. Studies in
+Ancient Magic and Divination, 1 (Leiden: Styx).
+Gadotti, Alhena and Alexandra Kleinerman
+2011 "Here is what I have. Send me what I am missing": Exchange of Syllabi in Ancient
+Mesopotamia, ZA 101: 72-77 .
+2012 Unfulfilled Destinies. Yet Again on the Old Babylonian Sumerian Scribal Curriculum. Pp. 209-
+13 in The Ancient Near East, A Life!: Festschrift Karel Van Lerberghe , ed. Tom Boiy, Joachim
+Bretschneider, Anne Goddeeris, Hendrik Hameeuw, Greta Jans, and Jan Tavernier. Orientalia
+Lovaniensia Analecta 220 (Leuven: Peeters).
+Geller, M.J.
+2003 Music Lessons. Pp. 109-11 in Festschrift für Burkhart Kienast zu seinem 70. Geburtstage
+dargebracht von Freunden, Schülern, und Kollegen , ed. Gebhard J. Selz (Münster: Ugarit-
+Verlag).
+Hall, Mark
+1985 A Study of the Sumerian Moon-God Nanna/Suen, University of Pennsylvania doctoral
+dissertation, 1985.
+Hallo, William W.
+1968 Individual Prayer in Sumerian: The Continuity of a Tradition. J AOS 88: 71-89.
+Kramer, Samuel Noah
+1949 Schooldays: A Sumerian Composition Relating to the Education of a Scribe. J AOS 69: 199-215.
+Kämmerer, Thomas R.
+1998 simâ milha. Induktion und Reception der mittelbabylonischen Dichtung von Ugarit, Emãr und
+Teil el-'Amärna. AOAT 251 (Münster: Ugarit Verlag).
+Krebernik, Manfred
+1997 Zur Interpretation von ARET 5, 24-26. Pp. 185-192 in Ana sadí Labnãni lū allik. Beiträge zu
+altorientalischen und mittelmeerischen Kulturen. Festschrift für W. Röllig , ed. Beate Pongratz-
+Leisten, Hartmut Kühne and Paolo Xella. AOAT 247 (Neukirchen- Vluyn: Neukirchener Verlag).
+2004 Wö rter und Sprichwö rter: der zweisprachige Schultext HS 1461 . ZA 94: 226-249.
+Lö hnert, Anne
+2008 Scribes and Singers of Emesal Lamentations in Ancient Mesopotamia in the Second Millennium
+BCE. Pp. 421-48 in Papers on Ancient Literatures: Greece, Rome and the Near East , ed. E.
+Cingano and L. Milano. Quaderni del Dipartimento di Scienze dell Antichità e del Vicino
+Oriente, 4 (Padua: Sargon).
+2011 Manipulating the Gods: Lamenting in Context. Pp. 402-17 in The Oxford Handbook of
+Cuneiform Culture , ed. Karen Radner and Eleanor Robson (Oxford: Oxford University Press).
+Marchesi, Gianni
+1999 Notes on Two Alleged Literary Texts from Al-Hiba/Lagaš. SEL 17: 3-17.
+Michalowski, Piotr
+1980 A New Sumerian Catalogue from Nippur, OA 19: 265-68.
+1991 Incantation Incipits . N.A .B.U. 1991:48.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 20:03:33 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+22 PIOTR MICHALOWSKI [RA 107-2013]
+2010 Learning Music: Schooling, Apprenticeship, and Gender in Early Mesopotamia. Pp. 199-239 in
+Musiker und Tradierung: Studien zur Rolle von Musikern bei der Verschriftlichung und
+Tradierung von literarischen Werken , ed. Regine Pruzsinszky and Dahlia Shehata. Wiener
+Offene Orientalistik, 8. (Vienna: Lit).
+Peterson, Jeremiah
+2010 A New Old Babylonian Sumerian Literary "Catalog"? ZA 100: 169-76.
+Rubio, Gonzalo
+2003 Early Sumerian Literature: Enumerating the Whole. Pp. 197-208 in De la Tablilla a la
+Inteligencia Artificial Homenaje al Prof. Jesús-Luis Cunchillos en su 65 aniversario, Volumen /,
+ed. A. Gonzá lez Blanco, J. P. Vita and J. Á . Zamora (Zaragoza: Centro mixto entre las Cortes
+de Aragó n, el Consejo Superior de Investigaciones Cientí ficas y la Universidad de Zaragoza).
+Shehata, Dahlia
+2009 Musiker und ihr vokales Repertoire: Untersuchungen zu Inhalt und Organisation von
+Musikerberufen und Liedgattungen in altbabylonischer Zeit. Göttingen: Universitätsverlag
+Göttingen.
+Seri, Andrea
+2005 Local Power in Old Babylonian Mesopotamia. London: Equinox
+Sjöberg, Ãke W.
+1960 Der Mondgott Nanna-Suen in der sumerischen Überlieferung (Stockholm).
+1972 "He Is a Good Seed of a Dog" and "Engardu, the Fool," JCS 24: 107-19.
+Tinney, Steve
+2011 Tablets of Schools and Scholars: A Portrait of the Old Babylonian Corpus. Pp. 577-96 in The
+Oxford Handbook of Cuneiform Culture , ed. Karen Radner and Eleanor Robson (Oxford: Oxford
+University Press).
+ABSTRACT
+A reexamination of three recently published texts associated with a scholar / scribe / teacher / collector by the name
+of Ili-ippalsam or Ili-ippalsani who lived somewhere in Babylonia during the middle of the Old Babylonian period
+provides an opportunity for a discussion of matters pertaining to literary tablet circulation at the time.
+RÉSUMÉ
+Un réexamen de trois textes publiés récemment associés à un savant / scribe / enseignant / collectionneur du nom de
+Ili-ippalsam ou Ili-ippalsani qui vivait quelque part en Babylonie pendant le milieu de la période paléo-babylonienne
+fournit l'occasion d'une discussion sur les questions relatives à la circulation de la tablette littéraire à l'époque.
+Department of Near Eastern Studies, The University of Michigan,
+202 South Thayer Street, Ann Arbor, MI 48104-1608
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.23.246 on Tue, 14 Mar 2023 20:03:33 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+

@@ -1,0 +1,722 @@
+# METADATA
+author: Samet N.
+source_id:Samet2023_Instructio
+title: Instruction Of Shuruppak: The World's Oldest Instruction Collection
+Year: 2023
+Source_ID:  Samet2023_Instructio
+Source_Type:Article in Book: HUMAN INTERACTION WITH THE NATURAL WORLD IN WISDOM LITERATURE AND BEYOND
+Source_Role,Step_distance:2 ,3,4 
+Pages: 216-237 
+Web: 
+Publisher:T&T CLARK Bloomsbury Publishing Plc 50 Bedford Square, London, WC1B 3DP, UK
+
+# TEXT
+
+LIBRARY OF HEBREW BIBLE/
+OLD TESTAMENT STUDIES
+720
+Formerly Journal for the Study of the Old Testament Supplement Series
+Editors
+Laura Quick, Oxford University, UK
+Jacqueline Vayntrub, Yale University, USA
+Founding Editors
+David J. A. Clines, Philip R. Davies and David M. Gunn
+Editorial Board
+Sonja Ammann, Alan Cooper, Steed Davidson, Susan Gillingham,
+Rachelle Gilmour, John Goldingay, Rhiannon Graybill, Anne Katrine Gudme,
+Norman K. Gottwald, James E. Harding, John Jarick, Tracy Lemos,
+Carol Meyers, Eva Mroczek, Daniel L. Smith-Christopher,
+Francesca Stavrakopoulou, James W. Watts
+HUMAN INTERACTION
+WITH THE NATURAL WORLD
+IN WISDOM LITERATURE AND BEYOND
+Essays in Honour of Tova L. Forti
+Edited by
+Mordechai Cogan, Katharine J. Dell,
+and David A. Glatt-Gilad
+T&T CLARK
+Bloomsbury Publishing Plc
+50 Bedford Square, London, WC1B 3DP, UK
+1385 Broadway, New York, NY 10018, USA
+29 Earlsfort Terrace, Dublin 2, Ireland
+BLOOMSBURY, T&T CLARK and the T&T Clark logo
+are trademarks of Bloomsbury Publishing Plc
+First published in Great Britain 2023
+Copyright © Mordechai Cogan, Katharine J. Dell, David A. Glatt-Gilad, and contributors, 2023
+Mordechai Cogan, Katharine J. Dell, and David A. Glatt-Gilad have asserted their right under the
+Copyright, Designs and Patents Act, 1988, to be identified as Editors of this work.
+For legal purposes the Acknowledgments on p. xxvii constitute an extension of this copyright page.
+All rights reserved. No part of this publication may be reproduced or transmitted in any form or by
+any means, electronic or mechanical, including photocopying, recording, or any information storage
+or retrieval system, without prior permission in writing from the publishers.
+Bloomsbury Publishing Plc does not have any control over, or responsibility for, any third-party
+websites referred to or in this book. All internet addresses given in this book were correct at the
+time of going to press. The author and publisher regret any inconvenience caused if addresses have
+changed or sites have ceased to exist, but can accept no responsibility for any such changes.
+A catalogue record for this book is available from the British Library.
+Library of Congress Control Number: 2021939009.
+ISBN: HB: 978-0-5677-0120-6
+ePDF: 978-0-5677-0121-3
+Series: Library of Hebrew Bible/Old Testament Studies, volume 720
+ISSN 2513-8758
+Typeset by Trans.form.ed SAS
+To find out more about our authors and books visit www.bloomsbury.com
+and sign up for our newsletters.
+Tova L. Forti
+C(cid:3464)(cid:3463)(cid:3469)(cid:3454)(cid:3463)(cid:3469)(cid:3468)
+Illustrations xi
+Contributors xv
+A P(cid:3454)(cid:3467)(cid:3468)(cid:3464)(cid:3463)(cid:3450)(cid:3461) T(cid:3467)(cid:3458)(cid:3451)(cid:3470)(cid:3469)(cid:3454) (cid:3469)(cid:3464) T(cid:3464)(cid:3471)(cid:3450) L. F(cid:3464)(cid:3467)(cid:3469)(cid:3458)
+David A. Glatt-Gilad xvii
+A(cid:3463) A(cid:3465)(cid:3465)(cid:3467)(cid:3454)(cid:3452)(cid:3458)(cid:3450)(cid:3469)(cid:3458)(cid:3464)(cid:3463) (cid:3464)(cid:3455) (cid:3469)(cid:3457)(cid:3454) S(cid:3452)(cid:3457)(cid:3464)(cid:3461)(cid:3450)(cid:3467)(cid:3461)(cid:3474) W(cid:3464)(cid:3467)(cid:3460) (cid:3464)(cid:3455) T(cid:3464)(cid:3471)(cid:3450) L. F(cid:3464)(cid:3467)(cid:3469)(cid:3458)
+Katharine J. Dell and Mordechai Cogan xxi
+Acknowledgments xxvii
+Abbreviations xxix
+The Works of Tova L. Forti xxxiii
+I(cid:3463)(cid:3469)(cid:3467)(cid:3464)(cid:3453)(cid:3470)(cid:3452)(cid:3469)(cid:3458)(cid:3464)(cid:3463) 1
+Part I
+T(cid:3457)(cid:3454) N(cid:3450)(cid:3469)(cid:3470)(cid:3467)(cid:3450)(cid:3461) W(cid:3464)(cid:3467)(cid:3461)(cid:3453) (cid:3458)(cid:3463) W(cid:3458)(cid:3468)(cid:3453)(cid:3464)(cid:3462) L(cid:3458)(cid:3469)(cid:3454)(cid:3467)(cid:3450)(cid:3469)(cid:3470)(cid:3467)(cid:3454)
+(cid:3458)(cid:3463) (cid:3469)(cid:3457)(cid:3454) H(cid:3454)(cid:3451)(cid:3467)(cid:3454)(cid:3472) B(cid:3458)(cid:3451)(cid:3461)(cid:3454)
+Chapter 1
+“A(cid:3468)(cid:3460) (cid:3469)(cid:3457)(cid:3454) P(cid:3461)(cid:3450)(cid:3463)(cid:3469)(cid:3468)”: J(cid:3464)(cid:3451)’(cid:3468) D(cid:3458)(cid:3450)(cid:3461)(cid:3464)(cid:3456)(cid:3470)(cid:3454) (cid:3472)(cid:3458)(cid:3469)(cid:3457) F(cid:3461)(cid:3464)(cid:3467)(cid:3450)(cid:3461) M(cid:3454)(cid:3469)(cid:3450)(cid:3465)(cid:3457)(cid:3464)(cid:3467)(cid:3468)
+(cid:3458)(cid:3463) P(cid:3468)(cid:3450)(cid:3461)(cid:3462)(cid:3468) 1 (cid:3450)(cid:3463)(cid:3453) 90
+Will Kynes 9
+Chapter 2
+G(cid:3464)(cid:3453)’(cid:3468) V(cid:3458)(cid:3454)(cid:3472) (cid:3464)(cid:3455) H(cid:3458)(cid:3468) A(cid:3463)(cid:3458)(cid:3462)(cid:3450)(cid:3461)(cid:3468) (cid:3458)(cid:3463) J(cid:3464)(cid:3451) 38:39–39:30
+Michael V. Fox and Katharine J. Dell 23
+Chapter 3
+H(cid:3464)(cid:3472) B(cid:3454)(cid:3457)(cid:3454)(cid:3462)(cid:3464)(cid:3469)(cid:3457) (cid:3450)(cid:3463)(cid:3453) L(cid:3454)(cid:3471)(cid:3458)(cid:3450)(cid:3469)(cid:3457)(cid:3450)(cid:3463) “S(cid:3465)(cid:3454)(cid:3450)(cid:3460)” (cid:3469)(cid:3464) J(cid:3464)(cid:3451)
+Mark Sneed 33
+viii Contents
+Chapter 4
+O(cid:3455) L(cid:3454)(cid:3454)(cid:3452)(cid:3457)(cid:3454)(cid:3468), L(cid:3458)(cid:3475)(cid:3450)(cid:3467)(cid:3453)(cid:3468), (cid:3450)(cid:3463)(cid:3453) L(cid:3458)(cid:3464)(cid:3463)(cid:3468): T(cid:3457)(cid:3454) H(cid:3470)(cid:3462)(cid:3464)(cid:3467)(cid:3464)(cid:3470)(cid:3468) F(cid:3470)(cid:3463)(cid:3452)(cid:3469)(cid:3458)(cid:3464)(cid:3463)
+(cid:3464)(cid:3455) A(cid:3463)(cid:3458)(cid:3462)(cid:3450)(cid:3461) T(cid:3450)(cid:3461)(cid:3460) (cid:3458)(cid:3463) P(cid:3467)(cid:3464)(cid:3471)(cid:3454)(cid:3467)(cid:3451)(cid:3468) 30
+Knut M. Heim 48
+Chapter 5
+“M(cid:3464)(cid:3467)(cid:3469)(cid:3450)(cid:3461)(cid:3468) C(cid:3450)(cid:3463)(cid:3463)(cid:3464)(cid:3469) A(cid:3451)(cid:3458)(cid:3453)(cid:3454) (cid:3458)(cid:3463) T(cid:3457)(cid:3454)(cid:3458)(cid:3467) P(cid:3464)(cid:3462)(cid:3465):
+(cid:3469)(cid:3457)(cid:3454)(cid:3474) (cid:3450)(cid:3467)(cid:3454) (cid:3461)(cid:3458)(cid:3460)(cid:3454) (cid:3469)(cid:3457)(cid:3454) (cid:3450)(cid:3463)(cid:3458)(cid:3462)(cid:3450)(cid:3461)(cid:3468) (cid:3469)(cid:3457)(cid:3450)(cid:3469) (cid:3465)(cid:3454)(cid:3467)(cid:3458)(cid:3468)(cid:3457)” (P(cid:3468) 49:12 [MT 13]):
+A(cid:3463) I(cid:3463)(cid:3469)(cid:3454)(cid:3467)(cid:3469)(cid:3454)(cid:3473)(cid:3469)(cid:3470)(cid:3450)(cid:3461) A(cid:3465)(cid:3465)(cid:3467)(cid:3464)(cid:3450)(cid:3452)(cid:3457) (cid:3469)(cid:3464) P(cid:3468)(cid:3450)(cid:3461)(cid:3462) 49:9–21 (cid:3450)(cid:3463)(cid:3453) Q(cid:3464)(cid:3457)(cid:3454)(cid:3461)(cid:3454)(cid:3469)(cid:3457)
+Katharine J. Dell 64
+Chapter 6
+T(cid:3457)(cid:3454) F(cid:3470)(cid:3463)(cid:3452)(cid:3469)(cid:3458)(cid:3464)(cid:3463)(cid:3468) (cid:3464)(cid:3455) A(cid:3463)(cid:3458)(cid:3462)(cid:3450)(cid:3461) I(cid:3462)(cid:3450)(cid:3456)(cid:3454)(cid:3467)(cid:3474) (cid:3458)(cid:3463) B(cid:3454)(cid:3463) S(cid:3458)(cid:3467)(cid:3450)’(cid:3468) E(cid:3469)(cid:3457)(cid:3458)(cid:3452)(cid:3468)
+Samuel L. Adams 73
+Chapter 7
+T(cid:3457)(cid:3454) A(cid:3468)(cid:3469)(cid:3464)(cid:3463)(cid:3458)(cid:3468)(cid:3457)(cid:3458)(cid:3463)(cid:3456) Z(cid:3464)(cid:3464) (cid:3464)(cid:3455) S(cid:3458)(cid:3467)(cid:3450)(cid:3452)(cid:3457) 11:30
+Nuria Calduch-Benages 85
+Part II
+T(cid:3457)(cid:3454) N(cid:3450)(cid:3469)(cid:3470)(cid:3467)(cid:3450)(cid:3461) W(cid:3464)(cid:3467)(cid:3461)(cid:3453) (cid:3458)(cid:3463) N(cid:3464)(cid:3463)-W(cid:3458)(cid:3468)(cid:3453)(cid:3464)(cid:3462) T(cid:3454)(cid:3473)(cid:3469)(cid:3468)
+(cid:3458)(cid:3463) (cid:3469)(cid:3457)(cid:3454) B(cid:3458)(cid:3451)(cid:3461)(cid:3454) (cid:3450)(cid:3463)(cid:3453) (cid:3458)(cid:3469)(cid:3468) I(cid:3463)(cid:3469)(cid:3454)(cid:3467)(cid:3465)(cid:3467)(cid:3454)(cid:3469)(cid:3458)(cid:3471)(cid:3454) T(cid:3467)(cid:3450)(cid:3453)(cid:3458)(cid:3469)(cid:3458)(cid:3464)(cid:3463)
+Chapter 8
+C(cid:3464)(cid:3462)(cid:3465)(cid:3461)(cid:3454)(cid:3473) A(cid:3469)(cid:3469)(cid:3458)(cid:3469)(cid:3470)(cid:3453)(cid:3454)(cid:3468) (cid:3469)(cid:3464)(cid:3472)(cid:3450)(cid:3467)(cid:3453)(cid:3468) A(cid:3463)(cid:3458)(cid:3462)(cid:3450)(cid:3461)(cid:3468) (cid:3458)(cid:3463) (cid:3469)(cid:3457)(cid:3454) H(cid:3454)(cid:3451)(cid:3467)(cid:3454)(cid:3472) B(cid:3458)(cid:3451)(cid:3461)(cid:3454)
+Yael Shemesh 101
+Chapter 9
+H(cid:3450)(cid:3467)(cid:3462)(cid:3464)(cid:3463)(cid:3474) (cid:3451)(cid:3454)(cid:3469)(cid:3472)(cid:3454)(cid:3454)(cid:3463) H(cid:3470)(cid:3462)(cid:3450)(cid:3463)(cid:3458)(cid:3469)(cid:3474) (cid:3450)(cid:3463)(cid:3453) (cid:3469)(cid:3457)(cid:3454) N(cid:3450)(cid:3469)(cid:3470)(cid:3467)(cid:3450)(cid:3461) W(cid:3464)(cid:3467)(cid:3461)(cid:3453)
+(cid:3458)(cid:3463) S(cid:3464)(cid:3463)(cid:3456) (cid:3464)(cid:3455) S(cid:3464)(cid:3463)(cid:3456)(cid:3468)
+Brittany N. Melton and Megan D. Alsene 113
+Chapter 10
+D(cid:3464)(cid:3471)(cid:3454) M(cid:3454)(cid:3469)(cid:3450)(cid:3465)(cid:3457)(cid:3464)(cid:3467)(cid:3468) (cid:3458)(cid:3463) (cid:3469)(cid:3457)(cid:3454) S(cid:3464)(cid:3463)(cid:3456) (cid:3464)(cid:3455) S(cid:3464)(cid:3463)(cid:3456)(cid:3468): B(cid:3454)(cid:3469)(cid:3472)(cid:3454)(cid:3454)(cid:3463) C(cid:3470)(cid:3461)(cid:3469)(cid:3470)(cid:3467)(cid:3450)(cid:3461)
+C(cid:3464)(cid:3463)(cid:3471)(cid:3454)(cid:3463)(cid:3469)(cid:3458)(cid:3464)(cid:3463)(cid:3468) (cid:3450)(cid:3463)(cid:3453) P(cid:3464)(cid:3454)(cid:3469)(cid:3458)(cid:3452) C(cid:3467)(cid:3454)(cid:3450)(cid:3469)(cid:3458)(cid:3471)(cid:3458)(cid:3469)(cid:3474)
+Danilo Verde 126
+Chapter 11
+T(cid:3457)(cid:3454) R(cid:3454)(cid:3461)(cid:3450)(cid:3469)(cid:3458)(cid:3464)(cid:3463)(cid:3468)(cid:3457)(cid:3458)(cid:3465) (cid:3451)(cid:3454)(cid:3469)(cid:3472)(cid:3454)(cid:3454)(cid:3463) “Y(cid:3464)(cid:3470) S(cid:3457)(cid:3450)(cid:3461)(cid:3461) N(cid:3464)(cid:3469) L(cid:3454)(cid:3469) Y(cid:3464)(cid:3470)(cid:3467) C(cid:3450)(cid:3469)(cid:3469)(cid:3461)(cid:3454)
+M(cid:3450)(cid:3469)(cid:3454) (cid:3472)(cid:3458)(cid:3469)(cid:3457) (cid:3450) D(cid:3458)(cid:3455)(cid:3455)(cid:3454)(cid:3467)(cid:3454)(cid:3463)(cid:3469) K(cid:3458)(cid:3463)(cid:3453)” (L(cid:3454)(cid:3471)(cid:3458)(cid:3469)(cid:3458)(cid:3452)(cid:3470)(cid:3468) 19:19) (cid:3450)(cid:3463)(cid:3453) “Y(cid:3464)(cid:3470) S(cid:3457)(cid:3450)(cid:3461)(cid:3461) N(cid:3464)(cid:3469)
+P(cid:3461)(cid:3464)(cid:3472) (cid:3472)(cid:3458)(cid:3469)(cid:3457) (cid:3450)(cid:3463) O(cid:3473) (cid:3450)(cid:3463)(cid:3453) (cid:3450)(cid:3463) A(cid:3468)(cid:3468) T(cid:3464)(cid:3456)(cid:3454)(cid:3469)(cid:3457)(cid:3454)(cid:3467)” (D(cid:3454)(cid:3470)(cid:3469)(cid:3454)(cid:3467)(cid:3464)(cid:3463)(cid:3464)(cid:3462)(cid:3474) 22:10):
+A R(cid:3454)-(cid:3454)(cid:3473)(cid:3450)(cid:3462)(cid:3458)(cid:3463)(cid:3450)(cid:3469)(cid:3458)(cid:3464)(cid:3463)
+Eran Viezel 141
+Contents ix
+Chapter 12
+A(cid:3461)(cid:3462)(cid:3464)(cid:3463)(cid:3453)(cid:3468), F(cid:3461)(cid:3464)(cid:3452)(cid:3460)(cid:3468) (cid:3450)(cid:3463)(cid:3453) C(cid:3461)(cid:3450)(cid:3468)(cid:3468)(cid:3458)(cid:3452)(cid:3450)(cid:3461) R(cid:3457)(cid:3454)(cid:3469)(cid:3464)(cid:3467)(cid:3458)(cid:3452): T(cid:3457)(cid:3454) R(cid:3454)(cid:3469)(cid:3454)(cid:3461)(cid:3461)(cid:3458)(cid:3463)(cid:3456)
+(cid:3464)(cid:3455) N(cid:3470)(cid:3462)(cid:3451)(cid:3454)(cid:3467)(cid:3468) 17:16–26 (cid:3458)(cid:3463) L(cid:2569)(cid:2562)(cid:2565)(cid:2578) A(cid:2574)(cid:2580)(cid:2569)(cid:2577)(cid:2581)(cid:2569)(cid:2580)(cid:2561)(cid:2580)(cid:2581)(cid:2573) B(cid:2569)(cid:2562)(cid:2572)(cid:2569)(cid:2563)(cid:2561)(cid:2578)(cid:2581)(cid:2573) 17
+Atar Livneh 155
+Chapter 13
+T(cid:3457)(cid:3454) T(cid:3457)(cid:3454)(cid:3462)(cid:3450)(cid:3469)(cid:3458)(cid:3452) F(cid:3470)(cid:3463)(cid:3452)(cid:3469)(cid:3458)(cid:3464)(cid:3463)(cid:3468) (cid:3464)(cid:3455) (cid:3469)(cid:3457)(cid:3454) S(cid:3457)(cid:3454)(cid:3454)(cid:3465)/O(cid:3473) (cid:3469)(cid:3464) S(cid:3461)(cid:3450)(cid:3470)(cid:3456)(cid:3457)(cid:3469)(cid:3454)(cid:3467) I(cid:3462)(cid:3450)(cid:3456)(cid:3454)(cid:3467)(cid:3474)
+David A. Glatt-Gilad 170
+P(cid:3450)(cid:3467)(cid:3469) III
+T(cid:3457)(cid:3454) N(cid:3450)(cid:3469)(cid:3470)(cid:3467)(cid:3450)(cid:3461) W(cid:3464)(cid:3467)(cid:3461)(cid:3453) (cid:3458)(cid:3463) (cid:3469)(cid:3457)(cid:3454) A(cid:3463)(cid:3452)(cid:3458)(cid:3454)(cid:3463)(cid:3469) N(cid:3454)(cid:3450)(cid:3467) E(cid:3450)(cid:3468)(cid:3469)
+Chapter 14
+T(cid:3457)(cid:3454) F(cid:3458)(cid:3467)(cid:3468)(cid:3469) M(cid:3458)(cid:3452)(cid:3460)(cid:3454)(cid:3474) M(cid:3464)(cid:3470)(cid:3468)(cid:3454): T(cid:3457)(cid:3454) E(cid:3463)(cid:3458)(cid:3456)(cid:3462)(cid:3450)
+(cid:3464)(cid:3455) (cid:3469)(cid:3457)(cid:3454) A(cid:3463)(cid:3469)(cid:3457)(cid:3467)(cid:3464)(cid:3465)(cid:3464)(cid:3462)(cid:3464)(cid:3467)(cid:3465)(cid:3457)(cid:3458)(cid:3475)(cid:3454)(cid:3453) A(cid:3463)(cid:3458)(cid:3462)(cid:3450)(cid:3461) D(cid:3467)(cid:3450)(cid:3472)(cid:3458)(cid:3463)(cid:3456)(cid:3468) (cid:3458)(cid:3463) A(cid:3463)(cid:3452)(cid:3458)(cid:3454)(cid:3463)(cid:3469) E(cid:3456)(cid:3474)(cid:3465)(cid:3469)
+Nili Shupak 183
+Chapter 15
+I(cid:3463)(cid:3468)(cid:3469)(cid:3467)(cid:3470)(cid:3452)(cid:3469)(cid:3458)(cid:3464)(cid:3463)(cid:3468) (cid:3464)(cid:3455) S(cid:3457)(cid:3470)(cid:3467)(cid:3470)(cid:3465)(cid:3465)(cid:3450)(cid:3460):
+T(cid:3457)(cid:3454) W(cid:3464)(cid:3467)(cid:3461)(cid:3453)’(cid:3468) O(cid:3461)(cid:3453)(cid:3454)(cid:3468)(cid:3469) I(cid:3463)(cid:3468)(cid:3469)(cid:3467)(cid:3470)(cid:3452)(cid:3469)(cid:3458)(cid:3464)(cid:3463) C(cid:3464)(cid:3461)(cid:3461)(cid:3454)(cid:3452)(cid:3469)(cid:3458)(cid:3464)(cid:3463)
+Nili Samet 216
+Chapter 16
+W(cid:3458)(cid:3468)(cid:3454) K(cid:3458)(cid:3463)(cid:3456)(cid:3468) (cid:3458)(cid:3463) I(cid:3468)(cid:3467)(cid:3450)(cid:3454)(cid:3461) (cid:3450)(cid:3463)(cid:3453) A(cid:3468)(cid:3468)(cid:3474)(cid:3467)(cid:3458)(cid:3450):
+M(cid:3450)(cid:3468)(cid:3469)(cid:3454)(cid:3467)(cid:3458)(cid:3463)(cid:3456) (cid:3469)(cid:3457)(cid:3454) N(cid:3450)(cid:3469)(cid:3470)(cid:3467)(cid:3450)(cid:3461) W(cid:3464)(cid:3467)(cid:3461)(cid:3453) (cid:3458)(cid:3463) W(cid:3464)(cid:3467)(cid:3453)(cid:3468) (cid:3450)(cid:3463)(cid:3453) A(cid:3452)(cid:3469)(cid:3458)(cid:3464)(cid:3463)
+Amitai Baruchi-Unna and Mordechai Cogan 230
+Chapter 17
+D(cid:3458)(cid:3471)(cid:3458)(cid:3463)(cid:3454) G(cid:3458)(cid:3455)(cid:3469):
+T(cid:3457)(cid:3454) S(cid:3450)(cid:3452)(cid:3467)(cid:3458)(cid:3455)(cid:3458)(cid:3452)(cid:3454) (cid:3464)(cid:3455) G(cid:3450)(cid:3462)(cid:3454) (cid:3450)(cid:3463)(cid:3453) D(cid:3464)(cid:3462)(cid:3454)(cid:3468)(cid:3469)(cid:3458)(cid:3452)(cid:3450)(cid:3469)(cid:3454)(cid:3453) A(cid:3463)(cid:3458)(cid:3462)(cid:3450)(cid:3461)(cid:3468) (cid:3458)(cid:3463) H(cid:3458)(cid:3469)(cid:3469)(cid:3458)(cid:3469)(cid:3454)
+(cid:3450)(cid:3463)(cid:3453) B(cid:3458)(cid:3451)(cid:3461)(cid:3458)(cid:3452)(cid:3450)(cid:3461) C(cid:3470)(cid:3461)(cid:3469)(cid:3470)(cid:3467)(cid:3454)(cid:3468)
+Ada Taggar-Cohen 246
+Chapter 18
+G(cid:3450)(cid:3475)(cid:3454)(cid:3461)(cid:3461)(cid:3454)(cid:3468): S(cid:3474)(cid:3462)(cid:3451)(cid:3464)(cid:3461)(cid:3468) (cid:3464)(cid:3455) P(cid:3464)(cid:3472)(cid:3454)(cid:3467)
+(cid:3450)(cid:3463)(cid:3453) V(cid:3470)(cid:3461)(cid:3463)(cid:3454)(cid:3467)(cid:3450)(cid:3451)(cid:3458)(cid:3461)(cid:3458)(cid:3469)(cid:3474) (cid:3458)(cid:3463) (cid:3469)(cid:3457)(cid:3454) H(cid:3454)(cid:3451)(cid:3467)(cid:3454)(cid:3472) B(cid:3458)(cid:3451)(cid:3461)(cid:3454) (cid:3450)(cid:3463)(cid:3453) (cid:3469)(cid:3457)(cid:3454)
+A(cid:3463)(cid:3452)(cid:3458)(cid:3454)(cid:3463)(cid:3469) N(cid:3454)(cid:3450)(cid:3467) E(cid:3450)(cid:3468)(cid:3469)
+Jennifer L. Andruska 260
+Index of References 275
+Index of Authors 288
+Chapter 15
+I(cid:3463)(cid:3468)(cid:3469)(cid:3467)(cid:3470)(cid:3452)(cid:3469)(cid:3458)(cid:3464)(cid:3463)(cid:3468) (cid:3464)(cid:3455) S(cid:3457)(cid:3470)(cid:3467)(cid:3470)(cid:3465)(cid:3465)(cid:3450)(cid:3460):
+T(cid:3457)(cid:3454) W(cid:3464)(cid:3467)(cid:3461)(cid:3453)’(cid:3468) O(cid:3461)(cid:3453)(cid:3454)(cid:3468)(cid:3469) I(cid:3463)(cid:3468)(cid:3469)(cid:3467)(cid:3470)(cid:3452)(cid:3469)(cid:3458)(cid:3464)(cid:3463)
+C(cid:3464)(cid:3461)(cid:3461)(cid:3454)(cid:3452)(cid:3469)(cid:3458)(cid:3464)(cid:3463)*
+Nili Samet
+The collection referred to as Instructions of Shuruppak is the oldest piece
+of wisdom known in world literature.1 It contains didactic counsels and
+proverbs presented as the teachings of a “man of Shuruppak” to his son,2
+instructing him a way of life which guarantees prosperity along with moral
+values. Already in its most ancient version, the Instructions of Shuruppak
+occur as a classic exemplar of proverb literature, demonstrating all the
+basic characteristics which will later become trademarks of ancient Near
+Eastern practical wisdom.
+1. Literary and Textual History
+The Instructions of Shuruppak was popular among the scribes of ancient
+Mesopotamia. It is known from dozens of manuscripts stemming from
+various historical periods—from as early as the twenty-fifth century
+down to the eleventh century—and written in three different languages.
+The extant manuscripts can be roughly sorted into three major versions:
+a Sumerian archaic version from the mid-third millennium BCE; a
+* For Tova, a modern Lady Wisdom, with gratitude and appreciation.
+1. The Egyptian Instructions of Hardjedef are ascribed to a mid-third-millennium
+BCE prince, but their earliest known manuscripts are much later (Wolfgang Helck,
+Die Lehre des Djedefhor und die Lehre eines Vaters an seinen Sohn [Wiesbaden:
+Harrassowitz, 1984], 1), and their time of composition is disputed (Miriam Lichtheim,
+Ancient Egyptian Literature, Volume I: The Old and Middle Kingdoms [Berkeley:
+University of California Press, 1973], 6–7; Günter Burkard and Heinz-Josef Thissen,
+Einführung in die altägyptische Literaturgeschichte, vol. 1 [Berlin: LIT, 2012], 81).
+2. On the title “the man of Shuruppak,” see below.
+S (cid:3450)(cid:3462)(cid:3454)(cid:3469) Instructions of Shuruppak 217
+Sumerian classic version from the beginning of the second millennium
+BCE; and an Akkadian translation currently known from the end of the
+second millennium, which in turn gave rise to a Hurrian translation.
+The archaic version is known from two manuscripts, one from Abu-
+Salabikh (ca. 2500 BCE) and one from Adab (ca. 2400 BCE). Judging by
+the limited information which can be gleaned from the fragmentary Adab
+tablet, the two texts probably share a very similar textual tradition.
+In terms of structure, the archaic version consists of a prologue, five
+proverbial units, and an epilogue.3 The prologue introduces the teaching
+sage as “(the man of) Shuruppak,”4 supplying us with several biographic
+details, as follows:5
+The wise one, the learned one, who dwelled in the land, (the man of)
+Shuruppak, the…,6 the wise one, the learned one, who dwelled in the land,
+(the man of) Shuruppak gave instructions to his son: My son, let me give
+you instructions, let attention be paid to them!
+Next follow five units of sayings, each marked by the introductory formula
+“(The man of) Shuruppak gave instructions to his son.” In two cases this
+formula is accompanied by an appeal to the son: “My son, let me give you
+instructions, (let attention be paid to them).”7 The epilogue then concludes
+the piece by referring to the instructions as a “gift of words,” ordering
+3. See Bendt Alster, Wisdom of Ancient Sumer (Bethesda: CDL, 2005): Prologue:
+176:1–177:5. Proverbial Unit 1: 177:6–178:15. Proverbial Unit 2: 178:16–25;
+Proverbial Unit 3: 178:26–180:45. Proverbial Unit 4: 180:46–185:144. Proverbial
+Unit 5: 185:146–165. Epilogue: 185:166–171.
+4. “The man of Shuruppak” in the Adab ms., and “Shuruppak” in the Abu-Salabih
+manuscript. See discussion below.
+5. Alster, Wisdom of Ancient Sumer, 176:1–177:5; 196:1–9. References to
+Instructions of Shuruppak in this study follow Alster’s 2005 edition. Translations are
+mine unless otherwise stated. The reader is encouraged to consult also the following
+translations: C. Wilcke, “Philologische Bemerkungen zum Rat des Šuruppag und
+Versuch einer neuen Übersetzung,” ZA 68 (1978): 196–232; Miguel Civil, “Notes on
+the Instructions of Šuruppak,” JNES 34 (1984): 281–98; Alster, Wisdom of Ancient
+Sumer; and ETCSL’s electronic translation: http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.
+cgi?text=t.5.6.1#.
+6. The elided word here is the enigmatic term UR.AŠ, probably an epithet for
+2
+Shuruppak, whose exact meaning is unknown. See the discussion below.
+7. The shorter variant appears at the head of units 2 and 4 (ll. 16, 46), and the
+longer one—at the beginning of units 3 and 5 (ll. 26–28, 146–148). Unit 1 follows
+immediately after the prologue, which serves as its introduction.
+218 Human Interaction with the Natural World
+that attention will be paid to them, and adding the concluding remark
+“Shuruppak gave instructions to his son.”8
+The division of the sayings in this version into five units is not entirely
+arbitrary; some of them tend to have specific emphases. The first unit deals
+mostly with properly managing one’s real estate and social relations. The
+second is focused on admonitions against criminal activity. The fourth
+unit presents only a few instructions at its beginning, then turning to other
+wisdom items such as proverbs and short quotes of various genres.9 The
+fifth unit, which also includes proverbs rather than instructions, seems to
+be especially interested in royal issues.
+Half a millennium later, manuscripts of a more elaborate, developed
+version of Instructions of Shuruppak were copied in their dozens in Old
+Babylonian schools.10 This classic Sumerian recension is approximately
+1.5 times longer that the archaic one, with three lengthy proverbial units
+framed by an expanded prologue and epilogue.11
+The expanded prologue is more informative compared to its archaic
+counterpart, locating the mysterious “man of Shuruppak” within Mesopo-
+tamian mythological history: here, this sage is none other than the father
+of the famous flood survivor, Ziusudra.12
+8. Alster, Wisdom of Ancient Sumer, 187.
+9. For the difference between these sub-types of practical wisdom, see below,
+under Sapiential Content.
+10. For a full list see Alster, Wisdom of Ancient Sumer, 49–53.
+11. See ibid.: Prologue: 56:1–57:10. Unit 1: 58:11–71:75. Unit 2: 72:76–81:145.
+Unit 3: 82:146–100:282. Epilogue: 100:283–290.
+12. Ibid., 32, 103–104, believed that this identity of the father is implied already
+in the archaic version, but his only evidence is a problematic interpretation of the
+Sumerian ambiguous term UR .AŠ. Better interpretations of UR .AŠ are suggested
+2 2
+by Steinkeller (cited by J. R. Davila, “The Flood Hero as King and Priest,” JNES
+54 [1995]: 199–204 [202, esp. n. 21]); Manfred Krebernik, “Die Texte aus Fāra und
+Tell Abū Salābīh,” in Mesopotamien: Spaturuk-Zeit und Fruhdynastische Zeit, ed.
+Jesef Bauer, Robert K. Englund, and Manfred Krebernik (Gottingen: Vandenhoeck
+& Ruprecht, 1998), 319 n. 779; and Y. S. Chen, The Primeval Flood Catastrophe:
+Origins and Early Development in Mesopotamian Traditions (Oxford: Oxford Univer-
+sity Press, 2014), 9, 132–35. Chen also shows that the flood motif was unknown in
+Mesopotamia prior to Old Babylonian times, thus ruling out Alster’s interpretation.
+In fact, Alster himself, in an earlier work, took a stance similar to Chen’s (Bendt
+Alster, The Instructions of Shuruppak: A Sumerian Proverb Collection [Copenhagen:
+Akademisk, 1974], 25). The flood setting should therefore be taken as an innovation
+of the classic version. On Ziusudra, the Sumerian flood hero, see Andrew R. George,
+The Babylonian Gilgamesh Epic, vol. 1 (New York: Penguin, 2003), 152–55; Chen,
+The Primeval Flood Catastrophe, 129.
+S (cid:3450)(cid:3462)(cid:3454)(cid:3469) Instructions of Shuruppak 219
+The three proverbial units each have an opening and a concluding
+formula. The opening formula reads:13
+The man of Shuruppak gave instructions to his son. The man of Shuruppak,
+the son of Ubar-tutu, gave instructions to his son Ziusudra: My son, let me
+give you instructions! Let my instructions be taken. Ziusudra, let me speak
+words to you, let attention be paid to them. Do not neglect my instruc-
+tions, do not transgress the words I speak! The instructions of a father are
+precious, you should comply with them!
+The concluding formula states again that “the man of Shuruppak, the
+son of Ubar-tutu, gave instructions to his son Ziusudra.” The epilogue,
+in keeping with its earlier counterpart, refers to the instructions as “a gift
+of words,” and adds a recommendation that they be brought “into the
+palace.”14 As for the sayings themselves, here the editors of the classic
+recension generally followed the archaic order, while expanding the
+counsels and introducing further maxims of their own.15
+13. See Alster, Wisdom of Ancient Sumer, 57:6–58:14; 72:76–73:83; 82:146–
+83:153, including slight variant differences among the three openings. Note that the
+opening formula of the first unit could be considered part of the prologue, and the
+concluding formula of the third unit is assimilated into the epilogue.
+14. The last line of this version (ibid., 100:290) is dedicated to the praise of
+Nisaba, the scribes’ goddess. This is a customary conclusion of literary texts of
+various types and should not be regarded an integral part of the work itself.
+15. The first unit of the classic version generally follows the sequence of units
+1–3 of the archaic version, with a block of newly added sayings at its end (Alster,
+Wisdom of Ancient Sumer, 66:50–71:72, with the exclusion of 69:62). The second
+unit of the classic version begins with materials from the fourth unit in the archaic
+version, then adding new sayings which form the majority of this unit. The third
+unit of the classic version includes mainly new materials, integrating some sayings
+from the fourth unit of the archaic version at its head (and later), and some from the
+fifth unit of the archaic version towards its end. The general impression is that the
+editors of the classic version were stricter in following the earlier traditions at the
+beginning of their piece, and postponed most of their innovations to its later parts,
+where the older version is only loosely followed. The same is true for the sequence of
+sayings within each unit: generally speaking, older material appears at the beginning,
+followed by new sayings. Being somewhat intuitive, this pattern is typical of editorial
+activity from different cultures and periods. For an in-depth analysis of the additions
+and innovations in the Old Babylonian version, see Walther Sallaberger’s instructive
+discussion in his “Updating Primeval Wisdom: The Instructions of Šuruppak in Its
+Early Dynastic and Old Babylonian Contexts,” in In the Lands of Sumer and Akkad,
+New Studies, a Conference in Honor of Jacob Klein on the Occasion of His Eightieth
+220 Human Interaction with the Natural World
+Akkadian translations of the Instructions of Shuruppak are presently
+known from three sources: a small Middle-Assyrian fragment found in
+Assur; a very fragmentary Middle-Babylonian tablet; and a bilingual
+Akkadian-Hurrian fragment, probably from Middle Bronze Age Syria.16
+Scholars assume however that the Akkadian translation is older than the
+extant manuscripts. The characterization of the two unilingual tablets as
+Middle-Assyrian and Middle-Babylonian respectively is based mainly
+on paleography and linguistic features. A more precise date is currently
+impossible to determine, although it has been suggested that the Assyrian
+tablet should be dated to the days of Tiglath-pileser I (1115–1077 BCE).17
+While the structure, scope and exact content of the Akkadian trans-
+lations cannot be reconstructed from the texts in their current state of
+preservation, several aspects of the Akkadian version are still discernable.
+First, the three sources at our disposal probably do not represent the exact
+same Akkadian version, as they diverge in several cases.18 Second, as one
+might expect, the Akkadian translations follow the classic version with all
+its innovations rather than the archaic one. It includes new sayings intro-
+duced by the classic version,19 and presents the protagonist as father to the
+flood’s hero, referred to here by his Akkadian name, Ut-napišti.
+2. Mythological Framework
+The instructions are presented as the teaching of a father to his son,20
+a pattern which dominates wisdom collections throughout the Fertile
+Birthday, ed. Mordechai Cogan (Jerusalem: The Israel Academy of Sciences and
+Humanities, 2018), 7‒21.
+16. Alster, Wisdom of Ancient Sumer, 204; 207–208.
+17. Alster, ibid., building on Stefano Seminara, La versione accadica del Lugal-e
+(Rome: Università degli studi di Roma “La Sapienza,” 2001), 40.
+18. Alster, Wisdom of Ancient Sumer.
+19. See, for instance, the obverse of the Akkadian tablet VAT 10151 (W. G.
+Lambert, Babylonian Wisdom Literature [Oxford: Clarendon, 1960], 95), which
+includes sayings that are known only from the classic version, in the exact same
+order (except for a one-line omission). For the other Akkadian texts, see, e.g., Alster,
+Wisdom of Ancient Sumer, 70–73, where BM 50522+ follows the classic version. Of
+special importance for this discussion are the religiously oriented sayings which were
+added by the authors of the classic version, and are found later also in the Akkadian
+translation. See the discussion below, under Ethics and Theology.
+20. In addition to the address to the son in the prologue, epilogue, and introductions
+of each unit, the appeals “my son!” and “my little one!” occur throughout the work.
+Alster, Wisdom of Ancient Sumer, 40–41, attempts to explain their distribution within
+the piece.
+S (cid:3450)(cid:3462)(cid:3454)(cid:3469) Instructions of Shuruppak 221
+Crescent.21 In most manuscripts from all periods, the father is referred
+to as “the man of Shuruppak.”22 This epithet takes the term “Shuruppak”
+to be a toponym rather than a personal name, in accordance with its
+regular use in Sumerian tradition. Only one manuscript of the archaic
+version seems to treat “Shuruppak” as the father’s personal name, perhaps
+conceiving him as the city’s eponym.23 A more accurate title for the entire
+piece would therefore be “Instructions of the Man of Shuruppak,” but
+21. For Mesopotamian examples, see, e.g., Lambert, Babylonian Wisdom Liter-
+ature, 103:81; 106; Yoram Cohen, Wisdom from the Late Bronze Age (Atlanta: SBL,
+2013), 81–128. Egyptian examples include, inter alia, instructions of Hardjedef,
+Amenmhet, Any and many more (Lichtheim, Ancient Egyptian Literature, Volume
+I, 58, 136; Miriam Lichtheim, Ancient Egyptian Literature, Volume II: The New
+Kingdom [Berkeley: University of California Press, 1978], 135–46). For biblical
+examples see Prov 1:8; 1:10; 2:1; 3:1; 4:1 et passim; Eccl 12:12. See further Michael
+Fox, Proverbs 1–9, AB 18A (New Haven: Yale University Press, 2000), 80–82.
+Additional examples could be found in other wisdom texts such as Ahiqar and
+Ben Sira. A detailed list with discussion is suggested by Alster (Wisdom of Ancient
+Sumer, 42–45).
+22. This title is ascribed to the father in the following: (1) in one manuscript
+of the archaic version (Alster, Wisdom of Ancient Sumer, 196, ll. 1.3–5; note the
+determinative -ki which indicates a toponym. An implied gentilic is assumed); (2) in
+the majority of manuscripts of the classic version (Alster, Wisdom of Ancient Sumer,
+56:5 with score; 57:6–7 with score; 71:73 with score, et passim); (3) in the Akkadian
+version, judging from the preserved lines (Alster, The Instructions of Shuruppak, 73,
+with the Akkadian gentilic).
+23. See Alster, Wisdom of Ancient Sumer, 176:2 et passim, and compare
+Sallaberger’s instructive discussion (“Updating Primeval Wisdom,” 9). It is possible
+to explain this variant as reflecting an abbreviation of the gentilic epithet “the
+Shuruppakian” known from most manuscripts (so Alster, Wisdom of Ancient Sumer,
+contra Alster, The Instructions of Shuruppak). However, a tradition regarding an
+antediluvian figure named Shuruppak also occurs in a dynastic chronicle from
+Old-Babylonian Sippar (Stephen H. Langdon, The Weld-Blundell Collection, OECT
+2 [London: Oxford University Press, 1923]; Jean-Jacques Glassner, Mesopotamian
+Chronicles [Atlanta: SBL, 2004], 57–58). The existence of two unrelated witnesses
+seems to testify to the integrity of this tradition (contra Thorkild Jacobsen, The
+Sumerian King List [Chicago: University of Chicago Press, 1939], 76, n. 32, citing
+Landsberger; see also George, The Babylonian Gilgamesh Epic, 155). Note that
+among the classic version’s manuscripts, the name Shuruppak may sporadically
+appear without the determinative -ki, (e.g., Alster, Wisdom of Ancient Sumer,
+82:146, ms. T6), but these are mere variants which should not be understood as
+reflecting a different interpretation of the name. For a recent discussion of this issue
+with somewhat different conclusions see Chen, The Primeval Flood Catastrophe,
+132–54.
+222 Human Interaction with the Natural World
+because this interpretation is not unanimously shared by all manuscripts,
+the common label “Instructions of Shuruppak” is followed here.24
+As mentioned above, (the man of) Shuruppak is assigned, from the
+classic version on, an honorable lineage. Father to famous Ziusudra=Ut-
+napishti, he is located at a key point in Mesopotamian mythological history,
+before the great flood swept over the earth. In addition to his identification
+as Ziusudra’s father, the classic version also mentions the Man of Shurup-
+pak’s own father, named Ubar-Tutu, thus presenting us with a tripartite
+royal dynasty: Ubar-Tutu—Man of Shuruppak—Ziusudra. Ubar-Tutu is
+otherwise known as an antediluvian king from the city of Shuruppak,25
+but his exact place in the Shuruppak dynasty varies among the different
+traditions: he may also be presented as Ziusudra’s father rather than grand-
+father, or simply as the last king before the flood with no further progeny.26
+The placement of Shuruppak’s instructions within this antediluvian
+setting is undoubtedly intended to lend them further prestige and authority.
+Not only are they presented, from the classic version on, as a king’s
+teaching to his (crown) prince, they also gain the reputation of a most
+ancient legacy, having its origins in primordial human history.
+3. Sapiential Content
+The instructions themselves cover typical core-issues of wisdom liter-
+ature, such as appropriate family relations, proper management of one’s
+24. Note that “The man of Shuruppak” occurs also in the Standard Babylonian
+version of the Gilgamesh Epic (George, The Babylonian Gilgamesh Epic, 704, l.
+23). There, however, it is used as an epithet for Ut-Napishiti, while here “the man of
+Shuruppak” figures as Ut-Napishti’s father. See further Chen, The Primeval Flood
+Catastrophe, 143–44.
+25. Or, according to Berossus, from the city of Larak (Stanley M. Burstein, The
+Babyloniaca of Berossus [Malibu: Undena, 1978], 19:10).
+26. The main sources mentioning Ubar-Tutu are chronographic lists. See
+Jacobsen, The Sumerian King List, 58 n. 107; 59–60 n. 113; 75:32–77:33; Glassner,
+Mesopotamian Chronicles, 57, 120, 121, 128, 129; Chen, The Primeval Flood
+Catastrophe, 140–54. Ubar-Tutu also occurs in the Standard Babylonian Gilgamesh
+epic (George, The Babylonian Gilgamesh Epic, 666–67, 690–91, 704–5), and, in
+a Greek guise, in Berossus’ Babyloniaca (Burstein, The Babyloniaca of Berossus,
+19:10). Chen believes that Ubar-Tutu is nothing but a ghost character, owing its
+existence to a misinterpretation of a single Sumerian term in the archaic version of
+Instructions of Shuruppak. However, given the relatively broad distribution of this
+name in different sources from different periods, it would seem more likely that Ubar-
+Tutu is a legitimate member of Mesopotamian mythological genealogy, even if not as
+well-known as his successor Ziusudra.
+S (cid:3450)(cid:3462)(cid:3454)(cid:3469) Instructions of Shuruppak 223
+business and real estate, and suitable social behavior. Very few instruc-
+tions address a ruler or have the royal court at their background.27 In most
+cases, they portray a middle-class young man who owns a field, a house,28
+and a family,29 as well as workers, slaves and cattle.30
+An interesting indication for this socioeconomic context may be found
+in instructions dealing with livestock and domesticated animals. For
+instance:
+At the time of the harvest, do not buy a donkey.31
+Do not buy an ox that spreads terror. Do not buy a vicious bull; (it means) a
+destroyed cattle pen.32
+Do not buy a steppe-ass. You will (have to) spend (the whole) day at its side.33
+An unknown dog is evil; an unknown man [is horrible].34
+Some of the instructions that focus on domesticated animals give advice
+on how to purchase and take good care of them; others use them as
+allegory for various human situations and scenes; and sometimes both
+meanings seem to co-occur. Be this as it may, the close familiarity with
+farm animals as reflected in these instructions indicates a non-royal socio-
+economic context.
+In his thorough discussion of the development of the Instructions of
+Shuruppak, Sallaberger suggests that the above typical profile of a rela-
+tively high-ranked citizen has its background in a specific social status
+from the Early Dynastic period known as ru lugal. While being relatively
+27. Sallaberger “Updating Primeval Wisdom,” 20‒21. The following sayings
+seem to reflect a royal viewpoint: Alster, Wisdom of Ancient Sumer, 69:64; 74:94–96
+(the latter may alternatively express the simple person’s feelings toward the
+unexpected behavior of rulers; see Gerhard J. Selz, “Streit herrscht, Gewalt droht: Zu
+Konfliktregelung und Recht in der frühdynastischen und altakkadischen Zeit,” WZKM
+92 [2002]: 174); 88:181–182; and 91:204. Sayings 61:26 and 98:271 should perhaps
+be added to this list, but their ambiguous content makes it difficult to fully understand
+their theme and message.
+28. Alster, Wisdom of Ancient Sumer, 59:15–60:18; 98:272–99:263.
+29. Ibid., 86:172–87:174; 180:185–186; 91:202–203; 92:208–212.
+30. Ibid., 64:41; 65:44–45; 77:119–123; 83:155–85:164; 89:193.
+31. Ibid., 93:216. This is a well-known saying, whose different variants are docu-
+mented in various wisdom collections. See Cohen, Wisdom from the Late Bronze Age,
+94‒95; 112‒13.
+32. Alster, Wisdom of Ancient Sumer, 92:213‒14. The translation of the instructions
+in this paragraph follow Alster’s.
+33. Ibid., 66:48. As explained by Alster (ibid., 120), this is an admonition against
+buying a certain type of not-fully-domesticated equid.
+34. Ibid., 99:276. For a different translation see ETCSL.
+224 Human Interaction with the Natural World
+wealthy, people identified as ru lugal were by no means royals. The same
+social profile continues to characterize the Instruction’s addressee also
+in the Old Babylonian version, notwithstanding of the newly addressed
+royal framework. The typical protagonist of the instructions may at times
+become subject to lawsuits, slander and disgrace,35 economic inferiority,36
+and other incidents that are not typical of royalty.37
+This gap between the royal framework and the civil content is in
+keeping with the diachronic evidence as described above. In their
+primeval form, the instructions were composed as a teaching of a father
+from the city of Shuruppak (or, a father named Shuruppak) to his son.
+Even if one assumes that a royal background is somewhat implied in the
+archaic version, the protagonist is nowhere therein expressly portrayed
+as a king. The focus of this version was thus civil, not royal. The royal
+context was secondarily applied to the instructions by the Old Babylo-
+nian scribes who created the classic version, primarily by reworking the
+prologue and epilogue.38 At the same time, however, these very scribes
+did not feel the necessity to thoroughly revise the instructions themselves
+in accordance with their new context, or even to adjust the newly added
+sayings to this royal framework. The result is a complex wisdom piece
+which reflects mixed viewpoints. In this respect, Shuruppak’s Instructions
+may be compared with the Solomonic collections in the biblical book of
+Proverbs, which, despite their ascription to King Solomon, often reflect
+the perspective of ordinary Israelites.39
+Another aspect of heterogeneity is reflected in the types of sayings
+included in the Instructions of Shuruppak. A close look at the sayings
+shows that they are not all made of one cloth. The most prominent type
+is of course the instructions. Characterized by a moral tone, a conserva-
+tive message, and a second-person address to their young recipient, the
+35. Ibid., 63:33; 63:36; 69:65–70:66.
+36. Ibid., 60:19–20.
+37. See further discussion ibid., 33.
+38. Note that in addition to identifying the protagonist as an ancient king, the
+classic version’s editors also added a recommendation to bring the instructions “into
+the palace” (ibid., 100:285), thus better integrating the epilogue into the collection’s
+new royal framework.
+39. See Nili Samet, “Redaction Patterns in Biblical Wisdom Literature in Light
+of the Instructions of Shuruppak,” ZAW 133 (2021): 1–17. In other ancient Near
+Eastern exemplars of practical wisdom, the narrative framework tends to conform to
+the content. Egyptian wisdom collections, for instance, usually focus on royal advice
+when ascribed to kings, and on instructions for high-status courtiers or scribes when
+ascribed to the latter’s fathers. The same is true for pieces of practical wisdom from
+other sources, such as Ahiqar.
+S (cid:3450)(cid:3462)(cid:3454)(cid:3469) Instructions of Shuruppak 225
+instructions typically teach wise, decent behavior and good manners.
+Next to instructions, other types of wisdom are also discernable, which
+lack the bold didactic tone of the latter.40 Among these is a short contem-
+plative essay,41 and many proverbs. The latter tend to speak of their
+protagonists in the third person, suggesting a sober look at life rather
+than a didactic lecture about it: “Fate is a wet bank; it can make one
+slip”;42 “When it is about someone else’s bread, (it is easy to) say ‘I will
+give it to you.’ ”43 They depict, often humorously, stereotypic types such
+as the fool, the imprudent, and the shameless, or specific professionals
+such as the wet-nurse and the leather maker and their place in Sumerian
+society.44
+In addition, the collection also includes a few clichés that are often
+difficult to comprehend, being neither instructions nor proverbs.45 These
+are probably short quotes of other Sumerian genres, perhaps mythology
+or hymnology, whose original meaning—in absence of context—escapes
+us. The integration of such diverse materials into Shuruppak’s Instruc-
+tions exemplifies the fluidity of the concept of practical wisdom in
+Sumerian scribal culture in particular,46 and in ancient Near Eastern
+wisdom tradition in general.47 It is nonetheless noteworthy that most of
+40. See further Alster, Wisdom of Ancient Sumer, 35–36.
+41. Ibid., 96:252–53. Cf. Nili Samet, “Religious Redaction in Qohelet in Light of
+Mesopotamian Vanity Literature,” VT 6 (2015): 1–16.
+42. Alster, Wisdom of Ancient Sumer, 86:170–71.
+43. Ibid., 74:97.
+44. See respectively Alster, ibid., 76:111–14; 98:264; 76:115–116; 76:109. For
+the difference in tone and message between instructions and proverbs, see Nili Samet
+“Family Relations in Mesopotamian Proverb and Instruction Literature” Beit-Mikra
+67 (2022): 237–60 (Hebrew).
+45. See, for instance, Alster, Wisdom of Ancient Sumer, 97:260–261. Note the first
+person, which seems out of place in its current context.
+46. Sumerian proverb collections often include, next to instructions, proverbs
+and short essays of contemplative wisdom, also quotes of other genres such as law,
+mythology, or lamentations. Some scholars believe that this diversity is somewhat
+related to the pedagogical function of proverb collections within scribal education.
+See Niek Veldhuis, “Sumerian Proverbs in Their Curricular Context,” JAOS 120
+(2000): 383–99; Jonathan Taylor, “The Sumerian Proverb Collections,” RA 99 (2005):
+21–22; Bendt Alster, Sumerian Proverbs in the Schøyen Collection (Bethesda: CDL,
+2007), 6–7, 13–15, 91; Selz, “Streit herrscht, Gewalt droht,” 173–78; Uri Gabbay,
+“Lamentful Proverbs or Proverbial Laments? Intertextual Connections between
+Sumerian Proverbs and Emesal Laments,” JCS 63 (2011): 51–64.
+47. Mixed content is very typical, for instance, of the biblical book of Proverbs,
+which includes proverbs, instructions, riddles, and so on.
+226 Human Interaction with the Natural World
+the materials of this type are integrated into the later parts of Instructions
+of Shuruppak, while the first parts include almost only instructions.48
+4. Ethics and Theology
+The morals and social values reflected in the Instructions of Shuruppak
+are conservative and affirmative of the existing social order. The ideal
+individual is a cautious, wise male adult who restrains his feelings and
+speech, avoiding involvement in quarrels or crimes, controlling his
+drinking habits,49 and thoughtfully managing his real estate and finances.50
+His noble qualities include diligence and modesty.51 The ideal family is
+a hierarchal-patriarchal unit where children respect parents, youngsters
+obey elders,52 and female members humbly acknowledge their proper
+place.53 Decent marriage and matrimonial peace are strongly promoted,54
+while adultery and sexual involvement with inappropriate women are
+condemned.55 Such conformist attitudes are common among ancient Near
+Eastern instruction collections from different places and time-periods.
+The instructions are usually accompanied by a motive clause,56 whose
+rhetorical function is to supply a convincing practical rationale for each
+teaching. For instance:57
+48. For details, see above, under Literary and Textual History.
+49. Alster, Wisdom of Ancient Sumer, 78:126; 93:221.
+50. Ibid., 59:15–60:18; 98:272–99:273.
+51. Ibid., 70:67; 87:175–177.
+52. Ibid., 86:172–87:174; 98:265–270.
+53. Ibid., 66:49; 77:124–78:125; 93:220.
+54. Ibid., 88:185–186; 91:202–3; 93:215.
+55. Ibid., 63:33–34; 66:49; 83:154.
+56. Motive clauses (Begründungssätze) and their function were intensively studied
+in the context of biblical wisdom. See, e.g., Berend Gemser, “The Importance of the
+Motive Clause in Old Testament Law,” in Congress Volume in Memoriam Aage Bent-
+zen, VTSup 1 (Leiden: Brill, 1953), 50–66; Rifat Sonsino, Motive Clauses in Hebrew
+Law: Biblical Forms and Near Eastern Parallels (Chico: Scholars Press, 1980); Roland
+Murphy, Wisdom Literature: Job, Proverbs, Ruth, Canticles, Ecclesiastes, and Esther
+(Grand Rapids: Eerdmans, 1981), 6; Ted Hilderbandt, “Motivation and Antithetic Par-
+allelism in Proverbs 10–15,” JETS 35 (1992): 433–44. The centrality of motive clauses
+to the Instructions of Shuruppak shows that this rhetorical device was not unique to
+biblical tradition but was rather part of a broader ancient Near Eastern legacy. See further
+Bendt Alster, “Additional Fragments of the Instructions of Shuruppak,” Aula Orientalis
+5 (1987): 199–206 (204 n. 8); Selz, “Streit herrscht, Gewalt droht,” 173–78; Alster,
+Wisdom of Ancient Sumer, 39–41. For the distribution of motive clauses among the vari-
+ous sections of each edition, see Sallaberger, “Updating Primeval Wisdom.”
+57. Alster, Wisdom of Ancient Sumer, 59:17; 60:19; 65:42–43.
+S (cid:3450)(cid:3462)(cid:3454)(cid:3469) Instructions of Shuruppak 227
+Do not place a well in your field; people will turn hostile against you.
+Do not vouch for someone; that man will have a hold on you.
+Do not speak improperly; later it will lay a trap on you.
+This explanatory rhetoric reflects utilitarian ethics typical of ancient Near
+Eastern proverb literature. The young addressee is eloquently spurred to
+follow the instructions for his own benefit.58 Thus, stealing is undesirable
+because one might be caught and become a slave,59 and rape is to be
+avoided because “the courtyard will learn of it.”60 Similarly, risk-involving
+altruistic endeavors, such as vouching for someone, feeding a stranger,61
+or testifying on behalf of the victim of a quarrel,62 are not recommended.
+Another theological aspect of the motive clause has to do with the
+concept known among Biblicists as Tat-Ergehen Zusammenhang.63 This
+concept assumes that punishment and reward originate directly and
+immanently from the human act itself, being a kind of natural law rather
+than the consequence of a transcendent divine intervention. Scholars have
+pointed to the dominance of this view in the theology of biblical wisdom.
+The same is true for the Instructions of Shuruppak. Here, deed and conse-
+quence are placed side by side not only to teach the young addressee the
+desirability or undesirability of a given act, but also to demonstrate how
+the consequence immanently originates from the deed, thus assigning
+direct responsibility to the human agent. For instance:
+Do not speak improperly; later it will lay a trap on you.64
+Do not curse strongly; it will rebound on you.65
+The following admonition presents an especially clear expression of the
+Tat-Ergehen Zusammenhang theology:
+My son, do not commit robbery; do not cut yourself with an axe.66
+58. See further Sallaberger, “Updating Primeval Wisdom.” Alster, Wisdom
+of Ancient Sumer, 31, similarly describes the instructions as reflecting a “modest
+egoism.”
+59. Alster, Wisdom of Ancient Sumer, 62:28–31.
+60. Ibid., 69:62.
+61. Ibid., 68:60. Note, however, that the exact meaning of this instruction is some-
+what unclear. See ibid., 127.
+62. Ibid., 61:22–23.
+63. See Fox, Proverbs 1–9, 91–92, with further literature.
+64. Alster, Wisdom of Ancient Sumer, 65:42–43. Cf. Prov 6:2; 12:13; 18:17.
+65. Ibid., 66:50.
+66. Ibid., 62:31. Cf. Prov 1:18; 26:27.
+228 Human Interaction with the Natural World
+The identification of this theological feature within the instructions
+naturally raises the problem of the place of the divine factor within their
+world. Generally speaking, gods, divine activity and religious elements are
+very rarely mentioned in Shuruppak’s teachings. They are totally absent
+from the archaic version, and scarcely occur from the classic version on.67
+This state of affairs made Alster describe the Instructions as secular in
+nature.68 Lately, however, Klein and Samet have drawn attention to the
+placement of the few references to gods and religious practices in the
+classic version.69 Only three such sayings occur in this recension, and they
+all appear toward the end of each proverb-unit, in close proximity to the
+concluding formula.70 A praise for the god Utu, accompanied by a recom-
+mendation to “stand by him,” appears at the very end of Unit 1:
+The one and only warrior, he alone is the equal of many; the one and only
+Utu, he alone is equal of many. Standing by the warrior, you shall live!
+Standing by Utu, you shall live!71
+A saying regarding the importance of prayer occurs at the end of Unit 2:
+Words of prayer bring abundance. Supplication is cool water that soothes
+the heart.72
+An instruction to respect Utu and the personal god appears toward to end
+of unit 3:73
+67. For details see below.
+68. Alster, Wisdom of Ancient Sumer, 31.
+69. Jacob Klein and Nili Samet, “Religion and Ethics in Sumerian Proverb
+Literature,” in Marbeh Hokmah: Studies in the Bible and the Ancient Near East
+in Loving Memory of Victor Avigdor Hurowitz, ed. S. Yona et al. (Winona Lake:
+Eisenbrauns, 2015), 295–322. Note that in addition to the explicit religious evidence,
+which is treated by Klein and Samet, Victor A. Hurowitz, “An Underestimated Aspect
+of Enki/Ea,” JANER 13 (2013): 3–10, has also suggested an implied reference to the
+god Enki in the classic version of Instructions of Shuruppak.
+70. Note that all three additions appear later in the Akkadian manuscripts.
+71. Alster, Wisdom of Ancient Sumer, 71:69–72.
+72. Ibid., 81:140–141. A single line (142) separates this religious saying and the
+epilogue. Due to its ambiguous content, it is hard to determine whether it continues
+the saying under discussion by describing an opposition to prayer, or whether it
+contains an independent proverb.
+73. Note that this admonition does not appear exactly at the end of the third unit.
+Six proverbs separate it from the epilogue. However, its reference precisely to Utu,
+and its location not far from the unit’s end, make it probable that it belongs to the
+same hand which added the two other religious sayings.
+S (cid:3450)(cid:3462)(cid:3454)(cid:3469) Instructions of Shuruppak 229
+Do not speak an arrogant word to your mother; that causes hatred against
+you. Do not ‘take into the mouth’ the words of your mother and the words of
+your personal god.74 The mother, like Utu, gives birth to the man; the father,
+like a god, makes him shine. The father is like a god: his words are reliable.
+You should pay attention to the instructions of the father.75
+Lacking from the archaic version, these religious sayings should be
+considered an innovation introduced by the creators of the classic one.76
+Their placement at the end of each unit might indicate a deliberate editorial
+activity, aimed at adding a pious nuance to this originally non-religious
+piece.77 The development of the Instructions of Shuruppak with time was
+therefore not restricted to gradual addition of wisdom materials. Rather,
+conscious redactors carefully molded the piece in accordance with their
+Zeitgeist, introducing new components such as an antediluvian setting, a
+royal context and a clearer expression of wisdom’s religious aspect.
+74. The exact meaning of the Sumerian phrase “take words into the mouth” is
+uncertain. Judging by the current context, it may perhaps mean “cast doubt at, argue
+with” etc. See Alster, Wisdom of Ancient Sumer, 171.
+75. Ibid., 98:265–70.
+76. Sallaberger, “Updating Primeval Wisdom,” 22, adds another consideration
+that marks this instruction as a later addition: the Early Dynastic admonitions are
+usually formulated as negative imperatives, while the current proverbial unit is a
+positive assertion.
+77. It goes without saying that no anachronism is meant by the term “non-religious.”
+The Sumerians, like other peoples of the ancient Near East, never knew a world
+without gods. However, some types of literature, especially wisdom, tend to focus on
+human life and to show little interest in religious themes, perhaps due to their Sitz im
+Leben or to other factors.
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

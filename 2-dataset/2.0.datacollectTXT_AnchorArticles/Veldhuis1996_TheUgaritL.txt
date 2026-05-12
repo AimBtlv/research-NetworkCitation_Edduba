@@ -1,0 +1,245 @@
+# METADATA
+author: Veldhuis N.
+source_id:Veldhuis1996_TheUgaritL
+title: The Ugarit Lexical Text Rs 13.53
+Year:1996 
+Source_ID:  Veldhuis1996_TheUgaritL
+Source_Type: Article in Book: Source: Die Welt des Orients, 1996, Bd. 27 (1996)
+Source_Role,Step_distance: 0,1,2 ,3,4 
+Pages: pp. 25-29
+Web:  
+Published: Vandenhoeck & Ruprecht (GmbH & Co. KG)
+
+# TEXT
+
+The Ugarit Lexical Text RS 13.53
+Author(s): Niek Veldhuis
+Source: Die Welt des Orients, 1996, Bd. 27 (1996), pp. 25-29
+Published by: Vandenhoeck & Ruprecht (GmbH & Co. KG)
+Stable URL: https://www.jstor.org/stable/25683583
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+Vandenhoeck & Ruprecht (GmbH & Co. KG) is collaborating with JSTOR to digitize, preserve
+and extend access to Die Welt des Orients
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:19:11 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+The Ugarit Lexical Text RS 13.53
+By Niek Veldhuis, Groningen*)
+At the time of its publication in PRU III (p. 212 and Planche X) the
+lexical fragment RS 13.53 could not be placed.1) Now that parallel texts
+from Emar have become available, the piece can be fitted into the Mid
+dle Babylonian peripheral tradition and appears to furnish some inter
+esting variants. The following transliteration includes the line numbers
+of parallel Emar entries in the edition by Arnaud (Emar VI/4, pp. 65
+82), with the corrections by Civil (AuOr 7 [1989] pp. 11-14).
+Emar:
+Col r
+1' [gUa]ma7-apin 140'
+2' [giS]nig-apin 141'
+3' [gi?kak]-nig-apin
+4' [gi5sag] -apin 142'
+5' [giikak-s]ag-apin 143'
+6' [ ]-apin
+7' [ -api]n
+Col II'
+1' giMiir- [
+2' 8i5dur- [
+3' giMur-ran-tan 272'
+4' giidur-ki-ta 273'
+5' [giindu8-du8 274'
+6' gis"a-du8-du8 276'
+Rev. Col. I'
+2' gi5SA.TAR- [ 405'
+*) I wish to thank Beate Pongratz-Leisten (Tubingen) and Miguel Civil (Chicago)
+for sharing with me their insights, and for the use of some unpublished material. The
+Old Babylonian Nippur version of ur5-ra 3-7 (GIS), which is quoted at various
+places in this paper, was studied from originals and casts in Philadelphia, Jena, and
+Chicago, and will be edited in my dissertation.
+l) See also Krecher in UF 1 (1969) p. 139.
+Die Welt des Orients 27/1996
+S. 25-29, ISSN 0043-2547
+? Vandenhoeck & Ruprecht 1997
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:19:11 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+26 Niek Veldhuis
+3' gi5SA.TAR-[ 406'
+4' gi5SA.TAR-[ 407'
+5' giSsa?-III (408')
+6' gi5gu-[de?] 410'?(AuOr7, p.13)
+Rev. Col. II'
+1' [giisu-n]ir 318' 463'
+2' [gis"su-n]ir7 318a'AuOr7, p.13) 464'
+3' [gisu4-sa]kar-ra 319' (AuOr7, p.13)
+4' [gi5nam-l]u?-da-ri-a 469'
+(and 264'; AuOr7,
+p. 14)
+5' [g,l]zi-na 475'(AuOr7, p.13)
+Column I has the section gIsapin.2) The reconstruction glsama
+apin for line 1' is supported by the Nuzi tablet SMN 2486 (RA36
+[1939] p.87; MSL6, p.43: V2):
+Emar:
+1 giSeme-apin 139'
+2 ^ama-apin 140'
+3 gis'nig-apin 141'
+4 glskak-nig-apin
+5 gi5sag-apin 142'
+6 gi5kak-sag-apin 143'
+7 gi*su-din-apin 158'
+8 glssudun4-apin 159'! (Emar: su-din-apin = mm)3)
+9 gilkak-sudun4-apin 160'!
+10 [gi5n]ig-PI-apin 144'
+11 [gUh]ar-apin 145'
+12 [gi5mnda-apin 146'
+13 gi^kak-ninda-apin 147'
+14 glsgur-ninda-apin 148'
+The reverse continues with thirteen (illegible) APIN items. The ver
+sions from Nuzi and Emar are basically identical and provide a safe
+basis for the reconstruction of the Ugarit fragment.
+The items glsnig-apin and glskak-nig-apin are not found in the
+late tradition, but do appear in Old Babylonian versions.4) In the bilin
+2) Late version ur5-ra 5, 110-172 (MSL6, pp. 15-20). Old Babylonian versions:
+MSL 6, p. 42 and pp. 146-147 (Nippur).
+3) The Emar variant is erroneous. glssudun(4) is the common Sumerian equiva
+lent of rilru.
+4) In MSL 6, p. 147: 44-45 DAM is to be read NIG (collated). Several new dupli
+cates confirm this reading.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:19:11 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+The Ugarit Lexical Text RS 13.53 27
+gual Emar text glsnig-apin is rendered kalbatum. The line can be con
+nected with an entry in Hg: kusnig = kalbatum = kurussu sa glsapin
+(MSL 7, p. 153: 188). The word probably refers to a leather strap. The
+word with gis determinative may refer to an alternative wooden con
+struction, or the leather strap may have had some wooden part. Simi
+larly, the word for 'whip' (usan) appears in Old Babylonian and Mid
+dle Babylonian lists both as glsusan and kususan,5) apparently be
+cause a whip consisted of both a wooden and a leather part.
+Column II was erroneously read glstukul in PRU III. In the Emar
+version the glsdur6) items follow at some distance from the section
+glsapin.7) This distance corresponds to the positions of the two sec
+tions relative to each other in the Ugarit fragment. In this the Middle
+Babylonian peripheral versions agree with the O.B.Nippur tradition.
+In the late tradition the sections belong to different tablets (tablets 5
+and 7 A respectively). The Ugarit fragment agrees with the Emar ver
+sion in closing the glsdur section with glsdur-an-ta; glsdiir- ki-ta.
+In the Emar text these items are rendered kiskirru elu and kiskirru sa=
+piu. The lines correspond to glssu-es-gar = elu and glsbar-es-gar =
+saplu in late ur5- ra8) (where kiskirru is implied) and to glsdur!-bi
+es-gar and glsbar-bi- es-gar9) in the Old Babylonian Nippur ver
+sion. In both versions these lines close the section glsdur. That in the
+Akkadian rendering in the late version kiskirru is implied is confirmed
+by Nabnltu 25: 166 glsdiir-bi-es-gar = kiskirrum elu (MSL 16,
+p.228).10) In the Middle Babylonian Western tradition the Sumerian is
+assimilated to the preceding section (representing kiskirru with glsdur)
+and to the general patterns of Sumerian-Akkadian translation (repre
+senting elu with an-ta and saplii with ki- ta) .n)
+5) Forku*usan see MSL7, p. 133: 223-224, andp.219f.: 111-114 (O.B.Nippur).
+The item glSusan does not appear in late ur5-ra, but is known from Middle Babylo
+nian peripheral sources (see MSL6, p. 11: VI; Emar 6/4, p.67: 37-42), and from
+O. B. Nippur (unpublished).
+6) gi?dur = kiskirru ('bottom board'). See ur5-ra 7A: 174-205 (MSL6, p.98
+100 and p. 150: O. B. Nippur).
+7) Note that in Arnaud's edition the distance is much too large, since he erro
+neously inserted the sections 'doors' and 'looms' (191'-252'; see Civil, AuOr 7 [1989]
+p. 12).
+8) MSL 6, p. 100: 204-205.
+9) MSL 6, p. 150: 94-95. The sign after gis in line 94 is neither su nor tug, but
+clearly dur (collated; CBS 7152 = SLT23 was joined by me to CBS 7139 = SLT166
+and N 330). The next line on the same tablet reads gls(dur)-bar-bi-es- gar, with
+DUR erased. A few new duplicates confirm this reading of the Nippur version.
+10) This line is quoted in a commentary (transliterated in MSL 6, p. 100).
+1 x) The reason to include the glsdur-bi-es-gar item in the elu section of Nabnl
+tu is exactly this: the paradigmatic translation elu = an-ta does not work here.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:19:11 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+28 Niek Veldhuis
+The Emar version continues with:
+274' du-u^ois = litiktum
+215' minDis = parsiktum
+216' a-Dis = idilitik[ti]
+The object written DIS (litiktu = 'true measure') in Emar appears in
+late ur5-ra VII A: 225-228 (MSL6, p. 103) written gi*sa.Dis or gi%ta,
+both glossed lid-da. This gloss is confirmed by Diri III.12) The line in
+the Ugarit fragment (glsdu8-du8) follows the same (erroneous?) tradi
+tion as the Emar gloss.
+The first column on the reverse lists musical instruments.13) 81ssa.tar
+is read tigidlu, and was borrowed in Akkadian as tigidlu}*) The
+reading tigidlu/ tigidlu (rather than tibulu/ tibulu) is confirmed by
+glosses in the Emar version. The penultimate item of this column was
+copied in PRU III as glsrsan-III. Collation is needed to prove or dis
+prove the more probable reading glssa-III (MSL 6, p. 124: Gap a line
+b). The last item of this column parallels the Emar item kaxim- [, with
+the variant gu-uh?-de. The word is probably identical with glsgu-de
+or glsgu-di, found in literary texts and in ur5-ra 7B, 117 (MSL6,
+p. 125). gIsgu-di immediately follows the glstigidlu section in the Old
+Babylonian Nippur version.
+The first two lines of the second reverse column are tentatively re
+stored glssu-nir (surinnu = 'standard', etc.) . The Emar version has
+two (gls)su-nir15) passages, both repeating the same word three times
+(compare MSL 6, p. 87: 39-41). This reduplication is probably due to
+copying from different Babylonian traditions. The first Emar (gls)su
+nir passage is followed by (gls)u4-sakar16) items. For this passage
+there is a bilingual parallel with syllabic Sumerian from Nuzi.17)
+The second Emar (gls)su-nir passage is almost immediately followed
+12) The evidence is cited by Landsberger in MSL 6, p. 102. See M. Civil, JCS 28
+(1976) p. 76.
+13) The instruments are discussed by Krispijn in Akkadica 70, pp. 1-27. See now
+Kilmer in R1A Band 8 'Musik'.
+u) On giStigidlu see Civil in NABU 1987/48: 'The Tigidlu Bird and a Musical
+Instrument'; and most recently Kilmer in R1A8 'Musik', p.467 (1995). In O.B.Nip
+pur ur5-ra glstigidlu is spelled either glssA.TiR, or glsDi.TAR (unpublished). The di
+(graphically close to sa in O. B.) may be a phonetic indicator. The spelling 81ssa.tar is
+attested in the Isin Craft archive (see Marc Van de Mieroop, Crafts in the Early Isin
+Period [Leuven 1987] p. 151). The spelling glsDi.TAR is found in 'The Slave and the
+Scoundrel' (Martha Roth: JAOS 103 [1983] p.276: 24; reference courtesy M.Civil).
+15) The Emar version regularly omits the gis.
+16) Sinu: object in the form of a crescent. See M. Civil in RA 81 [1987] p. 187.
+17) SMN 2559 (RA36 [1939] p.94). See Civil in RA70 (1976) p.94; RA81 (1987)
+p. 187; and AuOr7 (1989) p.13. A further parallel is found in MSL SS 1,96 col.IV:
+lO'-ll' (O.B.; unprovenanced).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:19:11 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+The Ugarit Lexical Text RS 13.53 29
+by words for devices for hoisting water, including nam-lu-da-ri-a
+(= [d]i-lu-tu). The Sumerian is a garbled version of the O.B. entry
+glsnam-nu-tar-re (MSL6, p. 149: 75) which is found in the same
+context. Curiously, in the late recension the word appears as glsnam
+tar (MSL6, p.65: 153-154). In Emar the passage 'devices for hoisting
+water' is itself duplicated as well (262'-264' and 467-469'). The last
+line of the Ugarit fragment [gls]zi-na corresponds to (gls)z[e-na] in
+the Emar version (see also MSL 6, p. 89: 81). It is rendered kalbdndtu
+in Akkadian ('siege engine').
+If this reconstruction of Rev. Col. II' is correct the evidence shows
+that the Ugarit and Emar versions solved the same problem in different
+ways. The problem was the diversity of traditions. In different Babylo
+nian traditions the same section (e.g. glssu-nir) appeared in different
+contexts. The Emar version chose to duplicate some of these passages.
+The Ugarit scribe seems to have merged the same passages, so that fol
+lowing the glssu-nir items we find lines from the contexts of both the
+corresponding passages in the Emar version.
+Small as the fragment is, it shows in a number of details that the
+Middle Babylonian Western lexical texts basically belong to one tra
+dition. In the reading /duddu/ as against /lidda/, in the word
+glsnam-lu-da-ri-a, and in glsdiir-an-ta - glsdur-ki-ta, this tradi
+tion is opposed to both the late 'canonical' text and to the Old Babylo
+nian Nippur version. At the same time in the order of the sections the
+Emar/Ugarit tradition often goes with the Nippur text against the late
+redaction.
+These interpretational remarks are necessarily provisional as long as
+Ugarit duplicates remain unpublished.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:19:11 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

@@ -1,0 +1,270 @@
+# METADATA
+author: Veldhuis N.
+source_id:Veldhuis1996_TheCuneifo
+title: The Cuneiform Tablet As An Educational Tool!
+Year: 1996
+Source_ID:  Veldhuis1996_TheCuneifo
+Source_Type: Article in Book
+Source_Role,Step_distance: 0,1,2 ,3,4 
+Pages: 11-26 VOL. 2
+Web:  
+Publisher: NEAR EASTERN LANGUAGES AND LITERATURES, DUTCH STUDIES published by NELL, LEIDEN 1996
+
+# TEXT
+
+DUTCH STUDIES published by NELL
+
+Vol. 2 Nr 1
+
+NEAR EASTERN LANGUAGES AND LITERATURES
+
+LEIDEN 1996 
+
+10
+
+DS-NELL VOL. 2, NR. 1 (1996) PP. 11-26 11
+
+The Cuneiform Tablet as an Educational Tool!
+
+Niek Veldhuis, Groningen University
+
+In one of the hymns glorifying Sulgi of Ur, a famous ruler from the twentyfirst century BC, the king introduces himself in the first person. The beginning of the hymn has a biographical arrangement. After mentioning the glorious destiny bestowed upon him at the time of his birth, Sulgi continues
+
+to describe his childhood.
+
+When I was young I learned at school
+
+the scribal art on the tablets of Sumer and Akkad.
+
+Among the high-born no one could write like me.
+
+Where people go for instruction in the scribal art
+
+there I mastered completely subtraction, addition, calculus and accounting. The fair Nanibgal Nisaba ?
+
+provided me lavishly with knowledge and understanding.
+
+Iam a meticulous scribe who does not miss a thing! ?
+
+It is only after this proud description of his school career that his martial education is brought to the fore.
+
+1. The Old Babylonian Scribal School: Sources
+
+The information on school and schooling found in the hymn cited above can be refined and augmented from various kinds of evidence. Most of our information derives from the time of Samsuiluna, about 1730 B.C. This is a few centuries later than Sulgi’s reign, but all extant copies of the hymn cited are in fact from this period.
+
+'This article is based upon the corpus of Nippur lexical tablets which I could study in the collections in Philadelphia, Jena, and Chicago. I wish to express my sincere thanks to the curators of these collections, Prof. A. Sjéberg (Philadelphia), Prof. J. Oelsner (Jena), and Prof. A. Brinkman (Chicago) for their hospitality and cooperation, and for the permission to use their collections for my research. I also wish to express my gratitude to the staff of these institutions, especially Steve Tinney, and Miguel Civil, for many hints and encouragements. Furthermore my thanks are due to the Dutch Organization for Scientific Research and the Faculty of Arts of the University of Groningen for three travelling grants which enabled me to collect the data presented here.
+
+?The goddess of writing.
+
+3The lines are taken from the hymnal text known as Sulgi B according to the reconstruction and translation by Geerd Haayer, to whom my sincere thanks for his permission to utilize his unpublished edition. 
+
+12 N. VELDHUIS
+
+The first source of information is a group of literary texts. These texts are commonly called Eduba compositions, because they have the school, the eduba, and school life as their main theme. Most of them are satirical in mood, and hilarious in character, but still they contain precious information. The teacher is called urmmia. This word is commonly used for craftsmen. Writing is conceived of as a craft. Much like a carpenter instructs his trainee, so the ummia initiates the pupil of the scribal school into the mysteries of cuneiform writing. The pupil is called dumu-é-dub-ba-a. This word also occurs in economic texts but there it seems to refer to a scribe in military service. In colophons of exercise texts we always find the term dub-sar-tur: little scribe. In one of the Eduba texts, baptized Schooldays by Kramer,‘ a whole gang of officials is mentioned. There is an overseer of the court-yard, a keeper of silence, a teacher of Sumerian, and so on, all in all ten different functionaries. Each of these ten finds some reason to punish the poor pupil who is the hero of this story. One might be tempted to find here a complete list of the eduba staff, if not all other evidence would point at extremely small schools, where this short-tempered staff would easily outnumber the pupils. A more plausible explanation, therefore, is that all designations refer to one and the same person, the last in the list: the ummia. It is the ummia who, under various names, gives the pupil a hard time. The only employee, so to say, which can be accepted as probably historical is the Se8-gal, or ‘Big Brother’. He was a more advanced student, who assisted the ummia in his duties.
+
+The Eduba texts confirm that school was not only for learning cuneiform writing. An essential part of the curriculum was the training in the Sumerian language. Sumerian had long been dead by then. It was used only for writing and for scribal education. Knowledge of Sumerian was held to be essential for scribes. A proverb® says:
+
+A scribe who does not know Sumerian, what kind of a scribe is that?
+
+Other topics treated in the school are arithmetic, metrology, literature,
+
+4S.N. Kramer: Schooldays: A Sumerian Composition Relating to the Education of a Scribe. (Philadelphia 1949). Also published in JAOS 69 (1949), pp. 199-215. The most recent translation, with further bibliographic references, is by W.Ph. Romer in Tezte aus dem Umwelt des alten Testaments (TUAT), Volume III/1, pp. 68-77.
+
+5 Proverb collection 2 number 47. See E.l. Gordon: Sumerian Proverbs. Glimpses of Everyday Life in Ancient Mesopotamia (New York 1968), pp. 206-207. A new edition of all proverbs by B. Alster is about to appear.
+
+THE CUNEIFORM TABLET AS AN EDUCATIONAL TOOL 13
+
+and music.® Music is too transient an art to leave much trace to later generations. The few texts on music and musical theory that we have are only there to remind us that the music itself is lost forever. For the other topics Just mentioned we have exercise tablets to give us an idea of how things went on.
+
+A second source of knowledge about the school is archaeology. At various excavations exercise tablets came to light. Generally buildings that yielded such tablets in significant numbers are interpreted as ‘schools’. Old Babylonian schools are found in domestic areas. They are not monumental buildings; in fact they may be rather small. From this it has been concluded that no school could have had much more than 10 pupils. A class with more than 4 was probably large,’ which is one of the few things in which modern cuneiform education resembles theirs. Another point raised by the archaeological context of exercise tablets is the formal status of schools. Are these edubas organized by the state? Or do we have here informal transmittance of knowledge from a scribe to his sons? Sulgi claims to have reformed the eduba, thus providing some support for the former interpretation. However, this evidence is difficult to use, since it appears in a royal hymn, attested only in Old Babylonian copies. One can imagine that the ummias liked the idea of being linked through history with the great king Sulgi. Another argument for an official school is the uniformity of the curriculum.® This is especially true for Ur, Isin, and Nippur. In these cities scribal education was, as far as we can judge, largely identical. The excavations at Tell-ed-Der have given new impetus to the second option.® Here we have a private house, owned by the priest Ur-Utu, in which, for a relatively short time, a school was housed. The most plausible interpretation for the Tell ed-Deér evidence is a kind of private education. A similar situation existed
+
+®The classic overview of the topics treated in the Eduba is A.W. Sjoberg: ‘The Old Babylonian Eduba’, in: AS 20 (1975), pp. 159-179.
+
+"See H. Waetzoldt: ‘Der Schreiber als Lehrer in Mesopotamien’, in: J.G. Prinz von Hohenzollern und M. Liedtke (edd.): Schreiber, Magister, Lehrer. Zur Geschichte und Funktion eines Berufsstandes. Schriftenreihe zum Bayerischen Schulmuseum Ichenhause Zweigmuseum des Bayerischen Nationalmuseums, Bd.8 (Bad Heilbrunn 1989), pp. 33-50. :
+
+®This was argued by I.M. Diakonov: Ljudi goroda ura. Kul’tura narodov vostoka. Materialy i issledovanija. Starovavilonskaja Kul’tura. Vyn. utoroj (II) (Moskva 1990), p. 128.
+
+°M. Tanret: ‘Les tablettes “scolaires” découvertes & Tell ed-Dér’, in: Akkadica 27 (1982), pp. 46-49. For the archaeological context see H. Gasche: La Babylonie au 17° siécle avant notre ére: approche archéologique, problémes et perspectives. MHEM 1 (Gent 1989). 
+
+14 N. VELDHUIS
+
+in Ur.'© The two interpretations may not be as diametrically opposed as it seems at first sight. Education as a completely private enterprise is very improbable. The administrative power of the state, its bureaucracy, was largely dependent on writing. The difference between private and public is a modern one, that we cannot. expect to be present in the same way in the ancient Near East. The bureaucracy was of a kind in which family relations and patronage were of vital importance. In such a constellation the private and public spheres are necessarily interrelated. Ur-Utu may have been an official ummia of an eduba, even though his eduba was at home and was largely populated by his own children. The only thing that made his teaching official is the fact that the education of young scribes was regarded as a task of his organization, and that his work as a teacher was regarded as the implication of this task.
+
+Another important result of the excavation in Tell ed-Dér was the find of Ur-Utu’s basin.!! In this basin a number of exercise tablets were found, together with refined clay. It must have contained water, and was used to keep the clay wet. Old exercise tablets were thrown in to be recycled. A similar basin was found in connection with school tablets in Isin.’?
+
+No doubt the most important find spot of exercise tablets is Nippur. Thousands of tablets were found by the four expeditions organized at the end of the previous century by the University of Pennsylvania. Post World War II campaigns added still more pieces. Useful archaeological reports are only available for these later campaigns. Among the finds in one of the edubas are a wheel of a model wagon - apparently a toy - and several clay plaques. These plaques represent a lion, a male figure and some female nudes. There is, however, little relation with the erotic magazines that schoolboys of our times may leave in their class rooms. The plaques agree in everything with what is found in normal private houses. The finds confirm the domestic character of the so-called schools.'*
+
+The third important source for our knowledge of scribal training is formed by the exercise tablets, the educational tools themselves. So far
+
+1D. Charpin, Le Clergé d’Ur au Siécle d’Hammurabi. (XIX°-XVIII? Siécles av. J.- C.). Hautes Etudes Orientales 22 (Genéve 1986), pp. 485-486. 11See M. Tanret: ‘Les tablettes “scolaires” découvertes & Tell ed-Dér’, in: Akkadica
+
+27 (1982), pp. 46-49. H.Gasche: La Babylonie au 17° siécle avant notre ére: approche |
+
+archéologique, problémes et perspectives. MHEM 1 (Gent 1989), pp. 19-20; 40-41 and Plate 9.
+
+12Isin Nordost-Abschnitt III, siidlicher Teil, Raum 4 (Isin III, Plan 10). This room, and the adjacent one, yielded most of the Isin school texts.
+
+13See the description of house F in in E. Stone: Nippur Neighbourhoods (Chicago 1987), pp. 56-59, with the Object Catalogue in Appendix II.
+
+THE CUNEIFORM TABLET AS AN EDUCATIONAL TOOL 15
+
+exercise tablets have been little used in descriptions of the Old Babylonian eduba. The rest of my argument will be devoted to this corpus, more specifically the Nippur corpus. Nippur yielded so many tablets that we can begin to understand the structure of the local curriculum.
+
+2. Nippur Exercise Tablets
+
+In the first phase of scribal education in Nippur the pupils copied a variety of lists: lists of signs, lists of words, lists of stock phrases, mathematical and metrological lists. These exercises are found on a number of characteristic tablet types. A tablet is not just a lump of clay. Various applications of writing have their own tablet format and tablet lay-out. The typology of school tablets can tell us much about the way texts were used in education, and the order in which they were treated.
+
+The first type is the prism. A prism is a clay object, mostly four or six sided. Each side has been divided into two to four columns. A prism may contain several hundreds of lines. One of the smallest prisms known to me is a six-sided exemplar with only one column per side. The colophon mentions a total of 208 lines.14 We can compute that it must have been approximately 12 cm high. Other prisms may be huge, containing over 600 lines or even more. All prisms had a hole pierced from bottom to top, apparently for turning the text on a stick. In outward form prisms are the most prestigious objects among the school tablets. Still, they cannot be regarded as model texts or teachers’ copies. They are not the flawless examples that we would like them to be. They must have been inscribed by relatively advanced pupils.
+
+The next type is the large tablet, with four to six columns on obverse and reverse. Some of these big tablets have a colophon, showing that they were written by a dub-sar-tur: a scribal apprentice.
+
+Prisms and large tablets together are commonly called Type I texts. A prism generally contains a complete school text, or one full chapter from a series. Prisms are of great help in determining the extent of lexical texts, and their division into chapters. Each chapter is concluded by the conventional subscript ¢nisaba za-mf: Nisaba (the goddess of writing) be praised! The large tablets, in contrast, may contain half or a third of such a chapter. In such cases only the last tablet of the set ends with the 4nisaba-za-mi phrase. The other tablets have a catch-line instead; that is the first line of the next section.
+
+14HS§ 1801: TU-TA-TI exercise. 
+
+16 N. VELDHUIS
+
+More interesting for my subject are the so called Type I/ tablets. These are relatively large though considerably smaller than Type I pieces. On the left side of the obverse the teacher has written a short extract from a school text in large calligraphic script. It has 6 to 30 lines. The right half of the tablet is inscribed by a pupil who copied the teacher’s example. In most cases the right half is divided in two or more columns, so as to allow for several copies. When finished, the pupil would erase his work and repeat the same exercise another time. This process could be repeated several times. Since only the right half, the pupil’s half, was erased each time, this side became thinner and thinner, and the tablet weakened. Therefore nowadays in the majority of cases these tablets are broken in half, so that either the right half or the left half is preserved. Sometimes the tablet was cut in two deliberately, in order to preserve the teacher’s model.
+
+The reverse of a Type I tablet is divided in 3 to 5 columns. Here a pupil has copied a long extract, 60 to 150 lines, from a school text. This exercise is a repetition of a subject treated before. Since Type II tablets are available in large numbers, this point can be proven easily. One such tablet has an extract from the list of trees on both sides. The obverse has a passage from the section date palm. The reverse begins at the first line of the tree list. At the point of the list where the obverse ends, the reverse starts over again at line 1. In another comparable example, the pupil broke off his list at the point where the obverse ended, and then continued with a list of names. We know that this list of names was treated before the trees.
+
+Type III tablets are single column tablets. They contain a single exercise, which may continue from the obverse to the reverse. Type III extracts have approximately the same length as Type II obverse extracts. As noted above, the teacher’s example of a Type II tablet was sometimes cut off deliberately. The model text could be reused by a pupil for making more copies. Type III tablets are probably the result of this secondary use.
+
+Last but not least there are the round school tablets or lentils, also called Type IV tablets.® There is some variety in the way these lentils were used, but all of them contain a teacher’s example of two or three lines which are copied by a pupil. On the face of it the idea behind the lentils is quite clear: learning through imitation. But this function is covered by Type II tablets in a much more efficient way. Type IV tablets are often well formed and most of them show no traces of erasure or re-use. Perhaps these are the writing examples that were brought home to show one’s progress to mum
+
+154 relatively complete catalogue of Old Babylonian lentils from Nippur is R.S. Falkowitz: ‘Round Old Babylonian School Tablets from Nippur’, in: AfO 29-30 (1983-84), pp. 18-45.
+
+THE CUNEIFORM TABLET AS AN EDUCATIONAL TOOL 17 and dad.
+
+3. The Elementary Curriculum at Nippur
+
+As argued above, Type II tablets have on their obverse a new exercise, and on the reverse a repetition of something studied before. For that reason the distribution of the various school compositions over obverses and reverses of Type II tablets must yield a clear pattern. In essence that is indeed the case. From this pattern we can reconstruct the order in which school compositions were taught. The basic tool for this reconstruction is a database, in which I have entered all Nippur Type II texts I could find, indicating the contents of both sides.1®
+
+The picture that can be gained from this is as follows. The most elementary exercises we have are simply exercises in using a stylus. These tablets show repetitions of the basic strokes from which every sign is composed: the single vertical (DIS), the single horizontal (AS), and the oblique wedge (U), occasionally combined in simple signs like BAD or A. The first real list that a pupil had to copy was Syllable Alphabet B. Syllable Alphabet B is the conventional name for a list of signs that begins A A, A A A, ME ME, etcetera. A number of frequent signs are exercised in all kinds of combinations.
+
+In many cases we find Syllable Alphabet B on both sides of a type II tablet. In the University museum in Philadelphia there are a few tablets which have this list on the obverse, and an exercise in sign elements on the reverse. In all cases the obverse has the very beginning of Syllable Alphabet B. What we have here are the very first steps on the path of writing.
+
+Syllable Alphabet B-was followed by TUTATI. TUTATI is a list of syllabic signs. It consists of sets of three syllables with permutation of the vowel, in the order u-a-i. The list begins with TU, TA, TI, TU-TA-TI, NU, NA, NI, NU-NA-NI. Simple as this list may seem, for the modern
+
+'®The database now contains 1499 Nippur Type II tablets. Of these 940 have preserved text on both obverse and reverse. In 74 cases either the obverse or the reverse is unidentified. The remaining 866 pieces could be used for the present analysis. The core of the database was formed during a stay of three months in the collection of the University Museum of Philadelphia, where all Type II tablets present were checked. During a short stay in Jena I could inspect a small number of relevant tablets. Moreover I was allowed to use Oelsner’s handwritten catalogue of Nippur lexical texts in Jena. I wish to take the opportunity to express my sincere thanks to Prof. Oelsner for his permission. To a smaller extent the database contains tablets from the 2N-T and 3N-T collections studied in original or from casts in the Oriental Institute in Chicago. Lastly the catalogue contains published texts which I was not able to collate, especially those kept in Istanbul. 
+
+18 N. VELDHUIS
+
+investigator it offers all kinds of surprises. There existed a standardized TUTATI version, and most exercise texts follow this standard version to a greater or lesser degree. But TUTATI can also be regarded as a grid, a pattern to play with. Besides the standard version, we find all kinds of TUTATI exercises, which use the u-a-i pattern in their own way. Some exercises follow a completely deviant order. Other texts include syllable triads unknown to the standard text, such as TUR-TAR-TIR, or NUNNA-AN - NIN. A few even do away with the u-a-i pattern and only use the analytic structure for Akkadian words or phrases. First the words are given sign by sign, then the word is repeated in its entirety. Thus ana sdsim is written in six lines: A; NA; SA; SI; IM; ana sd3im. This freedom that one may find in various degrees when looking through TUTATI texts is no doubt related to the relative emptiness of its entries. TUTATI does not mean anything; the pattern is everything and you can easily invent your own exercise. It is important to understand the textual nature of TUTATI, because it illustrates something that is at work in most, if not all lexical texts. In varying degrees all Old Babylonian lexical texts are flexible. The standardized text is not more than the bare bones of the text as it actually functioned in class. It could be modified, changed a little bit, you could add a few more items, all following the same basic pattern that was yielded by the standard text. This freedom was nowhere so great as in TUTATI. But it is important to keep in mind that every edition of an Old Babylonian lexical text freezes something that basically is in motion.
+
+The training continued with lists of personal names: Akkadian names, Sumerian names, and foreign names. Unfortunately the lists of personal names are not edited in a way that they can be used easily for this kind of research.!” There were at least three such lists, and they had probably different places in the curriculum. The ability to write names is of the highest importance for a would-be bureaucrat. Most of the texts he will write in his future life will be business documents, consisting of ever the same formulas. The names of the persons involved, however, are not predictable.
+
+Next came a series of thematic lists called urs-ra = hubullu. This series consists of long strings of Sumerian words arranged by subject. In Old Babylonian Nippur it was divided over six chapters, as follows:
+
+1’Nippur name lists were edited by E. Chiera: PBS XI/1-3 and M. Cig and H. Kizilyay: ‘Additions to Series B and C of Personal Names from Old Babylonian Nippur’, in: AS 16 (1976), pp. 41-56.
+
+THE CUNEIFORM TABLET AS AN EDUCATIONAL TOOL 19
+
+Chapter | Contents Corresponding tablets in late urs-ra trees and wooden objects reed and reed objects; vessels and clay; hides and leather objects; metals and metal objects
+
+domestic animals; wild animals; meat cuts.
+
+stones and plants; fish and birds; clothing.
+
+geographical names and terms; stars.
+
+foodstuffs
+
+In later periods the same series is expanded to 24 tablets and. augmented with Akkadian translations for each Sumerian term. The label urs-ra = hubullu is derived from the incipit of this late version.'® There are sufficient indications to assume that Old Babylonian urs-ra was already bilingual in format. Yet the Akkadian translation was never written down. The translation and the proper pronunciation of the Sumerian terms were explained orally by the teacher. Both were no doubt learned by heart. The copies of the exercise tablets we have were mostly made by beginning pupils, who had little knowledge of Sumerian. Without translation and pronunciation aids, the texts simply make no sense. ,
+
+After urs-ra the pupils started with Proto-Ea. This is a sign list that gives for each sign all possible Sumerian readings. It was formerly thought Ka belonged with TUTATI and Syllable Alphabet B to the very first phase of scribal training. The distribution over Type II tablets shows that this is not the case: urs-ra was treated first. Together with Ea the pupils started to copy metrological and mathematical lists. Mathematical lists are the conventional name for tables of multiplication and reciprocals. They are, to be sure, more arithmetic than mathematic in character. Metrological tables list quantities of weight, capacity, area and so on in the proper measurement system. After Ea a number of other lists are treated; the most important of these is Diri. Diri gives Sumerian readings and Akkadian translations of compound signs. The list is called after the first entry: the compound sign
+
+18The first millennium, so-called ‘canonical’ version of the series is edited in Materials for the Sumerian Lezicon (MSL), Vols. 5-11. In most volumes the Old Babylonian Nippur version is included as one of the ‘forerunners’. The editions always follow the arrangement of the series in the late version, so that in some cases the edition of a single chapter of the Nippur text is divided over various volumes of MSL. 
+
+20 N. VELDHUIS
+
+SI + A is read diri, Akkadian wataru. A number of other lists in this phase of the curriculum can not be sequenced precisely, because the number of available Type II tablets is too scanty to come to definitive results. These include the so-called acrographic lists, Proto-Izi, Proto-Kagal and Nigga, so called because they are ordered by the first sign of the entries.'? A more practically oriented list treated in this phase is Proto ana ittigu. This list gives a hodge-podge of words and phrases relevant to business documents mixed with laws.?° Parts of this list can also be regarded as grammatical exercises, containing short paradigms of Sumerian verbal forms:
+
+in-sum he gave in-na-an-sum he gave to him in-na-an-sum-me-es they gave to him in-dabs he took in-na-an-dabs he took for him [in-na-an-dabs -e§] [they took for him] in-lag he payed
+
+_ in-na-an-lag he payed him in-na-an-lag-me-es they payed him
+
+After all these lists there follow two other groups of texts: model contracts and proverbs. Model contracts are normal contracts, in Sumerian, with date and witnesses omitted. They are strung together in collections. These collections contain contract types which are very common in the actual business practice, but also other ones which rarely or never show up among daily life texts. Proverbs are found in thematically ordered collections. More than 25 such collections have been identified, but only a few are actually found on Type II tablets. Besides real proverbs we find there short stories and animal fables.”!
+
+The compositions discussed so far are found on all tablet types described in section 2. There is a marked difference with another group of texts used in school: the literary exercises. Literary tablets have their own typology, but this typology differs fundamentally from the typology of the lists. Type II texts and lentils (Type IV) almost completely disappear.
+
+19These lists were published by M. Civil in Materials for the Sumerian Lexicon 13, where a detailed discussion of their nature and history can be found.
+
+204 number of tablets containing the beginning of this list were published by Martha Roth: Scholastic Tradition and Mesopotamian Law: A Study of FLP 1287, a Prism in the Collection of the Free Library of Philadelphia. Dissertation Univ. of Philadelphia (Ann Arbor 1979), pp. 291-301. A number of additional duplicates allows the reconstruction of approximately the first hundred lines of this composition.
+
+21See B. Alster’s forthcoming edition of all the Proverb Collections.
+
+THE CUNEIFORM TABLET AS AN EDUCATIONAL TOOL 21
+
+There are a few significant exceptions. A number of Type II tablets have on the obverse a few lines from a literary text, and on the reverse a lexical list. Similarly there are some lentils with literary excerpts. In many cases the text excerpted is a hymn to the Isin king Lipit-Estar. We know that this text belonged to the earliest examples of Sumerian literature that were _ copied in the eduba.?* Another text found on Type II tablets is Enlil and Namzitarra, a kind of short story that also may well have functioned as an introduction into literary Sumerian.?* Literary Type II tablets belong to a transitional category. The transition from the one tablet typology to the other coincides with the transition from relatively simple lexical exercises to literary texts. Very probably this transition marked the entrance into a second phase of scribal education. Type II tablets belong to elementary school. They cover exercises from the first strokes to the first sentences. Literary texts represent advanced learning. We should not underestimate the importance of this change in tablet types. The formats in use for literary compositions have no example text by the teacher. The pupil had to do his exercises in a more independent way. This absence of the teacher’s model has both a practical and a symbolic side: now the pupil, writing his exercise, is left on his own.
+
+A reflection of the first phase of scribal education is to be found in a literary text commonly labelled Eduba D. In the first part of this text, recently edited by Civil,”4 a pupil recounts what he has learned. Among the texts he mentions are Syllable Alphabet B, perhaps TU-TA-TI, a thematic list, a list such as Ea or Diri, metrological and mathematical tables, several model contracts, and probably proverbs. This is exactly the range of compositions found on Type II tablets and on lentils, more or less in the order as reconstructed above. The story seems to be about a pupil who just finished elementary school.
+
+4. The Structure of the Nippur Curriculum
+
+Now that we are able to list the early part of the curriculum, we can also investigate its structure. All lists and compositions that were used have
+
+22.L.J. Vanstiphout: ‘Lipit-Estar’s Praise in the Edubba’, in: JCS 30 (1978), pp. 33-61; and idem: ‘How Did They Learn Sumerian?’ in: JCS 31 (1979), pp. 118-126.
+
+23M. Civil: ‘Enlil and Namzitarra’, in: AfO 25 (1977), pp. 65-71.
+
+24M. Civil: ‘Sur les “livres d’écolier” 4 |’époque paléo babylonienne.’ in: Jean-Marie Durand et Jean Robert Kupper (edd.): Miscellanea Babylonica. Mélanges offerts 4 Maurice Birot (Paris 1985), pp. 67-78. 
+
+22 N. VELDHUIS
+
+their own characteristics. Syllable Alphabet B is, in fact, without content. Landsberger maintained that the list contains elements of personal names.” I believe this theory can explain only a part of the evidence. More importantly, it does not take into account the main characteristics of the text. These include the repetition of the same common signs in ever new combinations and the oversized kind of writing in most exemplars. Evidently the idea behind it is to exercise the correct shape of each sign. The list therefore begins with very simple signs like A, ME, and PAP.
+
+Semantically speaking the second list, TUTATI, is also empty. But here the main principle is not form, but sound. As explained above Akkadian words are utilized in some versions of the exercise. It is tempting therefore to conclude that TUTATI is primarily directed at a training in writing Akkadian. This interpretation, however, cannot be entirely correct. Some of the syllables in TUTATI are only relevant to Sumerian writing. Other syllables, necessary for Akkadian, are missing. Both Syllable Alphabet B and TUTATI are independent of language. The students had not started with Sumerian yet. They had to control the writing system, quite apart from the language it had to convey.
+
+The first. Sumerian words appear in the lists of names. These words may actually have beeen familiar to the pupils, since Sumerian names were common in Nippur. In working through urs-ra, the thematic lists, the student gradually and systematically built a Sumerian vocabulary. Name lists are one-dimensional. Names are not translated. Sumerian names appear in Sumerian in Akkadian texts and vice versa. Urs-ra is a two dimensional list. Each Sumerian word is provided with its Akkadian translation. The curriculum therefore shows an increase in complexity. Most interesting is the position of Proto-Ea and Proto-Diri in the curriculum. The two lists elaborate on two specific aspects of the writing system: polyvalency and compound signs. When pupils started to study Proto-Ea and Proto-Diri, they had already encountered numerous examples of polyvalent and compound signs in the lists of names and in urs-ra. For the modern scholar Ea and Diri are reference works of basic importance. They are almost the only entrance available to elementary aspects of the Sumerian writing system. For a pupil of the Nippur eduba things were different. He had a teacher to explain the intricacies of the system. He did not need a specialized list to learn that 8®KU can be a tree, read ®*taskarin, or a bottom board, read %8dur2, or a mace, read ®*tukul. Pronunciation and translation belonged to the oral explanation provided in class. Proto-Ea and Proto-Diri, therefore,
+
+25See the contribution by B. Landsberger in M. Cig and H. Kizilyay: Zwet altbabylonische Schulbticher (Ankara 1959).
+
+THE CUNEIFORM TABLET AS AN EDUCATIONAL TOOL 23
+
+do not introduce polyvalency or compound signs as something new. They systematise something long familiar from practice, and put it on a higher level of abstraction. .
+
+Only in the last part of this educational phase were the pupils confronted with real sentences. These occur in the model contracts, the proverbs, and to some extent in Proto-ana ittigu. The proverbs prepare for the next curricular stage: the literary education.
+
+5. The Goals of Scribal Education in Nippur
+
+Educational tools and subject matter only appear in their appropriate perspective when we gain some clarity about the goals of education. Generally Babylonians were not very articulate when it came to theoretical issues. In all the material we have there is simply nothing about the goals of the eduba. What we can do, however, is making a comparison between the texts a scribe studied as a pupil and the texts he wrote later in his career. On the one hand we notice that a scribe learned far too much. A scribe had to be able to write contracts and business documents. For that he needed some vocabulary in Sumerian. But a considerable part of the words he had learned in the lexical lists was obscure, obsolete, or for other reasons of no practical use. If we take into account the literary exercises the burden of ‘useless’ knowledge a scribal pupil had to digest is all the more impressive. At the same time a student learned too little. In the Old Babylonian period a number of text types, especially letters and court proceedings were written in Akkadian. Various lists, especially TUTATI and the list of Akkadian names have some relevance for literacy in Akkadian. But none treats the Akkadian writing system exhaustively nor even at any significant length. There are to be sure a number of Akkadian exercise letters. These letters can be identified as exercises, because they duplicate each other but for address and sender.*° However, those excavations that clearly hit. an eduba, in Nippur, Ur and Isin, yielded not more than one or two Akkadian exercise letters.2” These texts, in other words, may either belong to another edu26F R. Kraus: ‘Briefschreibiibungen im altbabylonischen Schulunterricht’, in: JEOL 16 (1964), pp. 16-39.
+
+"In addition to the letters discussed by Kraus, there are two fictitious Sargon letters. One is from Nippur (unpublished) and one from Ur (UET 7, 73). The second was translated by B. Foster in Before the Muses, p. 105. Both will be edited by Joan Goodnick-Westenholz in Legends of the Kings of Akkade: The Terts (Winona Lake, IN forthcoming). Contents and style of the Sargon letters are unlike the more ordinary 
+
+24 N. VELDHUIS
+
+cational tradition, or were used as on-the-job exercises. After getting your certificate you start learning the real things. I believe this is still a normal situation. Writing Akkadian, the form and lay-out of Akkadian texts, receive at school at the most cursorily, but certainly no structural attention.
+
+Too-much and too-little both reflect the prestige of written Sumerian. As it seems, to hand down the Sumerian language and tradition as completely as possible was considered to be all-important. On the other hand it was not deemed necessary to pay special attention to writing in Akkadian. It is well possible that they did not distinguish between Akkadian and Sumerian as sharply as we do. This supposition may seem strange, for nobody would take Sumerian for Akkadian if he heard it spoken. But then again, one would not hear it spoken, because Sumerian was only written. And on the level of writing Sumerian and Akkadian are not always easily kept apart.
+
+Old Babylonian business documents from Nippur are nearly always in Sumerian. They differ from Akkadian letters in that their contents are highly predictable. An adoption contract has a fixed structure, a sales contract for a house has another one. The fixed frame is Sumerian. One can think of it as a form, to be filled out with names and numbers. Some documents, such as divisions of property or inheritance may contain a somewhat larger vocabulary, including all kinds of objects. Occasionally we find in a business document all of a sudden one Akkadian word or phrase. A good example of this is an adoption contract, edited by Stone.”® The closing formula before the list of witnesses reads as follows: ‘Ipqu-Damu, his father, and all his heirs, have written this tablet in mutual agreement.’ The regular formula in Nippur adoption contracts is: ‘In mutual agreement they swore by the name of the king.’ The oath by the name of the king is also found in other types of contracts and, as far as I know, always phrased in Sumerian. In order to produce this less common phrase the scribe switched to Akkadian.
+
+We might be tempted to conclude that these contracts are not in Sumerian at all. They use Sumerian writing, but are really meant to represent the corresponding Akkadian sentences. For several reasons I think this solution will not do either. In the first place the Sumerian verbs are fully inflected. Where appropriate, proper plural forms are used. Even though not entirely unthinkable, this would be highly unusual in the traditopics treated in the exercise letters studied by Kraus (see previous note).
+
+28E.C. Stone and D.I. Owen Adoption in Old Babylonian Nippur and the Archive of Mannum-meéu-lissur. MC 3. (Winona Lake, Indiana 1991), no. 10. On this text see M. Van de Mieroop in JCS 43-45 (1991-1993), p. 126.
+
+THE CUNEIFORM TABLET AS AN EDUCATIONAL TOOL 25
+
+tion of Akkadian writing, and without parallel. In the second place every now and then we find unorthographic representations of Sumerian words. One may find a SAM instead of SAM}. This can only be explained from the Sumerian point of view. The scribe must have realized the pronunciation of the Sumerian word to be able to make this error. These Old Babylonian business documents from Nippur are, therefore, both Sumerian and Akkadian at the same time, or neither of them if you like. Basically they are in cuneiform. This cuneiform is probably first of all Sumerian writing. But where appropriate or convenient the scribe can easily switch to Akkadian. The fact that some Akkadian words can be written with Sumerian signs makes such a switch in the written language all the more easy and natural. The lists with their one-to-one correspondences between Sumerian and Akkadian words and phrases suggest that the two are simply exchangeable. When it comes to writing, Sumerian and Akkadian are two sides of the same coin. Between Sumerian and Akkadian writing a continuum exists.
+
+Literacy is not just a matter of practical utility. Written language has important moral and prestigious elements. In the Dutch context that is demonstrated every ten years, when a new committee comes with new proposals to reform some of the weirder rules of Dutch spelling. This invariably results in bitter conflicts between traditionalists and populizers, to give them a superficial label, and ends in ponderous compromises which are no doubt impossible to explain to elementary school pupils. It comes as no surprise that the education in the Eduba is addressed to the highest level of the continuum: Sumerian literacy. With all this the curriculum does not gain much in its utility for the later professional career of our scribe. But that, I believe, is of small importance. Education, in the words of Bourdieu,”? is an investment in cultural capital. Education is distinction. That scribes considered themselves to be higher and better than illiterate people is felt in Sulgi’s description of his own school days.°° This distinction was certainly as important as the technical skills. Bureaucracy depended on loyal scribes. Noblesse oblige; distinction through education was certainly one means to create such a loyal group of scribes.?!
+
+2°Pierre Bourdieu: La distinction: critique sociale du jugement. (Paris 1979). English translation : Distinction: a Social Critique of the Judgement of Taste(London 1984).
+
+3°For the professional pride of the Old Babylonian scribes see J. Hgyrup: ‘Mathematics and Early State Formation, or the Janus Face of Early Mesopotamian Mathematics: Bureaucratic Tool and Expression of Scribal Professional Autonomy.’ In: idem: In Measure, Number, and Weight. Studies in Mathematics and Culture (Albany N.Y. 1994), pp. 45-87.
+
+3!See P. Michalowski: ‘Charisma and Control: On Continuity and Change in Early Mesopotamian Bureaucratic Systems’, in: M. Gibson and R.D. Biggs (edd.): The Or- 
+
+26
+
+It may be somewhat churlish or Machiavellistic to end here. The interest of the state, as I have interpreted it here, was served, however, in a way that did justice to such basic human desires as thirst for knowledge and pleasure. That appears first of all from the deep, insightful and humoristic literary texts treated in the second phase of the Eduba. But that is another story.
+
+ganization of Power. Aspects of Bureaucracy in the Ancient Near East. SAOC, No.46, pp. 45-57 (Chicago, 1987;19917).
+
+27
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

@@ -1,0 +1,587 @@
+# METADATA
+author: Brigitte L.
+source_id:Brigitte2009_LesFemmesS
+title: Les Femmes Scribes De Sippar
+Year: 2009
+Source_ID:  Brigitte2009_LesFemmesS
+Source_Type: Article
+Source_Role,Step_distance:2 ,3,4 
+Pages: 289-303
+Web: https://www.persee.fr/doc/topoi_1764-0733_2009_act_10_1_2669
+
+
+# TEXT
+
+Topoi. Orient-Occident.
+Supplément
+Les femmes scribes de Sippar
+Brigitte Lion
+Citer ce document / Cite this document :
+Lion Brigitte. Les femmes scribes de Sippar. In: Topoi. Orient-Occident. Supplément 10, 2009. Femmes, cultures et
+sociétés dans les civilisations méditerranéennes et proche-orientales de l’Antiquité;
+https://www.persee.fr/doc/topoi_1764-0733_2009_act_10_1_2669
+Fichier pdf généré le 01/02/2022
+LES FEMMES SCRIBES DE SIPPAR
+À l’époque paléo-babylonienne (début du IIe millénaire av. J.-C.), les textes
+de Sippar, ville située à une trentaine de km au sud-ouest de Bagdad, révèlent
+plusieurs noms de femmes scribes. Ce phénomène a été remarqué il y a déjà plus
+d’un siècle par le Père Vincent Scheil, qui écrivait en 1902 : « Je connais un seule
+(sic) exemple d’une femme scribe. Une tablette (kiṣri) de Constantinople, Sip.
+564, termine sa liste de témoins, comme il arrive souvent, par le nom du scribe. Ce
+scribe et (sic) ici geme-dba-ú mí dup-šar, Amat-Bau (ou servante de Bau) dame-
+2
+scribe » 1.
+Rivkah Harris, bien des décennies plus tard, a donné une liste de femmes
+scribes de Sippar qui dépasse de loin l’unique exemplaire du P. Scheil et que
+quelques publications postérieures permettent de compléter 2. Deux études ont été
+consacrées à ces femmes, l’une par R. Harris, l’autre S.A. Meier 3. Ayant déjà
+étudié le dossier de textes rédigés par Inanna-ama-mu, la scribe ayant laissé le plus
+grand nombre de documents 4, je souhaite compléter ici ce travail par la recension
+systématique des tablettes de Sippar écrites par des femmes. L’établissement de ce
+corpus permet d’étudier la façon dont elles se désignent et la nature des documents
+qu’elles rédigent.
+1. Scheil 1902, p. 31. Cette tablette a été transcrite et traduite par Scheil 1902, p. 135-
+136, puis par Friedrich 1906, p. 419 et 488, n° 8 (copie) ; elle est citée ci-après BA 5
+488. La scribe s’appelle en fait Amat-Mamu.
+2. harriS 1963, p. 138-139 , harriS 1975, p. 196-197 ; Stol 1976, p. 152 ; dekiere
+1994a, 1994b ; al-rawi et dalley 2000.
+3. harriS 1990, Meier 1991 (dans cette dernière étude, il faut supprimer CT 4 50a des
+références données à la p. 541, n. 10 : le scribe de cette tablette est un homme). Voir
+également Pearce 1995, p. 2266.
+4. lion 2001.
+Topoi Suppl. 10 (2009)
+p. 289-303
+290 b. lion
+La présence de femmes scribes est spécifique à la ville de Sippar 5. Elle
+s’explique probablement par la présence dans cette ville d’une catégorie de femmes
+particulière, les nadītum consacrées au dieu Šamaš 6 : mariage et procréation
+leur sont interdits, et elles vivent à proximité du temple dans un quartier clos de
+murs que les textes désignent sous le nom de gagûm, terme traduit, sans doute
+improprement, par « cloître ». La volonté de limiter les contacts masculins de ces
+femmes a peut-être conduit à recourir aux services de scribes de sexe féminin, qui
+travaillent pour elles, rédigeant leurs contrats ou prenant en note les procès dans
+lesquels elles sont impliquées et qui se déroulent souvent dans le temple de Šamaš.
+Mais l’examen des parties concluant des contrats ou s’opposant lors des procès
+montre une réalité un peu plus complexe.
+1. Les tablettes rédigées par des femmes : constitution du corpus
+Le tableau ci-dessous présente une liste des femmes scribes et des textes
+qu’elles ont rédigés, classée autant que possible par ordre chronologique. R. Harris,
+en 1975, répertorie 12 femmes, auxquelles on peut attribuer la rédaction de 24
+documents. M. Stol, en 1976, dans son compte rendu de l’ouvrage de R. Harris,
+ajoute 5 autres textes, ce qui porte le total à 29. Depuis plus de trente ans, les
+publications ont permis d’accroître ces chiffres : on connaît désormais 18 noms de
+femmes scribes, qui ont indiqué leur profession sur 36 documents et la liste n’est
+évidemment pas exhaustive.
+Scribe Date Textes Nature de l’acte
+Tulid-Šamaš fille Immerum MHET II,1 7 achat d’une maison
+d’Akuki
+Šāt-Aya Immerum CT 8 47b achat de champ
+= MHET II,1 8
+? CT 45 93 procès
+Nig-Nanna Immerum et van lerberghe 1982 litige
+Sumu-la-El
+5. Cf. Sjöberg 1976, p. 177. Il faut cependant ajouter, à la même époque, la
+documentation de Mari, où des femmes scribes sont attestées dans le palais, cf.
+Ziegler 1999, et celle de Chagar Bazar où une scribe, Abī-lībura, apparaît aussi
+parmi le personnel palatial, cf. talon 1997.
+6. Voir dans ce volume la contribution de Lucile Barberon, « Les documents d’archives
+des religieuses en Babylonie ancienne. Usage, transmission et conservation »,
+p. 273-288.
+leS FeMMeS ScribeS de SiPPar 291
+Scribe Date Textes Nature de l’acte
+Inanna-ama-mu Buntahtun-ila Waterman BDHP 31 procès
+fille (enveloppe CT 45 1)
+d’Abba-ṭābum Buntahtun-ila Al-Rawi-Dalley 118 achat d’esclave
+Sumu-la-El BE 6/1 7 accord sur un champ
+Sumu-la-El CT 8 28b non revendication
+Sumu-la-El CT 8 44a achat de terrains
+(enveloppe CT 48 31)
+Sumu-la-El CT 48 30 procès
+Sumu-la-El CT 8 28a procès
+= MHET II,1 17
+Sabium CT 47 1 attribution d’un champ
+? CT 33 43 contrat de fermage
+? MHET II,5 784 contrat de fermage
+Amat-Šamaš Sumu-la-El CT 45 2 achat d’un terrain
+Apil-Sîn 12 CT 45 11 héritage
+(env. TLB 1 230)
+Apil-Sîn 13 CT 6 46 achat de champ
+Nin-bantuk Apil-Sîn TLB 1 220 non contestation
+Sîn-muballiṭ MHET II,1 107 achat de champ
+Ayatum Sîn-muballiṭ 16? CT 8 45a achat d’esclave
+Erištum Sîn-muballiṭ “a” MHET II,1 129 achat d’un terrain en
+friches
+Manaya Sîn-muballiṭ 20 CT 48 52 mariage
+Sîn-muballiṭ CT 48 56 mariage
+Sîn-muballiṭ VS 8 55 affranchissement et
+donation d’esclaves
+Šîma-ahāti Hammu-rabi 16 MHET II,2 187 contrat de fermage
+Amat-Mamu Hammu-rabi 28 BA 5 488 location d’un esclave
+Samsu-iluna 30 BDHP 72 mariage
+Abi-ešuh “k” CT 6 24b contrat de fermage
+Aya-kuzub- Hammu-rabi 32 MHET II,2 247 contrat de fermage
+mātim Samsu-iluna 2 CT 8 46 héritage
+Amat-Bēltim Hammu-rabi 35 MHET II,2 262 contrat de métayage
+Šamuhtum Hammu-rabi 40 MHET II,2 278 contrat de fermage
+Mannašu Samsu-iluna 1? BM 80397 (inédit) achat d’esclave
+Muhaddîtum Samsu-iluna 4 CT 47 55 et 55a location d’un esclave
+Iltani Samsu-iluna 7 CT 47 59 contrat de métayage
+292 b. lion
+Scribe Date Textes Nature de l’acte
+Nin-azu ? CT 6 35a contrat de fermage
+Tableau 1
+Les dates des documents montrent que l’activité des femmes scribes est
+fort bien attestée à Sippar avant même le passage de la ville sous domination
+babylonienne, puis sous les premiers rois de la dynastie de Babylone, et jusqu’à
+Samsu-iluna. Mais elle disparaît presque complètement à l’époque paléo-
+babylonienne tardive : une seule tablette, rédigée par Amat-Mamu, date du règne
+d’Abi-ešuh, et aucune des règnes de ses trois successeurs.
+2. Problèmes méthodologiques
+Si près d’une vingtaine de femmes scribes sont à ce jour identifiables, le
+nombre de documents attribuables à chacune d’elle est très faible : souvent une
+unique tablette ou enveloppe, parfois deux ou trois, sauf dans le cas d’Inanna-ama-
+mu. Cela signifie qu’une infime partie du matériel rédigé par ces femmes a été
+retrouvé. Cela vaut aussi pour les hommes : M. Tanret a récemment recensé 173
+tablettes écrites par Šumum-liṣi 7, dont 151 trouvées dans la maison des lamentateurs
+à Sippar Amnānum, sur une période de 18 ans... ce qui correspond à une moyenne
+d’une dizaine de tablettes par an. On ne peut imaginer qu’une personne ayant
+suivi des années de formation, et se définissant comme un(e) professionnel(le) de
+l’écriture, n’ait rédigé dans sa vie que quelques textes, voire une dizaine par an. Il
+faut donc supposer une production beaucoup plus abondante.
+Un autre point à prendre en considération est l’existence de nombreux textes
+sur lesquels les scribes n’ont pas indiqué leur nom. Cela peut tenir au type de
+document : ainsi les lettres ne portent pas mention du scribe ; or rien n’interdit de
+penser qu’une partie de la correspondance a été rédigée par des femmes, surtout
+dans le milieu des nadītum de Šamaš. Dans les contrats et les comptes rendus de
+procès, le (la) scribe donne parfois son nom, mais pas toujours ; il (elle) peut tout
+simplement l’omettre, ou l’inscrire parmi ceux des témoins mais sans préciser son
+métier.
+Il arrive qu’une tablette et l’enveloppe correspondante aient été conservées,
+mais on ne peut pas toujours les comparer, pour des raisons diverses : enveloppe
+7. tanret 2004. Cet auteur note aussi qu’en dehors des archives des lamentateurs, on
+ne connaît pour l’époque paléo-babylonienne qu’une vingtaine de scribes de Sippar
+auxquels on puisse attribuer la rédaction de plus de dix textes (p. 33).
+leS FeMMeS ScribeS de SiPPar 293
+inédite (CT 8 45a 8, Ayatum) ou non ouverte (CT 6 46 9, Amat-Šamaš ; MHET II,
+2 247 et CT 8 46, Aya-kuzub-mātim), texte de la tablette caché dans l’enveloppe
+(MHET II,2 187, Šîma-ahāti) ; la partie de l’enveloppe où devait se trouver le nom
+du scribe est parfois perdue (MHET II,1 7, Tulid-Šamaš ; CT 8 47b = MHET II,1
+8, Šāt-Aya ; TLB 1 230, Amat-Šamaš ; CT 47 55a, Muhaddîtum ; probablement
+CT 48 56, Manaya). Lorsque les deux documents sont conservés, publiés et en
+assez bon état pour permettre une comparaison, on constate que les informations
+contenues sur la tablette et son enveloppe sont souvent différentes, comme le
+montre le tableau ci-dessous (« 0 » signifie que la scribe n’a pas même donné son
+nom).
+Scribe tablette enveloppe
+Nig-Nanna van lerberghe 1982 : 0 van lerberghe 1982 : igi níg-
+dnanna dub-sar munus
+Amat-Šamaš CT 45 2 : 0 CT 45 2 : geme-dutu dub-sar
+2
+Manaya CT 48 52 : igi ma-na-a munus CT 48 52 : 0
+dub-sar
+Inanna-ama-mu MHET II,1 17 : dinanna-ama-mu CT 8 28a = MHET II,1 17 : igi
+dumu-munus a-ab-ba-ṭà-bu-um dinanna-ama-mu dumu-munus
+dub-sar a-ab-ba-ṭà-bu-um dub-sar
+Inanna-ama-mu CT 8 28b : dinanna-ama-mu CT 8 28b : dinanna-ama-mu
+dumu-munus a-ab-ba-ṭà-bu-um dumu-munus a-ab-ba-ṭà-bu-um
+dub-sar di-ku-meš é dutu dub-sar
+5
+Inanna-ama-mu CT 8 44a : 0 CT 48 31 : igi dinanna-ama-mu
+dumu-munus a-ab-ba-ṭà-bu-um
+dub-sar
+Inanna-ama-mu BDHP 31 : dinanna-ama-mu CT 45 1 : dinanna-ama-mu dumu-
+dumu-munus a-ab-ba-ṭà-bu-um munus a-ab-ba-ṭà-bu-um
+dub-sar
+Inanna-ama-mu Al-Rawi-Dalley 118 : igi dinanna- Al-Rawi-Dalley 118 : igi dinanna-
+ama-mu ama-mu dumu-munus a-ab-ba-ṭà-
+bu-um dub-sar
+Amat-Bēltim MHET II,2 262 : 0 MHET II,2 262 : igi geme-be-el-
+2
+⌈tim⌉ munus dub-sar
+8. D’après leichty, FinkelStein et walker 1988, p. 281, l’enveloppe de cette tablette
+est le n° Bu 91-5-9, 2173B.
+9. D’après leichty, FinkelStein et walker 1988, p. 295, n° Bu 91-5-9, 2477A.
+294 b. lion
+Scribe tablette enveloppe
+Šamuhtum MHET II,2 278 : 0 MHET II,2 278 : igi ša-mu-uh-
+tum munus dub-sar
+Tableau 2
+Dans la plupart des cas, seule la confrontation de la tablette et de
+l’enveloppe permet de savoir qui a rédigé le contrat. La perte d’un grand nombre
+d’enveloppes, ou au contraire de tablettes pour lesquelles on n’a plus que des
+fragments d’enveloppes, ou d’enveloppes non ouvertes, entraîne donc une perte
+d’informations importante.
+Le cas d’Inanna-ama-mu n’est pas repris ici en détail, mais on peut brièvement
+rappeler les pratiques de cette scribe. Par souci de cohérence, je n’ai fait figurer dans
+les tableaux 1 et 2 que les tablettes ou enveloppes qui mentionnent explicitement
+sa profession. Néanmoins il est presque certain qu’elle est aussi l’auteure d’autres
+tablettes, sur lesquelles elle n’a pas mentionné son métier : on l’identifie aisément
+parce qu’elle indique parfois son patronyme et surtout parce qu’elle porte un nom
+rare. Ainsi, lorsqu’une Inanna-ama-mu figure parmi les derniers témoins d’un acte
+qui ne porte pas par ailleurs mention du scribe et qui date des dernières années de
+l’indépendance politique de Sippar ou des débuts de la domination babylonienne,
+il est presque sûr qu’elle a rédigé la tablette. Sur ces critères, j’ai proposé de lui
+attribuer 19 tablettes ou enveloppes 10, et non seulement les 10 figurant dans le
+tableau 1.
+Si les autres scribes ont eu les mêmes pratiques, cela permet de réviser à la
+hausse l’estimation du nombre de tablettes que l’on pourrait leur attribuer. Mais
+une recherche de ces éventuelles autres tablettes est une entreprise difficile, pour
+les raisons exposées ci-après (§ 3.2 et 3.3).
+3. Comment les scribes se désignent-elles ?
+3.1. Profession
+Lorsque les scribes indiquent leur profession, elles recourent à plusieurs
+formulations différentes, toujours au moyen d’idéogrammes sumériens (ce
+phénomène est général pour les noms de métiers) ; l’akkadien ṭupšarratum n’est
+pas attesté dans les documents de la pratique. Parmi les scribes des périodes les
+plus anciennes, Šāt-Aya et Nig-Nanna se disent dub-sar munus ; Tulid-Šamaš et
+Inanna-ama-mu notent seulement dub-sar, sans ajout de l’idéogramme féminin,
+de même qu’Amat-Šamaš dans la tablette qui date du règne de Sumu-la-El. En
+10. lion 2001.
+leS FeMMeS ScribeS de SiPPar 295
+revanche, à partir du règne d’Apil-Sîn, Amat-Šamaš emploie munus dub-sar, de
+même que toutes ses consœurs par la suite 11.
+À titre de comparaison, à Chagar-Bazar, Abī-libura est appelée dub-sar ;
+à Mari, les femmes scribes sont désignées comme munus dub-sar 12. Dans la
+liste lexicale paléo-babylonienne dite « Proto Lu », la scribe apparaît comme
+munus dub-sar, parmi d’autres noms de métiers féminins commençant tous par
+munus 13.
+Sur CT 8 28b (tablette), Inanna-ama-mu indique, de façon exceptionnelle,
+qu’elle est « scribe des juges du temple de Šamaš » (cf. ci-dessus tableau 2).
+M. Tanret a noté qu’à Sippar certains hommes se donnent parfois le titre de
+dumu é-dub-ba-a, mais que celui-ci n’est jamais porté par les femmes scribes. Il
+suggère que cette désignation renvoie aux activités d’enseignement des maîtres,
+activité que les femmes n’auraient donc pas pratiquée, du moins pas à un niveau
+aussi élevé que leurs confrères 14.
+3.2. Filiation
+Habituellement, les scribes n’indiquent pas le nom de leur père et seules
+deux d’entre elles font exception à la règle : Tulid-Šamaš fille d’Akuki et Inanna-
+ama-mu fille d’Abba-ṭābum ; encore cette dernière ne donne-t-elle pas toujours
+son patronyme 15. Toutes deux sont attestées à des dates assez anciennes.
+On peut en déduire que les femmes scribes étaient suffisamment peu
+nombreuses à Sippar pour que leur nom et la mention de leur métier permettent
+de les identifier, sans qu’il soit besoin d’indiquer leur ascendance. De même les
+hommes, lorsqu’ils indiquent leur profession de scribe, omettent en général leur
+patronyme.
+Si l’absence de patronyme ne devait pas poser de problèmes dans l’antiquité,
+il en va différemment aujourd’hui, car certaines scribes portent des noms très
+courants et il y a donc un risque de confusion entre des homonymes. Ainsi une
+Amat-Mamu est attestée depuis l’année Hammurabi 28 jusqu’à Abi-ešuh “k”.
+En chronologie moyenne, la 28e année du règne de Hammurabi correspond à
+1765, et le règne d’Abi-ešuh commence en 1711, ce qui suppose une carrière
+d’un minimum de 54 ans ; cela n’est pas tout à fait impossible. Mais si l’an “k”
+11. Ce point n’a pu être vérifié pour la tablette BM 80397.
+12. talon 1997 et Ziegler 1999.
+13. civil 1969, p. 58 (l. 706) et 66 (MDP 27 194, l. 7) ; liMet 2005, p. 6-7.
+14. tanret 2004, p. 48.
+15. Pour le détail, cf. lion 2001, p. 11-12, à corriger sur un point : le patronyme est
+indiqué dans BDHP 14. Le père d’Inanna-ama-mu était peut-être lui-même scribe.
+296 b. lion
+d’Abi-ešuh correspond, comme le pense M.J.A. Horsnell, à l’an 25 de ce roi 16,
+soit à 1687, il faut supposer une carrière de 78 ans pour Amat-Mamu... ce qui est,
+cette fois, très peu vraisemblable. Il y aurait donc eu deux scribes homonymes
+travaillant à quelques décennies d’écart ; dans ce cas, à laquelle des deux faut-il
+attribuer le texte rédigé sous le règne de Samsu-iluna... à supposer qu’il n’y ait pas
+eu une troisième Amat-Mamu ?
+3.3. Scribe et témoin
+Le (la) scribe rédigeant un acte est évidemment informé(e) de la transaction
+ou du procès et peut donc servir de témoin en cas de litige. C’est pourquoi il (elle)
+figure dans la liste des témoins, en général à la fin. Sur les 36 documents examinés,
+la scribe s’est placée comme dernier témoin dans 32 cas. Deux scribes se sont
+inscrites comme avant-dernier témoin, Inanna-ama-mu (Al-Rawi-Dalley 118) et
+Ayatum (CT 8 45a) et deux autres comme antépénultième, Manaya (VS 8 55) et
+Aya-kuzub-mātim (MHET II,2 147). Or pour trois de ces quatre femmes, Inanna-
+ama-mu, Manaya et Aya-kuzub-mātim, plusieurs autres textes sont connus, qui
+montrent qu’elles ne suivent pas de règle fixe et peuvent tout aussi bien se noter
+comme dernier témoin 17.
+Dans les textes qui ne comportent pas de nom de scribe, si l’un des derniers
+témoins est une femme et porte un nom connu pour être celui d’une scribe, on peut
+se demander s’il ne faut pas lui attribuer la rédaction de la tablette ; le phénomène
+est exactement le même pour les hommes 18. Néanmoins, on a vu que la scribe
+pouvait parfois ne pas même laisser son nom. De plus, certaines femmes scribes
+portent des noms très courants, comme Šāt-Aya ou Amat-Šamaš. Attribuer à
+une femme portant l’un de ces noms la rédaction d’un document du simple fait
+qu’elle figure parmi les témoins serait imprudent ; il faudrait au moins étayer
+cette hypothèse sur des considérations chronologiques et prosopographiques qui
+dépassent le cadre de cette étude. Pour cette raison, je n’ai pris ici en considération
+que les documents sur lesquels la scribe a indiqué son métier 19.
+16. horSnell 1999, p. 76-79.
+17. Là encore, cela vaut aussi pour les hommes, voir tanret 2004, p. 33 et n. 4, ainsi
+que p. 54.
+18. « There are instances in which the man appearing as the last witness is known from
+other sources to be a scribe although his occupation is not given on the tablet »,
+harriS 1975, p. 284.
+19. Il faudrait aussi disposer d’éditions complètes et fiables de ces textes. Certain(e)s
+scribes ont pu avoir des habitudes particulières et il faudrait comparer les documents
+qu’ils (elles) ont rédigés. Ainsi Aya-kuzub-mātim, sur l’enveloppe CT 8 46, indique
+les noms des propriétaires de sceaux sur les tranches inférieure et supérieure de la
+tablette, ainsi que sur la tranche gauche, perpendiculairement au sens habituel de
+l’écriture ; on aimerait pouvoir vérifier si la deuxième enveloppe qu’elle a rédigée,
+leS FeMMeS ScribeS de SiPPar 297
+3.4. Onomastique
+Aucune des femmes connues comme scribes n’indique un quelconque titre
+religieux. Cela ne signifie pas pour autant qu’elles n’en ont pas : de même qu’elles
+ne donnent presque jamais le nom de leur père, elles pourraient omettre une
+référence à un titre éventuel en considérant que la mention de leur métier suffit
+amplement à les identifier, d’autant mieux que les femmes scribes semblent être
+bien plus rares à Sippar que les femmes consacrées. L’onomastique de certaines
+d’entre elles, Amat-Šamaš, Amat-Mamu, Aya-kuzub-mātim ou Šāt-Aya, est
+caractéristique des nadītum de Šamaš et on peut donc supposer que certaines
+scribes sont des nadītum. Mais rien ne prouve que toutes les femmes scribes ont
+eu ce statut ; leurs situations pouvaient être diverses.
+4. Que rédigent-elles ?
+Le contenu des textes écrits par ces femmes offre une grande diversité ; en
+fait, elles rédigent exactement les mêmes types de tablettes que les hommes. On
+trouve ainsi :
+– Des achats immobiliers portant sur des champs (CT 6 46, CT 8 47b =
+MHET II,1 8, MHET II,1 107), des terrains en friches (MHET II,1 129, CT 45 2 :
+ki-gá[l?]) ou à l’abandon (CT 8 44a = CT 48 31), une maison (MHET II,1 7).
+– Des contrats de location de champs, selon le système du fermage, contre
+une redevance fixée à l’avance (CT 6 24 b, CT 6 35a, CT 33 43, MHET II,2 187,
+247, 278, MHET II,5 784) ou plus rarement selon le système du métayage qui
+prévoit le versement d’un tiers de la récolte (CT 47 59, MHET II,2 262).
+– Des héritages (CT 8 46, CT 45 11).
+– Une donation de champ (CT 47 1).
+– Un accord concernant un champ (BE 6/1 7).
+– Un engagement réciproque de non contestation, après un achat de biens
+immobiliers (TLB 1 220).
+– Des achats d’esclaves (Al-Rawi-Dalley 118, BM 80397, CT 8 45a).
+– Des locations d’esclaves (BA 5 488, CT 47 55).
+– Un affranchissement et une donation d’esclaves (VS 8 55).
+– Des mariages (BDHP 72, CT 48 52, CT 48 56).
+– Des comptes rendus de procès ou règlement de litiges et une tablette de
+non contestation (BDHP 31 = CT 45 1, CT 8 28a = MHET II,1 17, CT 8 28b, CT
+45 93, CT 48 30, van lerberghe 1982).
+MHET II,2 247, présente les mêmes caractéristiques, mais cette dernière a fait
+l’objet d’une transcription, sans copie ni photographie.
+298 b. lion
+5. Pour qui écrivent-elles?
+Les femmes scribes écrivent presque toujours pour d’autres femmes, que
+l’on peut souvent identifier comme nadītum de Šamaš ; mais il existe au moins
+deux exceptions à cette règle.
+5.1. Les deux parties sont des femmes
+Il arrive que les deux parties, dans une transaction ou un procès, soient des
+nadītum, comme dans CT 8 46 et CT 45 11 : dans ces deux cas, une nadītum
+de Šamaš en choisit une autre comme héritière, pratique assez courante dans ce
+milieu 20. Dans le contrat d’achat d’esclave CT 8 45a comme dans l’achat de
+champ MHET II,1 107, acheteuse et vendeuse sont des nadītum. Le procès BDHP
+31 oppose des nadītum de Šamaš.
+Certains contrats sont conclus entre deux femmes dont le statut n’est pas
+précisé. C’est le cas de l’achat de maison MHET II,1 7 : parmi les témoins figurent
+du personnel du temple de Šamaš et des femmes. Dans l’achat de terrains CT 45
+2, la plupart des témoins sont des femmes. Le procès CT 8 28a = MHET II,1 17
+oppose deux femmes, est jugé dans le temple de Šamaš et porte le sceau du chef
+des nin-dingir 21 (ugbabtum ou nadītum?). Il est probable, dans ces divers cas, que
+l’une des deux parties au moins est une nadītum ou appartient à une autre catégorie
+de femmes consacrées.
+5.2. L’une des parties est une femme
+Il arrive qu’une seule des deux parties soit une nadītum de Šamaš :
+– l’acheteuse, dans CT 6 46, CT 8 44a, CT 8 47b.
+– la bénéficiaire d’une donation de champ, dans CT 47 1.
+– une nadītum de Šamaš fait un procès, avec un homme, à un autre homme,
+dans CT 45 93.
+– dans l’engagement réciproque de non contestation sur un transfert de biens
+immobiliers TLB 1 220, l’une des deux parties est une nadītum.
+– BE 6/1 7 est un accord sur une propriété appartenant à une nadītum.
+– des nadītum de Šamaš louent leurs champs à des cultivateurs, dans CT 6
+24b, CT 47 59, MHET II,2 187 et 247.
+Lorsque l’une des personnes impliquées est une femme, même si son statut
+n’est pas indiqué, on peut souvent supposer qu’il s’agit soit d’une nadītum de
+Šamaš, soit d’une femme occupant une autre fonction religieuse et ayant un mode
+de vie proche de celui des nadīṭum.
+20. Sur CT 45 11, voir Stol 1998, p. 109-111.
+21. Sur le sceau de ce personnage et son inscription, voir lion 2001, p. 26-27.
+leS FeMMeS ScribeS de SiPPar 299
+Il en va ainsi pour les contrats de location de champs. Dans CT 33 43, le fermier
+doit assurer des livraisons pour la fête elūnum et pour la cérémonie nabrû. Dans
+MHET II,2 278 et MHET II,5 784, il doit livrer le fermage à la porte du cloître, et
+dans CT 6 35a, au temple de Šamaš ; dans ce dernier document, deux des témoins
+sont des femmes, tout comme dans MHET II,2 262. D’une façon générale, les
+femmes possédant des champs sont souvent des femmes consacrées célibataires,
+qui ont reçu en dot une partie du patrimoine immobilier de la famille.
+Dans VS 8 55, une femme fait don d’une esclave à la déesse Aya et affranchit
+deux autres esclaves, qui doivent néanmoins l’entretenir sa vie durant ; on peut
+donc supposer qu’elle n’a pas d’enfants. Parmi les témoins figurent le sanga
+(administrateur du temple de Šamaš), le chef des nadītum, des portiers du cloître et
+plusieurs femmes. Dans Al-Rawi-Dalley 118, achat d’esclave par une femme, un
+portier du cloître, du personnel du temple de Šamaš et des femmes sont témoins.
+Trois femmes sont aussi témoins dans BA 488, par lequel une femme loue un
+esclave.
+Le procès CT 8 28b (et son duplicata CT 48 30) oppose quatre hommes à
+leur sœur 22. Il se déroule dans le temple de Šamaš. La femme, Bēletum, qui prête
+serment par Aya, gagne le procès.
+Dans les trois contrats de mariage BDHP 72, CT 48 52 et 56, la mère de la
+jeune fille est une femme seule 23 et dans CT 48 52 il s’agit d’une nadītum. Les
+femmes consacrées ne peuvent avoir d’enfants, mais rien ne leur interdit d’en
+adopter. Dans ces trois contrats, des femmes figurent parmi les témoins ainsi que,
+dans BDHP 72, un portier du cloître.
+Il faudrait faire une recherche complémentaire et systématique à partir des
+témoins et de leurs sceaux apposés sur les enveloppes pour les identifier très
+précisément, mais les exemples donnés pointent fortement vers le milieu des
+religieuses de Sippar.
+Lorsque l’une des parties est une femme, il semble s’agir toujours de celle
+qui conserve la tablette. Cela est clair pour les mises en fermage ou en métayage
+des champs, les achats effectués par des femmes, ou le procès CT 8 28b (duplicata
+CT 48 30) gagné par une femme. Dans ce cas, on voit que les femmes scribes
+rédigent les tablettes qui non seulement impliquent des femmes, mais surtout sont
+destinées à être conservées par elles ; elles travaillent donc probablement à leur
+demande.
+5.3. Les deux parties sont des hommes
+Il existe néanmoins deux cas exceptionnels, qui montrent des femmes scribes
+travaillant pour des hommes.
+22. Voir lion 2001, p. 17-18.
+23. Ces trois contrats sont traduits par weStbrook 1988, p. 136, 123 et 124 ; à propos de
+CT 48 52, voir aussi Stol 1998, p. 114-115.
+300 b. lion
+Un texte publié par K. van Lerberghe 24 rapporte un litige qui oppose Ṭāb-
+ibênum, fils de Qurqurrum, au batelier Kikinum, dont il conteste le statut d’homme
+libre ; Kikinum fait reconnaître son statut par une procédure judiciaire qui consiste
+à arracher l’emblème de Šamaš. Les onze témoins sont tous des hommes, sauf le
+dernier, qui n’est autre que la scribe Nig-Nanna.
+MHET II, 1 129 enregistre l’achat d’un terrain en friches, situé dans Sippar-
+la-Grande, par Ilšu-tilassu fils de Puzur-Šamaš, à deux frères. Les huit témoins
+sont sept hommes et la scribe Erištum.
+Dans ces deux cas, il n’existe pas de liens immédiatement perceptibles entre
+ces hommes et le milieu du temple de Šamaš ou du cloître. K. van Lerberghe
+propose d’identifier Kikinum le batelier à un homme du même nom dont la fille est
+nadītum. Dans ce cas, sa fille pourrait avoir des liens avec les femmes scribes qui
+travaillent pour certaines de ses consœurs. Mais on pourrait dire la même chose
+pour une grande partie de la société de Sippar, car dans de nombreuses familles
+de cette ville, surtout dans les milieux aisés, chaque génération envoie une fille au
+cloître. Tout Sippariote de bonne famille doit donc avoir plusieurs nadītum dans
+son entourage proche 25, et donc connaître une nadītum qui connaît une femme
+scribe... sans pour autant recourir à ses services.
+Les deux tablettes en cause ici montrent du moins que si les femmes scribes
+travaillent en priorité pour d’autres femmes, rien ne leur interdit de le faire aussi
+pour des hommes, et même pour des hommes qui ne semblent pas avoir de liens
+privilégiés avec l’E-babbar ou le cloître.
+Les tablettes rédigées par des femmes scribes posent de nombreuses
+questions, spécialement sur la place de ces femmes dans la société de Sippar. Elles
+travaillent surtout pour des femmes, très souvent pour des femmes consacrées.
+Néanmoins, la plupart des documents rédigés pour des nadītum l’ont été par
+des hommes, comme l’attestent des centaines de tablettes trouvées à Sippar ; à
+l’époque de Samsu-iluna, un homme, Awīl-Adad, porte même le titre de « scribe
+des nadītum » 26. Par ailleurs, les femmes scribes peuvent aussi écrire des tablettes
+pour des hommes, même si cela est beaucoup moins fréquemment attesté. Il
+n’existait donc pas à Sippar une ségrégation totale entre les sexes, même lorsqu’il
+s’agissait des femmes consacrées.
+24. van lerberghe 1982.
+25. Voir par exemple le nombre important des nadītum dans l’arbre généalogique
+reconstitué par wilcke 1983, p. 50 ; sur deux générations, dans chaque fratrie, une
+fille est consacrée.
+26. dub-sar lukur-meš, harriS 1975, p. 197, tanret 2004, p. 56.
+leS FeMMeS ScribeS de SiPPar 301
+Un seul texte administratif de Sippar, CT 47 80, dont la date est perdue,
+mentionne une femme scribe 27. Il enregistre des dépenses d’orge, sans que
+l’on sache quelle entité administrative effectue cette distribution, ni en quelles
+circonstances. Les premières lignes semblent concerner des nadītum ou leurs
+servantes et le personnel du cloître. Une femme scribe (munus dub-sar), qui reste
+hélas anonyme, n’apparaît que plus loin (l. 14), juste avant le portier du cloître,
+anonyme lui aussi. Cette proximité semblerait indiquer qu’elle travaille pour la
+même institution ; refléterait-elle aussi l’ambiguïté de sa position, et signifie-t-elle
+qu’elle pouvait aussi bien entrer dans le cloître qu’en sortir ? Faut-il voir dans
+cette attribution de grain une forme de rémunération versée à cette femme scribe
+pour ses services 28 ?
+Ces questions trouveront peut-être un jour des réponses dans l’abondante
+documentation de Sippar, encore en partie inédite. Et le nombre de femmes scribes
+connues s’accroîtra sans doute encore dès que de nouveaux textes seront publiés,
+surtout ceux datant du début de l’époque paléo-babylonienne.
+Brigitte Lion
+Université Paris 1 Panthéon-Sorbonne
+et UMR 7041 (ArScAn)
+brigitte.lion@mae.u-paris10.fr
+Bibliographie
+al-rawi et dalley 2000
+F.N.H. al-rawi et S. dalley, Old Babylonian Texts from Private Houses at Abu
+Habbah Ancient Sippar, Londres.
+civil 1969
+M. civil, The Series lú = ša and Related Texts, MSL XII, Rome.
+dekiere 1994a
+L. dekiere, Old Babylonian Real Estate Documents, Pre-Hammurabi Documents,
+MHET II,1, Gand.
+dekiere 1994b
+L. dekiere, Old Babylonian Real Estate Documents, Documents from the Reign of
+Hammurabi, MHET II,2, Gand.
+27. Le texte est en partie transcrit et étudié par veenhoF 1985, p. 286-287.
+28. Mis à part ce texte, il n’y a pas d’informations sur la façon dont les femmes scribes
+étaient rémunérées ; sans doute les remarques de M. Tanret à propos des hommes
+sont-elles tout autant valables pour les femmes : les mêmes scribes peuvent travailler
+pour les institutions (palais, temple, ici peut-être gagûm) et les personnes privées,
+tanret 2004, p. 52-53 et 57.
+302 b. lion
+Friedrich 1906
+T. Friedrich, « Altbabylonische Urkunden aus Sippara », Beiträge zur Assyriologie
+5, p. 413-527.
+harriS 1963
+R. harriS, « The Organization and Administration of the Cloister in Ancient
+Babylonia », Journal of the Economic Society and History of the Orient 6, p. 121-
+157.
+harriS 1975
+R. harriS, Ancient Sippar : A Demographic Study of an Old Babylonian City (1894-
+1595 BC), Istanbul.
+harriS 1990
+R. harriS, « The Female “Sage” in Mesopotamian Literature », dans J.G. gaMMier
+et L.G. Perdue (éds), The Sage in Israel and in the Ancient Near East, Winona Lake,
+p. 3-17l.
+horSnell 1999
+M.J.A. horSnell, The Year Names of the First Dynasty of Babylon. Volume 1 :
+Chronological Matters : The Year-Name System and the Date-Lists, Hamilton.
+leichty, FinkelStein et walker 1988
+E. leichty, J.J. FinkelStein et C.B.F. walker, Catalogue of the Babylonian Tablets
+in the British Museum, vol. VIII, Tablets from Sippar 3, Londres.
+van lerberghe 1982
+K. van lerberghe, « L’arrachement de l’emblème šurinnum », dans G. van driel,
+Th.J.H. kriSPijn, M. Stol et K.R. veenhoF (éds), Zikir šumim. Assyriological Studies
+Presented to F.R. Kraus on the Occasion of his Seventieth Birthday, Leyde, p. 245-
+257.
+liMet 2005
+H. liMet, « Masculin / féminin dans les textes sumériens », dans C. cannuyer,
+A. SchoorS, R. lebrun, J.-M. verPoorten et J. winand (éds), La langue dans tous
+ses états. Michel Malaise in honorem, Acta Orientalia Belgica 18, Liège, Bruxelles,
+Louvain-la-Neuve, Leuven, p. 1-14.
+lion 2001
+B. lion, « Dame Inanna-ama-mu, scribe à Sippar », Revue d’Assyriologie 95,
+p. 7-32.
+Meier 1991
+S.A. Meier, « Women and Communication in the Ancient Near East », Journal of the
+American Oriental Society 111, p. 540-547.
+Pearce 1995
+L.E. Pearce, « The Scribes and Scholars of Ancient Mesopotamia », dans J. SaSSon
+(éd.), Civilizations of the Ancient Near East, New York, p. 2265-2278.
+Scheil 1902
+V. Scheil, Une saison de fouilles à Sippar, Le Caire.
+leS FeMMeS ScribeS de SiPPar 303
+Sjöberg 1976
+A.W. Sjöberg, « The Old Babylonian Eduba », dans S.J. lieberMan (éd.),
+Sumerological Studies in Honor of Thorkild Jacobsen on his Seventieth Birthday,
+June 7, 1974, Assyriological Studies 20, p. 159-179.
+Stol 1976
+M. Stol, « On Ancient Sippar », Bibliotheca Orientalis 33, p. 146-154.
+Stol 1998
+M. Stol, « The Care of the Elderly in Mesopotamia in the Old Babylonian Period »,
+dans M. Stol et S.P. vleeMing (éds), The Care of the Elderly in the Ancient Near
+East, Leyde, p. 59-117.
+tanret 2004
+M. tanret, « The works and the days... on scribal activity in Old Babylonian Sippar
+Amnānum », Revue d’Assyriologie 98, p. 33-62.
+talon 1997
+P. talon, Old Babylonian Texts from Chagar Bazar, Akkadica Supplementum 10,
+Bruxelles.
+veenhoF 1985
+K.R. veenhoF, « SAG.ÍL.LA = saggilû, “Difference Account” on Measuring and
+Accounting in Some Old Babylonian Texts », dans J.-M. durand et J.-R. kuPPer
+(éds), Miscellanea Babylonica. Mélanges offerts à Maurice Birot, Paris, p. 285-306.
+weStbrook 1988
+r. weStbrook, Old Babylonian Marriage Law, Archiv für Orientforschung Beiheft
+23, Horn.
+wilcke 1983
+C. wilcke, « Nachlese zu A. Poebels Babylonian Legal and Business Documents
+From the Time of the First Dynasty of Babylone Chiefly from Nippur (BE 6/2)
+Teil 1 », Zeitschrift für Assyriologie 73, p. 48-66.
+Ziegler 1999
+N. Ziegler, Le Harem de Zimrî-Lîm, Mémoires de N.A.B.U. 5, Florilegium
+Marianum 4, Paris.
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

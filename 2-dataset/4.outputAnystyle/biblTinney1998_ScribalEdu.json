@@ -1,0 +1,482 @@
+[
+  {
+    "author": [
+      {
+        "family": "Charpin",
+        "given": "Dominique"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Le clergé d’Ur au siècle d’Hammurabi"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "publisher": [
+      "Librairie Droz"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "Lexicography"
+    ],
+    "container-title": [
+      "Sumerological Studies in Honor of Thorkild Jacobsen",
+      "Assyriological Studies 20"
+    ],
+    "editor": [
+      {
+        "family": "Lieberman",
+        "given": "S.J."
+      }
+    ],
+    "pages": [
+      "123–157"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "Materials for the Sumerian Lexicon 14: Ea A = nēʾiqu, Aa A = naqu, with Their Forerunners and Related Texts"
+    ],
+    "location": [
+      "Rome"
+    ],
+    "publisher": [
+      "Pontifical Institute"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Ancient Mesopotamian Lexicography"
+    ],
+    "container-title": [
+      "Civilizations of the Ancient Near East"
+    ],
+    "editor": [
+      {
+        "family": "Sasson",
+        "given": "Jack M."
+      }
+    ],
+    "pages": [
+      "2305–2314"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Charles Scribner’s Sons"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gadd",
+        "given": "C.J."
+      },
+      {
+        "family": "Kramer",
+        "given": "Samuel Noah"
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "title": [
+      "Ur Excavations Texts",
+      "Literary and Religious Texts, First Part"
+    ],
+    "volume": [
+      "6"
+    ],
+    "container-title": [
+      "Publications of the Joint Expedition of the British Museum and the University Museum"
+    ],
+    "publisher": [
+      "University of Pennsylvania"
+    ],
+    "location": [
+      "Philadelphia, to Mesopotamia"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gasche",
+        "given": "Hermann"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "La Babylonie au XVIIe siècle avant notre ère: Approche archéologique, problèmes et perspectives"
+    ],
+    "volume": [
+      "Series II, Memoirs 1"
+    ],
+    "location": [
+      "Ghent"
+    ],
+    "publisher": [
+      "University of Ghent"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mesopotamian History and Environment"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ghirshman",
+        "given": "Roman"
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "title": [
+      "Suse au temps des sukkalmah. Campagne des fouilles 1963–1964: Rapport préliminaire"
+    ],
+    "volume": [
+      "11"
+    ],
+    "pages": [
+      "3–21"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revue des Arts Asiatiques"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hilprecht",
+        "given": "Hermann V."
+      }
+    ],
+    "date": [
+      "1903"
+    ],
+    "title": [
+      "Exploration in Bible Lands during the Nineteenth Century"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kramer",
+        "given": "Samuel Noah"
+      }
+    ],
+    "date": [
+      "1949"
+    ],
+    "title": [
+      "Schooldays: A Sumerian Composition Relating to the Education of a Scribe"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University of Pennsylvania Museum"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kramer",
+        "given": "Samuel Noah"
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "title": [
+      "The Ur Excavations and Sumerian Literature"
+    ],
+    "volume": [
+      "20"
+    ],
+    "pages": [
+      "41–47"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Expedition"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Michalowski",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Charisma and Control: On Continuity and Change in Early Mesopotamian Bureaucratic Systems"
+    ],
+    "container-title": [
+      "The Organization of Power: Aspects of Bureaucracy in the Ancient Near East",
+      "Studies in Ancient Oriental Civilization"
+    ],
+    "editor": [
+      {
+        "family": "Gibson",
+        "given": "McGuire"
+      },
+      {
+        "family": "Biggs",
+        "given": "Robert D."
+      }
+    ],
+    "pages": [
+      "55–68"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "Oriental Institute of the University of Chicago"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Michalowski",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Sumerian Literature: An Overview"
+    ],
+    "container-title": [
+      "Civilizations of the Ancient Near East"
+    ],
+    "editor": [
+      {
+        "family": "Sasson",
+        "given": "Jack M."
+      }
+    ],
+    "pages": [
+      "2279–2291"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Charles Scribner’s Sons"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Review of Nemet-Nejat, Cuneiform Mathematical Texts"
+    ],
+    "volume": [
+      "52"
+    ],
+    "pages": [
+      "424–432"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bibliotheca Orientalis"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sjöberg",
+        "given": "Åke W."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "The Old Babylonian Eduba"
+    ],
+    "container-title": [
+      "Sumerological Studies in Honor of Thorkild Jacobsen",
+      "Assyriological Studies"
+    ],
+    "editor": [
+      {
+        "family": "Lieberman",
+        "given": "S.J."
+      }
+    ],
+    "pages": [
+      "159–179"
+    ],
+    "volume": [
+      "20"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Tinney",
+        "given": "Stephen J."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "On the Poetry for King Ishme-Dagan"
+    ],
+    "volume": [
+      "90"
+    ],
+    "pages": [
+      "5–26"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Orientalistische Literaturzeitung"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vanstiphout",
+        "given": "Herman L.J."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "title": [
+      "Lipit-Eshtar’s Praise in the Edubba"
+    ],
+    "volume": [
+      "30"
+    ],
+    "pages": [
+      "33–61"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vanstiphout",
+        "given": "Herman L.J."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "How Did They Learn Sumerian?"
+    ],
+    "volume": [
+      "31"
+    ],
+    "pages": [
+      "118–126"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Elementary Education at Nippur: The Lists of Trees and Wooden Objects"
+    ],
+    "genre": [
+      "PhD diss.,"
+    ],
+    "publisher": [
+      "Rijksuniversiteit Groningen"
+    ],
+    "type": "thesis"
+  }
+]

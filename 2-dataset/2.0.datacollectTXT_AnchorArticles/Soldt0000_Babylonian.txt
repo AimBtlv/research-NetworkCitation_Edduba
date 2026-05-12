@@ -1,0 +1,1563 @@
+# METADATA
+author: Soldt W.V.
+source_id:Soldt0000_Babylonian
+title: Babylonian Lexical, Religious And Literary Texts And Scribal Education At Ugarit And Its Implications For The Alphabetic Literary Text
+Year: 
+Source_ID:  Soldt0000_Babylonian
+Source_Type: Article in Book
+Source_Role,Step_distance: 2,3,4 
+Pages: 171-192
+Web: 
+
+# TEXT
+
+
+
+The ancient city of Ugarit has provided us with a wealth of textual material. A large portion of this material is made up by lexical, religious and literary texts. The lexical texts can be unilingual (usually Sumerian) or multilingual (usually Sumerian with an Akkadian translation) ', the religious and literary texts can be in Sumerian or in Akkadian, very seldom are they. bilingual. 1 will discuss the lexical texts and the religious and literary texts as two separate groups. After that, we will look at their common characteristics.
+
+1. The lexical texts
+
+Tell Ras Shamra has been a constant rich source of lexical material. Since 1929, hundreds of texts have come to light and with every new campaign new texts are added to the corpus. ? As we know from Mesopotamia, the main purpose. of these lexical texts was to provide apprentice scribes with the necessary study material in order to learn the script as well as the languages written with it. However, the students at Ugarit found themselves in a position even less enviable than their Mesopotamian colleagues. Ever since the Old Babylonian period Sumerian was for the students a language that had to be acquired by learning and this gave rise to the addition of an Akkadian translation in most of the lexical texts. After the Old Babylonian period these bilingual texts kept being used as study material and the peripheral sites, which are by far our most important source for lexical material in the Late Bronze Age, ate no exception. However, unlike their Mesopotamian colleagues, the scribes in Ugarit not only had ‘to study Sumerian, which for them had become a mere collection of logograms rather than a written language, but also Akkadian, the language used as lingua franca in the West during this period. Thus they had to be able
+
+I would like to thank Drs. Th.J.H. Krispijn for helpful comments. The following abbreviations will be used in this article: MSL. - Materials for the Sumerian Lexicon, SAU - W.H. van Soldt, Studies in the Akkadian of Ugarit, AOAT 40, 1991,
+
+' See in general Civil 1976, 124f, and Cavigneaux 1980-83, 610f.
+
+> See, for example, the recently published texts from the 34th campaign (1973), AndréSalvini 1991. New texts have come to light since the 46th campaign, see Bordreuil & Pardee 1989, 357f. ,
+
+
+
+172 W.H. van Soldt
+
+to understand the Sumerian words and they had to learn to draw up texts in Akkadian: legal documents, administrative records, letters, etc. Last but not least, they had to be able to read the Akkadian texts coming in from neighboring cities and states, specifically from the Hittite king and his viceroy, the king of Carchemish.
+
+a. The curriculum
+
+The lexical texts were found in large concentrations scattered over the city. These concentrations occur in and around buildings which supposedly served as archives. A number of houses have been identified and some of them are now referred to by the names of their assumed owners, usually a person who appears in a prominent position in the legal and administrative documents found in the house. Thus, we speak of the houses of RaSap’abu, Rap’anu, Yabninu, etc. However, in most cases we are unable to make out who the owner of the house was and this has given rise to anonymous descriptions such as "The house of the Lettré, of the High Priest, of the Hurrian Priest", etc.
+
+The lexical texts are not all of the same level of difficulty. As one would
+
+expect, their arrangement is didactic, that is, they tended to be studied in an.
+
+order which ensured a progressive level.of difficulty. This order can be deduced from a number of tablets which combined two or more of these texts (see fig. 1, p. 193). The simplest texts are the ones which provide syllables with which Akkadian words can be written (Tu-ta-ti) °. This was followed by several lists with ideograms, the first the so-called "Silbenalphabet A" (Sal), which is also attested in a bilingual version ("Silbenvokabular A", Svo).‘ Next came "“Syllabary A" (SaS) and its bilingual version Sa Vocabulary (SaV), a list of mostly simple signs *, which in Ugarit also had translations into Hurrian and Ugaritic. As in Emar §, we also have copies from Ugarit in which the signs have archaic forms ("Paleographic Sa"). Which list followed Sa is not entirely Clear. In the case of the quadrilingual vocabulary it is the "Weidner God List"
+
+* See CiB, Kizilyay & Landsberger 1959; Krecher 1969, 134 note 1; Cavigneaux 198083, 618. The list is followed by a list of acrographically arranged personal names, see Nougayrol 1965, 29.
+
+“ Originally a list of personal names, which was subsequently interpreted as an elementary scribal exercise. See Cig, Kszilyay & Landsberger 1959; Cavigneaux 1980-83, 618f. In Old Babylonian Nippur the elementary lists were Proto-Ea, Tu-ta-ti and Silbenalphabet B, see Cig, Kiztlyay & Landsberger 1959, 97. Sjdberg 1976, 162f; Romer 1977, 22f.; Krispijn 1992, 22f. For the didactic principle in the arrangement of the signs in Proto-Ea, see Edzard 1982. For Ur, see Charpin 1986, 424f. For Isin, see Wilcke 1987. 5 See Krecher 1969, 135 note 4, and Civil, MSL 14, 165f.; Cavigneaux 1980-83, 622f.
+
+© Arnaud 1987, 31f.; for later texts, see. Hallock, MSL 3, 10.
+
+: 5 ae
+
+ees
+
+ae
+
+Babylonian Lexical, Religious and Literary Texts... 173
+
+(G) ’, in the case of a number of unilingual texts we find various types of additions which appear to be paradigms, as has become clear from parallel texts at Emar *. These additions are closer in nature to the so-called “Grammatical Text" (RSGT), which provides a list of grammatical elements and lexical entries with their Akkadian translations °. Therefore, the order of texts after Sa is better left open. Possibly to. be included here is the one copy of an Ea text from the LamaStu archive. ’° Where exactly the so-called "Table of Measures" (Mea) fits in remains unclear, *
+
+We are on much more solid ground with the big series Harra hubullu (Fh), La, Izi and Diri. Hh ™ consists of ca. 15 tablets at Ugarit °, the first two of which provide the terminology needed to write legal and administrative texts. The remaining 13 tablets contain a thematic catalogue of the material culture. Most texts are unilingual, a considerable number is bilingual. The series Lu provides a list of professions and is the continuation of Hh, as is shown by the combination of the last tablet of Hh and the first of Lu on one tablet ¥. Izi is an acrographic list of compound words '° which in Ugarit was copied in its bilingual version with only two exceptions (see fig. 2, p. 194). Although solid proof is lacking, the order of Lu and Izi was probably as in Mesopotamia ”’, By far the most difficult series, and therefore to be found at the end of the curriculum, is Diri, a list of compound ideograms “, for which Ugarit has yielded only bilingual versions. The order Izi - Diri is ‘assured by a catchline on a copy of Izi 2". The place of the acrographic lists Nigga * (one copy
+
+7 Note that there is sufficient evidence that the god list followed the syllabaries but preceded the big series (Ih, etc.) in the Old Babylonian Eduba, see Hallo 1982, 85. In first millennium texts Hh followed the Weidner God List, see SAU 750.
+
+® Arnaud 1987, 28f. For example, Text 20.135+ (Ugaritica 5, no. 113) has after the sign BAR the sign group 1.ZUR, which has a paralle] in Emar text-E, see Amaud, ibid., 29.
+
+° See in general Civil & Kennedy, MSL SS 1, 71f.
+
+® See also below. For the Ba series, see Civil 1976, 125 and MSL 14; Cavigneaux 198083, 620f.
+
+*! For the possible position of G, RSGT, Ea and Mea in the curriculum, see SAU 750f. 12 Krecher 1969, 137£.; Civil 1976, 125; Cavigneaux 1980-83, 626f.
+
+® Tablet 13 may have been split in two: the sheep were separated from the big cattle. The number of tablets could also have differed from archive to archive. For the number of tablets in the Old Babylonian versions, see Hallo 1982, 87.
+
+ Krecher 1969, 139; Civil 1976, 125; Cavigneaux 1980-83, 628f.
+
+7 RS 23.80 from MT. The same order apparently applied to the Mesopotamian curriculum, see Civil MSL 12, 90 and 1976, 125 (canonical series).
+
+© Civil 1976, 125; Cavigneaux 1980-83, 632f.
+
+” Civil , MSL 12, 27 and 90; Cavigneaux 1980-83, 629.
+
+® Krecher 1969, 137 note 8; Civil 1976, 125; Cavigneaux 1980-83, 625f. * RS 2[13].
+
+
+
+174 W.H. van Soldt
+
+from Rap) and Erimbus * (from Lam) is unknown. We thus get the following (partially) reconstructed curriculum:
+
+Tu-ta-ti — Silbenalphabet/vokabular A — Sa Syllabary/Vocabulary — (paradigms) ~~ Weidner God List — (?) — Harra hubullu — Lu — Izi — Diri.
+
+Unclear: Ea, Table of Measures, Grammatical Texts, Nigga, Erimhu’.
+
+b. Different types of tablets.
+
+The predominant type among the many lexical texts is the one which gives a complete unilingual text of one particular tablet from a series. Of this type, we often find several duplicates within individual archives (see fig. 2, p. 194), and from this we can conclude that several students probably worked either side by side or in consecutive classes, Especially the last point, the chronological distribution of the tablets, needs clearing up. Were the texts written within a Short span of time or do we have to assume that older texts were kept for future reference? J have tried to show elsewhere that texts of ephemeral importance were as a rule not kept on file for a long time and the lexical texts would certainly qualify as ‘ephemeral'”. As can be seen from Appendix III almost all more or less datable texts were apparently written within the last fifty years of Ugarit's existence, It is only the scribe Ba‘lasku who perhaps wrote his text during the reign of Niqmepa‘, provided that his teacher SapSu-malku was indeed the scribe of the same name who appears in legal documents 7. Thus, with the exception of a few texts, it seems likely that the bulk of lexical tablets from Ugarit dates to the period immediately preceding the destruction of the city. It is, however, by no means impossible. that some tablets were kept for use in school education or as copies for personal use by the scribes once they had finished their study. For the latter assertion we have, however, no clear evidence. In any case, the destruction of Ugarit has given us a random indication of the contents of a school. Apparently, unilingual versions were the preferred format.
+
+The two remaining categories are the bilingual texts and the excerpts. The bilingual texts are attested for every type of text which allows a translation column, and for every archive. Certain types, however, show a clear preference for bilingual texts: the Grammatical Texts (RSGT, no uniligual texts) and Izi and Diri. In the case of the latter two this can be explained by the relative difficulty of these texts, in the case of RSGT we find the same phenomenon in the Grammatical Texts from Mesopotamia. * In principle, the bilingual texts have the format: sign(s) — translation. However, the translation is often preceded by
+
+” Civil, MSL 13, 91f; Cavigneaux 1980-83, 632,
+
+7 Civil 1976, 126; Cavigneaux 1980-83, 634f. and 1985, % SAU 2308,
+
+* SAU 23f,, no. 38.
+
+% See MSL 4, 45f, and-MSL SS 1, 71f..
+
+i
+
+Babylonian Lexical, Religious and Literary Texts .. . 175
+
+a pronunciation gloss which takes first place in the translation column. » This same scheme is applied in the excerpts, only with more consistency. These relatively small tablets, which contain only a portion of a larger lexical text, usually have one text column which is divided in three subcolumns, one for the sign, one for the pronunciation gloss, and one for the (Akkadian) translation. In one case there appears a commentary in the third column ™. The texts have their lines written parallel to the longest side of the tablet and show a considera-
+
+: ble degree of carelessness. ”” From all this it appears likely that the excerpts
+
+belong to an early stage of scribal education *. It would also seem that the complete bilingual tablets are, at least in their format, closer to these excerpt
+
+blets than the complete unilingual texts. It is probably premature to conclude Gee. unilingual texts represent the most advanced stage in the scribe's attempts to master the series, However, it would explain why there are no unilingual excerpts and why the unilingual texts are usually written in a professional hand. For example, the scribe Yanhdnu is the author of at least seven lexical texts, six of which are unilingual. The only bilingual text is a copy of the Grammatical Texts (RSGT), which were always.copied in that format (see fig. 1, p. 193).
+
+That the scribes could have written the unilingual texts as the last stage in ‘their education reminds one strongly of the situation in the Old Babylonian Eduba at Nippur, for which Civil concluded: "In conclusion, there seems to be no text which because of its high quality should be considered a standard reference copy or instructor's manual. The master did not. need one since he knew the-series by heart as it had been handed down to him by his predecessors. All written copies are from the hands of more or less advanced students". ” If the same situation would apply for Ugarit, it would explain why so far only two texts have been found which can be demonstrated. to come from outside the city. °° It would also explain why the elementary exercise Sa would sometimes be expanded with a column in the scribe's own language: this would be more necessary at an early than at an advanced level of scribal training. Certainly, the teacher did not need such an extra column. Eventually, the student probably had. to learn the lists by heart *,
+
+* Many examples in published bilingual texts. See, for example, 22.346+ (MSL 10, 37£.) lines 11, 40, 90, 105, 126, 326, and (MSL 10, 107f.) 1, 2, 176
+
+* RS 20.11, a Silbenalphabet, see Nougayro! 1965, 39.
+
+?” For an overview of these excerpt tablets, see SAU 751f. For the fact that quite a few of these texts miss the right-hand side and its possible implications, see ibid.
+
+For a possible. Old Babylonian parailel, compare perhaps Civil, MSL 12, type III.
+
+*® MSL 14, 7; similarly, Civil 1976, 130f.
+
+* 20.1214, probably a Mesopotamian original of the Weidner God List, and 25.421+, a four-column copy of Ludingira, probably from Bogazkéy.
+
+1 Waetzoldt 1989, 36; compare Edzard 1982 (Old Babylonian Proto-Ha).
+
+
+
+176 W.H. van Soldt
+
+c. Other texts.
+
+The lexical texts discussed so far are not the only exercises which the scribes wrote for their training. Apart from the many literary texts, which I will discuss below, they occasionally also wrote acrographic lists of personal names. The lists were written on separate tablets and were not part of a fixed repertoire, but were perhaps made up locally: they usually have a selection of indigenous names. * The same type of practice texts can be found among the alphabetic exercise tablets, to which I will come back below. An exercise tablet with a legal text is perhaps 16.180 (PRU 3, 41). The text appears to have an alphabet (collated) at the end. However, there are traces of seals on the obverse, which are unexpected in the case of an exercise.
+
+\
+
+2. The religious and literary texts .
+
+The religious and literary texts from RasShamta are remarkable both in number and variety. The altogether ca, 40 texts. range from incantations to astrological omens and from hemerologies to fables and_wisdom texts. Most of these texts were published in Ugaritica 5 by Nougayrol, a few remain unpublished, When the texts appeared, parallels could not immediately be found for all of them and this gave rise to the idea that ‘the literature contained in them was at least to some extent the result. of the creative effort of the Ugaritic scribes themselves. > However, as time went by, more and more parallels to the texts from Ugarit turned up and, especially after the publication of the texts found at Emar, there are hardly texts left without parallels. An overview of all the material is given in Appendix II.
+
+a. Short survey of the material
+
+Among the religious texts there are eleven tablets containing incantations. * Their structure is clearly patterned after Mesopotamian examples, although we do not (yet) have direct parallels for every incantation. Most of them, however, either have partial parallels in texts from other peripheral sites and/or Mesopotamia, or are dealing with evils known from texts else-
+
+* See Appendix I, Miscellaneous. RS 15.54 (PRU 3, 213): names beginning with ér; RS 20.07 (Ugaritica 5, no. 98): names beginning with Nu- (for example Nu‘me-); RS 28.52 (unp.): the obv. starts with names beginning with UD, the rev. has names beginning with EN-,
+
+® See, for example, Kinet 1981, 109, -
+
+*4 See Krecher 1969, 154f,; Nougayrol 1969, Not included here are the religious texts in Hurrian, most of which were found in the southwest archive of the palace and which contain songs and guidelines for their musical performance. For a list of Hurrian texts found at Ugarit, see SAU 339f,
+
+** For example, the collection of incantations 25.129+, see Appendix III.
+
+Babylonian Lexical, Religious and Literary Texts. . . 177
+
+where. * Incantations can be combined on a single tablet ” or one tablet can just contain one incantation *, The most interesting tablets are the ones
+
+-containing incantations against Lamastu (Nougayrol 1969) and text
+
+25,.129+456B, which has at least six different incantations, among which we find © one against Simmatu and one against samanu. Incantations against Simmatu ate also known from-Emar *, Other texts are a few hemerologies, possibly a few prayers or hymns and a few omen texfSAmeng the latter we have a text containing Sznma izbu omens and a piece of Enuma Anu Enlil (Adad).
+
+The texts which we generally regard as literature deal with a variety of topics. In general, the Ugaritic-seribes copied texts of limited size and not, for example, long epics involving more than one tablet. Thus, we have a copy of the so-called Poem of Early Rulers, which has parallels in Mesopotamia and Emar, and Ludingira, a text in which the sender describes his mother to the courier who will bring a message to her in Nippur, and which seems to give a description of the ideal Sumerian mother. It has parallels in Mesopotamia.and Bogazkéy. The text found at Ugarit was probably itself brought in from Hatti. Further, a literary letter in two copies, one in Sumerian and one in Akkadian, a text dealing with .
+
+‘the concept of the Righteous. Sufferer (with no direct parallels but close in
+
+content to Ludlul bél némeqi) and, of course, the well-known wisdom text with admonitions of Subé-awilim to his son, with parallels in Emar and Bogazkiy.
+
+’ Finally, we have what seems to be an excerpt of a flood story, probably
+
+Atrahasis, a text containing blessings to an anonymous nuaster, written in syllabic Sumerian, with a parallel in Emar, and a badly broken tablet with the text of a fable involving a dog and.a fox. The distribution over the various archives is of considerable interest, but will be discussed below, under 3.
+
+b. The raison d’étre of the texts
+
+In view of the relatively large number of religious and literary texts one has to pose the question why the scribes copied these texts.. The many parallels from Mesopotamia and other peripheral sites show that we are not dealing here with original compositions. Apparently the texts had been imported for a specific purpose, which becomes clear when we take the findspots of the tablets into account, As it tums out, practically all the religious and literary texts were found in the archives which also housed the lexical texts: they. were in fact part of the same hoards of tablets. Moreover, the level of proficiency of the scribes who wrote them was rather low, as can be seen from the many mistakes that they made. This is also true for the incantations, texts which might have been used by priests to conjure evil. However, these, too, have not been found in the houses of priests (like the Hurrian Priest or the High Priest), but likewise among
+
+** For example, the incantation against ophthalmia, 20.06 (Ugaritica 5, no. 19).
+
+7 15,152 /f 17.155, 25.129+25.418, 25.420+, 25.422(?).
+
+8 16,416 (exercise?), 20.06 (exercise?), 25.457 (Lamastu, on cylinder), 25.513 (Lamastu). * Amaud 1987, no. 735.
+
+
+
+178 W.H. van Soldt
+
+the lexical tablets. In general, one can agree with von Soden that the scribes in Ugarit appear to have been less proficient than their colleagues in neighboring peripheral sites. “° Thus, it would seem likely that this category of texts was not copied for its own sake but was used as study material for apprentice scribes (as explicitly stated in one of the colophons “’) in order for them to practise the acquired knowledge of Sumerian and Akkadian in context. This use of literary material is not confined to Ugarit, but is attested in Mesopotamia itself “* and in almost all major peripheral sites (Bogazkéy, Emar, Amarna, Nuzi, Alalah). It was only after the scribe had studied both the lexical and religious/literary texts, and had practiced the writing of model lists (the acrographic lists of personal names) that he was sufficiently equipped for his future task.
+
+3. The archival distribution
+
+As expected, the lexical, religious and literary texts have not all been found in one center. On the contrary, several major concentrations of tablets were detected during the excavations and. most of these concentrations could
+
+, subsequently be associated with buildings or parts of buildings. On the basis of . (the numbers of tablets found we can distinguish three major archives “*: the house of Rap’anu (Rap), the 'Maison-aux-tablettes' (MT), and the Lamagtuarchive (Lam). Apart from these, there are a number of smaller archives, the houses of the High Priest (GP), the ‘Lettré' (L) and RaSap?abu. (R&p) “, the cluster from the 34th campaign (34), the Palace, the center of the city (Centre Ville), and Ras [bn-Hani.
+
+In each house the tablets were located’ in a special wing of the building, which seems to have been the scribal quarter. “ For example, in MT the texts were located in the northern wing of the house, which had an entrance of its own from the big square in the ‘Ville Sud’, “* Similar wings can be found in all other buildings where archives were found. Only in the palace. there is no clear center of learning. That the syllabic script was being studied there is shown by
+
+® Von Soden 1969, 189, *t Colophon to 22.439, Ugaritica 5, 280. For the implications, see below, 4.
+
+” Sjdberg 1976, 170f.; Romer 1977, 24; Vanstiphout 1979, 120£; Hallo 1982, 90f; Waetzoldt 1989, 40; Krispijn 1992, 26.
+
+“ For the use of the term ‘archive' in the sense of a cluster of tablets found inside a house, see SAU 47,
+
+“ For the sake of convenience, L and R&p (and MPC) have been taken together in the tables.
+
+“* For a description of all these archives, see SAU chapter 2. “6 See SAU 193, fig. 20. The archive. was found in rooms 1-5,
+
+y
+
+penne RNS
+
+Babylonian Lexical, Religious and Literary Texts . . . 179 the presence of a few lexical texts and incantations. “
+
+The distribution of the texts over the archives shows some interesting patterns (see fig. 2, p. 194 and Appendices I and If):
+
+1. Rap has by far the most extensive range of lexical texts as well as the greatest number of tablets, but it is almost completely lacking in religious (only one incantation) and completely lacking in literary texts. Thus it would seem that the students in this building hardly practiced their lexical knowledge in context.
+
+2. More balanced is the picture in MT and Lam. Possibly in MT, but almost certainly in Lam the students did not (always) write the whole curriculum, but selected parts of the repertoire. Thus, MT has copies of Lu 1, Izi 1 and Diri 1 I; but no copies of Lu 2, Izi 2 and Diri 2. Only a copy of Diri 3 has been found. Almost the same applies to Lam. Moreover, in Lam no vocabularies of Silbenalphabet and Syllabary A were written, and groups of tablets from Hatra hubullu seem to have been left out (Hh 10-15, the others may have been lost by chance). “* With the religious and literary texts, MT seems to concentrate.on literary texts and omens, whereas Lam has a broad scala of genres and by far the largest number of tablets (see Appendix II). Note, moreover, that Lam is so far the only archive which has produced copies of the series Erimhus.
+
+3. Lam deserves special attention for yet another reason. All archives at Ugarit contain texts written with a-conventional 'Syrian' hand and show the expected aberrations from Akkadian grammar. Lam, however, uses ‘Babylonian sign forms and writes more or less standard Middle Babylonian. Therefore, the teacher(s) in this archive was(were) probably of Babylonian origin and not, as in the other archives, from somewhere.outside Babylonia proper. © CAEDNO HORN -
+
+4, Although speculative, some preliminary observations can be made on the smaller archives as well. In GP, we notice the presence of just_one
+
+_ ‘elementary exercise (Sal), copies of G and RSGT, copies 0 - Lu 1-2, and Izi 2. Especially the omission of Hh 5b-24 is co s, Note that the first two tablets contain the terminology needed to write legal and Qa wr an*
+
+4 Lexical texts from the Western Entrance and room 65, and one surface find, incantations from rooms 30 and 62. One possibly literary fragment from room 64, and the Akkadian-Hurrian bilingual from PC/E. Whether the fact that three out of seven tablets were found: in the central archive, and one was found close to it, bears any significance I dare not to decide. |
+
+*® Compare in this connection Civil's remarks on the scarcity of sources for the final sections of the lists (1976, 130f.),
+
+® See in general, SAU 3732, 521.
+
+
+
+180 W.H. van Soldt
+
+administrative texts *°. The other smaller archives have produced too little material for even the most tentative observations. Heer Broo loc Qized . From all this it becomes clear that scribal education took place in priv.
+
+holises-and-not in fie Palace. Although some lexical and religious texis have gh some lexical and religious texts have been_found in the latter, the numbers by no means equal those found in the private houses, more specifically Rap, MT and Lam. The owners of the houses _ eee ee ete ee Re emately, not known 10-us Even master of the house *
+
+4. Scribes; teachers and scribal families
+
+a. The scribes and their teachers We now come to the most important part of this article, the scribes with a their families, and their teachers. The many lexical, religious and literar $ : ee have provided us with ¢ a number of colophons from which we learn the names
+
+U
+
+CS) exts most likely writen q 1 g. s often mentioned their teachers °”. The _ lack of the name of a teacher is, however, no proof that the scribe e 1 texts w which do not have a teacher's name are as. much
+
+following conclusions:
+
+1. Serib iedi '
+
+. Thus, Rabbinu wrote both his tablets in GP and Yanhanu worked almost exclusively in Rap. However, there is also one text ffom MT which has his colophon, and the same applies to the two tablets signed by Ewri-muddu: one from Rap, one from MT. Whether both scribes indeed studied in both houses or that their tablets
+
+* Originally, Hh started with a list of trees (now Hh 3, etc.). For the origin of tablets 1 and 2, see Civil 1976, 127f. and Hallo 1982, 86.
+
+3 Nougayrol, Ugaritica 5, 42f.; Schaeffer, ibid,, 639£.; SAU 179.
+
+* The colophons were treated in Van Soldt 1988.
+
+* The normal word for "student" is kabzuzu, a word also attested at Emar (Arnaud 1987, 201, nos. 11-13). Its meaning is confirmed by its exclusive-use in colophons. to lexical and literary texts. In other types of documents (for example, legal texts) scribes never call themselves kabzuzu. If the scribe. wanted to stress his proficiency he would add ki..zu, "wise", to his name, see 16.142:16 (SapSu-malku),
+
+Babylonian Lexical, Religious and Literary Texts... 181
+
+were carried to another 'school' cannot be decided. For the time being, i rem preferable fo assume a cerisin mobility On the part of the studenior ferable to assume a certain mobility on the The same was probably ime for the teachers, for siiom ae ae 2. Very little is known about the teachers mentioned in the colophons (Apndix IiIb). Only in the case = According to the available colophons he was active in three
+
+~ ‘archives: Rap, MT and Lam. Whether this mobility was characteristic
+
+for teachers i be decide eb any case, Yanhanu' i attest 3. It is ising to find that teachers had different students _(GamirHada), However, scribes could_someti exemplifie anhanu (Niz-Malik and Ili-..., is too scanty for more general conclusions.
+
+both in Rap). The evidence
+
+b. Scribal families x Another point to be discussed is that of the scribal families c). rom the legal texts it was already known that scribes took over their father's .
+
+oat we have (in the order father « — son Bugs ——VaSgistay, “> f- €.
+
+RaSap. About Abi-yatar himself nothing is . however, was the te cher of his nephew Irib-Ba‘lu, son of“u-... and on of Abi-yatar.
+
+‘Giant by bis Jon uncle (Gumir-Haddu). Nu*me-Ratap is attested himsel a the author of the Atrahasis excerpt found in VS (the test probably mssas om MD) and of several other texts found in the Palace.’ His son Tli-Sap&u is also attested in texts from RSp and VS, w’ i i _The seem to have worked in the Palace , Rap and Lam.
+
+="Her upon i tay tion in the discussion of
+
+education: ‘ete svidence-of-seribes orkine in admini ion after
+
+their education ? I think that this question can be answered i in the affirmative. Vv ere are a few scribes whose names occur in t e c'
+
+texts, letters, etc. One of them is Nu‘me-RaSap discussed above, another one ——
+
+oe eg SAU2 . Y 54 For the reading of his name, see SAU 20, ote 179. we gc 55 The three tablets show a striking similarity in ductus and general layout. Oc
+
+56 That the scribal craft was usually handed down within the family, especially in the earliest and latest periods, was already known from Mesopotamia, see Waetzoldt 1989,
+
+33. 5’ Spelled AD-DIRI. See SAU 22, no. 26. The reading is tentative, 58 For the difficulties involving the scribe Nu‘me-RaSap, see SAU 30f.
+
+*® SAU 22.no. 32(b). 
+
+/
+
+3 X\-
+
+182 W.H. van Soldt
+
+could be I anu, who is attested as a scribe i
+
+from the palace (time of ‘Ammittamru TI) and in the colophon of a copy of rom or Ili-malku, see: below. H —
+
+ate Oe et Beet ews
+
+in Uge rst '
+
+c. The origin of the school material Little can be said about the origin. of the materia) used for scribal education. What is clear can be summed up as follows:
+
+1. The lexical tradition followed in ‘the peripheral sites including Ugarit was not that of Nippur but was imported from other centers in Mesopotamia“, 2. e date of the influx of texts to the west must be set after the Old
+
+papyionian period, as can hown on the basis of the list of Old
+
+oniait royal names in Hh 20-2 2.0 3. Unlike at and Bogazkoy é names of the teachers who came to
+
+2 Shiren valine
+
+Ugarit to instruct students are wap Senet io have indigennna. names teachers appear
+
+fe not ‘known. As far as we can read their names,
+
+ome of the teachers probably came from a Hurrian speaking area testified by a number of vocabularies wi as
+
+d. Different levels of education 9 According to Waetzoldt's-re ction, the education of students had three subsequent phases in Mesopotamia. All scribes went through the lower level, constituted the basic scribal training. During this phase the scribe had to
+
+di Te: “simple texts > Ti an
+
+itefary excerpts.’ Many scribes o id this basic training, probably for economic reasons. In the higher level the students stidied Sumerian literary_texts
+
+effers, as WE contracts and letters in ongue, Babylonian. WO phases together took about eight to ten years. Since the. student started school at the age or six, he was,around fift e time he left
+
+school. © During the third phase the student-scribe became te assistent of a
+
+professional scribe in the bureaucracy, and stayed with him for a few years as
+
+an apprentice (Waetzoldt uses the term famulus “)eIn-this way, he could learn
+
+the particularities of the branch of administration in which he was going to work.
+
+© SAU 21, no. 24.
+
+Civil 1976, 128.
+
+® Van Soldt 1993, 441.
+
+® For Nuzi, see Purves 1940; for Bogazkéy, see Beckman 1983,
+
+“ Apart from the tri- and quadrilingual Sa vocabularies, in which the Hurrian column appears after the Akkadian but before the Ugaritic column, there is also the SumerianHurrian copy of Hh 2: 2.[23]+3.360 from ‘GP.
+
+ Waetzoldt 1989, 40. * Waetzoldt 1989, 38; see also Krispijn 1992, 21. *” Waetzoldt 1989, 41.
+
+Babylonian Lexical, Religious and Literary Texts ...
+
+voce tie a em 4
+
+Nothing along these lines is known about Ugarit. One can t. One can only say that the- say tha’
+
+whole curriculum, including the religious and aii rexis, can Say ea ont onbably be be E basic _scribal training, for a evel (
+
+"Obe is no sufficient_e e Same situation seems to apply for mar. Note that several scribes are attested there in colophons to both lexical
+
+and religious texts “, a further argument that the latter belong fo the regular 2
+
+Ticulum (see above, by
+
+—_—— 5. The alphabetic texts
+
+a, Study material
+
+The Ugaritic alphabet consisted of just thirty signs and was — at least in comparison to the syilabic script — relatively easy to master. The scribes who were trained to write texts in alphabetic script had to write two types of exercises: the alphabet and practice texts (fig. 3, p. 195). The student began by copying the alphabet. We have one exercise in which the master first wrote his version, which was then copied by the student (KTU 5.20). He then went on to practice the alphabet in context and for that purpose he. wrote lists of personal names (which are sometimes acrographic), exercise letters and even parts of religious and literary texts. Interesting is the alphabet with syllabic ‘equations’, KTU 5.14 ®. These exercises served as an introduction to the types of text that the future scribe would have to write: administrative lists, letters, religious and literary texts. In short, they give a good picture ofthe most important categories distinguished in KTU (1, 2 & 4).
+
+Thus, the material used for the study of the alphabetic and syllabic scripts was more.or less organized into a curriculum, first the list of signs, then practice texts. Most striking are the acrographic lists of personal names on separate practice tablets in both syllabic and alphabetic script. This leads us to the question whether scribes were able to read and write both scripts (and understand the languages written with them), or confined themselves to one script only.
+
+b. The use of the alphabetic and syllabic scripts by the same scribe
+
+The first question that must be answered is: did scribes who were trained in writing the syllabic script also leam the alphabetic script, or was there a complete separation? The latter does not seem very likely. After all, a scribe who was able to master the complicated syllabic cuneiform would certainly have no difficulty with an alphabet of just thirty signs with which he could write his own language. That the scribes who learned to write the syllabic script were natives of Ugarit can be seen from their names 7. that they practiced both scripts side
+
+® Arnaud 1987, 199f., 1. Ba‘al-malik, 4. [ladiJ-Bala, 8, Sin-abu, and 9. (Sama¥-abu). * See SAU 325, note 152. ™ See the list of names in Huehnergard 1989, 343f. and SAU 19f.
+
+183 Soy 
+
+184 W.H. ‘van Soldt
+
+by side can be seen from practice tablets where both of them appear. Thus, we have 22.225 from MT, on which we find an alphabetic religious text on one side (KTU 1.96), and the. elementary syllabary Tu-ta-ti on the other. There is also 20.148+ from Rap on which an excerpt of the Grammatical Texts is written. three times, with an alphabet impressed in between (KTU 5.16). From the same archive comes a tablet with an alphabet which is preceded by three lines of Akkadian (KTU 5.17). Moreover, we. have what could be a legal practice text with an alphabet at the end from the central palace archive (16.180) and, last but not least, we have the alphabet with syllabic equivalents from the southwest palace archive (19.159). Finally, it is worth noting that many of the alphabetic practice texts, including alphabets, were found side by side with syllabic lexical texts: in the house of the High Priest (GP1”), the western palace archive (PC/W ”), the eastern palace archive (PC/E ”), the central palace archive (PC/C ™), the archives of Ra’ap’abu “, Rapanu ”, and the 'Maison-auxTablettes' (MT ”’). Moreover, there is to my knowledge not a single archive where scribes wrote only one script. Even in the house on the southem slope of the Acropolis (SA: PH-Lam) the separation is noi complete. Thus,-we find an administrative text in alphabetic script among the lexical texts from Lam ”, and from PH we have a few texts in syllabic script ”,
+
+Secondly, from the many alphabetic administrative texts with syllabic captions it seems. likely that the scribes who wrote these texts had at least an elementary knowledge of the syllabic script. It is also worth noting that many of these syllabic captions were-written in places where the scribe would look for quick reference: summations, often on an edge which could be read -when tablets
+
+” Syllabic: 1.[59] and 1.[60] (Hh 1), 1.[58] (Hh 2), 1.[62] & [63] (Hh 3-5a), 1,65 eel (G). Alphabetic: 1.16 (acrographic list of PNs). Only tablets found in GP1 are isted here.
+
+i. Syilabie 12.47 (RSGT). Alphabetic: 12.19 and 12.63, both alphabets, and 12.64, a list of PNs. ® Syllabic: 15.54 (acrographic list of PNs). Alphabetic: 15.71 (alphabet).
+
+™ Syllabic: 16.364 (Hh11+Lu1), 17.03 (surface find, Hh 18-19). Syllabic and alphabetic: 16.180 (legal text and alphabet; that the syllabic part was meant as an exercise is not beyond doubt, see above, 2c).
+
+™ Syllabic: 17.336 (Hh 11-12) and 17.30 (fragment). Alphabetic: 17.63 and- 17.117 (practice letters),
+
+% Syllabic: hundreds of tablets, see Appendix J. Syllabic and alphabetic: 20.147 (syll. and alph. signs); 20.148+ (RSGT + alphabet) and 20.164 (syllabic text followed by alphabet).
+
+7 Syllabic: many tablets, see Appendix I. Syllabic and alphabetic: 22,225 (Tu-ta-ti and a religious text). Alphabetic: 23.492 (alphabet, found north of MT).
+
+™ 26.156 = KTU 4.746, see SAU 208, locus 6.26. _
+
+® 24.273 and 24,657 (letters which, however, were probably sent from elsewhere), 24.290 (adm, text).
+
+Babylonian Lexical, Religious and Literary Texts . . . 185
+
+were put on file ®. The question why in some cases the scribe chose an alphabetic summation or indication of content, and in other cases:the same in syllabic script cannot be answered. That scribes preferred numbers in syllabic script is understandable: writing the number in alphabetic script was usually more work.
+
+Thirdly, we have a number of texts which are probably Ugaritic translations from Akkadian originals. In the case of KTU 3.1 this is evident since we possess the original *', Two other examples of which we do not possess the originals are the alphabetic letters KTU 2.38, a letter from the king of Tyre to the king of Ugarit, and 2.39, a letter from the Hittite king to ‘Ammurapi’. Hoftijzer has convincingly argued that both letters must be translations since they had been put in the oven for baking ”.
+
+Fourthly, there is at least one scribe who appears to have written documents in both alphabetic and syllabic script: Burqanu. This scribe is the author of four legal texts, three in syllabic, one in alphabetic script *. The case of Ili-malku was argued in SAU 27f. If the identifications of the three persons mentioned there proves to be wrong, the Ili-malku of the literary texts can also have written his copies under king Niqmaddu III, not long before the destruction of the city. See also c, below.
+
+Finally, there are some considerations of a more general nature. First of all, it must be assumed that the syllabic cuneiform and the materials with which it was written served as a model for the alphabetic texts. Not only: are the tablets identical in the way they were fashioned (written. with a stylus on clay), they also show the same format as the syllabic texts. Since the latter ultimately derived from Mesopotamia, the origin of the system of writing must be sought there. It is only the alphabet itself which was: different from the imported cuneiform script. However, the forms of the signs were probably adapted to the
+
+% See in general, KTU 506. Compare, for example, “KTU 4.68, 4.102 and 4.648 (indications of content on the left edge), 4.69 (summations on the right edge), 4.93, 4.232, 4.308, 4.693?, 4.754 (summations on the left edge), 4.340 (the same, but in alph. and syll. script). Note also 4.48, 4.90, 4.100, 4.704 (summations on the rev.), and 4.165, on which the obverse is inscribed with alphabetic, the rev. with syllabic script. In 4.381 the alph. rev, is a tranlation of the syll. obv.
+
+5% Van Soldt 1990, 354f., with literature.
+
+® Hoftijzer 1979, 383; for 2.39, see also Hoftijzer 1982, For the oven, see SAU 110f. Of course, one could argue that these texts were translated because most of the scribes could not read Akkadian. In. that case, however, one would expect many more translations of Akkadian texts. It seems more likely that copies of these texts had to be made for a specific reason (a copy for the administration in the case of KTU 3.1) and that the scribes preferred to write these copies in Ugaritic.
+
+® Syllabic: 8.145, 17.251 and 25.137, Alphabetic: 19.66 = KTU 3.8. See SAU 20 (no. 14) and 26f. ; 
+
+186 "WH: van Soldt
+
+new writing material“. As to the format of the alphabetic texts, we see that many different types of tablets were patterned after the syllabic models. The clearest example is formed by the legal texts, which in their formulae are literal transliterations from the Akkadian. Another example are the letters, which show all the characteristics of their syllabic counterparts. The same goes for the administrative texts, and for religious texts such as omen compendia which, however, probably go back to Babylonian originals ®. The format can also clearly be seen in the literary texts, in which we find a division in columns. Note that also the direction of inscribing the tablets was the one customary for syllabic texts.
+
+That scribes cannot be separated into two different groups, one writing only alphabetic texts, the other only syllabic texts, seems the more logical assuraption if we remember that Akkadian and Ugaritic occurred side by side in most archives and genres of texts. eral, scribes probably worked not just i place (see my remarks on the scribes of the lexical texts), but could be employed ‘by different mastersThe- most imporemt of these was, of course, the palace A
+
+“mumber of scribes were employed in the palace administration, where both SCTI © Do we then have to conclude that 6cribeg in Ugarit were as a rule bilingual?
+
+Probably not. The way in which they wrote Akkadian shows that they had at least a passive knowledge oF the language, but that it certainly never attained the
+
+‘status-Of a Tanguage in which they were-as uent ae their own Therefore, the scribes were not bilingual in the strict sense, but rather¢biscriptal’)a term put orward here for want of better, NS”
+
+c. The alphabetic literary texts.
+
+The last point to be discussed concems the literary texts written in alphabetic script. As stated above, the format of these texts closely resembles the format of the ones in syllabic script, specifically that of the lexical and literary texts. It is only by content that they are an original creation unparalleled in Babylonian literature, Most of these literary texts have been put into writing by a single scribe, ilmlk, probably to be vocalized Ili-malku °”.
+
+The texts have come down to us in their written form. Since there are no
+
+“ This is not the place to go into the theories about the origin of the alphabetic cuneiform script. See most recently, Dietrich & Loretz 1986, 1988 and 1989, Sass 1988, 19914 and 1991b,
+
+*S See in general, Dietrich & Loretz 1990a' and 1990b.
+
+** For a comparable situation in Old Babylonian Mesopotamia, see Kraus’ remarks in Kraus 1973, 31£.
+
+* The reasons for this reading are given in SAU 21 note 182,
+
+m4
+
+Babylonian Lexical, Religious and Literary Texts... 187
+
+literal duplicates to the texts * and since there is no evidence that alphabetic cuneiform was written before the last phase of the Late Bronze Age, one has to assume either that the written version came into being on the basis of existing oral traditions, or that we have here a completely new creation. Since there is enough evidence to assume that there was an oral tradition ®, the texts are either an accurate reproduction of this oral tradition, or are based upon this tradition but have been subject to editing. At any rate, it seems likely that the oral transmission of these texts had primacy over the written form. ”
+
+Of importance for the status of the written version is the question at what stage of his career the scribe Ili-malku wrote these texts down. The only information we have on Ili-malku is written in the colophons which he added at the end of some of the tablets:
+
+[spr.ilmlk.f |y.ngmd.mlk.ugrt (KTU 1.4, left edge).
+
+spr.ilmlk Sbny | Imd.atn.prinrb | khnm rb.ngdm | fy.nqmd.mlk ugrt | adn.yrgb.b' Ltrmn (KTU 1.6 vi 54-58).
+
+c. spr.ilmlk.t y (KTU 1.16, left edge).
+
+d.  [spr.ilmlk Sbny Imd.atn.Jprin (KTU 1.17, left edge).
+
+oP
+
+Assuming that the restorations are accurate, and that the texts were all written at roughly the same time ™, we can make the following observations: 1. In colophon c Ili-malku alone occurs and is called a fy. In colophon a,
+
+although partly restored, we have to assume that his name preceded the title
+
+fy, which in this case is attached to the name of Niqmaddu, king of Ugatit.
+
+Therefore, it seems likely that the title refers to him in colophon b as
+
+well °,
+
+2. According to colophon b, Ili-malku came from the town of Subbanu and was the student (md) of Atténu the diviner °. The same words probably have to be restored in colophon d. They are also attested in the colophon to
+
+* For slightly divergent versions of the texts, see De Moor 1971, 2f. and Dijkstra 1983. That some of the parallel texts were actually exercise tablets has been demonstrated recently by Dietrich & Loretz 1991.
+
+" Compare the Hittite parallels listed in Laroche 1971, nos. 342 and 349; see Hoffner 1990, 69f. (with bibliography on p. 73). For the historical background of the literary texts, see De Moor 1971, 48f.
+
+® De Moor 1971, 8 and 48f. For the question of orality, see, for example, Sasson 1979 and Aitken 1989 and 1990, 4f. For the possible role of oral transmission in Mesopotamia, see Vogelzang & Vanstiphout (eds.) 1992.
+
+L Freilich 1992, 23, who points ‘out a flaw in Van Soldt 1988.
+
+* Freilich 1992, 23. * For this interpretation, see Van Soldt 1989. 
+
+W.H. van Soldt
+
+a recently discovered literary text ™*,
+
+3. The remaining titles in colophons a and b must have belonged to Atténu and Niqmaddu, respectively. Otherwise, we would expect them to show up inc and d as well. Therefore, Atténu was "high priest and chief of the nagidiima", and Niqmaddu was "king of Ugarit", as well as "lord of Yrgb, master of Irmn",
+
+Especially point 2 is relevant for our discussion about the status of the written
+
+version. We have seen that in syllabic texts teachers were only mentioned in
+
+colophons to texts forming part of the school curriculum. Outside these texts names of teachers are never mentioned. Since, as we have seen, the scribes applied all the conventions of the Babylonian cuneiform texts to the texts in their own alphabetic script, it seems reasonable to assume that Ili-malku followed these same principles. This means that he probably was a student when he wrote the literary texts and that he did so under the guidance of his teacher Atténu, the high priest °. As pointed out by Segert, some of the mistakes found in the texts can best be explained if the texts were dictated to him *, and in this he was followed by De Moor *”, Later studies of spelling errors leave the question whether the scribes wrote from dictation or copied from a vorlage undecided *8, In the light of the total absence of Vorlagen ®, however, it seems reasonable to surmise that the texts were written from dictation. The same is probably true for most of the syllabic school texts which, at least at the initial
+
+stage of scribal training at Ugarit, must have been dictated by the teachers who first came to the city.
+
+4 Bordreuil, oral communication, Curiously enough, this text was found in the Centre Ville.
+
+* Freilich 1992, 23f. states that Imd-atn, "student of Atténu" was a title of Tli-malku which served to show his proficiency, more or less the equivalent of modern university titles such as "Ph.D.". However, this is not very likely. The mentioning of a teacher in texts other than schoo] texts is unparalleled at Ugarit, and the ‘habit of mentioning one's teacher as a reference for one's, professional status is unparalleled in Western Asia. The comparison with modern terminology leads, as so often, to unacceptable anachronisms, On page 25 of her article, Freilich says that the expression "servant of DN" in the syllabic colophons is "a form of piety very popular with the scribes of Akkadian". However, it should be noted that the gods mentioned, usually Nabd and Nisaba, are included because they are the patrons of (Mesopotamian) scribal art. The same holds true for Ea, who is the patron of all crafts (compare the Emar colophons, Arnaud 1987, 199f,). It should be compared to Mesopotamian doxologies like “Nisaba zi.mf, Note that the god Sugarduruna may have been chosen by some scribes because he is the last entry in the Weidner God List, see Ugaritica 5, 224 and 230.
+
+*S Segert 1958, 201. However, on page 211 he states that most of the errors can be explained if one assumes that the scribe copied from a vorlage. .
+
+” De Moor 1971, 5. *8 Richardson 1973; Dietrich & Loretz 1991. ® Dietrich & Loretz 1991, 100f.
+
+Babylonian Lexical, Religious and Literary Texts... 189 Thus, Ili-maiku most probably wrote the written version of the Ugaritic literary texts during the final phase of his scribal training under his teacher Atténu, who probably dictated the text to him”. In his work he shows the same skill as the student-scribe Yanhanu, who copied so many lexical texts (see Appendix Illa). At the time Ili-malku was doing this work, he was already wearing a professional title, fy (ngmd mlk ugrt), a phenomenon for which we find many parallels at Emar *’ and in Mesopotamia *. This title fy may well have been the alphabetic equivalent of the syllabic title suKKAL ™, Both fy and SUKKAL are attested with scribes, and both titles appear to have implied a special relationship with the king (or queen) '“. The exact meaning of these titles escapes us. The SUKKAL appears as a title with scribes only, the title "chief of the SUKKALS" (gol. SUKKAL) is so far only attested in colophons, after the names of teachers : For the fy we have some indications as to the sphere of his activities, which appear to be rimarily cultic in nature ™. 7 However, if this equation of fy and SUKKAL is upheld, the fact that Dlimalku already had the title fy when he was still a student invalidates my assumption that scribes only became SUKKAL towards the end of their career 107
+
+100 De Moor 1971, 8 and 48, 11 Arnaud 1987, 199f. The most important scribe is Ba‘al-malik, who appears in colophons to Hh 1, 4, 5-7, a menology and an omen text (the latter two tablets were probably written during his training as a diviner). In the most complete version of his colophon (text 545V) he calls himself "scribe, diviner of the gods of Emar". Only in one colophon he possibly refers to his teacher (Msk 74133g). He apparently became a teacher himself, see colophon no. 12. Other scribes also mention their teachers, see nos. 11-13; some refer to themselves as "juniors" (nos. 2.1, 3, 5, 7.2).
+
+102 See Hunger 1968, 8-11. .
+
+13 See Van Soldt 1988. The equation was criticized by Freilich 1992, 24f.
+
+' Compare Van Soldt 1989, 318 (g,i,m) and 319 (d") with the alphabetic colophons b and c, above. According to Freilich 1992, 24f. the title SUKKAL cannot be identified with the title #y on the basis that the f y's sphere of activities was very different from that of the SUKKAL. She suggested that the title SUKKAL was used by scribes who bad to be fluent in Akkadian. This is possible, although there is no evidence for it. Since there appears to have been an intimate ‘symbiosis’ of the syllabic and alphabetic writing systems and scribes appeared to have used both systems side by side (see my discussion, above), it seems a priori unlikely to find a special title for scribes who knew Akkadian. 15 Van Soldt 1989, 318 (i,m). Since the title follows the names of the teachers and is not found with. students or in colophons of type B, I cannot agree with Freilich 1992, 23f, that it may belong to the student. Compare the titles of Ili-malku's teacher Atténu, discussed above, ‘
+
+16 Freilich 1992, 25; Fleming 1991, 146f.
+
+7 Van Soldt 1989, 3198.
+
+
+
+W.H. ‘van Soldt 6, Bibliography
+
+Aitken 1989, ‘Oral Formulaic Composition and Theme in the Aqhat Narrative', UgaritForschungen 21, 1f. Aitken 1990, The Aqhat Narrative, Journal of Semitic Studies, Monographs 13. André-Salvini 1991, 'Les textes lexicographiques', Une bibliothéque au sud de la ville, Ras Shamra - Ougarit VIE, 105f. Arnaud 1987, Textes de la Bibliotheque, Transcriptions at Traductions, Recherches au Pays @'AStata, mar V1.4. * Beckman 1983, ‘Mesopotamia and Mesopotamian Learning at Hattu’a', Journal of Cuneiform Studies 35, 97. Bordreuil & Pardee. 1989, La trouvaille épigraphique de l'Ougarit. 1. Concordance, Ras Shamra - Ougarit V/L, Cavigneaux 1980-83, ‘Lexicalische Listen’, Reallexikon der Assyriologie VI, 609. Cavigneaux 1985, The series Erim-huS ~~ anantu, Materials for the Sumerian Lexicon 17, 3f. Charpin 1986, Le clergé d'Ur au siecle d'Hammurabi (XIX*-XVIF siécles av. J.-C.). Civil 1976, 'Lexicography', Sumeriological Studies in Honor of Thorkild Jacobsen, 123. G18, Kizilyay & Landsberger 1959, Zwei altbabylonische Schulbiicher aus Nippur. De Moor 1971, The Seasonal Pattern in the Ugaritic Myth of Ba‘ lu, AOAT 16. Dietrich & Loretz 1988, Die Keilalphabete, Abhandlungen zur Literatur Alt-Syrien-Palistinas 1. Dietrich & Loretz 1989, ‘The Cuneiform Alphabets of Ugarit', Ugarit-Forschungen 21, 101f. Dietrich & Loretz 1990a, ; Mantik in Ugarit, ALASP 3. Dietrich & Loretz 1990b, ‘The Syntax of Omens in. Ugaritic', Sopher Mahir: Northwest Semitic Studies Presented to Stanislav Segert, Maarav 5-6, 89f. Dietrich & Loretz 1991, ‘Mythen als Schultexte', Ugarit-Forschungen 23, 91f. Dijkstra 1983, ‘Contributions to the Reconstruction of the Myth of Ba ‘al', Ugarit-Forschungen 15, 25f. Edzard 1982, : ‘Der Aufbau des Syllabars "Proto-Ha"', Societies and Languages of the Ancient Near East, Studies in Honour of ILM. Diakonoff, 42£.
+
+L is !
+
+Babylonian Lexical, Religious and Literary Texts. . . 191
+
+Fleming 1991, 'The Voice of the Ugaritic Incantation Priest', Ugarit-Forschungen 23, 141f. Hallo 1982, ‘Notes from the Babylonian Collection, II’, Journal of Cuneiform Studies 34, 81f. Hoffner 1990, ; Hittite Myths, SBL Writings from the Ancient World Series 2. Hoftijzer 1979, "Une lettre du roi de Tyre’, Ugarit-Forschungen 11, 1979, 383f. Hoftijzer 1982, ; Une lettre du roi hittite', Von Kanaan bis Kerala (Festschrift van der Ploeg), AOAT 211, 379f. Huehnergard 1989, The Akkadian of Ugarit, Harvard Semitic Studies 34, Hunger 1968, Babylonische und assyrische Kolophone, AOAT 2. Kraus 1973, ; , Vom mesopotamischen Menschen der altbabylonische Zeit und seiner Welt. Krecher 1969, ‘Schreiberschiilung in Ugarit: Die Tradition von Listen und sumerischen Texten’, Ugarit-Forschungen 1, 131f. Kirispijn 1992, ‘Naar school in het oude Mesopotamié', Phenix 38,3, 21f. Lambert 1957, ‘Ancestors, Authors, and Canonicity', Journal of Cuneiform Studies 11, if. Lambert 1962, ‘A Catalogue of Texts and Authors', Journal of Cuneiform Studies 16, 59f. Laroche 1971, Catalogue de textes hittites. Nougayrol 1965, “Wocalises" et "Syllabes en Liberté" & Ugarit', Studies in Honor of Benno Landsberger, 294. Nougayrol 1969, ‘La Lamaitu & Ugarit’, Ugaritica 6, 393f. Purves 1940, "The Early Scribes at Nuzi', American Journal of Semitic Languages 57, 162£. Richardson 1973, 'Ugatitic Spelling Errors', The Tyndale Bulletin 24, 129f. Rémer 1977, . Lets over school en schoolonderricht in het oude Mesopotamié. Sass 1988, The Genesis of the Alphabet and its Development in the Second Millennium B.C., Agypten und Altes Testament 13. Sass 1991a, Studia Alphabetica, Orbis Biblicus et Orientalis 102.
+
+Sass '1991b, . 'The Beth Shemesh Tablet and the Early History of the Proto-Canaanite,
+
+Cuneiform and South-Semitic Alphabets', Ugarit-Forschungen 23, 315f.
+
+
+
+192 W.H. van Soldt Sasson 1981, ‘Literary Criticism, Folklore Scholarship, and Ugaritic Literature’, Ugarit in Retrospect, 50 Years of Ugarit and Ugaritic, D. Young (ed.), 81f. Segert 1958, ‘Die Schreibfehler in den ugaritischen literarischen Keilschrifttexten’, Von Ugarit nach Qumran (Festschrift Eissfeldt), Beihefte ZAW 77, 193f. Sjéberg 1976, ‘The Old Babylonian Eduba', Sumeriological Studies in Honor of Thorkild Jacobsen, 159f, Van Soldt 1988, ‘The Title 7° Y', Ugarit-Forschungen 20, 313f. Van Soldt 1989, ‘tAin prin, "’Atta/énu the Diviner'", Ugarit-Forschungen 21, 365f. Van Soldt 1993, ‘The Ugarit Version of Harra-hubullu 20-21a: A New Source’, Mesopotamica - Ugaritica - Biblica. Festschrift fir Kurt Bergerhof, AOAT 232, 427-446. Vanstiphout 1979, ‘How Did They Learn Sumerian?', Journal of Cuneiform Studies 31, 118f. Vogelzang & Vanstiphout (eds.) 1992, ‘ Mesopotamian Epic Literature, Oral or Aural? (Proceedings of the 1990 Groningen Workshop). Von Soden 1969, ‘Bemerkungen zu einigen literarischen Texten in akkadischer Sprache aus Ugarit, Ugarit-Forschungen 1, 189f. Waetzoldt 1989, ‘Der Schreiber als Lehrer in Mesopotamien’, Schreiber, Magister, Lehrer. Zur Geschichte und Funktion eines Berufstandes, Johann Georg Prinz von Hohenzollern &.Max. Liedike (editors). Wilcke 1987, ‘Die Inschriftenfunde der 7. und .8. Kampagnen (1983 und 1984)', Isin-ISan Bahriyat HI, 838.
+
+20,135+ 20.139 20.155 20,177
+
+MT 22.220+ 22,225
+
+Lam
+
+Babylonian Lexical, Religious and Literary Texts...
+
+Silbenaiphabet
+
+Sa Syllabary — Appendix Silbenalphabet — Sa Syllabary Tu-ta-ti — Silbenalphabet — Sa Sytlabary(?) Sa Syllabary —- Appendix
+
+Silbenalphabet — Sa Syllabary KTU 1.96 — Tu-ta-ti
+
+Silbenalphabet — SaSyllabary — Appendix(?)
+
+Fig. 1 Combinations of texts on tablets from Ugarit
+
+
+
+Tu-ta-ti Sal
+
+Svo
+
+SaS
+
+SaV
+
+G
+
+RSGT Hh1 Hh2
+
+Hh 3-5a Hh 5b-7 Hh 8-9 Hh 10 Hh 11-12 Hh 13 Hh 14-15 Bh 16-17 Hh 18-£9 Hh 20-21a Hh 21b-22 Hh 23 Uh 24 Lut Lu2
+
+Lu App. Il Izi2
+
+Izi App. Dini 1 Diri 2 Diri 3 Diri App.
+
+Mea ©
+
+Ea
+
+Nigga Erimbué 1 Erimgus 2 Mise,
+
+Rap
+
+4)
+
+72) 62 6(2) 22
+
+9
+
+8
+
+13 12
+
+8
+
+12 4/2) 82
+
+7 222) 5 721) 2
+
+92
+
+1 3602} 13
+
+I
+
+3
+
+i
+
+532}
+
+2
+
+2
+
+ra
+
+perric
+
+“|] fe", saee we i
+
+~ |
+
+7
+
+se |
+
+uum
+
+GP
+
+W.H. van Soldt
+
+L/RSp
+
+Ul(l)
+
+34
+
+Palace
+
+Fig. 2. The number of lexical texts per archive, Bold face: unilingual texts, italics: multilingual, between brackets: (excerpts). Note that especially among the unilingual texts there many fragments which have all been counted individually.
+
+RIH
+
+Centre Ville
+
+mn
+
+1.16 8.203 10.81
+
+12.19 12.63 12.64 15.71 16.180 16,265 19.40 19,159
+
+19.31
+
+17.63 17,117
+
+20.147 20.1484 20,164
+
+22.01
+
+22.225 23,492
+
+24,281 24,288 24,293 24.649A
+
+26.136
+
+5.1 5.3 5.4 5.5 5.6 5.7 5.8
+
+5.9 5.13
+
+“5.14
+
+5.12
+
+5.10 3.11
+
+5.15 5.16 5.17
+
+5.18
+
+1.96 |
+
+5.19
+
+5.20 5.21 1,133 1.152
+
+5.22
+
+Findspot GPL
+
+Babylonian Lexical, Religious and Literary Texts...
+
+Ville Basse
+
+Northwest region
+
+PC W. entrance PC W, entrance PCW
+
+PCE
+
+PC/C
+
+PC/73
+
+PC/ASW PC/SW
+
+PS
+
+R5p R&p
+
+N of MT
+
+PH PH PH PH
+
+SA
+
+Type Acrographic list of PNs
+
+Writing exercise (Amr) Alphabet
+
+Alphabet
+
+Alphabet
+
+PNs
+
+Alphabet
+
+Syll. legal text + alphabet Letter + alphabet + ?
+
+Alphabet
+
+Alphabet + syilabic equivalents
+
+Alphabet
+
+Letter Letter
+
+Alph. and syll, signs
+
+3 x RSGT + alphabet SyWabic text + alphabet Acrographic list of PNs
+
+Religious text + Tu-ta-ti
+
+Alphabet
+
+Alphabet (master + student)
+
+Alphabet
+
+Literary text D/L, UF 23, 1991, 91f. Literary text D/L, UF 23, 1991, 91f. Words + PNs Dijkstra, UF 18, 1986, 121£.
+
+Fig. 3. The alphabetic schooltexts
+
+
+
+1 See Bir, 47, 1990, 7298,
+
+196 W.H. van Soldt Appendix I: The lexical texts found at Ugarit Tu-ta-ti Findspot Langs, Remarks Scribe Teacher 20,125+154 Rap?+8 anil,  Tu-ta-titSal+? {...]x-a-bi [?} 20.155 Rap6 uni],  Tu-ta-ti+Sal 22,225 MT2 end, = KTU1.96+Tu-ta-ti +actogr. list (PNs?) 25.440(+)}455D(+)526E S of Lam+Lam unil. [...J-kur = [7] 25.450 S$ of Lam unil, Sitbenalphabet A Findspot Langs. Remarks Seribe Teacher 5.222bis Acti (near Dagan Temple) unil, 20,125+154 Rap7+8 unil. = Tu-ta-titSal+? [...]x-a-bi [7] 20.139 Rap26 unil, = Sal+SaS+? 20.155 Rap6 uni, — Tu-ta-ti+ Sal 20,215 ° Rap5 unii. ‘Text written pvice 22,220+24.77 MT3+¥VS dump unl.  SaleSaS 25.133 foot of the tell unil. 25.438B(+?)455H W of Lam+Lam unil, Sal+SaS 34.62 "” anil. Silbenvokabular A Findspot Langs, Remarks Scribe Teacher 17.41429.103 outside RSp+MPC5 bil. bib-Ba‘lu = Sub-[...] 20.11 Rapé. dil4+comm. Excerpt 22,215(+)411 MT3(+)5 BEL. 22,222 MT5 Dil. 22.435 YS (NW of MT) bil. Sa Syilabary (SaS)} Findspot Langs. Remarks Scribe Teacher 14.128+25,128+26+ 154 “SA"+PH3+SW of Lam unil. —Paleogr. 20,1354+21.63C(+7)21.03D(+2)B Rap6+dump(+)Rap5 unil. SaS+paradigms 20.177421.210(+)20.196C Rapl1O+T, VIB{+)Rap7 unil, SaS+other 20.139 Rap26 unit,  Sal+SaS+other 20.186.3 Rap5 unil, 22.218 . VS unil. 22,2204+24,77 M7T3+¥VS dump uni,  Sal+SaS 25.438B(+7}455H W of Lam+Lam unil,  Sal+SaS (17,328 L unii.? —_ Paleogr.?} Sa Vocabulary (Sa¥)? Findspot Langs, Remarks Scribe Teacher 20.123+180A4C(=@)+185A+B RapS+Rap7+T.VI quadril SaV4G +190A+E4426C+E+21.07B Long version +'Pt,1858'+‘Pt.1844" 20.149{+)}426D(+)201G Rap3(+)RapS(+)RapiG+  quadri Long version
+
+4426G(+)426B 20.189A+B
+
+20.429
+
+21.62
+
+21,63D
+
+23.493A
+
+RIH 77/5
+
+(20.426F
+
+RapS Rap? Rap5 Nof Rap Rap dump NE of MT RH
+
+Rap5
+
+Babylonian Lexical, Religious and Literary Texts... 197
+
+quadril.
+
+quxkii.? Excerpt
+
+til.
+
+triquadr.?
+
+til.
+
+quadeil.? Excerpt trifquadr.? Only part of Hurr. column]
+
+Weidner God List (G)} Findspot Langs. Remarks Scribe Teacher L[65A+B+C} GP1 ? figs. 53024303 Acr. (T.¥) uni. ” 17.85 L anil. 20,1214121A Rap3 unil. Babylonian original? 20.1234180A¢C(=@)4I85A+B —- RapS+Rap7+T.VI quatril, SaV+G +190A+E+426C+E+21.07B Long version +'Pt.1858"+'Pt. 1844" 20.136 Rapé unil, Excerpt (rev, probstio pennae?) 20,175 Rap uni. 20,181.13 Rap7 unil.? fg. 20,195 A(+7)N Raps unil. Ewri-mudy (J 20,197F Rap6 unil, rg. 22.344+23.24 MTI/N of MT+N of MT nil. Ll ei 23.495 US unil. Abi-RaSap (9) 2%4.309A)B SA anil. 25.438C W of Lam unil, 34,178 “yar uni, rg. 79.024+80.388 Centre Ville unil. Yadib(?)-Rasap(?) [2] a Grammatical Texts (RSGT) —_Findspot Langs, Remarks Seribe Teacher i 2.17] GP bil. | 12.47 Western Entrance Palace bil. i 20.148+2 1.69 SWofRap+BofRap bil. ~—sthree times cold | + Uparitic alphabets (KTU 5.16) 4 20,165C4171,3+222C RapS+Rap bil, Excerpt 1 20.166A+B4228A Rapé bil. | 20.214A Rap4 bil. | 20.230 Rap6 bil —Catchline = Yanbinu J : 20,.241A4B Raps bil. : 22.227A MTS? bil. i 22.396 MT1.2 bil 25.433 SW of Lam bil. 25.442 Nof Agp bil. 25.459A4B Lam bil. i 25,526C Lam bil.
+
+Excerpt
+
+Short version
+
+Short version 
+
+W.H. van Soldt
+
+25.526D Lam bil.
+
+26.160 SW of Lam bil.
+
+Yarra-bubullz 1 Findspot Langs. Remarks Scribe Teacher 1.[59}(+2)2.(15]}(+7}4.[61] GPI(+?)GP2 unil, see UF 1,137 . 1,[60) GP1 unil. ibid.
+
+20.133{A] Rap5 dit,
+
+20.169 Rap? bit. Excerpt
+
+20.193 Rap? onil.
+
+20.426,9(+7)12 RapS unil.
+
+22,345+430B+432 MTI+MT4 unil,
+
+22,425 MT24N of MT unil.
+
+25.144 SE of Lam unil,
+
+79.022 Centre Ville unil.
+
+UYarra-bubullu 2 Findspot Langs. Remarks Scribe Teacher 1.£58) GP1 unil, .
+
+2,118] GP bil. Excerpt
+
+2.[23}+3,360 GP+GP7 bil. sum,-hurr, [..]
+
+6.000 Acr. surface bil. Excerpt
+
+17,250 L bil. Excerpt
+
+20,180E+197A Rap5+6 unil.
+
+20,174B Rap5 unil.
+
+20.197B Rap6 unil.
+
+20.2010 Rapid unil,
+
+20.200D Rap? uni.
+
+20.245 Rap6 unil, Yanhinu lli-f...) 21,034 Rap5, Tomb Vi unil. [...]
+
+21.220 Rap5, Tomb VIB unil.
+
+22.224 VS (N of MT} bil. Excerpt
+
+22.4174 MT4 unil,
+
+22.420 MT3 unil.
+
+25.429 SA (SW of Lam) bil.
+
+26.147 SA (SW of Lam) bil,
+
+Yarra-bubullu 3-5a Findspot Langs. Remarks Scribe Teacher L{62} GP1 unil,
+
+163) GP1 unit,
+
+2.16} GP bit. Excerpt
+
+2.[17] GP unil, [...-flugal [7] 3.318 GPI1 unil. Rabbanu -_ 20,1605 Rap5/? ? 20.161,18 Rap5 unl, fg. 20,161,20+197E Rap5+6 anil? fg.
+
+2 For the find circumstances, see the discussion in SAU 214f.
+
+(20.430D3 20,187B 21.05A 21.08B 2154D 22.217A(+)B
+
+22,2270 22.337A+B+338+339 22.342
+
+22.434
+
+. [80.385
+
+RapS
+
+Rap5
+
+Rap5, Tomb VIA Rap
+
+Rap5, Tomb VIA MT1.2
+
+MT1,2 Centre Ville
+
+unil.? unil. unil, unil, unil, unil,
+
+unil. unil, unil, unil, unil.)
+
+Babylonian Lexical, Religious and Literary Texts . ..
+
+fz.)
+
+[...] son of
+
+Nu‘me-Ragap
+
+Lod
+
+xL..J
+
+Ha?—Siskur
+
+Warra-gubuilu 5b-7 Findspot Langs. Remarks Scribe Teacher 13.53 foot of tell unil,
+
+17.98 L bil.
+
+20.128 Rap5 unil.? — frg,
+
+20.144M. Rap5,7 unil,
+
+20.160M+210B Rap5,7+5 unil.
+
+20,161 34,12+,194+171,5+165A Rap5+Rap unil.
+
+20.161,4&5 Rap5 uni, frgs.
+
+20.170B+187A+18 (B(+)201B Rap7+5+10 unil. 6.) Gamit-Haddu 20.181F-H Rap? unit.
+
+20.181,20 Rap? unil.? — frg.
+
+20.186,5 Rap5 unil.? —firg,
+
+20.206 Rap? uni,
+
+28.222D Rap5 unil.? = frg.
+
+20.2228 Rap5 uni.
+
+21.221 Rap5, Tomb YI unil. frg,
+
+22.404 MT3 uni, rg.
+
+22.414 MT3 unil. fg
+
+22,424 MT3 bil.
+
+22,429+23,26 MT1,4+W of MT unil.
+
+23,21483 E of MTS+W of MT1 unil.
+
+23,490A MT18 anil,
+
+23.4903 MTI8 unil,
+
+25.416 E of PHIL unil,
+
+34,180,2 “ dil. Excerpt
+
+(80.385 Centre Ville unil.)
+
+Yarra-hubullu 8-9 Findspot Langs. Remarks Scribe Teacher 20.824 WofL bil. Excerpt
+
+20.1264 Rap3 unil,
+
+20.126B+C Rap$ unil.
+
+3 Bither fiere or with Hh 5b-7.
+
+
+
+200 W.H. van Soldt 20.140 Raps until, 20.161.21 RapS unil. 20,165B+20.210A+426,2+ RapS+dump unil. Yanhanu. [ud 21,54C422,412 20.1814 Rap7 unil. 20.195M RapS unil. fg, 20.201D Rap) unil, 20,253 Rapé unil, 20,426] Rap5 unil, 21.03B Rap5, Tomb VI unil. 2L.54A Rap5, Tomb VIA unil. 22.228A+437A MT3,57+N of MT unil. 22.415 dump. VS unl, fg. 22.427 MT2 unil, 22.437B Nof MT unil. [jx [...]x~df 25.453+26.157 SW of Lam unil. [...J4ena Gamir-Haddu 26.149 SW of Lam unil, 34,128 “a bil, Excerpt UYarra-bubullu 10 Findspot Langs, Remarks Scribe Teacher 20.127B Rap5 unil. 20.137 RaplO unil. 20.173A Rap$ unil. Ewri-talmi [7] 20.195B RapS unil, 20.1951 Rap5 unil. 20,.251A+426H Rap/Street+Rap5 unil. 20,426,8 RapS unil.? — frg. 21.63E dump Rap unil, 22.423 MT3 bil. Yarra-bubullu 11-12 Findspot Langs. Remarks Seribe Teacher 16.364 PC/C65 unil, — Excerpt (Hhii+Lul} 17.336 R&p bil. Excerpt 20.132B Rapl0 anil. 20.138 Rapid bil.4 Excerpt 20,143D+181A+181,104198 Rap5,7+6 nail. +Pt1858 20,144P Rap5,7 unil. 20.181K Rap7 uni, 20.186A Raps unil. 20.188C Rapé unil, 20.195H Rap5 unil. 20.196B Rap? unil,
+
+4 Only part of the Sumerian column is preserved.
+
+Babylonian Lexical, Religious and Literary Texts...
+
+20,198B+D4427+427A, Rapé+7 unil.
+
+20.207B Rap9 unil.
+
+20.428 Rap5 unil,
+
+21.03C(4)4A(+)5B Rap5, Tomb VE bil,
+
+21.04C Rap5, Tomb VI bil.
+
+21.08C Rap6 unil.
+
+21.09 N of Rap bil Excerpt -22.403A+631A MT3+i,2,4 unit. (.] m7 22.4164436 MT44dump VS bil.
+
+80.386 Centre Ville unil,
+
+Harra-bubully 13(a-b)5 Findspot Langs. Remarks Scribe Teacher 17.40A+B° L unil. (.] Dagan-ba‘lu
+
+8.0, KA?-BE
+
+20,1610 RapS unil.? —frg.
+
+20.170E Rap? unil,
+
+20.186B Rap5 anil.
+
+20.201E+F Rapld unit,
+
+20.214C | Rap4 bil.
+
+20.234B Rap25 unil.
+
+20.4261 Rap5 nil.
+
+20,426,3 Rap5 bil.
+
+21.04D Rap5, Tomb Vi unil,
+
+21.07G Rap5, Tomb Vi unil.
+
+Uarra-bubullu 14.15 Findspot Langs. Remarks Scribe Teacher 6.407 MeB unil,
+
+47.1077 L bil. Excerpt
+
+17.114 L dil. Excerpt
+
+20.1604 Rap5,7 unil,
+
+20.195L. RapS uri,
+
+20.2224 Rap$ unii,
+
+20.426,1 Rap5 unil.
+
+2L.04B Rap5, Tomb VI unil,
+
+21.07D Rap. Tomb VI unit.
+
+21.084 Rapé unil. Yanhiinu va} 22.397(+)426 MT1,2,N of MT+MT2 bil. Excerpt . 22.410423.489+24,658+659 VS+W of MTI+MT15+ — unil. Ewri-mudu — [...]
+
+NW of MT
+
+5 The tablet was probably divided in two at Ugarit: texts 20.186B, 20:201B+F, 20.214C, 20.4263 and 21.04D
+
+seem to belong to the first part (udu-us-iz-[m48}-sila,-eSgar}; texts 17.40A+4B, 20,1708, 20,234B, 20.4267 and 21.076 to the second part (gud-4b-amar-anse-emes).
+
+6 The seconstruction of this tablet in MSL 8/1, 100F. is incorrect. The tablet has ca. 200 lines distributed over five columns. Text 20.170E has only four columns.
+
+7 ‘The tabtets 17.107 and 17.114 are consecutive, 
+
+W.H. van Soldt Babylonian Lexical, Religious and Literary Texts...
+
+i Yarra-bubullu 16-17 Findspot 34.180,19 oe a Excerpt i 20.129 RapS 34.180,50+51 it il 20,171D Rap unit, TTT TTT TT i . a i . ks Scribi Teacher H 20.218 Rap6 bil. Excerpt Yarra-hubullu 21b-22 pot tangs Renan cribe ac 21.068 RapS, Tomb VI bil, Excerpt naa melseace Re anil, 5
+
+il 22.337 MTL il. Mee ‘
+
+i on . . 22,217C MT12 unil,
+
+} 22,3464+349 MT1.2 bil, Ewr-mudu? Gamir-H{addu?] . vs unil
+
+l both sons of Nu‘me-RaSap 22.340
+
+23,82+364 MTs bil.
+
+: 22.436A(47)23.485A, dump VS+NE of MT bil, ; age bit, Excerpt
+
+i 25.415(+)454C(+)26.13741448 — SAG)Lam@)WofLam _ bil. 34.132 wage i.
+
+| +SW of Lam 34.168 34 bil. Bxoorr
+
+A 34.1669 “4 uni. 34.180,1 co bil. Excerpt
+
+. RIH77/24+78/13 RIH unil,
+
+| Yarra-bubeliu 18-19 Findspot Langs. Remarks Scribe Teacher OT f . if Langs. & ks Scribe Teacher ; 17.03 PCC surface anil, arra bubullu 23 rinse vanes eran
+
+20.32 Raps onil. Ba‘taku  Sapiu-matku 20.1274 Ros uni
+
+20.167 Raps unit. 20.1298 Rap’ i .
+
+i 20.189C Rap7 unil 20.143E Rap5.7 unit.
+
+t . . bil.
+
+iW 20.208 Rap4 unil. 20143H+181¢ Rors til
+
+: aie Ms ont 20.161,7+16SD Rap5 unil.
+
+24.3074 SA il 20,161.14 Raps unil,
+
+( bt 20,161.17 RapS unit. fg.
+
+: 25.455E+5184+519B Lam+S of Lam bil. 161, , wat
+
+i 25.5194 S of Lam bil. aoa Ras vnil,
+
+lh 25.519C Sof Lan unil. fg. ste Re ‘ nil, ip
+
+i 20.426,5 . .
+
+( ae ee a Excerpt 22.343 MTS unil, Yonbanu =)
+
+ti 34,180,21 4" bil, Excerpt 25,520A ‘ of Lam ta
+
+h 34,180.63 ogg” 2 fp. 28.53A .
+
+i ie il
+
+i . Remarks —_Seribe Teacher
+
+} Barra-bubullu 20-21819 Findspot Langs. Remarks Scribe Teacher arra-bubullu 24 Findspot Langs. Kena
+
+} 20,156 Raps anil 20.217 W of Rap bil, Excerpt
+
+, i il, fg,
+
+i 20.171A+1(#)2+44B+C Rap bil. Excerpt i 22.400 Nara mr ,
+
+i 20.186,1 Raps unil, i 22402 Not wnt
+
+i 20,186.2 Raps unil.? frp, i : it
+
+1. | Hh24+Lul
+
+20.1866 Raps mil? fg, 23.80 MTS anil.
+
+en eI. I 20.192 Rap? bil, . | i
+
+Langs. Remarks Scribe Teacher i 20,201A+243+4(4)146 Rep10 unit. Yanhanu —-Niir-Malik tas Finda Lang
+
+i eee Rapid mall? 16.364 PCIC.65 nil, one fine bit
+
+| 2sai9. SL _ 20,132A+143C RaplO+Rap5.7 bil
+
+j 25.419 $ of Lam unil, 20, 143F Rap5,7 unil
+
+i 34,180,12 “344" itl Bx . .
+
+| See er 20,1613 Rap5.7 bil,
+
+; Only Hh 16. The tablets were possibly not combined in Lam,
+
+Only Hh 17. k : » " icle i : t 12 20,127A and 20,143H+181C are possibly parts of the same tablet. See my article in the Festschrift Bergerhof, i 13 ‘Texts.20,161E, 20.188E and 20,426.13 probably belong to the same tablet,
+
+1t Only the Sumerian column is preserved.
+
+
+
+204 W.H. van Soldt 20.1730+426,4 Raps bil. Excerpt 20.181E Rap? bi. 20,1881 Rap? unif, 20.188E Rapé bil. 20.426,13 Rap5 bil. 20.430C Rap5 unil. 22.229 MT5 bil. oil) 22.4034431B+433A+B+C MT34+1,2.4 bil, 22.430A14 MTL4 dil, 23.80 MT5 unit.  Hb24+Lyt 26.146 SA {SE of Lam) unil, 34, £80.6 i frg. 34,180,7 “34qr* bil. Excerpt? 34,180,37 “aq” frg. 34,180,40 “34" frg, 34.180,47 “34" frg. 34.180,52 “34” bil. Excerpt Lu 2 Findspet Langs. Remarks Scribe Teacher 3.309 . GPI10 unil. 20.160F+K Rap5,7 bil. 20.181,124234A Rap7+25 bil, 20.430B Rap5 unil, 21.075 RapS, Tomb YI bil, 24.76 : E of PHI bil. 25.438A W of Lam dil. 25.522A+B $ of Lam unit, “Lu Appendix” Findspot Langs. Remarks Scribe Teacher 21.07F Rap5, Tomb VI bil. frg. 22.417C MT4 bil. frg. iri err wil Findspot Langs. Remarks Scribe Teacher 22,3944+23.30+366 MT12+dump MT unil, +W of MT 20.134 Rap26 bil, 20.195E Rap5 bil. 20.204+213 Rap26 bil. 25.454A+B+E!5 Lam bil. 26.136+139B ‘W of Lam+SW of Lam dil. ii tt Izi 2 Findspot Langs. Remarks Seavibe Teacher 2.{43} GP unil. catchline Rabbanu —
+
+14 92.4304 probably belongs with 22.403+, 15 25.454A+ and 26,136+ probably belong to the same tablet.
+
+|
+
+Babylonian Lexical, Religious and Literary Texts... 205 to Diri I son of Sumeyanu 20.127C+154A+229+426+4 26.7 Rap5+8 bil. he “Izi Appendix” Findspot Langs. Remarks Scribe Teacher 20, 142B(+)C Rap6,?. dil, 21,01 Rap3. Tomb VI bil! — Excerpt 21.06A Rap§. Tomb VI bil. Excerpt a Diri 117 ; Findspot Langs, Remarks Scribe Teacher 20.122 RapS bil. 20,198C Raps bil, 22,401 MT24 bil. 22,408 MTIN of MT bil, 25,4344456A+514A+26,138 S of Lam+Lam bil. +SW of Lam aS Diri 2 Findspot Langs. Remarks Scribe Teacher 17.154 Rap bil. 20,203A . NofRap bil. IC Diri 3 Findspot Langs. Remarks Scribe Teacher 22.227B{+)228 MTS? bil, Ttahmu (...] ee “Dirl Appendix” Findspot Langs. Remarks Scribe Teacher 21.65 NE of Rap bil. al Table of Measures (Mea) Findspot Langs. Remarks Scribe Teacher 20.14 Raps anil, Only ki.babbar Sadaya ~~ {catchline to 6.308) 6.308 Acr. anil, = Only a.3& Saduya _ 20.160N(+)196A(4) 16D Rap5/7(+)Rap5(+)Rap5+7 unil. Yanhanu Nir-Malik +161,16+181D+181,9 +Rap dump +21.05D(+)21.07H+21.634 21.10(+)20,222 Rap7(+)5 unl, 20.186,12 Rap5 unil. fg. 25,5115 . Lam unil, rg. rr Ea Findspot Langs. Remarks Scribe Teacher 25.459+26.150 Lam+SW of Lam bil, ee i A Nigga Findspot Langs, Remarks Seribe Teacher 20.221 Rap24 bil.
+
+16 The tablet has three columns. the middle of which contains phonetic spellings of the Sumerian, 17 ‘There are.a short and a long version: 25.4344 has a version which is almost twice as long as the version of the
+
+other texts»
+
+
+
+W.H. van Soldt
+
+Erimpué 1 Findspot Langs. Remarks Seribe Teacher 26.139A SW of Lam bil. Erimpué 2(?) Findspot Langs. Remarks Scribe Teacher 25.425 S$ of Lam bil, Miscellaneous! 8 Findspot Langs. Remarks Scribe Teacher 15.54 PC/E anil, —acrographic
+
+list of PNs 17,320 L bil, Excerpt 20,07 MPC unil, — acrographic
+
+* list of PNs
+
+20.153 Rap6 bil. acrogr, list!9 20.1606+H+L+430F Rap5,7+5 bil, =) 20.601 Rap5,7 ? =} 20.160P Rap5,7 7 = 20,224 Rap5 Dil Eximbus? 20.233 Rap5 dil. = 23.367 W of MT bil. = 23,487 NE of MT bil. Excerpt 25.431B Lam bil. =} 25.439 § of Lam bil. Cid 28.52 ? unil. — acrographic
+
+list of PNs 80.384 Centre Ville unl, =?
+
+18 Not included are the numerous fragments which contain small portions of lexical texts but have not yet been identified.
+
+19 Cf. Kagal 1 362f. (MSL 13, 230)?
+
+Babylonian Lexical, Religious and Literary Texts...
+
+Appendix Il: The literary texts found at Ugarit
+
+Text Genre Findspot Langs. Remarks Parallels Bibl.
+
+15.10 Wisdom PC/E akk,/burr. (Mesop.} See Nougayrol, Lambert, BWL 116 15,452 Incantations PC/C akk/sum, //17.155 Mesop. See Nougayrol.
+
+-Emar?-Bog. 46.346 ? PC/C akk. frg, 16.416 Incantation PC/62 syll.sum, — frg. re
+
+L
+
+A750 Lit. Letter L/Rap sum. H17.80 Mesop.-Bog. Civil, NABU 87/47 17.80 Lit. Letter L/Rap akk. HATO Mesop.-Bog, Civil, NABU 87/47 17.81 Rituat L akk. frg,
+
+17,155 incantations L akk/sum. //15.152 Mesop.-Emar?-Bog,
+
+Ee Incantation Rap6 akk. Mesop. Nougayrol, a MT . ; 22.2194398 2 MT5+2,5 akk. fragmentary 22,230 omens? MT? akk.? damaged 22.421 Atrabasis N of MT akk. Excerpt(?} Mesop. Lambert, Atr, 132 {Seribe: Nu*me-RaSap) 22.439 Wisdom MT4 akk. Emar-Bog. _ Dietrich, UF 23, 34f.
+
+(Scribe: Siptu(?), student of ALIM-SAG-x s.o, “Abdi-maiku) 23.344+363 “Poem of Early NofMT+NE  syil.sum. //25.130 Mesop,-Emar Alster, OLP 21, 5f. 44944721+721B Rulers” of MT+S of MT -akk. & 25,424
+
+23.38 Enuma Anu Enlil MT5 akk, Add Mesop. H RA 50, 16f. (iii) -(Emar}-Bog.! 28,53B Lit. vs akk. Emar if Emar no, 771. Lam (SA) 25.1294456B —_Incantations Lam+S of Lam akk/sum, Mesop.-Bmar* i 25,130 “Poem of Early Lam sum-akk,  //23.34+ Mesop.-Emar Alster. OLP 21, 5f. Rulers” & 25.424 4 25,141+454F Hemerology SofLam+Lam akk. Mesop.-(Emar) 25.418 Incantations S of Lam akk/sum. 25.420+440 —_ Lam. incant. Lam+S of Lam akk. Mesop. Farber, RIA 6, 440. \ 4$44$+44744564459C +SW of Lam (25.421+527A+B Ludingira Lam sum.-syli. tablet from Mesop.-Bog. (18 & Kramer, i
+
+1 From Emar there are only omens of Sun, Moon and Stars. 2 Partial parallels: KAR 181, rev. 6f.; 330 (references F, Wiggermann), and STT 2, 178:25f. Emar no. 735 is an incatation against simmatz, but it provides no direct paraile! to the Smmaty incantation on the Ugarit tablet, 
+
+sum.-akk, Hattif) Belleten 159. 4.138. 25.422 Incantations § of Lam akk. . 25,424 “Poem of Early § of Lam akk. #f23,34+ Mesop.-Emar Alster, OLP 21, 5f. Rulers” & 25,130
+
+25.435 Prayer? Eof PH akk, 25,4404 Hemerology S of Lam akk, Mesop.-(Emar) 25.443 Hymn?/Prayer? 5 of Lam akk, 25.457 Lam, incant, SA sum, cylinder Mesop. Farber, RIA 6, 440. 25.460 “Righteous Sufferer” Lam akk. (Mesop.)3 25.462 ? NE of Agp akk, Exercise 25.513 Lam, incant. S of Lam akk. frg. Mesop. Farber, RIA 6, 440, 25.526A Fable of dog & fox Lam akk. Mesop.-(Emar)Vanstiphout,
+
+‘ Acta Sum. £0 1916;
+
+Roliig, RIA 7, 60
+
+26.141 Hymn? SW of Lam sum.-akk, fragmentary 26,143 ? SA sum.-akk.? fragmentary 26.152 Ritual? 3 of Lam akk. (26,453 ? § of Lam akk. “a3q7 34.21 Incant.? "34" akk, RSO 7:45 34.172 ? "3q" akk, RSO 7:44 34,1808 ? "34" akk, RSO 7:43 Centre Ville 79.025A+B “Bénédiction” Maison A syil. sum, Emar if Emar 775. 79.025C “Bénédiction” Maison A akk, Emar // Emar 775. 79,026 omens Maison A akk. 80.383 Lit. Maison A akk. 80,389 Lit. Maison A akk, Misc. TOL Summa Izbu SW of tell akk. Mesop.-Emar Biggs 20f.
+
+3 The text is in its phraseology close to Ludiul bél némegi, see von Soden, UF 1, 191f.
+
+Ba‘lasku
+
+4.2
+
+Babylonian Lexical, Religious and Literary Texts . . .
+
+Name Teacher
+
+Abi-Raiap {?] 8.0. ureli?-ta-bu
+
+Sapsu-maiku
+
+Evri-mudu = [} [J
+
+Ewri-talmi = [2]
+
+Htabmu® f...]
+
+[PC/C,E]
+
+Irib-Ba‘lu — Sub-[...]
+
+8.0, “U-x, 8.0. Abi-yatac?
+
+grands.o, Abi-yatar’
+
+Nu‘me-Ragap* —~ father of Ili-SapSu, Gamir-Haddu, ¢,..-Z1 and...
+
+[PC/S, QR]
+
+Rabbfou _3.0, Sumeyanu —
+
+Saduys -
+
+Sipqu(?) 8.0. “Abdi-malku
+
+ALIM-SAG-x
+
+Yadih?-RaSap? (?]
+
+Nitr-Malik 7
+
+Ui-[...} [...]
+
+Yanbanu
+
+[7] Nir-Malik m
+
+Appenix Hla: Scribes arranged alphabetically
+
+Synchronisms
+
+tNiqmepa‘?
+
+“Ammittamru I - Nigmaddy I
+
+Tbiranu
+
+Gamir-Hfeddu?] Tbiréinu
+
+s.0. Nu‘me-RaSap s.o, Nu°me-Ragap
+
+Text
+
+23.495
+
+20.32
+
+20.195A(+) 22.410+
+
+20.173A
+
+22.227B(+)
+
+17.41+
+
+22,421
+
+3.318 2.{13}
+
+6,308 20.14
+
+22.439
+
+79.024+
+
+20. L60N(+) 20,230 20.245 20,165B+ 21.08A 20.201A+ 22,343
+
+22,346+349
+
+Findspot
+
+vs
+
+Rap5
+
+Rap MT
+
+Rap
+
+MT
+
+outside R&p +MPCS
+
+N of MT
+
+GPII GP
+
+MT
+
+Centre Ville
+
+Rap Rap Rap Rap Rap Rap MT
+
+MT
+
+Genre
+
+Hh 18-19
+
+G Hh 14-15
+
+Uh 10
+
+Din 3
+
+Svo
+
+Atrahasis
+
+Hh 3-5a Izi2
+
+Mea Mea
+
+Wisdom
+
+209
+
+Langs.
+
+sum,
+
+sum-akk.
+
+sum, sum,
+
+sum, sum.
+
+sum,
+
+sum. sum-akk.
+
+sum.
+
+sum.
+
+sum.
+
+sum.
+
+sum.
+
+bil. 
+
+210 vee abi (4 oiékur (?] oeclana Gamir-Haddu
+
+eelJugal (7
+
+5.0. Nu‘me-Rasap
+
+w.Dig.gi.ma —,,.-Sa-iskur
+
+tbirinu?
+
+tTbirinu?
+
+Hbirdinu?
+
+W.H. van Soldt
+
+20,125+ 25.446(+) 25.4534 2,{47]
+
+20,170B+
+
+Rap74+5+10
+
+22,.217A(+) MT
+
+22,337A+
+
+MT
+
+Tu-ta-titSal+?
+
+Tu-tacti
+
+Hh 8-9
+
+Hh 3-5a
+
+Hh 5b-7
+
+Hh 3-5a
+
+Hh 3-5a
+
+sum,
+
+sum,
+
+sum,
+
+sum.
+
+sum.
+
+Name
+
+ALIM-SAG-x
+
+Gamir-Haddu
+
+Babylonian Lexical, Religious and Literary Texts...
+
+Appenix IIb: Teachers arranged alphaberically
+
+s.o. Nu‘me-Ragap 8.0. Nu‘me-Ragap
+
+Lie. Nir-Malik Sapsu-malkv Sub-...
+
+5,0. Abi-yatar
+
+ve Sa-4i3kur
+
+Student Synchronisms Text Findspot
+
+Siptu(?} _ 22.439 MT
+
+s.0. SAbdi-malku
+
+4), -Z1 tTbiranu? 22.346+349 MT
+
+we cla-na 25.4534 Lam 20,170B+ Rap7+5+10
+
+Yanhanu 20.245 Rap
+
+Yanhanu — 20.f60N(+) Rap
+
+Yanhinu - 20.201A+ Rap
+
+Ba‘lasky tNigmepa‘? 20,32 RapS
+
+Ihib-Ba‘lu _ 17.4i+ outside Rip
+
+8.0, 9U-x, +MPCS
+
+grands.o. Abi-yatar
+
+» nig. gina — 22.337A+ MT
+
+Ytahma SAmmittamrm IT 22.227B(+) MT
+
+> Niqmaddu I Yanhana - 20.165B+ Rap
+
+Nederlands Instituut voor het Nabije Oostér Leiden - Nederland
+
+Genre
+
+Wisdom
+
+Hh 16-17
+
+Hh 8-9 Hh 5b-7
+
+Hh2
+
+Mea Hh 20-21a
+
+Hh 18-19
+
+Hh 3-3a
+
+Diri 3
+
+Langs.
+
+sum-akk,
+
+sum. sum.
+
+sum,
+
+sum, sum.
+
+211
+
+
+
+W.H. van Soldt
+
+Appenix Ic: Families arranged according to ancestors
+
+Name Seribe Synchronisms Text Findspot Genre Langs. Abi-yatar Irib-Ba‘lu (gr.s.) — 17.41+ outside R8p  Svo ‘sum’-akk, father of 4U-x student of his +MPCS5
+
+and Sub-[...], uncle Sub-[..,]
+
+grandfather of
+
+Irib-Ba‘tu
+
+(Wusfou* Ya" diranu* Nigmepa‘ (H.) various Jegal texts from the royal palace)
+
+father of Ya‘diranu Nigmepa‘ (PC] PC} - ‘Ammittamry II (Y.) (Karranu*]} =‘ Htahmmu* (son) = [Niqmepa‘ (K.)) - 22.227B(+4), MT Dir 3 sum-akk. [PC] PC] “Ammittamry II + Nigmaddu III (1)
+
+Nu‘me-Ragap* (do.) {Tbiranu} 22,421 Nof MT Alragasis akk, father of (li-Sap3u _ 17.36 R&p legad text akk.) Hi-Sapsu, {li-Sap3u — 22.223 VS legal text akk,) Gamir-Haddy 4, ,,-Z7 (student of Gamir-Haddu) 22.346+349 MT Hh 16-17 sum-akk, 4 -&... we (8.0, N-R) 22.217A4+) MT Hh 3-5a sum. (PC} (...-la-na (student of Gamir-Haddu'-25.453+ Lam Hh.8-9 sum.]
+
+but not a son of Nu*me-RaSap)
+
+... (student of Gamir-Haddu) 20.170B+ Rap7+5+10 Hh 5b-7 sum, (Yarimmu* Munabhimu*  Niqmaddul various legal texts from the royal palace) father of Munabbimu - “Ammittamra II (Y.) [PC] [PC] *Ammiftameu II (M.)
+
+* Scribes, teachers and/or ancestors who are (also) known from other genres of texts. See in general the discussions in Studies in the Akkadian of Ugarit (AQAT 40), chapter 1, $5.
+
+t Square brackets indicate that the relationship has been deduced from other texts. The identity of talumu son of Karranu and Iitahmu scribe in the royal palace cannot be proven.
+
+The Significance of SPN in West Semitic Thought
+
+A contribution to the history of a mythological motif Nicholas Wyatt - Edinburgh
+
+A paper on the theme of the History of Religions and Ugaritic myth could lead in a number of directions. Those that are entirely theoretical, in the sense that they would deal with problems in the theoretical approach to the discipline, are to my mind not terribly helpful, since grand theory always has to give way to awkward fact. The problem I shall treat is no less theoretical, of course, but at least it is testable, and seeks to answer a specific, and ultimately historical, problem, rather than simply indulging in airy speculation, or more dangerously, in the promotion of an ideological stance. The “History of Religions" indeed raises a problem of reference: the English expression is fairly neutral, simply
+
+_ denoting the study of religions within a historical framework, considering
+
+historical developments and so forth, while as I understand it the German term Religionsgeschichte can have a more restricted sense, denoting this approach applied to Israelite and Judahite religion in historical context, so that it merges with Comparative Religion and the History of Tradition (Uberlieferungsgeschichte). It can then take on a significant polemical role, which I do not see it as my brief to defend ',
+
+The "History of Religions" is better pursued in the former sense, but at the same time it is preferable to approach it ad textum or ad contextum rather than in the abstract, and the problems associated with spn seem to me an excellent field for enquiry in this context. Inevitably, since this topic also impinges on biblical matters, it becomes a study bridging the divide noted above.
+
+There has been considerable discussion conceming the. etymology and meaning of the Ugaritic term spn, appearing in Hebrew as sdpdn ("Saphon"). The vocalisation problem, which has taken up an inordinate amount of discussion, may be summed. up as follows:
+
+i) the unvocalised Ugaritic form is spx. ii) in Akkadian it is normally transcribed as Sepunu (nominative) as in sa-panmim™ (TM.75.G.1642) 7, or sapuna (oblique), as in the form gir sa-pu1 For a useful treatment of the problem, including problems of translation, see Hahn 1956, 83-118. .
+
+? Cited by Grave 1982, 161 n. 2, with sources. Also in the Esarhaddon treaty with Baal of Tyre (ANET 533f.): Hissfeldt 1932,6, Aimé-Giron 1941, 455, de Savignac 1984, 273, read the DN as Ba‘al Sapunu (from Scheil, Le prisme d’Assaraddon 37).
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

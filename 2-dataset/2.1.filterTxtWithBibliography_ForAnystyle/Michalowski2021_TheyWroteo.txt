@@ -1,0 +1,898 @@
+# METADATA
+Author: Michalowski P.
+Title: They Wrote on Clay, Wax, and Stone: Some Thoughts on Early Mesopotamian Writing
+Year: 2021
+Source_ID: Michalowski2021_TheyWroteo 
+Source_Type: Article in Journal: 
+Source_Role,Step_distance: 0,1,2 ,3,4 
+Pages: 67-89
+Web: https://doi.org/10.1515/9783110753301-005
+published: De Gruyter  
+
+# TEXT
+
+Piotr Michalowski
+They Wrote on Clay, Wax, and Stone: Some
+Thoughts on Early Mesopotamian Writing
+Abstract: The ancient Mesopotamian cuneiform writing system was used for
+almost three and a half millennia until other scriptural traditions eclipsed it at
+some time in the first or second century CE. The ubiquitous use of clay as a me-
+dium of writing has defined Mesopotamian manuscript cultures, but here we
+focus selectively on other media, including various kinds of stone and perisha-
+ble wax covered wooden boards, as well as other fragile media. Stone, however,
+was often reused or relocated by natives and by plundering armies and while
+clay is quite durable, because of vagaries of ancient archive preservation and
+modern looting we must work with documentation that is fragmentary and
+incomplete in its own idiosyncratic manner.
+1 Introduction
+The virtuoso musician Eric Dolphy famously mused ‘when you hear music, after
+it’s over, it’s gone in the air. You can never capture it again’. For tens of thou-
+sands of years, perhaps as long as a million or more, this has been true of those
+most human of all abilities, language as well as making music. The first known
+attempts at capturing in some form the kind of communication associated with
+natural language were relatively recent, going back approximately 5,500 years
+ago. A more precise dating is not possible: humans expressed themselves sym-
+bolically for millennia, but at what point such articulations intersected with
+language and to what extent, it is impossible to say.
+True writing, defined as a formalized autonomous sign system that seeks to
+represent natural language, was independently invented only four times, in
+Mesopotamia, Egypt, China, and Mesoamerica. Most such systems that have
+spread and developed throughout the globe had their roots in Egypt (the roots
+of most alphabetic systems) or China. Before the Chinese invention of paper
+some time before 179 BCE and its spread west, most writing was done on other
+plant-based materials such as papyrus, birch bark, silk, or palm leaves, on
+waxed surfaces, on pottery shards, stone, or on processed animal bones and
+skins (parchment). Many of these were awkward, heavy, or expensive to make,
+limiting their use. To make matters worse, nature, blind to history, is an efficient
+Open Access. © 2021 Piotr Michalowski, published by De Gruyter. This work is licensed
+under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+https://doi.org/10.1515/9783110753301-005
+68 | Piotr Michalowski
+recycler so that organic materials have little chance of long-term survival under
+normal circumstances. As a result, manuscripts often persist by accident in dry
+caves or graves, in oxygen-deprived bogs or waterlogged deposits, and under
+other unusual circumstances.
+Eschewing clumsy organic resources, the residents of southern Mesopota-
+mia chose clay as their vehicle for material communication and here, as in other
+cases, we must be grateful for mud.1 Building on various forms of pre-writing,
+by the last quarter of the fourth millennium BCE, they had developed a complex
+writing system exploiting two ubiquitous elements of their environment: clay
+for the writing surface and reeds as the inscribing tool: a stylus cut at an angle
+to create a point that was used to impress sequences of wedges,2 as described in
+detail by Cécile Michel in her contribution to this volume. From today’s vantage
+point, the choice of clay was felicitous, indeed: objects made from dried or fired
+clay can survive over the millennia in the earth and sands of Western Asia. The
+cuneiform writing system, first applied to write the isolate Sumerian and then
+the Semitic Akkadian (Babylonian and Assyrian) in Mesopotamia, was then
+adapted by neighbouring cultures to write other languages such as the Indo-
+European Hittite in Anatolia, the isolate Elamite in Iran, and the related but
+otherwise unconnected with any other known language Hurrian and Urartaen
+tongues. The beginnings of cuneiform can be dated to the middle if the fourth
+millennium and it is last documented in small numbers of tablets that may be as
+late as the second century CE.
+In terms of sheer numbers of documents and a time span of roughly three
+and a half millennia, the durable clay medium has proven to be more lasting
+than anyone could have imagined; the only other ancient manuscript culture
+that one can compare with greater Mesopotamia in terms of longevity and vol-
+ume of writings is early China. But numbers by themselves do not tell the whole
+story. As is the case in all manuscript cultures, the cuneiform record is uneven
+vertically and horizontally, both in time and in space.
+For example, the century or so when the Third Dynasty of Ur (c. 2110–2003
+BCE) ruled southern and central Babylonia is extremely well documented, with
+almost 100,000 published records documenting accounts from a select small
+number of archives, most dated by day, month, and year, covering six decades
+or so of economic activity. During its last years, while the Ur III polity was slowly
+||
+1 See Balke et al. 2015. Simon Franklin, writing on the preservation of letters on birch bark
+found in north-western Russian city of (Great) Novgorod, declared explicitly that ‘we should be
+thankful for mud’ (Franklin 2019, 1).
+2 Cammarosano 2014.
+They Wrote on Clay, Wax, and Stone | 69
+collapsing, a new dynasty emerged further north in the city of Isin and eventu-
+ally took over some degree of hegemony over central and southern Babylonia,
+but its beginnings are sparsely represented in the currently available documen-
+tation. Aside from a few literary compositions attested in later copies, the reign
+of its first king, Išbi-Erra (c. 2019–1987 BCE), and the first three, perhaps four
+years of his son’s time on the throne are only known from remains of a craft
+archive, mainly involving leatherworking, currently consisting of nearly a thou-
+sand documents, illegally excavated, possibly in the city of Isin, and scattered
+over several modern collections, not all of yet published. After that, the docu-
+mentation is even sparser, eventually picking up in the later years of the dynas-
+ty, but never remotely approaching the abundance of the Ur III accounts.
+Similar patterns are encountered throughout the three and a half millennia of
+cuneiform documentation: some periods of time are well-documented, others
+less so or not at all; some are known from large numbers of tablets from a few
+archives, others from fewer tablets from a broader spread of places of origin.
+Moreover, while clay tablets can persist for millennia, many examples in mod-
+ern collections are broken and incomplete, having suffered in antiquity but also
+more often than is supposed at the hands of modern looters, excavators and
+transporters.
+The availability of new cuneiform texts is very much dictated by the vagaries
+of contemporary geopolitics. Thus, the recent history of Iraq has resulted not
+only in the surfacing of large new archives from looting, but also in limited re-
+sumption of archaeological activity that has provided some epigraphic surprises.
+It is impossible to estimate the full extent of what was written in different
+times and places in cuneiform to any degree of accuracy. What we do have is
+very much dependent on the manner in which archives were treated in antiquity
+and in the circumstances of their modern recovery. The vast majority of cunei-
+form tablets are accounts of various sorts and as such were not intended to be
+kept indefinitely but were periodically sorted and discarded. As such, they are
+often found in secondary contexts, in trash deposits, used as fill in walls, floors,
+and even in clay benches and other domestic furniture. Often, they have been
+discovered in destruction layers of houses, palaces, or temple complexes, scat-
+tered by the victors or systematically sorted and selectively removed.
+2 Other writing media
+The ubiquitous use of clay as a medium of writing has defined Mesopotamian
+manuscript cultures for us moderns, and in such contexts, it is customary to
+70 | Piotr Michalowski
+exemplify this by citing the first half of the title of one of the best semi-popular
+books on the subject written by a scholar, Edward Chiera’s They Wrote on Clay.3
+But as abundant as they were, we well know that clay tablets were not the sole
+medium for Mesopotamian writings. Materials such as papyrus, parchment, or
+potsherds (ostraca) were used for writing Aramaic and possibly other languages
+in the first millennium, but these are different habits that will not be of concern
+to us here. Rather, our focus will be on cuneiform writing media made of other
+materials, often limited to specific inscriptional types. Thus, for example, tab-
+lets made of precious materials such as various stones such as alabaster and
+lapis lazuli, copper, lead, silver, and gold were used in various periods in foun-
+dation deposits, mostly inscribed with short royal dedicatory inscriptions, alt-
+hough anepigraphic ones were utilized on occasion.4 During the first
+millennium amulets with short incantations or excerpts from a poem about the
+god of plague were fashioned from stone or clay,5 perforated to be worn around
+the neck or suspended at a gate to ward off evil, although there were occasional
+examples that are earlier.6 Some amulets with incantations, however, were
+made of clay because this made it easier to make holes and slits in the sides to
+accommodate medicinal herbs.7 Stone was also used for other amulets such as
+those that carried with incantations to ward of Lamaštu, a disease-causing de-
+mon, while inscribed clay cylinders were hung around children’s necks to ward
+off fevers.8
+2.1 Stelae, statues, and monuments in stone
+Such special usage aside, the two main writing media used in the cuneiform
+tradition aside from clay were stone and wooden or ivory boards covered with
+wax mixed with yellow ochre (or possibly written in ink).9 The fragmentary
+nature of the record that has come down to us is particularly acute in the matter
+of large, inscribed stone monuments. As noted by Moorey, southern Mesopotamia
+||
+3 Chiera 1956. On the problematical issue of defining Mesopotamia as a manuscript culture,
+see Cécile Michel’s contribution to this volume.
+4 Pearce 2010.
+5 Reiner 1960.
+6 Wasserman 1994, 55.
+7 Panayotov 2018.
+8 Finkel 2018; for more various types of amulets see Heeßel 2012.
+9 On Akkadian kalû as yellow ochre see most recently Thavapalan 2019, 187 n. 43, with earlier
+literature.
+They Wrote on Clay, Wax, and Stone | 71
+was devoid of stone, save gypsum, limestone, and sandstone, although the
+annual flooding of the Tigris and Euphrates rivers bore with them boulders of
+other stones as well, while the north had ready access to limestone, sandstone,
+basalt, and marble.10 The surrounding regions, however, provided an abun-
+dance of more durable and attractive materials and these were acquired through
+barter, trade, and plunder. Some materials were obtained through indirect con-
+tact from as far away as Afghanistan, as was the case with lapis lazuli, which
+could be transported in manageable portions, by land, although traffic by sea
+cannot be ruled out. The procurement of larger stone pieces that could be used
+for life-sized statuary and other big monuments was a more complicated matter.
+The hard lustrous black olivine gabbro stone, much prized for such purposes,
+could be found in south-western Iran and in Oman, and the transport of large
+blocks was a logistically complex issue. As such, it was best suited for royal
+concern, best exemplified by the example of the late third millennium king
+Maništusu (c. 2334–2154 BCE), who led an expedition to Oman where he pro-
+cured large amounts of olivine gabbro, and ordered the fashioning of numerous
+statues of himself in standing and seated position as well as possibly other
+types of monuments that were set up in temples throughout his realm as well as
+elsewhere, thus playing out, to human as well as divine audiences, the herald-
+ing of his imperial reach.11
+Other kings erected inscribed and illustrated stelae, statues of goddesses
+and gods as well as of their own likenesses, and yet few such large monuments
+survive from the earlier period of Mesopotamia history, because the scarcity of
+the required materials made them much sought after for reworking by later
+generations, although clay tablets with copies of such inscriptions provide am-
+ple evidence of their existence. The ones that were not smashed by conquerors,
+broken down for reuse in later times, or stolen by latter-day robbers, survived
+either by chance, in places that were abandoned and not built upon in antiqui-
+ty, or in the collections of ancient plunders. Here, I refer only to three emblem-
+atic examples.
+Gudea, a twenty second BCE king of the southern Babylonian Lagaš polity in
+southern Babylonia, undertook many building and rebuilding activities during
+his reign, most prominently the complete renewal of the temple complex of
+Ningirsu, the titulary deity of Gudea’s capitol city of Girsu.12 In the process, he
+also installed his own stone life-size representations, standing and seated, in
+||
+10 Moorey 1994, 21–22.
+11 Eppihimer 2010.
+12 Winter 1992.
+72 | Piotr Michalowski
+the major shrines of the city. Soon after his death, the city lost its independence
+and was incorporated into the larger territory ruled by the kings of the Third
+Dynasty of Ur; its further fates are largely unknown at present, but eventually
+during the eighteenth century BCE, at the latest, it was abandoned until the third
+century BCE when a Seleucid governor by the name of Adad-nadin-ahhe built a
+palace on the site, had his people dig up ancient Sumerian antiquities and came
+across Gudea’s statues. These were brought out of their original locations and
+set up together with glazed bricks of the new master of the site, who had them
+inscribed in Greek and Aramaic, albeit in a manner imitating Gudea’s original
+captions.13 We know nothing of Adad-nadin-ahhe and even less of his motiva-
+tions: was his native language Aramaic or Greek; was he well enough educated
+to read cuneiform and to be able to appreciate the two-thousand-year-old Sume-
+rian texts or was his interest purely antiquarian and/or aesthetic? Sébastien Rey
+(2020), has argued, on the basis of new information gleaned from recent excava-
+tions at Girsu that this was an element of an ancestral cult honoring ancient
+Sumerian rulers. Whatever impulses led him to seek out, preserve but also ap-
+propriate these ancient statues, he gave them new life in an arrangement that
+can be seen reproduced in the Louvre Museum today. Here the combination of
+lack of rebuilding on the site that may have led to the destruction, removal, or
+simple reuse of the statuary, combined with some form of much later antiquari-
+anism and appropriation resulted in the survival of a unique set of Mesopotami-
+an statuary.
+The second case briefly invoked here concerns a hoard of Mesopotamia
+stone monuments discovered during the French excavations in the city of Susa,
+the seat of power of a series of Iranian polities that had a complex, often conten-
+tious relationship with Sumer, Babylonia, and Assyria.14 The collection included
+royal and elite monuments, but no divine statues. It has often been anachronis-
+tically described as a museum, but that misses the mark, as Potts has ob-
+served.15 Several major pieces in the display had new Elamite labels inscribed,
+making them as plunder from Babylonia, asserting Elamite royal power and
+dedicating the objects to the main god of the city. Such markers of hegemony
+and might can be superficially viewed as a semantic link with the European
+colonial concept of the museum, but that is not enough to define it in such an
+anachronistic manner. There is no ancient narrative describing the motivation
+or the process of acquisition of these artefacts. Moreover, the manner in which
+||
+13 Parrot 1948, 152–156.
+14 Harper, Aruz and Tallon 1993.
+15 Potts 2018, 620.
+They Wrote on Clay, Wax, and Stone | 73
+they were excavated and documented would never meet current standards and
+therefore one cannot establish with any precision how they were arranged, if
+indeed they were all accumulated under orders of the same monarch, and if
+they were in fact all on exhibit in the same place.
+The Susa collection was created at the command of the Elamite monarch
+Šutruk-Nahhunte (1184–1155 BCE)16 although some of his successors may have
+added artifacts as well, and in addition to objects of Mesopotamian origin it
+numbered Elamite monuments among the holdings.17 We know that this ruler
+invaded Mesopotamia and put his own son briefly on the throne of Babylon,
+and that it was this military expedition that resulted in the plunder of Babyloni-
+an monuments from several cities and their removal to Susa.18 Although Elam-
+ites had invaded Mesopotamia before, the preceding decades show no hostility
+between the two polities, as noted by Potts;19 indeed, the royal houses of both
+were linked by a steady pattern of intermarriage over more than a century, cul-
+minating with the marriage of the oldest daughter of the Babylonian monarch
+Melišihu (1186–1172 BCE)20 to Šutruk-Nahhunte sometime around 1190 BCE.21 The
+details of this series of royal marriages became apparent to historians with the
+publication in 1986 of a much later copy of a letter, found in Babylon and writ-
+ten in Babylonian, in which a king of Elam describes the history of these mar-
+riages and his claim to the throne of Babylon.22 The name of the sender is not
+preserved, but it is now generally accepted that it was none other than Šutruk-
+Nahhunte.23 The authenticity of the letter is open to doubt, but that is of no con-
+cern to us here, as the general pattern of the relationships between the two royal
+houses only serve as the background to the events that led to the Elamite inva-
+sion. Apparently, the royal line in Babylon that was allied with the kings of Susa
+was interrupted by the one-year reign of one Zababa-šuma-iddina (c. 1158 BCE),
+who was not of the same lineage. As stated succinctly by Potts, ‘Shutruk-
+Nahhunte’s resentment at not sitting on the Babylonian throne himself […],
+coupled with Zababa-shuma-iddina’s arrival on the scene and his own (i.e.,
+Shutruk-Nahhunte’s) father-in-law’s overthrow (by whatever means) would
+||
+16 Henkelman 2012.
+17 See the list in Potts 1999, 235.
+18 Potts 1999, 233–236; Devecchi and Lippolis 2020.
+19 Potts 2006, 117–118.
+20 Harper, Aruz and Tallon 1993, 178–179.
+21 A black limestone monument inscribed with a land grant to Melišihu’s son was also includ-
+ed in the Susa plunder; Harper, Aruz and Tallon 179–180.
+22 Van Dijk 1986.
+23 Henkelman 2012, 370, with references to earlier discussions.
+74 | Piotr Michalowski
+certainly have given the Elamite king ample justification for launching an as-
+sault on Babylonia’.24
+Judging by the inscriptions on the pillaged objects found in Susa, the Elam-
+ite army came into Mesopotamian down the Diyala valley and then down to the
+Tigris River, plundering the cities of Ešnunna, nearby Agade, then moving on
+south-west to Sippar and Babylon and possibly other towns as well. It is impos-
+sible to know if these targets were opportunistic, located on the march towards
+Babylon, or if Šutruk-Nahhunte and his officers had specific objectives in mind.
+Certainly, Agade and Ešnunna were of no strategic or military value. The former
+had been the capitol of a large territorial state a millennium earlier, one that
+had acquired legendary status by this time, but had since been of little im-
+portance and its precise location remains unknown to us today.25 Ešnunna,
+modern Tell al-Asmar,26 had a long history going back at least as far as the latter
+part of the fourth millennium BCE, both as an independent polity and as part of
+larger territorial states, but was conquered by the Babylonian king Hammurabi
+in 1763 BCE, after two and a half centuries of independence, never to rise again.
+Thus, in approaching Ešnunna, either on the way to Babylon or on the return
+journey, Šutruk-Nahhunte’s agents encountered a long-abandoned city; the fact
+that they remained there rummaging in the ruins suggests a premeditation and
+agency behind the search for precious artefacts destined for removal to Susa.
+The major source for much of this plunder may have been the Ebabbar temple in
+the city of Sippar.27
+Among the hundred or so objects exhibited in the temple complex of
+Inšushinak in Susa, three stand out for sheer size, authority, and unique status
+in modern views of ancient art and philology. The earliest is a grand four-sided
+block of black olivine gabro with a long inscription that details the acquisition
+of c. 3400 ha of lands by the Old Akkadian Crown – in this case in the name of
+the already mentioned king Maništusu – from elites that had come under the
+control of the central government in Agade.28 While formulated as a purchase,
+the sellers likely had no say in this, and it provides vivid evidence of the consol-
+idation of power by the Akkadian polity and the side-lining of old elites in fa-
+vour of followers of the royal family during the time of Maništusu. There are
+||
+24 Potts 2006, 118.
+25 Ziegler and Cancik-Kirchenbaum 2017, 147–228, including Paulus 2017 for the period under
+discussion here.
+26 Reichel 2013.
+27 Gelb, Steinkeller and Whiting 1991, 22.
+28 Gelb, Steinkeller and Whiting 1991, 116–140.
+They Wrote on Clay, Wax, and Stone | 75
+other scraps of evidence for this policy, but nothing compares with the detailed
+information contained in this ‘obelisk’. Other such monuments undoubtedly
+existed and provided vivid public demonstration of the scope and range of this
+centralization of power, but none of them have survived and we can only specu-
+late about the full range of this policy and its long-term consequences.
+Another monument that was part of this collection was a stone relief with a
+martial representation of the next king of Agade, Naram-Sin (c. 2253–2198 BCE),29
+wearing a horned crown that signalled his elevation to divine status, charging
+up a mountain leading his troops against his enemies, who are seen falling
+down from the slopes in battle. The Elamite king was justly proud of his acquisi-
+tion and had his own inscription added, flowing sideways on the mountain,
+similar to what he had written on other procurements from his raid on Babylonia:
+I am Šutruk-Nahhunte, son of Hallutush-Inšushinak, beloved servant of the god
+Inšushinak, king of Anshan and Susa, who has enlarged the kingdom, who takes care of
+the lands of Elam, the lord of the land of Elam. When the god Inšushinak gave me the or-
+der, I defeated [the city of] Sippar. I took the stele of Naram-Sin and carried it off, bringing
+it to the land of Elam. For Inšushinak, my god, I set it as an offering.30
+The compositional acuity and the vivid plasticity of the carving, especially of
+the dominating idealized figure of the young king, is generally considered as
+one of the great masterpieces of Mesopotamian art and has justly been the sub-
+ject of numerous studies.31 It is hard to question such appreciation, as anyone
+who has stood before the actual monument now standing against the wall in the
+Louvre can well attest. In the present context, however, there are certain ques-
+tions that one cannot avoid raising: was the Naram-Sin stela unique, or was it
+just one of many, was it truly a chef d’oeuvre of Akkadian art as it seems to us
+today because of its uniqueness, or was it just ordinary by the standards of its
+time? These are necessary, if somewhat futile interrogations, for they will never
+be answered, unless some fortunate archaeologists stumble upon the hitherto
+unidentified city of Agade, capitol of the Akkadian polity, and unearth a pletho-
+ra of preserved stone monuments that may provide a useful overview of the
+artistic production of the time of Naram-Sin.
+The Akkadian monuments found in Susa are not the only ones that have
+acquired special status because of their uniqueness. Undoubtedly, the most
+famous among them is the stela with the so-called Laws of Hammurabi, a tall
+||
+29 Harper, Aruz and Tallon 1993, 166–168.
+30 König 1977, 76; Van De Mieroop 2007, 188.
+31 See for example Feldman 2009; Winter 1996 and 2002.
+76 | Piotr Michalowski
+black olivine gabro stele with a long inscription in monumental script topped by
+a representation of the king standing before the seated sun god Šamaš, master
+of justice, that is one of the most famous of all Mesopotamian objects, celebrat-
+ed, quite incorrectly, in popular and political lore as the oldest law code on the
+planet. This particular exemplar most likely stood in the temple of the Šamaš in
+the city of Sippar, and by default it is often treated as unique, but there are rea-
+sons to believe that Hammurabi’s administration had similar stele erected in the
+major cities of his realm. While tablet versions of the text that was engraved on
+the stele circulated in Mesopotamia down to the latter part of the first millenni-
+um, used for schooling but also deposited in library collections,32 no such other
+monument has been ever found in Mesopotamia.33 And yet the excavators of
+Susa did recover stone fragments that must have belonged to two or perhaps
+more stone objects that were undoubtedly similar to the one reportedly plun-
+dered from Sippar,34 suggesting that they had been taken from other cities as
+well. It is difficult to know exactly what they might have looked like because
+there is reason to believe that the one complete exemplar known to us, the fa-
+mous stele standing today in the Louvre, had been partially altered by Elamite
+stoneworkers.35
+One early ancient collection that is entirely missing was distributed around
+the courtyard of the Ekur, great temple complex of the god Enlil in the city of
+Nippur. There are good reasons to believe that over centuries Mesopotamian
+rulers with larger economic, territorial, and political ambitions would commis-
+sion the erection of elaborate stone monuments in this abode of the god who
+controlled politics and hegemony in the universe, but they also left inscribed
+stone objects in other temples throughout their realm. These are known to us
+today because of eighteenth century BCE copies, mostly from the city of Nippur,
+although there are also similar copies made from objects dedicated in the central
+temple complex in Ur and elsewhere.36 The inscriptions from some of these
+monuments were copied by a few literati and their students, but the circum-
+stances of these labours are unrecoverable at the present time, although it is
+possible that they were created when Nippur and Ur took part in a rebellion
+against the Babylonian Crown. Perhaps this was part of a preservation project as
+||
+32 Maul 2012, Greco 2019.
+33 A fragmentary document from the Nineveh libraries may record the acquisition on a version
+inscribed on a wooden writing board, although this is far from certain, see Lambert 1989, 96.
+34 Nougayrol 1958, 150.
+35 Ornan 2019.
+36 Michalowski 2020, 694–696.
+They Wrote on Clay, Wax, and Stone | 77
+citizens in both cities awaited the armies of King Samsu-iluna (1749–1712 BCE),
+which did indeed retake both, exacting vengeance, as documented in the
+archaeological record.37
+Just about the only clue as to the precise original location of such inscribed
+objects in Nippur is found on a fragmentary copy of an inscription in the name
+the Akkadian ruler Rimuš (c. 2276+ BCE) that ends with the annotation ‘from the
+courtyard of Ekur’, similar to another such tablet that ends with ‘in Ekur, as
+many as there are’,38 although some may have stood in nearby areas of the com-
+plex. None of the originals have survived, undoubtedly cleared out in later
+times, some of them recycled in the service of other monarchs, because no such
+monuments were found during modern excavations of that Enlil’s temple. Other
+than this and other Nippur copies of third millennium inscriptions that were
+likely of similar origin, the Ekur accumulation, which must have constituted a
+veritable chronicle of the power aspirations and self-representative strategies of
+late third and early second millennium polity leaders, is simply unrecoverable,
+erased from memory by latter-day Mesopotamians.39
+2.2 Wooden writing boards
+The other writing vehicle used in Mesopotamia, besides the ubiquitous clay,
+was the wooden board covered with wax that was mixed with yellow ochre, in
+the first millennium at least. While there is sporadic evidence that may possibly
+suggest their occasional use of such as early as 2200 BCE, the systematic exploi-
+tation of this medium is only documented during the middle of the second mil-
+lennium.40 The signs of early utilization are somewhat elusive. The Sumerian
+word most often used to designate such boards, le-um (most likely a copy from
+Akkadian lē’ûm) is rare before the middle of the second millennium. As far as
+one can determine, there is no direct evidence currently available about the
+topic before Ur III times at the very end of the third millennium. A poem that
+celebrated the rebuilding by King Gudea of the grand temple complex of
+Ningirsu, the main god of his capitol city Girsu, mentions the appearance of
+Nisaba, the goddess of writing, accounting, surveying, and agricultural plenty
+holding such a le-um that is qualified as za-gin, the Sumerian word for lapis-
+3
+||
+37 Michalowski 2020, 695–696.
+38 Michalowski 1980, 239.
+39 On these monuments and for an attempt at a reconstruction of one of these, see Buccellati
+1993.
+40 Cammarosano et al. 2019, 129–131.
+78 | Piotr Michalowski
+lazuli, but which could also be used in metaphorical adjectival use as ‘shining,
+sparkling’. This is unique: in other contexts, she held a lapis starry tablet that
+figuratively designated the night-time sky with stars as cuneiform signs. Refer-
+ences in the abundant Ur III administrative record are conspicuously meagre, as
+noted by Volk and Steinkeller, who provides a full documentation, while also
+calling attention that there is hardly any evidence for the use of wax during this
+period in Southern Babylonia,41 and we learn from Volk’s detailed study of
+beekeeping in Mesopotamia that it is unlikely that bees were kept in the south
+in early times;42 further references from newer publications are provided by
+Derksen.43
+An early specific literary reference comes to us from the Sumerian poem The
+Curse of Agade (Saŋki Gida Enlilake), in which it is reported that the goddess
+Inana strove to raise the city to hegemonic status so that ‘(even the Iranian land
+of) Marhaši be re-entered on the (tribute) rolls (le-um-ma)’,44 a line plagiarized
+in a later forgery of an inscription of an imaginary earlier ruler named
+Lugalanemundu.45 The Curse was composed during the Ur III period or just
+before it, and this would suggest that at the time foreign tribute was registered
+on such materials, whatever they have been at the time. The matter is compli-
+cated by the fact that the Sumerian word le-um was also used in a technical
+sense for a part of a plow,46 and it is not always easy to discern which meaning
+is in play in an account text.47 In a somewhat later royal poem composed for
+didactic use, written in the name of King Lipit-Ištar (c. 1936–1926 BCE) the
+aforementioned goddess of writing and accounting Nisaba, confers upon him
+the cubit measure and writing board that ‘provide discernment’.48 This suggests
+that in these times writing boards were specifically used in the field as a porta-
+ble writing device and this also explains the Gudea passage cited above, in
+which the goddess appears in a dream with a metaphorical surveying note tak-
+ing board as she instructs the king to build a temple. The small number of refer-
+ences in such early texts in Babylonia throughout the first half of the second
+||
+41 Volk 1999, 284–285; Steinkeller 2004, 75–76.
+42 Volk 1999.
+43 Derksen 2017, 109–112.
+44 Cooper 1983, 50–51, l. 20.
+45 Güterbock 1934, 40, l. 5.
+46 Civil 1994, 81.
+47 A similar term ĝešda, which in later times was used as a Sumerogram for Akkadian lē’ûm in
+Ur III times designated boards of various kinds, but was never, as far as I am able to discern,
+used with the meaning ‘writing board’.
+48 Vanstiphout 1978, 36 –37, l. 24, 24a.
+They Wrote on Clay, Wax, and Stone | 79
+millennium may be indicative of rare usage or it may simply indicate that they
+were most often utilized outside of the standard archival contexts. But there are
+some indications that they might have been more common further north in what
+would later become Assyria and the further easy in Anatolia.
+Excavations at the ancient Kaneš in Anatolia, where merchants from the
+city of Assur lived and traded among the local population, have unearthed more
+than 22,700 tablets,49 many of them letters that provide abundant testimony
+concerning their affairs and their dealings with family members back home who
+were associates in business during the late twentieth and nineteenth centu-
+ries BCE.50 Two tablets found there mention an object designated in Akkadian as
+a ṭuppum ša iskurim, ‘a wax tablet’.51 These have now been discussed anew by
+Veenhof: one is in a letter written in Assur, while the second is an entry in an
+inventory of what appears to have been a private chapel, listed together with
+various cultic objects, including tools, so he suggests that these tablets ‘were
+symbols of the god who would see to it that in his presence accounts were set-
+tled in a honest and fair way’.52 The locals, however, were native speakers of the
+closely related Indo-European Luwian and Hittite languages, even if they occa-
+sionally used Akkadian inscribed on clay with cuneiform characters for written
+communication.
+Some of their accounts were in the form of texts referred to in Akkadian as
+iṣurtum, literally ‘drawing’ that were apparently documents provided by the
+local palace or by local businessmen to Assyrian merchants, but as far as one
+can ascertain, not a single text of this type has been found. Waal has proposed
+that they were in fact wooden boards or tablets that were painted or inscribed
+with an early form of an indigenous writing system that is known today as the
+Anatolian hieroglyphic script, later used only for the Luwian language.53 The
+earliest recovered examples of this writing system date from the thirteenth,
+possibly fourteenth century BCE (some would say earlier), but Waal has persua-
+sively argued that its roots go back to the end of the third or beginning of the
+second millennium BCE.54 Veenhof, while sympathetic to Waal’s thesis, has
+raised some important questions that still need to be answered if we are to fully
+accept it.55 Wooden boards, some covered with wax, were used in later times in
+||
+49 22,627 as of 2015, including those from early illicit digs, see Michel 2015, 525.
+50 Larsen 2015; Michel 2020, 1–38.
+51 Veenhof 2010, 100–101; Barjamovic and Larsen 2008, 153, 1. 2; Derksen 2017.
+52 Veenhof 2020, 242–243; see also Derksen 2017 for two references from Kaneš to wax itself.
+53 Waal 2012, 292–296.
+54 Waal 2011 and 2012.
+55 Veenhof 2020, 243.
+80 | Piotr Michalowski
+the administration of the Hittite polity and in throughout the Levant, but this
+must remain of no concern to us here.56
+The scarcity of references to wax in third and early second millennium
+Mesopotamia is puzzling, since we know that it was used in various forms of
+manufacturing, most prominently in casting metal objects with the lost wax
+technique and, of course, the scattered mentions of wax tablets suggest regular
+use. It is possible that this is a reflection of utilization outside of the purview of
+the accounting systems. Many questions about bees and their products remain
+unanswered: indeed, the Sumerian and Akkadian names for these wonderful
+insects remain unknown,57 there is not a shred of evidence for beekeeping in
+southern Babylonia (although the matter is different further north), the ancient
+words for ‘honey’ are contested, with good reasons to question its use in early
+times,58 and there are lexicographical uncertainties about words for ‘wax’.59
+These are complex matters that require complex technical study that belongs
+elsewhere.
+The earliest evidence for more systemic use of wooden boards comes from
+the middle of the second millennium from further north in Assyria where the
+climate was more conducive for beekeeping. As noted by Postgate in an essay
+on bureaucratic documentation, in reference to Middle Assyrian management,
+unfortunately one significant part of the record is missing, and that is what was written on
+wooden writing boards. We know, from references in the clay tablets, that these were used
+within the administration, probably only as unilateral documents, listing both people and
+commodities. It always raises the question in my mind, to what extent the clay tablets of
+the Mediterranean constitute the complete written record.60
+This, and other circumstantial matters prompted another scholar to suggest that
+gaps in the written record somewhat earlier, in mid-second millennium Babylo-
+nia, may be explained by a switch from clay to perishable materials such as
+wooden boards or palm frond ribs, but such an explanation must remain hypo-
+thetical at best.61
+||
+56 Symington 1991.
+57 Volk 1999, 280.
+58 Powell 1996, 107; see now in general Maiocchi 2012.
+59 The Sumerian term lal3-hur, used after Ur III only in literary texts, otherwise replaced by
+tuh-lal3, was discussed by Civil 1964, 74–75, with some clarifications by Sallaberger 2012, 301;
+see also Maiocchi 2012, 12, n. 7.
+60 Postgate 2001, 193.
+61 Dalley 2020, 18–19.
+They Wrote on Clay, Wax, and Stone | 81
+Writing boards became more much more common in the first millennium,
+when they were apparently made of sissoo, walnut, tamarisk, or cypress, but
+also of ivory.62 All but a few, mostly fragments, have perished in the Mesopota-
+mian earth, but the occasional illustration of scribes at work and a few surviving
+pieces of walnut and luxury ivory boards from Assyrian palaces in Nimrud and
+Assur can be reconstructed to provide a general idea as to how these looked and
+functioned: usually, they seem to have had two, three, or four leaves, connected
+with hinges.63 Textual references likewise document their extensive use in first
+millennium Babylonia and Assyria.
+A full study of the use of writing boards is yet to be written, but there is
+much scattered information on their use in various libraries and archives; a few
+examples will suffice here. The libraries of Assurbanipal in Nineveh, already
+referenced above, offer the best example of the extensive use of such boards for
+writing scholarly and literary texts.64 Moreover, it is evident that they were used
+widely beyond the library settings, as observed a quarter of a century ago by
+Parpola
+it is necessary to keep in mind that under the Sargonid kings a large part of all official
+documents and records were drawn up on materials other than clay: wax-covered writing
+boards, papyrus and leather. There is every probability that exactly the kind of documents
+that were liable to be stored in state archives (international treaties and correspondence,
+war diaries and sketches made during military campaigns, architectural and engineering
+plans and other documents relating to military, administrative and economic planning
+etc.) were largely written on such materials, which of course means that much if not most
+of the contents of these archives is now irretrievably lost.65
+Writing boards continued to be used in the subsequent Neo-Babylonian period
+(626–539 BCE), perhaps best exemplified by Michael Jursa’s detailed discussion
+of their use in accounting in the administrative records of the complex holdings
+of the Ebabbar temple estate in the city of Sippar.66 Wooden boards, as well as
+parchment and papyrus that may have been painted or incised with Aramaic
+alphabetic script, were used for various types of accounts and were apparently
+kept for some time, so that not all of them contained ephemeral data that was
+eventually copied onto clay tablets or discarded, with the boards erased and
+||
+62 Frame and George 2005, 82, n. 5.
+63 Jendritzki, Streckfuß and Cammarosano 2019.
+64 Parpola 1983.
+65 Parpola 1986, 225–226.
+66 Jursa 2004, 170–178.
+82 | Piotr Michalowski
+reused another day. Some daily ledgers and transactions were apparently only
+registered in this manner and will therefore never be recovered.
+The almost exclusive use of boards for specific types of information extends
+beyond accounting. Illustrative is the example of a Late Babylonian clay tablet
+with mathematical problem texts from Uruk that was copied, according to its
+colophon, from a wooden writing board. As observed by its editors Friberg,
+Hunger and al-Rawi,
+since no mathematical texts inscribed on wax tablets have been preserved, it is welcome
+to have here firm evidence that mathematical texts were not exclusively confined to the
+medium of (cuneiform script on) clay tablets. The deplorable fact that relatively few math-
+ematical cuneiform texts from the first millennium BC are preserved can perhaps be ex-
+plained in this way. Cf. the mentioned observation that the organization of metrological
+tables suggests that scribes during the NB/LB period were used to write Aramaic, for which
+the medium was not clay tablets but wax-covered tablets, leather scrolls and papyri.67
+Because Aramaic was invoked here, a brief follow-up may prove to be illustra-
+tive as well. From the eighteenth century BCE onwards, alphabetic writing in
+Aramaic become used more and more in Assyria and then in Babylonia along-
+side cuneiform writing in the Akkadian language. Eventually, Aramaic would be
+written on clay tablets, incised with a metal stylus, but much of it was brushed
+with paint on papyrus, leather scrolls, and on wooden tablets, none of which
+survive in the Assyrian ground, but also occasionally on pottery sherds, other-
+wise known as ostraca. The sole Neo-Assyrian letter in Aramaic was found in the
+city of Assur and is likely to be dated to the time of Assurbanipal in the seventh
+century. It was painted in red ink on an ostracon; Fales68, who has presented the
+most complete interpretation to date, suggested that the letter was in fact a draft
+of a message that was intended to be copied out on a scroll, presumably made of
+leather or papyrus, that would have then been sent to the addressee, and this
+explains its unique status. To once again exemplify how lack of data leaves
+matters open to various interpretations, it is instructive that Radner69 viewed
+these matters differently, suggesting that Neo-Assyrian Aramaic letters on os-
+traca might have easily been missed during archaeological excavations or
+erased by mistake during their cleaning in the field.
+||
+67 Friberg, Hunger and al-Rawi 1990, 546.
+68 Fales 2010, 198.
+69 Radner 2014, 85–86.
+They Wrote on Clay, Wax, and Stone | 83
+3 Final thoughts
+All these selective cases were chosen to illustrate the use of materials other than
+clay for written communication in ancient Mesopotamia, with a focus on the
+concomitant loss of information that limits our reconstructions of the past as an
+important corollary to the ever-increasing masses of clay tablets available for
+study. This abundance is nevertheless fragmentary, but not unlike the poet and
+classicist Anne Carson we confront and embrace the fragment and adjust our
+narratives accordingly.
+But not all written traces of the past are as fragmentary as others. Just re-
+cently Robson and Stevens have made a case that first millennium Babylonian
+scholarship was characterized by what they term the ‘distributed library’ that
+encompassed tablets and writing boards kept in various contemporary loci,
+often moving between them as needed.70 In other words, seemingly incomplete
+tablet collections must be considered in aggregate, rather than as fragmentary
+assemblages, and as a result we have a much more complete picture of the
+scholarship and literature of the time than assumed until now.
+In this sense, the Assurbanipal library was unique in that it was intended to
+be complete in itself, a summary of existing written knowledge. Ever prescient,
+Irving Finkel, writing in the same essay volume as Robson and Stevens, gave
+this an additional twist in concluding his essay on Assurbanipal’s library with
+words that inspire the imagination. Commenting on the precision and all-
+encompassing labors of the king’s scribes and scholars, he drew attention to the
+conservative, backward-looking nature of the results:
+[…] it is possible that there was a general reluctance to use cuneiform on clay for innova-
+tion or speculation or non-conformist writing. Perhaps, if such writings ever saw the light
+of day at Nineveh, it was in ink on parchment, or scratched in the wax among the un-
+counted thousands of wooden tablets that have perished forever. This we will probably
+never know.71
+Eric Dolphy would have liked that.
+||
+70 Robson and Stevens 2019, 339, building on Maul 2010.
+71 Finkel 2019, 386–387.
+84 | Piotr Michalowski
+Acknowledgements
+It is a pleasure to be able to contribute this small offering in recognition of
+Michael Friedrich’s wide-ranging erudition, in gratitude for his generous hospi-
+tality, friendship, and in recognition of his innovative and liberal leadership of
+the Centre for the Study of Manuscript Cultures. The quote from Eric Dolphy
+invokes our shared musical interests. I need to thank Cécile Michel for her care-
+ful reading of a draft version of this essay and for her generous comments and
+advice, as a well as to Klaas Veenhof for his last-minute observations, but in the
+end all responsibility for the opinions expressed here are mine alone.
+References
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Balke, Thomas E., Diamantis Panagiotopoulos, Antonia Sarri and Christina Tsouparopoulou
+(2015), ‘Ton’, in Thomas Meier, Michael R. Ott and Rebecca Sauer (eds), Materiale Textkul-
+turen. Konzepte – Materialien – Praktiken (Materiale Textkulturen, 1), Berlin: De Gruyter,
+277–292.
+Barjamovic, Gojko and Mogens Trolle Larsen (2008), ‘An Old Assyrian Incantation against the
+Evil Eye’, Altorientalische Forschungen, 35/1: 144–155.
+Buccellati, Giorgio (1993), ‘Through a Glass Darkly: A Reconstruction of Old Babylonian Monu-
+ments Described in Old Babylonian Copies’, in Mark E. Cohen, Daniel C. Snell and David
+B. Weisberg (eds), The Tablet and the Scroll: Near Eastern Studies in Honor of William
+W. Hallo, Bethesda, MD: CDL Press, 58–71.
+Cammarosano, Michele (2014), ‘The Cuneiform Stylus’, Mesopotamia, 49: 53–90.
+Cammarosano, Michele, Katja Weirauch, Feline Maruhn, Gert Jendritzki and Patrick Kohl
+(2019), ‘They Wrote on Wax: Wax Boards in the Ancient Near East’, Mesopotamia, 54: 121-
+180.
+Chiera, Edward (1956), They Wrote on Clay: The Babylonian Tablets Speak Today, Chicago:
+University of Chicago Press.
+Civil, Miguel (1964), ‘A Hymn to the Beer Goddess and a Drinking Song’, in Robert D. Biggs and
+John A. Brinkman (eds), Studies Presented to A. Leo Oppenheim, Chicago: Oriental Insti-
+tute of the University of Chicago, 67–89.
+Civil, Miguel (1994), The Farmer’s Instructions: A Sumerian Agricultural Manual (Aula Orientalis /
+Supplementa, 5), Barcelona: Ed. Ausa.
+Cooper, Jerrold S. (1983), The Curse of Agade, Baltimore: Johns Hopkins University Press.
+Dalley, Stephanie (2020), ‘The First Sealand Dynasty: Literacy Economy, and the Likely Loca-
+tion of Dur-Enlil(e) in Southern Mesopotamia at the End of the Old Babylonian Period’, in
+Susanne Paulus and Tim Clayden (eds), Babylonia under the Sealand and Kassite Dynas-
+ties (Studies in Ancient Near Eastern Records, 24), Boston: De Gruyter, 9–27.
+Derksen, Jan Gerrit (2017), ‘New Evidence for Beeswax during the Old Assyrian Colony Period
+and the Ur III Period’, in Fikri Kulakoğlu and Gojko Barjamovic (eds), Movement, Resources,
+Interaction: Proceedings of the 2nd Kültepe International Meeting, Kültepe, 26–30 July
+2015: Studies Dedicated to Klaas Veenhof (Subartu, 39), Turnhout: Brepols, 105–116.
+They Wrote on Clay, Wax, and Stone | 85
+Devecchi, Elena and Carlo Lippolis (2020), ‘Dalla Mesopotamia a Parigi, passando per Susa. Il
+bottino mesopotamico del re elamita Šutruk-Naḫḫunte’, in Enrica Culasso Gastaldi (ed.),
+La seconda vita delle iscrizioni. E molte altre ancora (Studi e testi di epigrafia, 2),
+Alessandria: Edizioni dell’Orso, 161–172, 403–404.
+Eppihimer, Melissa (2010), ‘Assembling King and State: The Statues of Manishtushu and the
+Consolidation of Akkadian Kingship’, American Journal of Archaeology, 114/3: 365–380.
+Fales, Frederick Mario (2010), ‘New Light on Assyro-Aramaic Interference: The Assur Ostracon’,
+in Frederick Mario Fales (ed), Camsemud 2007: Proceedings of the 13th Italian Meeting of
+Afro-Asiatic Linguistics Held in Udine, Italy, May 21th–24th, 2007, Padua: S.A.R.G.O.N.,
+189–204.
+Feldman, Marian (2009), ‘Knowledge as Cultural Biography: Lives of Mesopotamian Monu-
+ments’, in Elizabeth Cropper (ed.), Dialogues in Art History, from Mesopotamian to Mate-
+riale Textkulturen. Konzepte – Materialien – Praktiken Modern: Readings for a New
+Century (Studies in the History of Art, 74), New Haven: Yale University Press, 40–55.
+Finkel, Irving L. (2018), ‘Amulets against Fever’, in Strahil V. Panayotov and Luděk Vacín (eds),
+Mesopotamian Medicine and Magic: Studies in Honor of Markham J. Geller (Ancient Magic
+and Divination, 14), Leiden: Brill, 232–271.
+Finkel, Irving (2019), ‘Assurbanipal’s Library: An Overview’, in Ryholt and Barjamovic (eds)
+2019, 367–389.
+Frame, Grant and A. R. George (2005), ‘The Royal Libraries of Nineveh: New Evidence for King
+Ashurbanipal’s Tablet Collecting’, Iraq, 67: 265–284.
+Franklin, Simon (2019), ‘Review of Schaeken, Voices on Birchbark: Everyday Communication in
+Medieval Russia’, Journal of Historical Sociolinguistics, 5/2: 1–4.
+Friberg, Jöran, Hermann Hunger and Farouk N. H. al-Rawi (1990), ‘“Seed and Reeds”, Another
+Metro-mathematical Topic Text from Late Babylonian Uruk’, Baghdader Mitteilungen, 21:
+483–557.
+Gelb, Ignace J., Piotr Steinkeller and Robert Whiting Jr. (1991), Earliest Land Tenure Systems in
+the Near East: Ancient Kudurrus, [vol. 1:] Text, Chicago: Oriental Institute of the University
+of Chicago.
+Greco, Angela (2019), ‘The Code of Hammurabi in Later Tradition’, Oriens Antiquus S.N., 1: 69–79.
+Güterbock, Hans-Gustav (1934), ‘Die historische Tradition und ihre literarische Gestaltung bei
+Babyloniern und Hethitern bis 1200. Erster Teil: Babylonier’, Zeitschrift für Assyriologie
+und Vorderasiatische Archäologie, 42: 1–91.
+Harper, Prudence O., Joan Aruz and Françoise Tallon (1993), The Royal City of Susa: Ancient
+Near Eastern Treasures in the Louvre, New York: The Metropolitan Museum of Art.
+Henkelman, W.F.M. (2012), ‘Šutruk-Nahhunte’, in Michael P. Streck (ed.), Reallexikon der Assy-
+riologie und Vorderasiatischen Archäologie, vol. 13, Berlin: De Gruyter, 369–372.
+Heeßel, Nils P. (2012), ‘Amulette und “Amulettform”: Zum Zusammenhang von Form, Funktion
+und Text von Amuletten im Alten Mesopotamien, in Joachim Friedrich Quack and Daniela
+Christina Luft (eds), Erscheinungsformen und Handhabungen Heiliger Schriften (Materiale
+Textkulturen, 5), Berlin: De Gruyter, 53–78.
+Jendritzki, Gert, Matthias Streckfuß and Michele Cammarosano (2019), ‘Technische und mate-
+rialgerechte Rekonstruktion einer Elfenbein-Klapptafel aus Aššur’, Mitteilungen der Deut-
+schen Orient-Gesellschaft, 151: 201–218.
+Jursa, Michael (2004), ‘Accounting in Neo-Babylonian Institutional Archives: Structure, Usage,
+and Implications’, in Michael Hudson and Cornelia Wunsch (eds), Creating Economic Or-
+der: Record-keeping, Standardization, and Development of Accounting in the Ancient Near
+86 | Piotr Michalowski
+East (International Scholars Conference on Ancient Near Eastern Economies, 4), Bethesda,
+MD: CDL Press, 45–98.
+König, Friedrich Wilhelm (1977), Die elamischen Königsinschriften (Archiv für Orientforschung /
+Beiheft, 16), Osnabrück: Biblio.
+Lambert, W. G. (1989), ‘The Laws of Hammurabi in the First Millennium’, in Marc Lebeau and
+Phillipe Talon (eds), Reflets des deux fleuves: Volume de mélanges offerts à André Finet
+(Akkadica / Supplementum, 6), Leuven: Peeters, 95–98.
+Larsen, Mogens (2015), Ancient Kanesh: A Merchant Colony in Bronze Age Anatolia, Cambridge:
+Cambridge University Press.
+Maiocchi, Massimo (2012), ‘Il dolce sapore della morte: simbologia delle offerte rituali nella
+Mesopotamia protodinastica’, in Lucio Milano (ed.), Mangiare divinamente. Pratiche e
+simbologie alimentari nell’antico Oriente (Eothen, 20), Vicchio: LoGisma, 11–32.
+Maul, Stephan M. (2010), ‘Die Tontafelbibliothek aus dem sogenannten “Haus des Beschwö-
+ringspriesters”’, in Stephan M. Maul and Niels P. Heeßel (eds), Assur-Forschungen: Arbei-
+ten aus der Forschungsstelle ‘Edition literarischer Keilschrifttexte aus Assur’ der
+Heidelberger Akademie der Wissenschaften, Wiesbaden: Harrassowitz, 189–227.
+Maul, Stephan M. (2012), ‘Tontafelabschriften des “Kodex Hammurapi” in altbabylonischer
+Monumentalschrift’, Zeitschrift für Assyriologie und Vorderasiatische Archäologie, 102/1:
+76–99.
+Michalowski, Piotr (1980), ‘New Sources Concerning Naram-Sin’, Journal of Cuneiform Studies,
+32/4: 233–246.
+Michalowski, Piotr (2020), ‘The Kingdom of Akkad in Contac with the World’, in Karen Radner,
+Nadine Moelller and D.T. Potts (eds), The Oxford History of the Ancient Near East, vol. 1:
+From the Beginnings to Old Kingdom Egypt and the Dynasty of Akkad, Oxford: Oxford Uni-
+versity Press, 686–764.
+Michel, Cécile (2015), ‘Old Assyrian Bibliography 3. May 2009–June 2015’, Archiv für Orientfor-
+schung, 53: 525–559.
+Michel, Cécile (2020), Women of Assur and Kanesh: Texts from the Archives of Assyrian Mer-
+chants (Writings from the Ancient World, 42), Atlanta: SBL Press.
+Moorey, P.R.S. (1994), Ancient Mesopotamian Materials and Industries: The Archaeological
+Evidence, Oxford: Clarendon Press.
+Nougayrol, J. (1958), ‘Les fragments en pierre du Code Hammourabien II’, Journal Asiatique,
+246: 143–155.
+Ornan, Tallay (2019), ‘Unfinished Business: The Relief on the Hammurabi Louvre Stele Revisit-
+ed’, Journal of Cuneiform Studies, 71: 85–109.
+Panayotov, Strahil V. (2018), ‘Magico-medical Plants and Incantations on Assyrian House
+Amulets’, in Greta Van Buylaere, Mikko Luukko, Daniel Schwemerand and Avigail
+Mertens-Wagschal (eds), Sources of Evil: Studies in Mesopotamian Exorcistic Lore (Ancient
+Magic and Divination, 15), Leiden: Brill, 192–222.
+Parpola, Simo (1983), ‘Assyrian Library Records’, Journal of Near Eastern Studies, 42: 1– 29.
+Parpola, Simo (1986), ‘The Royal Archives of Nineveh’, in Veenhof (ed.) 1986, 223–236.
+Parrot, André (1948), Tello, Vingt campagnes de fouilles (1877-1933), Paris: Michel.
+Paulus, Susanne (2017), ‘Akkade in mittelbabylonischer Zeit (ca. 1500–1000 v. Chr.)’, in Ziegler
+and Cancik-Kirschbaum (eds) 2017, 199–206.
+Pearce, Laurie E. (2010), ‘Materials of Writing and Materiality of Knowledge’, in Jeffrey Stackert,
+Barbara Nevling Porter and David P. Wright (eds), Gazing on the Deep: Near Eastern and
+Other Studies in Honor of Tzvi Abusch, Bethesda, MD: CDL Press, 167–179.
+They Wrote on Clay, Wax, and Stone | 87
+Postgate, J. Nicholas (2001), ‘System and Style in Three Near Eastern Bureaucracies’, in John
+Tyrell Killen and Sofia Voutsaki (eds), Economy and Politics in the Mycenaean Palace
+States: Proceedings of a Conference Held on 1–3 July 1999 in the Faculty of Classics, Cam-
+bridge, Cambridge: Cambridge Philological Society, 181–194.
+Potts, Daniel T. (1999), The Archaeology of Elam: Formation and Transformation of an Ancient
+Iranian State, Cambridge: Cambridge University Press.
+Potts, Daniel T. (2006), ‘Elamites and Kassites in the Gulf’, Journal of Near Eastern Studies,
+65/2: 111–119.
+Potts, Daniel T. (2018), ‘Archaeology and the Art of the Ancient Near East’, in Ann C. Gunter
+(ed.), A Companion to Ancient Near Eastern Art, Hoboken: Wiley Blackwell, 615–635.
+Powell, Marvin A. (1996), ‘Wine and the Vine in Ancient Mesopotamia: The Cuneiform
+Evidence’, in Patrick E. McGovern, Stuart J. Fleming and Solomon H. Katz (eds), The Ori-
+gins and Ancient History of Wine ( Food and Nutrition in History and Anthropology, 11),
+Amsterdam: Gordon and Breach, 95–124.
+Radner, Karen (2014), ‘An Imperial Communication Network: The State Correspondence of the
+Neo-Assyrian Empire,’ in Karen Radner (ed.), State Correspondence in the Ancient World
+from New Kingdom Egypt to the Roman Empire (Oxford Studies in Early Empires), Oxford:
+Oxford University Press, 64–93.
+Reichel, Clemens (2013), ‘Eshnunna’, in Roger S. Bagnall, Kai Brodersen, Craige B. Champion,
+Andrew Erskine and Sabine R. Huebner (eds), The Encyclopedia of Ancient History,
+Malden: Blackwell, 2500.
+Reiner, Erica (1960), ‘Plague Amulets and House Blessings’, Journal of Near Eastern Studies,
+1960/2: 148–155.
+Rey, Sébastien (2020), ‘A Seleucid Cult of Royal Ancestors in Girsu’, in I. L. Finkel and
+St J. Simpson (eds), In Context: The Reade Festschrift, Oxford: Archaeopress Publishing
+Ltd, 56–81.
+Robson, Eleanor and Kathryn Stevens (2019), ‘Scholarly Tablet Collections in First-Millennium
+Assyria and Babylonia c.700–200 BCE’, in Ryholt and Barjamovic (eds) 2019, 319–366.
+Ryholt, Kim and Gojko Barjamovic (eds) (2019), Libraries Before Alexandria: Ancient Near East-
+ern Traditions, Oxford: Oxford University Press.
+Sallaberger, Walther (2012), ‘Bierbrauen in Versen: Eine neue Edition und Interpretation der
+Ninkasi-Hymne’, in Catherine Mittermayer and Sabine Ecklin (eds), Altorientalische
+Studien zu Ehren von Pascal Attinger: mu-ni u4 ul-li2-a-aš ĝa2-ĝa2-de3 (Orbis biblicus et
+orientalis, 256), Fribourg: Academic Press / Göttingen: Vandenhoeck & Ruprecht, 291–
+328.
+Steinkeller, Piotr (2004), ‘The Function of Written Documentation in the Administrative Praxis
+of Early Babylonia,’ in Michael Hudson and Cornelia Wunsch (eds), Creating Economic
+Order, Record-Keeping, Standardization, and the Development of Accounting in the An-
+cient Near East, vol. 5, Bethesda, MD: CDL, 65–88.
+Symington, Dorit (1991), ‘Late Bronze Age Writing-Boards and Their Uses: Textual Evidence
+from Anatolia and Syria’, Anatolian Studies, 41: 111–123.
+Thavapalan, Shiyanthi (2019), ‘Stones from the Mountain, Stones from the Kiln: Colour in the
+Glass Texts from Ancient Mesopotamia’, in Shiyanthi Thavapalan and David A. Warburton
+(eds), The Value of Colour: Material and Economic Aspects in the Ancient World, Berlin:
+Edition Topoi / Exzellenzcluster Topoi der Freien Universität Berlin und der Humboldt-
+Universität zu Berlin, 177–195.
+88 | Piotr Michalowski
+Van De Mieroop, Marc (2007), A History of the Ancient Near East ca. 3000–323 BC (Blackwell
+History of the Ancient World), 2nd edn, Malden: Blackwell.
+van Dijk, Jan (1986), ‘Die dynastischen Heiraten zwischen Kassiten und Elamern: Eine
+verhängnisvolle Politik’, Orientalia, Nova Series, 55/2: 159–170.
+Vanstiphout, Herman L. J. (1978), ‘Lipit-Eštar’s Praise in the Edubba’, Journal of Cuneiform
+Studies, 30/1: 33–61.
+Veenhof, Klaas R. (ed.) (1986), Cuneiform Archives and Libraries: Papers Read at the 30e Ren-
+contre Assyriologique Internationale Leiden, 4–5 July 1983, Leiden: Nederlands Historisch-
+Archaeologisch Instituut te Istanbul.
+Veenhof, Klaas R. (2010), Ankara Kültepe Tabletleri V: The Archive of Kuliya, son of Ali-abum
+(Kt. 92/k 188-263), Ankara: Türk Tarih Kurumu Basımevi.
+Veenhof, Klaas R. (2020), ‘Old Assyrian Iṣurtum, Akkadian Eṣērum and Hittite GIŠ.ḪUR’, in
+N.J.C. Kouwenberg (ed.), Law and Trade in Ancient Mesopotamia and Anatolia: Selected
+Papers by K.R.Veenhof, Leiden: Sidestone Press, 225–243.
+Volk, Konrad (1999), ‘Imkerei im alten Mesopotamien?’, in Horst Klengel and Johannes Renger
+(eds), Landwirtschaft im Alten Orient. Ausgewählte Vorträge der XLI. Rencontre Assyriolo-
+gique Internationale, Berlin, 4.–8.7.1994 (Berliner Beiträge zum Vorderen Orient, 18),
+Berlin: Reimer, 279–290.
+Waal, Willemijn (2011), ‘They Wrote on Wood. The Case for a Hieroglyphic Scribal Tradition on
+Wooden Writing Boards in Hittite Anatolia’, Anatolian Studies, 61: 21–34.
+Waal, Willemijn (2012), ‘Writing in Anatolia. The Origins of the Anatolian Hieroglyphs and the
+Introduction of the Cuneiform Script’, Altorientalische Forschungen, 39/2: 287–315.
+Wasserman, Nathan (1994), ‘BM 78613. A Neo-Babylonian Imposture of An Old-Babylonian
+Amulet?’, Revue d’Assyriologie et d’archéologie orientale, 88/1: 49–57.
+Winter, Irene J. (1992), ‘“Idols of the King”: Royal Images as Recipients of Ritual Action in An-
+cient Mesopotamia’, Journal of Ritual Studies, 6/1: 13–42.
+Winter, Irene J. (1996), ‘Sex, Rhetoric and the Public Monument: The Alluring Body of Naram-Sîn
+of Agade’, in Natalie Boymel Kampen and Betina Ann Bergmann (eds), Sexuality in Ancient
+Art: Near East, Egypt, Greece, and Italy, Cambridge: Cambridge University Press, 11–26.
+Winter, Irene J. (2002), ‘Defining Aesthetics for Non-Western Studies: The Case of Ancient
+Mesopotamia’, in Michael Ann Holly and Keith P. F. Moxey (eds), Art History, Aesthetics,
+Visual Studies (Clark Studies in the Visual Arts), New Haven: Yale University Press, 3–28.
+Ziegler, Nele and Eva Cancik-Kirschbaum (eds) (2017), Entre les fleuves – II. D’Aššur à Mari et
+au-delà (Berliner Beiträge zum Vorderen Orient, 24), Gladbeck: PeWe-Verlag.
+

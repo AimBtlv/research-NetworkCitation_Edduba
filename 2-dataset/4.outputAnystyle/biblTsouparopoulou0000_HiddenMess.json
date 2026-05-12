@@ -1,0 +1,910 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ambos",
+        "given": "Claus"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Mesopotamische Baurituale aus dem 1. Jahrtausend v"
+    ],
+    "container-title": [
+      "Chr"
+    ],
+    "location": [
+      "Dresden"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Banks",
+        "given": "Edgar J."
+      }
+    ],
+    "date": [
+      "1912"
+    ],
+    "title": [
+      "Bismya or the Lost City of Adab"
+    ],
+    "location": [
+      "New York"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Beaulieu",
+        "given": "Paul-Alain"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Antiquarianism and the Concern for the Past in the Neo-Babylonian Period"
+    ],
+    "volume": [
+      "28"
+    ],
+    "pages": [
+      "37–42"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin of the Canadian Society for Mesopotamian Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sarzec",
+        "particle": "de"
+      },
+      {
+        "given": "Ernest"
+      }
+    ],
+    "date": [
+      "1884"
+    ],
+    "title": [
+      "Découvertes en Chaldée"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dunham",
+        "given": "Sally"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Sumerian Words for Foundation"
+    ],
+    "volume": [
+      "80"
+    ],
+    "pages": [
+      "31–64"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revue d’Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Edzard",
+        "given": "Dietz Otto"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Gudea and His Dynasty"
+    ],
+    "volume": [
+      "3"
+    ],
+    "location": [
+      "Toronto"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "The Royal Inscriptions of Mesopotamia, Early Periods"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "Richard S."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "title": [
+      "Foundation Deposits in Ancient Mesopotamia"
+    ],
+    "location": [
+      "New Haven, CT"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Foucault",
+        "given": "Michel"
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "title": [
+      "L’archéologie du savoir"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Frayne",
+        "given": "Douglas R."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Presargonic Period (2700–2350 BC"
+    ],
+    "volume": [
+      "1"
+    ],
+    "location": [
+      "Toronto"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "The Royal Inscriptions of Mesopotamia, Early Periods"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Haines",
+        "given": "Richard C."
+      }
+    ],
+    "date": [
+      "1956"
+    ],
+    "title": [
+      "Where a Goddess of Love and War Was Worshipped 4000 Years Ago"
+    ],
+    "volume": [
+      "229"
+    ],
+    "pages": [
+      "226–229"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "The Illustrated London News"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Haines",
+        "given": "Richard C."
+      }
+    ],
+    "date": [
+      "1958"
+    ],
+    "title": [
+      "Further Excavations at the Temple of Inanna"
+    ],
+    "volume": [
+      "233"
+    ],
+    "pages": [
+      "386–389"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "The Illustrated London News"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hallo",
+        "given": "William W."
+      }
+    ],
+    "date": [
+      "1962"
+    ],
+    "title": [
+      "The Royal Inscriptions of Ur: A Typology"
+    ],
+    "volume": [
+      "33"
+    ],
+    "pages": [
+      "1–43"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Hebrew Union College Annual"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "Donald P."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "title": [
+      "Al-Hiba, 1968–1969, a Preliminary Report"
+    ],
+    "volume": [
+      "32"
+    ],
+    "pages": [
+      "243–258"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Artibus Asiae"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "Donald P."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Royal Building Activity at Sumerian Lagash in the Early Dynastic Period"
+    ],
+    "volume": [
+      "55"
+    ],
+    "pages": [
+      "206–211"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "The Biblical Archaeologist"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hilgert",
+        "given": "Markus"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "‘Text-Anthropologie’: Die Erforschung von Materialität und Präsenz des Geschriebenen als hermeneutische Strategie"
+    ],
+    "volume": [
+      "142"
+    ],
+    "pages": [
+      "87–126"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mitteilungen der Deutschen Orient-Gesellschaft"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mecquenem",
+        "given": "Roland de"
+      }
+    ],
+    "date": [
+      "1911"
+    ],
+    "title": [
+      "Constructions élamites du Tell de l’Acropole de Suse"
+    ],
+    "volume": [
+      "12"
+    ],
+    "pages": [
+      "65–78"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mémoires de la Délégation en Perse"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Muscarella",
+        "given": "Oscar White"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Bronze and Iron: Ancient Near Eastern Artifacts in the Metropolitan Museum of Art"
+    ],
+    "location": [
+      "New York"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Oppenheim",
+        "given": "Adolf Leo"
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "title": [
+      "Ancient Mesopotamia: Portrait of a Dead Civilization"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Parrot",
+        "given": "André"
+      }
+    ],
+    "date": [
+      "1948"
+    ],
+    "title": [
+      "Tello: Vingt campagnes de fouilles (1877–1933"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pearce",
+        "given": "Laurie E."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Materials of Writing and Materiality of Knowledge"
+    ],
+    "container-title": [
+      "Gazing on the Deep: Ancient Near Eastern and Other Studies in Honor of Tzvi Abusch"
+    ],
+    "editor": [
+      {
+        "family": "Stackert",
+        "given": "Jeffrey"
+      },
+      {
+        "family": "Porter",
+        "given": "Barbara N."
+      },
+      {
+        "family": "Wright",
+        "given": "David P."
+      }
+    ],
+    "pages": [
+      "167–179"
+    ],
+    "location": [
+      "Bethesda, MD"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Porter",
+        "given": "Barbara N."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Images, Power, and Politics: Figurative Aspects of Esarhaddon’s Babylonian Policy"
+    ],
+    "volume": [
+      "208"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Memoirs of the American Philosophical Society"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rashid",
+        "given": "Subhi Anwar"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Gründungsfiguren im Iraq. Prähistorische Bronzefunde 1/2. Munich"
+    ],
+    "genre": [
+      "(Originally PhD diss.,"
+    ],
+    "note": [
+      "Frankfurt am Main, 1965."
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Schaudig",
+        "given": "Hanspeter"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Nabonid, der ‘Archäologe auf dem Königsthron.’"
+    ],
+    "container-title": [
+      "Festschrift für Burkhart Kienast zu seinem 70. Geburtstag"
+    ],
+    "editor": [
+      {
+        "family": "Selz",
+        "given": "Gebhard J."
+      }
+    ],
+    "pages": [
+      "447–497"
+    ],
+    "publisher": [
+      "Münster"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Suter",
+        "given": "Claudia E."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Gudea’s Temple Building: The Representation of an Early Mesopotamian Ruler in Text and Image"
+    ],
+    "volume": [
+      "17"
+    ],
+    "location": [
+      "Groningen"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Cuneiform Monographs"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Thomason",
+        "given": "Allison Karmel"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Luxury and Legitimation: Royal Collecting in Ancient Mesopotamia"
+    ],
+    "location": [
+      "Aldershot"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ess",
+        "particle": "van"
+      },
+      {
+        "given": "Margarete"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Uruk",
+      "Von der Akkad- bis zur mittelbabylonischen Zeit, part 1: Das Eanna-Heiligtum zur Ur-III- und altbabylonischen Zeit"
+    ],
+    "volume": [
+      "2",
+      "15"
+    ],
+    "location": [
+      "Mainz"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Architektur",
+      "Ausgrabungen in Uruk-Warka"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Weisberg",
+        "given": "David B."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "The ‘Antiquarian’ Interests of the Neo-Babylonian Kings"
+    ],
+    "container-title": [
+      "Capital Cities: Urban Planning and Spiritual Dimensions",
+      "Bible Lands Museum Jerusalem Publications"
+    ],
+    "editor": [
+      {
+        "family": "Westenholz",
+        "given": "Joan G."
+      }
+    ],
+    "pages": [
+      "177–186"
+    ],
+    "volume": [
+      "2"
+    ],
+    "location": [
+      "Jerusalem"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Wengrow",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Violence into Order: Materiality and Sacred Power in Ancient Iraq"
+    ],
+    "container-title": [
+      "Rethinking Materiality: The Engagement of Mind with the Material World"
+    ],
+    "editor": [
+      {
+        "family": "DeMarrais",
+        "given": "Elizabeth"
+      },
+      {
+        "family": "Renfrew",
+        "given": "Colin"
+      },
+      {
+        "family": "Gosden",
+        "given": "Chris"
+      }
+    ],
+    "pages": [
+      "261–270"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiggermann",
+        "given": "Frans A.M."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Mesopotamian Protective Spirits: The Ritual Texts"
+    ],
+    "volume": [
+      "1"
+    ],
+    "location": [
+      "Groningen"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Cuneiform Monographs"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "Karen L."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Bismaya: Recovering the Lost City of Adab"
+    ],
+    "volume": [
+      "138"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Oriental Institute Publications"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Winter",
+        "given": "Irene J."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Babylonian Archaeologists of the(ir) Mesopotamian Past"
+    ],
+    "container-title": [
+      "Proceedings of the First International Congress on the Archaeology of the Ancient Near East"
+    ],
+    "volume": [
+      "2"
+    ],
+    "editor": [
+      {
+        "family": "Matthiae",
+        "given": "Paolo"
+      },
+      {
+        "others": true
+      }
+    ],
+    "pages": [
+      "1785–1800"
+    ],
+    "location": [
+      "Rome"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Woolley",
+        "given": "Charles Leonard"
+      }
+    ],
+    "date": [
+      "1926"
+    ],
+    "title": [
+      "The Excavations at Ur, 1925–26"
+    ],
+    "volume": [
+      "6"
+    ],
+    "pages": [
+      "365–401"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "The Antiquaries Journal"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Woolley",
+        "given": "Charles Leonard"
+      }
+    ],
+    "date": [
+      "1939"
+    ],
+    "title": [
+      "The Ziggurat and Its Surroundings"
+    ],
+    "volume": [
+      "5"
+    ],
+    "location": [
+      "London and Philadelphia"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ur Excavations"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Woolley",
+        "given": "Charles Leonard"
+      }
+    ],
+    "date": [
+      "1962"
+    ],
+    "title": [
+      "The Neo-Babylonian and Persian Periods"
+    ],
+    "volume": [
+      "9"
+    ],
+    "location": [
+      "London and Philadelphia"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ur Excavations"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Woolley",
+        "given": "Charles Leonard"
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "title": [
+      "The Buildings of the Third Dynasty"
+    ],
+    "volume": [
+      "6"
+    ],
+    "location": [
+      "London and Philadelphia"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ur Excavations"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zettler",
+        "given": "Richard L."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "From beneath the Temple: Inscribed Objects from Ur"
+    ],
+    "volume": [
+      "28"
+    ],
+    "pages": [
+      "29–38"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Expedition"
+    ],
+    "issue": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zettler",
+        "given": "Richard L."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "The Ur III Inanna Temple at Nippur. Berliner Beiträge zum Vorderen Orient 11"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "type": null
+  }
+]

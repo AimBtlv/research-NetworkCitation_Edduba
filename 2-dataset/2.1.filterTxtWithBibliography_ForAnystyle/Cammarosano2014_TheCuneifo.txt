@@ -1,0 +1,1965 @@
+# METADATA
+author: Cammarosano M.
+source_id:Cammarosano2014_TheCuneifo
+title: The Cuneiform Stylus
+Year: 2014
+Source_ID:  Cammarosano2014_TheCuneifo
+Source_Type: Article in Book: «Mesopotamia» is an International Peer Reviewed Journal
+Source_Role,Step_distance: 0,1,2 ,3,4 
+Pages: 53-91
+Web:
+
+# TEXT
+
+UNIVERSITÀ DI TORINO
+XlIX
+2014
+LE LETTERE
+FIRENZE
+Rivista fondata da Giorgio Gullini.
+Direttore: C ARLO L IPPOLIS
+Redazione: G IORGIO B UCCELLATI
+S M
+TEFANO DE ARTINO
+A I
+NTONIO NVERNIZZI
+R M
+OBERTA ENEGAZZI
+R V R
+OBERTA ENCO ICCIARDI
+«Mesopotamia» is an International Peer Reviewed Journal.
+Proprietà letteraria riservata
+Iscritta al Tribunale di Torino n. 1886 del 20/6/67.
+Si prega di indirizzare la corrispondenza diretta alla Redazione e i manoscritti a: Carlo Lippolis, Redazione
+di Mesopotamia, Dipartimento di Studi Storici - Università degli Studi di Torino, Via Sant’Ottavio 20,
+10124 Torino.
+ISSN: 0076-6615
+mesopotamia xlix 2014
+sommario
+Paolo Fiorina, The Excavations at Tell Hassan, Hamrin, Iraq: Final Report ............................... p. 1
+Lucia Chiocchetti, Tell Hassan: the Ubaid pottery ...................................................................... » 27
+michele Cammarosano, The Cuneiform Stylus ............................................................................. » 53
+marco iamoni, L’Alto Tigri fra preistoria e protostoria. Sequenze stratigrafiche e occupazione del
+territorio dal Tardo Neolitico ceramico al Tardo Calcolitico ..................................................... » 91
+hendrik hameeuw, sam Van oVermeire , The Seleucid bullae from Uruk in the Royal Museums
+of Art and History, Brussels ................................................................................................... » 113
+Notiziario Bibliografico
+G.F. Grassi, Semitic Onomastics from Dura Europos. The names in Greek Script and from
+Latin Epigraphs (Fabrizio a. Pennacchietti) ............................................................................. » 143
+m. mouton, J. schiettecatte, In the desert margins. The settlement process in ancient South
+and East Arabia (Jacopo Bruno) .............................................................................................. » 144
+s. plischke, Die Seleukiden und Iran. Die seleukidische Herrschaftspolitik in den östlichen
+Satrapien (Vito messina) ......................................................................................................... » 145
+l. dirVen (a cura di), Hatra. Politics Culture and Religion between Parthia and Rome
+(Vito messina) ......................................................................................................................... » 146
+u. ellerbrock, s. winkelmann, Die Parther. Die vergessene Großmacht (Vito messina) ............ » 148
+abstracts ...................................................................................................................................... » 149
+plates
+michele Cammarosano
+The CUneiForm sTYLUs
+1. Introduction1 gie”. here, the relationship between stylus and wedge
+impression is examined both on the methodological
+in 1906, within an edition of cuneiform tablets from level as well as from a practical point of view.
+nippur, a. Clay published some theories on how the
+ancient stylus appeared to have been cut and held.2
+Clay based his observations on his own examination 2. Iconographic Sources
+of wedge impressions and enlisted the help of the
+Director of the Department of Physics at Pennsylvania The interpretation of iconographic representations
+University to take measurements of the inner angles of of alleged cuneiform styli faces two major problems:
+wedges in twenty-four selected tablets. The same year, (1) Depictions may represent both form and pro-
+Leopold messerschmidt’s detailed study, Zur Technik portions of the represented object in a distorted man-
+des Tontafel-Schreibens, appeared in the Orientalis- ner. Distortion may originate from different factors:
+tische Litteratur-Zeitung.3 in this study, messerschmidt
+offered, for the first time, a thorough investigation
+of the writing technique in the ancient near east
+based on careful examination of wedge impressions
+as well as his own experimentation in writing cunei- 1 The research has been carried out within the joint project
+form tablets. “3D-Joins und schriftmetrologie” (University of Würzburg;
+more than a century later, these two works still Technical University of Dortmund; academy of sciences and
+represent the best studies available on the subject, Literature, mainz). The project is directed by G.G.W. mül-
+ler and funded by the German Federal ministry of education
+although new insights and more evidence have since
+and research; more detailed information can be found at the
+appeared. marvin Powell and, more recently, Joachim
+webpage www.cuneiform.de. i wish to express my gratitude
+marzahn, corroborated messerschmidt’s reconstruc- towards G.G.W. müller, as well as to D. Fisseler and F. We-
+tion of the reed stylus with new evidence, whereas ichert, for their constant support and for the passionate and
+other scholars expressed different views. iconographic collaborative atmosphere established: nothing of the present
+sources, archaeological findings, and numerous ob- research would have been possible without their contribution.
+This study is further indebted to a number of scholars, col-
+servations made by various scholars provided new
+leagues, and friends, who commented on earlier stages of the
+material for the discussion. even when available,
+paper and generously provided me with ideas, suggestions,
+however, iconographic and archaeological evidence
+references and informations. i wish to thank in particular a.
+is often faced with the major problem of uncertain Baykal-seeher, a. Bramanti, r. Czichon, J. ellison, Z. Földi,
+interpretation. Therefore, the reconstruction of stylus m. Geller, h. Gilb, a. Gilibert, s. Köhler, m. Krebernik, G.
+and writing process will always have to rely principally Jendritzki, m. Luukko, m. marazzi, J. marzahn, V. matoïan, D.
+meijer, J. miller, a. nunn, s. Panayotov, a. Payne, a. Pohl, C.
+on wedge impressions.
+roche-hawley, W. sallaberger, U. schoop, a. schachner, n.
+This paper aims at presenting a comprehensive
+schaller, D. shehata, D. schwemer, J. seeher, C. steitler, a.
+study on the stylus used to write cuneiform script
+süel, G. van Buylaere, and W. Waal. abbreviations follow the
+on clay tablets – henceforth, for the sake of brevity, Reallexikon der Assyriologie und Vorderasiatischen Archäologie;
+referred to as “cuneiform stylus”.4 This investigation for the glyptic evidence: buchanan 1966, xv-xvii and pomponio
+combines traditional approaches with the possibilities 1978, ii-iii; for Babylonian kudurrus: “BKr” and “Kudurru
+offered by modern, computer-aided analysis of 3D no. ...” (reference to catalogue numbers in seidl 1989 and
+models of cuneiform tablets. The available iconograph-
+herles 2006b respectively). if not otherwise stated, drawings
+and photos are by the author.
+ic and archaeological evidence is reviewed in §§2-3.
+2 claY 1906, 17-20.
+The reconstruction of various kinds of cuneiform styli, 3 messerschmidt 1906.
+made of reed as well as of other materials, is discussed 4 To write cuneiform script on metal other techniques were
+in §§4-5 respectively, whereas issues related to stylus used, which are currently investigated by G. Jendritzki (see
+length and handling are treated in §6. in §7, finally, the Jendritzki 1997, 240-243; Jendritzki, marzahn 2003, 84-
+86). it is interesting to stress that different techniques existed,
+study takes advantage of specific algorithms designed
+as examination of the silver tablet Va 9685 compared to the
+for the analysis of cuneiform script, which are being
+bronze cross Va 5379 shows (information kindly provided by
+developed at the Technical University of Dortmund G. Jendritzki). issues pertaining to cuneiform script on wax
+within the joint project “3D-Joins und schriftmetrolo- are addressed below, §§ 2.1.3, 5.3.
+54 michele cammarosano
+metal on which the writer engraves the characters –
+opitz prudently speaks of a “schreibtafel, vielleicht
+aus Ton”.6 surely, the writer is no ordinary scribe,
+and the way he is writing is no ordinary writing tech-
+nique. similarly, in the event that a cuneiform stylus
+is depicted, one cannot assume that it is an ordinary
+stylus. Finally and most importantly, the dimensions
+of the writing tool may be purposefully oversized due
+to iconographical ground, in order to make it visible
+and recognisable within the scene (cf. §2.1.4).
+Fig. 1 - Detail from the limestone stela Va 7245.
+2.1.2 The Pedestal of Nusku
+on the well-known alabaster pedestal of the god
+nusku, dated to Tukulti ninurta i, an object is de-
+iconographic conventions, contextual constraints or picted whose interpretation is debated (Fig. 2). The
+lack of skill from the artist. most accredited interpretations are tablet and sceptre,
+(2) The function of the depicted object may be or tablet and stylus. in his recent reappraisal of the
+difficult to identify. That is to say, a trustworthy in- problem, m. herles argues in favour of the latter.7
+terpretation of the function of depicted scribal instru- according to him, the theory that this is a sceptre
+ments – i.e. in stone reliefs, descriptions, etc. – cannot should be rejected on iconographical grounds, despite
+easily be determined at first glance. the qualification of nusku in the pedestal inscription
+The relevant sources have been subdivided into two as “bearer of the just sceptre”. on the other hand,
+groups. The former (§2.1) includes depictions featur- interpreting it as a stylus is still problematic. The enig-
+ing writing scenes, whereas the latter (§2.2) relates matic object is depicted as a long and thin instrument,
+to representations of the stylus as symbol of the god with a pointed end facing up and an expanding shaft
+nabu. pointing down. now, one would naturally assume that
+the most important part of the stylus, i.e. the tip,
+2.1 Babylonian and Assyrian Writing Scenes should point up rather than down. This is, in fact, the
+case for all depiction of standing styli on kudurrus,
+Within this group, depictions of scribes and styli stelae, reliefs and seals: their tips invariably point up
+are examined in chronological order. apart from one (§2.2). The form of the object is also problematic
+extant stela (§2.1.1) and the cult Pedestal of nusku because it would probably be quite uncomfortable to
+dating back to Tukulti ninurta i (§2.1.2), the bulk of write with such a long implement. herles adduces the
+attestations consists in neo-assyrian sources dating alleged bone stylus from Kish as evidence that “ein
+to the eight and seventh century BCe. schreibgriffel durchaus ein länglicher stab gewesen
+ist”,8 but the Kish stylus is neither pointed nor is its
+2.1.1 The Limestone Stela VA 7245 length comparable with the object depicted on the
+Pedestal of nusku (§3.4). moreover, the stylus as a
+The oldest known representation of a figure in the symbol of nabu is regularly represented as a short,
+act of writing is found in the upper register of a lime- trapezoidal instrument, a fact which makes it even
+stone stela from Babylon (Fig. 1). more difficult to interpret this as a stylus. all in all,
+according to D. opitz, followed by J. Börker-Klähn, the object depicted on the nusku pedestal still escapes
+the stela likely dates back to the Ur iii period.5 a king secure interpretation.
+or a god, facing left, is shown writing on a tablet,
+which is presented to him obliquely by another person
+standing in front of him. The tablet is as long as his
+forearm and appears rigid enough to be held at the
+top and bottom without needed support of the entire
+5 opitz 1930-31, 64; börker-klähn 1982, 157 no. 96.
+length, while the main figure sits on a throne and
+Photograph: marzahn, schauerte 2008, 338 Fig. 257; marzahn
+holds the writing implement in his hand. The writing apud marzahn, schauerte 2008, 349 Cat. 372. Falkenstein
+implement is slightly longer than the man’s hand; its 1936, 6 n. 2, though referring to opitz, qualifies the relief as
+dimensions, however, might be puposefully oversized “old Babylonian”.
+(cf. §2.1.4). The stylus has a pencil-like appearance 6 opitz 1930-31, 63.
+and is handled towards the bottom. is this a king or
+7 herles 2006. The object cannot be a column divider, as
+put forward by Franke 2011. The fact that the shaft expands
+a god writing cuneiform on clay? other possibilities
+towards the top and that it projects beyond the upper edge of
+cannot be ruled out; given the ceremonial context and the tablet speak against such an hypothesis.
+the writer’s rank, this may be a tablet made of precious 8 herles 2006, 254.
+the cuneiForm stYlus 55
+Fig. 2 - The Pedestal of nusku at the Vorderasiatisches Museum in Berlin: front view and details of the top end.
+2.1.3 Waxed Boards and Grooved Styli contemporary, non-cuneiform scripts and with dif-
+ferent techniques,17 but the use of cuneiform script
+The remaining depictions to be examined date to in the context of these depictions is confirmed by the
+the neo-assyrian empire and are found on wall slabs particular kind of stylus employed. Board-book styli,
+from assyrian royal palaces. all of them are situation- in fact, are right-angled and larger than those used
+ally similar: two men next to each other, one with a for scrolls. When board-book scribes are left-facing,
+scroll and one with a tablet or board (rarely are there their styli show an inner groove whose function is still
+two scribes of the same kind), are depicted in the act unclear.18 in the slabs dating to aššurbanipal, scrolls
+of recording booty. They have long been interpreted are completely absent and only board-books occur.
+as two scribes, one writing in aramaic on a scroll apparently, this king “disliked or at least refused to
+and another writing in cuneiform akkadian on a clay allow the representation of scrolls in narrative art”,19
+tablet (or board-book). however, as proposed by T.
+madhloom and argued recently by J. reade as well,
+the former is best interpreted as an illustrator, who
+may also have been able to take notes in aramaic.9
+9 madhloom 1970, 121-122; reade 2012, 710-712; see also
+as is evident from the depictions, artists (or scribes) seidl 2007, 119. reade (2012, 712-716) presents a complete
+working on scrolls used ink and pens (or brushes). catalogue of the known illustrations of neo-assyrian scribes.
+These writing instruments are represented as pencil- 10 reade 2012, Cat. 31, see barnett et alii 1998, Pl. 213.
+like rods, longer than the holder’s hand. Their writ- 11 reade 2012, Cat. 34, see Fig. 4.1 below.
+ing tip may be pointed,10 or slightly larger than the
+12 reade 2012, 705.
+13 seidl (2007, 121) corroborates reade’s arguments for
+shaft.11
+interpreting the objects represented in reade 2012, Cat. 25 as
+With regard to the scribes, two kinds of media are
+board-books. in Cats. 13 and 29 we are clearly faced with a
+recognizable within the depictions. The former is easily less precise representation of the fingers. There seems to be a
+identifiable as board-book: these are represented as single exception to this pattern, namely reade 2012, Cat. 20,
+a diptych, in front-view, with internal lines render- for which only a drawing is available.
+ing the binding. as reade notes, scribes are regularly
+14 mallowan 1954, 98-107; howard 1955; also mallowan
+1966, 149-163.
+shown holding them upright.12 another mark exists,
+15 klenGel-brandt 1975.
+i.e. scribes with board-books are regularly shown
+16 wiseman 1955.
+holding the stylus with index and middle fingers ex- 17 on writing boards in the ancient near east see san ni-
+tended.13 such board-books are to be interpreted as colò 1948; postGate 1986; sYminGton 1991; marazzi 1994;
+waxed boards inscribed in cuneiform script. examples stol 1998, 343f., 347f.; macGinnis 2002; waal 2011; all with
+of these objects, made both of ivory and wood, have further bibliography.
+been recovered in nimrud;14 a smaller example comes
+18 according to seidl 2007, 121, 124, it could possibly
+release pigment or a wax-softening substance. on the composi-
+from aššur.15 Two of the fragments from nimrud still
+tion of the wax paste used to fill this kind of writing board see
+preserve traces of the wax layer inscribed with minute stol 1998, 343f., 347f.
+cuneiform signs.16 Boards also could be written in 19 reade 2012, 706.
+56 michele cammarosano
+whereas he proudly claimed to be able to read and script on clay tablets. according to reade, a historical
+write cuneiform texts20 and represented himself with development seems to be recognizable; namely, clay
+his personal grooved stylus fastened to the belt (Fig. tablets falling out of use in the course of the seventh
+4.2).21 This further confirms the idea that these board- century in favour of board-books.30 another option is
+books were intended for cuneiform script. possible, at least in principle: this could be, in fact, ink
+as reade notes, using scrolls or board-books while writing by means of pens or brushes on (wooden?)
+being on campaign are considerably more advanta- boards.31 however, a closer examination of the rel-
+geous compared to clay tablets.22 These scribes are not evant cases, especially of those where the writing tip
+copying tablets in an atelier; rather, they take notes is visible, corroborates the traditional view.
+while standing in open air under specific conditions. The first source to be examined is the mural paint-
+When speaking of scribes at work in analogous situ- ing from Til Barsip (reade 2012, Cat. 3), ascribed
+ations, e.g. assisting the king in the celebration of to Šalmaneser V and known to us only from a field
+festivals or recording damages or taking notes, hittite copy by L. Cavro. here we see an artist drawing on
+sources explicitly refer to wooden writing boards.23 a scroll and a scribe using a long instrument to write
+mesopotamian and assyrian sources, too, generally on an object portrayed in profile view. in the copy by
+use the term Giš lē’u “wooden board” when they refer Cavro, this object has a red-brown colour, which may
+to analogous contexts.24 indicate clay as well as wood,32 as shown by the fact
+Form and length of the styli found in connection that the spears’ shafts show that colour as well. The
+with board-books are variable. normally, grooved writing implement has black colour, a pointed rear end
+styli are depicted as a double stab (Figs. 4.1-2). in and a long shaft expanding towards the tip, which is
+neo-assyrian slabs, the grooved stylus always has a concealed by the fingers of the scribe (Fig. 3).
+rectangular or slightly trapezoidal form, with the shaft While the artist drawing on the scroll to the left
+expanding towards the tip. it can be more or less holds his thin, pen-like implement by securing it in
+squat or slender ― compare e.g. reade 2012, Cat. the middle, the scribe to the right holds the stylus by
+13 with reade 2012, Cat. 34. Within neo-assyrian handling its lower part with his fingers, a fact which
+stelae and reliefs, too, the grooved stylus normally has
+a rectangular form and slim shape; there are, however,
+at least two exceptions. The first one is the dolomite
+stela of Tiglathpileser iii from iran, where the grooved
+stylus has a trapezoidal form with a slightly expanding
+20 liVinGstone 2007.
+shaft.25 The second and even more revealing one is the
+21 seidl 2007. This habit itself might have literary ambi-
+nahr-al-Kalb relief of esarhaddon. here, the stylus tions: cf. the imagery found in the neo- or Late-Babylonian
+has the very same appearance as the (non-grooved) commentary tablet Bm 54312, where an unidentified subject
+cuneiform stylus in the saba’a stela of nergal-ēreš / ties seven waistbands around his waist, to which, among other
+adad-nērāri iii (Fig. 5.7), save for the vertical groove objects, “[seven reed] styli to the right, ditto seven reed styli
+to the left” are fastened (translation after a.r. George). Two
+in the middle.26 These examples show that grooved
+more styli are fastened to the front and to the rear of his waist
+styli for writing on wax were produced in different
+and all these writing styli are named after deities. on this text
+shapes and dimensions. see GeorGe 2006.
+22 reade 2012, 705.
+2.1.4 Clay Tablets and Cuneiform Styli 23 sYminGton 1991, 118-119; waal 2011, 25.
+24 CaD L, 157ff.
+Whereas board-books are frequent, the other me-
+25 leVine 1973, 76 Pl. 1.
+26 Vs 1 Beiheft, Pl. 8 (VaG 31). The stylus on the Kition
+dium occurs more rarely, found only in the following
+stela of sargon (ibidem, Pl. 6) may be another example, but
+cases: reade 2012, Cat. 2, 3, 4, 6, 10, 16, 17, and
+the surface is too damaged to decide whether or not there is
+18.27 They have the appearance of a tablet or board in a groove.
+profile view, lying flat in the hand of the scribe. since 27 The interpretation of reade 2012, Cat. 1, 9, 12, 15, 19,
+they are shown at a side angle, the absence of visible 21 is uncertain. since these cases may pertain to board-books,
+they are irrelevant for the present discussion.
+binding does not say much about their nature.28 Their
+28 Differently reade 2012, 705.
+shape is rectangular or slightly curved and they are
+29 wiseman (1955, 12), however, proposed to identify them
+generally taken to be clay tablets impressed with cu-
+with board-books.
+neiform script.29 The styli connected with these tablets 30 reade 2012, 705-706; see already seidl 2007, 119-
+or boards, as well as their handling, differ from those 121.
+used for board-books, a fact which confirms that we 31 For the use of inked cuneiform script cf. e.g. two colo-
+are dealing with a different medium. These implements phons in ink from the Kuyunjik archive: K 10100 and DT
+may have a pointed end and are held between the
+273, see reade 1986, 220; a photograph is available online at
+the CDLi archive (photo no. P399067). on the use of ink on
+thumb and all other extended fingers, i.e. in a slightly
+tablets and wooden boards in the hittite scribal tradition cf.
+different manner than board-book styli. also waal 2011, 29 with n. 8, with further references.
+as noted, the communis opinio favours cuneiform 32 Pace reade 2012, 705.
+the cuneiForm stYlus 57
+Fig. 3 - Detail of the mural painting from Til Barsip (copy by L. Cavro, after parrot 1961, 278 Fig. 348).
+reminds us of the figure on the Ur iii stela. The over- Cat. 6 (Fig. 4.5): only modern drawings of the
+all form of the stylus is similar to that of the object original slabs exist wherein the writing implement is
+found on the Pedestal of nusku, but this fact does depicted as a long instrument with a right-angled tip
+not seem to be significant, according to the discussion and pointed rear end; the interpretation is therefore
+above. The difference in the handling of the writing analogous to Cat. 4.
+tools seemingly points to a difference in the writing Cat. 10: The scribe with the tablet (or board) has an
+technique, thus suggesting that we are indeed faced oblong under his left arm.34 such oblongs have been
+with a cuneiform stylus and not with pen or brush interpreted as pen-and-ink cases, otherwise found in
+used to write with ink on a wooden board. This is connection with scrolls.35 since the writing implement
+the only depiction of a scribe portrayed in the very is not visible, one cannot interpret it with certainty;
+act of writing. in this respect, it is interesting to note in any case, the presence of the oblong points to a
+that the hand is in half-supinate position (discussion board-book and therefore to a grooved stylus.
+at §6.2). Cat. 16: only modern drawings of the original slabs
+The remaining depictions of the alleged tablets and exist. The scribe with tablet (or board) holds a writ-
+styli, all from neo-assyrian slabs, are the following ing implement, the form of which cannot be further
+(cf. Fig. 4; reference to catalogue numbers in reade detailed.
+2012):33 Cat. 17: analogous considerations as Cat. 16.
+Cat. 2 (Fig. 4.3): The scribes holds a rectangular Cat. 18 (Fig. 4.6): only modern drawings of the
+tablet (or board) and a writing implement which thick- original slabs exist. The scribe with tablet (or board)
+ens towards one end. it is unclear, however, whether has a stylus, which is “in mid-air in front of him,
+the thicker end should be considered the tip, so a thrown at approaching foreigners”.36 Based on the
+reliable interpretation of this object is not possible. comparison of the two kinds of writing implements
+Cat. 4 (Fig. 4.4): Based on the drawing available
+(the original is now damaged; note that this scribe is
+incorrectly drawn as beardless), the writing implement
+is depicted as a long instrument with a right-angled tip
+and pointed rear end. indeed, the position of the hand 33 The medium held by the scribe ‘a’ in reade 2012, Cat.
+is analogous to that which was found in the Til Barsip 8 is a board-book and not a tablet (pace reade 2012, 713).
+Therefore, this occurrence is not included in the present list.
+mural painting, save for being represented in resting
+34 Pace reade 2012, 713, who assigns the oblong to the
+position instead of in the very act of writing. Conse-
+scribe with scroll.
+quently, the implement is to be interpreted as a stylus 35 reade 2012, 705 and Cat. 12, 18.
+used to write cuneiform, not as a pen or brush. 36 reade 2012, 714.
+58 michele cammarosano
+Fig. 4 - neo-assyrian styli.
+1: [reade 2012, Cat. 34]: Detail from the slab Bm 124955, ascribed to sinšarriškun. after barnett et al. 1998, Pl. 256.
+2: The stylus of aššurbanipal. Detail from a slab in the north Palace of aššurbanipal at nineveh. after seidl 2007, 121 Fig. 2.
+3: [reade 2012, Cat. 2]: Detail from the slab Bm 118882, dated to Tiglathpileser iii. Drawing based on the photo in hrouda
+1991, 204f.
+4: [reade 2012, Cat. 4]: Detail of the slab ao 19892, dated to sargon, now damaged. Drawing based on the drawing of
+Botta & Flandin, reprinted in albenda 1986, Pl. 133.
+5: [reade 2012, Cat. 6]: Detail of a lost slab, dated to sargon. Drawing based on the drawing of Botta & Flandin, reprinted
+in albenda 1986, Pl. 137.
+6: [reade 2012, Cat. 18]: Detail of a lost slab, dated to sennacherib. Drawing based on a modern drawing, reprinted in
+barnett et al. 1998, Pl. 426.
+the cuneiForm stYlus 59
+shown in the drawing, the alleged stylus is slightly 2.2 The Stylus as a Symbol of Nabu
+shorter and wider than the pen used for the scroll
+and seems to have a square nib, which would again The earliest representations of styli as symbol of the
+suggest a cuneiform stylus. god nabu are found on Babylonian kudurrus dating
+in conclusion, the fact that the writing tip is right- back to the late Cassite period. From the 9th century
+angled shows that these cases pertain to cuneiform onwards, the motif is found in neo-assyrian stelae and
+script as well, although it must be stressed, too, that reliefs and spreads with increasing frequency in the
+all relevant occurrences are documented by modern glyptic over a large area which includes Babylonia and
+drawings only. The difference in handling with respect assyria as well as the syrian and Levantine regions.39
+to grooved styli, in turn, suggests that we are indeed Two main kinds of styli are depicted which may also
+faced with cuneiform styli, i.e. used to write cuneiform occur together in the same scene: for convenience, i
+script on clay tablets. will refer to them here as the “grooved” stylus and
+Within neo-assyrian writing scenes, both grooved the “wedge” stylus. The former represents the kind
+and non-grooved styli are depicted as quite long im- of stylus which was used to write cuneiform script
+plements, i.e. they are depicted as though they were on wax boards, as convincingly demonstrated by U.
+longer than the scribe’s hand. This characteristic is seidl.40 The “wedge” stylus, in turn, appears in two
+particularly evident in the Til Barsip mural painting. at different phenotypes, both attested from the Cassite
+this juncture, the question arises whether this feature period onwards (Figs. 5-6):
+reflects accurately the real length of the styli – i.e., the (1) “Simple tip” Stylus: this represents the stylus
+proportions between stylus and hand – or not. in fact, used to write cuneiform on clay tablets. it is attested
+there is iconographical, archaeological, and indirect on kudurrus and on neo-assyrian stelae.41 it is de-
+evidence coherently pointing at the latter option. The picted as an elongated trapezoid, rarely as a triangle,
+only recovered example of cuneiform styli, the old and is usually stood up, the larger end (i.e. the writ-
+Babylonian bone styli from Tell ed-Dēr, are just 3 to 5 ing tip) always pointing to the top. The tip may be
+cm long (§3.1). representations of cuneiform styli as right-angled (e.g. kudurrus BKr 32 [Fig. 5.1], 75
+symbol of the god nabu, in turn, suggest rather short [Fig. 5.5], 79 [Fig. 5.10]; saba’a stela [Fig. 5.7])
+implements insofar as the proportions of the depicted or it may slope to one side (e.g. kudurrus BKr 67
+implements are concerned (§2.2). it is worth stressing [Fig. 5.11], 74 [Fig. 5.3], 100 [Fig. 5.6], Kudurru
+that some of these depictions are contemporary with 119 [Fig. 5.2]; Tell al-rimaḥ stela [Fig. 5.8]). The
+the neo-assyrian wall panels. Finally, indirect evidence variation between square and slanted tip conforms
+at the existence of short styli can be drawn from the to archaeological findings and observation of wedge
+examination of rulings (§6.1), and from considerations impressions which attest the existence of both kinds
+about stylus handling (§6.2). it seems therefore possi- (§3.1). in some instances, a single or double bar is
+ble that, in depicting writing scenes, the neo-assyrian depicted in the middle part of the instrument (e.g.
+artists exaggerated the dimension of the writing im- BKr 100 [Fig. 5.6]; Tell al-rimaḥ stela [Fig. 5.8]).
+plement on iconographical grounds, namely in order (2) “Stylized wedge” Stylus: it may be a hybrid
+to increase their visibility and recognisability. indeed, between a “simple tip” stylus and a stylized wedge
+a 5 cm long stylus held within the palm would have impression, or a stylized wedge impression tout court.
+been, in fact, practically invisible to the observer.37 such pseudo-styli have curved or bifurcated tips, which
+oversizing the dimensions of specific objects in order imitate the way cuneiform wedges frequently appear
+to show them more clearly is a well-known icono- in inscriptions on stone or other hard materials. This
+graphical technique; a significant example, found in a type is attested on kudurrus and seals.
+neo-assyrian slab as well, has been recently identified
+by J. novotny and C.e. Watanabe.38 in this perspec-
+tive, it is also worth noting that both grooved and
+non-grooved styli are depicted as being shorter than
+the pens or brushes used in connection with scrolls.
+37 The same argument may apply to the scene in the limestone
+admittedly, the alleged bronze styli from Late Bronze
+stela Va 7245 discussed at §2.1.1.
+age Ugarit (§3.2) would seem to speak against this
+38 noVotnY, watanabe 2008, 115. i thank G. van Buylaere
+standpoint: reportedly, they are 6 to 10 inches long.
+and m. Luukko for bringing this study to my attention.
+however, the interpretation of these objects remains 39 pomponio 1978, 207-217; seidl 1989, 121-125; eadem
+uncertain as far as they are unpublished. moreover, 1998, 24-27; Gilibert 2007, focusing on the gylptic evidence
+they pertain to a specific scribal tradition, which might (all with further literature).
+have followed different standards, whereas, as noted, 40 seidl 2007; see also §2.1 above. since it is coupled with
+the grooved stylus, the object depicted in BKr 43 (Bm 90836)
+some of the depictions of short styli on stelae and
+must be a diptych with inscribed paragraph lines, not a clay
+seal impressions are contemporaneous with the neo-
+tablet (cf. seidl 1989, 122; pace unGer 1921, 9).
+assyrian writing scenes. 41 attestations and discussion: seidl 1989, 121-125; pom-
+ponio 1978, 207-213.
+60 michele cammarosano
+Given the nature of the two types, there are cases stylus and medium is not necessarily correlated, as the
+where the attribution to group 1 (“simple tip”) or 2 example of BKr 32 [Fig. 5.1] shows.47 more reliable
+(“stylized wedge”) is uncertain. The instrument de- data can be drawn from the length-width ratio of the
+picted in Kudurru 122 [Fig. 5.12] might, in principle, stylus in each depiction, an element which is more
+produce cuneiform wedges, but it seems more likely to likely to reflect the appearance of the model. Within
+be a hybrid between a stylus and a stylized wedge; the a sample of relevant depictions, the values are as fol-
+same applies to the seal impression in Collon 2001 no. lows (ratio max width : max length): 1:1.7 (Kudurru
+255 [Fig. 5.13]. on the contrary, the stylus depicted 119), 1:1.9 (BKr 75), 1:3.7 (BKr 32, saba’a stela),
+in BKr 76 [Fig. 5.14] clearly pertains to type 2, since 1:4.1 (BKr 74), 1:4.4 (BKr 80), 1:4.6 (Tell al-rimaḥ
+its bifurcated end could not be used to write cuneiform stela), 1:4.8 (BKr 100), 1:5.6 (BKr 79). assum-
+signs.42 The same applies to pseudo-styli with curved ing that styli used for clay tablets were seemingly not
+tips, like BKr 84 [Fig. 5.16] and BKr 103 [Fig. larger than ca. 1 cm at the tip (cf. §4.3), we can
+5.17]. The likelihood that these depictions are a hybrid conclude that cuneiform styli are regularly depicted
+between stylus and wedge impression is demonstrated as short implements, never as a long, pen-like rod, as
+by the case of BKr 79 [Fig. 5.10], where the middle the examples given in Fig. 5.1-13 suggest.48 True, this
+section of the (right-angled) stylus shows a wedge- is a very speculative deduction, since the model – i.e.
+like decorative motif, the form of which is identical to the real stylus – could be distorted on iconographical
+the pseudo-stylus found in BKr 84 [Fig. 5.16]. This grounds in the representation. however, the fact that
+group also includes the stylus found on the Ḫorsābād the sources extend over a significant chronological
+bronze door plaque [Fig. 5.19], the composite stylus and geographical span is significant. The cuneiform
+depicted on the Tell abta stela [Fig. 5.9], and examples stylus, where it is unquestionably featured, is regularly
+like the seal impression from the Walters art Gallery, represented as a tapered trapeze, its length ranging
+no. 83 [Fig. 5.20]. These styli have rectangular shafts, from ca. 1.5 to ca. 5.5 times its width. The rare ex-
+but with both edges curving close to the tip; they are amples of triangular styli, e.g BKr 67 (Fig. 5.11), are
+sometimes decorated with contour lines. comparable to those depicted on neo-assyrian slabs,
+The stylus in the form of a stylized wedge impres- bearing a pointed rear end (§2.1.4).49 in the latter case
+sion occurs most frequently on neo-assyrian cylinder however, as has been suggested, the dimensions of the
+seals.43 in these instances, the stylus often has an ex- implement might be purposefully oversized.
+tremely bifurcated tip which, as previously mentioned,
+imitates the way a wedge head was often engraved in 2.3 Conclusions
+inscriptions on hard materials. This is most evident
+when both this kind of “stylus” and a cuneiform in- iconographical sources bear witness to the existence
+scription are juxtaposed (e.g. in collon 2001 no. 256 of two styli used to write cuneiform script, namely the
+[Fig. 5.21]). such a stylization process may produce grooved stylus used in connection with waxed boards
+creative and bizarre results (see Figs. 5.23, 5.27). and the non-grooved stylus used in connection with
+sometimes, the stylized wedge is represented as a clay tablets. apart from the Ur iii stela from the
+broken (reduplicated) one; in this case, too, the tip Vorderasiatisches Museum in Berlin and the so-called
+may be curved or bifurcated.44 Pedestal of nusku, whose interpretation is unclear,
+in some instances, it is the god nabu himself who the available evidence comes from writing scenes
+holds stylus and tablet. once again, a number of vari- found in neo-assyrian paintings and wall panels, as
+ations are attested: simple wedge with straight (Fig.
+6.1) or curved (Fig. 6.3) tip, or double wedge, again
+with curved (Fig. 6.4) or bifurcated (Fig. 6.5) tip.
+42 Pace unGer 1921, 9, referring to the similar stylus depicted
+such cases make the hybrid nature of this kind of
+in BKr 68 (here Fig. 5.15).
+stylus explicit: nabu could never properly “write” 43 pomponio 1978, 213-215; Gilibert 2007, 1. alleged at-
+anything with these instruments; rather, he holds a testations dating to the 2nd millennium are uncertain, see seidl
+magical stylus, the form of which already represents 1989, 125 n. 53; pomponio 1978, 213.
+its outcome. 44 pomponio (1978, 210), following Unger, proposes that the
+double wedge might represent a reed stem. But the alleged nodes
+are often represented by a broken line, not a curved one, a fact
+since they represent their model in a more faithful
+which confirms the interpretation as reduplicated wedge.
+manner, depictions of type 1 (“simple tip” stylus) 45 For attestations see pomponio 1978, 208-209.
+may be used to gain some information about the ap- 46 as i said, this fact should raise further doubts on the
+pearance of real styli. in these depictions, the stylus interpretation of the “rod” of nusku as writing stylus.
+is represented either standing or lying down.45 in the 47 Pace herles 2006, 258.
+former case, its narrow end always points down with
+48 There is no reason to suspect, as pomponio (1978, 210)
+proposed, that some of the most “squat” examples might actu-
+the writing tip pointing up.46 sometimes, both “wedge”
+ally represent chisels rather than styli.
+and “grooved” styli appear together with a tablet or 49 see already seidl 1989, 124, referring to the Til Barsip
+board respectively, whereby the proportion between mural painting.
+Fig. 5 - representations of styli, typologically arranged / 1 (all drawings based on photographs).
+1: BKr 32 11: BKr 67 stylized wedge (right) and the contour of
+2: Kudurru 119 12: Kudurru 122 a wedge taken from the cuneiform legenda
+3: BKr 74 13: Cylinder seal: collon 2001, no. 255 within that very seal (left)
+4: BKr 80 14: BKr 76 22: Cylinder seal: collon 2001, no. 257
+5: BKr 75 15: BKr 68 23: stamp seal impression from Tell Kei-
+6: BKr 100 16: BKr 84 san, ca. 700 BCe (keel 1990, no. 24 =
+7: saba’a stela of nergal-ēreš / adad-nērāri 17: BKr 103 Gilibert 2007, no. 20)
+iii (see unGer 1916, Pl. 7) 18: BKr 63 24: Cylinder seal: Louvre, no. a602
+8: Tell al-rimaḥ stela of nergal-ēreš / 19: Bronze door plaque fragment from 25: Cylinder seal: Canes i, no. 692
+adad-nērāri iii (see oates 1968, Pl. 38) Ḫorsābād: loud, altman 1938, Pl. 50 26: Cylinder seal from al-mina: barnett
+9: Tell abta stela of Bēl-Ḫarrān-bēlu-uṣur / 20: Cylinder seal: walters no. 83 1939, Pl. 1
+Šalmaneser iV) (see unGer 1917, Pl. 1) 21: Cylinder seal: collon 2001, no. 256. 27: Cylinder seal: collon 2001, no. 258
+10: BKr 79 The stylus as symbol of nabu in form of a
+62 michele cammarosano
+Fig. 6 - representations of styli, typologically
+arranged / 2 (all drawings based on photo-
+graphs except for no. 2).
+1: Cylinder seal: erlenmeyer Collection, so-
+theby’s sale, 1992, no. 195 (ca. 800-700
+BCe)
+2: Copper plaque with incised figures and text,
+drawing after postGate 1987, 62 Fig. 1 (Bm
+118796, neo-assyrian)
+3: Cylinder seal: delaporte 1909, 96 no. 24
+(neo-assyrian)
+4: Cylinder seal: pecorella 1980, 328-330
+no. 4 and Pl. 2 (9th cent. BCe)
+5: Cylinder seal: Canes i, no. 691 (9th-8th
+cent. BCe)
+well as from kudurrus, seal impressions, stelae and dence from both the texts and the analysis of wedge
+reliefs showing a stylus as symbol of the god nabu. impressions, there is archaeological evidence for styli
+Within both groups, there is a tendency for grooved made of bone and, possibly, of bronze, as well as phil-
+styli (for waxed boards) to be represented as double ological evidence for styli made of precious metals,
+stabs, whereas cuneiform styli (for clay tablets) appear although these are likely to be understood as models
+as tapered trapezoids – more rarely as triangles – with of styli rather than habitually used instruments. since
+a right-angled or slanted tip. sometimes, however, reed is heavily prone to degradation, there is little
+a grooved stylus has the same shape as a standard hope of recovering original styli of this kind, but
+non-grooved stylus, thus corroborating the expecta- we may expect to find some examples of styli made
+tion that the two kinds of implement, serving the of bone or metal. in fact, there is only one example
+same script, indeed shared the most basic features. of artifacts which can be confidently identified as
+The depictions bear witness, moreover, to a certain cuneiform styli, i.e. the well-known old Babylonian
+degree of variation in the shape of the styli and of bone styli from Tell ed-Dēr. some bronze objects
+their writing tips. as far as the length of the styli is from Late Bronze age Ugarit have been interpreted
+concerned, it has been argued, their dimensions might as cuneiform styli too, but they remain unpublished.
+be purposefully oversized within the neo-assyrian other examples of objects claimed to be cuneiform
+writing scenes in order to increase recognisability, a styli do exist, but none are convincing. The scarcity
+standpoint which will be further argumented in the of findings, in my opinion, should not be attributed
+following paragraphs. solely to the perishable nature of reed (or wood), but
+also to the fact that an everyday stylus, in all likeli-
+hood, often had the appearance of a short, undeco-
+3. Archaeological finds rated stick – something which can easily escape our
+attention, especially if we have another idea of how
+Cuneiform styli could be made of various materi- a stylus should look. it seems, therefore, conceivable
+als. apart from reed, for which there is ample evi- that some styli made of bone or metal may still lie
+the cuneiForm stYlus 63
+unrecognised among the myriad of “small finds”.50 made by C. schaeffer (which, as was mentioned, refers
+to the finds in room 3 of the royal Palace): “sur le
+3.1 Sippar-Amnānum (Tell ed-Dēr) sol soigneusement lissé parmi des fragments de tab-
+lettes, nous avons trouvé plusieurs styles en bronze
+The bone styli from sippar-amnānum (Tell ed-Dēr) de la longueur d’une plume à une extrémité aplatie,
+were found in the house of inanna-mansum, level parfois légèrement inclinée, avec lesquels les signes
+iiib, locus 22 (Fig. 7). The level iiib corresponds cunéiformes étaient imprimés dans la pâte encore
+to a late phase of occupation of the complex, dated molle”.58 J. ellison, who could identify and inspect
+to the 18th year of ammiṣaduqa.51 Twelve styli were these bronzes at the Damascus national museum in
+found on the ground, near to tablet lots a 363 and a the frame of his PhD research, generously provided
+369;52 one more piece, fragmented and identical to D more detailed information about the pieces. according
+4085, was found within lot a 359.53 The instruments to him, they are 6-10 inches long, very thin, and all
+are 29 to 52 mm long, 3 to 11 mm wide, and 1.5 to are square or slightly rectangular; most of them do
+4 mm thick; the width/length ratio is ca. 1:12 to 1:15 have some bevel. The back end is flattened, almost
+in nos. 1-7, whereas ca. 1:5 to 1:6 in nos. 8-12.54 like an arrow.59 admitting that these are indeed cunei-
+Within the latter group, therefore, the proportions are form styli, their length would contrast with that of the
+similar to those found on the depictions of styli as styli from Tell ed-Dēr, which happen to be consider-
+symbol of nabu examined in §2.2. The instruments ably shorter. This, and the differences in shape and
+are always bevelled, at least at one end. if the width is form (square/rectangular section, presence/absence
+less than 5 mm, both ends are bevelled (nos. 1 to 7; of flattened back end) would point to the existence
+no. 5 is broken); otherwise, only one end is bevelled of different traditions in the manufacturing of cunei-
+(nos. 8 to 12, no. 10 is broken). since the bevel- form styli across the ancient near east; such diver-
+led end can reasonably be identified with the writing sity, moreover, might be related to differences in the
+tip, it is likely that, in the former case, both ends
+were used for writing. The tip is either right-angled
+or slopes slightly to one side. Generally, the longer
+face is polished and the shorter one is rough; in some
+cases, however, both faces are rough (nos. 4, 6, and 50 B. mofidi-nasrabadi interpreted as cuneiform styli some
+7). L. De meyer tested the instruments on modeling stone objects of triangular form found at haft Tappeh, ca. 20
+km south-east of susa, datable to the middle elamite period
+clay and found that these objects are very suitable to
+(moFidi-nasrabadi 2012, 752-753 with Fig. 7; based on the
+write cuneiform script.55 Photographs of these tests
+photograph, they are ca. 2-2.5 cm long). These objects were
+are not available, nevertheless this assumption may found together with tablet fragments in rooms 1 and 5 of
+be confirmed by experiments carried out with similar the building excavated in the Areal I, a fact which led to the
+instruments (§5.2). This, and the fact that they were interpretation as cuneiform styli. according to nasrabadi, the
+found together with cuneiform tablets, prove that these archeologists’ “experiment mit den steingeräten auf Ton Keil-
+schriftzeichen einzudrücken war erfolgreich. ihre verschiedenen
+objects can be safely regarded as cuneiform styli. at
+ecken konnten bestens zum abdruck von unterschiedlich gro-
+first sight, one may assume that the face used to make
+ßen Keilen und Winkelhaken benutzt werden.” Photographs of
+impressions in the clay was the polished one, but the the experiment results, however, have not been published. The
+opposite is likely to be true, since the bevel must face interpretation remains open to debate; a detailed comparison
+downwards in order to produce proper cuneiform between the edges of these tools and the wedge impressions
+wedges (discussion at §7.2). Consequently, there is on the tablets might shed light on this hypothesis.
+no need to assume that the examples with both faces
+51 Gasche 1989, 26-33; tanret 2002, 3.
+52 Gasche 1989, 102 and Pl. 45 nos. 1-12.
+rough would be unfinished pieces.
+53 Gasche 1989, Pl. 45 ad no. 10.
+54 Width : length (mm): 48 : 3.5 (no. 1), 46 : 3 (nos. 2-3),
+3.2 Ugarit 39 : 3 (no. 4), 36 : 3 (no. 6), 37 : 3 (no. 7), 30 : 6 (no.
+8), 29 : 5 (no. 9), 52 : 11 (no. 11), 49 : 10 (no. 12). nos.
+allegedly, an unspecified number of bronze cunei- 5 and 10 are broken.
+form styli were found in Ugarit, in room 3 of the
+55 de meYer apud Gasche 1989, 102.
+56 Van soldt 1991, 49 with n. 21.
+royal Palace, during the excavations of the Western
+57 so schaeFFer 1955, xii; Yon 2006, 38; but cf. Van soldt
+archives in the 1950 campaign. These objects were
+1991, 50.
+found together with fragments of tablets, a fact which 58 schaeFFer 1951, 14.
+supports the theory that room 3 was a scribal office 59 Pers. comm., July 2014. i’m very grateful to J. ellison for
+or secretariat.56 Whether the tablets – and, hence, the providing me with these most interesting informations as well
+styli – actually fell down from the upper storey dur- as with the appropriate pages from his PhD dissertation (el-
+ing the collapse is unclear;57 in any case, the styli lison 2002). J. ellison will publish the results of his research
+on how the stylus was held and manipulated in a forthcoming
+are likely to date to the last phase of occupation of
+article. There is no dossier on these objects at the archive of
+the complex. Unfortunately, the published informa- the Mission archéologique de Ras Shamra - Ougarit in Lyon
+tion about them is confined to the following statement (courtesy of V. matoïan, pers. comm.).
+64 michele cammarosano
+Fig. 7 - The styli from Tell ed-Dēr (after Gasche 1989, Pl. 45).
+handling and writing techniques as well (cf. §6.3). as by archaeological evidence, as a bronze object inter-
+long as a full publication of the alleged Ugarit styli is preted by meijer as a possible cuneiform stylus was
+not available, however, any well-founded discussion discovered – although, as the excavator himself notes,
+on these points is impossible. some circular reasoning might play a role here. The
+implement, which bears the excavation number hmm
+3.3 Tell Hammam al-Turkman 98-m5, was found 1 m from the basin and belongs to
+the same archaeological phase. it is 9.8 cm long, 0.8
+D. meijer identified a possible scribal quarter at cm width, and 0.9 cm thick,62 and is “slightly flattened
+Tell hammam al-Turkman, square K24, within the at [one] end”.63 apparently, the object is slightly wider
+so-called “administrative Complex”, in a phase dating in the proximity of the flattened end, as the avail-
+back to the second half of mB i.60 here, a basin-like able photo shows. according to meijer, experiments
+construction and a kneading platform were found. showed that the implement is able to produce regular
+The basin was connected to a water conduit system wedge impressions.
+and the platform was covered with purified lumps of
+clay; in the immediate nearby fragments of tablets,
+perhaps in secondary or tertiary locations, were also
+found. according to meijer, these facts suggest that
+this area might be used to prepare clay for tablets. The
+60 meiJer 2004, 388.
+association between water supply and scribal activities
+61 meiJer 2004, 390.
+may find parallels in Tell ed-Dēr, Ugarit, nimrud, and 62 D. meiJer, pers. comm. (23.07.2013).
+Tell mozan.61 The case for a scribal quarter is fortified 63 meiJer 2004, 388, 391 Fig. 3.
+the cuneiForm stYlus 65
+3.4 Problematic Cases Clay and others as completely erroneous. in order to
+obtain cuneiform signs, however, one has to continu-
+in this section, i will discuss some cases for alleged ously rotate the stylus in hand, as each type of wedge
+styli which are unlikely or impossible to be interpreted requires that the stylus is turned in a different posi-
+as such. tion. This complicated system is very unlikely ever to
+among the small finds from the 1931-39 and 1952- have been used by any ancient scribe; furthermore,
+69 campaigns at Boghazköy, there are two objects the stylus edges used to produce the impressions seem
+which r.m. Boehmer concluded to be cuneiform styli.64 to have been consistent for all wedge types (§6.3).
+Both objects, found in the Lower Town and dating to Langdon’s attempts at reproducing cuneiform script
+the Karum Kaneš period,65 are made of horn and are with this tool have been surprisingly called “befriedi-
+roughly square in section. no. 2044 is 15.7 cm long gend” by Boehmer; Falkenstein, however, was more
+and no. 2045 is 18 cm long; both are broken at the cautious, and Tanret qualified them more appropriately
+bottom end, which would represent the alleged writing as “franchement désolants”.71 The alleged ruling tracer
+tip. Their form is that of a stab, narrowing towards the is likely to be an awl or needle, especially because
+bottom end. i believe that it is problematic to conclude of the hole at one end. Theoretically, it also may be
+that these implements are styli: although their section used to trace lines on clay, but it would not produce
+is roughly square, the edges are not sharp; moreo- the wedged line heads which are frequently found on
+ver, the alleged tip would have been extremely nar- the tablets.
+row, capable of impressing, if at all, only very minute e. Bleibtreu interpreted as cuneiform stylus, or as
+wedges. additionally, the considerable length of the a votive model of a stylus, an unprovenienced stone
+objects – particularly of no. 2045 – is problematic object found in an anonymous private collection.72 The
+(see §§2.2 and 6). flattened end of this implement, however, cannot be
+at ortaköy (hittite Šapinuwa), a certain number of used to produce proper wedges, nor is there any evi-
+objects have been recovered, which a. süel proposes to dence that supports the theory of it being used for
+identify as cuneiform styli.66 These instruments consist writing cuneiform script.
+of a bone handle and a short bronze stab, which would at nimrud, “more than two dozen spatulae mostly
+represent the writing tip. in some cases, only the al- in ivory, some in bone [...]” were found in the well
+leged writing tip is preserved. Pending publication of nn of the nortwestern Palace.73 as mallowan himself
+the objects and of their archeological context, the op- observes, these cannot be interpreted as cuneiform
+tion that they might be styli is open. The form of the styli, as they would need a more square-ended tip;
+handle, however, points rather at an instrument used they might, perhaps, be used “for writing Phoenician
+by woodworkers (gouge or similar). moreover, it is or aramaic upon wax”.74
+unclear whether the alleged writing tips can indeed be
+used to impress wedges: the example of which photos
+are available has a flattened end, which again would 4. The Reed Stylus
+point at a gouge rather than at a stylus.67
+h.h. von der osten labelled as “styli” some deco- The ancient name of the cuneiform stylus was
+rated bone objects found at alishar höyük. They taper “tablet-reed” (sum. Gi dub(-ba), akk. qan ṭuppi, qan/
+to a point at one end, and date back to the hittite rṭuppu). This indicates that styli were originally made
+period.68 Because of their pointed end, however, such of reed; of course, however, this doesn’t mean that
+implements cannot be used to write cuneiform wedges.
+in alishar, a number of bone “awls” were also found.
+one of them is square-ended, so, in principle, it could
+have been used as cuneiform stylus,69 but its pointed
+bottom end is more indicative of an awl-like instru- 64 boehmer 1972, 196-197 and Pl. 63 (nos. 2044-2045).
+ment; according to the excavator, furthermore, it is 65 boehmer 1972, 197.
+likely to date back to the iron age. 66 i wish to thank a. süel for the informations kindly pro-
+vided on these objects, and for providing photos of one of
+in the first volume of his work, Excavations at Kish,
+them.
+s. Langdon claimed to have identified a true cunei-
+67 Kindly pointed out to me by a. Baykal-seeher and J.
+form stylus as well as a ruling tracer in two bone
+seeher.
+implements found at the “city ruins of Western Kish” 68 Von der osten 1937, 237 with Fig. 269 on p. 242.
+and possibly dating to the old Babylonian period.70 69 Von der osten 1937, 238 Fig. 265 no. e807.
+Judging from the available photos, the alleged stylus 70 lanGdon 1924, 95-98 with Pls. 29-31.
+has the appearance of a pen-like, four-sided stab; one 71 boehmer 1972, 197; Falkenstein 1936, 6 n. 2; tanret
+2002, 26 n. 14.
+end is flattened, while the other is bevelled and slightly
+72 bleibtreu 2003.
+narrowed. Langdon mantains to have discovered its
+73 mallowan 1966, 138-9 with Figs. 96-98 on pp. 162-
+“rather intricate mechanism” after “long practice”, 163.
+and dismisses the reconstructions by messerschmidt, 74 Ibidem.
+66 michele cammarosano
+stylus. if the writing tip is split or damaged, this will be
+apparent in its impressions. These instances, therefore,
+provide crucial information about the handling of the
+stylus (for attestations and discussion see §6.3).
+Both Powell and marzahn corroborated messer-
+schmidt’s analysis with their own experiments, and
+with new evidence for the appearance of the “reed
+pattern” in various corpora of tablets.79 regarding
+the cutting process, however, one may note that the
+“second cut” described by messerschmidt is not es-
+sential in order for wedges to display the observed
+pattern. Though he appears to accept messerschmidt’s
+Fig. 8 - Left: The making of a cuneiform stylus from a reed
+conclusions, a. Falkenstein imagined a stylus which
+stalk according to the reconstruction of messerschmidt. The
+would be somewhat differently cut.80 This stylus would
+arrows marks the “regular” writing edges. right: Close-up
+from the old Babylonian tablet VaT 8136, with wedges produce the characteristic reed pattern too. according
+displaying curved right-hand face and fibrous impressions to Powell, it is unlikely that a stylus like that imagined
+on the left-hand face. by Falkenstein ever existed.81 indeed, messerschmidt’s
+stylus seems both simpler to obtain and easier to use,
+a fact which favours his reconstruction. nevertheless,
+other ways to cut a stylus are not necessarily incom-
+patible with the wedge impressions and therefore
+other materials could not have been used at one point should not be ruled out (Fig. 9). Wedge impressions
+or another.75 since reed styli have not stood the test from the early Dynastic period, in particular, do point
+of time, reconstructions of their appearance are neces- at cutting techniques which are different from that
+sarily based on experimentation and examination of reconstructed by messerschmidt.82
+wedge impressions. There is another point for which messerschmidt’s
+conclusions are called into question. as previously
+4.1 Cutting Technique stated, he insisted that the wedge face displaying the
+curvature is always the right-hand wedge face (for a
+The first scholar to carry out a systematic analysis probable explanation of this regularity see presently,
+of the wedge impressions in order to clarify the cunei-
+form writing technique was Leopold messerschmidt.76
+he observed that the wedge impressions on a number
+of tablets of different provenance and dating regularly
+show the following pattern: the right-hand face of 75 Pace messerschmidt 1906, 189. The fact that the stylus
+was still called “tablet-reed” does not mean that it was always
+the wedges is smooth and slightly curved, whereas
+made of reed; no more, at least, than our term “pen” actu-
+the left-hand face is flat and displays fibrous impres-
+ally means that our “pens” are still made of feather (Latin
+sions running parallel to the wedge axis. in the most
+penna).
+favourable cases, one can also observe some porous 76 messerschmidt 1906.
+impressions on the front face of the wedge, which 77 see e.g. the photo of the tablet K 143, perhaps written by
+correspond to the cross-section of fibrous capillaries. king aššurbanipal himself, in Livingstone 2007, 112, also online
+at the CDLi archive (photo P393767); VaT 8136 (old Babylo-
+Both the curvature of the right-hand face and the
+nian, P373156); cf. also Fig. 8 below. a macroscopical example
+fibrous traces are often observable to the naked eye
+of fibrous impressions in the left-hand faces of the wedges is
+and, in some cases, even on photographs.77
+aUam 73.0599 (old Babylonian, online at the CDLi archive:
+as messerschmidt argued, the presence of this photo P249677, kindly pointed out to me by Zs. Földi).
+pattern suggests that the stylus was obtained from 78 in the royal Palace at Tell mozan (akkadian period),
+the outer section of a reed stem. he proposed the implements resembling ax heads made of stone have been found,
+following reconstruction: the reed was first split lon- which may have been stylus sharpeners (buccellati, kellY-
+gitudinally and the obtained section was again split
+buccellati 2000, 145). if so, “they may have been held between
+thumb and forefinger, and passed slightly along the non rounded
+lengthwise so that two styli were obtained from each
+sides of the stylus to remove nicks and grooves” (ibidem).
+section (Fig. 8). 79 powell 1981, 425-426; marzahn 2003, 87 Fig. 4.
+note that the side resulting from the inner part of 80 Falkenstein 1936, 6 Fig. 1.
+the reed stalk can be polished. in this case, the cor- 81 powell 1981, 426.
+responding face(s) of the wedge would hardly display 82 Kindly pointed out to me by a. Bramanti, who is carry-
+ing out an investigation on this topic in the frame of his PhD
+fibrous impressions.78 This would easily explain why
+research about “Umma-Zabalam in the early-Dynastic Period:
+these impressions are not always evident in wedges
+history, administration and Palaeography”. one of the relevant
+which, on the other hand, also display the right-hand tablets is a 07554 (CDLi no. P392107), discussed by him in
+face curvature which is the peculiar indicator of a reed the talk “a Fistful of Clay”, University of Jena, July 8, 2014.
+the cuneiForm stYlus 67
+Fig. 9 - Left: Falkenstein’s reconstruction of the cuneiform stylus (after Falkenstein 1936, 6 Fig. 1). right: an alternative
+solution to obtain a stylus from a reed stalk: wedges resulting from such a stylus would display the same pattern as those
+originating from messerschmidt’s stylus.
+§4.2). That said, it is worth noting that exceptions to dian qanû clearly denote both Arundo and Phragmites,
+this “rule” do exist: in the nuzi tablet hss 14, 125 i.e. the “reeds” in general, tall and stout grasses with
+it is the left-hand wedge face that is curved.83 rigid stalks, as opposed to smaller, herbaceous plants
+(rushes and sedges) which were usually marked with
+4.2 Material and Durability the determinative ú.91 This is not to deny that most
+The presence of messerschmidt’s pattern in a wedge
+impression implies that the stylus which produced
+it was, in fact, a reed; we are then faced with the
+83 The 3D model of a cast of this tablet is available online
+question of which species of reed might be involved.
+since 2002 at the Hethitologie Portal Mainz webpage (http://
+messerschmidt used a bamboo stalk with a diameter www.hethport.uni-wuerzburg.de/3d/). For other kinds of cur-
+of 12 cm for his experiments, but, as Powell noted, vature in the wedge faces, which have nothing to do with reed,
+stalks with a much smaller diameter are sufficient.84 see §7.3. again, tablets from the early Dynastic period give
+moreover, mesopotamians hardy had bamboo at their witness to much more variation in the positioning of the fibrous
+impressions as compared to the times following the Ur iii pe-
+disposal – something of which messerschmidt was well
+riod. interestingly, this variability as compared to later times
+aware.85 a far as we know, the following species of
+is also observed in the order of strokes, as pointed out by a.
+reed were common in ancient mesopotamia: Arundo
+Bramanti and J. Taylor in their lectures at the 60th rencontre
+donax (giant reed) and Phragmites australis (common assyriologique internationale, University of Warsaw, Juli 23,
+reed).86 interestingly, a recent study on plant remains 2014.
+and molluscs in cuneiform tablets from the British 84 messerschmidt 1906, 304 fn. 1; cf. powell 1981, 426.
+museum revealed traces of both species in some frag-
+85 messerschmidt 1906, 190.
+86 townsend, Guest 1968, 370-374 with Pl. 142-143; hep-
+ments from neo-Babylonian Uruk.87 although Arundo
+per 1992, 193. For the representation of both species in the
+donax and Phragmites australis are botanically dis- neo-assyrian reliefs see bleibtreu 1980, 177-179, 232-235.
+tinct from one another, their overall appearance is 87 cartwriGht, taYlor 2011, 68.
+similar, so common usage often denotes both species 88 For the use of qaṣab see townsend, Guest 1968, 372,
+by means of a single term, e.g. english reed, italian 374; postGate 1980, 102; streck 2009, 183.
+canna or arabic qaṣab.88 in many cases, terminological 89 ochsenschlaGer 1992, 54.
+distinctions in the texts mirror functional differences
+90 waetzoldt 1992, 129.
+91 For this opposition see landsberGer 1967, 40-41. Lands-
+rather than botanical ones, which does not mean that
+berger (ibidem) identifies sum. Gi with Phragmites australis,
+the mesopotamians or others who utilised the reeds but as he does not put forward any identification for Arundo,
+were not aware of the differences between the various this reference does not contradict the idea that Gi may denote
+species. This has been observed in the very case of both plants. on reeds in ancient mesopotamia see postGate
+the distinctions between reeds, rushes and sedges by 1980; sallaberGer 1989; waetzoldt 1992; streck 2009, 182-
+marsh dwellers in modern iraq89 and evidently applies 189, with further literature. sallaberger, who identifies Gi /
+qanû with Phragmites australis, states that, in mesopotamia,
+to ancient mesopotamia as well.90
+this species could reach the height of ca. 6-7 m, occasionally
+Despite being referred to in scholarly literature as even 9 m, with stalks of ca. 3-4 cm (sallaberGer 1989, 313,
+the sole Phragmites australis, sumerian Gi and akka- based on studies by salim and Westphal-hellbusch & Westphal
+68 michele cammarosano
+easily split, and no polish work is needed, although
+the option exists (Fig. 11).
+of course, a reed stylus is susceptible to degrada-
+tion more than those made from a more durable mate-
+rial such as horn, bone or metal. on the other hand,
+its tip may periodically be sharpened, as long as the
+overall length of the implement remains convenient.
+Things like the average durability of a standard reed
+stylus and the frequency of it being sharpened are
+difficult to determine.
+The most notable advantage of a reed stylus is
+the glossy, waterproof quality of its outer skin. This
+prevents the implement from absorbing humidity and
+Fig. 10 - Top: stalk of bamboo; middle: stalk of Arundo sticking to the clay during the writing process, a prob-
+donax; bottom: stalk of Phragmites australis. The latter two lem which would require frequent cleaning and drying,
+are from the Büyük menderes delta. as is necessary, for example, in the case of wooden
+styli (§5.2). This is likely the reason why the (curved)
+reed skin was used to construct the broad, right-hand
+side wedge face: this was the side of the stylus which
+offered the best results when pressed into the clay.93
+attestations of Gi / qanû may well refer to Phragmites,
+of which the typical mesopotamian marsh consisted. 4.3 Dimensions
+But, as far as the fabrication of writing styli is con-
+cerned, Phragmites is not a good choice. experimenta- The three angles of the tip are the stylus’ only fea-
+tion conducted on stalks from italy, Germany, and on ture that can be reconstructed with some confidence,
+more than 6 m tall specimens from the Büyük mend-
+eres delta in Western Turkey has shown that stalks of
+Phragmites australis are unsuitable for making a stylus,
+namely because of the smaller diameter (< 1.5 cm) on modern iraqi marsh dwellers). These measures, however,
+and reduced thickness, and also because they tend to
+are not without problems. salim (1962, 104) actually men-
+tions the sole Phragmites karka, which remains unattested in
+split longitudinally when cut with a saw, even in the
+ancient mesopotamia, and speaks of an average stalk diameter
+case of big and solid specimens. analogous experi- “between three and a half and four inches” (more than 10 cm!).
+mentation on Arundo donax, on the contrary, yielded westphal-hellbusch, westphal (1962, 24), speaking of Phrag-
+excellent results (see presently). Based on this, and mites communis (= australis), observe that this species grows
+given that Phragmites and Arundo were both common taller in iraq (up to 6 m and more) than in europe, but do not
+give dimensions for the diameter of the stalks. indeed, various
+in ancient mesopotamia, it seems likely that reed styli
+subspecies of Phragmites australis may grow to a height of more
+were normally obtained from the latter species.
+than 6 m under favourable conditions. The point is, however,
+Arundo donax (giant reed) is an invasive, up to ca. that they grow taller and not wider, so that even in those cases
+9 m tall perennial grass which thrives in many soil the diameter of the stalks does not exceed the measure of ca.
+types, from heavy clays to loose lands, and tolerates 1.5 cm (cf. also e.g. the passage from W. Thesiger’s book on
+a wide variety of climatic conditions including high The Marsh Arabs quoted in Postgate 1980, 102 n. 9: “an old
+salinity. it had already spread over a large area in
+man sat cross-legged on the ground beside a pile of dry qaṣab
+canes, each about eight feet long and as thick as my middle
+ancient times (including the middle and near east)
+finger”). moreover, and quite important for the issue at hand,
+and men exploited it from antiquity onwards for its
+the stalks tend to split if cut with a saw; that is, it is very dif-
+multiple uses. it has robust, bamboo-like stalks with ficult if not impossible to gain sharp edges by sawing them.
+alternate leaves and nodes at intervals of ca. 15-20 The high phenotipic variation of Phragmites australis (see e.g.
+cm; the diameter is normally up to ca. 3.5 cm. The cleVerinG, lissner 1999) and the fact that, as already noted,
+outer skin is glossy or slightly grooved, depending on arabic qaṣab refers to both Phragmites and Arundo contributed
+to some confusion in the identification of botanical species in
+the single exemplars (Fig. 10).92
+non-botanical literature. For useful information and references
+experiments conducted at the University of Würz-
+about the taxonomy of Arundo and Phragmites, i am indebted
+burg have shown that styli cut from Arundo donax to s. Pilu (University of milan, Department of agricultural and
+produce wedge impressions displaying the same char- environmental sciences).
+acteristics observed in original tablets. styli may be 92 The complex systematics of the genus Arundo have been
+cut from mature or green stalks and both can be im- studied extensively in recent years, especially due to its role as
+promising energy crop. on the botanical characteristics of this
+mediately used to write. in both cases, cutting a stylus
+genus see hardion et alii 2012; mariani et alii 2010; on modern
+is a very simple process. a portion of the stalk is cut
+exploitation see perdue 1958; pilu et alii 2012.
+with a saw, which is subsequently split by means of 93 Cf. messerschmidt 1906, 304; for a partially different
+a chisel. The stalk’s fibrous texture allows it to be explanation cf. deimel 1922, 13.
+the cuneiForm stYlus 69
+Fig. 11 - Top: Phragmites australis (left) and Arundo donax (right) at the Büyük menderes delta; bottom: splitting the stalk
+(left), cross-section of two styli obtained from a mature and a green stalk respectively (right).
+based on the wedge’s inner angles. in doing this, we convenient handling. Thus, the length of the right/
+must remeber that the angles are influenced by the left edge of the stylus can be determined only in the
+stylus’ trajectory and position to the tablet surface event that the latter was impressed to the point that
+(§7). hypotheses on the dimensions of other parts of the former(s) happened to be completely immersed
+the stylus can be drawn only tentatively. in principle, into the clay. according to messerschmidt, the right
+the diameters of the original stalks may be deduced and left edges of the stylus which were used for the
+from the curvature of the relevant wedge faces. on the old Babylonian cylinder Va 2596 measure ca. 6-7
+other hand, the woody texture of the reed undergoes and 4 mm respectively; in the case of the tablet VaT
+a natural relaxation process after the stylus has been 1155 the stylus’ left edge would have measured 2.5
+cut, so the original diameter of the stalk may have mm.94 interestingly, on the right edge of this tablet
+been smaller than it appears from the curvature of there is a rectangular impression (6.2 × 1.6 mm).
+the wedge faces.
+since only one edge of the stylus was normally
+impressed in the clay, width and thickness of the im-
+plement primarily served the purpose of sturdiness and 94 messerschmidt 1906, 307.
+70 michele cammarosano
+Because of its form, however, this impression cannot have to assume different “twisting trends” depending
+have been originated from the stylus tip.95 on the on place and period.
+lower edge of the old Babylonian tablet VaT 8535
+(Vs 18.72) there is a hole going almost from side to
+side of the 6.5 cm high tablet.96 at the lower edge, 5. Reed or Not Reed?
+the impression is roughly trapezoidal, with one side
+being slightly curved. The curved side measures 4.5 reed was not the only material used to produce
+mm, the lateral sides 2.5 and 2.1 mm respectively. cuneiform styli in the ancient near east. as was
+The form of the impression is compatible with that of mentioned, there is archaeological evidence for styli
+the wedge impressions on the tablet, so that it might made of bone and, reportedly, of bronze, as well as
+indeed correspond to a section of the stylus. textual evidence for other materials. moreover, there
+is at least one major scribal tradition, i.e. the hittite
+4.4 A Ghost Stylus: Saggs’ Sedge Stylus scribal tradition, which never made use of reed to
+write tablets (§5.3). although climactic conditions,
+The reconstruction put forward by messerschmidt in this case, were no doubt influential, non-reed styli
+has been contested by h. saggs.97 Though admitting were likely more common in mesopotamia than one
+the theoretical possibility for a stylus to be cut from would assume, as well. The following sections will
+a reed of circular cross-section, saggs argues that first discuss the diffusion of the reed stylus, then the
+using a “sedge” of triangular cross-section would pro- use of other materials, and finally the issue of the
+vide “an admirable stylus without artificial shaping”.98 hittite stylus.
+saggs does not specify the actual plant to which he
+refers, but one assumes he considers species which 5.1 Diffusion of the Reed Stylus
+were present in ancient mesopotamia, like Scirpoides
+holoschoenus (L.) Soják.99 each side of the stem may The “reed-stylus pattern”, essentialy consisting of
+be more or less flat, slightly concave or convex, de- the peculiar curvature of the right-hand wedge face,
+pending on the single stem and on the number of has been observed in numerous tablets of various
+removed sheating leaves. since wedges on cuneiform provenance and dating.102 The evidence collected by
+tablets display aperture angles ranging from 10° up to messerschmidt and Powell, however, does not tell us
+95°, but the cross-section of the sedge stem is basi- much about the diffusion of this kind of stylus. First,
+cally an equilateral triangle, saggs has to explain how the information at our disposal is hardly statistically
+such “thinner” or “larger” wedges might be obtained. relevant. Powell, who is the only one providing quan-
+according to him, “thinner” wedges can be obtained titative data, examined “about 4000” tablets. of these,
+by impressing the natural “ridge”, formed by sheating more than 3100 dated to the Ur iii period, the remain-
+leaves “projecting out from each of the three apexes ing being “about 500 Presargonic, about 300 each of
+of the (convex-sided) triangle”. “Larger” wedges, on old Babylonian and neo-Babylonian, [and] less than a
+the other hand, may be obtained “by coordinating hundred from various periods over the three millennia
+a twist of the wrist with impression into the clay”. (mostly Babylonian, but most assyrian)”.103 he further
+“This”, saggs continues, “disposes of Driver’s argu- states that the reed pattern could be observed in ten
+ment, based on the work of De morgan and messer- to twenty percent of the examined tablets “because
+schmidt”, namely that in “the later periods, […] the
+stylus came to be cut out of a thicker reed, resulting
+in an angle which reached 95°”.100 messerschmidt,
+however, never came out with the bizarre idea that big-
+ger wedge angles point to thicker reed stalks, an idea
+95 a similar impression is found on the reverse of the neo-
+which originates from Driver himself.101 indeed, the Babylonian tablet mLC 1859 (ca. 6× 1 mm; i thank s. Panay-
+point is not to cut styli from a thinner or thicker stalk, otov for providing me a photograph of the fragment). in all
+but rather to cut the section at different angles. likelihood, such impressions originate from tools the scribes
+had at their disposal while working at the tablets.
+saggs’ reconstruction is not convincing for at least
+96 Kindly pointed out to me by Zs. Földi during a stay at the
+two reasons. First, the specific characters displayed by
+Vorderasiatisches Museum in Berlin, march 2014. a photograph
+wedge impressions originating from such a stylus have
+is available online at the CDLi archive (photo P373135).
+never been observed so far in original tablets. sec- 97 saGGs 1981.
+ond, saggs’ explanation for the variation of aperture 98 Ibidem, 127.
+angles seen in the original tablets is inadequate. The 99 Cf. hepper 1992, 194.
+consistency in the aperture angle displayed by hun- 100 saGGs 1981, 128.
+dreds of wedges within a single fragment can hardly be
+101 driVer 1976, 26. as powell (1981, 426) noted, Driver
+“quite misunderstands the implications of messerschmidt’s
+explained by suggesting that scribes regularly twisted
+work” in his account.
+their wrist in the same way for each single wedge on 102 messerschmidt 1906, 304-307; powell 1981, 426.
+the tablet, not to mention the fact that one would 103 powell 1981, 426.
+the cuneiForm stYlus 71
+of the state of surface conservation”.104 But perhaps provide evidence for styli made of gold and silver.109
+the “state of surface conservation” is not entirely to in all likelihood, such precious styli indeed existed,
+blame for the low percentages. in other words, in a but were reserved for gods or beings of analogous
+number of cases Powell may not have noticed any magnitude and were hardly used to write ordinary
+curvature, not because of the “state of surface con- tablets.
+servation”, but rather because there was actually no Contrary to reed, wood is rather unsuitable for a
+reed pattern present, no curvature in the wedge, which stylus. messerschmidt observed that wood tends to
+might then point to the use of a different stylus. along absorb humidity and stick to the clay while in use, so
+with the examples where the “reed pattern” is surely after some time the wedges become more and more
+present, it would be, in fact, very interesting to list blurred and the tip, therefore, must be frequently
+cases where that pattern is surely absent.105 only a cleaned and dried in order to continue writing.110 This
+systematic analysis of that kind could provide reli- problem can be alleviated by using hard woods (e.g.
+able data on the diffusion of the reed stylus within a oak) and by hardening the stylus through drying tech-
+certain corpus. niques in order to occlude capillaries and membranes
+one problem in this type of study is that it is often and thus increase impermeability.111 Therefore, there
+difficult to determine the presence or absence of the is no reason to rule out the use of wooden styli, and
+reed pattern at all. The circular arc corresponding to indeed cases of wedges displaying fibrous traces but
+the right edge of the tip is minimal and the original no face curvature may well originate from wood. since
+curvature of the reed stalk is easily modified by relaxa- both reed and bone prove to be far more suitable,
+tion processes after the stylus has been cut; moreover, however, it seems unlikely that wood ever experienced
+the circular cross-section of the reed hardly forms a the same level of utility.
+perfect circumference. Thus, the pattern can be truly
+determined only in presence of wedges which display
+a right-hand face of appropriate width. Within the
+present study, it has been possible to inspect a sample
+of ten digitalized tablets from the hilprecht collection 104 Ibidem.
+in Jena, dating to the Ur iii and the old Babylonian 105 For example, Yoshikawa 1990 points out that the “reed-
+periods.106 interestingly, only one of them displays the stylus pattern” never occurs within a sample of emar tablets he
+“reed-stylus pattern”, whereas six do not show any could examine in Japan. according to J. marzahn, also neo-
+assyrian tablets do not normally display the pattern (pers.
+curvature in the wedges, a fact which contrasts with
+comm.).
+the common idea of the ubiquitous diffusion of that
+106 i wish to thank m. Krebernik and s. Köhler for putting
+kind of stylus.107 a somewhat different picture has at disposal excellent 3D models of the Jena tablets and for the
+been gained by inspecting a small sample of fifteen generous cooperation in the investigation.
+old Babylonian legal and administrative tablets at the 107 The relevant tablets are hs 1145, hs 1163, hs 1552, hs
+Vorderasiatisches Museum in Berlin. eight of them do 1464, hs 1473+1598 (Ur iii); hs 1431, hs 1433, hs 1448,
+hs 1486, hs 1507 (old Babylonian). The “reed-stylus pattern”
+display the “reed-stylus pattern”, whereas three do
+is observable in hs 1145 (administrative text), whereas is absent
+not, and four cases are uncertain.108 This confirms
+in hs 1163 (administrative text), as well as in hs 1473+1598,
+that only systematical studies could shed more light hs 1431, hs 1448, hs 1486, and hs 1507 (all literary texts).
+on the diffusion of the reed stylus. such studies also in the remaining tablets, the right-hand wedge faces are either
+should take into consideration the provenance of the too short or too badly preserved for a well-grounded judgment
+fragments as well as the textual genre of the examined on the presence or absence of the curvature.
+108 i thank Zs. Földi for the opportunity of examining these
+tablets, an element which may yeld significant results
+tablets, which he was collating at the time of my stay in Berlin.
+about possible links between specific genres and writ-
+i also thank J. marzahn and the staff of the Vorderasiatisches
+ing tools. in this respect, it is interesting to stress that
+Museum for their kind cooperation and assistance. The rel-
+all but one of the tablets in the hilprecht collection evant tablets are VaT 8136, VaT 8139, VaT 8142, VaT 8156,
+sample which do not display the “red-stylus pattern” VaT 8186, VaT 8383, VaT 8376, VaT 8513 (with “reed-stylus
+are literary texts, a fact which may be no coincidence. pattern”); VaT 8137, VaT 8369, VaT 8377 (without “reed-
+stylus pattern”); VaT 8105, VaT 8308, VaT 8400, VaT 8535
+Were reed styli used more frequently in the case of
+(uncertain).
+administrative documents than of literary texts?
+109 Volk 2009, 281-282.
+110 messerschmidt 1906, 190, 304. Unexpected corrobora-
+5.2 Wood, Bone, and Metal tion for this assumption came from an experiment organized
+in Würzburg at the Department of ancient Cultures, ancient
+apart from reed, other materials were used in the near eastern studies, to investigate formation and develop-
+ancient near east to make writing styli. as noted ment of individual handwriting in writing cuneiform tablets.
+The students, who had to spend ca. two hours every week in
+above, bone styli are attested for old Babylonian Tell
+writing tablets by using wooden styli, complained after the third
+ed-Dēr, and bronze styli may be attested for mid-
+week that writing became more and more difficult, since their
+dle Bronze age Tell hammam et-Turkman and Late styli kept sticking to the clay.
+Bronze age Ugarit (§3). similarly, literary sources 111 Kindly pointed out to me by a. Baykal-seeher.
+72 michele cammarosano
+other hittite sites – never display the “reed pattern”
+observed in various tablet corpora from mesopota-
+mia.115 This fact suggests that the hittite scribes did
+not use reed styli at all. in hittite wedges, all faces
+are tipically smooth and flat, without any curvature
+apart from those originating from movements of the
+stylus performed during the impression.116 Climatic
+conditions may have played a role in the choice of
+materials other than reed, since the appropriate spe-
+cies (Arundo donax, see §4.2) had to be much more
+Fig. 12 - experimental antler stylus, manufactured at the scarce than in mesopotamia.117 in the hittite texts, the
+University of Würzburg. logograms Gi(.)é.dub.ba (hKm 71 l.e. 1, 2) and Gi(.)
+é(.)ṭup-pí (KUB 17.20 obv. ii 25) are attested. The
+meaning of “(cuneiform) stylus” is assured by the
+former passage, where the scribe Tarhunmiya, likely
+on expedition, asks his “beloved brother” in Tapikka
+antler, horn and bone make excellent styli. They to send him a new stylus since its own was “broken”
+were readily available in the ancient near east and or “lost” (ḫar-ak-ta).118 Both logograms are likely to
+could be easily manufactured.112 as was mentioned, be re-interpretations of sumerian Gi.dub.ba(.a) / akka-
+an effective stylus must have sharp edges and smooth, dian qan ṭuppi, qan/rṭuppu.119 as already noted, the use
+glossy writing faces, and it must not stick to the soft of Gi “reed” does not imply the material actually used,
+clay while in use. in this respect, antler, horn, and a point which is further corroborated, for example, by
+bone are considerably more advantageous than metal. the fact that a Gi(.)é(.)ṭup-pí in KUB 17.20 is said to
+They can be reduced to the proper form simply by be made of silver and that hittite nata/i “reed” does
+means of chisel and saw and eventually smoothed with not occur in scribal-related context.120 The passage
+an abrasive material. an experimental stylus made of from the Maşat letter HKM 71 suggests that, on the
+roebuck (cervus capreolus) antler, manufactured at the contrary, Tarhunmiya’s stylus was not something one
+Würzburg University in the frame of the “3D-Joins could easily make on the spot with readily available
+und schriftmetrologie” project, has proved to be an material, but rather a somehow elaborate implement.
+excellent writing implement (Fig. 12).113 all these arguments coherently support the assumption
+Compared to metal and hard stones, bone has the that hittite (cuneiform) styli were not made of reed.
+advantage of being more easily manufactured. This out of which material, then, were hittite styli made?
+applies especially to the necessity of plain and smooth at this point, we may assume that they were made of
+faces with sharp edges. antler is tougher and more wood, an idea which would easily explain the apparent
+resilient than horn and bone, whereas horn is rather lack of findings. however, this is not a flawless hy-
+perishable, so that “finished objects and workshop
+debris are always likely to be meagre”.114
+Based on this, it is reasonable to suspect that antler,
+horn and bone may have been used to produce styli
+far more often than previously thought. The relatively 112 on the manufacture of bone and ivory in ancient meso-
+perishable nature of these materials accounts for the potamia see mooreY 1999, 111-127.
+scarcity of the findings, but a number of styli may have 113 The stylus was manufactured by the restaurateur and car-
+penter n. schaller who made use of chisel, saw and sandpaper.
+simply gone unnoticed: in principle, every rod-like
+after manufacturing, the stylus was tempered. it measures ca.
+piece provided with a three-faced sharp edge might
+65 × 11 × 2 mm.
+have served as writing stylus. Due to its simple manu- 114 so mooreY 1999, 111.
+facturing, the ready availability of raw material, and 115 This assumption is based primarily on my personal experi-
+its functional suitability, bone – together with horn ence, having examined more than a thousand fragments, mainly
+and antler – is likely to have been the most common from Boghazköy, of various dating and genre. Based on casts
+kept at the Würzburg University, the tablets recovered in Kuşaklı
+material to make cuneiform styli in mesopotamia be-
+(ancient Šarišša) also do not display the “reed pattern”.
+sides reed, and may have represented the standard
+116 on such movements and curvatures cf. §7.3 and camma-
+wherever reed was not used. The most notable case rosano et alii, 2014, 14-16. note that these movements result
+within the latter category is represented by the hit- in convex faces of the wedge, whereas the reed stylus produces
+tite tradition. concave wedge faces.
+117 remains of Arundo donax have been identified at Çatal-
+5.3 The Hittite Stylus
+höyük, see matthews et alii in hodder 1996, 307f.
+118 hoFFner 2009, 229f., with previous literature; cf. now
+also torri 2012, 129-130.
+as far as we know, “hittite” wedges – that is to 119 schwemer 2005/06, 227 n. 71; weeden 2011, 89.
+say, wedges on cuneiform tablets from Boghazköy and 120 schwemer 2005/06, 227 n. 71; ChD L-n, 406-408.
+the cuneiForm stYlus 73
+pothesis. To overcome the considerable disadvantages no spatula was needed, so that a number of awl- or
+of wood (§5.2), all those styli would have needed nail-like objects made of metal or bone theoretically
+specific treatment to increase their hardness and re- might be “hieroglyphic” styli as well.130
+sistance to water. secondly, and more importantly, we
+would expect to find more traces of wooden fibres in
+the wedge impressions. Wood may well be smoothed, 6. Some Like It Short: Stylus Length & Handling
+but wooden patterns would nevertheless face up, at
+least occasionally. Wedges on hittite tablets, on the Given the uncertainties in the interpretation of icon-
+contrary, regularly display perfectly smooth, flat fac- ographical sources and the scarcity of archaeological
+es.121 Finally, the passage from the Maşat letter HKM findings, very little is known about how the stylus was
+71 suggests that hittite styli were somehow elaborated held. Therefore, assumptions regarding stylus length
+tools, not just wooden stabs. and handling have to be drawn by combining indirect
+Because of this, as well as the evidence reviewed
+in §5.2 above, we can reasonably assume that the
+standard material for cuneiform styli within the hittite
+tradition was either metal, or antler, horn or bone.122
+121 The fragment Bo 3538+ was written with a damaged
+if this is correct, we are left with the problem of the
+stylus so that the right-hand faces of the wedges appear to be
+apparent lack of findings.123 in view of the fact that the
+“doubled” (for details see §6.3). But this doesn’t tell us much
+rooms storing the tablet collections from Boghazköy
+about the material out of which the stylus was made.
+collapsed and burned, we may suspect that the styli 122 according to a. Baykal-seeher and J. seeher (pers.
+existing at the time of the conflagration have been ei- comm.), rib bones may be regarded as particularly suitable
+ther destroyed or too badly damaged to be recognised for the purpose.
+and published by the archaeologists in modernity.124 123 Two possible examples of bone cuneiform styli, identified
+by r.m. Boehmer, are very dubious and date back to the old as-
+Like in the mesopotamian depictions of styli and in
+syrian Colony period, see §3.4. a perusal of the small finds from
+the examples from Tell ed-Dēr, the tips of hittite styli
+Boghazköy published by Bittel and Boehmer did not yeld results.
+could be right-angled or slope to the right (writing also among the small finds from the Lower Town, Büyükkaya,
+face down), and could be bevelled or unbevelled, as and the so-called Temple quarter in the Upper Town there
+is clear from the various shapes of the wedges (cf. does not seem to be any bone object meeting the requirements
+§7). The length of hittite styli can be investigated for the interpretation as cuneiform stylus (pers. comm. by s.
+herbordt, a. Baykal-seeher, and J. seeher). objects found at
+only tentatively and through indirect evidence, but the
+ortaköy (Šapinuwa) are viewed by a. süel as cuneiform styli,
+peculiar way rulings are impressed in some tablets
+but their interpretation is problematical (see §3.4).
+can be taken as evidence that short styli, at least, 124 one should also keep in mind that from the entirety
+existed (§6). of mesopotamia only one single convincing case of bone styli
+in hittite anatolia, another kind of script was also has been identified, although in all likelihood much more bone
+widespread, namely the contemporary hieroglyphic styli existed.
+script used on stone, lead and leather strips, and waxed
+125 marazzi 1994, with literature. For the lead strips see
+paYne 2005; akDoğan, haWkins 2010, 2 with n. 3.
+boards.125 original hittite boards, either waxed or not,
+126 one from Büyükkale (boehmer 1972, 134 and Pl. 41, no.
+have not been recovered so far, but their existence
+1207); 17 or 18 from the Lower Town, mostly from the south
+can be inferred from the many references to “wooden area (boehmer 1972, 134 and Pl. 41, nos. 1206, 1208-1218;
+board(s)” (Giš.Ḫur and other terms) and “scribe(s) on id. 1979, 31 and Pl. 19, nos. 3395-3398a, cf. also no. 3418;
+wood” (dub.sar.Giš). Waxed boards could be inscribed overview of the findspots in bittel 1973, Fig. 1); further Bo
+both in cuneiform and hieroglyphic script. indeed,
+78/113, see Hethiter 2002, 353 Cat. 146. boehmer 1972 no.
+1210 is the shortest piece (8.5 cm), Bo 78/113 the longest
+the existence of wooden waxed boards inscribed in
+one (23.6 cm, its spatula is 1.7 cm large). one more example
+hieroglyphic script is proven by numerous bronze styli
+has been identified in 2012 (Bo 12-0-07, see schachner 2013,
+recovered in the hittite capital Boghazköy (more than 147-149 with Fig. 4).
+twenty examples)126 as well as in alaca höyük (one 127 koşay 1966, Pl. 132 no. 10 (length: 19 cm).
+example).127 such styli, whose length ranges from 8.5 128 in Hethiter 2002, 353 Cat. 146, the spatula-like end is
+to 23.6 cm, have pointed tips and a spatula-like flat- labelled the stylus’ “Funktionsende”, but both ends are actually
+to be regarded as such. in past years there has been exagger-
+tened surface at the opposite end. These tools cannot
+ated caution about the possibility that such styli might, in fact,
+produce wedges128 and can only be interpreted as styli
+be used to write cuneiform script: this option is impossible,
+used to write a contemporary, non-cuneiform script as experimentation proves beyond doubt (an experiment has
+on waxed boards, i.e. anatolian hieroglyphs. This con- been carried out by D. schwemer with an original stylus at
+clusion is confirmed by their perfect similarity to the Boghazköy in 2012).
+styli used in the classical world to write on tabulae 129 bittel 1973, 25-30; see also boehmer 1972, 133f.
+130 r.m. Boehmer put forwards this possibility for the follow-
+ceratae, as r.m. Boehmer convincingly argued in the
+ing bone objects: boehmer 1972, 196f. & Pl. 73, nos. 2046-
+past.129 The pointed end was used for writing, while
+2050 (on nos. 2044-2045 see also §3.4); boehmer 1979, 50f.
+the spatula was used to erase signs when needed. To & 30, nos. 3668-3673. But cf. also objects like boehmer 1972,
+inscribe graffiti or write on leather or lead, of course, Pl. 38 no. 1148.
+74 michele cammarosano
+evidence of various nature. The issues of stylus length tablets date back to the Late empire period. Bo 10 is
+and handling are addressed in §§6.1 and 6.2, whereas a cult inventory in cursive script,134 whereas 167/c+
+cases of split styli and aspects related to writing edges contains an akkadian medical text, and is written in
+are dealt with in §6.3. a clear, literary hand, displaying an inventory of sign
+forms with no parallel at all within the hittite scribal
+6.1 Length tradition.135 its duplicate 1377/c+ (CTH 811.B) also
+has multiple stylus impressions in a paragraph line and
+Whilst looking for modern attempts at reviving the a curious double row of multiple short stylus impres-
+ancient technique of cuneiform writing, one finds that sions at the end of col. iv (Fig. 14); its sign forms
+the reconstructed styli resemble a pen in length and are inventory is closer to the standard hittite one.136 it is
+usually held with the palm facing down (Fig. 13).131 difficult to say why these scribes at one point chose
+in this way, excellent imitations of original cuneiform to impress rulings in such an uncommon way. in the
+script can be achieved, as the empirical demonstrations case of Bo 10, an administrative text in cursive script,
+by Powell, marzahn, van den hout and others show. we are likely faced with a hasty way of tracing the
+such reconstructions have likely been influenced by rulings, whereas in the case of 167/c+ this is less
+the famous depictions of scribes found in the neo- certain. That said, these peculiar rulings point to a
+assyrian slabs.132 Yet another theory might have con- short stylus: had the stylus been as long as a pen, there
+tributed to this view, namely that tablet rulings (also would have been no reason to break the process into
+called paragraph lines) could be obtained by simply a number of short impressions.
+lowering the stylus into the soft clay, without the need on the whole, there is ample evidence proving that
+of pulling it all along the column. accordingly, J. Tay- “short” styli existed in different periods and places, both
+lor recently observed that the bone styli found at Tell in mesopotamia during the old, middle, and new Ba-
+ed-Dēr, which are just 3 to 5 cm long, “are too short bylonian periods as well as in the new assyrian period
+(max 5.5 cm) to have made the longer rulings found and in anatolia during the hittite empire.
+on many tablets. might they be training styli?”133
+however, a different theory is suggested here, 6.2 Handling
+namely that ordinary cuneiform styli could be very
+short. There is both direct and indirect evidence to Two features are of basic importance in discuss-
+support this. ing the handling of a stylus: (a) whether the writing
+(1) Iconographical Evidence: The depictions of cu- implement is kept within the palm or it rests on the
+neiform styli as symbol of nabu, ranging from a wide hand, protruding outward, and (b) whether the hand
+chronological and geographical span, suggest that the is pronate (palm down, Obergriff) or supinate (palm
+cuneiform stylus was normally a short, trapezoidal in- up, Untergriff), or in a half-way position between the
+strument with more or less slanted tip (§2.2). Within two during the writing process.137 in modern attempts
+neo-assyrian writing scenes, the length is likely to be
+oversized on iconographical grounds (§2.1.4).
+(2) Archaeological Evidence: at present, the bone
+styli from Tell ed-Dēr constitutes the only trustworthy 131 see the models by messerschmidt (1906, 308 Fig.
+instance of cuneiform styli (§3.1). They are just 3 to 9), powell (1981, 432 Fig. 9), donbaz (in Boğazköy’den
+5 cm long, which corroborates the implications of the Karatepe’ye. Hititbilim ve Hitit Dünyasının Keşfi, 2001, 89;
+iconographical evidence discussed above. now reprinted in Doğan-alparslan, alparslan 2013, 377 Fig.
+(3) Indirect Evidence: some indirect evidence for
+1), marzahn (in an educational movie produced at the FU Berlin
+and directed by i. schrakamp and J. Levenson: Am Anfang war
+the existence of short styli comes from horizontal
+der Keil, available online at http://www.edubba.de/), and Van
+rulings (paragraph lines). such lines were normally den hout (in an educational movie produced at the oriental
+traced with the stylus, as shown by similarities with institute of Chicago, available online at http://www.youtube.
+the wedges present on the tablet and by the occasional com/watch?v=LoqavhDlKZ0).
+presence of a wedge head at the left end. Whether 132 see already messerschmidt 1906, 187, who labels the
+straight or crooked, virtually all of these lines are con- neo-assyrian depictions of scribes as the “einzige zuverlässige
+Überlieferung” about the stylus’ form.
+tinuous. however, at least two hittite tablets could be
+133 taYlor 2011, 13.
+identified where some, but not all, of the paragraph
+134 carter 1962, 90-104; cammarosano 2013, 95-99.
+lines happen to be segmented: Bo 10 (CTH 505.1) and 135 schwemer 1998, 9; on the peculiar mixture of sign forms
+167/c+ (CTH 811.a). The relevant rulings are made displayed on this tablet see already ehelolF, KUB 29, Viii.
+up by multiple stylus impressions next to each other; edition: meier 1939. The “barbarian orthography” – so ehelolf
+openly, the impressions were obtained by lowering and meier – of the text, on the other hand, proves that it was
+not imported from the “literate” mesopotamian world.
+the stylus into the clay at a flatter angle than when
+136 ehelolF, KUB 29, Viii.
+impressing wedges. in both tablets, these impressions
+137 The idea that the stylus might be held in the (clenched)
+are very short: 1.2 to 2.5 cm in the case of Bo 10, fist can be ruled out, see already deimel 1922, 12; Falkenstein
+1 to 3.3 cm in the case of 167/c+ (Fig. 14). Both 1936, 6 n. 2.
+the cuneiForm stYlus 75
+Fig. 13 - modern reconstructions of cuneiform writing technique. 1: V. Donbaz (from the exibition catalogue Boğazköy’den
+Karatepe’ye: 89, photo by T. Birgili; now reprinted in Doğan-alparslan, alparslan 2013, 377 Fig. 1); 2-4: J. marzahn (from
+the educational movie Am Anfang war der Keil, available online at www.edubba.de); 5-6: Th. van den hout (from the edu-
+cational movie Scribes at Work, available online at http://www.youtube.com/watch?v=LoqavhDlKZ0); 7-8: m. Powell (from
+powell 1981, Figs. 3-4).
+76 michele cammarosano
+Fig. 14 - Close-ups of 167/c+obv., of Bo 10 rev., and of 1377/c rev., with arrows marking the starting points of the stylus
+impressions.
+the cuneiForm stYlus 77
+to reproduce cuneiform clay tablets, the stylus is usu-
+ally as long as a pen, kept sometimes within the palm
+(e.g. in the experiment by J. marzahn, see Fig. 13),
+sometimes outward, like a pencil (e.g. in that by Th.
+van den hout, see again Fig. 13); the hand is usually
+pronated or in half-way position.
+The assumption that ordinary cuneiform styli could
+be very short, if correct, has implications concerning
+its handling. Firstly, a “short” stylus has to be kept
+within the palm, with the shaft staying on the “in-
+ner” side of the thumb and not protruding outward.138
+secondly, the option is open that, at least in some
+scribal tradition, the hand might be supinate. From a
+bare physiological point of view, the supinate position Fig. 15 - stylus’ writing edges (left) and tilts (right).
+would be advantageous in terms of manageability and
+writing speed.139 in fact, maximum ulnar deviation of
+wrist is bigger than radial deviation; that is to say, the sian coordinate system will be defined, the xY axes of
+maximum possible lateral movement of the hand at which lay on the tablet plane, the x axis being parallel
+wrist is bigger when it moves away from the thumb to the (abstracted) line direction. Within this system,
+than toward it.140 Consequently, passing from a “hori- it is possible to define the position of the stylus at any
+zontal wedge” to a “vertical wedge” position and vice- time through three angles (Fig. 15):
+versa is, in principle, easier if the hand is supinate than (1) Horizontal tilt, namely the angle between the
+if pronate, simply because the wrist alone can manage “blade” of the stylus (cf. Fig. 15) and the YZ plane:
+a bigger part of the required square-angled movement, determines the wedge’s orientation on the tablet sur-
+requiring less effort from the arm and forearm. The face, distinguishing between horizontals, verticals and
+same conclusion is also true with the hand in the Winkelhaken;
+half-way position between supination and pronation, (2) Vertical tilt, namely the angle between the
+that is, with the palm inward, as one can, in this blade of the stylus and the xY plane: determines the
+way, take advantage of wrist extension and flexion;141 wedge’s “slope”, distinguishing e.g. oblique wedges
+in this case, too, shorter styli are easier to hold than from Winkelhaken; it is inversely proportional to the
+longer ones, since the shaft does not interfere with wedge’s length;
+the wrist.142 at this juncture, it is interesting to note (3) Lateral tilt, namely the stylus’ rotation around
+that the hand of the scribe of the Til Barsip mural the axis of its blade: determines the variation of the
+painting, the only depiction of a scribe portrayed in aperture angle’s tilt, i.e. whether the wedge “hangs”
+the very act of writing, is indeed in half-supinate posi- toward its right or left face or is “symmetrical” to the
+tion (§2.1.4). although we will probably never know tablet surface (cf. Fig. 16).144
+much about how ancient scribes held their writing Variation of horizontal and vertical tilt is intrinsic to
+implements, it is possible that cuneiform styli were the cuneiform system; that is, it is necessary in order
+held in a very different way from the ones to which
+we are accustomed. empirical experimentation as well
+as careful analysis of wedges’ inner angles may sheld
+more light on this point in the future.
+138 Discussing the Tell ed-Dēr styli, tanret 2002, 26 already
+The stylus, manipulated by hand and fingers, un-
+argued for the stylus being held within the palm.
+dergoes a number of movements during the writing 139 next to nothing is known about writing speed in the
+process. some of these movements are necessary to ancient near east, but the ability to write well and fast was prob-
+write different types of wedges, whereas other ones ably appreciated, at least if we are to trust a sumerian proverb:
+depend on the scribe’s writing style and attitude, and “a scribe whose hand can keep up with the mouth, he is indeed
+others are simply accidental. all of them influence the
+a scribe!” (quoted after alster 1997, 53 no. 2.40).
+140 see e.g. rYu et alii 1991, 414 with Tab. ii.
+final appearance of the wedge. The following discus-
+141 of course, small tablets held in the hand might be turned
+sion will focus neither on accidental movements nor
+to the right or to the left while writing in order to require
+on those due to special conditions and constraints less movements from wrist, hand and arm, but this does not
+– e.g. writing on the edges of the tablet – but rather influence our question, insofar as big “unturnable” tablets also
+on basic movements which are coherently performed existed.
+by the scribe while writing a tablet. since we cannot 142 in favour of the supinate position see also sirat 1987,
+36-43.
+observe ancient scribes at work, such movements are
+143 see cammarosano et alii 2014, 12.
+best investigated through the lens of the wedges left
+144 The aperture angle’s tilt is defined through the angle between
+behind by the stylus. as a frame of reference,143 the the bisector of the wedge’s aperture angle and the perpendicular
+writing surface will be treated as a plane, and a carte- to the xY plane, see cammarosano et alii, 2014, 13-14.
+78 michele cammarosano
+Fig. 16 - Whereas in Bo 495 (CTH 736, top), both horizontal and vertical wedges tend to display minimal inclination of the
+aperture angle, Bo 87/5a (CTH 242, bottom) displays different tilt patterns depending on the wedge type. Whereas horizontal
+wedges tend to display minimal inclination of the aperture angle, vertical wedges lean towards the right. Within the hittite
+tradition, the former feature is typical of tablets pertaining to the “stream of tradition”, like Bo 495, while the latter occurs
+frequently in administrative documents in “cursive” script, like Bo 87/5a.
+to distinguish between different kinds of wedge and 6.3 Writing Edges and Split Styli
+therefore bears, as it were, a basic semantic value. on
+the contrary: the lateral tilt of the stylus may, in prin- The fact that the stylus may be rotated around its
+ciple, stay fixed for all wedges within the single tablet, main axis during the writing process brings up an-
+its variation representing an accessory element which other question, namely whether the stylus’ edges to
+depends exclusively on the scribe’s style and writing be impressed into the clay were always the same for
+technique. Thus, there are both tablets where different all wedge types. Theoretically, in fact, one cannot rule
+wegde types are, in this respect, “symmetrical”, i.e. out the possibility that at least some scribes or scribal
+display no variation in the aperture angle’s tilt, and traditions changed the stylus’ writing edge by rotating
+tablets which display diverging values of the aperture the implement when passing from a horizontal wedge
+angle’s tilt for each wedge type (Fig. 16).145 as the to a vertical one and vice-versa. an examination of
+example shows, the variation of the lateral tilt is easily wedges on a sample of tablets from various scribal
+recognizable to the naked eye, if only it is strong and traditions has shown that the stylus writing edges used
+coherent enough. The variation of the aperture angle’s for horizontals, verticals, and Winkelhaken were al-
+tilt is particularly interesting for the investigation of ways the same within a tablet in all examined frag-
+the stylus handling, since it reflects a rotation of the ments. When the wedges display the “reed pattern”,
+stylus around its main axis; that is, a rotation of the this can be proven easily by observing the position of
+wrist “outward” or “inward”. The fact that tablets
+exist which both display this variation and lack this
+variation shows that the stylus handling might vary
+in some respects from scribe to scribe, even within a
+single scribal tradition. 145 Cf. already deimel 1922, 13 n. 1.
+the cuneiForm stYlus 79
+the curved face within different wedge types.146 in case of writing surface and writing tip during the impres-
+no “reed pattern” is present, the assumption can be sion process;
+confirmed if the inner angles remain consistent across (4) Wedge-to-wedge interaction, namely alterations
+different wedge types,147 or in exceptional cases where due to neighbouring wedge impressions;
+the tablet was written with a split stylus, allowing us (5) Post-processing, namely alterations which take
+to check whether or not the position of the “split” place after the wedges have been impressed: clay
+remains the same across different wedge types. exam- shrinkage, damages, etc.
+ples of documents written with a split stylus are smn The following discussion will focus on point 3,
+1854 and smn 2096, from nuzi (abusch 1981), Bm which constitutes the primary factor in determining
+13038, dated to the Ur iii period (taYlor 2011, 13), the wedge shape and has essential implications for the
+and the old Babylonian letter Bm 67298, probably investigation of the stylus.
+from sippar (Van soldt 1990, 146 n. 187a). The
+only hittite example known to me is Bo 3538 (KUB 7.1 Wedge and Stylus Components
+50.72) + 1471/u (+) 1472/u (KBo 53.107).148 as
+miller notes,149 the tablet has been written with a de- in order to investigate their reciprocal relationship,
+fective stylus, so that the wedges look as they were wedge impressions and writing tips are first to be
+“doubled”.150 interestingly, the wedges at the end of scrutinised as they were pure geometrical objects. The
+col. iv apparently do not show this feature: if this is former is then to be viewed as a tetrahedron, the latter
+true, it would mean that the scribe changed the stylus as a polyhedral cone. Within the terminological frame-
+at some point between col. iii 8’ (where split wedges work used here, the three edges of the wedge which lay
+are still visible) and col. iv 1’.151 The fact that the on the tablet surface will be called “outer edges”, the
+“split” wedge face is the right-hand one both in verti- other ones “inner edges”. The fundamental element
+cal and horizontal wedges proves that there was no in this system is the “directional edge”, or “spine”, of
+change of the stylus’ edge(s) when passing from one the wedge. The spine is defined as the wedge’s edge
+type to the other. These observations, of course, do that is left behind by the blade of the stylus when it
+not allow to rule out the possibility that other scribal is impressed into the soft clay. The determination of
+traditions might have followed different rules.152 the spine is thus independent from other variables,
+like length or incline, which are exposed to secondary
+7. Their Styli Before Our Eyes: Writing Tip, Wedge, and partially unpredictable influences. Therefore, the
+and Scribal Hand spine will always be the vertical, horizontal and “nW-
+se” oblique inner edge in the case of vertical wedges,
+investigating ancient writing techniques on the ba- horizontal wedges, and oblique wedges / Winkelhaken
+sis of the written sources alone, with no possibility respectively. This assures that the subsequent analysis
+to observe scribes at work, almost guarantees great is based on a primary correspondence between writ-
+difficulties.153 in the case of cuneiform script, matters
+are further complicated by the fact that we know very
+little about the writing tools used at the time and
+have no treatise on writing at all at our disposal: all
+of the trustworthy resources we have are, ultimately, 146 in all tablets displaying the “reed-stylus pattern” men-
+the wedge impressions on the tablets. The use of this tioned at §5.1, the position of the curvature confirms that there
+chapter’s title, based on an informative book by the was no change of stylus’ edges when passing from one wedge
+type to the other.
+oxford palaeographer m.B. Parkes,154 is then justified
+147 note, however, that diverging inner angles across different
+by a simple fact: because of its pronounced three-
+wedge types do not prove the opposite, see §7.
+dimensional character, the cuneiform writing system 148 Kindly pointed out to me by J. miller.
+commits a crucial role in determining the shape of the 149 KBo 53, Vii.
+resulting strokes to the physical form of the writing 150 Photos are available at the Konkordanz der hethitischen
+tip. This does not mean, however, that the form of Keilschrifttafeln online, http://www.hethport.uni-wuerzburg.
+de/hetkonk/.
+the writing tip can be reconstructed simply by taking
+151 This, however, does not reopen the possibility of a join
+a negative cast of the wedge impression. on the con-
+with 732/z (cf. miller ibidem), because the latter has been
+trary, the relationship between the form of the wedge
+joined in the meantime with 354/z, which preserves part of
+impressions and that of the writing tip which created the col. i and does not show split wedges.
+them is a rather complex one. The main intervening 152 This might be the case, in particular, for Late Bronze
+factors are the following: age Ugarit. a study conducted on this topic by J. ellison will
+(1) Writing surface, namely form, chemical com- appear soon (pers. comm.).
+153 even within the field of Latin palaeography, fundamental
+position and moisture, mechanical properties;
+aspects of writing technique have been clarified only in very
+(2) Writing tip, namely form, composition, me-
+recent times (cf. Gumbert 2002).
+chanical properties; 154 parkes 2008 (Their Hands Before Our Eyes. A Closer
+(3) Impression, namely time-dependent interaction Look at Scribes).
+80 michele cammarosano
+Fig. 17 - Wedge components (adapted from cammarosano et alii 2014, 5 Fig. 1).
+ing”, the form of a cuneiform wedge is determined
+primarily by the following variables:
+(1) The form of the writing tip, i.e. the angles of
+the stylus edges at the writing tip;
+(2) The respective positions of the stylus and writ-
+ing surface for every point in time during the impress-
+ing process.
+it is conducive to start the investigation of the re-
+lationship between writing tip and wedge impression
+under the assumption that the former follows a linear
+Fig. 18 - side view of a stylus and its trajectory during the trajectory while impressing into the clay. in this case,
+impression (adapted from cammarosano et al. 2014, 14 Fig. and if we abstract from modifications due to the me-
+7). The three edges of the writing tip determine a polyedral chanical interaction of stylus and clay, the inner angles
+cone (hatched). only if the trajectory of the stylus (marked of the wedge will be the same as those of the stylus’s
+with an arrow) falls within this cone do the wedge’s inner edges at the writing tip only if the latter’s trajectory
+angles correspond to those of the writing tip.
+falls within the polyhedral cone which originates from
+the extension of its three edges (Fig. 18, Pl. 1b). if the
+stylus’ trajectory falls outside that cone, there will be
+ing tip and wedge impressions. The orientation of the a discrepancy between the wedge’s inner angles and
+spine determines the positioning of all other wedge those of the stylus’ edges at the writing tip.
+elements as illustrated in Fig. 17, Pl. 1a: inner and This consideration, overlooked in previous studies,
+outer edges and inner and outer angles. similarly, the has fundamental implications for the understanding
+stylus’ edges corresponding to the right and left inner of the geometrical variation from wedge to wedge
+edges will be called “right” and “left” edge respectively within a tablet and, more generally, for the attempt
+(cf. Fig. 15 above). at reconstructing the form of ancient styli. since the
+stylus is impressed at a more or less perpendicular
+7.2 Writing Tip and Wedge Impression angle to the writing surface in order to write cuneiform
+script, the orientation of the right and left edges of
+if we abstract from the factors represented by the the stylus in respect to the blade plays a crucial role in
+chemical and mechanical properties of stylus and clay determining the shape of the resulting wedges. Thus,
+as well as from those pertaining to the “post-process- the right-leaning slope of the wedge’s head, which is
+the cuneiForm stYlus 81
+Fig. 19: six experimental styli. each one has a different Fig. 20: Top row: the three tablets with “random wedges”;
+configuration of the edges at the writing tip. Top: perspec- middle and bottom rows: the six tablets written by antonia
+tive view; middle: front view; bottom: lateral view. arrows Pohl using styli a, B, C (first row), and D, e, F (second
+mark the writing tip. row). The text, Paragraph 92 from the hittite Laws (CTH
+291), is the same for all tablets.
+encountered frequently in certain epochs and tradi- for stylus F, showing halfway values for the others.
+tions, is not only dependent on the right edge of the The assumption has been tested on two tablet samples.
+writing tip, as messerschmidt and others assumed.155 The former one contains random wedges produced
+The shape of the wedge depends also on the left one; by the author. The latter and more significant of the
+that is to say, on the three angles of the stylus edges two consists in six tablets written by an undergraduate
+at the writing tip, as well as on the respective posi- student at the University of Würzburg, antonia Pohl.
+tions of stylus and writing surface for every point in Being unaware of the experiment’s goals and after
+time during the impression process (cf. also Fig. 21 some weekly training with a “neutral” reed stylus, she
+below). was then requested to write down the same text on six
+From these considerations it also follows that cer- tablets one after another, using each time a different
+tain configurations of the stylus’ edges will tend more one of the six experimental styli (Fig. 20).
+than others to produce wedges with stable inner angles Tablets and styli were subsequently digitalized in or-
+and vice-versa. The assumption can be easily tested der to ascertain the exact angles of the writing tips and
+through empirical experiments, as in the following. of the resulting wedges.156 The results confirm in full
+Three pairs of wood styli were manufactured; the left the hypotheses, as in both cases stylus C produces the
+edge of the stylus is perpendicular to the blade in the wedges with the smallest difference to the “original”
+first pair, whereas it crosses the blade at an obtuse /
+acute angle in the second and third pair, respectively.
+The right edge of the stylus, in turn, is perpendicular
+to the blade in a, C and e, whereas it slopes to the
+right in B, D and F (Fig. 19). 155 messerschmidt 1906, 308 with Fig. 8; claY 1906, 19.
+156 For the sake of simplicity, the following data refer to
+Given the above premises, it would follow that
+the vertical wedges only, but analogous results are obtained in
+the gap between the angles of the stylus’ edges at
+the case of horizontals or Winkelhaken. For the scanning and
+the writing tip and the inner angles of the produced clustering procedure see cammarosano et alii 2014, 17-19;
+wedges will tend to be smallest for stylus C, greatest Fisseler et alii 2014.
+82 michele cammarosano
+‘Random wedges’
+Stylus A Stylus B Stylus C
+[°]
+left top right left top right left top right
+Writing tip angles 91,8 94,8 89,2 93,6 98,5 54,0 130,2 89,5 90,7
+Wedge inner angles 104,9 99,75 101,9 95,08 101,29 59,43 130,99 90,87 94,23
+Difference 13,06 4,91 12,69 1,48 2,84 5,42 0,83 1,37 3,54
+Difference (sum) 30,66 9,74 5,74
+Stylus D Stylus E Stylus F
+[°]
+left top right left top right left top right
+Writing tip angles 116,0 104,0 58,1 55,2 92,7 90,0 55,7 70,7 62,1
+Wedge inner angles 121,9 107,54 68,44 76,24 98,5 102,98 91,46 90,48 71,92
+Difference 5,92 3,52 10,39 21,03 5,82 12,97 35,76 19,78 9,82
+Difference (sum) 19,83 39,82 65,37
+‘Antonia’s tablets’
+Stylus A Stylus B Stylus C
+[°]
+left top right left top right left top right
+Writing tip angles 91,8 94,8 89,2 93,6 98,5 54,0 130,2 89,5 90,7
+Wedge inner angles 96,9 117,4 100,6 101,4 103,2 63,6 127 88,8 95,9
+Difference 5,1 22,6 11,4 7,7 4,7 9,6 -3,1 -0,7 5,2
+Difference (sum) 39,1 22 1,3
+Stylus D Stylus E Stylus F
+[°]
+left top right left top right left top right
+Writing tip angles 116,0 104,0 58,1 55,2 92,7 90,0 55,7 70,7 62,1
+Wedge inner angles 121,5 106,9 67 70,6 102,7 98,5 84,4 88,3 70,3
+Difference 5,5 2,8 9 15,4 10 8,5 28,7 17,6 8,2
+Difference (sum) 17,3 33,9 54,5
+Tab. 1: Comparison of stylus and wedge angles based on a sample of random wedges produced by the author (top), and on
+“antonia’s tablets” (bottom). average values, expressed in degrees, referring to vertical wedges only.
+writing tip angles, whereas stylus F produces those is right-angled (Fig. 21).157 it also explains why, in
+showing the greatest one. similarly, in both cases the some tablets, different types of wedges show different
+pairs B and D, and a and e come in “second” and “slopes”: combined with the orientation of the stylus
+“third” place, respectively (Tab. 1). edges at the writing tip, variation of the stylus’ lateral
+tilt is able to determine more or less important varia-
+7.3 The Stylus and Its Movement: Patterns of Vari- tions of the inner and outer angles of the wedges, as
+ation in the Cuneiform Script already seen in §6.2. of particular interest are cases
+where the scribe apparently rotated his hand when
+The above observations show that one has to be passing from a vertical to a horizontal wedge (and
+very careful in drawing conclusions on the form of the vice-versa):158 in this case, horizontal wedges will not
+stylus based on the wedge impressions. There is no appear simply as vertical at 90° (and vice-versa), but
+certainty that the inner angles of the wedge impres- rather the two wedge types would each display a pecu-
+sions would even mirror those of the stylus remotely,
+since the relationship between the two entities is highly
+dependent upon the geometrical configuration of the
+stylus edges combined with the respective position
+157 The wedges with rather sloping head in antonia’s tablet
+of stylus and tablet during the impression. This fact
+a, for example, have been obtained by using a right-angled
+explains, among other things, why it is possible to
+stylus.
+obtain wedges with slanted heads by means of a stylus
+158 The reference is here, of course, to lateral tilt as defined
+whose “top”, to use Clay’s words, does not “slope in §6.2, not to the horizontal tilt which is indispensable to
+to one side” – or in other words, whose right edge distinguish between vertical and horizontal wedges.
+the cuneiForm stYlus 83
+Fig. 21: Vertical wedges originating from stylus C. although the stylus’ right edge is right-angled, different slopes of the
+wedge’s head are obtained simply by varying the stylus lateral tilt.
+Fig. 22: side view of a Winkelhaken from a 3D model of the hittite tablet Bo 2062 (CTH 409.i.a), written by the scribe
+Pikku. The convex right-hand wedge face originates from a “stylus twist”, which Pikku carried out only in combination with
+Winkelhaken.
+liar appearance, corresponding to different inclinations face turns out to be convex, while wedges originating
+of the aperture angle (cf. again Fig. 16 above). from a reed stylus have concave faces.
+matters are even more complex if the stylus follows interestingly, the “stylus twist” seems to have been
+a non-linear trajectory during the impression. indeed, consistently applied by certain scribes for a specific
+a natural assumption would be that scribes would al- type of wedge, i.e. the Winkelhaken.160 Given that the
+ways impress the stylus with a (tendentially) linear similar orientation of Winkelhaken and oblique wedges
+trajectory; in general, non-linear movements of the represents a possible source of confusion between two
+stylus taking place during the impression process are semantically distinct types of wedges, it is tempting
+unnecessary and tend to make the wedges less clean to suspect that the attempt to stress the difference
+and readable. nevertheless, an important exception between them may be precisely the element that origi-
+seems to have been represented by a slight twist of nally triggered this custom.
+the stylus on its main axis, for which the term “stylus
+twist” may be put forward.159 such a twist increases
+top inner angle and aperture angle of the wedge;
+159 Corresponding to German Abrollbewegung, suggested by
+moreover, if performed in a certain way, causes the
+G.G.W. müller, for which see cammarosano et alii 2014, 13f.
+right-hand face of the wedge to become curved (Fig. 160 a concrete case has been indentified for the hittite scribe
+22). it must be stressed that, in this case, the wedge Pikku, see cammarosano et alii 2014, 26-28.
+84 michele cammarosano
+although there will be no two wedges identical to 8. Summary and Outlook
+each other even in a single tablet, variation is subject
+to specific contraints. First of all, there is a kind of The present study has attempted to reassess what we
+variation which is required by the nature of the script know about the stylus used to write cuneiform script
+itself, insofar as it is essential in order to distinguish on clay in the ancient near east. The first part of the
+between different types of wedges and therefore bears study has been devoted to a review of the iconographic
+primary semantic value. The typical case is represented sources and archaeological remains. Within the first
+by changes in the horizontal or vertical tilt of the stylus domain, the focus has been on a critical reappraisal of
+to distinguish, e.g., horizontal from vertical wedges, the writing scenes from neo-assyrian wall panels and
+and oblique wedges from Winkelhaken, respectively. other sources, as well as on a systematic examination
+a different kind of variation pertains to those vari- of the numerous depictions of a cuneiform stylus as
+ables which are not essential to the cuneiform script symbol of the god nabu, spreading over a wide geo-
+but rather depend on the habits of individual scribes graphical and chronological span. These depictions
+or scribal traditions. The behaviour of such variables coherently represent the cuneiform stylus as a short
+follows patterns which tend to be coherent, at least trapezoidal or triangular instrument, whose writing tip
+within a single piece of writing. For instance, a scribe either is right-angled or slopes slightly on one side.
+may impress horizontal wedges just in the same way This form happens to be precisely that of the old
+he impresses vertical ones, except for the difference in Babylonian bone styli recovered at Tell ed-Dēr, and
+orientation on the xY plane, whereas another scribe seems to come quite close to that of the alleged bronze
+may handle the stylus with a different vertical and/or styli from Late Bronze age Ugarit, which, however, are
+lateral tilt depending on whether he is impressing a longer and might point to a different scribal tradition.
+horizontal wedge or a vertical one; still another scribe For other finds, the interpretation as cuneiform styli
+may vary the lateral tilt of the stylus only for verticals is either impossible or very uncertain.
+which immediately follow a sequence of horizontal in the subsequent sections of the study, the cu-
+wedges, and so on. What remains is variation resulting neiform stylus was examined through other kinds
+from accidental and unintentional factors, as well as of evidence, based primarily on analysis of wedge
+that related to special constraints, e.g. while writing impressions and experimentation. questions related
+on the tablet edge and similar ones. Thus, a general to materiality and manufacturing were discussed in
+framework can be put forward, in which three kinds §§4-5. on the one hand, the investigation confirmed
+of variation in the respective position of stylus and the conclusions reached by messerschmidt in his
+tablet during the impression of individual wedges are groundbreaking study on the topic and argued for a
+singled out:161 specific species of reed, Arundo donax, to have been
+(1) Distinguishing: variation inherent to the system the standard plant involved in the making of cuneiform
+of writing; bears primary semantic value; styli in mesopotamia. on the other hand, attention
+(2) Idiosyncratic, positional: variation relating to was called upon the fact that reed styli were, in all
+patterns which are characteristic of specific scribal likelihood, less widespread than is usually assumed.
+hands or scribal traditions; not only there is at least an entire scribal tradition,
+(3) Other: variation pertaining to special contraints the hittite tradition, which never made use of reed for
+or to accidental factors. this purpose, but even in mesopotamia other materials
+it is point 2, of course, which intrigues the palae- – wood, bone, and metal – probably enjoyed greater
+ographer interested in the individuation and descrip- diffusion than we suspect.
+tion of scribal hands and traditions. indeed, since in the last part of the article, the issues of stylus
+the form of the wedge is highly dependent on that length and handling were examined, as well as prob-
+of the specific stylus creating it, bare measurations lems entailed in the reconstruction of the writing tip
+of the various wedge components are of little help based on wedge impressions. The hypothesis that the
+in characterising scribal hands – although they can cuneiform stylus was normally shorter than hitherto
+be suitable for characterising the script of a specific suspected was further supported by the investigation
+fragment and thus for identifying joins. significant of rulings, which, consequently, has implications on
+features related to a specific scribal hand are rather to our understanding of the stylus handling. The stylus,
+be found in the variation of these values across differ- it was argued, could be kept within the palm, with
+ent types and configurations of wedges.162 systematic the hand in supinate or half-supinate position. That
+investigations of this kind may indeed contribute to
+the identification of joins and scribal hands, and more
+in general to the study of cuneiform writing technique
+and scribal practice.
+161 Cf. cammarosano et alii 2014, 14-15.
+162 For a concrete example, the reader is referred again to
+cammarosano et alii 2014, 19-31.
+the cuneiForm stYlus 85
+the writing technique varied from scribe to scribe, for the classification of script and scribal hands. The
+on the other hand, was confirmed by the examina- ultimate goal of the present study, in this sense, has
+tion of wedge impressions. a theoretical framework been to encourage new researches on the topic, both
+for the three-dimensional analysis of cuneiform script from archaeological and philological perspective. The
+has been put forward based on a thorough discussion hope has been to make archaeologists more able to
+of the questions entailed in the relationship between identify remains of writing styli among small finds, and
+writing tip and wedge impression. modern digitizing to make philologists more aware of the rich potential
+and computing technologies constitute the premises of information concealed in the material appearance
+for a new approach in the study of cuneiform script, of the wedges: in all likelihood, these myriads of tiny
+allowing for systematic analyses of wedges and wedge impressions in the clay will long continue to be our
+configurations according to discrete quantities, the primary source of information about styli, writing
+development of open-access, searchable databases, technique, and scribal practice in the ancient near
+and the establishment of more precise frameworks east.
+reFerenCes
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+akDoğan, r. - hawkins, J.d. buccellati, G. - kellY-buccellati, m.
+2010 - “The Kirşehir Letter: a New Hieroglyphic Lu- 2000 - “The royal Palace of Urkesh. report on the
+wian Text on a Lead strip”, in: a. süel (ed.), VII. 12th season at Tell mozan / Urkesh: excavation
+Uluslararası Hititoloji Kongresi Bildirileri, Çorum 25- in area aa, June-october 1999”, Mitteilungen der
+31 Ağustos 2008 − Acts of the VIIth International Deutschen-Orient Gesellschaft 132, 133-183.
+Congress of Hittitology, Çorum, August 25-31, 2008,
+ankara, 1-16. buchanan, B.
+1966 - Catalogue of ancient Near Eastern seals in the
+albenda, P. Ashmolean Museum/1. Cylinder seals, oxford.
+1986 - The palace of Sargon, King of Assyria: Monu-
+mental wall reliefs at Dur-Sharrukin, from original cammarosano, m.
+drawings made at the time of their discovery in 1843- 2013 - “hittite Cult inventories - Part one: The hit-
+1844 by Botta and Flandin, Paris. tite Cult inventories as Textual Genre”, die Welt des
+Orients 43, 63-105.
+alster, B.
+1997 - Proverbs of Ancient Sumer: The World’s Earliest cammarosano, m. - müller, G.G.W. - Fisseler, d. -
+Proverb Collections, Bethesda. weichert, F.
+2014 - “schriftmetrologie des Keils. Dreidimensionale
+barnett, r.D. - bleibtreu, e. - turner, G. analyse von Keileindrücken und handschriften”, die
+1998 - Sculptures from the southwest palace of Sen- Welt des Orients 44, 1-35.
+nacherib at Nineveh, London.
+carter, C.
+barnett, r.D. 1962 - Hittite Cult-Inventories. PhD Dissertation,
+1939 - “a Cylinder seal from syria”, Iraq 6, 1-2. Chicago.
+bittel, K. cartwriGht, C. - taYlor, J.
+1973 - “anatolica”, in: e. neu, Ch. rüster (eds.), 2011 - “investigating technological and environmental
+Festschrift Heinrich Otten. 27. Dezember 1973, Wies- evidence from plant remains and molluscs in cunei-
+baden, 25-36. form tablets”, The British Museum Technical Research
+Bulletin 5, 67-72.
+bleibtreu, e.
+1980 - Die Flora der Neuassyrischen Reliefs, Wien. claY, a.T.
+2003 - “Bemerkungen zum Griffel des Tontafelschrei- 1906 - Documents from the Temple Archives of Nippur
+bers”, in: G.J. selz (ed.), Festschrift für Burkhart dated in the Reigns of Cassite Rulers, Philadelphia.
+Kienast zu seinem 70. Geburtstage. Dargebracht von
+Freunden, Schülern und Kollegen (aoaT 274), mün- cleVerinG, o. - lissner, J.
+ster, 1-5. 1999 - “Taxonomy, chromosome numbers, clonal di-
+versity and population dynamics of Phragmites aus-
+boehmer, r.m. tralis”, Aquatic Botany 64, 185-208.
+1979 - Die Kleinfunde aus der Unterstadt von Boğazköy:
+Grabungskampagnen 1970-1978 (Boğazköy-Hattuša collon, D.
+10), Berlin. 2001 - Catalogue of the western Asiatic seals in the
+British Museum. Cylinder seals 5: Neo-Assyrian and
+boehmer, r.m. Neo-Babylonian periods, London.
+1972 - Die Kleinfunde von Boğazköy aus den Gra-
+bungskampagnen 1931-1939 und 1952-1969 (WV- deimel, a.
+DoG 87), Berlin. 1922 - “Die Bedeutung der Keilschrift-Palaeographie
+für die Chronologie der ältesten babylonischen Ge-
+börker-klähn, J. schichte”, Orientalia ns 1, 213-222.
+1982 - Altvorderasiatische Bildstelen und vergleichbare
+Felsreliefs. Mit einem Beitrag von Schunnar-Misera A., delaporte, L.
+mainz. 1909 - “Les cylindres orientaux du musée historique
+the cuneiForm stYlus 87
+de l’orléanais”, in: Hilprecht Anniversary Volume, hEppEr, F.N.
+Leipzig et al. 1992 - “Notes on the Reeds of Mesopotamia”, Bulletin
+on Sumerian Agriculture 6, 193-194.
+Doğan-alparslan, m. - alparslan, M. (eds.)
+2013 - Hititler: Bir Anadolu İmparatorluğu / Hittites: herles, m.
+An Anatolian Empire, İstanbul. 2006 - “Zur Darstellung auf dem Symbolsockel Tu-
+kulti-Ninurtas I: Griffel oder Zepter?”, Mitteilungen
+driVer, G.r. der Deutschen-Orient Gesellschaft 138, 249-268.
+1976 - Semitic Writing from Pictograph to Alphabet. 2006b - Götterdarstellungen Mesopotamiens in der
+Newly revised edition, London. 2. Hälfte des 2. Jahrtausends v. Chr. (AOAT 329),
+Münster.
+Ellison, J. l.
+2002 - A Paleographic Study of the Alphabetic Cunei- Hethiter 2002: Die Hethiter und ihr Reich. Das Volk
+form Texts from Ras Shamra/Ugarit. Ph.D. Disserta- der 1000 Götter, Katalog der Ausstellung, Bonn 18.
+tion, The Department of Near Eastern Languages and Januar - 28. April 2002, Bonn.
+Civilizations, Harvard University.
+hodder, I. (ed.)
+FalkEnstEin, a. 1996 - On the surface: Çatalhöyük 1993-95, Cam-
+1936 - Archaische Texte aus Uruk (ADFU 2), Leip- bridge.
+zig.
+hoFFner, H.A.
+Fisseler, D. - WEichErt, F. - MüllEr, G.G.W. - caM- 2009 - Letters from the Hittite Kingdom, Atlanta.
+Marosano, M.
+2014 - “Towards an interactive and automated script hoWarD, m.
+feature analysis of 3D scanned cuneiform tablets”, 1955 - “Technical Description of the Ivory Writing-
+Scientific Computing and Cultural Heritage 2013. Boards from Nimrud”, Iraq 17, 14-20.
+FrankE, s. hrouDa, B. (ed.)
+2011 - “Persönliche Frömmigkeit im Alten Orient am 1991 - Der alte Orient. Geschichte und Kultur des
+Beispiel des Kultsockels des Tukulti-Ninurta von As- alten Vorderasien, Gütersloh.
+syrien”, Hephaistos 28, 85-98.
+JEnDritzki, G.
+GaschE, H. 1997 - “Zur Restaurierung und Technologie des Bron-
+1989 - La Babylonie au 17e siècle avant notre ère: Ap- zekreuzes VA 5379”, Baghdader Mitteilungen 28, 239-
+proche archéologique, problèmes et perspectives (meso- 243.
+potamian History and Environment II, Memoirs 1),
+Gent. JEnDritzki, G. - Marzahn, J.
+2003 - “Für Forschung und Besucher gerettet. Re-
+GeorGe, a.r. staurierung als Bewahrungsauftrag”, in: J. Marzahn,
+2006 - “Babylonian Texts from the Folios of Sidney B. salJE (eds.), Wiedererstehendes Assur, 100 Jahre
+Smith, Part Three”, in: A.K. Guinan et alii (eds.), deutsche Ausgrabungen in Assyrien (Begleitbuch zur
+If a man builds a joyful house. Assyriological studies Ausstellung), mainz, 79-89.
+in honor of Erle Verdun Leichty, Leiden et al., 173-
+186. kEEl, o.
+1990 - “La Glyptique de Tell Keisan (1971 - 1976)”,
+Gilibert, a. in: o. kEEl et alii (eds.), Studien zu den Stempelsiegeln
+2007 - “Stylus”, in: Iconography of Deities and De- aus Palästina/Israel III (OBO 100), Freiburg Schweiz/
+mons in the Ancient Near East, Electronic Pre-Publi- Göttingen, 163-260.
+cations, http://www.religionswissenschaft.uzh.ch/idd/
+prepublication.php. klEnGEl-BranDt, E.
+1975 - “Eine Schreibtafel aus Assur”, Altorientalische
+Gumbert, J.P. Forschungen 3, 169-171.
+2002 - “The pen and its movement: some general and
+less general remarks”, Gazette du livre medieval 40, koşay, H.Z.
+14-24. 1966 - Alaca Höyük Kazısı 1940-1948, İlk Rapor,
+Ankara.
+harDion, L. - VErlaquE, r. - BauMEl, a. - Marianick,
+J. - Vila, B. lanDsBErGEr, B.
+2012 - “Revised systematics of Mediterranean Arundo 1967 - The date Palm and its by-products according
+(Poaceae) based on AFLP fingerprints and morpho- to the cuneiform sources (Archiv für Orientforschung,
+logy”, Taxon 61, 1217-1226. Beiheft 17), Graz.
+88 michele cammarosano
+lanGdon, s. messerschmidt, L.
+1924 - Excavations at Kish I, Paris. 1906 - “Zur Technik des Tontafel-schreibens”, Orien-
+talistische Litteratur-Zeitung [today “orientalistische
+leVine, L.D. Literaturzeitung”] 9, 185-196, 304-312, 372-380 .
+1973 - Two Neo-Assyrian Stelae from Iran, Toronto.
+moFidi-nasrabadi, m.
+liVinGstone, a. 2012 - “arbeitszimmer eines schreibers aus der mit-
+2007 - “ashurbanipal: literate or not?”, Zeitschrift für telelamischen Zeit”, in: G. wilhelm (ed.), Organi-
+Assyriologie und Vorderasiatische Archäologie 97, 98- zation, Representation, and Symbols of Power in the
+118. Ancient Near East. Proceedings of the 54th Rencontre
+Assyriologique Internationale at Würzburg 20-25 July
+loud, G. - altman, c.b. 2008, Winona Lake, 747-756.
+1938 - Khorsabad, Part 2: The Citadel and the Town
+(oiP 40), Chicago. mooreY, P.r.s.
+1999 - Ancient Mesopotamian Materials and Indus-
+macGinnis, J. tries. The Archaeological Evidence, Winona Lake.
+2002 - “The use of writing boards in the neo-Bab-
+ylonian temple administration at sippar”, Iraq 64, noVotnY, J. - watanabe, c.e.
+217-237. 2008 - “after the fall of Babylon: a new look at the
+presentation scene on assurbanipal relief Bm me
+madhloom, T.a. 124945–6”, Iraq 70, 105-126.
+1970 - The Chronology of Neo-Assyrian Art, Lon-
+don. oates, D.
+1968 - “The excavations at Tell al rimah, 1967”, Iraq
+mallowan, m.e.L. 30, 115-138.
+1954 - “The excavations at nimrud (Kalḫu)”, Iraq
+16, 19-153. ochsenschlaGer, e.L.
+1966 - Nimrud and Its Remains. Vol. I, London. 1992 - “ethnographic evidence for wood, boats, bitu-
+men and reeds in southern iraq”, Bulletin on Sumer-
+marazzi, m. ian Agriculture 6, 47-78.
+1994 - “ma gli hittiti scrivevano veramente su “le-
+gno”?”, in: P. cipriano, P. Di GioVine, m. mancini opitz, D.
+(eds.), Miscellanea di studi linguistici in onore di Wal- 1930/31 - “studien zur altorientalischen Kunst”, Ar-
+ter Belardi, roma, 131-160. chiv für Orientforschung 6, 59-65.
+mariani, C. - cabrini, r. - danin, a. - piFFanelli, p. - parkes, m.B.
+Fricano, a. - Gomrasca, s. - dicandilo, m. - Grassi, 2008 - Their Hands Before Our Eyes. A Closer Look at
+F. - soaVe, c. Scribes. The Lyell Lectures Delivered in the University
+2010 - “origin, diffusion and reproduction of the giant of Oxford, 1999, aldershot.
+reed (arundo donax L.): a promising weedy energy
+crop”, Annals of Applied Biology 157, 191-202. paYne, a.
+2005 - “Überlegungen zur hieroglyphenschrift der
+marzahn, J. assur-Briefe”, Mitteilungen der deutschen Orient-
+2003 - “Die Keilschrift”, in: W. seipel (ed.), Der Gesellschaft 137, 109-118.
+Turmbau zu Babel: Ursprung und Vielfalt von Sprache
+und Schrift. Band IIIA, Wien, 81-92. pecorella P.e.
+1980 - “Dieci sigilli cilindrici del Vicino oriente”,
+marzahn, J. - schauerte, G. Studi Micenei ed Egeo-Anatolici 22, 323-336.
+2008 - Babylon – Wahrheit. Katalog der Ausstellung,
+Berlin. perdue, r.e.
+1958 - “arundo donax - source of musical reeds and
+meier, G. industrial cellulose”, Economic Botany 12, 368-404.
+1939 - “Ein akkadisches Heilungsritual aus Boğazköy”,
+Zeitschrift für Assyriologie und Vorderasiatische Ar- pilu, r. - bucci, a. - badone, F.C. - landoni, m.
+chäologie 45, 195-215. 2012 - “Giant reed (arundo donax L.): a weed plant
+or a promising energy crop?”, African Journal of Bio-
+meiJer, D.J.W. technology 11, 9163-9174.
+2004 - “a scribal quarter?”, in: J.G. derksen (ed.),
+Assyria and Beyond: Studies presented to Mogens Trolle pomponio, F.
+Larsen, Leiden, 387-393. 1978 - Nabû, il culto e la figura di un dio del Pantheon
+babilonese ed assiro, roma.
+the cuneiForm stYlus 89
+postGate, J.n. tafel KBo XXXVI 29 und verwandte Fragmente (Texte
+1980 - “Palm-trees, reeds and rushes in iraq ancient der hethiter 23), heidelberg.
+and modern”, in: m.-T. barrelet (ed.), L’archéologie 2005/06: “Lehnbeziehungen zwischen dem hethiti-
+de l’Iraq, Paris, 99-110. schen und dem akkadischen”, Archiv für Orientfor-
+1986 - “middle assyrian tablets: The instruments of bu- schung 51, 220-34.
+reaucracy”, Altorientalische Forschungen 13, 10-39.
+1987 - “Bm 118796: a Dedication Text on an amu- seidl, U.
+let”, State Archives of Assyria Bulletin i.2, 57-64. 1989 - Die babylonischen Kudurru-reliefs: Symbole
+mesopotamischer Gottheiten (oBo 87), Göttingen.
+powell, m.a. 1998 - “nabû. B. archäologisch”, Reallexikon der As-
+1981 - “Three Problems in the history of Cuneiform syriologie und Vorderasiatischen Archäologie 9 1./2.,
+Writing: origins, Direction of script, Literacy”, in: 24-29.
+m.a. powell (ed.), Aspects of Cuneiform Writing. Vis- 2007 - “assurbanipals Griffel”, Zeitschrift für Assyrio-
+ible Languages 15.4, Cleveland, 419-440. logie und Vorderasiatische Archäologie 97, 119-124.
+reade, J. sirat, C.
+1986 - “archaeology and the Kuyunjik archives”, in: 1987 - “La morphologie humaine et la direction des
+K.r. VeenhoF (ed.), Cuneiform Archives and Libraries écritures”, Comptes-rendus des séances de l‘Académie
+(Pihans 57), Leiden, 213-22. des Inscriptions et Belles-Lettres, 131e année, n. 1,
+2012 - “Visual evidence for the status and activities 7-56.
+of assyrian scribes”, in: G.B. lanFranchi et alii (eds.),
+Leggo!: Studies Presented to Frederick Mario Fales on stol, m.
+the Occasion of His 65th Birthday, Wiesbaden, 699- 1998 - “einige kurze Wortstudien”, in: s. maul (ed.),
+718. Festschrift für Rykle Borger zu seinem 65. Geburtstag
+am 24. Mai 1994: tikip santakki mala bašmu (Cm
+rYu, J. - cooneY, W.P. - asked, L.J. - an, K.n. - chao, 10), Groningen, 343-352.
+e.Y.s.
+1991 - “Functional ranges of motion of the wrist streck, m.P.
+joint”, The Journal of Hand Surgery 16, 409-419. 2009 - “schilf”, Reallexikon der Assyriologie und Vor-
+derasiatischen Archäologie 12 3./4., 182-189.
+saGGs, h.W.F.
+1981 - “The reed stylus”, Sumer 37, 127-128. sYminGton, D.
+1991 - “Late Bronze age writing-boards and their
+salim, s.m. uses: textual evidence from anatolia and syria”, Ana-
+1962 - Marsh dwellers of the Euphrates Delta, Lon- tolian Studies 41, 111-123.
+don.
+tanret, m.
+sallaberGer, W. 2002 - Per Aspera ad Astra. L’apprentissage du cunéi-
+1989 - “Zum schilfrohr als rohstoff in Babylonien”, forme à Sippar-Amnånum pendant la période paléoba-
+in: B. scholz (ed.), Der orientalische Mensch und bylonienne tardive, Gent.
+seine Beziehungen zur Umwelt, Graz, 311-330.
+taYlor, J.
+san nicolò, m. 2011 - “Tablets as artefacts, scribes as artisans”, in:
+1948 - “haben die Babylonier Wachstafeln als schrift- K. radner, e. robson (eds.), The Oxford Handbook
+trager gekannt?”, Orientalia 17, 59-70. of Cuneiform Culture, new York, 5-31.
+schachner, a. torri, G.
+2013 - “Die Arbeiten in Boğazköy-Ḫattuša 2012”, 2012 - “hiding Words Behind the signs. The Use of
+Archäologischer Anzeiger 2013/1, 147-193. Logograms in the hittite scribal Praxis”, Orientalia
+ns 81, 124-132.
+schaeFFer, C.
+1951 - “reprise des recherches archéologiques a ras townsend, C.C. - Guest, e.
+shamra-Ugarit”, Syria 28, 1-21. 1968 - Flora of Iraq 9. Gramineae, Baghdad.
+schaeFFer, C. (ed.) unGer, e.
+1955 - Le Palais royal d’Ugarit III. Textes accadiens 1916 - Reliefstele Adadniraris III. aus Saba’a und
+et hourrites des archives est, ouest et centrales, par J. Semiramis, Konstantinopel.
+Nougayrol, Paris. 1917 - Die Stele des Bel-Harran-Beli-Ussur. Ein Denk-
+mal der Zeit Salmanassars IV, Konstantinopel.
+schwemer, D. 1921 - Babylonisches Schrifttum, Leipzig.
+1998 - Akkadische Rituale aus Ḫattuša. Die Sammel-
+90 michele cammarosano
+Van soldt, W.h. weeden, m.
+1991 - Studies in the Akkadian of Ugarit: Dating and 2011 - Hittite Logograms and Hittite Scholarship
+Grammar (aoaT 40), Kevelaer/neukirchen-Vluyn. (stBoT 54), Wiesbaden.
+Volk, K.
+2009 - “schreibgriffel”, Reallexikon der Assyriologie westphal-hellbusch, s. - westphal, h.
+und Vorderasiatischen Archäologie 12 3./4., 280- 1962 - Die Ma’dan. Kultur und Geschichte der Mar-
+286. schenbewohner im Süd-Iraq, Berlin.
+Von der osten, h.h. wiseman, D.J.
+1937 - The Alishar Hüyük. Seasons of 1930-1932, 1955 - “assyrian Writing Boards”, Iraq 17, 3-13.
+Part II (oiP 29), Chicago.
+Yon, m.
+waal, W. 2006 - The City of Ugarit at Tell Ras Shamra, Winona
+2011 - “They wrote on wood. The case for a hiero- Lake.
+glyphic scribal tradition on wooden writing boards in
+hittite anatolia”, Anatolian Studies 61, 21-34. Yoshikawa, m.
+1990 - “a note on stylus”, Acta Sumerologica 12,
+waetzoldt, h. 356-357.
+1992 - “‘rohr’ und dessen Verwendungsweisen an-
+hand der neusumerischen Texte aus Umma”, Bulletin
+on Sumerian Agriculture 6, 125-146.
+Pl. 1
+a.
+b.
+Impaginazione a cura di Stefano Rolle
+FINITO DI STAMPARE
+NEL MESE DI MARZO 2015
+PER CONTO DELLA
+CASA EDITRICE LE LETTERE
+DALLA TIPOGRAFIA ABC
+SESTO FIORENTINO - FIRENZE
+

@@ -1,0 +1,602 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bass",
+        "given": "George F."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Oldest Known Shipwreck Reveals Splendors of the Bronze Age"
+    ],
+    "volume": [
+      "172"
+    ],
+    "pages": [
+      "692–733"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "National Geographic"
+    ],
+    "issue": [
+      "December"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dalley",
+        "given": "Stephanie"
+      },
+      {
+        "family": "Walker",
+        "given": "C.B.F."
+      },
+      {
+        "family": "Hawkins",
+        "given": "J.D."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "title": [
+      "The Old Babylonian Tablets from Tell al-Rimah"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "British School of Archaeology in Iraq"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Falkenstein",
+        "given": "Adam"
+      }
+    ],
+    "date": [
+      "1953"
+    ],
+    "title": [
+      "Die babylonische Schule"
+    ],
+    "volume": [
+      "4"
+    ],
+    "pages": [
+      "1–22"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Saeculum"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gadd",
+        "given": "C.J."
+      }
+    ],
+    "date": [
+      "1956"
+    ],
+    "title": [
+      "Teachers and Students in the Oldest Schools"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "British Museum"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hallo",
+        "given": "William W."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "title": [
+      "Women of Sumer"
+    ],
+    "container-title": [
+      "The Legacy of Sumer"
+    ],
+    "editor": [
+      {
+        "family": "Schmandt-Besserat",
+        "given": "Denise"
+      }
+    ],
+    "pages": [
+      "129–144"
+    ],
+    "location": [
+      "Malibu"
+    ],
+    "publisher": [
+      "Undena"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Harris",
+        "given": "Rivkah"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "The Female ‘Sage’ in Mesopotamian Literature (with an Appendix on Egypt"
+    ],
+    "container-title": [
+      "The Sage in Israel and the Ancient Near East"
+    ],
+    "editor": [
+      {
+        "family": "Gammie",
+        "given": "John G."
+      },
+      {
+        "family": "Perdue",
+        "given": "Leo G."
+      }
+    ],
+    "pages": [
+      "3–19"
+    ],
+    "location": [
+      "Winona Lake, IN"
+    ],
+    "publisher": [
+      "Eisenbrauns"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kramer",
+        "given": "Samuel N."
+      }
+    ],
+    "date": [
+      "1949"
+    ],
+    "title": [
+      "Schooldays: A Sumerian Composition Relating to the Education of a Scribe"
+    ],
+    "volume": [
+      "69"
+    ],
+    "pages": [
+      "199–215"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of the American Oriental Society"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kramer",
+        "given": "Samuel N."
+      }
+    ],
+    "date": [
+      "1959",
+      "1981"
+    ],
+    "title": [
+      "History Begins at Sumer"
+    ],
+    "edition": [
+      "3rd revised"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University of Pennsylvania Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Laessøe",
+        "given": "Jørgen"
+      }
+    ],
+    "date": [
+      "1953"
+    ],
+    "title": [
+      "Literacy and Oral Tradition"
+    ],
+    "container-title": [
+      "Studia Ioanni Pedersen ... dicata"
+    ],
+    "pages": [
+      "111–124"
+    ],
+    "location": [
+      "Copenhagen"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Landsberger",
+        "given": "Benno"
+      }
+    ],
+    "date": [
+      "1954"
+    ],
+    "title": [
+      "Babylonian Scribal Craft and Its Terminology"
+    ],
+    "container-title": [
+      "Proceedings of the 23rd International Congress of Orientalists"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Landsberger",
+        "given": "Benno"
+      }
+    ],
+    "date": [
+      "1960"
+    ],
+    "title": [
+      "Scribal Concepts of Education"
+    ],
+    "container-title": [
+      "City Invincible"
+    ],
+    "editor": [
+      {
+        "family": "Kraeling",
+        "given": "C.H."
+      },
+      {
+        "family": "Adams",
+        "given": "Robert M."
+      }
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Livingstone",
+        "given": "Alasdair"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Mystical and Mythological Explanatory Works of Assyrian and Babylonian Scholars"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Clarendon Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nemet-Nejat",
+        "given": "Karen Rhea"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Cuneiform Mathematical Tests as Training for Scribal Professions"
+    ],
+    "container-title": [
+      "A Scientific Humanist: Studies in Memory of Abraham Sachs"
+    ],
+    "editor": [
+      {
+        "family": "Leichty",
+        "given": "Erle"
+      },
+      {
+        "family": "Ellis",
+        "given": "M.",
+        "particle": "deJ."
+      }
+    ],
+    "pages": [
+      "179–200"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University Museum"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Oppenheim",
+        "given": "A.Leo"
+      }
+    ],
+    "date": [
+      "1964",
+      "1977"
+    ],
+    "title": [
+      "Ancient Mesopotamia: Portrait of a Dead Civilization"
+    ],
+    "edition": [
+      "Rev."
+    ],
+    "publisher": [
+      "by Erica Reiner",
+      "University of Chicago Press"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Oppenheim",
+        "given": "A.Leo"
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "The Intellectual in Mesopotamian Society"
+    ],
+    "volume": [
+      "104"
+    ],
+    "pages": [
+      "37–50"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Daedalus"
+    ],
+    "issue": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Otten",
+        "given": "Heinrich"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Die Bronzetafel aus Boğazköy: Ein Staatsvertrag Tuthalijas IV"
+    ],
+    "location": [
+      "Wiesbaden"
+    ],
+    "publisher": [
+      "Harrassowitz"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Parpola",
+        "given": "Simo"
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "title": [
+      "Letters from Assyrian Scholars to the Kings Esarhaddon and Assurbanipal"
+    ],
+    "volume": [
+      "1"
+    ],
+    "location": [
+      "Neukirchen-Vluyn"
+    ],
+    "publisher": [
+      "Neukirchener Verlag"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rochberg-Halton",
+        "given": "Francesca"
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "title": [
+      "Canonicity in Cuneiform Texts"
+    ],
+    "volume": [
+      "36"
+    ],
+    "pages": [
+      "127–144"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sjöberg",
+        "given": "Åke W."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "The Old Babylonian Eduba"
+    ],
+    "container-title": [
+      "Sumerological Studies in Honor of Thorkild Jacobsen"
+    ],
+    "editor": [
+      {
+        "family": "Lieberman",
+        "given": "Stephen"
+      }
+    ],
+    "pages": [
+      "159–179"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Streck",
+        "given": "Maximilian"
+      }
+    ],
+    "date": [
+      "1916"
+    ],
+    "title": [
+      "Assurbanipal und die letzten assyrischen Könige bis zum Untergang Ninivehs"
+    ],
+    "location": [
+      "Leipzig"
+    ],
+    "publisher": [
+      "J. C. Hinrichs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Vanstiphout",
+        "given": "Herman L.J."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "How Did They Learn Sumerian?"
+    ],
+    "volume": [
+      "31"
+    ],
+    "pages": [
+      "118–126"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Walker",
+        "given": "C.B.F."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Cuneiform"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "British Museum Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiseman",
+        "given": "D.J."
+      }
+    ],
+    "date": [
+      "1955"
+    ],
+    "title": [
+      "Assyrian Writing Boards"
+    ],
+    "volume": [
+      "17"
+    ],
+    "pages": [
+      "3–13"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  }
+]

@@ -1,0 +1,1134 @@
+# METADATA
+Author: Janssen C.
+Title: Address Behaviour in Eight Unpublished ana bēlīja Letters from the Late Old Babylonian Ur-Utu Archive: Close Relatives Through a Distant Mirror?
+Year: 2018
+Source_ID: Janssen2018_AddressBeh
+Source_Type: Article, Article in Journal: Zeitschrift für Assyriologie 2018; 108(2)
+Source_Role,Step_distance: 0,1,2 ,3,4 
+Pages: 332 -348
+Web: https://doi.org/10.1515/za-2018-0011
+
+# TEXT
+
+Bestätigung der Metadaten/Metadata Approval Sheet
+Bestätigung der Autoren-Metadaten/
+Sehr geehrte Autoren,
+Bitte prüfen Sie diese Angaben sorgfältig. Sie sind für alle nachfolgenden PublikationswegeA (Purintth, Oonlrin eM, etadata Approval Sheet
+Abstracting und Indexing, De Gruyter Open, Suchmaschinen etc.) relevant. Änderungen sind später nicht
+mehr möglich. Bitte führen Sie eventuelle Korrekturen in den beschreibbaren Feldern in der rechten Spalte
+aus. Bitte bestätigen Sie die Korrektheit der Daten, indem Sie das Feld unten anklicken. Sehr geehrte Autoren,
+Vielen Dank für Ihre MitarbBeititte, Dperü Gferuny Steier die unten aufgeführten Autoren-Metadaten sorgfältig und ergänzen bzw. korrigieren Sie
+diese ggf. in der beschreibbaren rechten Spalte.
+Dear author, Vielen Dank für Ihre Mitarbeit, De Gruyter
+Please check these data carefully. They are relevant for all following publication processes in Abstract-
+ing and Indexing Services, De Gruyter Open, search engines. They can not be changed afDteera pr uabultihcaotri,on.
+Please fill in your corrections within the editable fields in the right column. Please confPirlema steh ec hceocrkre acnt d complete carefully the author metadata listed below by using the editable fields in the
+data by clicking the field below. right column.
+Thanks for your kind cooperat ion, De Gruyter Thanks for your kind cooperation, De Gruyter
+Journal-Name: Case Reports in Perinatal Medicine Journal-Name: Zeitschrift für Assyriologie
+Article-DOI: 10.1515/crpm-2015-0095 Article-DOI: https://doi.org/10.1515/za-2018-0011
+Article-Title: Address Behaviour in Eight Unpublished ana bēlīja Letters from the Late Old Babylonian
+Article-Title: Acute myocardial infarction in a Ur-Utu Archive: Close Relatives Through a Distant Mirror?
+premature infant on the first day of life
+Subtitle: none Bitte vervoll- Author Meta Bitte ändern/To be changed
+ständigen/ Data
+Article-Type:
+Please complete
+Author 1
+Author 1:
+Surname: Ciarmoli Surname Janssen
+First Name: Elena
+First Name Caroline
+Corresponding: yes
+Corresponding yes
+E-Mail: elena.ciarmoli@gmail.com
+Affiliation: Neonatal Intensive Care Unit, E-Mail Caroline.Janssen@UGent.be
+MBBM Foundation, San Gerardo Hospital,
+Via Pergolesi 33, 20900 Monza, Monza, Italy, Affiliation 1 University of Ghent, Department of Langu-
+ages and Cultures, Blandijnberg 2, Ghent,
+Tel.: +39 039/2339174 , Fax: +39 039/2339178
+Belgium
+Institution 1 University of Ghent
+Author 2:
+Surname: Doni
+Department 1 Department of Languages and Cultures
+First Name: Daniela
+City 1 Blandijnberg 2, Ghent
+Corresponding: no
+E-Mail: no Country 1 Belgium
+Affiliation: Neonatal Intensive Care Unit, MBBM
+Foundation, San Gerardo Hospital, Monza, Italy
+Data checked and receipted Date:
+Zeitschrift für Assyriologie 2018; 108(2): 332–348
+Abhandlung
+Caroline Janssen*
+Address Behaviour in Eight Unpublished ana
+bēlīja Letters from the Late Old Babylonian Ur-Utu
+Archive: Close Relatives Through a Distant Mirror?
+https://doi.org/10.1515/za-2018-0011
+Abstract: One of the common forms of address, in Old Babylonian letters, is ‘to my lord’ (ana bēlīja). If letters come
+from clandestine digs, it is hard to know who is hiding behind this title. In the context of the Ur-Utu archive, there is
+one unknown variable less. The addressee is the archive’s owner. It occurred to me that in eight ana bēlīja letters from
+this collection, the senders bore names identical to those of Inanna-mansum’s sons (Ur-Utu, Kubburum, Ilī-iqīšam and
+Ḫuzālum) and Ur-Utu’s wife Rā’imtum. Can it be confirmed that the sender and the correspondent of these letters are
+indeed close relatives, and that the ana bēlīja format was used to address a father, brother or spouse? If so, what does
+this practice tell us about the address ‘my lord’, as a social habit?
+Its primary goal was to reconstruct the system of language
+I The art of addressing a chief
+use. It was a study about the choices an Old Babylonian
+lamentation priest
+letter writer had at his disposal, and from which he could
+choose the appropriate form in a given context.²
+It was an unfortunate circumstance for Sallaberger
+I.1 Between the lines
+that most of the published Old Babylonian letters came
+from clandestine digs. Thus, they had been robbed of their
+Letters are a genre that allows us to study the natural
+material and archival contexts. There was no solid chron-
+disposition of people, their realities, relations and inter-
+ological framework for the study of the historical devel-
+actions. They give us impressions of the social construct
+opment of address behaviour. Moreover, the possibility
+and the texture of life. There is more to letters than the
+of interpreting the social context in which the address
+message they convey: ways to address the addressee,
+behaviour occurred was limited. When titles of address
+self-designation, greetings, politeness (or the lack of all
+replace the name of the addressee, or when the address
+this) inform us about the relation between the correspond-
+section is absent, it is impossible to retrieve the address-
+ents, as conceived or real. The framing of facts, requests,
+ee’s identity and position in society unless one knows in
+instructions, questions, reproaches and exhortations tells
+whose archive the letters were found; we need archaeo-
+us about the society in which these letters originated and
+logical records about the find.³ These preconditions are
+the relations between its people.¹ Sallaberger’s ‘Wenn Du
+met for the letters found as part of the Ur-Utu archive.⁴
+mein Bruder bist, …’, on the greeting formulae, interaction
+and text composition (Textgestaltung) of Old Babylonian
+letters, is an in-depth study about these interactions and 2 I want to express my gratitude to W. Sallaberger for his valuable
+their expression and has become a standard in the field. comments and good suggestions when proof-reading my manuscript.
+3 Veenhof (1996, 33) rightly observes that the loss of the archaeolog-
+ical context and the scattering of letters over collections world-wide
+has had a dramatic impact on their interpretability.
+1 The standard abbreviations used are those of the Chicago Assyrian 4 The archive was excavated in the framework of the Belgian Archae-
+Dictionary. ological Expedition to Iraq, Tell ed-Dēr, under the directorship of L.
+De Meyer. The collaboration between H. Gasche and M.-J. Steve (see
+*Corresponding author: Caroline Janssen, University of Ghent, Gasche 1989, 1 n. 2) in the field has been very fruitful. Gasche (1989)
+Department of Languages and Cultures, Blandijnberg 2, Ghent, gives an overview of the evidence and main results of these excava-
+Belgium. Email: Caroline.Janssen@UGent.be tions. The publication of the archive itself is still work in progress. As
+Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter 333
+This creates an opportunity for us to investigate address though. Hence, with no evidence to the contrary, it is
+behaviour in a more tangible context and shed more light assumed that the letters were received by Inanna-mansum
+on the social practices of the late Old Babylonian Sippar and Ur-Utu over a span of nearly three decades, between
+region and Babylon. Ammi-ditana 29 and the summer of Ammi-ṣaduqa 18.
+As datable elements are a rare commodity, we can only
+rarely make the distinction between letters sent to Inan-
+I.2 Letters from the Ur-Utu archive na-mansum and those sent to his son Ur-Utu. This does
+not jeopardise this investigation though, as their position
+Ur-Utu’s sizeable collection of 204 letters was part of a in society is very similar. Inanna-mansum was the chief
+much larger archive. Some 2500 cuneiform tablets and lamentation priest (kalamāḫum) of the goddess Anunītum
+fragments were inventorised during the excavations. A in Sippar-Amnānum from Ammi-ditana 1 until Ammi-
+substantial part of this archive had been left behind by its ṣaduqa 4, at the end of which he was succeeded by his son
+owner after the house’s destruction by fire.⁵ The majority Ur-Utu. Both were subsequently heads of the house, the
+of the tablets were found in two rooms. Ur-Utu had built a bītum, which included relatives and slaves. In every-day
+new archive room (‘room 17’) in the beginning of Ammi- life, Inanna-mansum may have had more prestige than his
+ṣaduqa 18, only a few months before the house burned son, because of his age, experience and his connections
+down. He was still in the process of sifting through his with Babylon.⁷ Ur-Utu’s position may have been weaker
+documents and transferring tablets from the old to the because it was contested for some time, as a result of a
+new archive room, when this happened. Seeing the end feud with his brothers, especially Kubburum, as unfolded
+coming, the family tried to save some of the most valuable in Janssen (1992), or because of his personality. But there
+pieces from the new archive room, while dropping other is no reason to believe that this would fundamentally
+tablets – among which many letters – on the floor. The change the more conventionally determined relation
+old archive room 22, too disorganised to be effectively between sender and addressee.
+searched, was left untouched (Gasche 1989, 28–33 pro-
+vides the archaeological evidence for the archive rooms
+and other places where tablets were found). I.3 The eight ana bēlīja letters
+Although we refer to this archive as the Ur-Utu archive,
+we must keep in mind that it included a part of his father This contribution is focused on the address behaviour in
+Inanna-mansum’s archive as well. It was Inanna-mansum one specific group of letters. Eight ana bēlīja letters (letters
+who had acquired the house in Ammi-ditana 28. When he ‘to my lord’) drew my attention because the senders bore
+moved into it, in Ammi-ditana 29, he took with him all the the same names as Inanna-mansum’s four sons (Ur-Utu
+documents that seemed to be relevant at the time, after and Kubburum, Ilī-iqīšam and Ḫuzālum) and Ur-Utu’s
+which the archive kept growing organically.⁶ There is no wife Rā’imtum. If the senders are indeed the addressee’s
+indication that he moved in with his old correspondence closest relatives, it would mean that the title bēlī, which as
+we know is used to address officials, and even the king, is
+also considered to be an/the appropriate form to address
+for the letters mentioned in this contribution, most are still unpub-
+a father, first brother or husband. The confirmation of the
+lished (PhD C. Janssen). Their publication is scheduled for 2018–19.
+identity of these senders is not unproblematic though. We
+The following letters from the archive have been published in MHET
+I: Di 208 = no. 89; Di 210 = 71; Di 211 = 72; Di 212 = 68; Di 214 = 70; Di have no patronymics in the address section and no enve-
+217 = 74; Di 221 = 92; Di 223 = 80; Di 225 = 90; Di 226 = 75; Di 227 = 87; lopes for these letters. The main identifier being absent,
+Di 228 = 88; Di 230 = 73; Di 231 = 76; Di 232 = 79; Di 233 = 84; Di 234 we have to come up with other strategies to look for evi-
+= 77; Di 234 = 81; Di 282 bis = 100; Di 283 = 86; Di 285 = 91; Di 289 =
+dence to ascertain their identities. Our working hypothe-
+93; Di 291 = 69; Di 292 = 78; Di 293 = 85; Di 727 = 83; Di 728 = 8. Also
+sis that they are close relatives is based on the contents
+published are: Di 976, Di 1668, Di 1771 (copies of Samsu-iluna letters,
+of these letters as well as the combined presence of these
+published by Janssen 1991a, 4–8; 35 f.; 37 f); Di 167, Di 1194 (Janssen
+1992, 20–24); Di 1285 (Janssen 2012, 286–89), Di 175 (De Meyer 1982a, names in the limited group of ana bēlīja letters from
+31 f), Di 525 (De Meyer 1989a, 41).
+5 Many valuable and still valid documents were left behind. Al-
+though at least one of Inanna-mansum’s sons, Ḫuzālum, is known to The impact of the successive moves and the construction works on
+have survived the catastrophe, he must not have been able to retrieve the composition of the archive are discussed by Tanret (2004, 249 f.).
+the archive (Gasche 1989, 114, n. 287). 7 He was installed in his office on the first day of reign of king Am-
+6 See Janssen [e.a.] (1994, 121 f.). Tanret (2004, 251 f.) gives argu- mi-ditana, shortly after he had married a wealthy qadištum of Mar-
+ments for dating the beginning and end of the house’s occupation. duk from Babylon.
+334 Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter
+the Ur-Utu archive. They represent 8 out of 19 ana bēlīja As for the distribution of these titles, according to Sal-
+letters whose sender is known. But how does this address laberger, in the Old Babylonian period the title of address
+behaviour make sense, as a social habit? In order to shed ana bēlīja was less frequent than the use of the name (c.
+light on this question, we first inventorise and analyse the 60 %) or the address ana awīlim (c. 10 %). As he indicates
+greeting and address behaviour in this corpus. Secondly, (1999, 33 f.), depending on the collection, ana bēlīja ranks
+we explore the semantic range of the term bēlum. Thirdly, before or after ana abīja (both c. 5–6 %).¹¹ He comes to the
+the contents of the eight letters are analysed and placed conclusion that addressing the recipient by name is the
+in the context of what we know already about the chief ‘unmarked form’ and can hide different types of relations.
+lamentation priest’s household.⁸ How well does the new The absence of this unmarked and most common form in
+evidence fit the picture, when we interpret these letters the chief lamentation priest’s correspondence is notewor-
+against this background? thy, even if we take into account that in the late Old Baby-
+lonian context the use of titles of address was bon ton.¹² As
+Sallaberger’s corpus comprised the entire Old Babylonian
+period, different statistics can be expected for our corpus.
+II Address behaviour in the late
+The most frequent title of address in the late Old Babylo-
+Old Babylonian Ur-Utu archive
+nian Ur-Utu archive is ana awīlim (c. 35 %), followed by
+ana abīja and unaddressed letters. The ana bēlīja letters
+are less frequent than these but they still represent c. 11 %
+II.1 How is the chief lamentation priest
+of the letters found in the archive (23/204).
+addressed?
+The chief lamentation priest’s high status is reflected by
+II.2 Greeting and address behaviour in
+the fact that some senders, when referring to him in the
+the Ur-Utu archive
+body of the text or in quotations, describe him as awīlum
+kalamāḫum (literally ‘the gentleman the chief lamenta-
+The greeting formulae found on letters from the Ur-Utu
+tion priest’).⁹ However, this does not mean that all of the
+archive range from short to long ones, and include both
+letters he received were addressed ana awīlim (‘to the
+standard (ABCDE, A-var.)¹³ and non-standard formulae
+gentleman’). In fact, all of the standard titles of address
+(R). The non-standard formulae contain very specific
+found in Old Babylonian letters were used to address him.
+religious contents linked to the religious environment in
+The archive’s incoming correspondence included letters
+which the chief lamentation priest was active (release of
+ana awīlim (‘to the gentleman’), ana bēlīja/bēlīni (‘to my
+the e’iltum, appeasement of angry gods, the passage from
+lord’/‘to our lord’), ana abīja (‘to my father’), ana aḫīja
+darkness to light).¹⁴ The variety we see in the titles of
+(‘to my brother’), ana šāpirīja/ni (‘to my/our overseer’),
+address and greeting formulae reflects that Inanna-man-
+and a royal letter addressed ana [gala.maḫ] Anunītum (‘to
+sum and Ur-Utu had contacts, in writing, with people
+[the chief lamentation priest] of Anunītum’). Remarkably
+embedded in different contexts, who positioned them-
+though, neither Ur-Utu nor his father was ever addressed
+by name.¹⁰ Their position must have blocked this possi-
+bility. 11 I rounded the numbers which are slightly different according to
+the collection that is used.
+12 Sallaberger (1999, 37. 55) observes that the use of appellatives or
+titles of address in the address section is rare in early texts but be-
+8 I am grateful to have been able to use a preliminary transcription of came more widely diffused in the later Old Babylonian period.
+documents from the archive, prepared by L. Dekiere, and M. Tanret’s 13 In the Ur-Utu archive, the late Old Babylonian standard greet-
+prosopographical ‘Sippar database’. I also thank him for proof-read- ing is most often found in a highly standardized form: A: Šamaš u
+ing the manuscript and making valuable suggestions. Marduk dāriš ūmī liballiṭūka; B: lū šalmāta lū balṭāta; C: ilum nāṣirka
+9 Examples are found in letters ana awīlim and ana abīja (Di 350:18, rēška ana damiqtim likīl (= Sallaberger 1999 C); D ana šulmīka ašpu-
+2
+Di 372:5, Di 435:22, Di 459:13, Di 1748: Rev. 16′). In Di 628 Nabium-naṣir, ram (= Sallaberger 1999 D, first part); E: šulumka maḫar Šamaš u
+2
+who is in charge of prisoners, refers to him as ‘my lord and beloved Marduk lū dari (= Sallaberger 1999 D, second part). I used the codes
+2
+Sir’ (bēlīja u awīlum rā’imum) (Di 628 Lo.E. 13′). There are also exam- ABCDE in my PhD (unpublished, 1992) and maintain this system here
+ples without awīlum (Di 453 Rev. 5′, ana bēlīja; Di 457 3′, ana awīlim). for practical reasons. Sallaberger’s D is split into two parts because
+2
+10 As could be expected in a late Old Babylonian archive, there was D and E are not always found combined. A-var GN lilabbirka is found
+a substantial number of zeḫpums, quadrangular letters with rounded on several zeḫpums.
+corners, some with and some without address. Address sections are 14 More details about these greeting formulae will be given in a sep-
+skipped on copies of outgoing letters (Janssen 2017, 2). arate publication.
+Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter 335
+selves differently vis-à-vis the chief lamentation priest a number of zeḫpums (13 out of 41), royal letters, the two
+of Anunītum. The full standard option (ABCDE), in most ana šāpirīja/ni letters and a number of letters addressed
+cases with the gods Šamaš and Marduk, is found in many ana bēlīja/ni (15 out of 24). The ‘Adressengruß’, a bless-
+of these letters, and is sometimes even followed by other ing following the addressee’s name, is present in 22 letters
+non-standard formulae. Those with a short selection from of this corpus. Apart from the standard one, with the god
+the standard range (e. g. A, AB, ABE, ...) tend to be concise Marduk (M), exceptionally other deities appear and cus-
+(e. g. A: GN liballiṭka, or B: lū šalmāta only). Some letters tomized formulae (R) are also found in the ‘Adressengruß’,
+do not contain a greeting section at all, as is the case on as is shown in the table below:¹⁵
+‘Adressen- Greeting + Title in a greeting (G), the body of the text (T) or a well-
+gruß’ number of being clause (W)
+attestations
+unaddressed n.a. - (13)¹⁶ None: Di 324. Di 525. Di 602. Di 641. Di 743. Di 760. Di 985.
+zeḫpums Di 1221. Di 1612. Di 1685
+aḫī atta: Di 554 (T) 5. 8. 19; + atḫūtka lūmur Rev. 16. Di 520
+(T) 1. 6. Rev. 12. 16 (= the addressee?)
+abī/abī atta: Di 1883 (T) 1. 4. 6 (abī atta); Rev. 9. 14 (abī); +
+abūtam … lūmur Rev. 14
+n.a. A-var (3) None: Di 883
+aḫī atta: Di 403 (T) Rev. 13. Di 521 (T) 12
+n.a. A-varR (3) None: Di 428
+abī atta: Di 606 (T) 13
+abī/abī atta: Di 175 (G) 7. (T) 9. 10. Rev. 16. 17. 22. 24 (abī
+atta) (T) 25. 26 (abī)
+n.a. R (5) None: Di 401. Di 604
+aḫī atta: Di 344 (T) U. E. 25. Di 469 (T) U. E. 23. Di 1098 (T) 7.
+Rev. 13
+n.a. R-BC…(1) None: Di 982
+broken/- (2) None: Di 839
+bēlī/bēlī atta: Di 627 (T) 2′. 4′ (bēlī atta); (T) Lo.E. 8′. 12′. 18′
+(bēlī). N.B. bēlī kalamāḫum 14′
+…R (1) None: Di 1672 zeḫpum
+ana awīlim – A (1) None: Di 517 (female sender: Iltani)
+– ABE (1) None: Di 450
+15 The following letters have been excluded from the table:
+1. Copies of outgoing letters (Di 167, Di 212, Di 364, Di 371, Di 495, Di
+661, Di 1194)
+2. Outgoing letters that accidentally ended up in the archive (Di
+214, Di 291, Di 642)
+3. Three late Old Babylonian copies of a letter issued by Samsu-
+iluna (Di 976, Di 1668, Di 1771)
+4. Three late Old Babylonian royal letters (Di 1353, Di 1542, Di 1736;
+the last letter is not addressed to the chief lamentation priest but
+to other officials)
+5. A letter to Ipiq-Nin…, which was a discarded letter (Di 2233) 16 In the short note Di 743 (a letter?) and in the exceptional letter Di
+6. A letter ana awīlē (Di 1285) 525, which contains a ‘letter to a goddess’, the third person is used to
+A letter to a female member of the household (Di 372) refer to the addressee.
+336 Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter
+– ABCE (2) None: Di 390 zeḫpum. Di 551
+– ABCDE (47+) None: (44x)¹⁷; + atḫūtka lūmur Di 446 Rev. 36. Di
+2198+2201 Rev. 7′-8′;
+aḫī atta: Di 224 (T) Rev. 27. Di 282 (T) Rev. 8′. 10′. Di 352 (T)
+Rev. 10′
+– ABCDER(5) None: Di 374. Di 375. Di 451. Di 1748. + atḫūtka lūmur Di
+454 Rev. 36.
+M A (1) None: Di 924
+M AB (5) None: Di 292. Di 477. Di 918. Di 1744. Di 1747
+M AE (1) None: Di 522
+M ABE (2) None: Di 505. Di 618
+M ABCE¹⁸ (1) None: Di 605 zeḫpum
+M ABCDE(2) None: Di 380. Di 1352
+M R(?)(1) None: Di 668
+ana abīja – None: Di 649
+ana abīja¹⁹ A (3) None: Di 289
+abī atta: Di 478 zeḫpum (G) 4 (T) Rev. 13.
+abī …/ abī atta: Di 790 (G) (abī ….); (T) 7 (abī atta)
+M AB (1) None: Di 383
+ABE (1) abī/ abī atta: Di 1737 zeḫpum (G) 5 (T) Rev. 9 (abī atta); 5
+(abī).
+ABCE (1) abī/ abī atta: Di 402 zeḫpum (G): 4. 6. 7 (T) 8. rev. 13. 20
+(abī atta); (G) 5 (abī)
+– ABCDE (13) None: Di 662
+abī: Di 229 (G) 4. 5. 6. 7. 8. 9, (T) badly damaged. Di 378 (G)
+4. 5. 6. 8. 9. Di 437 (G) 1′. 2′. 3′. 4′ (T) 6′. 8′. 14′. Lo.E. 15′. Di
+452 (G) 3′. 4′. 6′. 7′(?).
+abī atta: Di 299 (T) Rev. 4′. U. E. 15′
+abī/abī atta: Di 228 (G) 5. 7. 9. 10 (abī atta); (G) 6 (abī); Di
+381 (G) 5. 9. 10 (T) 12 (abī atta); (T) U. E. 32 (abī). Di 622 (G)
+5. 6. 10 (T) 17. Rev. 25. 32 (abī atta); (G) 7. 9 (T) 20 (abī). Di
+227 (T) Rev. 23 (abī atta); (G) 5. 9. 10 (T) 13. Rev. 27 (abī); Di
+282 bis (G) 5 (abī atta); (G) 4. 6 (abī). Di 354 (G) 5. 7. 10 (T)
+12. Rev. 21. 24 (abī atta); (G) 6. 9 (T) rev. 19. U. E. 34 (abī).
+Di 504²⁰ (G) 5. 6 (abī atta); 7. 9 (T) Rev. 4′. 6′. 8′. U. E. 12′
+(abī). Di 659 (G) 4. 6. 10 (T) 13. Rev. 19. 25 (abī atta); (G) 7.
+9 (abī); 29 (abī …)
+M ABCDE abī: Di 384 (G) 4. 5. 6. 8. 9. (T) none
+abī atta: Di 449 (G) 5. 6. 7. 10
+abī atta/ abī…: Di 1023 (G) 4. 5. Rev. 19. 24 (abī atta); (G) 6.
+8. 9 (T) 12 (abī …)
+abī atta/ abī: Di 349 (T) Rev. 1′. 5′ (abī atta); (G) 9 (abī)
+– AR abī atta: Di 321 (G) 4 (T) 10
+– ABCDER (1) abī atta/ abī: Di 435 (G) 4. 5. 6. 8. 9, 11 (T) 13. rev. 35. 30.
+37. 39. Left E. 52. 53 (abī atta); (G) 6 (abī)
+17 Di 210, Di 211, Di 217, Di 223, Di 226, Di 230, Di 231, Di 232, Di 233, Di 18 B and C slightly variant (lu šalmāta lu dariāta; ilum nāṣir
+234, Di 283, Di 293, Di 316, Di 350, Di 351, Di 353, Di 356, Di 357, Di 358, napištīka …).
+Di 446, Di 457, Di 459, Di 461 (address a-na a-…, awīlim restored based 19 To these we should add the following letters: Di 660 abī atta in (T)
+on contents), Di 494, Di 501, Di 502, Di 503, Di 506, Di 516, Di 518, Obv. 3′; Di 664 …CDER, abī (…) in (G) 4′, abī atta in (T) 11′. 13′. 16′, Rev.
+Di 523, Di 584, Di 585, Di 586, Di 611, Di 612 (two senders), Di 615, Di 3′. 8′. 10′. 11′ 13′, Left E 1′.
+616, Di 619, Di 728, Di 731, Di 1364, Di 2198+2201, Di 2199. We should 20 Greeting ABCD…; probably also Di 1631 (ABC…); the body of this
+probably include here Di 283 (AB…), Di 665 (ABC…), Di 727 (ABCD…). text is lost.
+Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter 337
+– R (5) None: Di 455
+abī: Di 448 (G) 8; (T) Rev. 23
+abī atta: Di 838 (T) 7′. Rev. 26. Di 614 (T) Rev. 27
+abī/abī atta: Di 519 zeḫpum (T) 17 (abī atta); (G) 5. 6 (T) Rev.
+16. 20. 23 (abī);
+bēltī Ištar R (1) abī atta: Di 379 (T) 9. Rev. 28
+ana aḫīja M ABCDE (1) aḫī atta: Di 345 zeḫpum (T) 10. Rev. 18 (female sender)
+– AR (1) None: Di 444 (female sender)
+[bēlī u bēltī] (R) AR (1) aḫī atta: Di 373 (T) Rev. 3′ (female sender)
+bēlī u bēltī (R) R (1) None: Di 361 (female sender)
+ana bēlīja²¹ - (14) None: Di 208. Di 434. Di 617 (female sender). Di 799. Di
+1246 zeḫpum
+bēlī: Di 225 (T) 6. 17. Rev. x+14. Di 447 (T) 6. 11. Di 613 (W)
+5. (T) 6. Rev. 14. 18. Di 666 (T) 4. 10
+bēlī atta Di 620 (T) 9. 12. 18. Rev. 27
+bēlī/bēlī atta: Di 315 (T) 4. 10. 15. Rev. 22 (bēlī atta); 14
+(bēlī). Di 391 zeḫpum (T) 12. 13. 15. Rev. 19. 20. 21. 22. 24
+(bēlī atta); 6. 7. 8. Rev. 25. 27. 30. Left E. 33 (bēlī); Rev. 20
+(bēlī…). Di 453 (T) 19 (bēlī atta); 15. Rev. 12′ (bēlī); Rev. 18′
+(bēlī …). Di 663 (T) Rev. 19 (bēlī atta); 5. 10. Rev.17 (bēlī)
+AB (1) None: Di 410 zeḫpum
+AB(!)²² (1) bēlī atta: Di 507 (G) 4. 8. (T) 9. Rev. 35. 36
+R (3) bēlī atta: Di 376 (G) 7. 10. 14. Di 667 (G) 6. 9. text damaged;
+bēlī/bēlī atta Di 377 (G) 7 (bēlī atta); (G) 4 (bēlī)
+(letter from Ur-Utu to Inanna-mansum)
+ana bēlīnī bēlnī: Di 636 (T) Rev. 7′
+2 senders
+ana šāpirīja - (1) šāpirī/šāpirī atta: Di 476 (T) Rev. 17 (šāpirī atta); (T) 4. 14.
+15. Rev. 19. 23. 24. 25 (šāpirī); Rev. 28 (šāpirī …).
+ana šāpirīnī - (1) šāpirnī atta/šāpirnī: Di 253 (T) 5. 6. 11. U.E. 32 (šāpirnī
+3 senders atta); Rev. 27. Left E. 34. 35 (šāpirnī)
+Broken²³ (15)
+When reading the texts, it can be observed that there is formulae. E. g., intercessions on behalf of third parties are
+a relation between the choice of the title of address and typically found in ana awīlim letters; they mostly have
+the contents and purpose of the letter. There is also a cor- long standard greeting sections, occasionally enriched
+relation between the address and the choice of greeting with customized religious formulae. Hence, we can
+confirm that the status of the addressee, the chief lamen-
+tation priest in our case, is not the only determinant for the
+21 To these we should probably add the following letters (address choice of a title of address or greeting formulae. The send-
+lost): Di 285 (T) bēlī (l. x+3); Di 363 (T): bēlī (04′. 08′. Left E.); Di 367 er’s background and the relationship between sender and
+(T) bēlī rev. 19′ (does it refer to the addressee?): Di 382.
+addressee are important factors as well. As Sallaberger
+22 Di 507: B-var: mu-ti-ir gi-˹mil-li˺-ia be-lí at-ta lu da-ri-a-ta. In view
+(1999, 39) convincingly argues, the title of address reflects
+of the positive context I translate ‘returner of my kindness, you, my
+das vom Emittenten intendierte Verhältnis, the way the
+father, may be ever lasting’ rather than ‘avenger’. So far this use was
+attested in personal names (CAD M II, mutīr gimilli, 299a). Obviously, sender conceives his relation towards his correspondent.
+such a personal name must have been rooted in every-day language In zeḫpums, the sender is spoken to as aḫī (my brother),
+use. abī (my father) or bēlī (my lord), i. e., the zeḫpum format is
+23 Di 221 …CDE; Di 355 A…; Di 362; Di 411, ABCDER, text badly dam-
+not limited to one specific context or relation.
+aged; Di 460; Di 463, ABCDE; Di 475, in all probability a letter ana
+Titles of address are also found in the greeting section
+awīlim; Di 479; Di 500, address broken, Adressengruß (M), ABCDE;
+(G), the body of the text (T) and in well-being clauses (W).
+Di 628; Di 648, …E; Di 657 …BCDE; Di 962 …BCE; Di 2202 ABCDE; Di
+2223 greeting ABCDE. Sometimes they are emphatically repeated throughout
+338 Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter
+the text. Thus, the sender underlines the bond between version of the facts with the kalûm-priests (l. 27) and to
+himself and the addressee. The polite distance created put his brothers into manacles (l. 43); the request to issue
+by the use of a title of address can be counterbalanced a royal tablet (l. 37) does not stir up similar feelings, and
+by using a pronoun which draws the addressee nearer to here we find bēlī alone.
+his correspondent (e. g., bēlī atta, ‘you, my lord’). By the In terms of social distance, Sallaberger considers
+repeated use of abī atta and bēlī atta the sender appeals bēlī to be more distant than abī and aḫī, but closer than
+to the addressee’s sense of honour and tries to influence šāpirī (my overseer) or awīlum (gentleman).²⁵ This is in
+his behaviour.²⁴ Sometimes also explicit reference is made agreement with our findings in the letters from the Ur-Utu
+to the nature of the relation (atḫūtum/abūtum, ‘brother- archive: the ‘lord’ is not a truly distant figure but only a
+hood’, ‘fatherhood’), for the same reason. Other expres- person seen through a distant mirror. He can be drawn
+sions of connection (aššumīja, references to personal nearer by the use of atta, and this is frequently the case.
+gods, prayers, …) are frequently found in letters in which But can he be a father, a first brother or a husband?
+the personal relation is stressed.
+The practice of adding personal pronouns before the
+verb – ‘die höflich-nahe Anrede’ – is typical of the late Old
+III The semantic range of the title
+Babylonian context (Sallaberger 1999, 50 and 55) and the
+letters from the Ur-Utu archive contain many examples. As
+bēlum: closeness and distance
+can be seen in the table above, forms in the third person
+and the second person with atta often alternate within the The word bēlum is a common word whose semantic spec-
+same letter. The ‘polite-close address’ is found in all the trum includes a broad range of connotations which play
+categories listed, both in letters with short and long greet- a role in the choice of this title of address. In letters with
+ing sections but tends to be most frequent when the ties female senders, it has been observed that a woman could
+are close. It is occasionally found in letters ana awīlim, use the title bēlī to address her husband, the bēl aššatim, as
+where the tension between the poles closeness and dis- shown by Veenhof (1991, 298 and ibid. n. 22); indeed, in an
+tance is most outspoken; here, the title of address, if used, Assyrian text we find kīma mutija u bēlīja, ‘as my husband
+is aḫī atta. This form of address, in ana awīlim letters, is and lord’ (CAD M, s. v. mutu, 1b, 314a) which confirms that
+definitely marked. In the late Old Babylonian letters, it can the title could be used between wife and husband. But the
+be observed that atta is added when the sender expresses evidence from the Ur-Utu archive shows that gender is not
+the urgency or importance of his requests; we find it espe- the only determining factor. If our working hypothesis is
+cially in reproaches, admonitions, threats, promises, correct, the bēlum can also be the sender’s father or first
+well-wishing, or when requests are repeated. The form brother. How does this metaphor make sense?
+without atta is more frequently found in neutral factual Let us first free ourselves from our preconceptions
+statements (e. g., a sentence about sending tablets), which and see what it means to be a lord. Our main association
+corroborates the idea that the sender uses it to underline with the word ‘lord’ is possibly one of power and author-
+the bond between himself and the addressee, and all the ity; the English word suggests nobility and rank as well. In
+obligations connected to it. This is not only the case when tribal societies where prestige is connected to honour, the
+relatives address the chief lamentation priest, but exam- ability to protect the weak and to take good care of one’s
+ples can be found – to a lesser extent – even in letters to people and belongings are important aspects of being a
+officials. In Di 1194, we observe that the third person bēlī lord.²⁶ It is known that the noun bēlum is used in differ-
+turns into bēlī atta when Ur-Utu’s emotions take the better ent contexts: to address a king (CAD B, s. v. bēlu, 1b, 194 f.)
+of him: he uses it when he implores his lord to verify his or a deity, or to replace the divine name (ibid. 1a, 193 f.);
+25 The closeness is also apparent in early Babylonian letters, where
+24 Sallaberger (1999, 227–234; 240; 264). He gives many examples bēlī (but not šāpirī) is found in formular conditional sentences “when
+from which it is clear how these arguments were built. Scattered ref- you (really) are my brother/father/lord/the ‘lord of my life’/friend…”
+erences to what it means to be a lord can be found in the AbB collec- or “when you are my father and lord” (Sallaberger 1999, 185–191).
+tion. The sender of AbB 2, 86 begs his lord to provide him with a cow 26 Very insightful, though relating to another culture, is the study of
+in replacement of oxen that had been stolen by the enemy. His lines Dresch (1989) on the tribes of Yemen. Even today, in tribal societies,
+include ‘you, my lord, will find obedience wherever you order, by the the head of the clan offers protection, guarantees safety and is bound
+order of Marduk, the god who created you. Nobody will refuse you by a code of honour towards those who are dependent on him. This
+anything, my lord’ (ll. 14–17); there is reciprocity: ‘I, your slave, can can be a permanent relation (relatives, slaves) or a temporary one
+fulfill the wish of you, my lord’ (ll. 29–30). (guests).
+Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter 339
+the address bēlī can be used for private persons as well as The title bēlī suggests an inequality of rank while abī con-
+officials (ibid. 1c-d, 195 f.). The bēl bītim is the head of the jures up a father-son relationship: unequal, but ‘tied by
+house (van der Toorn 1996, 10–xxx). Similarly, the female blood’.³⁰ Sallaberger (1999, 32) mentions that these titles
+counterpart bēltum is used for goddesses, queens and are occasionally combined, and this is not devoid of inter-
+private persons. It means ‘lady’ as well as ‘owner’, and it est for our investigation. In Hammurapi’s code lordhood
+can refer to the lady of the house (CAD B, s. v. bēltu, 187– is compared to fatherhood: Hammurapi defines himself
+xxx). The Old Babylonian bēlum is not unlike the Roman as the bēlum ša kīma abim wālidim ana nīši ibaššû ‘the
+pater familias so that this concept might shed light on the lord, who is like a birth-father to his people’ (CH xli 20–
+Babylonian context as well.²⁷ According to Saller (1999, xxx). In one instance bēlī is used in apposition with aḫī,
+182–193), the pater familias was the oldest living male in my brother, which suggests that there does not have to be
+a direct line of ascent. In the Roman world, he was the a difference in generation, or inequality.³¹ Interesting too
+manager of the estate and the head of the household. is Sallaberger’s observation (1999, 58 f.) that in AbB 7, 130
+He had the right to own houses, land, slaves, furniture, aḫātīja, ‘my sister’, is erased and overwritten by bēltīja in
+equipment, .... He supervised the cultivation of fields, the address section, as indicated by Kraus in AbB 7 108 n.
+construction works, he kept the accounts, … In a narrower 130. The title bēlum/bēltum is at least in some cases inter-
+sense of the word, the pater familias was the testator, who changeable with both abum/ummum (father/mother) or
+helped build the patrimony and took care of his descend- aḫum/aḫātum (brother/sister).³² In this light, the idea that
+ants. To his slaves, the pater familias was supposed to be a seemingly distant appellative refers to a close relative, is
+‘soft like a father’. He was expected to be respectable and most plausible.
+responsible, both financially and morally. Being a pater The self-designation ‘your slave’ is found in many
+familias was not – or at least not in the first place – about ana bēlīja letters. Like the lordship, this slavehood is not
+parenting. Next to him, there was the mater familias, who a social reality. In Old Assyrian letters, even vassal kings
+could also be influential.²⁸ Along similar lines, we see that call themselves slaves (Eidem 2008, 278). In the palace of
+the terms bēlum and bēltum are used in relation to prop- Mari, the self-designation ‘slave’ was used by high offi-
+erty (fields, houses, slaves, domestic animals, silver, mer- cials (Charpin 2004, 250 and ibid. n. 1279). Sallaberger
+chandise, etc) and that being called a lord goes hand in (1999, 44) labels the attitude that its usage reflects as
+hand with certain expectations.²⁹ Indeed, when we study ‘Dienstbereitschaft,’ the readiness to be of help. The rec-
+the use of this title in letter writing, semantics are not the iprocity is eloquently expressed in AbB 12, 175 where the
+whole story; pragmatics come into play as well. The con- sender declares: ‘If you are truly my father and my protec-
+ventional meaning of the word and its connotations are tor (bēl napištīja, literally ‘lord of my life’), help me out
+enriched by the specific context of letter writing and the in this matter and then let me be your slave in perpetu-
+social interactions. The context of the utterance, such as ity! Please!’ The lord is put on a pedestal: he has prestige
+the sender’s intent, his expectations, his relation with the and influence and deserves gratitude; his counterpart, the
+addressee and his feelings at the time of writing influence slave, is humble and subservient. This, again, is framing.
+his language behaviour.
+Sallaberger (1999, 38) indicates that the title of
+address bēlī, like abī, is already attested in letters from
+the times of Hammurapi; to some extent the two titles are
+interconnected, although they seem quite different to a
+modern reader unfamiliar with the Babylonian context.
+30 In the context of letter writing or addressing people, this does
+27 Note that the original Roman term is closer to the bēlum than not have to correspond to a biological reality. Even today, in the Near
+some modern connotations – the pater familias as a severe and ty- East, one could address an elderly man as ‘my father’ or a younger
+rannical patriarch– suggest. As Saller (1999, 182 f.; 193) argued, this person as ‘my brother’.
+term cannot be used as “a short-hand description of Roman family 31 As Sallaberger (1999, 58) explains: ‘Traditionell am nächsten steht
+values or social behavior.” die Anrede als abī “mein Vater”, wie Adressen an abī u bēlī (VI. 49, IX
+28 There was one important legal difference between the pater and 93) oder abbūja u bēlūja (V 239) zeigen, oder die Bezeichnung als abī
+the mater familias: only the male had legal authority (potestas) over u bēl napištīja “mein Vater und ‘Herr meines Lebens’” in einem Brief
+his descendants (children, grandchildren, …) and other members of an [bēlī] (XII 175). Einmalig ist die Steigerung am Ende eines Bittbriefes
+the household (see Saller 1999, 188). bēlī aḫī kâta “meinen Herrn, Dich, meinen Bruder” (IX 175).’
+29 Similarly, the verb bêlum is not only to exercise rulership, but also 32 For the ummī-bēltī connection see examples from Old Assyrian,
+to be in authority over people and property (CAD B, s. v. bêlu, 199). CAD B, s. v. bēltu, 1b, 190a.
+340 Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter
+IV The eight ana bēlīja letters
+A close reading of the eight ana bēlīja letters will allow us
+to determine whether they were indeed written by people
+from the inner circle. The table below gives an overview of
+the main characteristics of these letters:
+Text Sender Greeting warad-ka well-being The addressee’s Contents
+clause where-abouts
+Di 377 Ur-Utu R + - Report about
+temple affairs
+Di 617 Rā’imtum - - oxen and girls Babylon Request and
+(ṣeḫḫerētum) complaint
+Di 613 Ḫuzālum - + Oxen, house Babylon Report about
+and youngsters household
+(ṣeḫḫerūtum) of affairs
+the bēlum
+Di 391 Ilī-iqīšam - + - comes and goesRequest and
+zeḫpum complaint
+Di 208 Kubburum - - Oxen, house Defensive letter
+(answer to com-
+plaints)
+Di 620 Kubburum broken + -/? Defensive letter
+Di 799 Kubburum - - - Report about
+payment
+Di 1246 Kubburum - - - Report about
+zeḫpum intercession
+Note that only Kubburum is represented by more than one the combined presence of the names of Inanna-mansum’s
+letter.³³ sons in the subgroup of ana bēlīja letters, it is likely that
+the sender of Di 377 is Ur-Utu the chief lamentation priest.
+The fact that the sender calls himself Ur-Utu helps us
+IV.1 Ur-Utu’s letter (Di 377) narrow down the time-frame in which this letter can have
+been written. Ur-Utu first appears in the sources under his
+The name Ur-Utu appears as sender in two letters from original name Bēlānum, less than a year before he became
+the archive (Di 377 and Di 229). Only the first is a letter a chief lamentation priest (Di 691, Aṣ 04/05/07) and it is
+ana bēlīja. Ur-Utu’s Sumerian name was rare in Sippar. most likely that the new name was given at the moment
+There may have been name-sakes and chances are that of the ‘transmission of the scepter’, which took place a
+the sender of Di 229 is one of them;³⁴ however, in view of few months before his father’s disappearance from the
+sources, i. e., in the course of the year Ammi-ṣaduqa 5.³⁵ If
+33 Six of the eight letters have been found in the newly installed ar-
+chive room 17, where they were filed in the last months of the house’s (Dekiere 1994, 126) but this does not mean that there were no other
+occupation. Of these, Di 377 must have arrived in the house during Ur-Utu’s. Inanna-mansum, who also had an exceptional name, had
+Inanna-mansum’s lifetime, which means that it was over a decade a name-sake who was a kalûm priest (cf. a.o. MHET I, 53:1 and 60:3).
+old when it was filed there. Two of Kubburum’s letters (Di 799 and Note that the ana abīja letter, unlike Di 377, contains the late Old Bab-
+Di 1246) were still lying about in room 22 (Gasche (1989, 31 and pl. 4). ylonian standard greeting ABCDE.
+They probably would have been transferred if Ur-Utu had been able 35 The most recent document mentioning Inanna-mansum in office
+to complete his work. Letters that indicate that they were sent when is the harvest labour contract Di 1110, dated Aṣ 4/12 diri/15. The first
+the addressee was out of town must have been taken home. text in which Ur-Utu is referred to as chief lamentation priest is Di
+34 We know of one other Ur-Utu, ‘Ur-Utu the elder’, who lived in 990 (Aṣ 4/12 diri/30). Only a fortnight separates this document from
+early Babylonian times, and was remotely related, if not in direct line the last official document issued by his father, as discussed by Tan-
+Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter 341
+this is true, Ur-Utu was already a chief lamentation priest she states that ‘the oxen and the girls are well’, i. e., she
+when he wrote his letter. As for the addressee, the pres- inserts a clause about the household’s well-being. After
+ence of Di 377 in the Ur-Utu archive is best explained by these introductory words, the tone of this unfortunately
+the fact that he had sent it to his elderly father, who lived damaged letter changes abruptly. She complains that she
+under the same roof, in the months preceding his death. is not treated with due respect by Ḫuzālum whom we can
+Ur-Utu uses a customized greeting in which he expresses identify as her brother-in-law:
+his constant devotion for the addressee. No fewer than
+(6) a-na é ú-ul si-in-ni-ša-ku-ma (7) pḫu-za-lum a-na ki-ma pí-ka
+six gods are invoked, starting with Šamaš, the god who
+iš-mu (8) ⸢x⸣[…]-ra it-ta-di ia-a-ti (9) ᵈmarduk ⸢ù⸣ dumu.meš
+appears in Ur-Utu’s name and on his religious seal (see De
+ká.dingir.raki li-ša-di-ma (10) a-na-ka-ma ia i-di na-ak-ra-ku
+Graef/Tanret 2001, 7). Note that the last to be mentioned is
+(11) i-na pa-ni-ia i-na ká.dingir.raki aš-ba-ta (12) […]⸢xx⸣
+‘my mistress Anunītum’, which is additional evidence for e-li-ka la ⸢xx⸣
+determining the sender’s identity: Am I not a woman to the house?! As soon as Ḫuzālum heard your
+words he has rejected … As for me, let Marduk and the inhabit-
+(4) ⸢ik⸣-ri-ib a-na be-lí-ia ak-ta-na-ra-⸢bu⸣ (5) u-mi-ša-am ma-ḫar ants of Babylon reject me, but here, he should not know!³⁸ Am
+4
+dutu diškur da-a dbu-⸢ne⸣-〈ne〉 (6) ⸢d⸣ma-mu ù be-el-ti-⸢ia⸣ an-nu- I a stranger?! You are staying in Babylon on my account; (The …
+ni-tum (7) a-⸢na⸣ be-lí-ia ka-ta li-ib-ba-šu-ú is) not on you!
+May the prayer that I keep praying for my lord, day after day,
+before Šamaš, Adad, Aja, Bunene, Mamu and my mistress
+She threatens to go to her father’s house: a-na é a-bi-ia
+Anunītum, be effective, for you, my lord
+lu-ut-ta-la-⸢ak⸣ (l. 13). What is going on in this household?
+Apparently, there is a claim against her which must be the
+Ur-Utu’s wishes may be more than just a greeting formula
+reason why her husband was in Babylon: ‘the brothers …
+used by a man of religion. When Inanna-mansum trans-
+claimed from me’ (a-ḫu ⸢xx⸣ i-ba-aq-⸢ru-ni⸣-[in-ni], Lo.E.
+mitted the scepter, he had been in office for over four
+19). After some damaged lines, she complains that she
+decades and was probably ailing.³⁶ The reference to prayer
+does not know whether ‘he (who?) will die or live’ (i-ma-at
+may well be a heart-felt expression of his love, devotion
+ù i-ba-al-⸢lu⸣-[uṭ] ú-ul i-di, Rev. 23–24), a reality which may
+and hope that the gods may save his old father. We also see
+be connected to the e’iltum, a potentially life-threatening
+that in spite of his high rank, Ur-Utu humbly calls himself
+‘binding’ occurring in legal contexts, which, as shown by
+his addressee’s ‘slave/servant’ (warad-ka). We understand
+Janssen (1991b), is a recurrent theme in the chief lamen-
+that he honours his father in his role of pater familias, as
+tation priest’s correspondence. Her husband is supposed
+the eldest male in the household. As far as we can judge,
+to be attending court sessions but fails to keep in touch
+the letter was written to inform the addressee that baskets
+with his wife who writes ‘what you are doing all the time
+of silver, gold and precious stones that belonged to the
+I would not know!’ (ša te-te-né-pu-šu a-na-ku ⸢ú-ul i⸣-de-e,
+Edikudkalama (had disappeared?). Similar events are
+Rev. 28–29). She calls him a pauper while at the same time
+described on copies of outgoing letters (Janssen 2017, 20.
+expressing her respect for his father (‘I came to a beggar’s
+27 f.), all of which corroborates the hypothesis that this is
+house! I always respected your father’, ⸢a-na⸣ é ⸢la-ap-ni
+a letter by the chief lamentation priest Ur-Utu.
+al-li⸣-[ik…] [a]-⸢na-ku⸣ qà-qá-ad a-bi-ka ⸢ú⸣-ka-bi-it, ll.
+31–33). At the end of the letter she urges her correspondent
+to send her a quick response. While we did not find a letter
+III.2 Rā’imtum’s letter (Di 617)
+containing his answer to her, he did take her letter home
+and filed it upon his return.
+Rā’imtum’s name appears on a list from which we deduce
+Note that contents of the letter are in sharp contrast
+that she was to Ur-Utu what Ilša-ḫegalli was to Inan-
+with the framing of the address. While Rā’imtum calls her
+na-mansum: his wife.³⁷ Before she comes to the point,
+husband respectfully ‘my lord’, she is furious and full of
+ret (2012, 585 n.2). Note that Ur-Utu appears twice under his original the names of Inanna-mansum, Ilša-ḫegalli, Ur-Utu, Rā’imtum,
+name after he had assumed his office (AbB 11, 107 and Di 2189, dated Lamassāni and Ilī-iqīšam – all members of Inanna-mansum’s nu-
+Aṣ 5/6/6, here possibly for administrative reasons). clear family. This list is dated in the year Ammi-ṣaduqa 5 and con-
+36 Inanna-mansum probably died before the end of Ammi-ṣaduqa 5, tains references to other people close to the household as well.
+unless he was mentally impaired and not able to act when his wife’s 38 Following a valuable suggestion made by A. Cavigneaux, for
+lost tablet recording his donation to her had to be ‘revived’ (Di 1804); which I am particularly grateful, the signs are interpreted as anna-
+see Janssen (2017, 5 n. 30). kam-ma (‘here’, i. e., in Sippar-Amnānum), in opposition with Bab-
+37 Di 725 (MHET I, 42), ll. 1–6. Amounts of barley are followed by ylon.
+342 Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter
+contempt. The letter documents a marital crisis of which In the ana bēlīja letter Di 613 Ḫuzālum calls himself
+we do not know the end, but one thing is sure: the fact that his correspondent’s ‘slave.’ Before coming to the point,
+she uses the ana bēlīja format does not reflect in any way he inserts a well-being clause, referring to the household:
+how she feels about her correspondent. ‘the oxen, the house and the youngsters of my lord are
+well’ (gu ḫi.a é ù ṣe-eḫ-ḫe-ru-tum ša be-lí-ia ša-al-mu, ll.
+4
+4–5) which confirms the proximity between the sender
+IV.3 Ḫuzālum’s letter (Di 613) and the addressee. The latter, we learn, was absent from
+town, which is the reason why a letter was written to com-
+Ḫuzālum is a frequently attested name (> 190 references municate:
+in the Sippar database) throughout the Old Babylonian
+period.³⁹ It is the combined presence of the names of all of (6) iš-tu u 4 -mi be-lí ká.gal ú-ṣú-ú (7) ⸢gu 4 ⸣ḫi.a ⸢ká⸣.gal ú-ul ú-ṣú-ú
+Since the day my lord left the city gate, the oxen did not leave
+Inanna-mansum’s sons and the contents of Di 613 which
+the city gate
+make us believe that this letter was written by Ur-Utu’s
+Like Rā’imtum’s letter, Di 613 must have been taken home
+brother.⁴⁰ In enumerations in the documentary texts from
+and filed upon the addressee’s return. The text proceeds
+the archive, Ḫuzālum is mentioned after his brothers Kub-
+stating that at a given date a person named Ibni-Sin son of
+burum and Ilī-iqīšam (Di 837:13; rev. 21; Di 1194: 12–16; Di
+Marduk-mušallim and the ‘mistress of Sippar’ may ordain
+1784:11′-12′; after Ilī-iqīšam: Di 1762:14–15); he may have
+that Utu-mansum -possibly the kalûm priest known by this
+been the youngest of the brothers. The evidence gathered
+name – ‘will assist.’ The meaning of this passage is not
+by Janssen (1992, 50) and Dekiere (1994, 136 and n. 108)
+entirely clear but it seems more than plausible that this
+shows that the proximity and economic dependency on
+sentence refers to a ritual context.⁴¹ Ḫuzālum expresses
+Ur-Utu is apparent. We saw that he is mentioned in Rā’im-
+the hope that the lord will be able ‘to go out.’ The text then
+tum’s letter as someone who was close to Ur-Utu. Ḫuzālum
+shifts to agriculture (the text is damaged but ‘the field in
+was active as a lamentation priest (kalûm), as several of
+the meander’ is mentioned). The letter included multiple
+his ancestors had been (Di 1646:13 dated Ammi-ṣaduqa
+topics and had been written to inform the lord: ‘I wrote so
+12/4/10); like his brother he was a man of religion. A text
+that my lord would know’ ([a-na] ⸢še⸣-me-e be-lí-ia [aš]-pu-
+from outside the archive attests that he was still alive and
+ra-am, ll. 18–19, end of the text). The contents of this letter
+involved in a parṣum ritual as late as Samsu-ditana 4, when
+are in agreement with the interpretation that the sender
+a new chief lamentation priest named Marduk-muballiṭ
+is Ur-Utu’s brother. Note that here, he seems to get along
+had taken Ur-Utu’s place (CT 48, 45).
+well with his correspondent, which, according to Janssen
+(1992) has not always been the case.
+39 Even within the limited context of the Ur-Utu archive, we find sev-
+eral Ḫuzālums who were active in the late Old Babylonian period, all
+of whom, at some point, crossed paths with the chief lamentation IV.4 Ilī-iqīšam’s letter (Di 391)
+priest. Source: Sippar database.
+40 Ḫuzālum is explicitly referred to as Inanna-mansum’s son in six
+The name Ilī-iqīšam is relatively frequent (> 90 references
+texts: Di 837:13. Di 872:3. Di 1646:13. Di 1762:15. Di 1784:12′, and, out-
+side the Ur-Utu archive, in CT 48, 45 (Dekiere 1994, 125–26 n. 101). in the Sippar-database, most of them late OB; attesta-
+In Di 1194:15, Inanna-mansum is said to have described him, while tions from Hammurapi onwards). But there seems to be
+angry, as ‘the son of a (female) renter of a lodging of a (female) slave little doubt that the sender of Di 391 is a member of the
+of the šangûm of Ṣarpanītum’. This is a cumbersome and mocking household.⁴² As for his status and age, he is the third son
+way to refer to his birth mother, according to Barberon (2005, 94–5;
+eadem, 2012, 226–7). Nevertheless, he is also attested as Ilša-ḫegalli’s
+son (Di 1804:12). His house, next to his mother’s (Di 1804: 13–14, Aṣ
+5/[]/2), was situated between the same lanes as Ur-Utu’s house, as 41 The aforementioned Ibni-Sin son of Marduk-mušallim is known
+shown by Janssen [e.a.] (1994, 92 f.). According to Di 872, he received from a document in the archive, in which he appears as a performer
+barley from Ur-Utu to buy oil, as an advance to his share of the in- of the ḫarimūtum rites. His hand was ‘withdrawn’ from the remain-
+heritance (˹u˺-mi ˹dub-pí˺ ḫa.la-šu iš-ša-ṭá-ru … “the day the tablet der of the debt related to the performance of these rites (Di 755:8 (Aṣ
+4
+of his share will be written, …”, Lo.E. 8–9). This text was written in 13/10/xx)). For these rites see Tanret [e.a.] (1993).
+several years before the final settlement of the inheritance dispute 42 There are two letters whose sender is Ilī-iqīšam. Only one is a let-
+in Ammi-ṣaduqa 12 (Di 932). In Di 1762, the shares of Ilī-iqīšam and ter ana bēlīja (Di 391). The other is a letter ana abīja (?) (Di 289 =
+Ḫuzālum are defined (Kubburum merely appears as a witness in this MHET I, 93); for this letter, there is no evidence that it was written
+text). Ur-Utu rented out a field to Ḫuzālum and Utul-Ištar, the abi by Ur-Utu’s brother. This fragmented letter has a standard greeting
+ṣābim, in Ammi-ṣaduqa 12, thus allowing him to invest in crops (Di formula GN liballiṭ-ka (one god, whose name is lost). The preserved
+1646: 9–17, Aṣ 12/04/10). part refers to a message about people linked to the Adad temple. The
+Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter 343
+mentioned in enumerations. In letters from the archive, can come to Babylon!⁴⁴ After you(r departure), my lord, I have
+a person named Ilī-iqīšam renders services to the chief become … dejected. Let those who see me pray for you, my lord,
+lamentation priest.⁴³ In Di 391, Ilī-iqīšam calls himself the to Šamaš and Marduk!
+sender’s ‘slave’ and is clearly dependent on the lord. He
+portrays himself as a loyal relative who, apart from asking The role of the lord is as described in our framework: he
+assistance against harassment, warns his lord that his is capable of offering protection and livelihood. Ilī-iqīšam
+possessions are at risk. One wonders: is he warning him urges his lord to act quickly. But he is concerned that the
+against his brothers? The letter opens with a statement lord will not be inclined to help him:
+that the sender had fervently hoped for the return of his
+(25) ma-ti-ma ki-ma i-na-⸢an-na be⸣-lí li-ib-ba-šu (26) ⸢ú⸣-ul ⸢ú⸣-ra-
+lord so that his life would become better. Note that the title
+ab-bi-a-am (27) mi-in-di be-lí ki-a-am i-qá-ab-bi um-ma be-lí-ma
+of address bēlī atta/bēlī is used emphatically throughout
+(28) aš-šum šuku ká na-ad-nu ⸢pu⸣-uš-šu-uḫ
+the text, which can be linked to the sender’s neediness:
+Never my lord has made his heart so large for me as now. Perhaps
+my lord will say: “Because of the fact that the provisions of the
+(4) ⸢a⸣-[di] i-na-an-na a-na e-re-eb be-lí-ia ka-ta (5) ⸢uz⸣-na-ia gate are given he will be appeased.”
+ib-ba-ši-a (6) ⸢um-ma⸣ a-na-ku-ma ar-⸢ḫi⸣-iš be-lí i-ir-ru-ba-
+am-ma (7) ⸢na⸣-pí-iš-ti ba-la-ṭi-im be-lí i-qí-iš-ša-am (8) [i]-⸢na⸣-
+He insists that the ‘provisions of the gate’ are not what
+an-na i-nu-ma be-lí a-na ba-la-ṭi-im (9) ⸢te⸣-ru-ba-am (10) [mi]-
+⸢nam-ma⸣ a-na ša pa-na ⸢i-ra⸣-da-du-nim (11) ⸢na⸣-pí-iš-tum he hopes for; he wants the support that his lord had
+⸢iṭ⸣-ṭi-ba-am (12) be-lí at-ta ta-aš-ta-a-la-an-ni (13) ⸢gu⸣-mu-ur earlier assigned to him (these lines are partially damaged,
+li-ib-bi-ia a-na be-lí-ia ka-ta (14) ú-ul ad-bu-ub (15) 1 lú ša li-ib-bu but what can be read is ‘the maintenance that my lord
+be-lí-ia ka-ta (Lo.E. 16) [ša]-⸢ak⸣-nu (Rev. 17) […] li-iṭ-ru-dam-ma
+assigned to me’ (šuku ša be-lí ú-ki-in-nam’, l. 30). Other-
+(18) ⸢gu⸣-[mu]-⸢ur⸣ li-ib-⸢bi-ia⸣ lu-ud-bu-ub-šum-ma (19) a-na
+wise, he risks to starve to death (‘so that I do not die’, la
+be-lí-ia ⸢ka-ta⸣ […] ⸢li⸣-id-bu-ub-ma (20) mi-im-mu-ú be-⸢lí⸣-[ia …
+la] i-ḫa-al-li-⸢iq⸣ (21) ar-ḫi-iš be-lí ⸢at-ta⸣ [šu-up-ra]-⸢am lu⸣-ul-li- a-ma-at, l. 32). He seems to be in a weak position in every
+⸢ma⸣ (22) ar-ki be-lí-ia ⸢ka-ta xx⸣ lu na-di-a-ku-⸢ma⸣ (23) ⸢a-mi- respect. We already knew from the inheritance saga that
+ru⸣-ia ma-ḫar ᵈutu ù ᵈmarduk (24) ⸢a-na⸣ be-lí-ia ⸢ka-ta⸣ li-ik-ru-bu the Inanna-mansum family was at times dysfunctional
+Up to now, my full attention was directed to the entrance into
+and this letter just seems to confirm this. Whether the
+the house of you, my lord. I told myself: “Let my lord enter
+tense atmosphere is related to the incidents following
+quickly, so that my lord gives me a life to live.” But now, when
+Inanna-mansum’s death cannot be confirmed. But there
+my lord came, for life, what does it mean that life has become
+good to those who used to harass me? You, my lord, keep asking is no doubt that this letter was written by someone inti-
+me questions, (but) I did not speak wholeheartedly to you, my mately connected to the household. As for the addressee
+lord. (Let my lord) … send man in whom you, my lord, has put (Inanna-mansum or Ur-Utu), he comes and goes.
+your trust, so that I can fully confide in him, and that he can
+speak to you, my lord …, so that the possessions of my lord
+will not get lost. Write quickly, you (who are) my lord, so that I
+IV.5 Kubburum’s letters
+name Ilī-iqīšam is attested with several different patronymics and In the archive there are five letters whose sender bears
+professions, even within the Ur-Utu archive (Source: Sippar data- the name Kubburum. Four of these are ana bēlīja letters
+base). Apart from the documents discussed above (Di 1762, Di 1784),
+(Di 208, Di 620, Di 799 and Di 1246).⁴⁵ Inanna-mansum’s
+Ilī-iqīšam son of Inanna-mansum is found in two more documents
+(Di 1692 and Di 1769). According to Di 1769 (Aṣ xx/3/[]), Ilī-iqīšam
+had inherited land in Paḫūṣum which he leased to Kubburum (ḫa.
+la ì-lí-i-qí-ša-am dumu ᵈinanna-ma.an.sum šu-ṣu-ut ku-ub-bu-rum 44 For the meaning ‘to go to Babylon’, for elûm, see Sallaberger
+dumu ᵈ⸢inanna⸣-ma.an.sum). It is the latter who rented it out to Ur- (2012, 14).
+Utu, in his lieu (ana qabê Kubburum). This text is discussed and par- 45 One is an ana abīja letter (Di 838), probably sent by another Kub-
+tially transcribed and translated in Tanret/Janssen (1992, 64). Inan- burum, as not only the address but also the relation between the cor-
+na-mansum, when angry, is said to have referred to Ilī-iqīšam’s birth respondents is different. Di 838 includes a greeting formula referring
+mother as the ‘son of a of a sister of the daughter-in-law of Ku…’ (Di to the release of an e’iltum. From the text it is clear that Kubburum
+1194:14); see Janssen (1992, 22) and Barberon (2005, 94 f.). had met the addressee before because of a field that had been vindi-
+43 The sender of Di 384, Ina-esagila-zērum, mentions that Ilī-iqīšam cated by the chief lamentation priest of Marduk. Kubburum gives him
+and the ‘boys’ brought tablets to Babylon on behalf of the chief lam- the instruction to let him take it and promises silver for the purchase
+entation priest; this Ilī-iqīšam transmitted greetings from the family: of the field. He also admonishes the addressee not to be negligent
+‘Ilī-iqīšam informed me that “well-being and life” was received from about what he has written about barley. There is no sign of depend-
+you’ (pì-lí-i-qí-ša-am ú-ša-aš-mi-a-an-ni-ma ˹ša-la˺-mu ù ba-la-ṭú ma- ency. Several Kubburums were active in late Old Babylonian Sippar,
+ḫi-ir-ku-nu-ti, ll. 49–50). In Di 208 Kubburum sends a person named a.o. a judge with whom the chief lamentation priest had several in-
+Ilī-iqīšam with wooden beams to the bēlum’s house. teractions (Source: Sippar database). The judge is mentioned in Di
+344 Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter
+son is found in three documentary texts from the Ur-Utu IV.5.1 Kubburum’s letter Di 208
+archive.⁴⁶ We also find him outside the Ur-Utu archive, in
+two texts from the British Museum. In one of these, he is In Di 208 (= MHET I, 89), Kubburum assures the addressee
+no more than a witness (MHET II/4 no 543), but the other that ‘the oxen and the house’ are well, which can count as
+(MHET II/4 no 525) tells us that in Ammi-ṣaduqa 11/3/24, evidence that this Kubburum is close to the chief lamenta-
+i. e., a year before the final settlement of Inanna-mansum’s tion priest’s household. This letter contains four different
+inheritance, he rented a house from a person named Awīl- topics which reveal that there were regular contacts and
+Sin. Tanret (2005, 2) notes that the house was small, and mutual expectations. Several of them are responses to the
+wonders whether the lack of proper housing was one of addressee’s criticism:
+the reasons why he opposed Ur-Utu so vehemently. That
+(5) aš-šum ⸢ša⸣ ta-aš-pu-ra-am um-ma at-ta-ma (6) ṭe-em é-ia ša
+he was suffering from financial strains is also apparent in 4
+bu-uz-zu-ḫu ú-ul ta-aš-pu-⸢ra⸣-[am]
+Di 208, discussed below.
+As for what you wrote, saying: “You did not send me a message
+Ur-Utu’s brother Kubburum appears as the most head-
+about my house that was raided.”
+strong and independent of the brothers, at least in spirit.
+It is in the letters that he gets his full colours. We learn that
+Kubburum assures his addressee that he took the matter
+after Inanna-mansum put Ur-Utu in charge of everything,
+in hand. He reports that, after inspection, he established
+he felt wronged. According to Ur-Utu, he offered his
+that ½ kor of barley and 11 liters of oil had disappeared but
+wife’s golden earrings (i. e., not silver that he had earned
+that for the rest all the property was intact. He points an
+himself) to an official in order to force his father to divide
+accusing finger at the ‘hostels’ or ‘taverns’ (aštammātum)
+his inheritance and did not shun away from breaking into
+near the temple (ll. 5–14). We know that Ur-Utu accuses his
+one of his dead father’s houses. He conspired with temple
+brothers of robbing many more items from Inanna-man-
+officials and managed to remove his brother from his
+sum’s house in Sippar-Jaḫrurum after his father’s death
+office, at least temporarily, as can be read in Di 167 and Di
+(Di 1194: Lo.E. 23- Rev.26; 32–24). The second topic is
+1194, letters published and interpreted by Janssen (1992).
+cattle. Here too we find a response to a letter displaying
+He also raised a claim against his mother Ilša-ḫegalli
+discontentment, because the addressee had written:
+(MHET I, 69:1–3). Did he have a reason to have a grudge?
+Whence his entitlement? We do not know. Judging by the
+(16) ⸢gu4⸣ḫi.a ša uruki a-na mi-nim giḫi.a ⸢i-ik⸣-ka-lu (17) ⸢gu4⸣ḫi.a
+contents of the letters, of all of Ur-Utu’s brothers, he was nu-ut-tum ⸢a⸣-na mi-nim (Lo.E. 18) giḫi.a ⸢la⸣ i-ik-ka-lu
+the one who bore most responsibilities and who was held Why are the cattle of the town eating reed? Why are our cattle
+accountable when something went wrong. Obviously, it is not eating reed?
+possible that Kubburum had a reason to feel wronged by
+his family and grew bitter and resentful over time.⁴⁷ Note the opposition between the cattle of (the rest of?) the
+town and ‘our cattle’, i. e. family livestock for which Kub-
+burum was held responsible. Kubburum counters the crit-
+icism by pointing out that this neglect is the addressee’s
+own fault, because he had failed to give him the means:
+371:6′. Di 602: rev. 18. Di 291: 4 (=MHET I, 69) (all letters) and Di 846 (19) ki-ma li-ib-ba-ka i-du-ú (20) šuku é itu dirig še.gur .ku
+10 5
+(Aṣ 13/04/20) and would be a good candidate to be the sender of this ú-ul ta-aš-ku-un (Rev. 21) ù ni-nu i-na bu-bu-tim ni-ma-a-at
+letter, who gives legal instructions. As you know well enough you did not supply the provisions for
+46 In Di 1762 he is a witness, in Di 1769 he replaces his brother Ilī- the household for the intercalary month; what about us, should
+iqīšam, and in Di 1784 he appears in a settlement of an inherited we starve to death?’
+debt, as listed by Dekiere (1994, 135–6). Di 1784 was discussed by
+anret (2012, 588).
+As K. Van Lerberghe ([e.a.] 1991, 134) pointed out, cattle
+47 According to Ur-Utu, Inanna-mansum angrily called Kubburum
+eat reed in winter, when barley is scarce. But in this case
+‘the son of Warad-Mamu, the servant of Esagila-mansum, the …’, re-
+ferring to his birth father (N.B. not his birth mother, as was the case not only the cattle are hungry. Kubburum complains
+with his brothers). According to Barberon (2005, 94 f.) Ur-Utu and his that his own family has barely enough to eat because
+brothers were adopted by their mother. Tanret (2012, 587) speculates the addressee had not provided food. Under the circum-
+that the fact that he had another father may have given him a sense
+stances, he argues, he cannot pay the hired workers for
+of vulnerability. Note however that Barberon doubted whether Inan-
+the reed; they wanted food as well, not silver (ll. 22–26).
+na-mansum, as chief lamentation priest, would have had biological
+children (2012, 227 n. 1237). Maybe in his case the insult was stronger The third topic also reflects that there were tensions. The
+because of his father’s lower position. addressee had warned Kubburum that the president of
+Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter 345
+(15) mi-im-ma ša ⸢qá-ti-šu-ma⸣ (16) i-na é a.ba el-qú-ú (17) it-ta-
+the assembly in Sippar-Jaḫrurum would be displeased. He
+pa-ar-〈ra〉-⸢ru⸣ (18) 2 guḫi.a ša be-lí at-ta ta-⸢xx⸣ (Lo.E. 19) i-na
+4
+had given him silver for buying poultry that had to be paid
+qá-ti-ia ú-ul aṣ-ba-at (20) it-ta-pa-ar-ra-ru
+to the fowler’s daughter-in-law. Kubburum retorts that he What was in his hand and I had taken from the paternal estate:
+kept going to Sippar-Jaḫrurum to search ‘for them’ (the they have dispersed; two oxen which you, my lord, … I did not
+fowler’s family) but could not find them. What could he take into my possession. They have dispersed.”
+do about it?
+Kubburum obviously tries to mollify his correspondent.
+(38) [ù a]-⸢na⸣-ku i-na ⸢ud.kib⸣.nunki ia-aḫ-ru-rum (39) ⸢mi⸣-nam
+He adds a blessing in the text in which he refers to Nin-
+e-ep-pu-uš-ma (40) a-wi-lum li-ib-ba-ti-ia ma-li
+sianna as ‘the god who created you’ (context damaged).
+What then shall I do in Sippar-Jaḫrurum? (So) the gentleman
+Ninsianna, the male version of Ištar, is an astral god
+will be angry with me!
+with special importance to the chief lamentation priest/
+Ur-Utu.⁴⁹ By displaying these signs of respect and by
+After this line, which can be read as a simple conclusion
+adopting a god-fearing attitude, he tries to convince the
+or a ‘see if I care!’, he comes to his final point. He sends Ilī-
+addressee of his integrity, it seems. This is the only letter
+iqīšam (most probably his younger brother) with wooden
+in which Kubburum calls himself the addressee’s [slave]
+beams that lay in the house. We see how intertwined and
+(the word is broken but the –ka remains). There seems to
+at the same time disturbed the relation between Kubbu-
+be no doubt about the identity of this Kubburum. Whether
+rum and his correspondent is. Kubburum was dependent
+it is a letter to his father or to his brother (in an early stage
+on the bēlum and there were mutual expectations. The
+of the events) cannot be determined.
+bēlum is in charge of the estate, payments, cattle and
+sustenance. There are multiple interactions; but there is
+distrust. Barley had disappeared; oxen that had not been
+IV.5.3 Kubburum’s letter Di 799
+fed; poultry that had not been paid for. Kubburum shifts
+the blame on the correspondent or somewhere else. There
+Di 799 is a zeḫpum with an ana bēlīja address section. The
+is little doubt that this Kubburum is Inanna-mansum’s
+text is damaged and sentences are incomplete, but we
+son. The atmosphere is very similar to what is described
+understand that there was a problem with a payment of a
+in the inheritance saga (as described by Janssen 1992)
+ḫarimtum (a woman linked to the ḫarimūtum ritual)⁵⁰ for
+from which we know that he had a strained relation with
+which Kubburum and the other people included in the ‘us’
+his brother. In view of the sender’s attitude towards his
+were apparently detained. The detention only makes sense
+addressee, it seems likely that this is a letter addressed to
+when the sender is closely connected to the addressee:
+Ur-Utu rather than to his father. As in Rā’imtum’s letter,
+the choice of the respectful ana bēlīja format reflects the
+(4) […]-xx-ša-ti ᵈ iškur-mu-ša-lim (5)[…] x ki-ma kù.babbar
+nature of the relation between the correspondents but not munus.kar.kid ma-aḫ-ri-ka ub-lam (6) […] x-ma ká.gal ú-ša-ṣi-
+the sender’s actual feelings. an-ni-a-ti (7) […] 7 gín kù.babbar i-na é [xxxx …]
+… Adad-mušallim … as soon as he had brought the silver of the
+ḫarimtum to you, … let us go out of the gate. … 7 shekel of silver
+in the temple/house of …
+IV.5.2 Kubburum’s letter Di 620
+Di 620 is a defensive letter, but the tone is different. The
+the third root letter before a vocalic ending was obligatory and that
+text is in a bad condition but it is clear that property from
+the second root letter was not doubled when this was the case. He
+the paternal estate and two oxen went missing. Kubburum
+accepts this theory with hesitation ‘until a form appears that proves
+asserts that they are not ‘in his hands’:⁴⁸
+the contrary’. We now have an attestation that would induce us to
+revise von Soden’s postulation and revise the form given in the table
+(Di 620:18). Note that on line 17, the scribe seems to be struggling with
+48 This verb belongs to the so-called naparraru group. The N-stem the verb and forgot a(n unstressed) syllable.
+of this group differs from the regular N-stem (Kouwenberg, 2010, 49 In Ur-Utu’s archive, a prayer from Ur-Utu to Ninsianna was found.
+301–305). We note that Di 620:18, the plural appears as ittaparrarū, The special meaning of this god to Ur-Utu is discussed by Tanret
+not as *ittapararrū, as indicated, with a question mark, in Kouwen- (2011, 284 f., with references). See also De Meyer (1982b, 274 f., based
+berg’s table. Kouwenberg (2010, 302 f.) explains that the shift from a on Di 261; and idem 1989b, 213–222).
+doubled second to a doubled third root letter before a vocalic ending 50 The word ḫarimtum is commonly translated as a prostitute. These
+is only attested for the imperfective, and wonders whether or not it women played a role in the rites of Anunītum. Tanret/Van Lerberghe
+means that this phenomenon was restricted to the imperfective. He (1993, 441) maintain that for the Old Babylonian context there is no
+indicates (2010, 303) that von Soden had postulated that doubling evidence that the rites had a sexual nature.
+346 Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter
+There is a document from the archive about the non-pay- mention of flour for the maintenance of the house, of the
+ment of a debt which could possibly shed light on this text awīlum, for the cult, … On this list, a person called Kubbu-
+(Di 1784).⁵¹ Unfortunately, the letter is in a bad shape. The rum is mentioned once (without patronymic) and Zizî is
+purpose of the letter is clear: to inform the lord about a named twice as well (on different days). Both their names
+financial problem that had been solved. are preceded by the signs ‘šu ti.a’ ‘received’. The name
+appears in the list Di 546 (Ammi-ṣaduqa 1) as well, where
+Zizî receives a considerable amount of barley. We under-
+IV.5.4 Kubburum’s letter Di 1246 stand from Di 1246 that Zizî belonged to the people who
+received sustenance from the chief lamentation priest
+Di 1246 is a zeḫpum addressed ana bēlīja. Kubburum and that she fell under his protection. Kubburum wrote
+informs the addressee about a woman named Zizî. She to inform the bēlum about her case and to explain how
+intended to go the ‘Opening of the Gate’ (the name of a he had solved the problem. The Kubburum of Di 1246 was
+festival) with her girls. But when the day came, she had clearly connected to the lord’s house.
+nothing at all:⁵²
+(4) i-na iti kin.ᵈinnin u 4 4?.kam (5) pfzi-zi-i mi-im-ma ba-ši-a-am IV.6 An intimate view of family life: the
+(6) a-na qá-ti-ša ú-ul ir-x
+relation with other texts
+um-ma ši-ma qá-du ṣe-eḫ-ḫe-re-ti-ia a-na pí-ti ká a-al-la-ak
+In the sixth month, the fourth day, Zizî did not have anything
+left at her disposal. She said: “With my girls I will go to the Of all the genres, letters provide us with the best chance to
+‘Opening of the Gate.’” catch a glimpse of the realities of every-day life. A group
+of letters discussed in Janssen (1992; see also Janssen 2017,
+Kubburum reports that he and Awīl-Ištar had turned to 12 n. 48) showed that Inanna-mansum’s sons had serious
+Ipqu-Nabium, and that an oath had been taken. Appar- issues with each other after an elderly Inanna-mansum
+ently, this was necessary to solve the problem because had decided to pass on his scepter to his son Ur-Utu and to
+after the intercession of the awīlum Ipqu-Nabium (proba- put him in charge of everything. Things got even rougher
+bly the gallābum who is mentioned in several letters from after his death and we have the impression that during
+the archive), she was free to go. Who is Zizî? A woman by the seven years it took to solve this matter, the family was
+this name appears in Di 721 (MHET I, 37), an undated list utterly dysfunctional. Serious infractions took place and
+about a large amount of barley that was milled and on Ur-Utu pointed an accusing finger at Kubburum, depicted
+different dates of the tenth and eleventh month. There is as the instigator. At a certain point the property deeds and
+the chains of transmission of all of the brothers had to be
+shown to the judges.⁵³ Ur-Utu asked the authorities to put
+51 According to Di 1784, Šamuḫtum, Adad-mušallim’s wife, filed a
+his brothers in manacles and take them to Babylon. But
+complaint against Ur-Utu and his brothers. Inanna-mansum owed
+her 7 shekels of silver for performing the (unspecified) parṣum rites, at the same time, the brothers needed each other. They
+but the old chief lamentation priest had died. She now claimed had to cooperate to manage the estate, to settle bills and
+this silver from his four sons. Kubburum, Ilī-iqīšam and Ḫuzālum inherited debts (as discussed in Tanret 2012), to run their
+however retorted that Inanna-mansum had put Ur-Utu in charge of
+households and to survive. This is the image that appears
+everything, so that he was the one who should pay the debt. The
+in documents and also in the eight ana bēlīja letters,
+document states that Ur-Utu then paid the seven shekels from the
+which are clearly linked to the household. Ur-Utu seems
+inheritance. If the seven shekels mentioned in the letter are related
+to the same case, we understand that Kubburum had been detained to have been deeply attached to his father. Even in his
+because the silver had not been paid yet; or perhaps it simply had old days, he kept him informed about temple affairs and
+not been paid in full. On the reverse, there is mention of a fourth of prayed for him. Ḫuzālum, though involved in the inher-
+the silver and the remainder of the silver, as specified by contract.
+itance dispute, appears to have been close and loyal to
+Had Ur-Utu initially only paid his own share? For this document see
+Ur-Utu at other times. Ilī-iqīšam was suffering from the
+Janssen (1992, 35). Dekiere (1994, 135–6). Di 1784 was also discussed
+by Tanret (2012, 588). intrigues that plagued the family and did not dare to
+52 References to this monthly festival during which purification rites
+were performed (CAD P, s. v. pītum A, 446 2.2’) are found in AbB 14
+19 (= TCL 1 19). It is listed by Cohen (1993, 362) as the third month in 53 MHET I, 68:15′. A chain of transmission is a dossier of documents
+Susa, but in our text the sixth month is mentioned, like in ABL 496:10 recording the origin and subsequent transfers of real estate, from one
+(Neobabylonian). Landsberger (1915, 112) mentions that the great owner to the next. The basic concepts of the system can be found in
+‘Opening of the Gate’ took place on the fourth day of this month, i. e., Janssen (1996) and a monography about this theme is in preparation
+the same day as mentioned in Di 1246. (Tanret/Janssen).
+Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter 347
+speak up. Kubburum carried many responsibilities but he way of showing one’s respect, but also an appeal to the
+was distrusted. Both he and Ilī-iqīšam depended on the lord’s sense of honour, and the expectations connected
+lord for their sustenance and if the expected support did to it, which is why the title of address is often repeated
+not materialise they went hungry. Rā’imtum felt that she emphatically throughout the letter. Noblesse oblige, or so
+was not treated with due respect by Ur-Utu and she dis- the senders hope.
+liked her brother-in-law Ḫuzālum for being too close to Obviously, this bond between the sender and the
+her husband and divulging unwanted information about addressee is not always of the same nature; the relation of
+her. She felt much respect for her father-in-law but not for lord and slave is not necessarily intrafamilial, as in these
+her husband Ur-Utu. eight letters, and if they are, the correspondents are not
+necessarily so closely related (here our research is ham-
+pered by the fact that we do not have much information
+about the family’s side-branches for Ur-Utu’s generation).
+V Conclusion: what can be learned
+In Ur-Utu’s outgoing letters, bēlī is used for an official who
+from eight ana bēlīja letters could offer support and protection, which is in accord-
+ance with Sallaberger’s observations (1999, 56). The rela-
+We can now confirm that in the eight letters that were the tionship is that of a protector and a protégé. Even the king,
+object of this investigation, about address behaviour in when called bēlī, is not addressed as an authoritarian
+the late Old Babylonian Ur-Utu archive, bēlī is used for a despot but rather as a protector of the land and its people;
+spouse, a father or a first brother. Close relatives are seen as Hammurapi eloquently expressed it, he cared for his
+through a distant mirror. While the title ‘lord’ expresses subjects as if he were their birth father. This lord – like the
+respect, its use is a matter of convention. At the same time, pater familias – is the person whom they would turn to
+the sender could express his or her frustration or con- when in need. It is in this sphere that the bēlum emerges in
+tempt for the addressee in the course of the text. Thus, the the ana bēlīja letters of the Ur-Utu archive, whether intra-
+contents of the letter can be diametrically opposed to the familial or extrafamilial.
+format. In view of the family dynamics, the most heated
+letters were probably directed to Ur-Utu.
+As imagined, the lord is put on a pedestal, and the
+Bibliography
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+self-designation ‘your slave’, which is found in several of
+these letters, is added to underline the sender’s inferiority
+Barberon, L. (2005): Quand la mère est une religieuse. Le cas d’Ilša-
+vis-à-vis the addressee. The insertion of the self-designa-
+ḫegalli, d’après les archives d’Ur-Utu, NABU 89, 94–5
+tion is a matter of choice; it depends on the occasion. Kub- — (2012): Archibab I. Les religieuses et le culte de Marduk dans le
+burum, the disgruntled one, only used it in one of his four royaume de Babylone. Mémoires de NABU 14. Paris
+letters, when he tried to underline his piety and integrity. Charpin, D. (2004): Histoire politique du Proche-Orient Amorrite
+(2002–1595), in: P. Attinger [e.a.] (eds), Mesopotamien. Die
+The absence of greeting formulae in most of these
+altbabylonische Zeit. Annäherungen 4, OBO 160/4. Freiburg,
+letters, which is a striking feature in the late Old Baby-
+25–480
+lonian context, should also be seen as a matter of polite Cohen, M. E. (1993): The cultic calenders of the Ancient Near East.
+distance. The late Old Babylonian arsenal of standard Bethesda
+greetings is used among equals, not between a ‘slave’ and De Graef, K./M. Tanret (2001): Un sceau avec le kišib d’Ur-Utu, grand
+lamentateur d’Anunītum, NABU 2001/1, 6–8
+his ‘lord’. Only Ur-Utu, a chief lamentation priest like his
+De Meyer, L. (1982a): Mubabbilūtum dans une lettre paléo-babyl-
+father had been, includes a greeting section in his letter
+onienne tardive, in: Quaegebeur, J. (ed.), Studia Paulo Naster
+to his old man, but he stays far from the standard for-
+oblata II, Orientalia Antiqua, (= Orientalia Lovaniensia Analecta
+mulae. His greeting has the character of a prayer. Ur-Utu 13). Leuven, 31–36
+calls himself his addressee’s slave. Inanna-mansum’s — (1982b): Deux prières ikribu du temps d’Ammi-ṣaduqa, in: G. Van
+retirement from his office did not alter their relation as Driel [e.a.] (eds), Zikir Šumim. Assyriological studies presented
+to F.R. Kraus on the occasion of his seventieth birthday. Leiden,
+correspondents. His father, the oldest male member of the
+271–8
+household, is treated with due respect.
+— (1989a): Une lettre d’Ur-Utu galamah à une divinité, in: Lebeau,
+The bond between sender and addressee is perma- M./Ph. Talon (eds), Akkadica Supplementum 6. Leuven, 41–43
+nent and two-sided in these letters. The senders write to — (1989b): Le dieu Ninsianna ou l’art de transposer les
+their lord when they are in need, or in order to keep him logogrammes, in: L. De Meyer [e.a.] (eds), Archaeologia Iranica
+et Orientalis. Miscellanea in honorem Louis Vanden Berghe.
+informed about current affairs, financial matters, cattle,
+Gand, 213–21
+the estate and so on. The use of the title is not only a
+348 Caroline Janssen, Address Behaviour in Eight Unpublished ana bēlīja Letter
+Dekiere, L. (1994): La généalogie d’Ur-Utu, gala.maḫ à Sippar- Saller, R. P. (1999): Pater familias, mater familias, and the gendered
+Amnānum, in: H. Gasche [e.a.] (eds.), Cinquante-deux semantics of the Roman household, Classical Philology 94.
+réflexions sur le Proche-Orient ancien offertes en hommage à Chicago, 182–97
+Léon De Meyer. MHE Occasional Publications II. Leuven, 125–41 Tanret, M. (2001): As years went by in Sippar Amnānum..., in
+Dresch, P. (1989): Tribes, government and history in Yemen. Oxford Abusch, T. [e.a.] (eds), Historiography in the cuneiform world.
+Eidem, J. (2008): Apum, a kingdom on the Old Assyrian route, in: P. Proceedings of the XLVe Rencontre Assyriologique Interna-
+Attinger [e.a.] (eds), Mesopotamia. The Old Assyrian period. tionale. Harvard University. Bethesda, 455–65
+Annäherungen 5, OBO 160/5. Fribourg, 265–352 — (2004): Verba volant, scripta non manent: tablettes nomades
+Gasche, H. (1989): La Babylonie au 17e siècle avant notre ère: dans les archives des gala.maḫ à Sippar-Amnānum, in: C.
+approche archéologique, problèmes et perspectives. MHE Nicolle (ed.), Nomades et sédentaires dans le Proche-Orient
+Memoirs I. Ghent ancient. Compte Rendu de la XLVIe Rencontre Assyriologique
+Janssen, C. (1991a): Samsu-iluna and the hungry nadītums, NAPR, Internationale, Paris, 10–13 juillet 2000. Amurru 3. Paris,
+3–39 249–70
+— (1991b): E’iltam paṭārum: awāt ḫadê!, in: L. De Meyer [e.a.] — (2005): Kubburum loue une maison, NABU 2005/4 no. 78, 1–2
+(eds), Mésopotamia et Elam. Actes de la XXXVIème Rencontre — (2008): Find the tablet box. New aspects of archive keeping
+Assyriologique Internationale, Gand, 10–14 juillet 1989. MHE in Old Babylonian Sippar-Amnānum, in: R.J. Van der Spek
+Occasional Publications II. Ghent, 77–107 (ed.), Studies in Ancient Near Eastern world view and
+— (1992): Inanna-mansum et ses fils: relation d’une succession society, presented to Marten Stol on the occasion of his 65th
+turbulente, RA 86, 19–52 birthday, 10 November 2005, and his retirement from the Vrije
+— (1996): When the house is on fire and the children are gone, Universiteit Amsterdam. Bethesda, 131–47
+in K.R. Veenhof (ed.), Houses and households in Ancient — (2011): Learned, rich, famous and unhappy: Ur-Utu of Sippar, in:
+Mesopotamia. Papers read at the 40th Rencontre Assyri- K. Radner/E. Robson (eds), The Oxford handbook of cuneiform
+ologique Internationale, Leiden, July 5–8, 1993. Leiden, culture. Oxford, 270–87
+237–46 — (2012): Of wills and bills. On inherited debts in the Ur-Utu Archive,
+— (2012): The guard who molested gentlemen … a letter ana awīlē, in: T. Boiy [e.a.] (eds), The Ancient Near East: a life. Festschrift
+from the Ur-Utu archive, in: T. Boiy [e.a.] (eds), The Ancient Karel Van Lerberghe. Orientalia Lovaniensia Analecta 220.
+Near East: a life. Festschrift Karel Van Lerberghe. Orientalia Leuven, 585–598
+Lovaniensia Analecta 220. Leuven, 281–94 Tanret, M./C. Janssen (1992): Ana qabê: qui remplace qui?, NABU
+Janssen, C. [e.a.] (1994): Du chantier à la tablette. Ur-Utu et l’histoire 1992/3 no. 85, 63–66
+de sa maison à Sippar-Amnānum, in: H. Gasche [e.a.] (eds), Tanret, M./K. Van Lerberghe (1993): Rituals and profits in the Ur-Utu
+Cinquante-deux réflexions sur le Proche-Orient ancien offertes archive, in: J. Quaegebeur, (ed.), Ritual and sacrifice in the
+en hommage à Léon De Meyer. MHE Occasional Publications II. Ancient Near East. Orientalia Lovaniensia Analecta 55, 435–449
+Leuven, 91–123 van der Toorn, K. (1996): Family religion in Babylonia, Syria and
+Kouwenberg, N. J. C. (2010): The Akkadian verb and its Semitic Israel. Continuity and change in the forms of religious life.
+background. Languages of the Ancient Near East, Winona Lake Leiden/New York/Köln
+Landsberger, B. (1915): Der kultische Kalender der Babylonier und Van Lerberghe, K./G. Voet (1991): Sippar-Amnānum: The Ur-Utu
+Assyrer, Leipzig Archive. MHE Texts I, Ghent
+Sallaberger, W. (1999): “Wenn Du mein Bruder bist, …” Interaktion Veenhof, K. R. (1991): Assyrian commercial activities in Old
+und Textgestaltung in altbabylonischen Alltagsbriefen. Babylonian Sippar – some new evidence, in: D. Charpin [e.a.]
+Groningen (eds), Marchands, diplomates et empereurs. Etudes sur la
+— (2012): Das Ansehen eines altorientalischen Herrschers bei civilisation Mésopotamienne offertes à Paul Garelli. Paris,
+seinen Untertanen, in: G. Wilhelm (ed.), Organization, 287–303
+representation and symbols of power in the Ancient Near East. — (1996): Houses and households in Ancient Mesopotamia. Papers
+Proceedings of the 54th Rencontre Assyriologique Interna- read at the 40th Rencontre Assyriologique Internationale,
+tionale at Würzburg 20–25 July 2008. Winona Lake, 1–20 Leiden, July 5–8, 1993. Leiden
+

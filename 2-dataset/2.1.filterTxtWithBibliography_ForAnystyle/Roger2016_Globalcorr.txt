@@ -1,0 +1,335 @@
+# METADATA
+Author: Roger M.
+Title: Global correlation and uncertainty accounting
+Year: 2016
+Source_ID: Roger2016_GlobalCorr
+Source_Type:Article in Journal: 
+Source_Role,Step_distance: 2,3,4 
+Pages: 184-190 
+Web: DOI 10.1515/demo-2016-0009
+
+# TEXT
+
+Depend.Model.2016;4:184–189
+ResearchArticle OpenAccess
+RogerM.Cooke*,SassanSaatchi,andStephenHagen
+Global correlation and uncertainty accounting
+DOI10.1515/demo-2016-0009
+ReceivedMay23,2016;acceptedJuly12,2016
+Abstract:Forahighdimensionalfieldofrandomvariables,globalcorrelationisdefinedastheratioofaver-
+agecovarianceandaveragevariance,anditselementarypropertiesarestudied.Globalcorrelationisusedto
+harmonizeuncertaintyassessmentsatglobalandlocalscales.Itcanbeestimatedbythecorrelationofran-
+domaggregationsoffixedsizeofdisjointsetsofrandomvariables.Illustrativeapplicationsaregivenusing
+croplosspercountyperyearandforestcarbon.
+Keywords:globalcorrelation,forestcarbon,uncertaintyaccounting.
+MSC:62H11,62P12,62P30.
+1 Introduction
+Thisnotedefinesglobalcorrelation,studiesitselementarypropertiesandillustratesitsuseinglobaluncer-
+taintyaccountingforcroplossandforestcarbon.Therichliteratureonmultivariatecorrelationcanreceive
+onlypassingmention.Conicalcorrelation[6]concernsthemaximalproductmomentcorrelationbetween
+linearcombinationsoftworandomvectors,interclasscorrelation[10]describesthecorrelationsingrouped
+data.Multiplecorrelationandthecorrelationratio[9]relateasinglevariabletoasetofvariables.Random
+correlationmatrices[5]andthedistributionoftheirdeterminants[4,13]havesparkedinterestinthe(scaled)
+determinantofthecorrelationmatrixasameasureofmultivariateassociation.UsingVines[1,2,8,12]have
+madeprogressinunderstandingrandomdeterminantsofcorrelationmatrices.Microcorrelationshaveat-
+tractedattentionfortheirroleinlimitingtheextentofsecuritizationandrisksharing[11],andalsofortheir
+roleinamplifyingtaildependence[3].Theproblemsdiscussedhereinvolveupto4billionvariables,and
+harmonizinguncertaintyquantificationatdifferentscalesofaggregationrequiresnewtechniques.
+2 Methods
+Thecorrelationofrandomaggregatesisusedtoestimateglobalcorrelation.Allrandomvariablesareassumed
+tohaveafinitesecondmoment.Thefollowingfactsanddefinitionsareused:
+1) IfX1 ,X2 areiidrandomvariableswithstandarddeviationσ,then
+E(X1 −X2 )2 =2σ 2.
+2) IfX1 ,...,X
+N
+haveaveragevarianceσ 2andaveragecovariancec,definedas
+σ 2 =
+(cid:80)N
+i=1
+VAR(X
+i
+)
+and c=
+(cid:80)
+i≠k
+COV(X
+i
+,X
+k
+)
+,
+N N(N−1)
+*CorrespondingAuthor:RogerM.Cooke:ResourcesfortheFuture,E-mail:cooke@rff.org
+SassanSaatchi:JetPropulsionLaboratoryCaliforniaInstituteofTechnology
+StephenHagen:AppliedGeoSolutions
+©2016RogerM.Cookeetal.,publishedbyDeGruyterOpen.
+ThisworkislicensedundertheCreativeCommonsAttribution-NonCommercial-NoDerivs3.0License.
+Globalcorrelationanduncertaintyaccounting | 185
+then
+(cid:32) n (cid:33)
+VAR (cid:88) X =Nσ 2+N(N−1)c (1)
+i
+i=1
+and,consequently,c≥−σ 2/(N−1).
+3) Define ρ = c/σ 2 astheglobalcorrelationof X1 ,...,X
+N
+.Let X1 ,...,X
+N
+and Y1 ,...,Y
+N
+haveaverage
+varianceσ 2andaveragecovariancec,bothwithinandbetweencomponents.Thatis
+σ 2 =
+(cid:80)N
+i=1
+VAR(X
+i
+)
+=
+(cid:80)N
+i=1
+VAR(Y
+i
+)
+N N
+and
+c=
+(cid:80)
+i≠k
+COV(X
+i
+,X
+k
+)
+=
+(cid:80)
+i≠k
+COV(Y
+i
+,Y
+k
+)
+=
+(cid:80)N
+i=1
+(cid:80)N
+k=1
+COV(X
+i
+,Y
+k
+)
+.
+N(N−1) N(N−1) N2
+Thenfrom(1)oneobtains
+(cid:32) (cid:88) N (cid:88) N (cid:33) N 2 c Nρ
+ρ X , Y = = . (2)
+i i Nσ2+N(N−1)c 1+(N−1)ρ
+i=1 i=1
+Theabovecorrelationconvergesto1asN →∞,foranyρ >0.Ifρ >0andN >>1,then
+(cid:32) N (cid:33)
+StDev (cid:88) X =σN(N −1+ρ(N−1)/N)1/2 ∼σNρ 1/2.
+i
+i=1
+Thisshouldbecomparedtothecasewherec=0,whichholdsiftheX areindependent:
+i
+(cid:32) N (cid:33)
+StDev (cid:88) X =σN 1/2.
+i
+i=1
+Withindependence,theuncertainty(standarddeviation)ofasumofNrandomvariablesgrowswithN 1/2,but
+asmallglobalcorrelationcausesthegrowthtobelinearinN.Toappreciatethis,letρbetheglobalcorrelation
+oftheamountofforestcarbonperhectare;wewishtoassesstheuncertaintyofglobalforestcarbonbasedon
+theaveragevarianceintheestimatesperhectare.ThenumberofhectaresofforestontheearthisN =4E9.
+Withρ=0.001,wehave
+1/2
+σNρ
+=2000.
+σN1/2
+Thedifferencebetweenthecasesρ=0andρ=0.001ishuge.Recallthe
+Cauchy-SchwarzInequality:foranyx,y∈RN,wehave
+(cid:32) N (cid:33)2 (cid:32) N (cid:33)(cid:32) N (cid:33)
+(cid:88) x y ≤ (cid:88) x 2 (cid:88) y 2 . (3)
+i i i i
+i=1 i=1 i=1
+Equalityin(3)holdsifandonlyify =Ax forsomeA∈R.Withy =1,wehave
+i i i
+(cid:32) N (cid:33)2 N
+(cid:88) x ≤N (cid:88) x 2, (4)
+i i
+i=1 i=1
+withequalityifandonlyifthex areconstant.Equivalently,ifx=(cid:80)N x /Nwehave
+i i=1 i
+N
+N (cid:88) x 2 ≥(Nx)2 (5)
+i
+i=1
+orx 2 ≤(cid:80)N x 2/N(aversionofJensen’sinequality)withequalityifandonlyifthex areconstant.
+i=1 i i
+186 | RogerM.Cooke,SassanSaatchi,andStephenHagen
+3 Results and Discussion
+Lemma1. Forallx∈RN,wehave(N−1)(cid:80)N x 2 ≥(cid:80) x x .
+i=1 i i≠k i k
+Proof.Putx = (cid:80)N x /N.Then(N−1)(cid:80)N x 2 ≥ (cid:80) x x ⇔(N−1)(cid:80)N x 2 ≥ (cid:80)N x (Nx−x ) = (Nx)2−
+i=1 i i=1 i i≠k i k i=1 i i=1 i i
+(cid:80)N
+x
+2
+⇔N
+(cid:80)N
+x
+2 ≥(Nx)2whichis(5).
+i=1 i i=1 i
+Lemma2. Withthenotationasaboveforρ,σ,c;withσ = VAR(X )1/2 ,c = COV(X ,X ),ρ = c /(σ σ )
+i i ik i k ik ik i k
+andtheaveragecorrelationdefinedas
+(cid:80)
+ρ
+ρ * = i≠k ik,
+N(N−1)
+wehave:
+(i) Ifσ =σ foralli≠k,thenρ=ρ * ;
+i k
+(ii) ρ≤1;
+(iii) Ifρ=1thenρ =1foralli≠k.
+ik
+Proof.(i)isimmediate.(ii)(cid:80) (σ −σ )2 ≥ 0⇔2N(N−1)σ 2 ≥ 2(cid:80) σ σ andusingc ≤ σ σ itfollows
+i≠k i k i≠k i k ik i k
+thatσ 2 ≥c.(iii)Supposeρ=c/σ 2 =1;then(cid:80) c /(N(N−1))=(cid:80)N σ 2/Nor(cid:80) c =(N−1)(cid:80)N σ 2 ≤
+i≠k ik i=1 i i≠k ik i=1 i
+(cid:80) σ σ since c ≤ σ σ .However,fromLemma1weseethat(N −1)(cid:80)N σ 2 ≥ (cid:80) σ σ .Hence(N −
+i≠k i k ik i k i=1 i i≠k i k
+1)(cid:80)N σ 2 = (cid:80) σ σ orN (cid:80)N σ 2 = ((cid:80)N σ )2.BytheCauchy-Schwarzinequality(see(4))alltheσ are
+i=1 i i≠k i k i=1 i i=1 i i
+thesame.By(i)ρ=ρ * =1.Sinceeachρ ≤1andρ * =1,itfollowsthatρ =1.
+ik ik
+(cid:16) (cid:17)
+Writingρ = ρ (cid:80)N X ,(cid:80)N Y weconstructacontinuousversionofρ asfollows.Solve(2)forthe
+N i=1 i i=1 i N
+globalcorrelationρ:
+ρ
+ρ= N . (6)
+N−(N−1)ρ
+N
+Replaceρ byf(x),x >1.For0≤ρ≤1write:
+N
+f(x)=ρ[x−xf(x)+f(x)]. (7)
+Differentiatingbothsidesof(7):
+f(cid:48)(x)=ρ[1−f(x)−xf(cid:48)(x)+f(cid:48)(x)],
+f(cid:48)(x)[1+ρ(x−1)]=ρ[1−f(x)],
+f(cid:48)(x) d[ln(1−f(x))] ρ
+=− = ,
+1−f(x) dx 1+ρ(x−1)
+ 
+(cid:90) ρ
+f(x)=1−exp  − 1+ρ(u−1) du . (8)
+1<u≤x
+Equation(8)providesagraphicalrepresentationoftherelationbetweenρ andρ(seeFigure1).
+N
+Globalcorrelationanduncertaintyaccounting | 187
+4 Example: crop loss
+Crop loss claims per US county per year are tabulated from 1980–2008 (data available at http://www.rff.
+org/events/event/data-climate-change-and-extreme-events).Restrictingtocountieswithoutzeroentries,a
+datasetof1334countiesisobtained.Forthisdatasettheaveragevarianceoverallcountiesandtheaverage
+covariancebetweenpairsofcountiescanbecomputed.Theirratioistheglobalcorrelation,0.103,asshown
+inTable1.Randomaggregationofdisjointpairsofsize1,10,20,50,100and200countiesarealsocon-
+structedandcorrelationsoftheaggregatesarecomputed.Iteratingthisprocess2000times,thecorrelation
+ofdisjointrandomlydrawnaggregatesareestimatedbyaveragingoverthe2000iterations.Pluggingthese
+estimatesinto(6)yieldsestimatesoftheglobalcorrelation,alsoshowninTable1.
+Global Correlation and Uncertainty Accounting
+Table1:UScroplossinsuranceclaimsfrom1330countieswithoutnullentries,1980-2008.
+Estimates of Global Correlation from Aggregate Correlation, 2000 iterations
+Aggregation size 1 10 20 50 100 200
+Average correlation 1.98E-01 5.89E-01 7.30E-01 8.73E-01 9.31E-01 9.64E-01
+STDev of correlations 2.64E-01 1.71E-01 1.11E-01 4.92E-02 2.47E-02 1.33E-02
+Global correlation estimate 1.97E-01 1.30E-01 1.20E-01 1.18E-01 1.16E-01 1.16E-01
+Average Variance 6.33E+12
+Average Covariance 6.49E+11
+Global Correlation 1.03E-01
+TabTloe 1il:l UusSt rcarotep tlhoses uinsseuroafn(c8e )c,lsaiumpsp forosemt 1h3e3g0 lcoobuanlticeos rwreitlhaotiuot nnuilsl eensttriimesa, t1e9d80b y- 2a0v0e8r.a gingthecorrelationsof
+2000samplesofdisjointpairsofcountiesofsize20.ThevaluefromTable1is0.120.Pluggingthisvalueofρ
+To illustrate the use of eqn (6), suppose the global correlation is estimated by averaging the
+into(8),thecurvef(x)approximatingρ isplottedinFigure1.Thetruevaluesofρ computedwiththetrue
+correlations of 2000 samples of disjoNint pairs of counties of size 20. The valuNe from Table 1 is
+globalcorrelation0.103aregivenforN =20,50,100,200.Inthiscase,averagingthecorrelationsof2000
+0.120. Plugging this value of ρ into eqn (6), the curve f(x), approximating ρ(N) is plotted in
+aggregationsofsize20wouldgiveareasonableestimateoftheglobalcorrelationandofthecorrelationsof
+Figure 1. The true values of ρ(N) computed with the true global correlation 0.103 are given for N
+largeraggregations.
+= 20, 50, 100, 200. In this case, averaging the correlations of 2000 aggregations of size 20 would
+give a reasonable estimate of the global correlation and of the correlations of larger aggregations.
+Figure1:Plotoff(x)(see(8))usingρestimatedfrom2000aggregationsofsize20,andtruevaluesofρN ,N =
+20,50,100,200,computedwiththeactualglobalcorrelation.
+Figure 1: f(x) (eqn(6) ) using ρ estimated from 2000 aggregations of size 20, and true values of ρ(N), N =
+20,50,100,200, computed with the actual global correlation.
+Example: Uncertainty in Global Forest Carbon
+There are 11.3 E9 global hectares of biologically productive surface, of which approx 4E9 are
+forested. The terrestrial biosphere reservoir contains carbon in organic compounds in vegetation
+4
+188 | RogerM.Cooke,SassanSaatchi,andStephenHagen
+5 Example: Uncertainty in global forest carbon
+Thereare11.3E09globalhectaresofbiologicallyproductivesurface,ofwhichapprox4E09areforested.The
+terrestrialbiospherereservoircontainscarboninorganiccompoundsinvegetationlivingbiomass(450to
+650PgC,IPCCAR5https://www.ipcc.ch/report/ar5/).[7]gives385-650GtC,statingthat70 ∼ 90%of
+thatpoolasforest.Using80%givesarangeof360 ∼ 520(IPCC)or308 ∼ 520[7]GtCinEarth’sforests.
+TheIPCCvaluesgiveaforestcarbonglobaldensityrangeof90∼130tC/ha.Assumingthat360and520GtC
+aretwoindependentsamplesfromouruncertaintyontheglobalforestcarbonpool,wemayballparkthis
+uncertaintyas
+VAR(globalforestcarbonpool)∼1/2(160)2 [GtC]2.
+StDev(globalforestcarbonpool)=113E09[tC].
+Using(1):
+113E09=σ4E09((4E09)−1+ρ)1/2[tC],
+28.25=σ(2.5E−10+ρ)1/2, (9)
+whereσistherootoftheaveragevarianceofforestcarbonin[tC/ha],andρ = c/σ 2.Thechallengeistofind
+valuesofσandρthat“harmonize”withuncertaintyinforestcarbonatthegloballevelandthemeandensity
+of90∼130tC/ha.
+Ifρ = 0,thenσ = 1.8E06tC.Thiswouldbeanextremelyfattaileddistributionthatisnotprimafacie
+plausible.Ifρ = 1,thentheaverageuncertainty(standarddeviation)oftC/hawouldbe28.3.Initself,this
+valueisnotpreposterous,butρ=1is.InthiscaseLemma2(iii)entailsthattheuncertaintyofthecarbonin
+anytwohectaresisperfectlycorrelated.
+[14,TableII]suggestσisintheorderof10%ofthemeasuredvalueupto100tC/ha,linearlyinterpolated
+between10%and30%upto150tC.Fortheaboveglobaldensityrange,thatyieldsanestimateofσ=9∼18.
+Puttingσ=9∼18tC/hain(9),wegetρ=2.5∼9.9,whichisimpossible.
+Eithertheestimatesofuncertaintyatthegloballevel(LHSof (9))mustcomedownortheuncertainty
+atthehectarescale(σ)mustbelargerthansuggestedin[14],inorderthatthetwocanbecombinedwitha
+plausiblevalueofρin(9).Ifρ =0.1thenσ =89.5tCwhichisintherangeoftheaveragedensitybutlarger
+thanexpectedonthebasisofexistingliterature.
+6 Conclusion
+Correlationsofrandomaggregationscanbeusedtoestimateglobalcorrelation.Thisquantityisimportant
+whentryingtorelateuncertaintyatglobalscalestouncertaintyatlocalscales.TheIPCCAR5estimatesof
+uncertaintyinglobalforestcarbonmustcomedown,orlocalestimatesofuncertaintyincarbonmeasure-
+mentsperhectaremustgouptoachieveconsistency.Statisticalpropertiesofestimatorsofglobalcorrelation
+remaintobeexplored,andmoreinequalitiesbetweenglobalandaveragecorrelationcanprobablybefound.
+References
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+[1] Bedford,T.andR.M.Cooke(2002). Vines–anewgraphicalmodelfordependentrandomvariables. Ann.Statist.30(4),
+1031–1068.
+[2] Cooke,R.M.(1997).Markovandentropypropertiesoftreeandvine-dependentvariables.InProceedingsoftheSectionon
+BayesianStatisticalScience.AmericanStatisticalAssociation,AlexandriaVA.
+[3] Cooke,R.M.,C.Kousky,andH.Joe(2011). Microcorrelationsandtaildependence. InDependencemodeling,pp.89–112.
+WorldSci.Publ.,Hackensack,NJ.
+Globalcorrelationanduncertaintyaccounting | 189
+[4] Hanea,A.M.andG.F.Nane,(2016).TheAsymptoticDistributionoftheDeterminantofaRandomCorrelationMatrix.Preprint
+availableathttp://arxiv.org/abs/1309.7268.
+[5] Holmes,R.B.(1991).Onrandomcorrelationmatrices.SIAMJ.MatrixAnal.Appl.12(2),239–272.
+[6] Hotelling,H.(1936).Relationsbetweentwosetsofvariates.Biometrika28(3/4),321–377.
+[7] Houghton,R.A.,F.Hall,andS.J.Goetz(2009). Importanceofbiomassintheglobalcarboncycle. J.Geophys.Res.Bio-
+geosci.114(G2).
+[8] Joe,H.(2006). Generatingrandomcorrelationmatricesbasedonpartialcorrelations. J.MultivariateAnal.97(10),2177–
+2189.
+[9] Kendall,M.G.andA.Stuart(1967). TheAdvancedTheoryofStatistics.Vol.2:InferenceandRelationship. Secondedition.
+HafnerPublishingCo.,NewYork.
+[10] Koch,G.G.(2006).Intraclasscorrelationcoefficient.InEncyclopediaofStatisticalSciences6.JohnWiley&Sons,NewYork.
+[11] Kousky,C.andR.M.Cooke(2011).Thelimitsofsecuritization:micro-correlations,fattailsandtaildependence.InK.Boecker
+(Ed.),Re-ThinkingRiskMeasurementandReporting,Uncertainty,BayesianAnalysisandExpertJudgement,pp.295–330.
+RiskBooks,London.
+[12] Lewandowski,D.,D.Kurowicka,andH.Joe(2009). Generatingrandomcorrelationmatricesbasedonvinesandextended
+onionmethod.J.MultivariateAnal.100(9),1989–2001.
+[13] Nguyen,H.H.andV.Vu(2014).Randommatrices:lawofthedeterminant.Ann.Probab.42(1),146–167.
+[14] Weisbin,C.R.,W.Lincoln,andS.Saatchi(2014).Asystemsengineeringapproachtoestimatinguncertaintyinabove-ground
+biomass(agb)derivedfromremote-sensingdata.Syst.Engin.17(3),361–373.
+

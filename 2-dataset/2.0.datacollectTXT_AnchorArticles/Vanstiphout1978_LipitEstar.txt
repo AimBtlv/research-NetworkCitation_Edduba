@@ -1,0 +1,1199 @@
+# METADATA
+author: Vanstiphout H.
+source_id:Vanstiphout1978_LipitEstar
+title: Lipit Eštar's Praise In The Edubba
+Year: 1978
+Source_ID:  Vanstiphout1978_LipitEstar
+Source_Type:  Article in Book: Journal of Cuneiform Studies
+Source_Role,Step_distance: 0,1,2 ,3,4 
+Pages: 33-61
+Web: 
+Published: The University of Chicago Press on behalf of The American Schools of
+Oriental Research
+
+# TEXT
+
+Lipit-Eštar's Praise in the Edubba
+Author(s): H. L. J. Vanstiphout
+Source: Journal of Cuneiform Studies, Jan., 1978, Vol. 30, No. 1 (Jan., 1978), pp. 33-61
+Published by: The University of Chicago Press on behalf of The American Schools of
+Oriental Research
+Stable URL: https://www.jstor.org/stable/1359932
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+The American Schools of Oriental Research and The University of Chicago Press are
+collaborating with JSTOR to digitize, preserve and extend access to Journal of Cuneiform
+Studies
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE IN THE EDUBBA
+H. L. J. Vanstiphout
+Rifksuniversiteit Groningen
+1. Introduction
+The hymn edited below,1 also known as Li B (Lipit-ettar Hymn B) or
+"Lipit-7star, King of Justice, Wisdom and Learning,"2 is not mentioned in
+any catalogue so far, although it seems to have been very popular as an
+exercise text in schools. Its relative brevity (60-odd lines) and clarity may
+partly account for this.
+The hymn was first treated by H. de Genouillac in RA 25 (1928) 149-54;
+he only used the Louvre text (our text A) and one fragment of our text B
+(CBS 13967=PBS 5 67=PBS 13 49). R. Jestin reedited the text in RA 40
+(1945) 47-54, and gave a few philological notes. A. Falkenstein did a
+splendid translation in SAHG (1953) pp. 123-26, and W. Rimer edited the
+text in Konigshymnen (1965) pp. 23-29, with translation, apparatus, and
+lexical notes, using our text A, the published fragment of text B, texts C, F,
+G, and school "buns" S1, S2, and S8. Many more fragments have since been
+identified, mainly in the tablet collections of the University Museum in
+Philadelphia. During a visit to the University Museum in April 1977,3 1 was
+able to join six fragments to CBS 13967, thus obtaining an almost complete
+tablet originally containing the whole composition (see pls. 1 and 2). Some
+other texts seem to be fragments of other complete recensions, a few are
+school exercises of different formats, and there are now six more school
+"buns." All this new material, but especially the reconstructed tablet B as a
+virtually complete Nippur text, justifies a new edition.
+1. Prof. A. W. Sjdberg not only entrusted me with the edition of this hymn and of Li A
+(forthcoming), but also gave generously of his time and learning in discussing several details.
+To him, as to everybody in the University Museum Tablet Room, go my heartfelt thanks. The
+photographs were taken by G. Haayer, and the excellent hand copy on pl. 4 is by G. Farber-
+Fhlgge. The following abbreviations for Sumerian literary compositions have been used in the
+commentary and/or footnotes: Li A: Lipit-e~tar Hymn A: see provisionally R6mer,
+K6nigshymnen pp. 29-38; ELA: Enmerkar and the Lord of Aratta: see n. 9 below; LU:
+Lamentation over the Destruction of Ur: see provisionally Wilcke, Kollationen p. 57; LN:
+Lamentation over the Destruction of Nippur: see provisionally Wilcke, Kollationen p. 54;
+LSU: Lamentation over Sumer and Ur: see provisionally Wilcke, Kollationen p. 59; Sulgi B:
+Sulgi Hymn B: see provisionally Castellino, Two Sulgi Hymns (Rome, 1972).
+2. See S. N. Kramer, ISET 1, Introduction p. 37.
+3. The Faculty of Letters of Groningen University provided me with a generous grant for
+this visit. Some other results will be published in the near future, including a revised edition of
+Li A, and complete editions of the Ur and Nippur lamentations. Furthermore, a not
+unimportant number of joins were made in the texts of LU, LSU, LN, Li A, Li B, and Sulgi B.
+33 JCS 30/1 January 1978
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+34 H. L. J. VANSTIPHOUT
+2. The Manuscripts
+Text A: AO 8863 (TCL 16 87) is a hexagonal prism containing the
+complete text. It was found in Larsa, and bears the date iti Se-gur10-ku5 /
+mu sa-am-su-i-lu-na lugal-e / ugnim ya-mu-ut-ba-lum, i.e., Month
+Addaru, 10th year of Samsu-iluna.4 The long lines are broken up into
+shorter bits. Dub-sag-X precedes the first line, probably indicating that
+the tablet used as a model for this prism started its obverse here (see SL
+138,46a and AHw 2 926 s.v. qudmu="front side").
+Text B: tablet from Nippur containing the whole composition,
+reconstructed from CBS 13967 (PBS 5 67=PBS 13 49) + N 1509 +
+N 1537 + N 1553 + N 1739 + N 4176 + N 6282. This six-column
+tablet also breaks up the lines, but not exactly in the same way as A.
+Text H: UM 29-16-145, from Nippur, is a fragment of a six-column tablet
+originally containing the complete text; subdivision of lines nearly as in
+B.
+Text E: CBS 13380 could be another fragment of a "complete" edition,
+but the state of preservation of the reverse precludes any identification;
+disposition of lines and columns nearly as B and H.
+Text F: Ni 1601 (ISET 1 48=106) is a school tablet which originally
+contained the whole text on its obverse(?) and devoted the rest of the
+tablet to a lexical text; the hymn is divided over three columns and the
+lines are broken up.
+Text C: CBS 14134 (STVC 78) is an oblong school extract, originally
+containing lines 1 through 19; most lines are left intact.
+Text G: Ni 3042 (SLTN 69) is a school extract of the same type as C: it is
+square or oblong in form, and has intact lines; the reverse is not
+inscribed.
+Text I: CBS 6668 is also a squarish school extract; the lines are broken up,
+the script is rather crude, and the reverse is a lexical exercise.
+Text J: CBS 6943 is of the same type as I: a square school extract, with
+crude script and broken lines. I cannot place the reverse(?).
+Texts S1-S,: "bun"-shaped school exercise tablets, on which the teacher
+wrote one line on top which the student had to copy underneath. All
+texts, except the duplicates S7=Ss from Ur, come from Nippur.
+4. See TCL 16, Introduction pp. 11-12.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 35
+3. Reconstruction
+A: AO 8863 (TCL 16 87) i : 1-11 iv: 38-47
+ii : 13-24 v: 48-59
+iii: 25-37 vi: 60-63
+B: CBS 13967+ (pp. 52-53) obv. i : 1-11 rev. iv: 35-47
+ii : 12-21 v: 48-58
+iii: 24-35 vi: 59-63
+C: CBS 14134 (STVC 78; p. 54) obv. 1-8; rev. 17-19
+E: CBS 13380 (p. 55) obv. i 1-8
+ii: 32-38
+F: Ni 1601 (ISET 1 48=106) obv. i : 13-25
+ii : 35-48
+iii: 59-63
+G: Ni 3042 (SLTN 69) obv. 18-24
+H: UM 29-16-145 (p. 56) obv. ii 18-20 rev. iv: 44-47
+iii: 31-35
+I: CBS 6668 (p. 55) obv. 28-31
+J: CBS 6943 (p. 57) obv. 35-38
+Si: CBS 6501 (PBS 1/2 138; p. 57) 2
+S2: CBS 7874 (PBS 13 36; p. 58) 14
+S3: CBS 7866 (p. 58) 18
+S4: Ni 5038 (ISET 1 66=124) 19
+S5: CBS 7876 (p. 59) 20
+Se: CBS 7869 (p. 59) 45
+S7: UET 6/2 351 49
+S8: UET 1 269 49
+S,: CBS 4075 (p. 60) 57
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+36 H. L. J. VANSTIPHOUT
+4. The Text
+1. dli-pi-it-e4-tir lugal sag-il nun-bira-ga ABC
+2. b6-du7 isimu nam-lugal-la ABCSI
+3. dutu-ginx du Se-er-zi-kalam-ma ABC
+4. nam-nun-Sh mab me-gal-la u5 ABC
+5. ub-da limmi un ki-gar-ra ABC
+6. Se-ga den-.lil-.le dnin-lil-le ki-gga ABC
+7. Sul-zi igi-gfin bira-ga tum-ma ABC
+8. men aga-zi sag me-te gil ABC
+9. Sibir tu-du7 sag-gi6-ga AB
+10. nun dli-pi-it-e4-tir dumu-den-lil-hi sipa igi-gil-tuku ABE
+11. un labx-labx-e gissu-du1o-ga u4-sahar?-e ni-dib-bu ABE
+12. en alim mai an-n6 ki-gga BE
+13. giskim-ti-zu-um ama-dnin-lil-ki ABEF
+14. dli-pi-it-e4-tr i-nun bu-mu-te-gil ABEFS2
+15. gi lkl-ginx du1o mu du1,-ge du7 ABEF
+16. vt-ge tum-a dam-dinanna ABEF
+17. den-ki-ke4 ge&st6-dagal sag-ge-et rig7-ga ABCEF
+18. dnisaba munus ul-la guin-a ABCEFGHS
+19. munus-zi dub-sar nin ni-nam zu ABCFGHS4
+20. si-zu im-ma si ba-ni-in-si ABFGHS5
+21. ~t-dub-ba-ka gu-sum mi-ni-in-Sa6-ta, ABFG
+22. gi-dub-ba ki-sigx-ka Su mu-ni-in-gin AFG
+23. gi-difs-ninda 61-gina za-gin AFG
+24. git.as4-lum le-um igi-gil sum-mu AFG
+24a. dnisaba-ke4 Su-dagal ma-ra-an-du1 ABFG
+25. dli-pi-it-e4-tir dumu-den-lil-i-me-en ABF
+26. ni-zi ni-gi-na pa bi-e-i AB
+27. en la6-zu an-z -tS na-dul? AB
+28. dli-pi-it-e4-tir lugal umu~s-gal-gal-la ad-gi4-gi4 ABI
+29. inim-ma nu-ksT-i gal-zu ka-as-bar un-e si-s5A ABI
+30. gesti-dagal ni-nam gal-le-e&s zu ABI
+31. di-kur-kur-ra-ke4 si s8-s8-e-db ABHI
+32. inim Ei-ga gil-la lul-zi-bi mu-e-zu ABEH
+33. dli-pi-it-e4-tr i-erim-ra gur5-ut mu-e-ta-ab-&-db-en ABEH
+34. ka-nir-da ka-giri-kin du, 16i zi-zi-i mu-e-zu ABEH
+35. nam-tag-dugud ka-garni-kam 16 til-le mu-ni-in-zu ABEFHJ
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 37
+5. Translation5
+1. Lipiteastar, proud king, enthroned prince,
+2. Most fit offshoot of kingship,
+3. Who walks like Utu, brilliant light of the Land,
+4. Lofty in nobility, riding the great ordinances,
+5. Who settles the people in the four quarters,
+6. Favoured by Enlil, beloved by Inanna,
+7. True youth with shining eyes, worthy of the throne
+8. (Whose) head is adorned with the tiara, the true crown,
+9. (Who is) perfectly equipped with the sceptre over the Blackheads,
+10. Prince Lipit-estar, son of Enlil, wise shepherd,
+11. Who leads the people into sweet shadow, relaxing moonlight?,
+12. Lord, great bison, beloved by An,
+13. Your trust is (put in) the mother of Ninlil.
+14. Lipit-estar, you are granted princely power;
+15. (Your) name, a sound as sweet as honey, is perfect for speaking;
+16. Longed-for husband of Inanna,
+17. Whom Enki gave broad wisdom as a gift.
+18. Nisaba, the woman radiant with joy,
+19. The true woman scribe, the lady of all knowledge,
+20. Guided your fingers on the clay,
+21. Embellished the writing on the tablets,
+22. Made the hand resplendent with a golden stylus.
+23. The measuring rod, the gleaming surveyor's line,
+24. The cubit ruler which gives wisdom,
+24a. Nisaba lavishly bestowed upon you.
+25. Lipit-estar, you are Enlil's son;
+26. Truth and justice you make manifest;
+27. Lord, your goodness covers even the horizon.
+28. King Lipit-e'tar, counsellor of great judgment,
+29. (Whose) word never falters, wise one (whose) decision provides
+justice for the people;
+30. Great mind, knowing all things deeply,
+31. In order to lay down the law for all foreign countries,
+32. You perceive falsehood and truth even from the words hidden in the
+heart.
+33. Lipit-estar, you rage against the enemies,
+34. From evil and oppression you know how to save people,
+35. From sin and destruction you know how to free them.
+5. Italics indicate tentative translations (or guesses).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+38 H. L. J. VANSTIPHOUT
+36. i-tuku sa-gaz nu-mu-un-Si-ak-e ABEFJ
+37. kala-ga si-ga li-bun nu-mu-un-ak-e ABEFJ
+38. ni-si-si ki-en-gi-ki-uri-a mu-ni-gar ABEFJ
+39. su-kalam-ma mu-du1o ABF
+40. dli-pi-it-e 4-thr lugal-i-si-in.ki-na ABF
+40a. lugal-ki-en-gi-ki-uri-me-en ABF
+41. nibru.ki-i, dub-sar-re-me-en ABF
+42. 6-kur-re 6-en-lil-li ABF
+42a. dli-pi-it-e4-tr sag-is-bi za-e-me-en ABF
+43. den-lil dnin-lil-ra ki-iga-I,-ba-me-en ABF
+44. ur-sag dnin-urta makim kala-ga-zu-um ABFH
+45. dnuska sukkal-mab i-dah inim-ma-zu-um ABFHS6
+46. isib ke~i.ki-16 dnin-tu-re ABFH
+46a. zi-db-ei p8-da-me-en ABFH
+47. uri.ki-Sb gil-la Sul gil-tuku dsuen-na-me-en ABFH
+48. den-ki-ke4 eridu.ki-ta aga-zi sum-ma-me-en ABF
+49. ki-unug.ki-ga kfi-dinanna-ra AB
+49a. d 4li-pi-it-e-tir bi-i- -ga-na-me-en ABSS,
+50. dnin-i-si-in-na-ke4 i-si-in.ki-na AB
+50a. bira-mah-zu mi-ni-in-ri AB
+51. i-lu-~i-ga mu-bala-as-ga AB
+52. nun-e nun-urux diri-gal-mah-bi AB
+53. ad-da-zu di medda-gan lugal-kalam-ma-ke4 AB
+54. gi,.gu-za-na subuS-bi mu-ra-an-ge-en AB
+55. inim-dun-ga an-den-lil-lhi-ta AB
+56. du17-nim-kur-kur-ra si-a mu-ni-in-gar AB
+57. dli-pi-it-e'4-tir dumu-den-lil-li-me-en ABS9
+58. ni-gi-na-zu ka-ka mi-ni-in-gil AB
+59. z&-mi-zu 6-dub-ba-ka im-e nam-tag4-tag4 ABF
+60. dub-sar-e a-le h6-em-Si-ak-e ABF
+60a. gal-le-ei b6-i-i AF
+61. ir-zu 6-dub-ba-ka miYs nam-ba-an-tfim-mu ABF
+62. sipa gi-tuku Sul dumu-den-lil-li ABF
+63. dli-pi-it-e 4-tir zA-mi ABF
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 39
+36. The mighty do not perpetrate robbery,
+37. And the strong do not make the weaker ones into hirelings-
+38. Thus you established justice in Sumer and Akkad,
+39. And made pleasant (the life of) everybody in the Land.
+40. Lipit-eatar, king of Isin, king of Sumer and Akkad,
+41. To Nippur you are the Scribe;
+42. To the Ekur, Enlil's house,
+42a. Lipit-eAtar, you are its provider;
+43. For Enlil and Ninlil you are the love of their hearts;
+44. The hero Ninurta is your powerful guard,
+45. And vizier Nuska enforces your decisions.
+46. You are the Psib-priest for KeA, whom Nintu
+46a. Truly chose.
+47. Installed in Ur, you are the youth who has the attention of Suen.
+48. You are the one whom Enki gave the true tiara in Eridu.
+49. For holy Inanna in the region of Uruk,
+49a. You, Lipit-eAtar, are her heart's delight.
+50. Ninisinna in Isin
+50a. Made you sit on your lofty dais.
+51. With a hearty song of joy, in a prosperous regnal year,
+52. The prince, the valiant prince surpassing in greatness and nobility,
+53. Your father Ihme-dagan, king of the land,
+54. Stabilized the foundation of your throne,
+55. And upon the order spoken by An and Enlil
+56. He silenced the loud strife of the foreign countries.
+57. You, Lipit-eatar, Enlil's son
+58. Have put your righteousness on everybody's lips;
+59. Your praise shall never disappear from the clay in the Edubba;
+60. May every scribe therefore sing of this bliss
+60a. And glorify (you) greatly,
+61. So that your laudation in the Edubba shall not cease.
+62. O leading shepherd, youthful son of Enlil,
+63. Lipit-eatar, be praised!
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+40 H. L. J. VANSTIPHOUT
+6. Apparatus6
+1. A: dli-pi-[ ]-tr [ i / sag-il nun-bAra-ga
+B: dli-pi-it-eS4-tr lugal / sag-il nun-bAra-ga
+C: [ ]li-pi-it-eS4-tAr lugal / [ ]-il nun-bAra-ga
+2. A: rb61-du7 isimu / rnam1-lugal-la
+B: b6-du7 isimu / nam-lugal-la
+C: [ -Fdu7l isimu nam-lugal-la
+S: b6-du7 isimu / nam-lugal-la
+3. A: dutu-gin, du / Se-er-zi-kalam-ma
+B: dutu-gin, du / ,e-er-zi-kalam-ma
+C: [ ]utu-gin, du ,e-er-zi-kalam-ma
+4. A: nam-nun-1, mab / me-gal-la u5
+B: nam-nun-1, mab / rmel-gal-la 'u'51
+C: FnamL-nun-S, mab me-gal-la u5
+5. A: ub-ta limmi / un ki-gar-ra
+B: [ ]-da [ ] / [ ] ki-gar-rra1
+C: [ ]-da limmii un ki-gar-ra
+6. A: Se-ga den--le / dnin-lfl-le / kiAga
+B: [ ] -rga1 [ ] / [ ]-lil-le ki-Aga
+C: [ ] ga den-lil-lA dnin-lil-le ki-rAgal
+7. A: Sul-zi igi-gin-nu / bira-ga trim-ma
+B: [ ]-zi igi-gin / [ ]-rgal t6rnm-ma
+d: sul-zi igi-gin bAra-ga rtim'-[ ]
+8. A: men agal-zi / sag me-te rgAl1
+B: [ ] ragal X? zi / [ ]-rtel gal
+C: men-zu? aga-rzi1 rsag mel-te[ ]
+9. A: ,ibir ,u-dus / sag-gi6-ga
+B: [ ]-du7 / rsag-gie1-ga
+10. A: nun dli-pi4-it-e-tAr / dumu-den-lil-1l / sipa igi-gil-tuku
+B: nun d[ ] / dumu d[ i sipa igi-rgPl1#[ ]
+E: nun d[ ]-pi-it-ea-1 / [ ]-li1-la / [ ]-gAl-tuku unl lab,-lab,-e
+11. A: un labe,-rlab, -[ ] / gissu-du1o-rgal1 / [ ]-rsabar?!-X1 [ ]
+B: un lab,-rlab,l-[ ]/ [gis]su-dulo-[ ] / u4-rsabar?l'-e ni-d6ib-[ ]
+E: (see 10) [ ]-duxo-ga u4-rsabar?PI-e ni-dtib-bu
+12. B: en ralim' mab / an-n6 ki-Aga
+E: [ ] alim maj an-n6 ki-Aga
+13. A: giskim-ti-zu / ama-dnin-l-lk
+B: giskim-ti-rzul-um / ama-dnin-lil-lh
+E: [ ]-rtil-zu rama-dnin-ld -1l
+F: [ ]-rti-zul-um / [ ]-rnin1-lil-l,
+14. A: dli-pi-it-e4-tAr / a-nun / b6-mu-e-te-gAl
+B: dli-pi-it-eS,4-tr / A-[ ] bu-mu-te-gAl
+E: [ ]-pi-[ ]-rtbr1 / [ ] rbu-mul-te-gAl
+F: [ ]-it-el4-tAr / [ ] rbu?'-mu-te-gAl
+Sz: dli-pi-it-e,4-tAr / a-nun ju-mu-te-gAl
+15. A: go lAl-gin, d91o / mu du1,-ge du7
+B: [ ]-gin, duo / [ 1] rdu11-ge1 du,
+E: [ ] du1o mu du,1-ge du1o
+F: [ ]-gin, duo / [ ]-ge du,
+6. I have tried to keep as closely as possible to the Nippur text of MS B. Oblique strokes (/)
+indicate the subdivision of the lines.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 41
+16. A: d-ge tum-a / dam-dinanna
+B: [ ]-ral dam-dinanna
+E: [ ]-ral dam-dinanna
+F: [ ]-e? trim / [ ]inann~a
+17. A: ge'tt-UST? / den-ki-ke4 / sag-e-et rigT-ga
+B: [ ]-rke4?' getti-dagal / [ ]-bt rigT-ga
+C: [ ] / sag-rgel-[ ]
+E: [ ] ge~tti-dagal / [ ] rrig71-ga
+F: [ ] getti-dagal / rsagl-[ ] rigT-ga
+18. A: dnisaba / munus ul-la guin-a
+B: [dlnisaba / munus [ ] gin-a
+C: dnisaba munus ul-la gin
+E: [ ] rgin'-a
+F: dnisaba ul-la gin-a
+G: dnisaba munus ul-la ginl-[ ]
+H: [ ]Fnisabal /[ ]-a
+S3: dnisaba munus ul-la gin-a
+19. A: munus-zi dub-sar / nin ni-nam zu
+B: munus-[ ]-sar / nin [ ] zu
+C: munus-zi dub-sar ni-nam? Fzul
+F: munus-zi dub-sar / nin ni-nam zu
+G: [ ]-zi dub-sar nin ni-nam rzul
+H: [ ]-sar / [ ] zu
+S4: munus-zi Fdubl-sar / nin ni-nam zu
+20. A: si!-zu im-rma1 / si ba-ni-in-[ ]
+B: si-zu [ ]-ma / si ba-[ ]-si
+F: si-zu im-ma / si ba-ni-in-sd
+G: Fsil-zu im-ma si ba-ni-in-sd
+H: [ ]-ma / [ ]-sa
+Ss: [ ]-zu im-ma / [ ] ba-ni-in-sd
+21. A: S&-dub-ba-ka / gu-sum mi-ni-in-9as-6a6
+B: ~A-dub-[ ]-ka / gu-sum [ ]-,a6
+F: s&-dub-ba-ka / gu-suml mi-ni-ga6-"a6
+G: g ll-dub-ba-ka gu-sum mi-ni-in-Sa6-a6
+22. A: gi-dub-ba-a ki-sig,-ga / [ ] mu-ni-in-g6in-nu
+F: gi-dub-ba ki-sig,-ka / su mu-ni-in-gin
+G: gi-dub-ba ki-sig,-ka Su mu-ni-in-gin
+23. A: [ ]-des4-ninda/ [ ]-gAna-za-gin
+F: gi-dit-ninda / 6tl-gina-za-gin
+G: gi-diT-ninda 61-gina-za-gin
+24. A: [ ] le-um / [ ] sum-mu
+F: as4-lum le-um-e / igi-gAl sum-mu
+G: giT.as4-lum le-mu-um igi-gAl sum-mu
+24a. A: [ ] Fnisabal-ke4 /[ ]-.du,,?'
+B: dnisaba-ke4 / Su-dagal ma-ra-an-du,,
+F: dnisaba-ke4 / [ ]-rdagall mal-ra-an-du,1
+G: dnisaba-ke4 Su-dagal mal-ra-an-du,1
+25. A: dli-pi-it-Fe4-t~irl / dumu-den-lil-ld-me-en
+B: dli-pi-it-e4-tr / dumu-dn-lil-l8-me- en1
+F: [ ] lil-pi-it-eS4-thr / [ ] en-lil-lh-me-en
+26. A: 16-zi-gi-na / pa ba-
+B: ni-zi ni-gi-na / pa bi-e-6
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+42 H. L. J. VANSTIPHOUT
+27. A: en Sa6-zu / an-zA-SA na-dull
+B: en ,a6-[ ] / an-rz&1-[ ]
+28. A: dli-pi-it-e,-tr / lugal-umuMl-gal-gal-la / ad-gi4-gi4
+B: dli-pi-it-eSa-tr / lugal-umuS-gal-gal-la / ad-gi4-gi4
+29. A: inim-ma nu-k6i-li / gal-zu ka-a,-bar / un-e si-sA
+B: inim-ma nu-k6i-[ ] / gal-zu [ ] / un-[ ]
+I: inim-ma nu-kii,-6i / gal-zu ka-a,-bar / un-e si-sA
+30. A: getti-dagal / ni-nam gal-le-eI zu
+B: GIS.[ ] / ni-[ ]
+I: ge~ti-dagal / ni-nam gal-le-eb zu
+31. A: di-kur-kur-ra-ke4 / si s8-s8-e-ds
+B: di-[ ] / [
+H: di-kur-kur-ra-[ ] / si s8-sfi-[ ]
+I: di-kur-kur-ra-ke4 / si sl-e-rdb& DU>
+32. A: inim IA-ga gil-la / lul-zi-bi mu-e-zu
+B: rinim1 [ ] / rlull [ ]-zu
+E: inim SA-ga rg~l1-[ ] / lul-zi-bi [ ]
+H: inim d-ga gil-la / lul-zi-bi mu-e-zu
+33, A: dli-pi-it-e4-thr / [ ]-erim-ra / [ ]-uS mu-e-ta-ab-&-ds
+B: [ ]-it-el4-tgr / [ ]-rNE1.RU-ra / [ ] mu-e-ta-ab--de-en
+E: dli-pi-[ ] / 16-NE.[ ] / r gursl-uS mu-[ ]
+H: dli-pi-it-e4-t~r / 16 erim-ra / gur5-uS mu-e-ta-/ab-r1~-dd-en
+34. A: ka-nir-da / ka-giri-kin du,, / 16i zi-zi mu-e-zu
+B: [ ]-da ka-giri-kin du1, / [ ] rzi1-zi-i mu-e-zu
+E: ka-nir-rda1 [ ] / 16 zi-[ ]
+H: ka-nir-[ ] /ka-giri-kin du,, / [ ] zi-zi-i mu-[ ]
+35. A: nam-tag-dugud / ka-gardS-ka / 16 ti-la mu-e-zu
+B: rnam1-tag-dugud / ka-gard-kam / [ ] rti1-le mu-ni-in-zu
+E: nam-tag-[ ] / 16i ti-[ ]
+F: [ ] / [ ]-rkaml / 16 til-le mu-ni-in-zu
+H: rnam1-tag-rdugud1 / rka1-gar,-[ ] / [ ] ti-[ ]
+36. AJ: :A [- t]u-krud usag-ugdazl // [ [] -]m-rug-uarn,-1Si--kakam-e / [ ]-le mu-ni-rin1-zu
+B: A,-tuku [ ]-gaz / nu-mu-un-rti1-ak-e
+E: A-tuku [ ]
+F: A-tuku sa-gaz / nu-mu-un-Si-ak-e
+J: r'Al-tuku sa-gaz / nu-mu-un-ti-ak-[ ]
+37. A: [ ]-ga rsil-ga / [ ]-bun nu-mu-un-aka
+B: kala-ga [ ]-rga?' / li-rbun1 [ ]-aka
+E: kala-ga si-[ ] / rli?3'-[ ]
+F: kala-ga si-ga / hi-bun nu-mu-un-ak-e
+J: kala-ga [ ] / h16-bun nu-mu-run1-[ ]
+38. A: ni-si-sA / ki-en-gi-ki-uri / mu-e-ni-gar
+B: nt-si-rs' [ ] / mu-ni-[ ]
+E: ni-si-s, [ ] / [ ]
+F: ni-si-s, / ki-en-gi-ki-uri-a / mu-ni-gar
+J: ni-si-s, ki-en-rgi1-[ ] / [ ]-rni'-gar
+39. A: sul-kalam-ma mu-e-du1o
+B: su-kalam-[ ]
+F: su-kalam-da mu-du1o
+40. A: dli-pi-it-e-tr / lugal-1-si-in.ki-na
+B: dli-[ ] / lugal-1-[
+F: dli4-pi-it-eS4-tr / lugal-1-si-in.ki
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 43
+40a. A: lugal-ki-en-gi-ki-uri
+B: lugal-ki-renl-[ ]
+F: lugal-ki-en-gi-ki-uri-me-en
+41. A: nibru.ki-, / dub-sar-re-me-en
+B: nibru.ki-,i rdubl-[ ]
+F: nibru.ki-4, / dub-sar-re-me-en
+42. A: 6-kur-re / 6-den-lil-[1
+B: 6-kur-re 6-drenl-[
+F: 6-kur-re / 6-den-lil-1-ta
+42a. A: dli-pi-it-e-tir / sag-is-bi za-e-me-en
+B: dli-pi-it-e,4-tir / sag-tis-bi (eras.) za-e-[ ]
+F: dli-pi-it-e,-tr / sag-tis-bi za-e-me-en
+43. A: den-lil-e /dnin-lil-ra / ki-Aga-8&-ba-me-en
+B: den-lil-dnin-lil-ra / ki-Aga-S,-ba-me-en
+F: den-lil-dnin-lil-ra / ki-iga-bl-ba-me-en
+44. A: ur-sag dnin-urta / maikim / kala-ga-zu
+B: ur-sag dnin-urta / rmatkiml kala-ga-zu-rum1
+F: ur-sag dnin-urta / matkim kala-ga-zu-um
+H: [ ] / matkim kala-ga-[ ]
+45. A: dnuska / sukkal-mab / A-dab inim-ma-zu
+B: dnuska rsukkall-[ ] / A-dab inim-ma-zu-[ ]
+F: dnuska sukkal-mab / i-rdab iniml-ma-zu-um
+H: dnuska sukkal-rmab1 / rldab inim-ma-zu-ruml
+So: dnuska sukkal-mab / i-dab inim-ma-zu-um
+46. A: iTib kei.ki-id / dnin-tu-re
+B: iTib keti.ki-I, / dnin-tu-re
+F: iTib ke~si.ki-a-,I / dnin-tu-re
+H: itib kesi.ki-is / dnin-tu-re
+46a. A: zi-dd-eS / pA-da-me-en
+B: zi-dd-eS p8-da-[ ]
+F: zi-dd-eS p&-da-me-en
+H: zi-dd-eS / p&-da-me-en
+47. A: uri.ki-Sh gAl-la / Sul gi~s-tuku / dsuen-na-/me-en
+B: uri.ki-Sh gil-la / ~Sul gis-tuku dsuen-na-me-[
+F: uri.ki-,I gAl-la / Sul giT-tuku dsuenl-na-me-en
+H: ruril.ki-I, gAl-la / r'ull giT-tuku / [ ]
+48. A: den-ki-ke4 / eridu.ki-ta / agal-zi sum-ma-me-en
+B: [ ] / [ ]-ren'
+F: den-ki-ke4 eridu.ki-ta / aga-zi sum-ma-me-en
+49. A: ki-unug.ki-ga / ki-dinanna-ra
+B: [ ] rinanna-ra
+49a. A: dli-pi-it-e-tr / 4 i-li-Sl-ga-na-me-en
+B: [ ]-pi-rit'-e 4-tr / [ ]- A-ga-rnal-me-en
+S7: dli-pi-it-e,-tr / 4 i-li-9&-ga-na-me-en
+50. A: Sd8n:i nd-l4i--psi--iitn--en4a"-tkre4 / / bii--slii--in9.ik-gi-an-ana-me-en
+B: rdlnin-inl-si- in1-na-ke4 / 1-si-in.ki-na
+50a. A: bira-mahb-zu mi-ni-in-ri
+B: rbjraL-mab-zu rmiL-ni-in-ri
+51. A: i-lu-gd-ga / mu-bala-las-ga
+B: [ ]-S,-ga mu-bala-rsae-gal
+52. A: nun-e nun-urux / diri-gal-mab-bi
+B: nun-e nun-e / diri-gal-mab-bi
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+44 H. L. J. VANSTIPHOUT
+53. A: ad-da-zu / di-me-dda-gan / lugal-kalam-ma-ke4
+B: ad-da-zu / iT-me-dda-gan / lugal-kalam-ma-ke4
+54. A: git.gu-za-ni / subus-bi / mu-ra-an-ge-en
+B: giT.gu-za-na / subuS-bi rmul-[ ]-ranl-ge-en
+55. A: inim-du,1-ga / an-den-lil-l4-ta
+B: inim-rdu11l-ga-a / an-rdl[ ]-lil-l1-ta
+56. A: di-nim-kur-kur-ra / si-a mu-e-ni-gar
+B: du17-rnim]-kurkurur-ra / si-a mu-ni-in-gar
+57. A: dli-pi-it-e4-tir / dumu-den-ll-l-me-en
+B: dli-pi-it-eS4-tir / dumu-den-ll-Fl -me-en
+S,: dli-pi-it-e 4-tfr / dumu-den-ll-l-me-en
+58. A: ni-gi-na-zu / ka-ka mi-ni-in-gAl
+B: ni-gi-na-zu / ka-ka mi-ni-[ ]-gll
+59. A: zi-mi-zu / 6-dub-ba-a-ka / im mu-e-ni-dul,-du,,
+B: zi-mi-zu -&rdub1-[ ] / im mu-rel-[ ]
+F: zM!-mil-zu / &-dub-ba-ka / im-e nam-tag4-tag4
+60. A: dub-sar-re / a-la b-em-,i-ak-e
+B: dub-sar-[ ] / b6-remi-[ ]
+F: dub-sar-e / a-le b6-em-,i-ak-e
+60a. A: gal-le-eS be-i-i
+F: gal-le-eS b6-i-i
+61. A: ir-zu / 6-dub-ba-a-ka / mdiS nam-ba-an-tdim-mu
+B: [ ] / [ ]r nami-[ ]
+F: ir-zu r6-dubl-ba-ka / rmai nam1-ba-an-tiim-mu
+62. A: sipa-g6i-tuku / tul dumu-den-lil-1~
+B: [ ]-gi-[ ] / [ ] den-lil-
+F: sipa [ ]-tuku / Sul dumu-den1-il-i
+63. A: dli-pi-it-eS4-tir / z&-mi
+B: rdlipi -[ ]
+F: dli-pi- it-e~4s-tir / z-mi
+7. Commentary
+Lines if.: Since sag-il is used as an epithet of lugal here, I prefer to
+translate in the sense of Akkadian kabtu, which may simply mean "proud."
+For another combination of the terms used in these two lines, see Lipit-
+eStar Hymn A (Li A) 3: isimu-gifs.eren-na-ginx sag mu-il-la-ta, and 41: nam-
+lugal-la bb-dur-bi-me-en.
+Line 4: me-gal-la us: Farber-Fliigge, Inanna und Enki (StPohl 10) 142-43,
+lists other occurrences of the expression me-X-a us-a, where X can be
+another adjective. The expression seems mostly used for Inanna. Is there
+any relation to Inninagura 105: ur-gal-gal imin-bi ba-e-us (see SjSberg, ZA
+65 188-89 and 229)? This is not the only case where similar expressions are
+used of Inanna's relationship to seven "dogs" and the great me's. See, e.g.,
+Inanna's Descent 16: me-~Sir giri-gub-ba bi-in-gub,s and compare with
+7. Lines from Li A here and elsewhere in this article are quoted according to my
+reconstruction of Li A (forthcoming). See provisionally Rdmer, Kdnigshymnen pp. 29-38.
+8. See W. Sladek, Inanna's Descent to the Netherworld (Ann Arbor, University Microfilms,
+1974) pp. 105, 154, and 186-87.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 45
+Ninegala Hymn 29: ur-imin-na giri-zu bi-in-gub (quoted by Sj6berg, ZA 65
+29).
+Line 6: Note that the "participial" forms in -a, combined with the
+agentives in -e seem to confirm the observation by Gragg in Or NS 42 95-96.
+Line 7: For igi-giin(-nu) see the references collected by Falkenstein in
+ZA 44 4ff., and now Sjoberg, TCS 3 124. See now van Dijk apud Sj6berg,
+Salonen Festschrift (StOr 46) 315 for a possible pronunciation *gigru from
+igi-g(u)rux/gunux,.
+Line 8: sag me-te gil: For sag--gil said of a crown see e.g. ELA9 29: sag-
+men-ki-sigx-ga mu-na-ni-in-gil, or Inanna's Descent 17=103 (=Inanna and
+Enki 2): tig.9u-gur-ra men-eden-na sag-ga-na mu-un-gM1, for which line see
+Farber-Fligge Inanna und Enki p. 66. For the tiara as simat (=me-te) blaiti
+or garrati, see the references in AHw 2 1046. The line could be rendered
+more literally as "the tiara, true crown, is placed as a symbol (of kingship)
+upon (your) head," and text C's men-zul may be more correct.
+Line 9: sibir= ibirru "shepherd's crook, sceptre"; see the evidence
+collected and studied by van Dijk in MIO 1270-73. Su-du7/8: usually -du is
+preferred, as in text A. Still, I am in favor of the Nippur reading
+du7=9uklulu "perfectly equipped with" (Civil, JAOS 88 7). The two
+expressions are not always carefully distinguished: see PBS 5 154 v 5: en
+Sibir-ra Su-dus= blum Sa Sibirra Suklulul, and Sj6berg, Salonen Festschrift
+(StOr 46) 310.
+Line 11: lab,-lab,: all texts seem to have had DU.DU-DU.DU. The
+reading lab, for DU.DU is based upon Diri II 20: la-ab DU.DU ru-'-ti (CAD
+A/2 313); see also SjSberg, OrSuec. 23-24 174. u4-sabar?-e: none of the three
+extant MSS has a clear sign here, but it looks like KAL, which makes no
+sense. My reading sabar is based upon the outline of the sign and upon the
+context. If correct, we have UD.SAR (to be read as a/uskaru or nannaru?
+See Civil, RA 60 92), meaning "the new moon's crescent" (cf. ki-
+gal=abullu G 244 [MSL 13 258]: u4-sakar,(SAR)= i-it wa-ar-bi-im), or
+perhaps simply "moonlight." For the goddess du4-sa~bar-ra (also =da/uska-
+ru?) see, e.g., LU 20, Sj6berg, TCS 3 112 and OrSuec. 23-24 175. For ni-dlb,
+see R6mer, K6nigshymnen pp. 216 and 269, and Krecher, Kultlyrik pp.
+139f.
+Line 13: For giskim-ti=tukultu "trustworthy (object or person)," see the
+discussion by Landsberger in WO 3 75; note that it can be both passive
+("trusted by"-see, e.g., SRT 52 iii 6: sipa den-lil-ra giskim-ti-me-en) and
+active ("trusting in"-our line). The long form of MSS B and F seems to be
+correct, from *giskim-ti-zu-Am. ama-dnin-lil-1i: to my knowledge the
+form with -1i always indicates a genitive and is never used as a mere variant
+of dnin-lil. The mother of Ninlil, according to the Haya Hymn, UET 6/1 101
+32-33: nitadam ki-iga-zu ki-sikil-dnisaba nin-gal nin-e-ne / ui-tu-da lS-ga-ne
+9. Quoted according to S. Cohen, Enmerkar and the Lord of Aratta (Ann Arbor, University
+Microfilms, 1973) pp. 66 and 161-62.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+46 H. L. J. VANSTIPHOUT
+dnin-lil-ld dam-mab dnu-nam-nir-ra (see Steible, Haja'o pp. 57 and 122), is
+none other than Nisaba, who is the most important deity in our textl
+Line 14: bu-mu-te-gil: see Gragg, Infixes" pp. 46-47 for the infix -te-. It
+seems to be a mere harmonic variant of -ta-:.BJu-mu-te-R from *b6-mu-u-te-
+R from *b6-mu-e-te-R from *b-mu-e-ta-R.
+Line 15: See R6mer, K6nigshymnen pp. 64-65 and nn. 196-97. KA could
+be read as ka or inim; I prefer gi (=rigmu "sound") because of the resulting
+internal rhyme (gu lalgin du // mu duge du) and because of the context:
+"(because it is) a sound, as honey so sweet, your name is.. ." For honey-
+sweet words or sounds, see, e.g., zi-kir 9ap-ti-Su kima ldl-la-ri eli abraiti li-4d-
+fib (quoted in CAD L 48 s.v. lalliaru). For dull-ge du, see Limet,
+Anthroponymie pp. 226 and 234. See also the related expression in the
+Lamasaga Hymn CBS 10986 rev. 11: mu-zu gi gi ga-ginx du11-ge mu-na-ab-
+sa= 5um-ki ki-ma ku-uk-ki sam-ni i lil-di pi-a-am ma-[ ] (Sjtoberg, JCS 26
+163 and 170).
+Line 16: For Sa-ge tim-a see Sjdberg, Or NS 35 290, Gordon, Sumerian
+Proverbs p. 115, and Seux, Epith~tes p. 454. Lipit-eStar also used the
+Akkadian bibbil libbi (CAD B 221) as part of his titulature (Gadd, Early
+Dynasties pl. 3 i 17-19-perhaps intended as a pun on his name?) as a
+translation of the frequent -ge tim-a dinanna-ka - See K~irki, Konigs-
+inschriften'2 pp. 9-12 passim. See also Sjdberg, OrSuec. 21 98 n. 2.
+Line 17: The line is broken on every Nippur MS, but can safely be
+reconstructed in this way. The US in A is uncertain, and could be a slightly
+misshapen DAGAL.
+Line 18: For ul=el/u "joy(ful)" see 4R 17:15f.: ul-li-e~s a-mu-ra-da-ab-
+sus-gi-et=el~i izzazzuka (CAD E 109). Is ul-la gin-a // ul-gir-ru another
+instance of the gunu/guru alternance (Sj5berg, Salonen Festschrift [StOr
+46] 315)? Then the expression could mean minatum II (AHw 2 657). See
+also Li A 30: munus ul-la zi-dd-eS gtin-a-me-en.
+Line 20: The first sign in A is difficult to read (see already Kramer, BiOr
+11 175 n. 35). If it is INIM, it would confirm ROmer's interpretation of the SI
+in the other texts as =dababu (R6mer, Kinigshymnen p. 65 n. 201). A SI is
+more likely, however, and I interpret it as si=ubanum, and si--s8=~thru
+"to guide correctly" (CAD E 357 s.v. eteru 6b).
+Line 21: See Steible, Haja p. 92, for gA-dub-ba as "the contents of a
+tablet" or "a special kind of tablet." The grammar can support both, since
+the -ka can be a genitive to gu-sum (-ak-a(k)), or a locative (-ak-a). For gu-
+sum=mibistu, mibiltu, see now Sjoberg, ZA 64 152 and 160.
+Line 22: For ki-sigx, see Civil, JCS 28 183-84, who finally delivers us
+10. H. Steible, Ein Lied an den Gott Haja mit Bitte for den K6nig Rimsin von Larsa
+(Freiburg i. Br., 1967).
+11. G. Gragg, Sumerian Dimensional Infixes (Neukirchen, 1973).
+12. I. Kirki, Die sumerischen Konigsinschriften der frifhaltbabylonischen Zeit in Umschrift
+und Obersetzung (Helsinki, 1968).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 47
+from the awkward gulkin. Note the parallel in Steible, Haja p. 28 (Nanse
+Hymn 101: SLTN 67 iii 3 and dupls.): gi-dub-a-kh-sigx Su ba-an-ti. Does
+Su--gin, together with the golden stylus, imply a metaphor for "artful
+writing"?
+Line 23: gi-diT-ninda is the measuring rod of one ninda (AHw 2 898 mngs
+9 and 10; CAD A/2 70 s.v. ammatu for gi as a linear measure); 6s-gna is the
+rope for measuring fields, here also of one gna (&i=allu "rope"), whence
+za-gin in this line will be simply "blue." See Powell, ZA 62 165ff., for the
+measures involved. These implements also occur as attributes of Inanna
+(Inanna's Descent 25: see Sladek, Inanna's Descent pp. 106 and 82-83), even
+in her iconography. Sladek regards them as symbols of Inanna's authority,
+but here they are apparently symbols or implements of learning and
+science-and also parts of the curriculum in the Edubba, for which see now
+Sj5berg, AS 20 167-68 (refs. from Edubba-texts) and 172-76 (refs. from
+Royal Hymns).
+Line 24: gis-as4-lum=aslu B "a special cubit measure" (CAD A/2 s.v.),
+but CAD L 157 has "ruler." le-um is a loan from Akk. 1?u "writing board,"
+but also "sheet or ingot (or bar?? H.V.) of precious metal," which would go
+well with "ruler."
+Line 24a: For Nisaba as a teacher of learning and science, see, e.g., Sin-
+Idinnam Hymn, UET 6/1 99 rev. v 25-27: dnisaba nin-ge'sti-galam-ma igi-
+gil i-mu-un-na-sum, or Nan& Hymn YBC 9859 (Hallo, BiOr 23 242ff.) i 4:
+dna-na-a ka-lam &-anax-ka igi-gil-sum-mu. See also in general Sj6berg, AS
+20 175.
+Line 26: B has the better text. For ni-zi and ni-gi-na (both =kittum) see
+Jacobsen apud Gordon, Sumerian Proverbs p. 448); it is likely that a kind of
+hendiadys is intended, somewhat like "truth and justice." Lipit-estar's Law
+Code uses the same expression: ni-zi ni-gi-na pa-b b6-mi-aka (Steele, AJA
+52 445 xix 16). pa-=~ ipu "to make appear, to make manifest, to
+promulgate, to proclaim"; for this meaning of the verb, where rather
+abstract things are bein'g made public or manifest, see e.g. InninSagura 249:
+nam-dingir-zu kalam-e pa bi-a-6, or 270: nin-mu nam-mab-zu pa bi-a-6
+(Sjiberg, ZA 65 198 and 201). But pa-6 is also 9utd/epa "to (make) shine
+forth": see 4R 25 iii 44f.: an pa-b g6-si-a kur-kur-ra-ke4 : anu u~tap ina
+napzar mratati. An unpublished Isme-dagan text, UM 29-16-54913 obv. ii 4:
+ni-si-si urudu-ginx pa bi-ib-6, illustrates that both meanings are present in
+the verb.
+Line 27: The KI sign in A (only extant MS) is very probably a miscopied
+DUL; see already Romer, K6nigshymnen p. 35.
+Line 29: ka-aS-bar=purussd pardsu; see MSL 12108:159 and Klein, JCS
+23 118-22.
+13. I hope to publish this text in the near future. It looks like a lamentation text (division into
+kirugu's with giTgigal lines, mention of temples, mention of a ga-Sa-an-X), and refers to ITme-
+dagan. It cannot be placed in the Nippur lament. Is it perhaps part of the still very fragmentary
+Uruk lament, or is it a new Nippur lament (Nippur is mentioned)?
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+48 H. L. J. VANSTIPHOUT
+Line 31: di-si-s8=dina uteglru "to provide justice for"-perhaps "to
+lay down the law"?
+Line 32: For the pair lul and zi as "falsehood and truth," see the proverb
+lul du,1-ga-ab zi dul,-ga-ab lul ba-e-si-ke (Gordon, Sumerian Proverbs pp.
+229-30; proverb 2.71), and Nungal Hymn 37: di-kus ka-at-bar-re-da igi mi-
+ni-in-gil lul-zi-bi mu-zu (SjOberg, AfO 24 30).
+Line 33: gurs-u--&: see SjOberg, TCS 3132-33, for occurrences of gurs-
+u--btir. "To bare/gnash the teeth, to rage" (g/kaSa u A; cf. CAD G 52) is
+normally zi--gaz/stid, while gurs-ut-btir seems originally to have meant
+"to trim, to cut" (g/kaSeu B); CT 16 12 i 11: ik-u-usu=gurs(-ru)-uS bi-in-
+BU-ru-uS indicates that the two expressions have been confused, so that the
+meaning of zi--gaz/stid has been transferred to gurs-ut-bir. Since
+furthermore in Sulgi D 180 btir=pa~aru "to release (said of the bowstring)"
+(Klein, Sulgi D14 p. 117), our ---=ayd, lt1d (CAD A/2 356 lex. sect.) "to
+(cause .to) go out, to release" will be a synonym of bir. Still another
+possibility is to take -6 simply as "to sally forth" (CAD A/2 361 s.v. ayO 1 j
+2'), and regard gurs-ut as an adverb gaSir or the like. Note also the
+Akkadian parallel ACh supp. 2 Adad 97 r. 4: Sarru ana mat nakriTu igaSas.
+Lines 34-35: See Sj6berg, Or NS 35 291, for the sequence of these terms
+in k8-gal D sect. 3 5'-8'; MSL 13 244: ka-nir-da=pi-i 9e-er-t[im]; ka-nam-
+tag= pi-i ar-ni- [im]; ka-giri-kin = pi-i pa-at-ri-im za-[ aq-tim]; ka-garit = pi-i
+ka-ra-9i-[im]. See also the Nungal Hymn 82 (with verb zi-zi-i= alamu,
+9ullumu "to save") and 97-98 (Sj6berg, AfO 24 44-45). In h16 ti-la the verb
+ti(1) can be taken either as bullutu "to keep safe" (SL 73,6), as the parallel
+with zi-zi-i seems to indicate, or as leq2 "to take away."
+Line 39: In Lipit-eltar's Law Code xix 17, we have the same expression
+(Steele, AJA 52 445), which Hammurabi's Code renders as si-ir ma-tim t,-ti-
+ib. Lines 38-39 occur as one line in Li A 92.
+Line 41: See Sj6berg, AS 20 172-76 for the king as a scribe. Note that
+Nippur takes pride of place immediately following the House title "King of
+Isin" not, as is usual, because of the link with Enlil, but because of its
+Academyl See in this respect VAS 17 44 iii 12: nibru.ki-a &-dub-ba-a diT-Am
+al-me-a.
+Line 43: Or "the chosen lover"? See Sjoberg, JCS 29 15.
+Line 44: This line also occurs on an unpublished school "bun" from
+Warka, W.16743g: see R6mer, K6nigshymnen p. 66 n. 225, referring to
+Falkenstein, BaghMitt 2 41 n. 190. Note that the line 162 LN15 (CBS
+13856=PBS 10/4 1 iv 22) quoted there reads ur-sag dnin-urta maSkim-dag-
+ga.
+Line 45: The function of the sukkal-mab=sukkalmabbu seems to be "to
+help with the decisions" (cf. AHw 2 972 s.v. reSu); I suspect that what is
+14. J. Klein, Sulgi D: A Neo-Sumerian Royal Hymn (Ann Arbor, University Microfilms,
+1968).
+15. My reconstruction of the Nippur Lament (LN) shows no other MS for this line.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 49
+meant here is that he has to enforce the decisions, a point which may also be
+argued from the fact that, for example, in the ~sme-dagan Hymn, R6mer,
+K6nigshymnen pp. 42ff., 78-79 Nuska grants the sceptre, symbolic for the
+enforcement of the royal decisions: dnuska sukkal-den-lil-l,-ke4 gidri-nam-
+lugal-la Su-g, ba-ma-ni-gar.
+Line 46: See Li A 64: kSi.ki-t iTib-bi ba-gub-b6-me-en.
+Line 48: See R6mer, 17. DOT (ZDMG supp. 1)816 140 and 144 for other
+instances of Enki granting the royal power in Eridu; see also Sj6berg,
+OrSuec. 21 110, and note Li A 36: eridu.ki-ta nam-lugal ma-an-sum.
+Line 49a: Is this a reference to the sacred marriage as part of the
+investiture?
+Line 50: For bira-ri "to sit upon the throne(-dais)," see Sj6berg, TCS 3
+98.
+Line 51: i-lu-SA-ga=MIN libbi(SA.bi), referring to i-lu=ni-gu-tu (MSL
+13 161=izi=itatu V 35-36). See in general Krecher, Kultlyrik p. 149, for
+many instances of i-lu as a shout of either joy or sorrow.
+Line 52: EN as an epithet is often found in combination with nin-, lugal-,
+or en-; see Sj6berg, TCS 3 107-108 and 62-64 (for the reading urux). The
+exact meaning is hard to pin down, but will be something like "valiant"
+(Sjaberg's translation) or "forceful" (Landsberger, OLZ 1931 136). In any
+case, the sequence in Proto-Izi I 116-21 is significant: mab, mab-di, gal-di,
+gal-gal-di, urux(EN), ux(GISGAL)-ru'7; it is unfortunate that the Akkadian
+column in the bilingual version is broken away (Proto-Izi bil. vers. I sect. C
+10-15): mab=si-r[u-um], mab-di=ti-iz-[qd-rum], gal-di=ti-iz-[qd-rum],
+gal-di-di=mu-ta-[ ], 'X'-ru=[ ], urux(EN)=[ ].s18 For the king
+appointing his heir, see R6mer, 17. DOT (ZMDG supp. 1) 145.
+Line 56: Text B seems to have the better reading again. NE can be
+interpreted either as db=Sarizbu a libbi, or (better) as a phonetic writing
+du17 for du14 (=LU2XNEI) ="quarrel." A reading gir0o=uzzu "wrath" is
+improbable because of the DI in MS A. See R6mer, K6nigshymnen p. 66,
+and now Jacobsen, Kramer Anniversary Volume'9 252. nim remains
+difficult; the translation is based upon the Akkadian expression etitam
+zaktmu,/9ali and on the verb si-a-gar. The verb of MS B is correct: the line
+surely still applies to ~sme-dagan.
+Line 58: ka-ka-g8l=*ka(k)-a-g8l "to place in the mouth"; see Li A 88:
+ni-gi-na ka-ka g6l-la-me-en. See also MSL 9145 n. 2, Farber-Fliigge, Inanna
+und Enki pp. 84-85, and AnOr 52 118.
+Line 59: tag4-tag4=ezabu "to abandon, to neglect, to disregard" (SL
+16. W. Romer, "Ktnigshymnen der Isinzeit und K6inigsinvestitur," Vortrige des 17.
+deutschen Orientalistentages (Wtirzburg 21-27 juli 1968), ZDMG supp. 1 (Wiesbaden, 1969)
+130-47.
+17. MSL 13 20-21.
+18. MSL 13 36-37.
+19. T. Jacobsen, "The Stele of the Vultures Col. I-X," Kramer Anniversary Volume, AOAT
+25 (Neukirchen, 1976).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+50 H. L. J. VANSTIPHOUT
+63,2). B seems to have the same reading as A: "the clay will forever speak
+your glory."
+Line 60: See Sj6berg, Or NS 39 66ff. for a-la=lal2; the expression is still
+difficult, and the translation of the verbal form is a guess from the context.
+Literally the line would read "the scribe will therefore (-li-) 'do' (ak) the a-
+le."
+Line 60a: The verb i-i=na'iadu "to praise" (SL 142,46f.).
+Line 61: 6r=tanittu "praise" (SL 306,10).
+8. Some observations
+a. Structure
+The hymn is most naturally divided into six sections of uneven length.
+Section A (lines 1-17) is a loosely arranged string of stock phrases,
+mentioning Lipit-e~tar's royalty and the favors several gods have shown
+him. There seems to be some method in it: starting with his legitimacy, the
+theme of Justice seems to be anticipated in lines 3-5, followed by the royal
+insignia (lines 7-9), and the ensuing peace in Sumer (lines 10-11). The
+section closes with his relation to An, to Ninlil's mother (? see commentary
+to line 13), anticipating section B, to Inanna, and to Enki-whose gift
+(wisdom) also anticipates sections B and C.
+Section B (lines 18-24a) describes in particular the gifts he received from
+Nisaba, i.e., writing and measuring or generally learning and wisdom.
+Section C (lines 25-39) describes how he established truth and justice
+throughout Sumer and even the foreign countries. It is remarkable that
+truth and justice here are viewed rather as manifestations of wisdom than
+as administrative measures, and that this wisdom also shows a moral
+preoccupation (lines 30-32 and 34-37), linking this section to the previous
+one.
+Section D (lines 40a50a) embroiders upon the system of stock epithets
+from the Royal Inscriptions, describing his relation to Isin, Nippur, KeS, Ur,
+Eridu, Uruk, and Isin again.20 Here again scribal art (or learning) has a
+special position: he is Nippur's scribe, and if we may combine lines 41-42a,
+we could perhaps say that he is the provider of the Ekur because he is its
+main scribe (bookkeeper?).
+Section E (lines 51-56) alludes to his appointment by his father lsme-
+dagan-which could point to the redaction of this hymn at an early stage in
+Lipit-etar's reign.2'
+Section F (lines 57-63) stresses the main point of the hymn, which is the
+glory of Lipit-e~tar, ostensibly because of his promulgation of just laws
+20. See Klirki, K6nigsinschriften pp. 9-13.
+21. See D. O. Edzard, Die "zweite Zwischenzeit" Babyloniens (Wiesbaden, 1957) pp. 93-
+94, referring to the date RIU 223: mu dli-pi-it-eS4-tir lugal-e ni-si-si ki-en-gi-ki-uri mu-ni-in-
+gar.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 51
+(line 58, referring to section C). But the fact (or wish) that his glory will
+never cease in the Edubba is emphasized for its own sake, linking this
+conclusion much more to section B.
+It should be noted that the sections are not kept apart very strictly:
+section B naturally follows from section A, in that Nisaba is the last one in
+the series of deities enumerated in A; also the theme of justice (section C) is
+regarded as an instance of his wisdom and learning (and Edubba
+education?). Lastly, the concluding section harks back to sections B and C,
+combining the Edubba motif with justice and glory.
+One often gets the impression, especially in sections A and C, that the
+individual lines (or two-line units) are put together without much feeling
+for structure, as if the composer was more interested in collecting, rather
+arbitrarily, a more or less representative series of "typical" lines. The
+subdivision of these lines seems to be based upon the basic structure of the
+Sumerian sentence in that it separates the noun phrases (including epithets)
+from predicates (either full verbs or copula-constructions).
+b. Function
+Ostensibly, the function is simply the glorification of Lipit-ettar,
+particularly as a king of learning and justice. But the insistence on the
+Edubba education is very great. Also the number of beginners' school
+copies is striking (see list of MSS), as is the relative absence of "difficult"
+constructions (the number of fully inflected verbs is only 23, i.e., about one
+in three lines). Indeed, the text may be said to present a fair sample of the
+several possibilities of verbal inflection in Sumerian, and these are about
+evenly distributed (copula-constructions, "participia" or nominalized
+verbs, inflected verbs), as it also seems to offer a sample of typicalhymnal
+phrases. Furthermore, the subdivision of the lines could perhaps be
+interpreted partly as providing a tentative means of parsing the sentences.
+These observations, combined with the theme of the important sections
+B, C, and F, lead me to believe that the hymn was composed in and
+primarily for the Edubba, to be used there as a beginner's text. The teacher
+who composed it would certainly be happy to know that now, after more
+than 3700 years, modern Ummia's still find it very suitable for teaching
+first-year Sumerian. The wish expressed in lines 59-61 has come true.
+Addendum
+After completion of the manuscript, Prof. M. Civil kindly informed me
+that there are three more texts. All three of them are school texts,
+corroborating my conclusions. N 4960 (GC) has the right half of lines 18-24
+(rev. = L2 in MSL 13 95), and reads:
+[ ] / [ ]-rla gn-al
+[ ]/ rnin' nl-rnam'-zu
+[ ]-ma si-al ba-ni-in-sA
+[ ]-ka / [ ] mi-ni-sae-,ae
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+52 H. L. J. VANSTIPHOUT
+[ ]-ba lk-sig1-ka / [ ] rmull-nil-in-gn
+[ ]-rd~l-ninda 6-gAna-za-gln
+[ ]-mu-um / [ ]-mu
+The tablet is reproduced in photograph on p. 61, together with copies by
+M. Civil of the other Nippur school texts, 3 N-T 915f (I, = lines 29-31) and 3
+N-T 914ee (I = lines 30-32). For the sake of completeness the Warka tablet
+W 16743g, mentioned in the commentary to line 44, should be added to the
+list of manuscripts on p. 35 as text Ss'.
+"dJ?Tii : :
+??? .
+? " "' . ;,: .. . ?
+.... : . ,,
+? Ib? -~ ?
+? .
+?. , . . . . . .
+. ... ...... ' % ,
+B: CBS 13967+
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 53
+i'.iiit.
+i
+.It?t ?. "~?' '~~
+I '
+-3~ ~e~-??
+c ~~~ ? '* ? .:~ ;P 4, '*, * .
+~3~'1;?*?
+;? ,~ "
+??d?
+d a ?:. . ~u;~?r ?PC~~.~ X?'
+ICj1: ?ZI~?:
+?a
+?'7*?
+::C?
+??~~bz:~;:
+~ ,* t~- ~"
+??i~i
+hF:i
+;;?~ **~j~;~pl;~F~??,~JIIri~a''qllL~tP,~gC?~
+ii.: ?.y: ii? " h::i?,i:i.?ii5:iil I
+E r,
+t?
+~i?~ .;?~ ?
+.s
+~? :;.~.~:ll~i~,~lk"l~~~Ft:~Jt?~librreS1? -~f.~i~=
+:'::? " '
+?~;??~
+i :
+B: CBS 13967+
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+54 H. L. J. VANSTIPHOUT
+"' ~ 'd'B'*??.
+.hY.' .I:I , .,...r
+~ r , c ~Iii iJIIL i a1
+irs/C ~ h~?;
+?P;? ~ ~tkp~_.l
+?? i~R? "? ??~i~?-;?
+? ~ E ? .,I;:r:. ?rJ t r.~~?" s : i?:??r 9 r ?? ? ~ I? i a : " 0 ?a
+?~- ni~
+:"' iiii!~
+,?
+JFL
+f~i~ii~~~:?a
+~?? *
+.,:::.:
+-~
+.r
+;iilii
+?k ?.il
+6:iTB ..*?i:&~
+::E"I
+u ?
+*uO
+~?* "JI:?
+i:'?~* El
+??:: '*
+~14
+??: ? ? .'"*" ? : .-j~i'i?.~*~l.?l:;EP~~:~:ii:i"~ :~~B,~P~EY:'~s~?~Y"I~~rS~*:'" '~ .~i~P~i~GYF~,~ET~E~Ca I
+;Pi' ?,G;?.!1 *srl[Lab ?? ~?:ri~7~.~
+-I:r
+r' r
+ii
+is?~ia-ia;i* ~FiP~?~,I ? ?i''ri~
+? ?C:".I.?'-?*
+*~:?::
+?:;?: ~r, rir?rr? ???:???
+~';il
+C: CBS 14134 (STVC 78)
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 55
+?. t
+c ,,i r ?~ ~?i?.
+: ?~~-~ Y~~:
+?'I ?I
+,I .
+y'r '' ~I 'i/i ? 1~
+r
+I
+~
+.i
+i Y ,,
+jY~ ??
+C /?i
+* ~I
+r Id
+E: CBS 13380
+:-? :" * Ir
+~?: ?
+IL ?*L
+X : .--"F?,.~~J:i'
+rr
+" "' ::
+"Zr :.* ~S:
+L -l(r
+E?" ;
+,~lsi c* *
+~d ~s;-
+f ?I .I~.~r;??-?? r
+~` :*? ?*~;Lr? ,
+.~gbi:'
+r ~b.t.i~ i *? i
+,L .??~
+*'';i ?
+?C *'
+i ?.~a~c~"
+i;* r* .* c
+~? I ?i?
+~i ..
+T:l???'p,
+I: CBS 6668
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+56 H. L. J. VANSTIPHOUT
+.. -..*
+?? .o
+? IN:
+H` : U 91-4 ,
+i p
+i:iJ
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 57
+?,:??.
+.;?~
+:I
+?:*
+?*.
+,???? ?*:
+e
+?,
+:I?* r
+~: r[:r~ ~~ r~?i~,"lli*?*
+I-?? : ?~r~-;
+*r
+"
+??u *' I''X
+''::'
+Z
+J: CBS 6943
+? .
+.,.,.
+; ' ? .
+"ii , :!: ?
+? ii, lr .. . ". i ::!.ii :.: .:'' ': 2
+? .;B , :
+.. e~~r ~ ?
+S1: CBS 6501 (PBS 1/2 138)
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+58 H. L. J. VANSTIPHOUT
+Si. is . . . ...
+.- :.. , r.?:i . :....
+! , '. f.,~..
+r r ;. ?~i r? ? .. .
+:,, ,:, , ..... ? -t . Lj
+,~~ :, i
+.ii,,
+S2: CBS 7874 (PBS 13 36)
+?;?
+?; ?r?
+??
+?
+9:iii.:
+:I.
+?,..??? ,illi;i: :i[it
+.iii.
+:i:
+jgi
+;~??
+.~'ii~iiDi''ii`% -??"iii- t:;'1.;8iiii~i~~Z~:.:??li~
+d.:r .I:
+?i(s3
+??? ??,?:..i
+:~ ??. ? ? ? ~r~!,:r:?F~;L`".~8pn~i~gll~' r-?
+'' :??
+~bS I
+Sa: CBS 7866
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 59
+I? ;,i3- ...
+i! '
+? s*3*-;: S *;?
+iLLk C
+..:r *
+S5: CBS 7876
+r?. .... .: ,.
+., .. "!
+I . l..~~:=, ...-
+?" i ' Y :
+':" ? ? ,OJ " ? ? ' ? , i.. :-
+, .... ,., ; .
+Se: CBS 7869
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+60 H. L. J. VANSTIPHOUT
+~ *?? ? J:
+?"
+d~~J~j~YI~ *i?.i::sP ?,:::??? ?:~::: ~:??.???~11 ?i.
+"I'
+'* L'~ P I?~?
+.t? it
+f~t;;~ i
+d? TT.; J
+.::r??
+~ic~i~? +: *? ? ?
+k ;;;'
+:i;?? ~-
+i'??' i**?:?-?:i
+.r
+S,: CBS 4075
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LIPIT-ESTAR'S PRAISE 61
+...
+- . . ..::. ..: ? .
+N 49O
+? ? . o
+? .... . ,.
+~iVi'?'?.?.? ~
+~r ....
+?r r
+~. ..r. ..
+~:??: ?-
+..: ::, ..- ??k
+, . S t
+? -. ??.::.
+?. ?
+?
+'
+~
+?r ??? ?
+.
+r
+r
+?
+~
+=
+?? ??
+~''
+?= L ?
+A 33463=3N-T 915f
+A 33453=3N-T 914ee
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 05 Dec 2023 13:12:26 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

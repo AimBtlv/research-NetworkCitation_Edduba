@@ -1,0 +1,1909 @@
+# METADATA
+author: Gilibert A.
+title: Urban Squares In Late Bronze Age Ugarit:a Street View On Ancient Near Eastern Governance
+Year: 2021
+Source_ID:  Gilibert2021_UrbanSquar
+Source_Type: Article in Book: Journal of Near Eastern Studies, volume 80, number 2,
+Source_Role,Step_distance:2 ,3,4 
+Pages: 377-415
+Web:https://doi.org/10.1086/716076  
+Published:The University of Chicago Press. 
+
+# TEXT
+
+Journal of
+Near Eastern Studies
+Forum
+Urban Squares in Late Bronze Age Ugarit:
+a Street View on Ancient Near Eastern
+Governance
+Alessandra Gilibert, Università Ca’ Foscari Venezia*
+Introduction this perspective, political authority is always performa-
+tive, people-oriented, and negotiated in public. In ar-
+This article deals with the socio-political dimension of
+chaeological terms, an archaeopolitical perspective fo-
+public space in 13th-century bc Ugarit, with a particu-
+cuses on public space to apprehend the negotiation of
+lar focus on the city’s squares. Ugarit, located on the
+power between rulers and other civic community mem-
+Syrian seacoast immediately north of modern Lattakia,
+bers.2 In ancient Near Eastern studies, text-oriented
+is one of the best-documented towns in the ancient
+scholars are currently rediscovering a similar interest in
+Levant and a touchstone case-study for urban design.
+non-royal institutions and the politics of consensus.3
+In the following, I explore how urban space intersects
+with the events of the 13th century, when Ugarit was a
+thriving capital governed by a monarch who was a vas- litical” (2018); Martin, “Reflections on the Archaeopolitical” (2016).
+Central to this approach is collective action theory, as theorized in the
+sal to the Hittite Empire.
+social sciences since the 1990s. Essentially, collective action theory
+Today, the correlation between urban design and
+postulates that governance works through cooperation and bargain
+governance in ancient cities is increasingly investigated rather than coercion and mystification. One of its tenets is that “the
+using an “archaeopolitical” approach.1 According to more principals (rulers) depended on the populace for labor, tribute,
+or other revenues, the greater the agency (or “voice”) a population
+had in negotiating public benefits.” (De Marrais and Earle, “Collec-
+* This publication has received funding from the European tive Action Theory” [2017]: 183). Daniel Fleming has used collective
+Union’s Horizon 2020 research and innovation programme under action theory to interpret the social landscape of Emar, Mari, and Is-
+Marie Sklodowska-Curie Grant Agreement No. 703187 (“Civic rael: Fleming, Legacy of Israel (2012), Democracy’s Ancient Ancestors
+community and public space in the ancient Near East”). I owe my (2004) and Time at Emar (2000).
+best thanks to Lucio Milano, who acted as the research supervisor, 2 “Civic community” is here intended to mean every community
+and to Caterina Gottardi, who has been my GIS-consultant. I also of persons bound together by a sense of belonging to a specific ur-
+thank Maria-Giulia Amadasi, Pavol Hnila, Federico Poole, Carlo ban place, following Oppenheim, Ancient Mesopotamia (1964), 95.
+Zaccagnini, and three anonymous reviewers for their comments and 3 E.g., the essays on collective governance in Wilhelm, Organi-
+suggestions. Here and in the following, dates are intended as bce, if zation, Representation, and Symbols of Power (2012), 85–225, the
+not stated otherwise. session on “the world of politics” in Rollinger and van Dongen, Mes-
+1 Fargher et al., “Wealth Inequality, Social Stratification, and the opotamia and the Ancient World (2015), 413–86, and Martin and
+Built Environment” (2020); McAnany, “Approaching the Archaeopo- Snell, “Democracy and Freedom” (2005).
+Journal of Near Eastern Studies, volume 80, number 2, October 2021. © 2021 The University of Chicago. All rights reserved. Published by
+The University of Chicago Press. https://doi.org/10.1086/716076
+377
+378 ! Journal of Near Eastern Studies
+Archaeological research, however, has only modestly re- around 1190.10 In this 60-year period, at least five urban
+sponded to the new paradigm. Adelheid Otto’s studies squares existed: a market square downtown (the “Cen-
+on the Late Bronze Age Middle Euphrates4 and other tral Square”), two squares around the Royal Palace, and
+studies on urban space in Iron Age Syro-Anatolia5 are two squares near the Temple of Baal, the city’s main
+relevant exceptions. These studies identify squares as temple. The form and urban qualities of these squares
+an essential feature of Levantine cities between the 13th reflect political decisions made in the aftermath of the
+and the 9th century, finding that squares were used ei- earthquake.11 Marguerite Yon has argued that in this
+ther as marketplaces (particularly in Late Bronze Age period the urban population increased, and domestic
+cities)6 or as ceremonial spaces (particularly in Iron Age units became more densely agglomerated. In her view,
+cities).7 Market squares and ceremonial squares have urban squares were built “to free up space within a city
+been studied separately, mainly because the known ex- on the verge of suffocation.”12 The present analysis pro-
+amples date to different periods. In both cases, how- poses a different view, that the proliferation of urban
+ever, the form and function of squares are entangled squares was connected to the need to shape a civic iden-
+with and reflect the city’s political situation. The case tity and raise support for the monarchy.
+of Ugarit stands out as perhaps the only one in which The argument is based on the combined analysis of
+fieldwork has recorded both a market square and cere- three main aspects of urban space: its configuration in
+monial squares, and thus fills a gap in our understand- terms of access and visibility, 13 its symbolic connota-
+ing of the evolution of public space between the end tions and affective properties,14 and the way urban space
+of the Late Bronze Age and the beginning of the Iron was used. From the point of view of methodology, each
+Age. line of inquiry has been pursued with different analyti-
+In the Late Bronze Age, Ugarit extended over cal techniques: the overall degree of access and visibil-
+28 hectares. In nearly a century of excavations, a Syro- ity has been studied using the toolbox of Space Syntax
+French team investigated an extraordinary 25% of Analysis, the affective and sensory properties of space
+the site’s area (Fig. 1).8 Most architectural features have been derived by the analysis of urban design, and
+date to a short period of intense building activity sand- use patterns have been studied through the distribu-
+wiched between a catastrophic event (probably an tion of small finds and semi-fixed installations.15 While
+earthquake) around 12509 and the city’s abandonment a step-by-step description of the methodological proto-
+col is beyond the scope of this paper,16 the basic prin-
+ciples and results are introduced in the course of the
+4 Otto, “Private and State” (2017), “The Organisation of Resi- case-study and then reflected upon in the conclusions.
+dential Space” (2014), and “Archaeological Evidence for Collective
+Governance” (2012).
+5 The reference works are Mazzoni, “The Gate and the City” in major events with an epicentre in the region of Antioch: Sbeinati
+(1997) and Pucci, Functional Analysis of Space (2008). Most re- et al., “Historical Earthquakes of Syria” (2005).
+cently, see Herrmann, “Urban Organization under Empire” (2017); 10 Cohen and Singer, “Late Synchronism between Ugarit and
+Manuelli and Mori, “The King at the Gate” (2016); Gilibert, “Reli- Emar” (2006), 134; Kaniewski et al., “The Sea Peoples” (2011).
+gion and Propaganda” (2015); Osborne, “Settlement Planning and The city was raided by enemies; the inhabitants fled the city before
+Urban Symbology” (2014). destruction. Traces of a last stand against the enemy punctuates the
+6 Otto, “Marketplaces” (2019). archaeological record: see, e.g., Lagarce and Lagarce, “Maison aux
+7 For the collected evidence, see Gilibert, “Archäologie der Men- albatres” (1974), 10.
+schenmenge” (2012) and Pucci, “Enclosing Open Spaces” (2006). 11 Margueron, Cités Invisibles (2013), 107.
+For ceremonial temple squares, see Mazzoni, “Open Spaces around 12 Yon and Callot, “Habitat à Ougarit” (2006), 68; Yon, “Uga-
+the Temples” (2015). For the specific case of Tell Halaf, see Gilibert, rit: The Urban Habitat” (1992), 29; see also Gachet, “Centre de la
+“Death, Amusement and the City” (2013). ville” (1996).
+8 Yon, “Ugarit: the Urban Habitat” (1992). 13 The reference works are Hillier and Hanson, Social Logic of
+9 Following Olivier Callot, the earthquake happened early in the Space (1984) and Hillier, Space is the Machine (1999).
+reign of king Ammistamru II (c. 1260–1235): Callot, Sanctuaires de 14 De Matteis, Affective Spaces (2020).
+l’Acropole (2011), La tranchée “Ville Sud” (1994), 204–205, and “La 15 Here, the terminology is derived by Environment-Behavior
+région nord” (1986), 748, 751–52. The earthquake theory, still in- Studies (Rapoport, Meaning of the Built Environment, [1982]). In-
+sufficiently substantiated by published archaeological evidence, finds ferring activities and past behaviour from archaeological assemblages
+support in the re-dating of an earthquake to c. 1260 at Tell Sheikh Ha- is the tenet of household archaeology, see Müller, ed., Household
+mad in the Western Jazira: Kühne, “Impact of Earthquakes” (2016). Studies in Complex Societies (2013).
+Tell Sheikh Hamad is located on a minor seismic fault line, which, as 16 For a comparable approach, see Fisher, “Placing Social Inter-
+sources on historical earthquakes in the region show, can be involved action” (2009).
+Urban Squares in Late Bronze Age Ugarit ! 379
+Figure 1—Topographic overview of Ugarit in the 13th century, with partial reconstruction of the street network and location of the main
+urban features discussed. The schematic relief lines are traced after Yon, Arts et industries de la pierre (Paris 1991), 6.
+This contribution begins by discussing the number Households, Residential Patterns,
+and living conditions of the city’s inhabitants. My anal- and Wealth Distribution at Ugarit
+ysis will show that Ugarit’s population, while overall
+Although population-size estimates for ancient settle-
+remarkably affluent and influential, was divided in com-
+ment are notoriously imprecise, different back-of-the-
+peting segments and groups, and this contributed to a
+envelope calculations for Ugarit—based on combina-
+socially tense atmosphere. The second part of the con-
+tions of epigraphic, archaeological, and ethnographic
+tribution looks at each of the city’s squares in detail,
+evidence—allow for the estimation of the number of
+proposing that the market square was a free and un-
+people living in Ugarit at around 6,000–8,000 indi-
+predictable space of encounter, while the ceremonial
+viduals,17 probably corresponding to about a quarter
+squares were conceived as a spatial system for large-
+of the total population of the kingdom.18 This figure
+scale public rituals and feasting under the aegis of the
+king. The ruling class used these events to promote a
+specific construction of cultural unity, cement hierar- 17 Garr, “Population Estimate” (1987); Liverani, “Histoire” (1979).
+chies, and legitimize a political course striving for more A higher population estimate of nearly 10,000 is proposed by Schloen,
+independence from Hatti. In the concluding remarks, House of the Father (2001), 333. Analogous figures have been pro-
+posed for Neopalatial Knossos (Whitelaw, “Estimating the Population
+I discuss the case of Ugarit in a broader perspective,
+of Neopalatial Knossos” [2004], 153) and pre-industrial towns in
+discussing how the framework proposed in this paper
+general: Reba et al., “Spatializing 6,000 Years” (2016), 160034.
+may contribute to “archaeopolitical” studies and urban 18 In the 1970s, Heltzer and Liverani independently estimated
+studies in general. the rural population of the kingdom at 26,000 individuals (Heltzer,
+380 ! Journal of Near Eastern Studies
+would imply a population density within the city walls courtyards functioning as air shafts and light wells.21
+of 214–286 persons per hectare, or six to eight individ- Houses clustered in irregular house blocks, with great
+uals per urban household (whereas a rural household variation in individual house size. Leaving aside the
+would count four to five inhabitants19). When popula- 10,000 m2 royal compound, most inhabitants lived
+tion density is so significant, built space becomes a bat- in houses with a ground-floor area of 130–140 m2.22
+tleground for conflicting interests, “from the top- However, there were also free-standing grand mansions
+down planning of ruling elites through the bottom-up five times as large or larger (the Maison aux Albâtres,
+actions of households.”20 To infer the interplay be- for example, had a ground-floor area of over 1,000 m2)
+tween top-down and bottom-up processes from the ar- as well as relatively modest homes of 50–90 m2 ground
+chaeological record, the approach adopted here looks floor. Large houses coexisted with smaller ones, often
+at Ugarit’s urban remains “from the outside in,” adopt- sharing the same house block. Each house could be fur-
+ing a view from the street. ther fractioned or enlarged, and this resulted in intricate
+Ugarit’s urban fabric consisted of a compact and solutions. This architectural jigsaw necessarily fostered
+nearly continuous agglomeration of multi-storied stone cooperation and familiarity among people living in dif-
+buildings. Most houses were flat-roofed stone-and-timber ferent houses. At the same time, it implied selective
+buildings, internally arranged around small enclosed con trol over limited architectural resources, and thus
+potential conflict. For example, most water wells were
+privately owned, and not every house had one.23 The
+unequal distribution of space in general and in partic-
+ular the unequal access to infrastructure indicates that
+Rural Community [1976], 103) or 22,000–29,000 individuals
+asymmetrical power relationships were deeply ingrained
+(Liverani, “Histoire” [1979], who distinguishes between 20,000–
+25,000 villagers and 2,000–4,000 individuals affiliated with royal in Ugarit’s urban fabric, and a critical constituent of its
+estates). Adding 6,000–8000 city dwellers, the total population of social life.
+the kingdom was thus estimated at 28,000–36,000 individuals. Ac- David Schloen has convincingly argued that Uga-
+cording to these calculations, city dwellers would have amounted
+ritic houses, or “residential units,” were typically in-
+to 16%–29% of the total population. Based on the newly published
+habited by multi-generation patrilocal joint families.24
+administrative list RS 94.2411, Vidal recently proposed a lower es-
+timate for the rural population of 11,000–14,000 individuals, orga- To explain inequality, Schloen has proposed that house
+nized in 200 villages, with, on average, fourteen families per village blocks were owned by “urban clans,” i.e., “extended,
+with four to five members per family (Vidal, “On the Demography composite households whose members understand
+of Ugaritian Villages” [2014]). If this were true, the total population their physical proximity and economic cooperation in
+of the kingdom would drop to 17,000–22,000 individuals, with a
+terms of common ancestry.”25 In his view, asymmetry
+considerably higher percentage of city dwellers (27%–47%). Vidal’s
+in household space related to the “unequal household
+new estimate, however, should be emended by adding the personnel
+of the royal farms (Ug. gt) and vineyards, shepherds employed full- relationship between fathers and sons,”26 with male
+time by the palace (see Liverani, “Economy of Ugaritic Royal Farms” relatives living with their wives and families under the
+[1989]), and the personnel employed on fields owned or endowed leadership of the oldest among them, the patriarch, who
+by the palace to members of the urban elite (a single person might
+occupied the most extensive residential unit.
+be granted up to ten different plots of land: van Soldt, “City Admin-
+Schloen’s view, however, does not sufficiently con-
+istration” [2010], 257; see also van Soldt, “Landholders in Admin-
+istrative Texts” [2010]). Epigraphic sources mention at least seventy sider the role of public space in structuring social in-
+royal farms, but there were likely considerably more (Heltzer, “The teractions. While “urban clans” may have occasionally
+Economy of Ugarit” [1999], 425 n. 7). Estimating the existence of
+c. 140 farm estates in total, each employing on average of eight to
+ten persons (Liverani, “Economy of Ugaritic Royal Farms” [1989],
+132–35), we obtain 1,100–1,500 farm employees. If we consider it 21 Mudbrick and half-timbered solutions were used for the upper
+possible that roughly as many individuals might have worked in royal stories, as recorded in Mallet and Matoïan, “Une maison au sud”
+vineyards or as shepherds, we see that Liverani’s 1979 estimate of (2001), 85–86. Domestic architecture at Ugarit fits more into the
+2,000–4,000 personnel employed in rural estates may still be correct Eastern Mediterranean koiné than that of the Syrian inland: Palivou,
+after all. The total population of the kingdom would thus be around “Cosmopolitan Harbour Town” (2007).
+19,000–25,000, the actual figure being likely closer to the upper ex- 22 Callot, La tranchée “Ville Sud” (1994), 150–51, 200.
+treme. This calculation assumes that urban dwellers did not amount 23 Schloen, House of the Father (2001), 330.
+to more than one quarter of the total population. 24 Ibid., 317–33.
+19 Vidal, “On the Demography of Ugaritian Villages” (2014): 47. 25 Ibid., 317.
+20 Fisher and Creekmore, “Making Ancient Cities” (2014), 4. 26 Ibid.
+Urban Squares in Late Bronze Age Ugarit ! 381
+been coterminous with a house block, neither archae- agglomerated, labyrinthine, and “networked” nature
+ological nor textual evidence indicates that this was of the urban fabric than structured around the isolated
+the rule, nor the preeminent organizing principle of house block. In this perspective, the unequal distribu-
+social interactions. In some cases, people might have tion of domestic space is more likely to reflect individ-
+engaged more with neighbors across the street than ual power and wealth than patriarchal kinship ties and
+with people living in an unconnected unit of the same points to a tense admixture of competition and coop-
+house block.27 This possibility is reinforced by the fre- eration among Ugarit’s inhabitants.
+quent location of house entrances in dead-end lanes or A further point concerns the distribution of wealth
+on small squares with a semi-private character,28 which and status. At Ugarit, the overall quality of life was ex-
+points to small-scale, informal neighborhoods going traordinarily high. As pointed out by Marguerite Yon,
+beyond or cutting across the individual house block.29 “even the houses identified as ‘modest’ by the original
+Furthermore, most streets were significantly narrower excavators are well built and on average bigger than
+than the average room,30 and passageways might have houses classified as ‘important’ at other sites, Emar for
+occasionally connected properties across house blocks, example.”33 Monumental funerary crypts, cuneiform
+creating complex spaces.31 Conversely, non-residential archives, and many refined objects, including luxury
+spaces such as magazines or gardens were sometimes imports, were excavated in small houses as well as vast
+built into house blocks but remained independent mansions.34 Cuneiform archives attest that the business
+from adjacent households.32 of most private households included trade, administra-
+In sum, at the household level, social life and civic tion, and scribal or cultic offices, with a high degree of
+interactions seem to have been influenced more by the interconnectedness among different spheres.35 Peas-
+ants, craftsmen, and small traders seems to have lived
+27 Sociological studies have found that neighborly relations evolve mostly outside the city walls. Artisan workshops, indus-
+between people sharing the same street rather than between people trial production, or large-scale storage facilities could
+sharing walls: Grannis, “The Importance of Trivial Streets” (1998). not be identified anywhere in the city36 (whereas they
+At Ugarit, when proof for extended families sharing adjacent resi-
+were found at Minet el-Beida, Ugarit’s port). Ugaritic
+dences do exist, such as in the case of the Maison du prête-magicien
+households had strong ties to the rural world and
+(inhabited by the diviner-priest Agaptarri and his son), we observe
+that the single residential units were internally connected by opening owned farmland,37 but the absence of significant stables
+a door in the unit’s perimetral walls—an otherwise rare feature in
+most excavated house blocks. 33 Yon, “Ugarit: the Urban Habitat” (1992): 25.
+28 Callot, La tranchée “Ville Sud” (1994), 112–13. 34 A striking example is the Maison de Rashapabou in the Quar-
+29 Note the nosy “neighbors next door” (šē’ī bābi) preoccupy- tier Résidentiel, with a below-average ground floor of only 80 m2
+ing the “Poor Man of Nippur” (STT I, 38, ll. 19 and 48), to be (Yon, City of Ugarit [2006], 72) but an inventory including an im-
+distinguished from “family and relatives” (kimtu u salātu, ll. 20 and pressive array of extraordinary objects and exotic imports, as well as
+49): Franco D’Agostino, Testi umoristici (2000), 121 nn. 44–45. at least twenty-four cuneiform tablets (Matoïan, “La Maison dite ‘de
+The importance of small neighborhood squares for social life was Rashapabou’ ” [2013]). Rašap-abu, the owner, was the overseer of
+also highlighted by Kontolaimos, “Late Bronze Age Mediterranean the port of Ugarit and an important royal official, involved both in
+Urbanism” (2013). state affairs and in private transactions (van Soldt, “Private Archives
+30 Streets were rarely broader than 2.5m (Margueron, Cités In- at Ugarit” [2000], 231). In the Ville Basse, an average residential
+visibles [2013], 105; Callot and Calvet, “Rues et places à Ougarit” neighborhood, weights, scarabs, or cylinder seals were found in 86%
+[2000], 159; the average room size was 11.13 m2: Garr, “Population of the excavated houses, and cuneiform tablets in 30%: Callot, La
+Estimate” [1987]: 38) tranchée “Ville Sud” (1994), 196. A list by findspot is published
+31 Callot, La tranchée “Ville Sud” (1994), 49 identifies buttresses ibid., 219–26. Hoards of valuables were found throughout the city:
+for a possible passageway connecting Îlot VII with Îlot VIII. Note ibid., 83, 187; Schaeffer, Ugaritica III (1956), 169–78, 251–75.
+also the hydraulic system connecting the Royal Palace with an adja- 35 van Soldt, “Private Archives at Ugarit” (2000).
+cent southern annex (Calvet, “Installations hydrauliques d’Ugarit” 36 Callot, La tranchée “Ville Sud” (1994), 186–90. However, a
+[1981], 44), making it plausible that the latter might have been in few tiny independent spaces may have been shops: e.g., a series of
+direct communication with the former through a passageway above single rooms behind the Bâtiment au vase de pierre may have been a
+street level. sort of bazaar (Yon, City of Ugarit [2006], 68). Also, a few houses
+32 E.g., in the Centre de la Ville, space G, where both the location included ground-floor spaces that were likely used for trade activi-
+of the main opening and the inventory indicate that this space, in its ties: e.g., the front room of house “A” of Ilot XIII in the South City
+last phase, was an annex of the Temple aux Rhytons across the street neighbourhood (Callot, La tranchée “Ville Sud” [1994],69).
+(Callot, “Les huileries du Bronze Récent” [1987]). Note also, in the 37 As proven by numerous installations for processing cereals
+“Ville Sud”, Locus 20 of Îlot VI, Locus 23/24 of Îlot X (Callot, La and producing olive oil, keeping animals, and composting manure:
+tranchée “Ville Sud” [1994], 181) or Locus 20 of Îlot XIII (Ibid., 176). Schloen, House of the Father (2001), 335–42.
+382 ! Journal of Near Eastern Studies
+or private silos indicate that, within the city, agricul- or 3 miles/hr),42 the average inhabitant could reach
+tural produce was processed as an integrative activity any location from any point in town within fifteen min-
+among others, such as weaving and spinning,38 or (in utes at most.
+the case of the grand mansions) as part of a medium- With few exceptions, streets were narrow, contorted,
+scale business.39 and designed for pedestrian use. The winding layout
+This situation created a double standard. Inside the generated continuous shade and created a favorable at-
+city, among the generally well-off, wealth, power, and mosphere for street life.43 Most streets were between
+status disparities entangled the citizens in a web of 1.5 and 3 meters wide.44 They were wide enough for a
+unequal relationships and competitions. Conversely, bi-directional flow of pedestrians and loaded donkeys,45
+among the rural population, where the affluence en- but left little space for anonymity, forcing passers-by
+joyed by the urban dwellers must have been mostly un- into touching distance, where details of complexion,
+attainable, the wealth and power divide between and grooming, and body odors were inevitably detected.
+within rural households is likely to have been signifi- In this perspective, walking in the street was an intrin-
+cantly less marked than among urban dwellers. This dis- sically social activity.46 Specifically, encounters between
+parity created two independent sets of political interloc- acquaintances and close contacts with strangers must
+utors: the rural population, flattened into dispossession have been constant and unpredictable, exposing passers-
+and without political leverage, and the urban popula- by to opportunities, risks, and public perception.47
+tion, wealthy, influential, and fragmented. Against this
+social backdrop, consensus-seeking politics were geared
+42 For empirical calculations of this average walking speed, see
+to address city dwellers. The political inclinations of the
+Fruin, Pedestrian Planning and Design (1971), 39–42, in line with
+city dwellers mattered, because their wealth made them more recent studies (see Browning, “Speed of Walking” [2005]: 390–
+influential, while their social divide made them factious 91); Rahman et al., “Pedestrian Walking” (2017). Clearly, the average
+and inclined to dissent. walking speed diminishes if the terrain is steep (which is not the case
+at Ugarit), if people walk in groups, and/or if streets are crowded. For
+a specific Near Eastern example of predicting pedestrian movement in
+Street Network and Street Life a steep urban environment, see Branting, “Simulating Movement at
+Kerkenes Dağ” (2010). For calculations of the average walking speed
+The exceptional extent to which Ugarit’s street net- of various groups of people at different crowd densities, see Ober-
+work is known gives us an opportunity to ponder as- hagemann, Static and Dynamic Crowd Densities (2012), 22.
+pects of street life that are otherwise seldom accessible 43 Shepperson, “Planning for the Sun” (2009): 367–68.
+44 The width of a street could vary significantly: the so-called
+archaeologically. At Ugarit, the street network was laid
+rue Merneptah, for example, a central street lined with important
+out according to a radio-concentric pattern, resembling
+houses, could vary from 1.9m to 3.5m in width within a stone’s
+a spider-web (Fig. 1, 3).40 In this “rhizomatic” design, throw: Callot and Calvet, “Rues et places” (2000), 159, with other
+most points were mutually invisible in space but at examples; see also Yon, City of Ugarit (2006), 66. Margueron,
+the same time well connected.41 Barriers were insignif- Cités Invisibles (2013), 105 proposes to group Ugaritic streets in a
+three-tiered hierarchy according to their width: alleys (below 1.5m),
+icant, centralized surveillance was difficult, and peo-
+streets (1.5m–3m) and avenues (above 3m). Only avenues, of which
+ple were free to choose among multiple, meandering
+the 4m-wide Grand Rue is so far the only excavated example, could
+alternative paths. The urban rhythm was measured truly accommodate bulky transports.
+on a small scale: if we assume unimpeded traffic and a 45 At Ugarit, heavy transports were implemented through loaded
+relaxed walking speed of (cid:1533)1.4 m/second ((cid:1533)5 km/hr donkeys (in fact, “a donkey” was a measure of load: note Ug. ḥmr
+and Akk. imēru). Occasionally, horses and horse chariots entered the
+city too. Chariots appear to have been stored at private mansions,
+perhaps transported therein disassembled; see Feldman and Sauvage,
+“Chariots in the Late Bronze Age” (2010): 78. For single pieces of
+38 Matoïan and Vita, “Wool Production and Economy at Ugarit” a chariot delivered to a carpenter in Nuzi, see the text HSS 15, 202
+(2014), 327. (Kendall, Warfare and Military Matters [1975], 236–37; Zaccag-
+39 As in the case of oil production at the Maison aux Textes nini, “Pferde und Streitwagen” [1977]: 29).
+Littéraires (Roche-Hawley, “Scribes, Houses and Neighborhoods” 46 Ingold, “Culture on the Ground” (2004). See also Kontolai-
+[2013]: 422–26) and oil stockage at the Maison aux Albâtres mos, “Late Bronze Age Mediterranean Urbanism” (2013): 150, con-
+(Lagarce and Lagarce, “Maison aux Albâtres” [1974]: 9–10). cluding that Ugarit’s plan encouraged neighbourhood life.
+40 Margueron, Cités Invisibles (2013), 106, fig 91. 47 On street encounters as a defining urban experience, see Hub-
+41 Marshall, Streets and Patterns (2004), 155. bard and Lyon, “Introduction: Streetlife” (2018).
+Urban Squares in Late Bronze Age Ugarit ! 383
+Conversely, spaces for public conviviality and con- underscores the long-term vitality of this square, which
+gregation were few. At crossroads or cul-de-sacs, small appears to be among Ugarit’s longest-lived urban
+open spaces facilitated everyday activities48 but clearly features. I follow Callot in interpreting it as a market
+addressed only the immediate neighbourhood. In five square.54
+cases, however, the dense urban fabric opened into The interpretation as a market square is based on the
+larger public squares, ranging approximately from 500 combination of five elements, with parallels in other Le-
+to 800 m2 in extent. Compared to grand esplanades vantine cities, Tall Bazi in particular. These elements are
+known elsewhere, these squares had a rather intimate the square’s location, its long depositional history, the
+scale,49 yet they were the only public spaces inside the fact that small objects used for trade were found on its
+city walls where the population of Ugarit could meet at surface, the presence around it of notable buildings con-
+the scale needed to develop a sense of civic community. nected with trade and exchange, and the presence of a
+Their nodal locations reflect their social importance stela of a “market god.” This evidence corresponds with
+and their different functions. In a succinct analysis of five of the six archaeological features listed by Lorenz
+public space at Ugarit, Olivier Callot and Yves Calvet Rahmstorf as indicators for market places worldwide:
+re mark that the city’s squares are “each very different large open areas, massive layers of trampled organic de-
+from the other,”50 without elaborating further. The bris, “light” archaeological features such as benches,
+following sections are an attempt to qualify precisely postholes, and stalls (see below on the presence at the
+this point. Central Square of a porch and a public trough), evi-
+dence of production (so far missing at Ugarit), weights
+and scales as typical finds, and traces of cultic practices.55
+The Central Square
+The Central Square was the point of arrival of the
+Within the city of Ugarit, an ample public space—here Grand Rue and the most accessible spot in town from
+designated as “Central Square”—stood at the heart of the countryside.56 The Grand Rue (the north-south
+the “Ville Sud,” Ugarit’s topographic center (see Fig. 1). oriented, straight and wide avenue entering the Cen-
+The Central Square was an unpaved esplanade of ap- tral Square in its south-eastern corner: see Fig. 2) con-
+proximately 800 m2, about three-quarters of which nected Ugarit’s main city gate directly to the Central
+was excavated in 1959 and 1960 (see Fig. 2).51 Exca- Square.57 This route and the square itself stood out in
+vations revealed that the square was a centuries-old ur- the dense network of streets as unusually broad and
+ban feature, as the 13th-century surface rested upon a open to the public eye. According to empirical studies,
+1.5–2m thick deposit of (organic?) debris with no built visibility is the strongest known correlate of pedestrian
+structures.52 The area was preserved as a public space movement. Specifically, movement is directed by lines
+throughout the city’s history. At some point around or of sight, or isovists: people generally converge where
+after 1250, the southern frontage was reconstructed more lines of sight meet.58 A map of isovists at Ugarit
+according to an orthogonal plan.53 This intervention shows that the Grand Rue and the Central Square were
+shows a perduring commitment to the open space and the spaces most exposed to public view in town (see
+Fig. 3). Here, according to perceptual studies of lines
+48 Callot, La tranchée “Ville Sud” (1994), 106. of sight, individuals must have experienced a “rush of
+49 Japanese architect Yoshinobu Ashihara indicates the 500– information” and a “dilation of view and exposure”59
+600m2 range as the point of equilibrium for a “psychologically com- conducive to swift movement and effective navigation,
+fortable” urban square: Yoshinobu, Exterior Design (1970).
+50 Callot and Calvet, “Rues et places” (2000), 161.
+51 The approximate total area of the square has been recently 54 Callot, La tranchée “Ville Sud” (1994), 110.
+determined through geomagnetic prospection: Al-Maqdissi et al., 55 Rahmstorf, “Detecting Marketplaces in the Bronze Age” (2018).
+“Ras Shamra-Ougarit en 2007 et 2008” (2010): 46. 56 The Grand Rue was connected to bridge on the river Nahr
+52 See Callot, La tranchée “Ville Sud” (1994), 280 fig. 98, 275 el-Delbe, which provided year-round access for caravans and carts
+fig. 86, and 408 fig. 370. Stratigraphic details have not been pub- (Yon, “Ugarit: the Urban Habitat” [1992], 26).
+lished, but it has been supposed that the existence of the square 57 Callot, La tranchée “Ville Sud” (1994), 104–106.
+might go back to the “refoundation” of the city at the beginning of 58 Desyllas and Duxbury, “Axial Maps and Visibility Graph Analy-
+the second millennium: Al-Maqdissi et al., “Ras Shamra-Ougarit en sis” (2001), 27.12; Turner et al., “From Isovists to Visibility Graphs”
+2007 et 2008” (2010): 46. (2001), 118.
+53 Callot and Calvet, “Rues et places” (2000), 161. 59 Benedikt, “Isovists and Isovist Fields” (1979), 48.
+384 ! Journal of Near Eastern Studies
+Figure 2—The Central Square and its surroundings, modified after Callot, La tranchée “Ville Sud ”, pl. X. Roman numbers identify Callot’s
+îlots, or house blocks.
+particularly helpful for visitors less familiar with the city Small weights and stone cylinder seals found aban-
+plan and for people transporting goods.60 This obser- doned or lost on the surface substantiate the hypothe-
+vation correlates well with the scarcity of larger-scale sis that the Central Square was used as a marketplace.62
+production facilities or storerooms,61 suggesting that As observed by Otto, these small finds, also recorded
+traded products reached the Central Square mainly from at the market square of Tall Bazi, are consistent with
+outside the city. payments in silver and the recording of transactions.63
+Furthermore, at least three non-domestic buildings lin-
+60 The role of the Grand Rue as a traffic link between the city ing the square link directly to commercial transactions.
+and its hinterland is further supported by the presence along it of They are the so-called “Boutique” Sud, the “secteur sud”
+what has been interpreted as a workshop for agricultural tools: Al-
+Maqdissi et al., “Ras Shamra-Ougarit en 2007 et 2008” (2010): 40.
+61 For the possible identification of a space for commercial wash-
+ing of textiles, see Callot, La tranchée “Ville Sud” (1994), 190; for the 62 See the inventory of finds in Ibid., 221, and the plan with loca-
+identification of centers of oil production for commercial purposes, tions of the finds, Ibid., 258 fig. 45.
+see ibid., 191–96; for the possible localization of a granary, ibid., 76. 63 Otto, “Marketplaces” (2019), 209, 213.
+Urban Squares in Late Bronze Age Ugarit ! 385
+Figure 3—Visibility graph quantifying global inter-visibility measure within Ugarit’s partially reconstructed urban network. Colour values
+range from indigo for low visibility values to magenta for high visibility values. The graph has been generated using the software depthMapX.
+of Îlot VII, and the Îlot VIII (see Fig. 2 a–c). The (b)—a vast hall with multiple entrances—might have
+“Boutique” Sud (a) is interpreted by Callot as a shop or been a trading place for valuable items.65 Îlot VIII (c) is
+a small tavern.64 Opposite, the “secteur sud” of Îlot VII
+65 According to Callot, this space was a dépendence économique
+of an adjacent building, the Îlot VIII, to which it may have been
+64 Callot, La tranchée “Ville Sud” (1994), 109. Together with an connected by an upper-floor passageway (Callot, La tranchée “Ville
+arrowhead, the cylinder seals were the only finds retrieved from this Sud” [1994], 46–47, 180). The retrieved inventory includes three
+space: ibid., 221 (“Boutique” Sud). Outside, a stone trough on pub- larger weights (a lion weight, a bull weight, and a copper weight)
+lic soil was meant for everyday public use. Similar “shops” also lined and a cylinder seal. A similarly articulated building with various
+the market square of Tell Bazi: Otto, Alltag und Gesellschaft (2006), weights was excavated at a corner of Tell Bazi’s market square. Com-
+260–61. For the presence of public troughs, see in particular Tall bining architectural and contextual evidence, Otto interprets it as
+Bazi’s Haus 31 (ibid., 202–203, 268). an “exchange bureau”: Haus 23; Raum 12, 2, 5: Otto, Alltag und
+386 ! Journal of Near Eastern Studies
+an edifice with a front porch66 dominating the eastern of the Central Square as a marketplace is correct, the
+end of the square.67 The prominent urban position, its stele in front of Îlot VIII may represent Resheph in his
+plan, its architectural qualities and its inventory68 sug- identity of “Resheph of the Market.”73
+gest a use connected to elite trade.69 The collected evidence points to the Central Square
+A small limestone stela was found not far from the as a hub for trade. Significantly, both the royal com-
+porch of Îlot VIII (see Fig. 4). The stele bears the im- pound and known points of collection for centrally-
+age of the god Resheph as a short-skirted archer god.70 administered deliveries74 are located elsewhere. Assess-
+Resheph, a popular Late Bronze Age deity with several ments of trade at Ugarit increasingly support the idea
+local hypostases, was worshipped at Ugarit as a sort of that the local economy included a substantial part that
+“divine guard.”71 At Emar and in Hurrian ritual texts was not under the direct control of the royal Palace.75 If
+from Hattusa, he is specifically attested as “Lord of the this understanding is correct, we may view the Central
+Market” (Akkadian bēl maḫīri).72 If the interpretation Square as a hub for private business. This interpretation
+is reinforced by the possible presence of informal facil-
+ities for traveling merchants76 and a general city-wide
+Gesellschaft (2006), 185. See also the presence of official scales “in
+the city square” (ina rebīt āli) mentioned in the 7th century accession
+treaty of Esarhaddon (SAA 2, 4: 23’). mention of dingirMEŠ ma-aḫ-ḫé-er-ra-ši-na (“gods of the market”):
+66 Callot, La tranchée “Ville Sud” (1994), 48–49. KUB XXVII, I, v.2:23 (ibid., 200). The epigraphic evidence sug-
+67 The dominating effect was increased by a slight slope, a fea- gests that, at Emar, a temple of Resheph/Negal was located near
+ture of the marketplace of Tall Bazi as well: Otto, “Marketplaces” the market square (Durand and Marti, “Chroniques du Mozen Eu-
+(2019), 208, 213. phrate” [2003]: 149, 161). This temple was among the city’s most
+68 The space inside was divided into two 36m2 halls, with prominent institutions, as indicated by the quantities of offerings
+double-leaf doors opening outward—an arrangement specific to given during the zukru festival and by the high standing of its priest:
+non-residential spaces. The inventory included rare imported goods: Fleming, Time at Emar (2000), 24 n. 33. At Emar, a priest of Nergal
+a set of blue frit and faience stemmed goblets, a dagger decorated was bestowed the right to build a bīt mu-ḫu-ur-ti, a “street chapel”
+with a lotus flower, and a “Peschiera dagger”—a flange-hilted, cut- (Durand and Marti, “Chroniques du Mozen Euphrate” [2003]:
+and-thrust weapon of north-eastern Italian production (Callot, La 149). We may expect the stela at Ugarit to be the remnant of a
+tranchée “Ville Sud” [1994], 49). similar structure (for a review of street shrines in Southern Meso-
+69 We shall not dismiss the possibility that this building might potamia, see Steinert, “City Streets,” 132–37; for an interpretation
+have served as an assembly hall to discuss and adjudicate issues con- of the shrine of Nergal at Emar as a larger structure, see Fleming,
+nected with trade (see RS 13.006, mentioning a bt qbṣ, a “house “Household and Community Religion” [2008], 51). The attes-
+of assembly”; Heltzer, Rural Community [1976], 73–74). Perhaps tations of a Resheph “Lord of the Market” are paralleled by the
+Îlot VIII was connected with the activities of the “Elders” (šībūti: mention of a deity dLugal-tilla (“Lord of the City-Square”) in Mes-
+4
+RSO XIV, 249, RS 88.2009, l. 6: LÚ.MEŠši-bu-ti ša uruki ), also known opotamian god-lists (Lambert, “Lugal-tilla” [1987–90], 153a). In
+as “Fathers of Ugarit” (abbū Ugarit: PRU IV, 219, RS 17.424+ An=Anum VI 28, dLugal-tilla is listed as a manifestation of Nergal
+4
+397B, l. 25: [L]úab.baMEŠ URUu-ga-ri [-it]). This was a collective body (Litke, An: dA-nu-um and An: Anu šá amēli [1998], 202; Steinert,
+of eminent notables—presumably around five in number—with au- “City Streets” [2014], 136). In Assyria, Nergal “of the street” (ša
+thority on legal matters (Solans, Poderes colectivos [2014], 233–35). sūqi) was invoked as patron of travelers, who were advised to sacrifice
+The “Elders”/“Fathers” of Ugarit acted as guardians of the com- to him before embarking on journeys: cf. Nergal ša sūqi in CT 24 41
+mon law and counterbalanced the royal administration: Bunnens, XI 74, and s.v. suqū, CAD S, 403b, 1–4’ and AHw, 1062a, 3d. For
+“Pouvoirs locaux” (1980): 134. further text passages and on the role of Nergal as patron of travellers
+70 In the Levant, the archer’s bow had been an exclusive attribute and messengers, see Meier, The Messenger (1988), 63.
+of Resheph since at least the 19th century: Matthiae, “Rashap’s Old 73 Similarly, the square in front of the North Gate of Tell Mun-
+Syrian Iconography” (2007), 188–89. baqa, likewise interpreted by Otto as a market square (“Market-
+71 Münnich, God Resheph (2013), 149, 156–57, 167–69. The places” [2019], 210–11). Here, a stone stela was standing in the
+popularity of Resheph is reflected in the onomastics: Ribichini and square in front of a temple entrance, which, according to Otto, may
+Xella, “Problemi di onomastica ugaritica” (1991): 167. In Ugaritic have functioned as place where legal and economic transactions were
+texts, Resheph is called “Lord of the Arrow” (b*l ḥẓ; KTU 1.82:3) and carried out.
+“the guard” (ḥgb; KTU 1.90:2, KTU 1.168:1). Resheph was equated 74 At the Maison aux Jarres, located at the eastern edge of the
+with the Mesopotamian Nergal and the Hurrian Irshappa: see the city, presumably near a city gate. According to Zamora (“Casa de
+god-list RS 20.024: 26; Münnich, The God Resheph (2013),136. las grandes vasijas” [2004]), this building was a small administrative
+72 For an overview of deities related to commerce, see Ruther- centre, where wine and wheat were delivered and stocked on ac-
+ford, “Gods of the Market Place” (2019), 83–91. At Emar, Resheph count of the Royal Palace.
+is identified as en ki.lam (bēl maḫīri) six times: Münnich, The God 75 I particularly refer to the extensive review of the evidence in
+Resheph (2013), 171–72, 186, 189. Among the Hurrian ritual texts McGeough, Exchange Relationships at Ugarit (2007).
+from Hattusa there is an attestation of dir-šap-pì-ni-iš tám-kar– 76 Locus 17 of Ilot XIV may have been the semi-public court of a
+5
+ra-a-ši (Irshappa “of commerce”), immediately followed by the caravanserai, as indicated by installations for keeping animals (Callot,
+Urban Squares in Late Bronze Age Ugarit ! 387
+The Palace Squares
+Ugarit’s western sector was dominated by the royal
+palace compound. The architectural complex took on
+its truly spectacular dimensions relatively late in the
+city’s history, as a result of a mid-13th century redesign.
+The new building compound came to cover over a
+hectare and consisted, beyond the Palace itself, of sev-
+eral annexes, including a small temple and a vast ban-
+quet hall (the Bâtiment aux Piliers, or “Pillared Build-
+ing”).80 The Royal Palace and its annexes were arranged
+around a 500 m2 open-air space, conventionally called
+the “Royal Plaza.”81 Despite the label, this space was
+a ceremonial courtyard segregated from the rest of
+the town and guarded by military checkpoints.82 Two
+large public squares, which we may provisionally call
+the “Square with the Basin” and the “Square with the
+Vase,” were built outside the royal compound. These
+squares were exclusively pedestrian spaces, lined by
+Figure 4—Line drawing of the stele RS 4.546. From Yon, Arts et grand mansions, buildings with special functions, and
+industries de la pierre . . . , 347, fig. 1a.
+the palace compound itself. Excavations were carried
+out here in 1937 and 1973 respectively.83 They revealed
+that, in both cases, the squares were built by demol-
+distribution of artefacts suggestive of independent house- ishing pre-existing edifices, including private houses.84
+hold provisioning.77 The houses lining the Central Square The squares were irregular spaces of at least c. 750 m2
+avoid opening directly on the square. This detail, also each (the Square with the Vase perhaps considerably
+found in the market square of Tall Bazi,78 indicate that more).85 Applying an average crowd density coefficient
+people wanted to keep their domestic sphere apart from
+the square’s business, which, as we shall return to fur-
+80 Otto advances the possibility that the “Pillared Building” may
+ther on, may have been perceived as potentially unsafe
+have been a sort of merchant’s hall for state-controlled trade: Otto,
+and unpredictable.79 “Marketplaces” (2019), 207. However, the organization of space
+did not facilitate the circulation of merchandise and I favour Callot’s
+interpretation of the Pillared Building as an official banqueting hall:
+Callot, “La région nord” (1986), 744, 754.
+La tranchée “Ville Sud” [1994], 86 fig. 202) and findings connected 81 Ibid., 754, no. 4.
+to trade (ibid., 225 fig. 203). Locus 1 of Ilot XI, a private garden 82 Yon, City of Ugarit (2006), 46. Military devices included
+with a large entrance door, may also have served similar purposes loopholes for monitoring the courtyard (ibid., 38) and direct access
+(ibid., 64). Both spaces have direct parallels in Bereich 13 and Bereich to the city rampart from the courtyard (as proven by the staircase
+39 near the market square of Tall Bazi (Otto, Alltag und Gesellschaft visible in Margueron, “Palais royal d’Ougarit” [1995], 198 photo 3,
+[2006], 263). Otto connects these spaces to buildings called tug- and mapped in several plans, e.g., Yon, City of Ugarit [2006], 47
+guru and ḫitru in the Emar texts (ibid., 55). fig. 25) and from within the palace (ibid., 38). Inside, sitting benches
+77 Johnston, “Market Exchange at Ugarit” (2017). indicate that the space served as a gathering place for formal activi-
+78 Otto, Alltag und Gesellschaft (2006), 235–37. ties (ibid., 35). Special paving stones, including a circular gutter
+79 A special case is the Maison aux Tablettes (also known as stone (?) with a diameter of 2m, may also relate to specific activities
+Maison aux textes littéraires; Fig. 2d), a 270m2 mansion housing a (see Dépliant I in Schaeffer, Ugaritica IV, 1962).
+scribal school (on which see now Roche-Hawley, “Scribes, Houses 83 Schaeffer, “Fouilles de Ras Shamra-Ugarit” (1938): 317–20;
+and Neighborhoods” [2013]: 413–44, who links the house to the De Contenson et al., “XXXIVe campagne de fouilles” (1974); Cal-
+scribe Nu’mi-Rašap). While the house’s domestic wing opened on lot, “La région nord” (1986), 735–36 n. 5.
+a side alley, the school premises, fully independent of the domestic 84 Ibid., 752; Yon, City of Ugarit (2006), 63; Rey, “Le Palais
+wing, were directly accessible from the Central Square. At ground- Nord d’Ougarit” (2009): 218.
+floor level, a locked internal door was the only connection between 85 According to Rey, the Square with the Vase, in its last phase,
+the school premises and the rest of the house: Callot, La tranchée “s’étendait plus à l’ouest, sur une partie au moins des ruines enseve-
+“Ville Sud” (1994), 59. See also van Soldt, Studies in the Akkadian lies du Palais Nord” (ibid., 218). Another, more radical possibility is
+of Ugarit (1991), 182. to consider the Square with the Basin and the Square with the Vase
+388 ! Journal of Near Eastern Studies
+of 2.5 to 3.5 persons per square meter,86 we can cal- terrace as a public stage is explicitly attested in con-
+culate that each square would have hypothetically al- temporary Hittite festivals.90 The abundant Hittite evi-
+lowed gatherings of 1,800–2,600 individuals, i.e., a dence is particularly significant because Hittite and
+sizable slice of the civic community, at the heart of Ugaritic festivals sometimes shared origins and fol-
+Ugarit’s elite neighbourhood, in immediate proxim- lowed similar blueprints. An example of this is the Hit-
+ity of the palace compound. The street configuration tite ḫišuwa-festival, a traditional celebration imported
+allowed pedestrian movement of a significant number to the Hittite capital from Kizzuwatna (Classical Cili-
+of people through multiple points for egress from and cia), a region with close cultural ties to Ugarit. During
+ingress to the squares, with full integration into the this festival, a mock-battle dance was acted out on a
+street network and a specific circuit-like connection be- roof terrace. The performance took place in front of
+tween the two squares. Such a configuration is effective the king, who appeared on stage as the personification
+when people assemble for a particular purpose and be- of the Storm God. The rooftop overlooked an open
+have in conventional ways, as in religious celebrations.87 space where participants gathered, closely replicating
+As we shall see in more detail, the careful deployment the urban configuration at the Square with the Basin.91
+of urban devices such as vistas on focal points, elevated Identical protocols in Hittite and Ugaritic festivals
+platforms, and ritual installations suggest that the Pal- give further evidence of the use of a rooftop as a ritual
+ace Squares were planned for events in which royalty,
+aristocracy, and the civic community interacted accord-
+ing to well-defined scripts. Emar VI.3, no. 370). Libations and offerings on house roofs are also
+attested in Jeremiah 19:13.
+90 In Hittite rituals, the audience looking up to the rooftop was
+The Square with the Basin involved in the performance through speeches and ritual exchanges.
+Attestations are listed and commented upon in Haas, Geschichte der
+The Square with the Basin (see Fig. 5), named here hethitischen Religion (1994), 228–29 (as part of the royal funerary
+after a large basin built in its pavement, was lined by rituals, a priest addresses an audience from the roof of a building,
+then throws down an empty vessel), 256 (a performer climbs up a
+the royal compound walls, to which it gave no direct
+rope to the roof on a musical background, then throws down ob-
+access. Specifically, it was dominated by the Pillared
+jects), 274 (a dancer dances in front of the king on the roof), 283–
+Building’s back façade. The Pillared Building, a vast 84 (as part of a purification ritual, a priest pours wine down a roof
+hall erected inside the Royal Compound, was recon- gutter, then people throw an empty vessel down), 683 (horn players
+structed by Callot as a single-story edifice with a grand perform a thunderstorm-inspired music on a roof), 746 (as part of
+central stairway leading to a roof terrace.88 According the purulli spring festival, girls sing on the roof of the temple of
+Telipinu), 785–86 (as part of the an.tah.šum-festival, the king per-
+to this reconstruction, the rooftop terrace created a ˘
+forms cultic acts on the roof of the palace), 867–69 (during the
+visual point of contact between the public space and ḫišuu̯a-festival, dancer and musician act out a mock-battle on the
+the secluded spaces within the royal compound, look- roof, in front of the king; later, a priest throws a weapon down a roof
+ing out on the square with a well-calibrated effect. I and people standing down below throw it back to him, cited also at
+assume that the possibility of using the roof space as p. 279 and discussed further below).
+91 Haas, Geschichte der hethitischen Religion (1994), 867–69;
+a stage for formal celebrations in front of a public au-
+Groddek, “Die 10. Tafel des ḫišuu̯a-Festes” (2010); Gilan, “Kampf-
+dience was not lost on Ugarit’s palace elite. Rooftop
+spiele in hethitischen Festritualen” (2001), 119; Bachvarova, From
+rituals are well known from the Late Bronze Levant, in- Hittite to Homer (2016), 260–61. Coincidentally, the ḫišuwa -festival
+cluding at Ugarit and Emar,89 and the use of a rooftop also corroborates the existence in the Cilician milieu of public per-
+formances acting out or singing parts of the Levantine mythology of
+the Storm God, a “theatrical” background has equally been pro posed
+one single, grand ceremonial esplanade, fully including the levelled for the Ugaritic Epic of Baal (Smith, Ugaritic Baal Cycle [1994],
+ruins of the so-called “North Palace,” as envisioned in Callot, Sanc- 21–22, 159) and other related mythological compositions. Hurro-
+tuaires de l’acropole (2011), 135 fig. 1. Hittite compositions attest that a ‘Song of the Deeds of the Sea’ and
+86 Gilibert and Neufert, Architect’s Data (2002), 17. a ‘Song of Kingship’ were sung during a festival in honor of Mount
+87 An aggregation of this kind would have characterized most Ḫazzi, corresponding to the Mount Zaphon (Jebel Aqra) where the
+civic celebrations and is described by students of collective behavior Ugaritic Baal was thought to have its main seat. The songs, now
+as a “conventional crowd,” as opposed to, for instance, a mob in a lost, probably narrated the battle fought between the Storm God
+riot (Turner and Killian, Collective Behavior [1993], 106). and the Sea. Circumstantial evidence indicates that they may have
+88 Callot, “La région nord” (1986), 741. been performed at local festivals: Gilan, “Hittites and Neo-Hittites as
+89 At Emar, a roof (Akk. ūru) is used twice as ritual space during Cultural Mediators” (2015); Strauss, Clay, and Gilan, “Hittite Song
+the festival for the installation of the maš,artu-priestess (Arnaud, of Emergence” (2014): 6–7.
+Urban Squares in Late Bronze Age Ugarit ! 389
+Figure 5—The Square with the Basin, with location of the buildings discussed. Modified after Callot, La région nord . . . , 753, fig. 8.
+platform. For example, during the Hittite “Festival of the Festival of the First Wine, on the day of the new
+the Month,” on the day of the new moon, the Hit- moon, the king sacrificed a ram “on the roof ” of a
+tite king would present offerings and make libations building and gave a speech “according to what [was]
+on the roof of a building.92 Similarly, at Ugarit, during in his heart.”93 On this occasion, seven bulls and seven
+92 Barsacchi, “Culti ittiti connessi al ciclo lunare” (2019); Haas, 93 KTU 1.41//1.87 (RS 1.003), ll. 50–55, after Pardee, Ritual
+Geschichte der hethitischen Religion (1994), 274. and Cult (2002), 65.
+390 ! Journal of Near Eastern Studies
+rams were sacrificed. Scholars usually assume that these The Square with the Vase
+events took place at the Temple of Baal, but its tower-
+The construction of the Square with the Vase (see Fig. 6)
+like architecture would have made its roof ill-fitting
+involved the demolition of houses, the enlargement of
+for animal sacrifices and virtually invisible from street
+streets, and the opening of deep direct vistas on the
+level.94 In the light of the architectural data, the Pil-
+gates of three buildings. The first and most symbol-
+lared Building is a better candidate. Here, the sacrifice
+ically charged of these gates is the 2.75m-wide main
+of several animals and the ensuing banquet might have
+gate to the palace compound, located at the end of the
+taken place in the grand hall, for selected acolytes,95
+unusually rectilinear, 90m-long “palace street.” The
+while the king could eventually climb a flight of stairs
+other gates are the 1.80m-wide secondary entrance to
+to the terrace and perform in front of a broader public
+the Palace, located at the center of the square’s south-
+audience.
+ern limit, and the likewise 1.80m-wide entrance of the
+The conspicuous 24 m2 stone-lined “basin” built
+so-called Bâtiment au vase de pierre. This relatively ac-
+into the pavement at the center of the square may also
+curate perspectival planning conjured a formal sense
+have played a part during celebrations.96 Its specific
+of space, further increased by the official nature of the
+function is unclear, but comparable installations (e.g.,
+buildings surrounding the space.100 The Bâtiment au
+a large monolithic basin outside the Great Temple of
+vase de pierre, a pre-existing edifice that lends its name
+Hattusa97) consistently point to a ritual function.
+to the square and whose urban visibility increased
+The Square with the Basin appears to have been
+significantly following the square’s enlargement, was
+connected to another square further east.98 This area,
+a tall building with a grand façade built of the same
+only partially published, was an open space with two
+masonry employed at the Royal Palace.101 The street
+public wells and a building in which over 350 standard
+opened directly into a lofty 64 m2 hall, where two
+bowls were found, some of them piled in a stone sink.99
+enormous monolithic stone vases were installed. One
+This evidence may point to the collective distribution
+of them was found in situ, in a commanding posi-
+of staple food among common citizens, taking place
+tion which, if the doors were open, would have also
+aside from what seems to have been the focal point of
+made it visible from outside (see Fig. 7). The two
+events.
+vases are extraordinary features, with unusual shapes
+recalling Aegean-style kraters.102 Their size and sheer
+weight are testimony to the remarkable effort that
+94 De Terragon, “Temples et pratiques rituelles,” (1994), 206–209.
+must have gone into their production.103 They each
+95 The OT passage 1 Samuel 20:5 offers an interesting paral-
+had a capacity of c. 880 liters, corresponding to about
+lel, whence we evince that a selected few banqueted with the king
+during a festival of the new moon. eighty Ugaritic 11-liter jars (Ug. kd).104 A shallow cavity
+96 The structure is briefly discussed and interpreted as a basin or
+a reservoir in Callot, “La région nord” (1986), 747, with further 100 The Royal Palace, the Bâtiment au trône and the Bâtiment au
+references to the scarce mentions in previous publications. I wonder vase de pierre. As far as we can judge, not a single domestic building
+whether it may be identified with the ġr mentioned in the ritual text opened onto the square. The only “house” (unpublished) that sur-
+RS 1.003:23, whose capacity was fourteen jars of wine (Pardee, Rit- vived the mid-13th-century refurbishmant opened on a back alley.
+ual and Cult [2002], 64). The Bâtiment au trône was a temple that was still under construction
+97 Schachner, Hattuscha (2011), 186 fig. 87. The basin may have when the city was destroyed: Callot, “Bâtiment au trône” (2013).
+been used for ritual ablutions, which, upon certain religious occa- 101 Callot and Calvet, “Bâtiment au Vase de Pierre” (2001).
+sions, were necessary before communal banquets: Barsacchi, “Distri- 102 McGeough, “Locating the marzihu” (2003), 416–17. Large-
+bution and Consumption of Food in Hittite Festivals” (2019), 15. scale basalt “kraters” were also found at Late Bronze Age Hazor,
+Further sunken rectangular constructions for ritual purposes are also Qatna, and Ebla, all from temple or palace contexts: Bonfil and
+known from Cyprus: Building II at Alassa-Paliotaverna and at the Zarzeki-Peleg, “The Palace of the Upper City of Hazor” (2007), 40.
+Basin Building from Maroni-Vournes: Fischer, “Monumental Social 103 Two similar vases were found at Amathus, Cyprus. The Am-
+Space” (2014), 190–91; and, on a ten-fold scale, from Iron Are II-III athus vases, dating to the 7th century bce and twice as large as the
+Tell Afis: Cecchini, “Un bâtiment mystérieux” (2000). Ugarit ones, were originally located in the courtyard of a Phoenician
+98 The additional buildings surrounding the Square with the sanctuary (Hermary, Amathonte II [1981], 83–84, with pl. 19–20;
+Basin are poorly known, except for the so-called “Queen Mother’s Léon, “Le second vase d’Amathonte” [1990], 11–14). In 1865, it
+Residence,” an elite building whose specific function and degree of took French military sixteen days to move one of them to the nearby
+connection to the royal compound still eludes us. beach to ship it to Paris (Commandant, “Comment fut transporté
+99 Margueron, who led the excavations, interpreted it as a space le vase d’Amathonte” [1927]: 239–47). A miniature reproduction
+for “a community [. . .] of a large number of people” (Margueron, from Idalion, now in the Louvre, shows that such vases had stairs
+“Ras Shamra 1975 et 1976” [1977], 176). According to Yon, it may attached (Hermary, Sculptures [1989], 446, no. 919).
+have been a “local tavern” (Yon, City of Ugarit [2006], 59). 104 Zamora, “El ánfora cananea” (2003).
+Urban Squares in Late Bronze Age Ugarit ! 391
+Figure 6—The Square with the Vase and its surroundings. The figure georeferences and combines plans published in Yon, City of Ugarit,
+figs. 20, 36, 37.
+Figure 7—Approximate sketch of the view inside the Bâtiment au vase de pierre from the square. The original field photo is from Teba and
+Theodossopoulos, Graphic Reconstruction, 392, fig. 6.
+392 ! Journal of Near Eastern Studies
+carved in the inner bottom of each vase for the set- occasions, the royal house granted great quantities of
+tling of sediments suggests that they contained wine, different kinds of wine for collective drinking feasts.
+or mixed alcoholic beverages. This is further confirmed The text KTU 4.213, for example, lists a royal deliv-
+by the retrieval of high-quality, Aegean-style kraters ery of 200 jars (corresponding to 2,200 liters) of wine
+from the main hall and of a large quantity of stored or “on the occasion of the sacrificial banquet” (l. 24).112
+discarded pottery, including Aegean-style drinking sets, Drinking feasts play an important role in several Uga-
+from a southern annex. At Ugarit, Aegean-style kraters ritic literary passages, which are sometimes positive
+were employed by the mercantile elite105 as fine table- and explicit in their portrayal of the resulting drunk-
+ware for serving wine and wine-based alcoholic bev er- enness.113 In the Epic of Baal, an attendant to the god
+ages on formal occasions. Based on its layout, monu- prepares a celebratory banquet and serves hyperbolic
+mental qualities, and inventory, the Bâtiment au vase de quantities of wine, drawing it from an evidently huge
+pierre has been convincingly interpreted by Silvana di wine container. The passage specifies: “a thousand jars
+Paolo as an assembly hall for collective drinking.106 In- he scooped up from the wine vat, ten thousand he
+dependent rooms in surrounding buildings may have mixed from the mixture” (KTU 1.3 I 15–17);114 Baal
+been connected to it as annexes with storage and pre p - himself drank from “a large, imposing vessel / a cup
+aration functions.107 for mighty men” (KTU 1.3 I 12–13) and drinking ves-
+At Ugarit, wine was a valued commodity,108 cul- sels in general held great symbolic significance in Uga-
+tivated with innovative techniques.109 It appears that ritic mythology.115 Mythological scenes found a direct
+its production and circulation was almost exclusively reflection in actual rituals and festivities where deified
+in royal hands, and that considerable quantities were vessels and jars received offerings.116 Vessels were also
+stored directly in the Royal Palace.110 Large store- significant cultic paraphernalia: some rituals, for exam-
+rooms—one of them still filled with jars—were located ple, required the use of a silver “cup of the gods” for
+at the southwestern corner of the Royal Palace, less whose manufacture “a total of 150 shekels [i.e., almost
+than 60m away from the entrance of the Bâtiment au 1.5 kg] (of silver) were deposited.”117 In light of the
+vase de pierre.111 Textual sources indicate that, on ritual combined archaeological and textual evidence, I pro-
+pose to see in the Bâtiment au vase de pierre a venue
+105 Steel, Materiality and Consumption (2013), 33–34. for state-sponsored collective wine-drinking events of
+106 di Paolo, “Batiment au vase de pierre” (2010), 99–107. Al- the kind that transpires from the examples above.
+though this urban ensemble has been interpreted by some as a tavern In conclusion, the public space around the Royal
+surrounded by small shops (Yon, City of Ugarit [2006], 68; Teba and Palace seems to reflect royally-sponsored situations,
+Theodossopoulos, “Graphic Reconstruction Methodology” [2016],
+with large gathering spaces for the civic community
+390–92), the monumental qualities and the layout of the Bâtiment
+and a three-tiered hierarchy of facilities for commu-
+au vase de pierre are suggestive of formal and ceremonial gather-
+ings. According to McGeough, it might have been a meeting hall for nal consumption: the Pillared Building inside the royal
+elite drinking, for which he calculates a dozen participants (Mc- compound for the selected few, the Bâtiment au vase
+Geough, “Locating the marzihu” [2003], 410). However, given the de pierre at the Square with the Vase for a more broadly
+size of the hall, its monumentality, and its location on the Square
+with the Vase and next to the Royal Palace, it is likelier that a higher
+number of participants convened to the spot for formal and festive, 112 Matoïan and Vita, “Administration of Wine” (2018): 312. See
+but less exclusive and less private purposes. also RS 19.015, which lists a minimum total of 74 jars (814 liters)
+107 For instance, the nearby “Annex H” of the so-called Maison of wine “to be consumed during the royal sacrificial rites” (Pardee,
+aux Albâtres was found littered with sheep and goat bones, inter- Ritual and Cult [2002], 215–16 no. 59 and 219–20 nn. 12–13).
+preted as remains of meat preparation and consumption: Chahoud 113 Zamora, “L’ébriété à Ougarit” (2005); Matoïan, “Du vin
+and Vila, “Exploitation of Fauna at Ras Shamra” (2017). pour le délice de l’assoiffé” (2013).
+108 Monroe (“Measure for ‘measure’” [2016], 92) calculates its 114 Translation adapted from Wyatt, Religious Texts (1998), 71.
+price at 0.026 shekels per litre (a sheep = 1 shekel; a horse = 35 shek- Further emphasis placed on the size of the drinking sets (ll. 12–13:
+els and up, etc.). “a large, imposing vessel / a rhyton for mighty men”) indicates that
+109 Mazzoni, “Age of Migrations” (2018), 212. they were taken to be in direct relation to the exceptional quality of
+110 Zamora, “La vid y el vino” (2000), 102; Matoïan and Vita, the event (Smith, Ugaritic Baal Cycle [1994], 95, 109).
+“Administration of Wine” (2018). 115 The evidence is reviewed extensively in Belnap, Meal Events
+111 Al-Maqdissi and Matoïan, “Céramique découverte par C. in the Ritual Imagery (2008), esp. 167–86.
+Schaeffer” (2008), 129. This part of the palace was connected to the 116 Koitabashi, “Deification of the Lyre” (1992), esp. n. 3.
+South Square through at least one, perhaps two gates: Yon, City of 117 KTU 4.280: 13–14; Lipiński, “Condition of the Clergy”
+Ugarit (2006), 36. (1988), 140 n. 87.
+Urban Squares in Late Bronze Age Ugarit ! 393
+defined elite, and the building with the sink filled with the Royal Palace. Both areas were structured according
+cups east of the Square with the Basin for the rest of to a nested, incremental, socially-graduated hierarchy
+the civic community. The fortified gates to the royal of access to ritual and celebratory space. The lower tier
+compound further enhanced the tiered-space organi- of this hierarchy was constituted by a system of same-
+zation by drawing a line between an inside ceremo- sized squares integrated into the public street network.
+nial space around the royal courtyard and an outside These squares, large enough to accommodate a signifi-
+ceremonial space around the public squares. Both sets cant share of the total population, connected to segre-
+of ceremonial spaces replicate similar principles: the gated formal spaces for rituals and elite commensality.
+royal courtyard granted access to the Royal Chapel
+and the Pillared Building, while the squares granted
+The Square with the Stairway
+direct access to a temple (the Bâtiment au trône) and
+other feasting facilities. The royal compound and the The rebuilding of the Temple of Baal stretched over
+surrounding public space communicated through asym- several years123 and was heralded as a historic mile-
+metric, top-down sightlines from secluded locales (win- stone.124 The temple was surrounded by a walled pre-
+dows and rooftops) to the squares.118 cinct. 125 The precinct’s focus was the courtyard in
+front of the temple, equipped with a stepped altar and
+a statue representing a Ugaritic king—the only statue
+The Temple Squares
+found in the city so far.126 The courtyard had a wide,
+The third and last city sector where squares played a grand entrance facing west, where a monumental stair-
+significant role was the so-called Acropole, Ugarit’s way, or stepped ramp, led to a square at one end of the
+highest ground in the north-eastern part of the city rectilinear street to the royal Palace. In this space, no
+(see Fig. 8). Here, two imposing temple-towers and Late Bronze Age building was recorded. Following ex-
+a major official building were located: the Temple of isting containment walls and the perimeter of known
+Baal, a twin temple of uncertain identification,119 and, buildings, I propose to reconstruct on the sloping
+between them, the Maison du Grand Prêtre, the resi- ground an elongated square with a minimum extent
+dence of the High Priest, the highest religious office of of c. 500 m2 (see Fig. 8, the Square with the Stair-
+the city. According to Callot, the temples of the Acrop- way).127 In the middle of this space, the grand stairway
+ole were built at the end of the 19th century.120 For cen- guided movement and vision towards the temple. The
+turies, they dominated the skyline as twin structures. pathos of the ascension was further underscored by
+Around 1250, they collapsed. In the decades that fol- four relief steles (see Fig. 9), each decorated with the
+lowed, the Temple of Baal was rebuilt according to image of a striding god,128 probably set on an elevated
+the original plan.121 Conversely, the twin temple’s rub-
+ble was levelled, its precinct dismantled, and its mas- 123 Ibid., 62.
+sive foundations reconverted into a flat platform122 sur- 124 Specifically, it was transfigured into a key episode of the Epic
+rounded by a large, irregular public square. of Baal, as discussed in Wyatt, “National Memory” (2017).
+125 Estimated by Callot, Sanctuaires de l’Acropole (2011), 54, as
+The reorganization of space on the Acropole fol-
+occupying c. 900–1000 m2; excavated c. 895 m2.
+lowed criteria similar to the re-planning in and around
+126 RS 4.546: M. Yon, Arts et industries de la pierre (1991), 347
+fig. 1 a; Callot, Sanctuaires de l’Acropole (2011), 56. The identifica-
+tion with a king is based on the Wulstmantel typical of Syrian royalty,
+118 This configuration was not entirely new, an earlier version of also used in contemporary images of Ugaritic kings: note the lime-
+the Bâtiment au vase de pierre pre-dated the renovation. In a pre- stone statuette RS 88.70 and the image on cultic stand RS 78.041
+vious phase, a bakery was also located here, the so-called Maison (both from the Sanctuaire aux Rhytons) as well as the image of the
+aux Fours, where large quantities of bread were produced: Curtois, king on stele RS 4.227 (Baal au foudre). See also Niehr, “Sanctuaire
+“Fouille d’une maison du bronze récent” (1974): 25–28. Appar- aux rhytons” (2014): 74.
+ently, the 13th-century plan expanded and elaborated upon an ex- 127 Callot, Sanctuaires de l’Acropole (2011), 25, 55, ascribes the
+isting urban configuration, enhancing its formal and ceremonial lack of architecture to erosion.
+aspects. 128 The steles are RS 4.427 (“Baal au foudre”), RS 2.038 (“Stele
+119 Alternatively identified as Temple of Dagan or, more likely, of Anat”), RS 2.037 (“Baal au plumes”) and RS 4.429+ (“Baal au
+Temple of El: Feliu, God Dagan (2003), 272–74. cartouche”). The larger stele, RS 4.427, represents the god Baal and
+120 Haydar et al., “Rapport 2009 et 2010” (2013): 463. includes a miniature image of the king; the remaining three gods,
+121 Callot, Sanctuaires de l’Acropole (2011), 61. dressed in Egyptian attire, are the goddess Anat (perhaps) and two
+122 Approximatly calculated at c. 70cm high: ibid., 189 fig. 69. warrior gods with ambiguous attributes (one of them seems to wear
+394 ! Journal of Near Eastern Studies
+Figure 8—The squares on the Acropole: west, the Square with the Stairway; east, the Square with the Platform. Modified after Schaeffer,
+“Les Fouilles de Ras Shamra-Ugarit Huitième Campagne” (1937): pl. XXVI.
+terrace129 and re-creating a divine procession entering au foudre (RS 4.427), depicts the storm god killing the
+the sacred precinct. The larger stele, the famous Baal sea-serpent Yam130 and extending a protective dagger
+over a miniature king on a pedestal (perhaps a refer-
+ence to the royal statue erected inside the precinct).131
+ostrich feathers, typical of the Egyptian god Amun, but also a gazelle
+head protruding from his tiara, possibly identifying it as Resheph, Prominently displayed and remarkably accessible to all,
+represented according to Egyptian iconography: Levy, “Mekal Stela” the gods created a powerful visual connection between
+(2018). The steles are formally and stylistically homogeneous and evi-
+dently part of a single ensemble. They were recovered collapsed and
+partly fragmented north of the paved ramp; the findspots are given
+in Yon, Arts et industries de la pierre (1991), fig. 2. the sparse information given in Schaeffer, Ugaritica II (1949), 121–
+129 The steles were found in collapsed position; the reconstruc- 30.
+tion of their original set-up is hypothetically derived by Schaeffer, 130 I follow Wyatt, “Ba’al au Foudre” (2018).
+“Quatrième campagne (printemps 1932)” (1933), 122 fig.14, and 131 Niehr, “Sanctuaire aux rhytons” (2014): 74.
+Urban Squares in Late Bronze Age Ugarit ! 395
+Figure 9—The four steles recovered outside the temple gate: from left to right, RS 4.427 (“Baal au foudre”), RS 4.429+ (“Baal au car-
+touche”), RS 2.038 (“Stele of Anat”), and RS 2.037 (“Baal au plumes”). Line drawings and relative proportions from Yon, “Les Steles de
+pierre” (1991), 326–27, figs. 6–7.
+the square and the temple precinct, bringing the main ing Ugarit’s, increasingly adopted monumental images
+cultic actors out into the streets. to decorate public space. However, while other rulers
+This set-up is a unique and original example of Late under the Hittite sphere of influence followed the Hit-
+Bronze Age monumental public art, opening a win- tite visual language, at Ugarit the gods were depicted
+dow on the intertwining of politics and religion at Uga- in a local style, mixing traditional Syrian elements with
+rit.132 In the 13th-century, North Syrian rulers, includ- Egyptian attributes.133 Beyond the religious and cul-
+tural values that this choice may have conveyed, avoid-
+132 Monumental art has a long history in Northern Syria, but the ing Hittite signature visuals was a political statement
+specific inspiration for the Ugarit set-up may have been derived from
+Hittite prototypes: see the relief at Hattusha’s King’s Gate, dated
+to the late-14th century by Schachner, Hattusha (2011), 92–93, them as the backdrop for the royal state cult: Gilibert, “Religion and
+159, and also the storm god stela found at Çağdın (now Akçaköy), Propaganda” (2015), 138–39, and Glatz, “Landscape Monuments
+near Carchemish: Kunst- und Ausstellungshalle der Bundesrepublik and Political Competition” (2011).
+Deutschland, Die Hethiter und ihr Reich (2002), 349, cat. no. 127. 133 Ugarit’s avoidance of Hittite visuals as opposed to other cen-
+These are forerunners of later Iron Age public installations, such as tres’ adherence to them should not obscure the fact that Hittite sig-
+the Long Wall of Sculpture at Carchemish. Previous Syrian mon- nature images were controversially received everywhere. At Alalakh,
+umental reliefs, whose iconographies influenced later Iron Age art after the Hittites lost control of the city, an orthostat representing
+significantly, were only rarely used to decorate streets and squares. the former Hittite governor Tudhaliya and his wife Ašnu-Hepa was
+In the 14th century, however, the Hittites had started to use mon- reused as a step of the staircase to the main city temple, where it was
+umental art to decorate public spaces with religious reliefs, using regularly trodden over in contempt.
+396 ! Journal of Near Eastern Studies
+about Ugarit’s affiliations, independence, and ambi- visually linking the outside square, the courtyard, and
+tions, which favored Egypt over the Hittites as a cul- the highly segregated locations inside the temple. Only
+tural and political point of reference.134 Significantly, the very few were granted access inside the temple.
+the stele present the king as an integral part of the vi- Egyptian-style memorial steles erected inside the tem-
+sual ensemble, thus linking the philo-Egyptian stance ple’s cella by high functionaries epitomize that the tem-
+to the royal family. We need not think that this stand- ple’s space belonged exclusively to the uppermost re li-
+point was shared by the entirety of Ugarit’s civic com- gious and political echelons of the Ugaritic society.138
+munity. It is likely that different parties existed and that Several Levantine temples were similarly organized,
+monumental art was employed as a propaganda tool. combining a highly secluded inner sanctum of strictly
+The set-up’s addressee was the civic community, in- limited access, a segregated precinct for medium-scale
+cluding all those who did not or could not enter the elite gatherings, and an outside space for large-scale
+temple. The area in front of the temple was a bound- civic participation.139 The archaeological evidence in-
+ary space, since access to the temple was selective. The dicates that the celebrations in the temple precincts
+walls of the temple precinct acted as visual, symbolic, revolved around animal sacrifice and banqueting. This
+and emotional curtains.135 Their purpose was to segre- most ancient practice developed significantly in the
+gate the temple courtyard from the square, creating a Late Bronze Age, increasingly transforming temple
+secluded atmosphere. The temple courtyard was also a precincts and their surroundings into arenas for large-
+place where exceptional inscribed objects attesting to scale feasting.140 At the so-called Ceremonial Precinct
+the antiquity of the temple and the ruling dynasty were of Hazor, the debris of a great fire sealed the remains
+kept.136 When the gate’s double doors opened, the ar- of one such feast,141 leaving us with a virtual photo-
+chitectural ensemble’s affective power deployed its full graph of a situation that has a direct reflection in the
+potential, turning the main entrance into a theatrical Ugaritic urban organization. Nearly 17,000 discarded
+frame for the altar in the courtyard. The altar, a flat bones were found heaped on the floor around the altar,
+cultic platform,137 functioned as an architectural pivot, belonging almost exclusively to sheep or goats (67%)
+and cows (30%), with a preponderance of adult male
+animals.142 Justin Lev-Tov estimates that a minimum of
+134 The intertwining of art and politics at Ugarit are discussed
+by Glatz, “Negotiating Empire” (2013). See also Morris, “Egypt, 100 sheep and goats aged between one and three years
+Ugarit, the god Ba’al” (2015). The political meaning ascribed to se-
+lected iconographies is also evident in the monumental art of the Le-
+vantine Iron Age, when city-states ruled by dynasties with competing 138 Schaeffer, “Deuxième campagne (printemps 1930)” (1931),
+cultural identities used selected iconographies and monumental plate XIII, 3. The best known among these steles is the “Stele of
+scripts to play out their differences. For example, it is useful to con- Mamy,” recently re-discussed in Levy, “Baal-Zaphon Stele” (2014).
+trast Karkemish and Malatya, where the Luwian heritage was pre- 139 Among the best-documented are Ain Dara, Tall Munbaqa,
+dominant, with Zincirli and Tell Halaf, both ruled by Aramaean Tall Bazi, and Hazor: Otto, “Gotteshaus und Allerheiligstes” (2013),
+dynasties. Although these centres shared a common urban culture 375; Lev-Tov and McGeough, “Feasting in Late Bronze Age Syro-
+(Tamur, “Style, Ethnicity and the Archaeology of the Aramaeans” Palestine” (2007). Cf. also the case of Tell el-Qasīle (Vieweger, “Die
+[2017]), Karkemish and Malatya consciously promoted a long-term Kultausstattung “philistäischer“ Heiligtümer” [2012]) and of Tem-
+commitment to Hittite Empire signature images of power, while Ar- ple 1230 at LBA Beth-Shean (Mullins, “Late Bronze Age and Iron
+amaean elites at Zincirli and Tell Halaf carefully avoided them (Gili- Age temples at Beth-Shehan” [2012]). On access and space structure
+bert, “Religion and Propaganda” [2015]). of Levantine temples, see Susnow, “House of the Deity” (2020).
+135 Callot, Sanctuaires de l’Acropole (2011), 55. 140 Yasur-Landau and Susnow (“Ceramic Assemblages” [2017]:
+136 Before being abandoned, the temple was cleared. Subse- 144) advance two hypotheses to explain why during the LBA feasts
+quently, and increasingly so in the late-18th century ad, the ruins and banquets in temples increase: “These were likely means to rally
+were searched for treasures. This history of spoliation notwith- popular support of the rulership at times when the Egyptian court
+standing, excavations retrieved from the courtyard statues sent from presented onerous demands for taxes and corvée to the Canaanite
+Egypt (Schaeffer, “Quatrième campagne (printemps 1932)” [1933], rulers, which could only be met by placing a heavy burden on the
+plate XV), including two sphinxes inscribed with the cartouche of Canaanite commoners (. . .). Alternatively, we may attribute some
+Amenemhet III (Matoïan, “Ougarit et l’Égypte” [2015], 40), dat- Egyptian influence to such activities (. . .).”
+ing to the foundation of the temple c. 1800. In the courtyard was 141 Zuckerman, “Feasting in Late Bronze Age Hazor” (2007):
+also found a 15th-century royal letter (RS 4.449) mentioning the 196. For the interpretation of Building 7050 of Hazor’s Ceremonial
+name of the Ugaritic king Ibira, thus going back to the very origins Precinct as a temple, see Zuckerman, “Hazor’s Acropolis in the Late
+of the ruling dynasty (Vidal, “Origins of the last Ugaritic dynasty” Bronze Age” (2010).
+[2006], 173, with previous literature). 142 Lev-Tov and McGeough, “Feasting in Late Bronze Age Syro-
+137 Callot, Sanctuaires de l’Acropole (2011), 55. Palestine” (2007), 96, Table 5-1.
+Urban Squares in Late Bronze Age Ugarit ! 397
+were butchered on site.143 Modern studies indicate that all configuration was strikingly similar to Ugarit’s. At
+adult goats grazed on pastures yield on average 19 kg Emar, a “terrasse cultuelle” was built adjoining a pub-
+of edible meat.144 Applied to the Hazor assemblage, lic square,148 just opposite “Temple M”149 and next
+2
+this parameter gives a total of 1,900 kg of sheep or goat to the residence of the diviner (“Building M”).150 We
+1
+meat, arguably enough to feed the entire city. This can draw a parallel between this triad and the situa-
+amount was apportioned unequally. A relatively small tion at Ugarit, where the cultic terrace formed a unity
+quantity of selected cuts, specifically heads and limbs with the surrounding public square, the adjoining Res-
+(amounting to less than 9% of the animal carcass), was idence of the High Priest, and the nearby Temple of
+consumed in the precinct, together with rare delicacies Baal. Both configurations of space likely reflect similar
+such as fallow deer or Nile catfish, while the rest was multi-staged sacrificial rituals performed under the ae-
+consumed elsewhere. The Hazor assemblage gives us gis of the city’s pre-eminent religious officiants, tak-
+a key to read the organization of space in and around ing place partly inside the temples and partly outside
+Late Bronze Age temple precincts as venues for large- them.151
+scale celebrations where “ranked differences were rein- Two inscribed steles found in front of the terrace,
+forced through spatial differentiation of feasting par- RS 6.021 and RS 6.028, provide evidence for specific
+ticipants.”145 At Ugarit, this organization of space was sacrificial rituals connected to funerary cults.152 Their
+complemented by the creation of an ample gathering epigraphs (KTU 6.13 and KTU 6.14, respectively) com-
+space nearby, described in the following section. memorate funerary offerings (Ug. pgr) and the slaugh-
+tering of oxen.153 The rituals were sponsored by two
+eminent members of the Ugaritic high society, queen
+The Square with the Platform
+Tariyelli and Uzzinu, sākinu of the city.154 The steles
+The Acropole’s second temple was reconverted into a were probably intended as “a protocol documenting
+platform, coming to occupy the center of a large irreg-
+ular square (see Fig. 8).146 Similar elevated terraces in
+148 Margueron, “Architecture et urbanisme” (1982), 31–32.
+the middle of open spaces are known from other Le-
+149 Perhaps to be identified with the temple of dnin.urta, a god
+vantine sites, including Ebla, Tell Afis and Emar, where
+of town affairs, according to Fleming, “Textual Evidence for a Palace
+they were used as sacrificial spaces and focal points of at Late Bronze Emar” (2012), 108.
+collective feasts.147 At Late Bronze Age Emar, the over- 150 Building M was the residence of the Zū-Ba‘la family, a dy-
+1
+nasty of diviners, prominent religious leaders and masters of a scribal
+school from the 1260s to the 1180s: Cohen, Scribes and Scholars of
+143 Ibid., 99. Emar (2009), 147–238 (ch. 5), “The scribal school at Emar” (2012).
+144 McGregor, Meat and Offal Yields of Goats (2007). On absolute chronology, see also Démare-Lafont and Fleming,
+145 Lev-Tov and McGeough, “Feasting in Late Bronze Age Syro- “Emar Chronology and Scribal Streams” (2015).
+Palestine” (2007), 107. The Hazor assemblage compares well with 151 At Ugarit, stone slabs, a round stone basin and a stone trough
+pre liminary data from Tall Bazi: Otto, “Ritual Commensality and Daily found next to the platform may further index the presence of animals
+Commensal Practices” (2015) and “Gotteshaus und Allerheiligstes” and food processing activities, although their publication is limited:
+(2013), 375. Schaeffer, “Deuxième campagne (printemps 1930)” (1931), pl XI,
+146 Although excavations did not detect the square’s limit, its ap- 2, to be integrated with Matoïan, “Le aleph et le taw” (2016), 57
+proximate extent is likely to have been around 1,000 m2: Callot, table 1, pt. 10. Callot interprets these installations as the remains of
+Sanctuaires de l’Acropole (2011), 85. an oil mill, but does not elaborate further (Callot, Sanctuaires de
+147 See the overview of the evidence in Mazzoni, “Open Spaces l’Acropole [2011], 32). Further findings retrieved on the cultic ter-
+Around the Temples” (2015). Specifically for Tell Afis, see Mazzoni, race include figurines of an ox (RS 6.020) and a lion (RS 6.265; “Le
+“Temples at Tell Āfīs” in (2012); for Umm el-Marra, Schwartz, aleph et le taw” [2016], table 1, pts. 3, 14).
+“Memory and its Demolition” (2013); for possible evidence at Byblos, 152 Niehr, “Zwei Stelen mit Weihinschriften” (2011), 84–86,
+Sala, “Early and Middle Bronze Age Temples at Byblos” (2015). with reference to previous literature.
+Cultic terraces in public areas are also known in Late Bronze Age 153 Loretz and Dietrich, “‘Weihen‘ (ʻly S) von pgr, Ochsen und Ge-
+Cyprus, for examples at the sites of Myrtou Pighades and Phlam- genständen” (2005); Lange, “Food and Libation Offerings” (2012),
+oudi Vounari: Knapp, Archaeology of Cyprus (2013), 376–79. Iron 170–71.
+Age parallels along the Levantine coast are the Sanctuaire B1 at 154 The sākinu was the most important political officer of the city
+Tell Tweini (Bretschneider at al., “Gibala: the First Two Excavations” after the king. He exerted authority in several fields, most impor-
+[1999]), a structure at Sarepta (Pritchard, Sarepta [1975], fig. 36), tantly acting as judge in prominent legal disputes, notably as a rep-
+and, most significantly, the spectacular sacrificial terraces at Hama, resentative of the king in supra-regional court-cases presided by the
+Carchemish, and Tell Halaf: Gilibert, “Archäologie der Menschen- viceroy of Carchemish: van Soldt, “City Administration of Ugarit”
+menge” (2012). (2010), 251–55.
+398 ! Journal of Near Eastern Studies
+the legacy of a person, made for the time following his just by looking at something evil or by being acciden-
+death.”155 Yet they also memorialized the specific event tally exposed to magical substances.161 The negative
+of their erection. A possible occasion to consider is the association of squares and crowds resonated similarly
+funeral of king Niqmaddu III around 1215–1210 bc, in 13th-century Ugarit. At schools, Ugaritic scribes
+in which both Tariyelli, who was Niqmaddu’s mother, probably studied the Instructions of Shuruppak,162
+and the city as a collective ritual entity played a major a Sumerian text admonishing thus: “You should not
+role.156 It was perhaps upon this specific occasion that place your house next to a public square: there is
+the cultic terrace first came into use. always a crowd there.”163 The Ugaritic incantation
+RS 22.225, another educational text copied as a school
+exercise, identifies the market, the assembly, and the
+The Separate Coexistence of Ceremony
+city gate as places of exposure to the “evil eye.”164 Such
+and Market
+cautionary passages indicate, of course, that people
+The comparative analysis of urban space at Ugarit un- would often spend considerable time doing business
+derscores the coexistence of two clearly differentiated in the streets and that some enjoyed the thrill of city
+kinds of squares: a set of connected ceremonial squares life. In the ancient Near East, pū sūqim, the “voice of
+and a market square. In this section, I argue that the the street,” was a widespread cause of anxiety.165 In a
+two sets of spaces held equally important but contrast- wisdom text taught at the scribal school hosted at the
+ing political significance and were construed as mutu- Maison aux Tablettes, citizens were advised: “In the
+ally exclusive spaces. Specifically, I argue that the Cen- alley, in the street, in the square—do not open your
+tral Square was ambiguously perceived as an important mouth!”166 In fact, the power of rumor and gossip can-
+and necessary but potentially dangerous social space, not be overstated. They ruled over prestige and reputa-
+where individuals gathered off the radar of official con- tion, helping to shape consensus and stimulate political
+trol. Conversely, ceremonial squares were devised as action.167 Humorous tales from Babylonia, such as The
+public spaces for civic rituals, where social interactions Poor Man of Nippur or The Doctor of Isin, mention ur-
+followed formal rules and reinforced a specific ideolog- ban squares as the quintessential place where people
+ical and religious discourse. risked defamation and ridicule.168 Market squares, in
+Textual sources help us explore the socio-political particular, were flexible gathering spaces which inher-
+connotation that the Central Square might have had for ently promoted informal civic engagement.169 They
+Ugarit’s citizens. Iron Age II biblical sources connote were liminal spaces where insiders mingled with out-
+urban squares (Hebr. reḥōb) as informal and danger- siders, and where subversive political actions might
+ous places (Prov. 22:13), where foreigners, prostitutes be taken. Pertinently, a text from Emar described in
+and “strange women” hang around (Judg. 19:15–30; graphic terms how the local market square once became
+Gen. 19:2; Prov. 7:12),157 episodes of violence are
+usual (Prov. 26:13), and righteousness “cannot enter”
+(Isa 59:14).158 Squares are also a privileged place for 161 Steinert, “City Streets” (2014), 139.
+162 Viano, Reception of Sumerian Literature (2016), 361. An-
+public shaming (2 Sam. 1; Deut 13:17) and rumors
+other Akkado-Hurrian bilingual is documented at Ugarit in RS 15.10
+and gossip (Prov. 1:20).159 In cuneiform sources, pub-
+(Arnaud, Textes de bibliothèque [2007], 46).
+lic space often bears similar negative associations, also 163 Black, Literature of Ancient Sumer (2006), 285. See also
+including associations with dirt, stench,160 pollution, Alster, Instructions of Suruppak (1976).
+and witchcraft: demons and witches were believed to 164 I follow Pardee, Ritual and Cult (2002), 162. For this incan-
+roam the streets, and a passer-by could be bewitched tation as part of the scribal curriculum, see Márques Rowe, “Scribes,
+Sages and Seers in Ugarit” (2008), 105.
+165 Steinert, “City Streets” (2014), 149–50.
+155 Niehr, “Zwei Stelen mit Weihinschriften” (2011), 154. 166 Ugaritica V, 163: I 21–22; II 28–31. See also Cohen, “An As-
+156 As attested in the passage KTU 1.161, ll. 32–34. syrian Teacher at Ugarit?” (2017), who links the manuscript with the
+157 Schmidt Goering, “Moving and Thinking” (2019), 76. activity of an Assyrian scholar teaching at the Maison aux Tablettes.
+158 Wright, “Urban Gates, Squares and Power” (2002), 28–29. 167 Besnier, Gossip and the Everyday Production of Politics (2009);
+159 See also Rendu Loisel, “When Gods Speak to Men” (2016). Laurence, “Rumour and Communication in Roman Politics” (1994);
+One is reminded of an ironic graffito at a market square at Roman Hunter, “Gossip and the Politics of Reputation in Classical Athens”
+Ostia: lege et intellige mu(l)tu(m) loqui ad macellu(m), “read and (1990).
+understand that at the market many things are said.” 168 D’Agostino, Testi umoristici (2000), 120.
+160 De Zorzi, “Rude Remarks not Fit to Smell” (2019). 169 Fisher, “Making the First Cities on Cyprus” (2014).
+Urban Squares in Late Bronze Age Ugarit ! 399
+the epicenter of a political revolt involving both peas- feasting. Furthermore, rituals were sometimes explicitly
+ants and high-ranking officials.170 When, as in the case performed on behalf of the urban population in its en-
+of Ugarit’s Central Square, the seat of power was not tirety173 and involved urban processions with numerous
+immediately adjacent, centralized control was a logis- stations.174 Texts from Emar also specify that, during big
+tical challenge.171 This background may explain why, festivals, different people had different access to specific
+at Ugarit, the market square was kept separate from spaces, rituals, food, and alcoholic beverages according
+governmental consensus-seeking initiatives and urban to their rank and status,175 in a way that resounds well
+planning. with the archaeological evidence from Ugarit.
+At Ugarit, decision-makers counteracted the mar- Lev-Tov and Kevin McGeough propose that the ra-
+ketplace as a designated place of interpersonal contact tionale of public feasting in the Late Bronze Age Levant
+by creating new ceremonial squares for communal ritu- was to enhance a sense of common belonging while at
+als around representative institutions. In particular, the
+ruling dynasty co-opted community cults to legitimate
+the local political course, investing resources in build-
+autumnal “Festival of the First Wine,” for example, at least fifty-eight
+ing squares gravitating around the royal compound
+ewes, fifteen rams, thirty-five cows and two bulls were slaughtered,
+and the Temple of Baal. These new ceremonial squares an event that must have yielded over three tons of meat. Calculated
+played a pivotal role in defining access to and seclusion after the animal sacrifices listed in RS 1.003, as published in Pardee,
+of selected symbolic spaces. In particular, specific ar- Ritual and Cult (2002), 59–65. Calculations do not account for
+chitectural devices were employed to create visual links possible repetitions of selected sets of offerings (e.g., as indicated in
+l. 36), which would further multiply the results. I already introduced
+between spaces otherwise separated, as in the case of
+above the factor of 19 kg of edible meat per sheep or goat. For an
+the gate to the Temple of Baal, which opened onto the
+approximate quantification of the meat yield of a beef carcass, I use
+courtyard altar, and the door to the Bâtiment au vase here a very modest factor of 50 kg of meat per cow or bull. The situ-
+de pierre, which framed the colossal stone vase inside. I ation was similar at Emar, where for the big zukru festival the killing
+argue that this configuration was planned to integrate of 700 lambs and fifty calves was prescribed: Fleming, “Textual Evi-
+dence for a Palace” (2012), 104.
+large-scale, community-wide events with exclusive feasts
+173 As in the royal funerary ritual KTU 1.161, or the “ritual for
+and rituals.
+national atonement” KTU 1.40. The latter explicitly includes women
+Textual evidence supports the notion that public fes- and foreigners, and envisages a public, collective atonement celebra-
+tivals and other collective events in the Ugaritic cultic tion under the aegis of the king and queen of Ugarit. Sanders inter-
+calendar saw the participation of many, and sacrificial prets it as a distinctive “model of political communication in which
+lists confirm that, upon the occasion of the big festivals, power flows from the ability to recruit people into relationships of
+alliance [. . .] through ritual and persuasion” (Sanders, Invention of
+a great number of animals—mostly sheep, goat, and
+Hebrew [2009], 75). At Emar, where the cultic calendar was close
+cow—were offered to the gods, yielding vast quantities
+to Ugarit’s and written evidence more explicit, public gatherings of
+of meat172 and implying large-scale redistribution and the entire population for sacrificing rituals happened several times
+on occasion of the zukru-Festival: see the numerous attestations
+presented in Fleming, Time at Emar (2000), 49, 72–73, 82, 91,
+170 Adamwhite, Late Hittite Emar (2001), 233–39; Durand, 108 n. 265, 126, 148 (the whole population eats at the gate), and
+review of Arnaud, Emar VI/3 (1989); Arnaud, Recherches au Pays 153–54. See also Fleming, “The Emar festivals” (1996). For the spe-
+d’Aštata (1986), 26–27, text no. 17. For marketplaces as loci of cific role played by public space during the zukru-Festival, Ma nuelli
+conflict and sedition there is much comparative evidence from early and Mori, “The King at the Gate” (2017): 231. For a ritual banquet
+modern Europe, e.g., van Gelder, “Protest in the Piazza” (2020). which saw the participation of the whole city and took place “in
+171 An opposite situation may be observed in Late Bronze Age front of Dagan” at the time of Zimri-Lim of Mari, see ARM XXVI
+Nuzi, where the interconnected open spaces “C49–D11” and “I19– 215: 9–14.
+I21,” which may be tentatively identified with the “small market” 174 KTU 1.43, for example, prescribes that the king shall walk
+and the “big market” mentioned in the texts (CAD M/I, 93a, s.v. a seven-fold circuit, leading a parade of divine effigies through the
+maḫīru 1 [“market place”]; cf. Zaccagnini, “Markt” [1989–90]: city, and that “everyone shall follow the gods on foot” (l. 24). In
+422b), were sandwiched between the city gate and the palace: Starr, some cases, religious processions were organized as a response to
+Nuzi (1939), with plans 11 and 13, 198, 205, 250–53. emergencies (e.g., an enemy siege: KTU 1.119). Mostly, however,
+172 Pardee, “Animal Sacrifice at Ugarit” (2000), 325. The early processions were held at prescribed moments of the year (e.g., the
+Iron Age “Processional Entry” at Carchemish, where images of explicit mention of the date in KTU 1.112, l. 1). The Ugaritic texts
+young men bringing calves and sheep to the altar lined the city’s also indicate a diversified organization of ritual space, mentioning
+ceremonial square, delivers a graphic illustration of the intertwin- ritual rooms within the Palace, “sacrificial pits” elsewhere, and other
+ing of urban space, collective participation and animal sacrifice (Gil- enigmatic structures (Pardee, Ritual and Cult [2002], 228–29).
+ibert, Syro-Hittite Monumental Art [2011], 120–21). During the 175 Fleming, “Seeing and Socializing with Dagan” (2015).
+400 ! Journal of Near Eastern Studies
+the same time reinforcing existing social hierarchies.176 appears to have been the houses surrounding the Tem-
+At Ugarit, the creation of large public squares around ple of Baal181 and the Maison du Grand Prêtre in partic-
+the religious and political building bears witness to spe- ular, where unique copies of the most impor tant myth-
+cific attention given to extensive participation in ritu- ological and religious texts were kept.182 This major
+als and celebrations. These new spaces, organized as official building, located between the Temple of Baal
+a series of stations connecting the royal Palace to the and the Square with the Platform, housed the High
+Acropole, were part of a broader strategy to exalt the Priest’s own scribal school.183 From here, the High Priest
+king’s religious role and, ultimately, to rally public sup- acted as guardian and promoter of the religious role of
+port for the monarchy. the king, whom he addressed as “brother.”184 At the
+In order to appreciate the specifics of this strategy, same time, he was the organizer and main officiant of
+one must turn to Ugarit’s political discourse around the great civic liturgies.185 As such, the High Priest and
+1250. In this period, as the grip of Hittite hegemony the intellectuals frequenting his school functioned as
+weakened, Ugarit increasingly resisted Hittite demands an interface between the royal Palace and the rest of
+and eventually turned to overt insubordination, with the town.186 In this role, Ugarit’s clergy seems to have
+the last two kings of Ugarit, Niqmaddu III and Am- joined the monarchy in a more or less overt anti-Hittite
+murapi, refusing to comply with vassal obligations in stance,187 contributing to the development of a cultural
+several instances.177 This phase coincides with the pro- discourse exalting the king as quintessential to the lo-
+motion of a specific local identity. Local culture was cal identity. The trend may have not only generically
+empowered through a new writing system (alphabetic responded to Hittite imperialism, but also effectively
+cuneiform)178 and a new religious discourse which con- counteracted specific Hittite interferences in cultic mat -
+ferred a special prominence to the king as champion ters, which may have caused Ugarit’s clergy to side with
+of collective interests and counterpart on earth of the the local royals. Based on evidence from the archives
+god Baal.179 of Urtenu, Yoram Cohen has recently demo ns trated
+The think tank behind these cultural fabrications that Hittite officials were deeply involved in Ugarit’s
+was essentially state-sponsored,180 but the people in- religious life, sending their religious functionaries to
+volved were not necessarily based within the royal Pal- the city, advancing demands for Hittite rituals, imple-
+ace. Rather, the physical epicenter of this movement menting a state cult, and even taking over parts of local
+cults.188
+176 Hawley, Pardee, and Roche-Hawley, “The Scribal Culture of
+Ugarit” (2015). 181 Hawley, Sauvage, and Pardee, “The Scribe ṯab,ilu” (2013).
+177 Liverani, “Histoire” (1979), 1311–1312; Halayqa, “The 182 del Olmo Lete, Private archives of Ugarit (2017), 13–25.
+Demise of Ugarit” (2010); Devecchi, “Ugarit under Foreign Rule” 183 The Maison du Grand Prêtre was an expanded mansion with
+(2019). This perhaps extended even to faking Hittite royal docu- multiple entrances, multiple staircases, several archives, sparse do-
+ments, as indicated by the possible counterfeit of a Hittite royal seal mestic infrastructures and no tombs. Given its unique characteristics,
+identified by Glatz, “Negotiating Empire” (2013), 36. perhaps this building was the “priestly college” (Ug. dr khnm) men-
+178 Boyes, “Negotiating Imperialism and Resistance” (2019). tioned in KTU 4.357, l.24.
+179 Wyatt, “The religious role of the king in Ugarit” (2005). See 184 del Olmo Lete, Private Archives of Ugarit (2017), 23.
+also del Olmo Lete, “Littérature et pouvoir royal” (2012). Fleming 185 Ibid., 13
+has shown how the weight given to different gods had an overt polit- 186 Niehr, “Ritualtexte aus Ugarit” (2020).
+ical value. At Emar, he argues, the god Baal reflected royal interests, 187 Liverani (Histoire [1979], 1311) speaks of “passive resistence”.
+while the god Dagan was celebrated as a god of common citizens 188 Cohen and Torrecilla, “Hittite Cult in Syria” (2020). Hittite
+(Fleming, “Household and Community Religion” [2008], 49). The religious imperialism is also visible at Alalakh, which was ruled by
+Ugaritic Epic of Keret prefigures a situation in which a king is told to a Hittite governor who bore the title “Great Priest.” This charac-
+step down because of failures in addressing the problems of the com- ter took over the main local temple, introduced Hittite cults and
+mon citizens: Shedletsky and Levine, “The “MŠR” of the sons and made the city main temple the logistic base of Hittite administration:
+daughters of Ugarit (KTU2 1.40)” (1999), 338. This idea connects Yener, “Cult and Ritual at Late Bronze Age II Alalakh” (2017). Else -
+with the wider topic of the king who redressed social and economic where, the clergy was opposed to royal interests. At Emar, for ex-
+imbalances among the citizens, to become widespread in the early ample, where the local monarchy coexisted with strong collective
+Iron Age (e.g., in the Kilamuwa inscription): see the discussion in institutions, the diviner’s school was aligned with the latter and acted
+Liverani, Oltre la Bibbia (2004), 351–57. as a loyal collaborator of the Hittites, promoting civic liturgies in
+180 A clear measure of that is the personal seal of Ammistamru II, which the role of the local king was limited: Cohen, “The Admin-
+king of Ugarit c. 1260–1235 bce, which was inscribed in alphabetic istration of Cult in Hittite Emar” (2011), and “Public Religious
+cuneiform. Sentiment and Personal Piety” (2007), 332. On the alignment with
+Urban Squares in Late Bronze Age Ugarit ! 401
+The construction of new urban squares for commu- the Central Square as a gathering space topologic ally
+nal celebration is best understood as a facet of the cul- independent from the Palace or the Temple. Con-
+tural program of the upper echelon of Ugaritic society. versely, the urban design analysis focuses on geomet-
+The king and the clergy advanced it on many levels, rical features such as elevations, decorative frames, and
+including the promotion of rituals played out in the monuments. In the process, it identifies the connota-
+streets. While innovations in writing systems and the tions of urban space as intended by the planners. This
+nuances of literary compositions addressed a limited line of inquiry has proven crucial to define Ugarit’s
+audience,189 communal celebrations involved the ur- ceremonial squares and highlight their affective power.
+ban population in its entirety. Ugarit’s population was Finally, the analysis of the archaeological inventories
+culturally mixed, economically affluent, and, as dis- introduces the perspective of ancient users. At Ugarit,
+cussed above, entangled in conflicting interests.190 The the inventories contribute to the identification of the
+“ritual for national atonement” explicitly invited the Central Square as a marketplace, even if the available
+city population’s different components to seek unity, documentation is incomplete (as a corrective to this
+which aptly illustrates how ritual was used to consoli- limitation, Ugarit offers an extraordinary amount of tex-
+date consensus in a socially tense environment. In this tual information, which enormously enriches our un-
+framework, ad-hoc urban squares significantly boosted derstanding of urban life). While each method has sig-
+the community impact of consensus-building events, nificant drawbacks, a takeaway lesson from the case of
+whereas the market square was probably seen as a space Ugarit is that their combination creates a solid inter-
+where social conflict was prone to surface in explicit pretative framework.
+forms. Ugarit was one of the first great Mediterranean cit-
+ies. Comparative urban studies define the Mediterra-
+nean city as a compact and diverse cityscape centered
+Concluding Remarks
+on squares. Its long-term identifying features are the
+This paper delineates a new framework for looking at interplay of sacred and secular in its street life com-
+ancient squares as political spaces. In doing so, it ap- bined with an enormous force of attraction as a place
+proaches urban space as an organic, dynamic, and multi- of quintessential civilization and economic opportu-
+scalar system of intersecting interactions, in which nities.191 To this day, urban planners across the globe
+the street network functions as prime connector and strive to replicate these features and materialize a
+point of encounter for different social groups. From “Mediterranean” sense of place. But where and un-
+the archaeologist’s point of view, the challenge lies in der which conditions did it all begin? Because of the
+disentangling the footprint of the top-down planning central role of urban squares as community spaces, the
+of ruling elites from the material traces left by the cradle of Mediterranean urban culture is usually quite
+bottom-up actions of other social subjects. I tackled firmly placed in the agoras of Classical Greece. But the
+this problem by combining three methods of inquiry: case of Ugarit proves that the history of the Mediterra-
+the analysis of space configuration, the analysis of ur- nean squares is considerably older, and that part of its
+ban design, and the contextual analysis of small finds roots sink deep into the shores of the ancient Levant.
+and their distribution.
+The analysis of space configuration studies the
+Commentary
+movement of people strictly in terms of access, predict-
+ing areas of intense pedestrian circulation with algo- Daniel E. Fleming, New York University
+rithms tested empirically. At Ugarit, it helps distinguish
+I come to this stimulating contribution from long-
+standing interest in political patterns of second-
+collective institutions, see Fleming, The Emar Festivals (1996), 85, millennium Syria though not as a specialist on Ugarit.
+and “Household and Community Religion” (2008), 48–49.
+Gili bert’s examination of the city’s public places in the
+189 Boyes “Negotiating Imperialism and Resistance” (2019):
+context of its remarkably well-preserved urban plan is
+10–11.
+190 Administrative sources document the social tensions ensuing rich in observation of the site and in conversation with
+from specific restrictions, special obligations, and differential treat- specialized studies of relevant social phenomena. We can
+ments for different groups. For example, the text RS 17.130 (PRU IV,
+103–105) indicates that Hittite merchants from the port city of Ura
+(Cilicia) were not allowed to own a house or land at Ugarit. 191 Leontidou, “Mediterranean City” (2020).
+402 ! Journal of Near Eastern Studies
+almost smell the inhabitants as they press against each its Central Square with earlier periods. Throughout the
+other in the city squares. While texts play a role in the discussion, chronological considerations are acknowl-
+discussion, the main conclusions are driven by an archae- edged ad hoc but play a secondary role in the general
+ologist’s interpretation of patterns in excavated space. analysis, although expanding royal power in communal
+I know history best by texts and benefit from the con- life lies at the root.
+trasting sensibility. I would look for greater possibility for varied histor-
+I begin with what persuades, and this is substantial. ical outcomes in the context of certain spatial patterns,
+“Urban squares” are the particular excavated features perhaps with the operation of other social forces not
+that allow interpretation of a city as whole popula- visible in the physical remains. Population density may
+tion—a public, as such and in relation to institutions be higher in walled cities than in rural villages. But are
+of governance and communal identity, such as major all cities to be regarded equally as battlegrounds for
+temples. Here is a place to examine the relationship be- competing interests based only on that density? Why
+tween people and centers of authority. At Ugarit, there must the mix of households with different incomes be
+is a basic contrast between the “Central Square” near “tense”? Sometimes, indeed, but what other factors
+the main city gate and the other four excavated squares, might affect the reasons for family location and the
+two next to the palace and two next to the Baal tem- nature of relations between families? Commercial part-
+ple. The primary contrast is temporal, with the Central nerships need not bind financial equals, and smaller
+Square evidently oldest and certainly not established houses could relate to larger ones by generational dif-
+to suit 13th-century city planning. The other two pairs ference or marital arrangement.
+of public places appear new to the urban design of the The Central Square intrigues me particularly. It may
+mid-13th century. be too limiting to define it only by its function as a “mar-
+All the houses of Ugarit represent a concentration of ket,” without the possibility of gathering for ritual,
+wealth generally denied the residents of villages in the judicial, or collective political purpose. With Emar’s
+surrounding countryside. They vary considerably in zukru rites in view, the unexcavated space just outside
+size, with small and large mingled on the same streets, the main city gate could also have served old public as-
+not segregated into neighborhoods by class. There is sembly. The fact that houses do not open directly on
+no need to understand city blocks to align with in- the square is intriguing but need not reflect it as “dan-
+dividual clans, and relationships appear instead to be gerous,” and the texts invoked to support the idea do
+“networked” more complexly. Though substantial in not represent the full range of reference to pub lic places
+size, the entire city was quickly accessible on foot, and in all their excitement and energy.
+primary social contact was in the streets. This urban Once, I contrasted kingship at Ugarit and Emar to
+fabric, with its strong residential component and Cen- emphasize the dominance of the former. But Gilibert
+tral Square at some distance from palace and major now has me wondering whether the communal fabrics
+temples, existed before the innovations of the mid- were more deeply alike, only with different outcomes
+13th century and stood in different relation to an earlier in the regional political play of the 13th century.
+configuration of monarchy. One key function of the
+old public square was commercial. This certainly in-
+Virginia R. Herrmann, University of Tübingen
+volved the immediate countryside, but I would not ex-
+clude long-distance trade, which need not have de- Alessandra Gilibert deftly weaves together a plethora of
+pended only on palace initiative. Novel construction of textual, archaeological, and architectural evidence into
+public space in the 13th century reflects an effort by kings a rich new picture of urban assemblies in Late Bronze
+to bring new order and hierarchy under their authority Age Ugarit. This “archaeopolitical” approach to the
+to older city custom, including communal worship of interpretation of urban space and social geography
+Baal and wine-centered feasting. in an ancient Near Eastern city is most welcome, and
+Within the framework of this compelling analysis, Gilibert’s masterful case-study demonstrates the revela-
+I find particular interpretive choices unnecessarily limit- tory potential of integrating urban streets and squares
+ing, especially where patterns of spatial relations are with other evidence in an explicitly political and his-
+understood to have only a single probable explanation. toricized perspective.
+First, the opening choice of the 13th –9th centuries breaks The “square” in the ancient Near East has long been
+the continuity of the old collective city framework and a rather neglected topic. This is probably due first to
+Urban Squares in Late Bronze Age Ugarit ! 403
+the usual lack of the type of formal framing and embel- mopolitan subordination” of discrete local cultures, hi-
+lishments that distinguished, e.g., the Athenian Agora erarchically ordered beneath the imperial one,195 I ar-
+or the Roman Forum (Iron Age Syro-Hittite cities with gued that both the creation of local elite culture and its
+spaces framed by relief sculptures are an exception192), celebration in group events ultimately served imperial
+and second to the characterization of ancient Near interests by disembedding a faction of supporters for
+Eastern states as examples of “Oriental despotism,” potentially unpopular policies from their traditional lo-
+in which public participation and assembly played al- cal and kinship networks.
+most no role. In addition to its empirical claims and An important difference in the Ugarit case, is, how-
+advocacy for greater attention to urban open spaces, ever, the public accessibility of its ceremonial squares,
+then, the important stand that this article takes is for versus the exclusive location of the ceremonial spaces
+us to take seriously the role of public negotiation and of Sam’al, which points to the value of Gilibert’s spatial-
+consensus-building in ancient Near Eastern politics. In analytical approach. She takes great care to define the
+political formations that were on their face hierarchical “public” who would have taken part in these events
+and coercive,193 to what extent, or under what circum- and whose solidarity was thereby fostered, arguing that
+stances, did the voice and consent of the governed mat- it was the entire urban population, on the basis of the
+ter to ancient Near Eastern rulers and to the course of size and configuration of both the squares themselves
+events? and the urban residential districts, as well as textual ev-
+Gilibert’s argument that popular opinion did matter idence for the kingdom’s demography and social struc-
+in 13th-century Ugarit is convincingly supported by the ture. Complex debates about the structure of Ugarit’s
+investment of rulers in spaces of public ceremony. The economy and society (including over the existence of
+extraordinary—actually unique—abundance of archae- a distinct and politically disenfranchised rural sector of
+ological and textual evidence from Ugarit allows the both population and economy) and over the nature
+reconstruction of a rationale for this staging in an anti- of social ties among the urban population,196 are impli-
+imperial independence movement led by the united cated in her discussion. Gilibert’s apparent intention in
+royal and religious elite, for which popular support was staking these claims is to convince the reader that the
+sought. The materials for such detailed historical and urban population was particularly wealthy (i.e., influ-
+political reconstruction will not be available in every ential) and socially more atomistic and factious (i.e.,
+case, however, and Gilibert could be more transpar- lacking in solidarity) than the hypothesized rural sec-
+ent about the dependence of her tripartite method of tor, making them a particularly ripe target for the pro-
+spatial analysis on non-spatial lines of evidence for its pagandistic gatherings staged by the palace and temple.
+interpretation. However, given that the issue at question in Gilibert’s
+Gilibert’s description of the anti-imperial develop- reconstruction is (non)cooperation with the Hittite
+ment of self-conscious local cultural identity at Ugarit empire, one could imagine enough difference of opin-
+and its promotion through public ceremony invites ion and interest on this and other topics even within
+comparison with the situation of Sam’al (Zincirli, Tur- a city of urban clans with deep ties to the countryside
+key) under Neo-Assyrian hegemony in the 8th century that persuasion from on high would still be required.
+bce. In this case, I interpreted the simultaneous oc- It is particularly significant to find evidence of
+currence of extensive depiction of subroyal elites or “consensus-seeking politics” at Ugarit, since it is one of
+courtiers in distinctive local dress on palace facades, the most stratified cities according to Adelheid Otto’s
+the creation of a district of large courtyard houses in comparison of its residential architectural pattern with
+the lower town, and the local king’s public declarations those of more egalitarian contemporary cities on the
+of loyalty to Assyria as the king’s deliberate cultivation middle Euphrates, whose texts also give evidence of
+of a class of cosmopolitan local elites who would be weaker kingship and stronger collective institutions.197
+supportive of his pro-imperial policy and share in its Just as there is room within the basic model of Bronze
+rewards.194 Referencing the imperial strategy of “cos-
+192 Gilibert, Syro-Hittite Monumental Art (2011). 195 Lavan, Payne, and Weisweiler, “Cosmopolitan Politics” (2016).
+193 See Schloen, House of the Father (2001), 255–316, on the 196 See Schloen, House of the Father (2001), 221–54 and 317–47,
+patrimonial household model of Near Eastern kingdoms. for opposing views on these topics.
+194 Herrmann, “Cosmopolitan Politics” (2018). 197 Otto, “Organisation of Residential Space” (2014).
+404 ! Journal of Near Eastern Studies
+and Iron Age Near Eastern polities for variation in the brought the inhabitants together and on what occa-
+degree of centralization and social stratification, evi- sions (rituals, festivals, royal ceremonies); and the con-
+dence for consensus-building activity at Ugarit does not cept of autonomy of a marketplace (for the trade and
+mean that these societies were less hierarchical and circulation of ideas, etc.).
+stratified than previously believed. Rather, its appear- The undertaking is a challenge, given the state of
+ance even here supports the thesis of collective action the- research and the gaps in the available documentation.
+orists that negotiation plays a role in all power formations. Not all the earlier excavations were published in detail,
+which limits the architectural studies (e.g., the only
+available general plan of the Acropolis is schematic) and
+Valérie Matoïan, Centre national de la recherche
+the contextualization of the material. Furthermore,
+scientifique, Paris
+the analysis proposed is based on a certain number of
+Alessandra Gilibert proposes an interpretation of the chrono-stratigraphical, functional, or architectural res-
+urban plan of the city of Ugarit from the end of the titutions made by other scholars (e.g., the earthquake
+Bronze Age (13th century) through the prism of the anal- dated around 1250 bc and the reconstruction of part
+ysis of public space. The author’s approach, which is of the settlement thereafter; the establishment of a cult
+very interesting and stimulating, aims to apply to her platform on the “Acropolis”; the entrance porch of
+object of study the “archaeopolitical” approach, which the building of the block VIII in the “Ville Sud”; etc.)
+is still underdeveloped in the field of archaeological or proposed but not demonstrated by Gilibert: e.g.,
+studies on the Ancient Near East. The author is follow- a socially tense atmosphere in the city; the fact that
+ing in the footsteps of the groundbreaking work un- the “Grand-place” was “a centuries-old feature”; the
+dertaken by (among others) Stefania Mazzoni and Adel- restitution of the western part of this square not con-
+heid Otto. The opening of the morphological analysis formed to the results of the geophysical survey; the
+of this Mediterranean capital to a social, cultural, and entrance at the northeast corner of the Royal Palace;
+political dimension represents indeed one of the chal- the presence of an open space with two public wells
+lenges of the current research. The issues are numer- south of the “Résidence Nord”; the limits of the two
+ous; the systematic cross-analysis of the archaeological larger squares of the Acropolis. Further investigations
+data and the textual documentation chosen by Gilibert and methodological discussions are needed.
+is the approach that seems to be the most instructive The arguments to support the proposed interpre-
+and the one I also favor for the current programmes tation of the square in the “Ville Sud” as being com-
+on the social and urban geography of the city of Ugarit pletely independent of royal power do not seem to me
+carried out within the framework of the Syro-French to be strong enough: the “Urtenu house” (whose ar-
+archaeological mission of Ras Shamra-Ugarit. Further- chive provides information on a notable person close to
+more, regional parallels are judiciously proposed, such the royal family) and “building B” (another elite build-
+as with Tell Bazi, Emar, and Hazor, as well as with con- ing) in the area “Grand-rue” are close by. On the other
+temporary texts. At first sight, the situation offered by hand, assigning a ceremonial function to the other pub-
+several decades of exploration seems to be perfectly ad- lic spaces is very likely; I adhere to the idea of places
+equate to such an approach: Ras Shamra have been ex- intended to promote the cultural unity of society. While
+cavated on a large scale and the plan of Ugarit is indeed there is no doubt that an urban plan is the expression
+exceptional in the field of Near Eastern archaeology. of the history of an agglomeration and considering that
+Gilibert focuses her attention on five larger public defining the position of Ugarit with regard to Egypt
+squares, the only ones where, according to her, “the and Hatti is one of the challenges of research, I am less
+Ugarit population could meet at the scale needed to convinced by the demonstration aiming to favor the
+develop a sense of civic community.” Thanks to this idea that the reorganization of urban public space was
+contextualizing approach, she distinguishes one mar- the expression of a policy of the elites to counteract Hit-
+ket place (the “Grand-place” in the “Ville Sud”) and tite imperialism.
+four ceremonial spaces, two beside the “Royal sector” The approach proposed by Gilibert gives a living
+and two linked to the main cultic places on the Acrop- picture of a Mediterranean city and deserves to be de-
+olis. The relevant questions raised concern the role of veloped. Other questions should be addressed, such as
+monarchical power and more generally the elites in the possible multi-functionality of spaces, traffic flows
+the organisation of the city; what were the places that and gatherings, the notions of public space and private
+Urban Squares in Late Bronze Age Ugarit ! 405
+habitat, and the search for possible architectural for- earthquake, while the house of the priest on the acrop-
+mulas which could correspond to a functional model. olis was reconstructed after a fire, not an earthquake,
+Surely this search for the materiality of “knowing how and maintained the same layout and function as the
+to live together” echoes some concerns of our contem- previous structure. Moreover, are the squares in front
+porary societies. of the platform of the Dagan temple, or the space to the
+west of the Baal temple, “new” (i.e., post-earthquake)?
+It is difficult to say, since most of the buildings rest
+Marina Pucci, Università degli Studi di Firenze
+directly on the MBA levels and, when reconstructed,
+Alessandra Gilibert’s main aim is to “look at squares follow the same layout of the previous ones. Thus, the
+as political spaces” and insert them into the dynamic reconstruction processes started in different areas of
+and multi-scalar system of intersecting interactions, by the city at different times200 and did not follow a com-
+means of space-configuration studies (topography), prehensive urban re-planning for the entire city. Nev-
+contextual analysis (archaeology) and textual studies ertheless, we know for certain that a single project
+(city archives). T. Hölscher, among others, has clearly for the reconstruction of the royal palace and the two
+shown that urban squares are always political spaces main temples existed but was never completed. Ac-
+that act independently from a specific culture;198 they cording to this project, the reconstructed Baal temple
+are “breaks” in the urban texture, where citizens (in- remained the most visible element in the urban land-
+tended here as members of the civic community) have scape, but the existence of a street directly connecting
+the physical space to meet, gather, and perform com- the square in front with the square with the stone vase
+munal activities, thus making them political spaces. The has been postulated.201 The royal palace became a con-
+history of public spaces and, most importantly, the at- trolled space with access points, the adjoining squares
+tention paid to the urban planning of squares as a po- became “staged” and the erection of a tower empha-
+litical act has seldom been investigated in the archaeol- sized the king’s role. This role as the representative of
+ogy of preclassical Western Asia, both due to the lack of the city and the focal element in the urban identity
+extensive excavations in the towns and to the difficulty seems to have been typical of several LBA cities, such
+in understanding urban planning based on surviving as in LBA I Qatna or LBII Alalakh, without the need
+archaeological evidence. Ugarit, however, presents a of a postulated anti-Hittite stance.
+great opportunity as the site provides rich archaeologi- As Liverani and Schloen have shown,202 reconstruct-
+cal evidence. Here, the use of PGIs-T analysis (as Scott ing microhistories of urban neighbourhoods in an ur-
+Branting has done for Kerkenes),199 in addition to the ban, economic, and social model that is both general
+inter-visibility analysis used in the article, could poten- and coherent is always challenging. In Ugarit’s urban
+tially contribute to the reconstruction of traffic volume landscape, “wealthy” buildings were distributed next
+and density of social interactions. Street gradients and to smaller houses, and evidence for activities related
+elevations may change the accessibility and the visibil- to agriculture and herding have been found inside
+ity of specific buildings (such as the Baal temple) and the city (oil mills in three different blocks of the city,
+consequently change the impact of specific structures troughs and agricultural tools in the great residence; cf.
+in the overall image of the town. Coqueugniot 2013).203 The LBAIII reconstructions
+The article focuses on the study of squares as a polit- point towards the division of larger houses into smaller
+ical act of urban planning and on the “new” urban set- dwellings (block XIII and in the northern part of the
+ting of Ugarit after the event of the earthquake (dated city centre) and the transformation of public spaces
+by Callot to LBAIII). Even assuming that all destruc- into semi-private courtyards (blocks XIII and XIV).
+tion levels may be referring to one single event (see All these elements support Marguerite Yon’s thesis of
+discussions on the southern city sector), archaeologists a growing urban population, confirm the existence of
+are sometimes unable to determine with any certainty agricultural activities inside the town, and suggest, in
+the reconstruction period of specific, and sometimes
+crucial, buildings. For example, the building with the
+200 Callot and Calvet, “Le ‘Bâtiment au Vase de Pierre’” (2001),
+stone vase was probably planned and erected before the
+66–68.
+201 Yon, City of Ugarit (2006), Fig. 13, reconstructs it differently.
+198 Hölscher, Öffentliche Räume (1998). 202 See Gilibert’s bibliography for relevant sources.
+199 Branting, “Using an Urban Street Network” (2007). 203 Coqueugniot, “Un atelier de travail” (2013).
+406 ! Journal of Near Eastern Studies
+my opinion, that the rearrangement of the dwelling, Ugarit’s urban fabric. However, I would argue that the
+market, and production areas may be linked to changes scale of both is limited. In my opinion, the installations
+in the countryside (political instability and an arid cli- for the processing of agricultural produce, including
+mate), which led to the rural inhabitants moving to most oil mills, are best explained assuming that the
+the city. How this postulated movement impacted the owner was a landlord who oversaw the delivery of ag-
+arrangement of the religious and royal spaces remains ricultural produce in loco for the household’s necessi-
+speculative. ties, rather than a peasant. Also, while larger properties
+The consideration of Ugarit as one of the first Med- were indeed split up into smaller ones and communal
+iterranean cities fits well into the cited studies, but it space sometimes shrank, I do not see convincing evi-
+would be interesting to investigate the other models dence that this was a generalized trend. In other cases,
+or, to quote J. Rykwert (The Idea of a Town [1976]), properties expanded (e.g., the Maison aux Albâtres, or
+“ideas of city” (“oriental,” following Wirth, “Kontinu- Agaptarri’s House) and public space was enlarged by
+ität und Wandel” [2000], Mesopotamian, or conti- dismantling living quarters, as in the case of the Square
+nental cities) that the Mediterranean one is confronted with the Vase. Furthermore, the ubiquitous presence
+with in the given period. How does the shaping of the of luxury items throughout the city implies a gener-
+public space play a significant role in this difference? ally high level of income. As a corollary issue, Fleming,
+Matoïan, and Herrmann also question my argument
+that relationships between urban residents were com-
+petitive and lacked solidarity. I agree that this aspect
+Author Response
+needs further elucidation, perhaps through a targeted
+I am grateful to the four respondents for their insight- analysis of the textual evidence. Preliminarily, while I
+ful comments on the paper and to JNES for providing see that in many cases there may be strong loyalty be-
+a forum to address them. I am pleased that, for the tween unequal partners, I contend that the unusually
+most part, the respondents welcome my attempt to high degree of difference in size, infrastructures, and
+decode Ugarit’s urban space in terms of governance. inventory between single properties likely generated
+In particular, we are united in recognizing squares as contrasting interests and competitive aspirations, which
+significant and intrinsically political features of ancient texts (e.g., the “ritual for national atonement”) iden-
+Near Eastern cities. However, the respondents also raise tify as a relevant social issue within the walls of Ugarit.
+important issues about several aspects of my analysis. A second important point raised by the respondents
+I will limit this reply to three critical points. They in- concerns the long-term history of urban squares. In
+clude the economic and social differences within Uga- the paper, I deliberately focus on a specific and rela-
+rit’s urban population; the long-term existence of some tively short period, the second half of the 13th century
+urban features and their relationship to the political bc. My choice is based on two considerations. First,
+discourse of Ugarit’s ruling elite in the 13th century bc; monumental urban features were replanned or built
+and the possibility that squares may have had multiple anew in this period, including the royal palace and its
+functions. squares. Second, while we have a reasonably good idea
+In the paper, I argue that Ugarit’s urban population of how the city looked like in this period, we currently
+was consistently wealthy and did not include small-plot lack sufficient elements to reconstruct Ugarit’s urban
+peasants. Herrmann and particularly Pucci are not con- development in the previous centuries. However, as
+vinced and favor models previously advanced by David Fleming and Pucci underscore, the role played by ur-
+Schloen and Marguerite Yon. Herrmann highlights the ban squares in Ugarit’s collective framework probably
+population’s “deep ties to the countryside,” and Pucci has older roots. This is confirmed by the fact that the
+specifically advocates for increased population density 13th-century urban redesign integrated existing ele-
+due to rural flight. This contested point is essential to ments (e.g., the Building with the Vase). In the paper,
+understand Ugarit’s urban community: was it a pre- I argue that the building activities of this period, in-
+dominantly affluent and influential business crowd? Or cluding the focus, enlargement, and redecoration of
+did it bring together people of enormously different ceremonial squares, were part of a specific political
+economic backgrounds, including destitute peasants? discourse which included (among other elements) an
+Agricultural installations and impromptu modifica- anti-Hittite stance and the promotion of local culture.
+tions of older buildings are indeed recurring features of However, I agree that, in general, the political meaning
+Urban Squares in Late Bronze Age Ugarit ! 407
+of squares is much older than this discourse and is I am confident that the ongoing ex cavations will sooner
+linked to long-lived urban habits. The time window I or later clarify most aspects discussed above, including
+give at the beginning of my contribution (13th–9th cen- the long-term history of squares and their multiple uses.
+turies bc) merely indicates the periods in which re- I consider this paper a contribution to the political
+search on urban squares has focused so far, leaving a history of urban design in the Mediterranean and Near
+vast urban heritage still to be explored. If I am allowed Eastern world. Clearly, much theoretical and empirical
+a brief digression from Ugarit, I may add that any sur- research remains to be done, but I hope that the dis-
+vey of urban squares in the ancient Near East will con- tinguished commentators for this paper as well as other
+clude that squares—ceremonial squares in particular— scholars will find my critical feedback useful to pursue
+are inextricably related to the political developments of this endeavour further.
+cities from their very beginnings. Concerning North-
+ern Mesopotamia, I may mention in passing signifi-
+cant second-millennium examples (Mari, Ebla) as well
+Works Cited
+as the central squares of the circular cities of the early
+third millennium (Tell Mozan, Tell Chuera, Byblos). Adamwhite, Murray R., Late Hittite Emar: The Chronology,
+One may even venture to ponder that squares might Synchronisms, and Socio-Political Aspects of a Late Bronze
+be older than cities themselves (e.g., the eighth mil- Age Fortress Town (Louvain, 2001).
+lennium plaza at Çayönü). However, identifying urban Al-Maqdissi, Michel, et al., “Rapport préliminaire sur les ac-
+tivités de la mission syro-française de Ras Shamra-Ougarit
+squares is just a first step. As Ugarit shows, we need to
+en 2007 et 2008 (67e et 68e campagnes),” Syria 87 (2010):
+approach urban design with a contextual and historical
+21–51.
+approach to fully appreciate its varying political conno-
+Al-Maqdissi, Michel and Valérie Matoïan, “La céramique
+tations and implications.
+découverte par C. Schaeffer dans le Palais royal d’Ougarit:
+Finally, I wish to discuss Matoïan and Fleming’s per-
+remarques générales,” in Le mobilier du Palais royal d’
+tinent observation that urban squares may have, and Ougarit, ed. V. Matoïan (Lyon, 2008), 127–55.
+indeed almost inevitably did have, multiple functions. Alster, Bendt, The Instructions of Suruppak (Copenhagen,
+At Ugarit, I stopped short of imagining alternative and 1976).
+supplementary activities, and discussed only those I Arnaud, Daniel, Emar Recherches au Pays d’Aštata. Textes
+could retrace from the evidence in the extant sources. sumériens et accadiens 6 (Paris, 1986).
+However, I concede that this choice may unnecessarily ———, Corpus des textes de bibliothèque de Ras Shamra-
+Ougarit (1936–2000) en sumérien, babylonien et assyrien
+narrow our scope. For example, squares may combine
+(Barcelona, 2007).
+ceremonial with market functions. At Ekalte, as dis-
+Bachvarova, Mary R., From Hittite to Homer: The Anato-
+cussed by Adelheid Otto, both legal and economic
+lian Background of Ancient Greek Epic (Cambridge, 2016).
+activities were carried out in a square sandwiched be-
+Barsacchi, Francesco G., “Considerazioni sui culti ittiti
+tween a temple and the city gate.204 Likewise, Carlo
+connessi al ciclo lunare,” Asia Anteriore antica. Journal of
+Zaccagnini has recently demonstrated that the central
+Ancient Near Eastern Cultures 1/1 (2019): 5–20.
+square of Nuzi, which we may reasonably identify with ———, “Distribution and Consumption of Food in Hittite
+the “main market” mentioned in texts, was also regul arly Festivals: the Social and Economic Role of Religious Com-
+used for royal chariot parades.205 Accordingly, Flem ing mensality as Reflected by Hittite Sources,” in Economy of
+might be right in envisioning “ritual, judicial, or col- Religions in Anatolia: From the Early Second to the Middle
+lective political gatherings” at Ugarit’s Central Square, of the First Millennium BCE, ed. M. Hutter and S. Hutter-
+perhaps linked to the poorly-known Building with a Braunsar (Muenster 2019), 5–20.
+Portico. I also agree with Fleming that open-air gather - Belnap, Dan, Fillets of Fatling and Goblets of Gold: The Use of
+Meal Events in the Ritual Imagery in the Ugaritic Mytho-
+ing places may also be found outside the urban gates,
+logical and Epic Texts (Piscataway, NJ, 2008).
+as seems to have been the case at Emar and Ebla (I
+Benedikt, Michael L., “To Take Hold of Space: Isovists and
+thank Davide Nadali for the Ebla reference). Further
+Isovist Fields,” Environment and Planning B 6/1 (1979):
+explorations will undoubtedly teach us how to better detect
+47–65.
+the nuances of ancient squares. Concerning Ugarit,
+Besnier, Niko, Gossip and the Everyday Production of Politics
+(Honolulu, 2009).
+204 Otto, Marketplaces (2019), 211. Black, Jeremy A., Literature of Ancient Sumer (Oxford,
+205 Zaccagnini, “Pomp and circumstance” (2020). 2006).
+408 ! Journal of Near Eastern Studies
+Bonfil, Ruhama and Anabel Zarzeki-Peleg, “The Palace Chahoud, Jwana and Emmanuelle Vila, “Exploitation of
+of the Upper City of Hazor as an Expression of a Syrian Fauna at Ras Shamra: Case Study of the ‘Maison aux Al-
+Architectural Paradigm,” BASOR 348 (2007): 25–47. bâtres’, Late Bronze Age, Northern Levant,” in Archaeozo-
+Boyes, Philip, “Negotiating Imperialism and Resistance in ology of the Near East IX, ed. M. Mashkour and M. Beech
+Late Bronze Age Ugarit: the Rise of Alphabetic Cunei- (Oxford, 2017), 197–216.
+form,” Cambridge Archaeological Journal 29/2 (2019): Cohen, Yoram, “Public Religious Sentiment and Personal
+185–99. Piety in the Ancient Near Eastern City of Emar during the
+Branting, Scott, “Using an Urban Street Network and a Late Bronze Age,” Religion Compass 1/3 (2007): 329–40.
+PGIS-T Approach to Analyze Ancient Movement,” in Digi- ———, The Scribes and Scholars of the City of Emar in the
+tal Discovery: Exploring New Frontiers in Human Heritage. Late Bronze Age (Eisenbrauns, 2009).
+CAA 2006: Computer Applications and Quantitative Meth- ———, “The Administration of Cult in Hittite Emar,” Altori -
+ods in Archaeology, ed. J. T. Clark and E.M. Hagemeister entalische Forschungen 38 (2011): 145–57.
+(Budapest, 2007), 87–96. ———, “The Historical and Social Background of the Scribal
+———, “Simulating Movement, Communication and Flows School at the City of Emar in the Late Bronze Age,” in
+of Knowledge at Kerkenes Dağ,” in The Knowledge Econ- Theory and Practice of Knowledge Transfer, ed. W. S. van
+omy and Technological Capabilities, ed. M. Wissa (Barce- Egmond and W. H. van Soldt (Leiden, 2012), 115–28.
+lona, 2010), 87–102. ———, “An Assyrian Teacher at Ugarit? A New Reading of
+Bretschneider, Joachim, Tim F. Cunningham, and Karel the Colophon of Šimâ Milka (‘Hear the Advice’),” Biblio-
+van Lerberghe, “Gibala: the First Two Excavations,” Ugarit- theca Orientalis 3/4 (2017): 274–83.
+Forschungen 31 (1999): 75–131. Cohen, Yoram and Itamar Singer, “Late Synchronism be-
+Browning, Raymond C., “Effects of Obesity and Sex on the tween Ugarit and Emar,” in Essays on Ancient Israel in its
+Energetic Cost and Preferred Speed of Walking,” Journal of Near Eastern Context. A Tribute to Nadav Na’ama, ed. Y.
+Applied Psychology 100 (2005): 390–91. Amit et al. (Winona Lake, IN, 2006), 129–35.
+Bunnens, Guy, “Pouvoirs locaux et pouvoirs dissidents en Cohen, Yoram and Eduardo Torrecilla, “Hittite Cult in
+Syrie au IIe millénaire avant notre ère,” Akkadica 17 (1980): Syria: Religious Imperialism or Religious Pluralism?” in
+118–37. Cult, Temple, Sacred Spaces: Cult Practices and Cult Places
+Callot, Olivier, “La région nord du Palais Royal d’Ougarit,” in Hittite Anatolia and Neighboring Cultures, ed. S. Go-
+Comptes rendus des séances de l’Académie des Inscriptions et erke (Wiesbaden, 2020), 221–30.
+Belles-Lettres 130/4 (1986): 735–55. Commandant, Vivielle, “Comment fut transporté le vase
+———, “Les huileries du Bronze Récent a Ougarit: premiers d’Amathonte,” Syria 8/3 (1927): 239–47.
+éléments pour une étude,” in Le Centre de la Ville, Ras Coqueugniot, E., “Un atelier de travail du silex dans le bâti-
+Shamra-Ougarit 3, ed. M. Yon (Paris, 1987), 197–212. ment B du chantier ‘Grand-rue’,” Syria 90 (2013): 37–40.
+———, La tranchée “Ville Sud”. Étude d› architecture domes- Curtois, Jacques-Claude, “Fouille d’une maison du bronze
+tique, Ras Shamra-Ougarit 10 (Paris, 1994). récent 1 et 2 (XVe-XIVe S. AV. J.-C.) dans le quartier des
+———, Les Sanctuaires de l’Acropole d’Ougarit: les Temples de palais,” Syria 51 (1974): 25–28.
+Baal et de Dagan, Ras Shamra-Ougarit 19 (Lyon, 2011). D’Agostino, Franco, Testi umoristici babilonesi e assiri (Brescia,
+———, “Le bâtiment ‘au trône’, un nouveau sanctuaire à Ou- 2000).
+garit?” in Études ougaritiques III, Ras Shamra-Ougarit XXI, de Contenson, Henri, et al., “XXXIVe campagne de fouilles
+ed. V. Matoïan and M. Al-Maqdissi (Louvain, 2013), à Ras Shamra en 1973. Rapport préliminaire,” Syria 51/1–2
+89–110. (1974): 1–30.
+Callot, Olivier and Yves Calvet, “Rues et places à Ougarit del Olmo Lete, Gregorio, “Littérature et pouvoir royal à Ou-
+au Bronze récent,” in Proceedings of the First International garit. Sens politique de la littérature d’Ougarit,” in Études
+Congress on the Archaeology of Ancient Near East (Rome ougaritiques II, ed. V. Matoïan et al. (Paris, 2012), 241–50.
+1998), ed. P. Matthiae et al. (Rome, 2000), 157–64. ———, The private archives of Ugarit: a functional analysis
+———, “Le ‘Bâtiment au Vase de Pierre’ du ‘Quartier Resi- (Barcelona, 2017).
+dentiel’ d’Ougarit (fouille 1966),” in Études ougaritiques I. Démare-Lafont, Sophie and Daniel E. Fleming, “Emar
+Travaux 1985–1995, ed. M. Yon and D. Arnaud (Paris, Chronology and Scribal Streams: Cosmopolitanism and
+2001), 65–82. Legal Diversity,” Revue d’assyriologie et d’archéologie orien-
+Calvet, Yves, “Installations hydrauliques d’Ugarit,” in tale 109/1 (2015): 45–77.
+L’homme et l ’eau en Méditerranée et au Proche-Orient, ed. De Marrais, Elizabeth and Timothy Earle, “Collective
+J. Métral and P. Sanlaville (Lyon, 1981), 33–48. Action Theory and the Dynamics of Complex Societies,”
+Cecchini, Serena Maria, “Un bâtiment mystérieux sur Annual Review of Anthropology 46/1 (2017): 183–201.
+l’acropole de Tell Afis,” in Proceedings of the First ICAANE, De Matteis, Federico, Affective Spaces: Architecture and the
+ed. P. Matthiae et al. (Roma, 2000), 199–212. Living Body (London, 2020).
+Urban Squares in Late Bronze Age Ugarit ! 409
+Desyllas, Jake and Elspeth Duxbury, “Axial Maps and Vis- Fivel, Léon, “Le second vase d’Amathonte,” Cahiers du Cen-
+ibility Graph Analysis. A Comparison of their Methodol- tre d’Etudes Chypriotes 13 (1990): 11–14.
+ogy and Use in Models of Urban Pedestrian Movement,” Fleming, Daniel E., “The Emar Festivals: City Unity and Syr-
+Space Syntax 3rd International Symposium Proceedings ian Identity under Hittite Hegemony,” in Emar: The History,
+(Atlanta, 2001), 27.1–27.13. Religion, and Culture of a Syrian Town in the Late Bronze
+De Terragon, Jean-Michel, “Temples et pratiques rituelles,” Age, ed. M. W. Chavalas (Bethesda, MD, 1996), 81–121.
+in Le pays d’Ougarit autour de 1200 AV. J.-C., ed. M. Yon ———, Time at Emar. The Cultic Calendar and the Rituals
+(Paris, 1994), 206–209. from the Diviner’s House (Winona Lake, IN, 2000).
+Devecchi, Elena, “A Reluctant Servant: Ugarit under For- ———, Democracy’s Ancient Ancestors. Mari and Early Col-
+eign Rule during the Late Bronze Age,” in A Stranger lective Governance (Cambridge, 2004).
+in the House – the Crossroads III, ed. J. Mynářová et al. ———, “The Integration of Household and Community
+(Prague, 2019), 121–36. Religion in Ancient Syria,” in Household and Family Reli-
+De Zorzi, Nicla, “ ‘Rude Remarks not Fit to Smell’: Neg- gion in Antiquity, ed. J. Bodel and S. M. Olyan (Malden,
+ative Value Judgements Relating to Sensory Perceptions MA, 2008), 37–59.
+in Ancient Mesopotamia,” in Sounding Sensory Profiles in ———, The Legacy of Israel in Judah’s Bible: History, Politics,
+the Ancient Near East, ed. A. Schellenberg and T. Krüger and the Reinscribing of Tradition (Cambridge, 2012).
+(Atlanta, 2019), 217–52. ———, “Textual Evidence for a Palace at Late Bronze
+di Paolo, Silvana, “Il Batiment au vase de pierre di Ugarit: Emar,” in Organization, Representation, and Symbols of
+anomala applicazione di un dispositivo cerimoniale?” Studi Power in the Ancient Near East, ed. G. Wilhelm (Winona
+Micenei ed Egeo Anatolici 52 (2010): 99–107. Lake, IN, 2012), 101–109.
+Durand, Jean-Marie, review of Arnaud, Emar VI/3, Revue ———, “Seeing and Socializing with Dagan at Emar’s zukru
+d’Assyriologie 83 (1989): 175–76. Festival,” in Materiality and the Divine in the Ancient
+Durand, Jean-Marie and Lionel Marti, “Chroniques du Near East, ed. B. Pongratz-Leisten and K. Sonik (Berlin,
+Mozen Euphrate 2. Relecture de document d’Ekalte, 2015), 197–210.
+Émar et Tuttul,” Revue d’Assyriologie et d’archéologie orien- Fruin, John J., Pedestrian Planning and Design (New York,
+tale 97 (2003): 141–80. 1971).
+Fargher, Lane F., et al., “Wealth Inequality, Social Strati- Gachet, Jacqueline, “Le ‘centre de la ville’ d’Ougarit: la
+fication, and the Built Environment in Late Prehispanic maison C,” Syria 73 (1996): 153–84.
+Highland Mexico: A Comparative Analysis with Special Garr, Randall, “A Population Estimate of Ancient Ugarit,”
+Emphasis on Tlaxcallan,” Journal of Anthropological Ar- BASOR 266 (1987): 31–43.
+chaeology 58 (2020): 101–76. Gilan, Amir, “Kampfspiele in hethitischen Festritualen – eine
+Feldman, Marian H. and Caroline Sauvage, “Objects of Interpretation,” in Kulturgeschichte. Altorientalische Stu-
+Prestige? Chariots in the Late Bronze Age Eastern Medi- dien für V. Haas zum 65. Geburtstag, ed. T. Richter et al.
+terranean and Near East,” Ägypten und Levante 20 (2010): (Saarbrücken, 2001), 113–24.
+67–182. ———, “A Bridge or a Blind Alley? Hittites and Neo-
+Feliu, Lluis, The God Dagan in Bronze Age Syria (Leiden, Hittites as Cultural Mediators,” in Ein pluriverses Univer-
+2003). sum: Zivilisationen und Religonen im antiken Mittelmeer-
+Fisher, Kevin D. “Placing Social Interaction: an Integrative raum, ed. R. Faber and A. Lichtenberger (Padeborn, 2015),
+Approach to Analyzing Past Built Environments,” Journal 167–90.
+of Anthropological Archaeology 28/4 (2009): 439–57. Gilibert, Alessandra, Syro-Hittite Monumental Art and the
+———, “Investigating Monumental Social Space in Late Archaeology of Performance: The Stone Reliefs at Carchem-
+Bronze Age Cyprus: an Integrative Approach,” in Spatial ish and Zincirli in the Earlier First Millennium BCE. To-
+Analysis and Social Spaces: Interdisciplinary Approaches to poi: Berlin Studies of the Ancient World, 2 (Berlin, 2011).
+the Interpretation of Historic and Prehistoric Built Environ- ———, “Archäologie der Menschenmenge. Platzanlage, Bildw-
+ments, ed. E. Paliou, U. Lieberwirth, and S. Polla (Berlin, erke und Fest im syro-hethitischen Stadtgefüge,” in Bild—
+2014), 167–202. Raum—Handlung. Perspektiven der Archäologie, ed. Or-
+———, “Making the First Cities on Cyprus: Urbanism and twin Dally et al. (Berlin, 2012), 107–36.
+Social Change in the Late Bronze Age,” in Making An- ———, “Death, Amusement and the City: Civic Specta-
+cient Cities: Space and place in Early Urban societies, ed. cles and the Theatre Palace of Kapara, King of Gūzāna,”
+K. D. Fisher and A. T. Creekmore (Cambridge, 2014), Kaskal 10 (2013): 35–68.
+181–219. ———, “Religion and Propaganda under the Great Kings
+Fisher, Kevin D. and Andrew T. Creekmore III, Making of Karkemiš,” in Sacred Landscapes of Hittites and Lu-
+Ancient Cities. Space and Place in Early Urban societies wians, ed. Anacleto D’Agostino et al. (Firenze, 2015), 137–
+(Cambridge, 2014). 46.
+410 ! Journal of Near Eastern Studies
+Gilibert, Ernst and Peter Neufert, Architect’s Data, 3rd ed. Hubbard, Phil and Dawn Lyon, “Introduction: Streetlife –
+(Oxford, 2002). the Shifting Sociologies of the Street,” The Sociological Re-
+Glatz, Claudia, “Landscape Monuments and Political Com- view (2018): 1–15.
+petition in Late Bronze Age Anatolia: an Investigation Hunter, Virginia, “Gossip and the Politics of Reputation in
+of Costly Signaling Theory,” BASOR 361 (2011): 33– Classical Athens,” Phoenix 44/4 (1990): 299–325.
+66. Ingold, Tim, “Culture on the Ground: The World Per-
+———, “Negotiating Empire: a Comparative Investigation ceived through the Feet,” Journal of Material Culture 9/3
+into the Responses to Hittite Imperialism by the Vassal (2004): 315–40.
+State of Ugarit and the Kaska of Pontic Anatolia,” in Em- Johnston, Christine L. “The Distributional Approach and
+pires and Diversity. On the Crossroads of Archaeology, An- Imperfect Data Sets: An Examination of Market Exchange
+thropology, and History, ed. G. E. Areshian (Los Angeles, at Ugarit,” in Trading Spaces: The Archaeology of Interac-
+2013), 21–56. tion, Migration and Exchange. Proceedings of the 46th An-
+Grannis, Rick, “The Importance of Trivial Streets: Residen- nual Chacmool Archaeology Conference, ed. Margaret M.
+tial Streets and Residential Segregation,” American Jour- Patton and Jessica Manion (Calgary, 2017), 119–34.
+nal of Sociology 103 (1998): 1530–64. Kaniewski, David, et al., “The Sea Peoples, from Cunei-
+Groddek, Detlev “Die 10. Tafel des ḫišuu̯a-Festes,” Res An- form Tablets to Carbon Dating,” PLoS ONE 6/6 (2011):
+tiquae 7 (2010): 357–98. https://doi.org/10.1371/journal.pone.0020232.
+Haas, Volkert, Geschichte der hethitischen Religion (Leiden, Kendall, Timothy, Warfare and Military Matters in the
+1994). Nuzi tablets (Ph.D. diss., Brandeis University, 1975).
+Halayqa, Issam K. H., “The Demise of Ugarit in the Light of Knapp, A. Bernard, The Archaeology of Cyprus: From Earli-
+its Connections with Ḫatti,” Ugarit-Forschungen 42 (2010): est Prehistory through the Bronze Age (Cambridge, 2013).
+297–332 Koitabashi, Matahisa, “The Deification of the ‘Lyre’ in An-
+Hawley, Robert, Dennis Pardee, and Carole Roche- cient Ugarit,” Orient 28 (1992): 106–17.
+Hawley, “The Scribal Culture of Ugarit,” Journal of An- Kontolaimos, Panagiotis, “Late Bronze Age Mediterra-
+cient Near Eastern History 2 (2015): 229–67. nean Urbanism and Depth Map Software: the cases of
+Hawley, Robert, Caroline Sauvage, and Dennis Pardee, Ugarit (Syria) and Enkomi (Cyprus),” in Proceedings of
+“The Scribe ṯab,ilu as Attested in the Epigraphic Finds the 38th Annual Conference on Computer Applications and
+from the 5th Season of Excavations at Ras Shamra,” Quantitative Methods in Archaeology, ed. F. Contreras et al.
+Ugarit-Forschungen 44 (2013): 383-411. (Oxford, 2013), 145–51.
+Haydar, Jamal, et al., “Rapport préliminaire sur les activ- Kühne, Hartmut, “The Impact of Earthquakes on Middle
+ités de la Mission Achéologique Syro-Française de Ras Assyrian Tell Sheikh Hamad,” in The Provincial Archaeol-
+Shamra-Ougarit en 2009 et 2010,” Syria 90 (2013): 439– ogy of the Assyrian Empire, ed. J. MacGinnis et al. (Cam-
+78. bridge, 2016), 189–98.
+Heltzer, Michael, The Rural Community in Ancient Ugarit Kunst- und Ausstellungshalle der Bundesrepublik Deutsch-
+(Wiesbaden 1976). land (ed.), Die Hethiter und ihr Reich—das Volk der 1000
+———, “The Economy of Ugarit,” in Handbook of Uga- Götter (Stuttgart, 2002).
+ritic Studies, ed. W. G. E. Watson and N. Wyatt (Leiden, Lagarce, Elisabeth and Jacques Lagarce, “Le chantier de la
+1999), 423–54. ‘Maison aux Albâtres’,” Syria 51 (1974): 5–24.
+Hermary, Antoine, Amathonte II Testimonia 2: Les sculp- Lambert, Wilfred G., “Lugal-tilla,” in RlA VII (1987–90):
+tures découvertes avant 1975 (Paris, 1981). 153.
+———, Catalogue des antiquités de Cyphre: Sculptures (Paris, Lange, Sarah, “Food and Libation Offerings for the Royal
+1989). Dead in Ugarit,” in (Re-)Constructing Funerary Rituals
+Herrmann, Virginia R., “Urban Organization under Em- in the Ancient Near East, ed. Peter Pfälzner et al. (Wies-
+pire: Iron Age Sam’al (Zincirli, Turkey) from Royal to Pro- baden, 2012), 161–81.
+vincial Capital,” Levant 49/3 (2018): 284–311. Laurence, Ray, “Rumour and Communication in Roman
+———, “Cosmopolitan Politics in the Neo-Assyrian Empire: Politics,” Greece & Rome 41/1 (1994): 62–74.
+Local Elite Identity at Zincirli-Sam’al,” Semitica 60 (2018): Lavan, Myles, Richard Payne, and John Weisweiler,
+493–535. “Cosmopolitan Politics: The Assimilation and Subordina-
+Hillier, Bill and Julienne Hanson, The Social Logic of Space tion of Elite Cultures,” in Cosmopolitanism and Empire:
+(Cambridge, 1984). Universal Rulers, Local Elites, and Cultural Integration in
+———, Space is the Machine: A Configurational Theory of the Ancient Near East and Mediterranean, ed. M. Lavan,
+Architecture (Cambridge, 1999). R. Payne, and J. Weisweiler (Oxford, 2016), 1–28.
+Hölscher, T., Öffentliche Räume in frühen griechischen Städ- Leontidou, Lila, “Mediterranean City,” in The Wiley Black-
+ten, 2nd ed. (Heidelberg, 1999). well Encyclopedia of Urban and Regional Studies, ed. A. Orum
+Urban Squares in Late Bronze Age Ugarit ! 411
+(London, 2020), https://doi.org/10.1002/9781118568446 Martin, Simon, “Reflections on the Archaeopolitical: Pur-
+.eurs0519. suing the Universal within a Unity of Opposites, in Po-
+Lev-Tov, Justin and Kevin McGeough, “Examing Feasting litical Strategies in Pre-Columbian Mesoamerica, ed. S.
+in Late Bronze Age Syro-Palestine through Ancient Texts Kurnick and J. P. Baron (Boulder, 2016), 241–77.
+and Bones,” in The Archaeology of Food and Identity, ed. Matthiae, Paolo, “About the God Rashap’s Old Syrian Ico-
+K. C. Twiss (Carbondale, IL, 2007), 85–111. nography,” in Refik Duru’ya Armağan, ed. G. Umurtak
+Levy, Eythan, “A Fresh Look at the Baal-Zaphon Stele,” The et al. (Istanbul, 2007), 187–98.
+Journal of Egyptian Archaeology 100 (2014): 293–309. Matoïan, Valérie, “La Maison dite ‘de Rashapabou’: In-
+———, “A Fresh Look at the Mekal Stela,” Ägypten und Le- ventaire des objets découverts lors de la fouille de l’édifice
+vante 28 (2018): 359–78. et essai d’interprétation,” in Études ougaritiques III, eds.
+Lipiński, Eduard, “The Socio-economic Condition of the V. Matoïan and M. Al-Maqdissi (Paris, 2013), 157–202.
+Clergy in the Kingdom of Ugarit,” in Society and Economy ———, “Du vin pour le délice de l’assoiffé,” in Ritual, reli-
+in the Eastern Mediterranean c. 1500–1000 B.C., ed. M. gion and reason: studies in the ancient world in honour of
+Heltzer and E. Lipiński (Leuven, 1988), 125–50. Paolo Xella, ed. O. Loretz et al. (Muenster, 2013), 61–76.
+Litke, Richard L., A Reconstruction of the Assyro-Babylonian ———, “Ougarit et l’Égypte: essai d’interprétation de la
+God-Lists, An: dA-nu-um and An: Anu šá amēli, (Bethesda, documentation achéologique et perspectives de la re-
+1998). cherche,” in Policies of Exchange. Political Systems and
+Liverani, Mario, “Ras Shamra. II: Histoire,” Supplément au Modes of Interaction in the Aegean and the Near East in the
+Dictionnaire de la Bible 53 (1979), 1295–1348. 2nd millennium, ed. B. Eder and R. Pruzsinszky (Vienna,
+———, “Economy of Ugaritic Royal Farms,” in Production 2015), 35–84.
+and Consumption in the Ancient Near East, ed. C. Zaccag- ———, “Le aleph et le taw,” in Études ougaritiques IV, ed.
+nini (Budapest, 1989), 127–68. V. Matoïan and M. Al-Maqdissi (Leuven 2016), 49–71.
+———, Oltre la Bibbia (Bari, 2004). Matoïan, Valérie, Juan-Pablo Vita, “Wool Production
+Loretz, Oswald and Manfred Dietrich, “‘Weihen‘ (ʻly S) and Economy at Ugarit,” in Wool Economy in the Ancient
+von pgr, Ochsen und Gegenständen in KTU 6.13, 6.14 Near East and the Aegean: From the Beginnings of Sheep
+und 6.62,” Ugarit-Forschungen 37 (2005): 227–40. Husbandry to Institutional Textile Industry, ed. Catherine
+Mallet, Joël and Valérie Matoïan, “Une maison au sud Bréniquet and Cécile Michel (Oxford, 2014), 310–39.
+du ‘temple aux rhytons’ (fouille 1979–1990),” in Études ———, “The Administration of Wine in Ugarit,” Die Welt
+ougaritiques I, ed. M. Yon and D. Arnaud (Paris, 2001), Des Orients 48/2 (2018): 299–318.
+83–190. Mazzoni, Stefania, “The Gate and the City: Change and
+Manuelli, Federico and Lucia Mori, “The King at the Continuity in Syro-Hittite Urban Ideology,” in Die alto-
+Gate: Monumental Fortifications and the Rise of Local rientalische Stadt: Kontinuität, Wandel und Bruch, ed. G.
+Elites at Arslantepe at the End of the 2nd Millennium Wilhelm (Saarbrücken, 1997), 307–38.
+BCE,” Origini 39 (2016): 203–35. ———, “Temples at Tell Āfīs in Iron Age I–III,” in Tem-
+Margueron, Jean-Claude, “Ras Shamra 1975 et 1976: ple Building and Temple Cult, ed. J. Kamlah (Wiesbaden,
+rapport préliminaire sur les campagnes d’automne,” Syria 2012), 23–40.
+54/3–4 (1977): 151–88. ———, “Open Spaces around the Temples and their Ritual
+———, “Architecture et urbanisme,” in Meskéné – Emar. Dix Use: Archaeological Evidence from the Bronze and Iron
+ans de travaux 1972–1982, ed. D. Beyer (Paris, 1982), Age Levant,” in Defining the Sacred: Approaches to the Ar-
+11–39. chaeology of Religion in the Near East, ed. Nicola Laneri
+———, “Le palais royal d’Ougarit, premiers résultats d’une (Oxford, 2015), 118–33.
+analyse systématique,” in Le pays d’Ougarit autour de ———, “In Search of a Land. The Age of Migrations, Exo-
+1200 av. J.-C. Histoire et archéologie, ed. M. Yon et al., Ras duses and Diaspora across the Eastern Mediterranean (13th–
+Shamra-Ougarit XI (Paris, 1995), 183–202. 11th c. BCE),” in An Archaeology of Forced Migration, ed.
+———, Cités Invisibles. La naissance de l’urbanisme au Jan Driessen (Louvain, 2018), 203–19.
+Proche-Orient ancien (Paris, 2013). McAnany, Patricia A., “Approaching the Archaeopolitical,”
+Márques Rowe, Ignacio, “Scribes, Sages and Seers in Antiquity 92/364 (2018): 1112–14.
+Ugarit,” in Scribes, Sages and Seers, ed. L. G. Perdue (Göt- McGeough, Kevin M., “Locating the marzihu Archaeolog-
+tingen, 2008), 95–187. ically,” Ugarit-Forschungen 35 (2003): 407–20.
+Marshall, Stephen, Streets and Patterns: The Structure of ———, Exchange relationships at Ugarit (Leuven, 2007).
+Urban Geometry (London, 2004). McGregor, Bruce A., Meat and Offal Yields of Goats (Mel-
+Martin, Matthew and Daniel C. Snell, “Democracy and bourne, 2007).
+Freedom,” in A Companion to the Ancient Near East, ed. Meier, Samuel A., The Messenger in the Ancient Semitic
+Daniel Snell (Oxford, 2005), 419–29. World (Atlanta, 1988).
+412 ! Journal of Near Eastern Studies
+Monroe, Christopher, “Measure for ‘Measure’: Connect- ———, “Defining and Transgressing the Boundaries be-
+ing Text to Material through Late Bronze Age Shipping tween Ritual Commensality and Daily Commensal Prac-
+Jars,” in Mediterranean Connections: Maritime Transport tices. The Case of Late Bronze Age Tall Bazi,” in Between
+Containers and Seaborne Trade in the Bronze and Early Feasts and Daily Meals. Towards an Archaeology of Com-
+Iron Ages, ed. B. A. Knapp and S. Demesticha (London, mensal Spaces, ed. S. Pollock (Berlin, 2015), 205–23.
+2016), 79–96. ———, “Private and State in the Second Millennium B.C. from
+Morris, Ellen, “Egypt, Ugarit, the God Ba’al, and the Puzzle an Archaeological Perspective,” in Private and State in the
+of a Royal Rebuff,” in There and Back Again—The Cross- Ancient Near East. Proceedings of the 58th Rencontre Assyri-
+roads II, ed. J. Mynářová et al. (Prague, 2015), 326–32. ologique Internationale at Leiden, 16–20 July 2012, ed. R. de
+Müller, Miriam, ed., Household Studies in Complex Societies. Boer and J. G. Dercksen (Winona Lake, IN, 2017), 21–42.
+(Micro) Archeological and Textual Approaches (Chicago, ———, “Marketplaces in Syro-Mesopotamia in the Second
+2013). Millennium BC in the Light of New Archaeological Re-
+Mullins, Robert A., “The Late Bronze Age and Iron Age search,” in Weights and Marketplaces from the Bronze Age
+Temples at Beth-Shehan,” in Temple Building and Temple to the Early Modern Period, ed. Lorenz Rahmstorf and Ed-
+Cult, ed. J. Kamlah (Wiesbaden, 2012), 131–35. ward Stratford (Göttingen, 2019), 203–17.
+Münnich, Maciej M., The God Resheph in the Ancient Near Palivou, Clairy, “The Cosmopolitan Harbour town of Uga-
+East (Tübingen, 2013). rit and the ‘Aegean’ aspects of its domestic architecture,” in
+Niehr, Herbert, “Zwei Stelen mit Weihinschriften aus dem Krinoi kai Limenes, ed. Philip P. Betancourt et al. (Phila-
+Temenos des El-Tempels,” in Grab-, Sarg-, Bau- und Vo- delphia, 2007), 31–47.
+tivinschriften, ed. B. Janowski and D. Schwemer (München, Pardee, Dennis, Ritual and Cult at Ugarit, Writings from
+2011), 84–86. the Ancient World 10 (Atlanta, 2002).
+———, “Der sanctuaire aux rhytons in Ugarit. Überlegun- ———, “Animal Sacrifice at Ugarit,” Topoi. Orient-Occident
+gen zu seiner Bedeutung und Funktion im Kult der Stadt,” 2000/2: 321–31.
+Journal of Northwest Semitic Languages 40/2 (2014): 71– Pritchard, James B., Sarepta: A Preliminary Report on the
+96. Iron Age (Philadelphia, 1975).
+———, “Die Ritualtexte aus Ugarit: Eine Einführung auf- Pucci, Marina, “Enclosing Open Spaces: the Organisation
+grund der Archiv- und Bibliothekszusammenhänge,” in of External Areas in Syro-Hittite Architecture,” in Con-
+Cult, Temple, Sacred Spaces: Cult Practices and Cult Places structing Power: Architecture, Ideology and Social Practice,
+in Hittite Anatolia and Neighboring Cultures, ed S. Görke ed. Joseph Maran et al. (Hamburg, 2006), 169–84.
+(Wiesbaden, 2020), 35–56. ———, Functional Analysis of Space in Syro-Hittite Architec-
+Oberhagemann, Dirk, Static and Dynamic Crowd Densities ture (Oxford, 2008).
+at Major Public Events (Altenberge, 2012). Rahman, Noorhazlinda Abd, et al., “Empirical Investigation
+Oppenheim, Leo A., Ancient Mesopotamia (Chicago, 1964). of Trajectories and Desired Walking Velocity of Pedestrian
+Osborne, James F., “Settlement Planning and Urban Sym- Walking through Angled-Corridor,” American Institute of
+bology in Syro-Anatolian cities,” Cambridge Archaeologi- Physics Conference Proceedings 1892, 060007 (2017), https://
+cal Journal 24/2 (2014): 195–214. doi.org/10.1063/1.5005718.
+Otto, Adelheid, Alltag und Gesellschaft zur Spätbronzezeit: Rahmstorf, Lorenz, “Of Middens and Markets: Detecting
+eine Fallstudie aus Tall Bazi (Syrien) (Turnhout, 2006). Marketplaces in the Bronze Age and Beyond,” in Market
+———, “Archaeological Evidence for Collective Governance as Place and Space of Economic Exchange. Perspectives from
+along the Upper Syrian Euphrates during the Late and Archaeology and Anthropology, ed. Hans P. Hahn and Ger-
+Middle Bronze Age,” in Wilhelm, ed., Organization, Rep- aldine Schmitz (Oxford, 2018), 20–40.
+resentation, and Symbols of Power (2012), 87–99. Rapoport, Amos, The Meaning of the Built Environment:
+———, “Gotteshaus und Allerheiligstes in Syrien und Nord- A Non-Verbal Communication Approach (London, 1982).
+mesopotamien während des 2. Jts. v. Chr.,” in Tempel im Reba, Meredith, Femke Reitsma, and Karen C. Seto, “Spa-
+Alten Orient, ed. Kai Kaniuth et al. (Wiesbaden, 2013), tializing 6,000 years of Global Urbanization from 3700 BC
+355–83. to AD 2000,” Sci Data 3 (2016): 160034, https://doi
+———, “The Organisation of Residential Space in the Mit- .org/10.1038/sdata.2016.34.
+tani Kingdom as a Mirror of Different Models of Gover- Rendu Loisel, Anne-Caroline, “When Gods Speak to Men:
+nance,” in Constituent, Confederate, and Conquered Space Reading House, Street, and Divination from Sound in An-
+in Upper Mesopotamia: The Emergence of the Mittani State, cient Mesopotamia (1st millenium BC),” Journal of Near
+ed. Eva Cancik-Kirschbaum, Nicole Brisch, and Jesper Ei- Eastern Studies 75/2 (2016): 291–309.
+dem, Topoi: Berlin Studies of the Ancient World 17 (Ber- Rey, Sébastien, “Le Palais Nord d’Ougarit,” Syria 86 (2009):
+lin, 2014), 33–60. 203–20.
+Urban Squares in Late Bronze Age Ugarit ! 413
+Ribichini, Stefano, Paolo Xella, “Problemi di onomastica Smith, Mark S., The Ugaritic Baal Cycle: Introduction with
+ugaritica. Il caso dei teofori,” Studi Epigrafici e Linguistici Text, Translation and Commentary of KTU/CAT 1.3–1.4
+8 (1991): 149–70. (Leiden 1994).
+Roche-Hawley, Carol, “Scribes, Houses and Neighbor- Solans, Bárbara E., Poderes colectivos en la Siria del Bronce
+hoods at Ugarit,” Ugarit-Forschungen 44 (2013): 413–44. Final (Barcelona, 2014).
+Rollinger, Robert and Erik van Dongen, eds., Mesopota- Starr, Richard F. S., Nuzi. Report of the Excavations at Yor-
+mia and the Ancient World (Muenster, 2015). gan Tepa near Kirkuk, Iraq (Cambridge, MA, 1939).
+Rutherford, Ian, “Gods of the Market Place. Merchants, Steel, Louise, Materiality and Consumption in the Bronze
+Economics, and Religious Innovation,” in Economy of Re- Age Mediterranean (New York, 2013).
+ligions in Anatolia and Northern Syria, ed. M. Hutter and Steinert, Ulrike, “City Streets: Reflections on Urban So-
+S. Braunsar-Hutter (Münster, 2019), 83–91. ciety in the Cuneiform Sources of the Second and First
+Rykwert, J., The Idea of a Town (Princeton, 1976). Millennium BCE,” in The Fabric of Cities, ed. N. N. May
+Sala, Maura, “Early and Middle Bronze Age Temples at By- and U. Steinert (Leiden, 2014), 123–69.
+blos: Specificity and Levantine Interconnections,” BAAL Strauss Clay, Jenny and Amir Gilan, “The Hittite ‘Song of
+Hors-Série 10 (2015): 31–58. Emergence’ and the Theogony,” Philologus 58/1 (2014):
+Sanders, Seth L., The Invention of Hebrew (Urbana, IL, 2009). 1–9.
+Sbeinati, Mohamed Reda, Ryad Darawcheh, and Mikhail Susnow, Matthew, “House of the Deity: a Perspective from
+Mouty “The Historical Earthquakes of Syria: an Analysis the Bronze Age Southern Levant,” in Cult, Temple, Sacred
+of Large and Moderate Earthquakes from 1365 B.C. to Spaces: Cult Practices and Cult Spaces in Hittite Anatolia
+1900 A.D,” Annals of Geophysics 48/3 (2005): 347–435. and Neighbouring Cultures, ed. S. Goerke (Mainz, 2020),
+Schachner, Andreas, Hattuscha. Auf der Suche nachdem sa- 81–104.
+gen haften Grossreich der Hethiter (München, 2011). Tamur, Erhan, “Style, Ethnicity and the Archaeology of the
+Schaeffer, Claude F.-A., “Les fouilles de Minet el-Beida et Aramaeans: the Problem of Ethnic Markers in the Art of
+de Ras Shamra. Deuxième campagne (printemps 1930): the Syro-Anatolian Region in the Iron Age,” Forum Kri-
+Rapport sommaire,” Syria 12/1 (1931): 1–14. tische Archäologie 6 (2017): 1–72.
+———, “Les fouilles de Minet-El-Beida et de Ras-Shamra. Teba, Tarek and Dimitris Theodossopoulos, “A Graphic
+Quatrième campagne (printemps 1932): Rapport som- Reconstruction Methodology for the Conservation of Cul-
+maire,” Syria 14/2 (1933): 93–127 tural Heritage,” in ASCAAD 2016: The 8th International
+———, “Les Fouilles de Ras Shamra-Ugarit Huitième Cam- Conference of the Arab Society for Computer Aided Archi-
+pagne (Printemps 1936): Rapport sommaire,” Syria 18/2 tectural Design (London, 2016), 385–97.
+(1937): 125–54. Turner, Ralph H. and Lewis M. Killian, Collective Behav-
+———, “Les Fouilles de Ras Shamra-Ugarit. Neuvième cam- ior, 4th ed. (Englewood Cliffs, NJ, 1993).
+pagne (printemps 1937): Rapport sommaire,” Syria 19/4 Turner, Alasdair, et al., “From Isovists to Visibility Graphs:
+(1938): 193–255. a Methodology for the Analysis of Architectural Space,”
+———, Ugaritica II (Paris, 1949). Environment and Planning B: Planning and Design 28/1
+———, Ugaritica III (Paris, 1956). (February 2001): 103–21.
+———, Ugaritica IV (Paris, 1962). van Gelder, Maartje, “Protest in the Piazza. Contested
+Schloen, David, The House of the Father as Fact and Symbol: Space in Early Modern Venice,” in Popular Politics in an
+Patrimonialism in Ugarit and the Ancient Near East (Winona Aristocratic Republic: Political Conflict and Social Contes-
+Lake, IN, 2001). tation in Late Medieval and Early Modern Venice, ed. M.
+Schmidt Goering, Greg, “Moving and Thinking: Kinesthe- van Gelder and C. J. de Larivière (London, 2020).
+sis and Wisdom in the Book of Proverbs,” in Sounding van Soldt, Winfred H., Studies in the Akkadian of Ugarit:
+Sensory Profiles in the Ancient Near East, ed. A. Schellen- Dating and Grammar (Neukirchen, 1991).
+berg and T. Krüger (Atlanta, 2019), 69–85. ———, “Private Archives at Ugarit,” in Interdependency of
+Schwartz, Glenn, “Memory and its Demolition: Ancestors, Institutions and Private Entrepreneurs, ed. A. C. V. M.
+Animals and Sacrifice at Umm el-Marra,” Cambridge Ar- Bongenaar (Istanbul, 2000), 229–46.
+chaeological Journal 23/3 (2013): 495–522. ———, “Landholders in Administrative Texts,” in Society
+Shedletsky, Lauren and Baruch A. Levine, “The “MŠR” and Administration in Ancient Ugarit, ed. W. van Soldt,
+of the Sons and Daughters of Ugarit (KTU2 1.40),” Revue PIHANS 114 (Leiden, 2010), 151–63.
+Biblique 106/3 (1999): 321–44. ———, “The City Administration of Ugarit,” in City-
+Shepperson, Mary, “Planning for the Sun: Urban Forms as Administration in the Ancient Near East: Proceedings of
+a Mesopotamian Response to the Sun,” World Archaeol- the 53e Rencontre Assyriologique Internationale, vol. 2, ed.
+ogy 41/3: 363–78. Leonid Kogan (Winona Lake, IN, 2010), 247–61.
+414 ! Journal of Near Eastern Studies
+Viano, Maurizio, The Reception of Sumerian Literature in Anatolia in Honor of Emmanuel Laroche’s 100th Birth day,
+the Western Periphery (Venice, 2016). ed. A. Mouton (Istanbul, 2017), 215–24.
+Vidal, Jordi, “The Origins of the last Ugaritic Dynasty,” Al- Yon, Marguerite, “Les steles de pierre,” in Arts et industries
+torientalische Forschungen 33 (2006): 168–75. de la pierre, ed. M. Yon (Paris, 1991), 273–344.
+———, “On the Demography of Ugaritian Villages: A Re- ———, “Ugarit: the Urban Habitat. The Present State of
+search Note,” Journal of the Economic and Social History of the Archaeological Picture,” BASOR 286 (1992): 19–34.
+the Orient 57 (2014): 44–54. ———, The City of Ugarit at Tell Ras Shamra (Winona
+Vieweger, Dieter, “Die Kultausstattung ‘philistäischer’ Lake, IN, 2006).
+Heiligtümer in Palästina,” in Temple Building and Temple Yon, Marguerite, Olivier Callot, “L’habitat à Ougarit à la
+Cult, ed. J. Kamlah (Wiesbaden, 2012), 466–72. fin du Bronze Récent,” in Les maisons dans la Syrie an-
+Whitelaw, Todd, “Estimating the Population of Neopala- tique du IIIe millénaire au début de l’Islam. Pratiques et
+tial Knossos,” British School at Athens Studies 12, (2004): représentations de l’espace domestique, ed. Corinne Castel
+147–58. et al. (Paris, 1997), 15–28.
+Wilhelm, Gernot, ed., Organization, Representation, and Yoshinobu, Ashihara, Exterior Design in Architecture (New
+Symbols of Power in the Ancient Near East: Proceedings of York, 1970).
+the 54th Rencontre Assyriologique Internationale (Winona Zaccagnini, Carlo, “Pferde und Streitwagen in Nuzi, Be-
+Lake, IN, 2012). merkungen zur Technologie,” in Jahresbericht des Instituts
+Wirth, E., “Kontinuität und Wandel der orientalischen für Vorgeschichte der Universität Frankfurt a.M. 1977, 21–
+Stadt. Zur Prägung von städtischem Leben und städ- 38.
+tischen Institutionen durch jahrtausende kulturraums- ———, “Markt,” RlA VII (1989–90): 421–26.
+pezifische Handlungsgrammatiken,” in Die Orientalische ———, “Pomp and Circumstance at Nuzi,” KASKAL 17
+Stadt: Kontinuität, Wandel, Bruch, ed. G. Wilhelm (Saar- (2020): 141–210.
+brucken, 1997), 1–44. Zamora, Jose-Ángel, La vid y el vino en Ugarit (Madrid,
+Wright, John W., “A Tale of Three Cities: Urban Gates, 2000).
+Squares and Power in Iron Age II, Neo-Babylonian and ———, “El ‘ánfora cananea’ y las medidas de capacidad en
+Achaemenid Judah,” in Second Temple Studies III, ed. P. R. el Oriente mediterráneo de la edad del Bronce Final,” Spal
+Davis and J. M. Halligan (Sheffield, 2002), 19–50. 12 (2003): 231–57.
+Wyatt, Nicolas, Religious Texts from Ugarit (Sheffield, 1998). ———, “Uso documental y funcionamiento administra-
+———, “The Religious Role of the King in Ugarit,” Ugarit- tivo en Ugarit: la ‘Casa de las grandes vasijas’,” ISIMU 7
+Forschungen 37 (2005): 695–727. (2004), 203–21.
+———, “National Memory, Seismic Activity at Ras Shamra ———, “L’ébriété à Ougarit et la Bible: un héritage discuté,”
+and the Composition of the Baal Cycle,” Ugarit-Forschungen in La Bible et l’héritage d’Ougarit, ed. J.-M. Michaud (Sher-
+48 (2017): 551–91. brooke, Quebec, 2005), 183–211.
+———, “The Ba’al au Foudre Stela and its Historical Con- Zuckerman, Sharon, “ ‘. . . Slaying Oxen and Killing Sheep,
+text,” Ugarit-Forschungen 49 (2018): 429–37. Eating Flesh and Drinking Wine. . .’: Feasting in Late
+Yasur-Landau, Assaf, Matthew Susnow, “Ceramic Assem- Bronze Age Hazor,” Palestine Exploration Quarterly 139/3
+blages of MB and LB Palaces and Temples: a Comparative (2007): 186–204.
+Study,” Israel Exploration Journey 67/2 (2017): 129–50. ———, “ ‘The City, Its Gods Will Return There . . .’: Towards
+Yener, K. Aslıhan, “Cult and Ritual at Late Bronze Age II Ala- an Alternative Interpretation of Hazor’s Acropolis in the
+lakh: Hybridity and Power under Hittite Administration,” Late Bronze Age,” Journal of Near Eastern Studies 69/2
+in Hittitology today: Studies on Hittite and Neo-Hittite (2010): 163–78.
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

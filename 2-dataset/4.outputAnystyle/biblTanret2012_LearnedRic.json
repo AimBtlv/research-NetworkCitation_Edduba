@@ -1,0 +1,622 @@
+[
+  {
+    "author": [
+      {
+        "family": "Barberon",
+        "given": "Laure"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Quand la mère est une religieuse"
+    ],
+    "volume": [
+      "89"
+    ],
+    "pages": [
+      "94–95"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "N.A.B.U"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bourdieu",
+        "given": "Pierre"
+      },
+      {
+        "family": "Passeron",
+        "given": "Jean-Claude"
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "title": [
+      "La reproduction: éléments pour une théorie du système d’enseignement"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "publisher": [
+      "Éditions de Minuit"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Charpin",
+        "given": "Dominique"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Sippar: deux villes jumelles"
+    ],
+    "volume": [
+      "82"
+    ],
+    "pages": [
+      "13–32"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revue d’Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Charpin",
+        "given": "Dominique"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Lire et écrire à Babylone"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "publisher": [
+      "Cerf"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "particle": "De"
+      },
+      {
+        "given": "Léon"
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "title": [
+      "Deux prières ikribu du temps d’Ammi-ṣaduqa"
+    ],
+    "container-title": [
+      "Zikir Šumim: Assyriological Studies Presented to F. R. Kraus on the Occasion of His Seventieth Birthday (NINO 5"
+    ],
+    "editor": [
+      {
+        "family": "Driel",
+        "given": "G.",
+        "particle": "van"
+      },
+      {
+        "family": "Krispijn",
+        "given": "T.J.H."
+      },
+      {
+        "family": "Stol",
+        "given": "M."
+      },
+      {
+        "family": "Veenhof",
+        "given": "K.R."
+      }
+    ],
+    "pages": [
+      "271–278"
+    ],
+    "location": [
+      "Leiden"
+    ],
+    "publisher": [
+      "Brill"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "particle": "De"
+      },
+      {
+        "given": "Léon"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Le dieu Ninsianna ou l’art de transposer les logogrammes"
+    ],
+    "container-title": [
+      "Archaeologia Iranica et Orientalis: Miscellanea in honorem Louis Vanden Berghe"
+    ],
+    "editor": [
+      {
+        "family": "Meyer",
+        "given": "Léon",
+        "particle": "De"
+      },
+      {
+        "family": "Haerinck",
+        "given": "Ernie"
+      }
+    ],
+    "pages": [
+      "213–221"
+    ],
+    "location": [
+      "Ghent"
+    ],
+    "publisher": [
+      "Peeters"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "particle": "De"
+      },
+      {
+        "given": "Léon"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Une lettre d’Ur-Utu Galamah à une divinité"
+    ],
+    "container-title": [
+      "Reflets des deux fleuves: Mélanges offerts à André Finet (Akkadica Supplementum 6"
+    ],
+    "editor": [
+      {
+        "family": "Lebeau",
+        "given": "Marc"
+      },
+      {
+        "family": "Talon",
+        "given": "Philippe"
+      }
+    ],
+    "pages": [
+      "177–180"
+    ],
+    "location": [
+      "Leuven"
+    ],
+    "publisher": [
+      "Peeters"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gasche",
+        "given": "Hermann"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "La Babylonie au XVIIe siècle avant notre ère: approche archéologique, problèmes et perspectives (Mesopotamian History and Environment, Memoirs 1"
+    ],
+    "location": [
+      "Ghent"
+    ],
+    "publisher": [
+      "University of Ghent"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Janssen",
+        "given": "Caroline"
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "E’iltam paṭārum: awāt hadê!” In Mésopotamie et Elam: Actes de la XXXVIe Rencontre Assyriologique Internationale, Gand, 10–14 juillet 1989 (Mesopotamian History and Environment"
+    ],
+    "publisher": [
+      "Occasional Publications",
+      "University of Ghent"
+    ],
+    "pages": [
+      "77–107"
+    ],
+    "location": [
+      "Ghent"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Janssen",
+        "given": "Caroline"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Inanna-mansum et ses fils: relation d’une succession turbulente dans les archives d’Ur-Utu"
+    ],
+    "volume": [
+      "86"
+    ],
+    "pages": [
+      "19–52"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revue d’Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Janssen",
+        "given": "Caroline"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "De brieven van het Ur-Utu archief [The Letters from the Ur-Utu Archive"
+    ],
+    "genre": [
+      "PhD diss.,"
+    ],
+    "publisher": [
+      "Ghent University"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Janssen",
+        "given": "Caroline"
+      },
+      {
+        "family": "Gasche",
+        "given": "Hermann"
+      },
+      {
+        "family": "Tanret",
+        "given": "Michel"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Du chantier à la tablette: Ur-Utu et l’histoire de sa maison à Sippar-Amnānum"
+    ],
+    "container-title": [
+      "Cinquante-deux réflexions sur le Proche-Orient ancien offertes en hommage à Léon De Meyer (Mesopotamian History and Environment, Occasional Publications 2"
+    ],
+    "editor": [
+      {
+        "family": "Gasche",
+        "given": "H."
+      },
+      {
+        "family": "Tanret",
+        "given": "M."
+      },
+      {
+        "family": "Janssen",
+        "given": "C."
+      },
+      {
+        "family": "Degraeve",
+        "given": "A."
+      }
+    ],
+    "pages": [
+      "91–123"
+    ],
+    "location": [
+      "Leuven"
+    ],
+    "publisher": [
+      "Peeters"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "The Tablet House: A Scribal School in Old Babylonian Nippur"
+    ],
+    "volume": [
+      "95"
+    ],
+    "pages": [
+      "39–66"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revue d’Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Mathematics in Ancient Iraq: A Social History"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanret",
+        "given": "Michel"
+      },
+      {
+        "family": "Lerberghe",
+        "given": "Karel",
+        "particle": "Van"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Rituals and Profits in the Ur-Utu Archive"
+    ],
+    "container-title": [
+      "Ritual and Sacrifice in the Ancient Near East (Orientalia Lovaniensia Analecta 55"
+    ],
+    "editor": [
+      {
+        "family": "Quaegebeur",
+        "given": "Jan"
+      }
+    ],
+    "pages": [
+      "435–449"
+    ],
+    "location": [
+      "Leuven"
+    ],
+    "publisher": [
+      "Peeters"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanret",
+        "given": "Michel"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "As Years Went By in Sippar-Amnānum"
+    ],
+    "container-title": [
+      "Historiography in the Cuneiform World: Proceedings of the XLVe Rencontre Assyriologique Internationale"
+    ],
+    "editor": [
+      {
+        "family": "Abusch",
+        "given": "T."
+      },
+      {
+        "family": "Beaulieu",
+        "given": "P.-A."
+      },
+      {
+        "family": "Huehnergard",
+        "given": "J."
+      },
+      {
+        "family": "Machinist",
+        "given": "P."
+      },
+      {
+        "family": "Steinkeller",
+        "given": "P."
+      }
+    ],
+    "pages": [
+      "455–465"
+    ],
+    "location": [
+      "Bethesda, MD"
+    ],
+    "publisher": [
+      "CDL Press"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanret",
+        "given": "Michel"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Per aspera ad astra: L’apprentissage du cunéiforme à Sippar-Amnānum pendant la période paléo-babylonienne tardive (Mesopotamian History and Environment, Texts 1/2"
+    ],
+    "location": [
+      "Ghent"
+    ],
+    "publisher": [
+      "University of Ghent"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanret",
+        "given": "Michel"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Verba volant, scripta non manent: Tablettes nomades dans les archives des gala-mah à Sippar-Amnānum"
+    ],
+    "container-title": [
+      "Nomades et sédentaires dans le Proche-Orient ancien (Amurru 3"
+    ],
+    "editor": [
+      {
+        "family": "Nicolle",
+        "given": "Christophe"
+      }
+    ],
+    "pages": [
+      "249–270"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "note": [
+      "Éditions Recherche sur les civilisations."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanret",
+        "given": "Michel"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Find the Tablet Box... New Aspects of Archive-Keeping in Old Babylonian Sippar-Amnānum"
+    ],
+    "container-title": [
+      "Studies in Ancient Near Eastern World View and Society Presented to Marten Stol on the Occasion of His 65th Birthday"
+    ],
+    "editor": [
+      {
+        "family": "Spek",
+        "given": "Robartus J.",
+        "particle": "van der"
+      }
+    ],
+    "pages": [
+      "131–147"
+    ],
+    "location": [
+      "Bethesda, MD"
+    ],
+    "publisher": [
+      "CDL Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Elementary Education at Nippur: The Lists of Trees and Wooden Objects"
+    ],
+    "genre": [
+      "PhD diss.,"
+    ],
+    "publisher": [
+      "University of Groningen"
+    ],
+    "url": [
+      "http://irs.ub.rug.nl/ppn/30177613X"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "literal": "."
+      }
+    ],
+    "type": null
+  }
+]

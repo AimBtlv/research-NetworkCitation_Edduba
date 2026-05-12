@@ -1,0 +1,647 @@
+# METADATA
+author: Veldhuis N.
+source_id:Veldhuis2002_StudiesInS
+title: Studies In Sumerian Vocabulary: Dnin Ka6; Immal/šilam; And Še21.d
+Year: 2002
+Source_ID:  Veldhuis2002_StudiesInS
+Source_Type: Article in Book: Journal of Cuneiform Studies, Vol. 54,
+Source_Role,Step_distance: 2 ,3,4 
+Pages:  pp. 67-77
+Web: 
+Published: The American Schools of Oriental Research
+
+
+# TEXT
+
+Studies in Sumerian Vocabulary: dnin-ka6; immal/šilam; And še21.d
+Author(s): Niek Veldhuis
+Source: Journal of Cuneiform Studies, Vol. 54, (2002), pp. 67-77
+Published by: The American Schools of Oriental Research
+Stable URL: http://www.jstor.org/stable/1360043
+Accessed: 02/06/2008 16:34
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=asor.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit organization founded in 1995 to build trusted digital archives for scholarship. We enable the
+scholarly community to preserve their work and the materials they rely upon, and to build a common research platform that
+promotes the discovery and use of these resources. For more information about JSTOR, please contact support@jstor.org.
+http://www.jstor.org
+Studies in Sumerian Vocabulary:
+dnin-ka6; immal/silam; and se21.d
+Niek Veldhuis
+University of California, Berkeley
+The following three studies result from my merely due to scribal negligence may be con-
+work on Old Babylonian lexical lists and on the cluded from N 5053 + N 5066 obverse, an extract
+composition Nanse and the Birds.l from the Old Babylonian list of wild animals
+from Nippur.3 The exercise covers a variety of
+rodents (pes2) and continues with [d]nin-LUL in
+1. Mongoose = dnin-ka5/6
+line 8'.
+The Sumerian word for mongoose (or perhaps
+-
+more generally "rodent;" see Civil 1994: 87) is tjSk~3 1 so66 olv.
+conventionally read dnin-kilim, with the Akka-
+dian equivalent sikku (see Landsberger 1934: 110-
+13). Purpose of this note is to demonstrate that
+the correct reading is dnin-ka6 and that the Akka-
+dian sikku is a loan from the Sumerian.
+1.1. Old Babylonian Spellings
+Throughout the history of cuneiform the word
+under discussion is written (d)nin-PES2;o nly in
+the Old Babylonian period a variant spelling
+dnin-LUL is attested. Since LUL and PES2 are
+similar the variant has often been overlooked.
+The basic difference between PES2 and LUL is
+that the former begins with a rectangular LU-
+shaped head, whereas the head of the latter is in
+4- z4Ci~e,~
+the form of a diamond.2 That this variance is not Ctt e)r
+1. I am preparinga study entitled SumerianR eligion,L it-
+eraturea, nd ScholarshipN:a nsea nd the BirdsT. hisv olume
+will include firste ditions of Nanse and the Birdsa nd the Old
+Babylonian" forerunnert o ur5-ra1 8" (fish and birds).U nless
+otherwise indicated, quotationsf rom literary texts refer to
+the Electronic Text Corpus of Sumerian Literature (ETCSL;
+www-etcsl.orient.ox.ac.uk/). svc'Acee r4eed
+2. For the paleography of PES2 see Krebernik (1984: 287-
+90) and Englund (1995: 40-41 with note 9). 3. I am preparing a full edition of this list.
+67
+JCS 54 (2002)
+68 NIEK VELDHUIS
+This particular extract of the sections pes2 and 1.2 ka-a PES2 peu (sign name) sikku
+dnin-LUL is a model text in a teacher's hand to be
+On the surface the Ea entry may seem to sug-
+copied by a pupil.4 Here LUL is clearly and no
+gest that ka6(PES2) = sikku = "mongoose," but
+doubt intentionally distinguished from PES2 in
+that is clearly incorrect. In fact, the lexical entry
+the preceding lines. The distribution of the two
+intends to say that the reading PES2 = ka6 occurs
+spellings in Old Babylonian literary texts may be
+as an element in the Sumerian word that equals
+tabulated as follows:5
+sikku, that is in dnin-ka6.T his interpretation of
+Ea I 198 is supported by the variant gloss ni-ka
+1.1 (text C). This is not to be understood as still an-
+other reading of PES2, but rather as a gloss to the
+Pro) venance dnin-PES2 dnin-LUL
+full equivalent of sikku, dnin-ka6.
+Ur5-ra Ixq ippur 2 4 Early evidence for PES2 = ka6 in the word
+wild animals
+d)nin-PES2c omes from the Ebla version of the
+SP 1.9 NF ippur6 4 1
+ED list of birds.11 Line 86 is attested in three
+Ur7 1 1
+Good Seed Tq ippur 1 I? copies:
+of a Dog 28 1.3 EDFara12 ki!(HI)-nin-ka6muSen
+SP 23.9 Uri known 1 ED Ebla ki_kamusen
+Ur9 1 OB Yale ki-ib-dnin-ka6mugen
+CT6 14 S i ppar? 3 The Ebla version tends to use abbreviated and
+(lexical prism)10 syllabic spellings, in this case omitting the -nin-.13
+Since both PES2 and LUL have a value /ka/,
+the conclusion is near that the word is to be read
+1.3. d)Nin-ka5/6a nd dNin-kilim
+dnin-ka6( PES2)w ith the orthographic variant dnin-
+ka5 (LUL). (d)Nin-ka5/6is to be distinguished from its hom-
+ograph, the divine name dnin-PES, for which the
+reading dnin-kilim is well established.14 In ED
+1.2. SupportingL exical Evidence
+writing the divine determinative usually distin-
+The reading dnin-kas/6 is confirmed by the first guishes the two; the name of the goddess is writ-
+millennium Ea tradition. Ea I 198 (MSL 14, 186): ten dnin-kilim(PES2),t he rodent is written nin-ka6
+(PES2).15In OB the determinative is added to both,
+4. The pupil's copy would be to the right in the part of 11. See Pettinato's edition in MEE 3, 105-23. A new edition
+the tablet that was cut off in antiquity. This is a so-called type of ED Birds, including two Old Babylonian copies, will appear
+II tablet according to Civil's typology (see MSL 12, 27). in the author's forthcoming study of Nanse and the Birds.
+5. All texts mentioned here were collated from the origi- 12. The photograph of the Fara text (SF 58: http://
+nals or from photographs. dNin-ka5/6a lso appears in SP 1.128'; early-cuneiform.humnet.ucla.edu/DL/VAM/FARA/HTML/
+in Farmer's Instructions 65 (Civil 1994) and in UHF 608 P010648.HTM) is illegible here. The apparent HI is a dam-
+(Geller 1985). These attestations are not useful for paleo- aged or unfinished KI.
+graphic investigations because either the relevant sign is too 13. See Pettinato in MEE 3: 119-20.
+damaged, the tablet is unpublished, or the published hand 14. Numerous glosses and syllabic spellings ranging from
+copy is indiscriminate. third to first millennium attest to this reading. They are col-
+6. Texts I, K, J and M have PES2; D has LUL (sigla follow lected by Krebernik (1984: 287-97); add OSP 1 7 iv 8 (Sar-
+Alster 1997). gonic; discussed by Krebernik on p. 241) and the Old
+7. UET 6/2 239: PES2; UET 6/2 339: LUL. The sign form Babylonian incantation YOS 11, 69 2; 7; and 9: dnin-gi4-i2-na.
+in UET 6/2 320 is indiscriminate (copy is correct). 15. See ED Birds 86 (example 1.3 above). Nin-ka6 (without
+8. Photographs of the tablets in Sj6berg 1972. divine determinative), or ni-ka6 is attested in bilingual Ebla
+9. UET6/2 210. lists where it is translated by various words for mice and
+10. Collated: D i19-20: dnin-kamdunseinn;- kas-mamu"en; and other rodents (see the discussion by Krebernik 1983: 33-34
+D ii20: ki-ib-dnin-ka5musen and 46). For attestations in unilingual Ebla lists see MEE 15
+STUDIES IN SUMERIAN VOCABULARY 69
+which may well explain why, in order to avoid sabsatu; EG nig2-gig = ES ag2-gib = Akkadian
+confusion, Old Babylonian scribes occasionally ikkibu; and EG nigg-gul = ES ag2-gul = Akkadian
+preferred LUL instead of PES2. This scribal akkullum may all be examples of Sumerian words
+habit is found in various places (Nippur, Ur, that entered the Akkadian language in an area
+and perhaps Sippar) but found no following in where the local dialect of Sumerian exhibited
+later orthography. In post-Old Babylonian peri- some of the typical "Emesal" characteristics. Un-
+ods the signs LUL and PES2 give no rise to con- fortunately, local dialects of Sumerian are very
+fusion and the names of both the goddess and rarely observable in the written record.
+the animal are written dnin-PES2.
+2. Silam and Ab2-silam
+Immal(2);
+1.4. sikku < (d)nin-ka6
+On the authority of Emesal Voc II 91 (MSL 4
+The Akkadian word sikku is a loan from Su- 19)19 Landsberger argued that im-ma-al is the
+merian (d)nin-ka6,w itnessing a rare but not un- Emesal equivalent of silam (TUR3xSAL), mean-
+paralleled n/s alternation. The Emesal form of ing "cow" (MSL 8/1 62). The purpose of this note
+the word, attested only once in Old Babylonian is to demonstrate that immal, written im-ma-al or
+context, is se-en-ka6,16w ith initial /n/ in Emegi immal2 (TUR3xSAL) is a Sumerian (Emegi) word,
+corresponding to /S/ in Emesal, comparable to which in the Old Babylonian period means "wild
+EG nig-bun2-na = ES se-en-bun2-na; EG dnin-tu = cow,' whereas (ab2)-silam was used for "(domestic)
+ES dse-en-tu, etc.17 mother cow." In an earlier period both silam and
+It is unlikely that the Akkadian word was bor- immal2 were used for domestic cows.
+rowed from liturgical Emesal. More plausibly, se-
+en-ka6 and sikku both derive from nin-ka6 in
+2.1. Old Babylonian Lexical Evidence
+some local dialect of Emegi. Several of the char-
+acteristic Emesal phoneme shifts have a counter- The Old Babylonian Nippur list of wild animals
+part in Emegi, for instance the g/b alternation (forerunner to ur5-ra 14; unpublished) contains the
+(Civil 1973). Bauer (1998: 435-36) has argued that following passage:
+some of these shifts are attested in those rare
+2.1 am wild bull
+places where the local Lagas dialect surfaces in
+am-si elephant
+Old Sumerian texts, so that Emesal may histori-
+am-si-kur-ra camel or dromedary
+cally derive from this dialect. It is not unlikely that
+sumun2 wild cow
+an n/s correspondence existed in Sumerian dia-
+KA20
+lectology; it may be attested in the modal prefix
+TUR3xSAL wild cow
+sa- (= na-?) and in peculiarities of the writing sys-
+tem such as sa = na5 and ser7 = nir. Variants show that the last line is to be read
+Akkadian words that superficially seem to de- immal2:
+rive from Emesal may be explained in a similar UM 29-16-31 TU[R3xSAL]
+way:18 EG sag4-zu = ES *sa-ab-zu = Akkadian N 4058 im-[ma-al]
+Ni 3776 TUR3xSAL
+IM 5867021 im-ma-al
+(= MVS 4) 136 (TLME5 7) and notes 120, 377 and 378 with
+furtherl iterature.
+16. BM 23631, OrNS5 4: 121, as discussed by Civil 1994,
+104 note 83. See also George (1999:2 96-97 note 37). 19. The reading im-ma-al as reconstructed in MSL 4 is
+17. On the s/n alternation in Emesal and Emegi see now confirmed by the new fragment UM 29-15-134 (Veld-
+Schretter( 1990:6 8-69) with earlier literature. huis 1996).
+18. A different case is mutinnu (EG gestin = ES mu-tin) 20. Kir4 = hyena seems unlikely here.
+that is attested only in first millennium learned texts where 21. IM 58670 (3 N-T 742) + IM 58671 (3 N-T 743), studied
+loans from Emesal are to be expected. from a cast in The Oriental Institute, Chicago.
+70 NIEK VELDHUIS
+Proto-Ea 398a-b provides two readings for 2.2.1. The Goddessi s a Wild Cow
+TUR3xSAL:22 [i]m-m[a-al] and [si-la-a]m. First
+In Nisaba A 2-325 Uras is referred to as
+millennium Ea/Aa records both these readings
+TUR3xSAL. The word is used in the same con-
+of TUR3xSAL, but in addition lists the related
+text as segg (ibex), suggesting that a wild animal
+sign TUR3xBAR, with basically the same set of
+is meant:
+readings.23T UR3xBAR with the readings immal,
+silam2, etc. is a late (post-Old Babylonian) inven- 2.2 dnisaba immal2 gal duras-e tud-da
+tion and should not be used in transliterating segg naga kug-ga ga zid gu7-a
+early texts.24 Nisaba born by the great wild cow Uras
+In the Old Babylonian period silam and im- ibex, fed on good milk among pure potash.
+mal2 are both bona fide readings of TUR3xSAL Uras receives this same epithet in Lugalbanda
+and the question remains how to distinguish be- I 61: "Uras had borne these seven, the Wild Cow
+tween the two. The following explorations will had nourished them with milk." Nanse is called
+start from the assumption that where TUR3xSAL "Wild Cow" in Nanse and the Birds 11-13:
+refers to a wild animal it is to be read immal2
+(2.2), whereas TUR3xSAL = silam is used for a 2.3 e-ne an-ta ki-a gub-ba-[am3]
+domestic cow, most often in the expression ab2- immal2 kug-gin7 a-e mu-un-[...]
+silam (2.3). As an additional complication it ap- U5musen kug immal2 babbar a bar-ra a
+pears that at several places TUR3xSAL is used to bi2-i [n-nag]
+designate a male person or god, probably to be Stepping onto earth from heaven,
+read silam (2.4). In section 2.5 I will discuss the She [stood] in the water like a pure wild cow.
+Emesal word im-ma-al and ?2.6 is devoted to pre- Being a pure goose, a white wild cow
+Old Babylonian orthographies of silam and immal. she [drank] water at the waterside.
+As I will argue elsewhere U5mugeins the wild
+2.2. Old Babylonian immal2 and im-ma-al goose. Since this passage takes place in illo tem-
+= "wild cow." pore, when Nanse steps down to earth to build
+her temple in the water (line 21), a wild cow is
+There are two different Old Babylonian con- more in place than a domestic species. Perhaps
+texts in which TUR3xSAL refers to a wild animal this etiology of Nanse's temple is referred to in
+and is to be read immal2. First, several goddesses the section devoted to her in the Temple Hymns,
+are described as "wild cow" (Inana, Uras and which contains the sign TUR3xSAL in broken
+Nanse). Second, TUR3xSAL appears at several context (line 272).
+places as the counterpart of am or gud-am. In
+addition the spelling im-ma-al is attested a few Inana is referred to as "great wild cow" in
+times in Emegi texts. Ininsagura (Inana C) 183:
+digir an ki-a a-na me-a-bi immal2
+gal-bi-me-en
+22. MSL 14,47. You are the great wild cow among all
+23. MSL 14, 401 and 423 (with note to lines 80ff). The read- the gods of heaven and earth.
+ings arhus2/3 and uS5/6a re known only in the late period and
+do not concern us here. The reading immal2 here is confirmed by
+24. Some forms of ED and Ur III TUR3 look like TUR3xBAR, Emesal texts, which frequently use this epithet
+and are occasionally read IMMAL in Assyriological literature
+(for instance Krecher 1983). In a regular third millennium (written im-ma-al; see ?2.5), and by the following
+TUR3(NUN.LAGAR) the horizontal of the NUN may cross the passage in the Song of the Hoe 50:
+inner vertical of the LAGAR. Fairly often the horizontal does
+not continue into the LAGAR and a separate small horizontal
+crossing the vertical of the LAGAR is added to mimic the ap-
+pearance of the sign as described before. This does not consti-
+tute a separate sign, but is simply a variant of TUR3. 25. For this passage see also below, ?2.6.3 (Ur III exemplar).
+STUDIES IN SUMERIAN VOCABULARY 71
+2.4 nin e2-an-na im-ma-al zid-da nection with her calf, or with milk products (milk,
+The lady of Eanna, the good wild cow. fat, cheese).29T he reading of silam in this expres-
+sion is assured by constructions such as amar ab2-
+The only reason why the word is spelled syl-
+silam-ma-gin7 (Lugalbanda I 350). The spellings
+labically in the Song of the Hoe is the appearance
+consistently indicate that ab2-silam is not a geni-
+of the sign AL.26
+tive compound, which has given grounds in the
+past to take ab2 as a determinative (ab2silam)A. n
+2.2.2. Immal2 with other Wild Animals Old Babylonian incantation in syllabic Sumerian
+shows that ab2 is part of the word, so that this
+At several places TUR3xSAL is parallel to or
+interpretation has been abandoned (ga-ra ab-si-il-
+mentioned in the same context as am or gud-am,
+la-ma for gara2 ab2-silam-ma).30
+"wild bull." Examples are Ninurta's Return 102-
+In a couple of places TUR3xSAL, without pre-
+103; Temple Hymns 459; SP 2.94 VS 17 10 126-
+ceding ab2-, clearly refers to a domestic cow; for
+27; and Lugalbanda II 121:
+instance in Cursing of Agade 164-165:
+2.5 ki-se3 umbin-zu am kur-ra immal2 kur-ra
+2.7 ud5 GI den-lil2-la2 amas-ta ba-ra-ra-as
+~es-ad-am3 ba-nu2
+na-gada-bi bi2-in-us2-u2-uS2
+On the ground your (= Anzud's) talons are
+silam tur3-bi-ta ba-ra-ra-as unu3-bi
+like a trap laid out for the wild bull of the
+bi2-in-us2-u2-us2
+mountain, for the wild cow of the mountain.
+The ... (?) goats of Enlil left their folds,
+The reading immal2 in these contexts is sup- their herdsmen followed them;
+ported by the lexical quotation above (example The cows left their pens, their cowherds
+2.1) and by an unprovenanced proverb where an followed them.
+im-ma-al meets another wild animal: a lion.
+The point of this passage is that the Gutians
+2.6 ur-mah-e sa3-ne-sa4 im-m[a-a]l-la su ba-ab-te destroyed civilized life, so that TUR3xSAL can-
+The lion accepted the supplication of the not mean anything but "domestic cow."T he read-
+cow. (SP 5.62)27 ing silam is confirmed by the variant ab2-silam in
+one exemplar (STVC 94; text L).31 Other places
+where TUR3xSAL refers to a domestic cow, to be
+2.3. Silam and Ab2-silam
+read silam, are Ibbi-Sin D 19,32N anna A 2, Na-
+The Nippur list of domestic animals includes wirtum Elegy 5-6, and Fields of Ninurta 93' (see
+the item ab2-silam;28 the reading silam in this below section 2.6.3). While Enki ejaculates in
+expression is well established (see below). Ab2- Enki and the World Order (250-255) his voice is
+silam, meaning (domestic) mother cow, occurs in compared to that of a TUR3xSAL, "mooing for
+a restricted set of contexts, in most cases in con- her calves in the grass, the pen of scorpions."
+The mentioning of calves and the reference to
+26. There is no reason to suspect that im-ma-al is Emesal
+here since there are other places where the Emegi word is
+spelled this way. See the examples 2.1; 2.6 and 2.11. 29. UnfortunatelyP SD A/2 has no entry or sub-entryd e-
+27. YBC 4604 i 6 (Alster 1997: pl. 118). The text is slightly voted to ab2-silamT. here is no point in collectinga ll the ref-
+damaged, but enough remains to establish the reading. erences here since there is little news to tell. See also below
+28. Written ab2-TUR3 (MSL 8/1 87 209). On this spelling, the Ur III examples2 .13-2.14 (?2.6.3).
+which is used in all the exemplars of the standard Nippur list 30. Cohen (1976:1 38 44). See Krebernik1 984,4 2 for a pre-
+known to me, see below ? 2.6. The edition in MSL 8/1 is some- sentationo f all availablep arallels.S ee also ab2-sa3-lamin the
+what misleading since it includes in the composite text a vari- Ur III incantation HS 1555 (TMH NF 4 67) + HS 1587 line 23
+ant Nippur version (SLT 51=V29) that has a divergent order (Finkel 1998, 79).
+and some divergent items. This version includes the item ab2- 31. See the scoree dition in Cooper( 1983: 169).
+silam(TUR3xSAL) which in the edition has become "line 217a": 32. "Theres hall be no end to the fat and the milk of the
+There is no text that has both the lines ab2-TUR3 and ab2- cow (silam)d welling in the cattle-pen"a; contextt hat is very
+TUR3xSAL. similart o the ones where ab2-silami s found.
+72 NIEK VELDHUIS
+motherly care indicate the reading silam here. The evidence suggests that at least in some
+Although the comparison is not direct, but rather periods or registers of Sumerian silam is less
+between Enki's voice and the cow's mooing, the gender-specific than the writing with inscribed
+emphatic feminine nature of silam and the de- SAL seems to indicate.
+cidedly masculine activity of Enki produce an odd
+comparison.
+2.5. Old Babylonian Emesal im-ma-ala nd
+silam
+2.4. Males describeda s silam-(za)
+The equivalents of immal2 and silam in Eme-
+At a few places in Old Babylonian literature sal are im-ma-al and silam respectively. In Old
+TUR3xSAL describes a male person or god.33I n Babylonian Emesal im-ma-al is usually an epi-
+Temple Hymns 311 the god Sara is described as thet of Inana, in accordance with its use in Emegi
+follows: for a variety of goddesses (see Schretter 1990:
+2.8 gu2-has la2-la2 igi bar silam-ma 170-71 for references). Silam appears in some
+late Emesal texts (for instance Cohen 1988: 508
+Hairdresser34w ith the gaze of a silam.
+a+120); I have not found any Old Babylonian at-
+The reading silam is assured by the following testations so far,37b ut this may well be a coinci-
+-ma. Utu receives the epithet TUR3xSAL ban3-da dence. The Emesal im-ma-al (or em-ma-al) differs
+in Utu B 7. At two places a male is described as only from its Emegi equivalent in its preferred
+a TUR3xSAL-za; where the meaning of -za re- spelling, comparable to ES -men3 for EG -me-
+mains unexplained. In Enmerkar and the Lord of en, etc.
+Aratta 182-184 the messenger describes Enmer-
+kar to the Lord of Arattta:
+2.6. Pre-OldB abylonian TUR3= Silam
+2.9 tarah-mas kur bad3-da a2 nun gal2 and Immal38
+Silam-za mas naga kug-ga umbin
+In pre-Old Babylonian orthography the sign
+sud2-sud2-e
+ab2 zid-da kur sag4-ga tud-da TUR3 was used for tur3, silam, and immal. In the
+The stag of the high mountains, endowed following I will investigate the evidence for the
+with princely antlers, different periods.
+silamza, kid pawing the pure potash with
+its hoof, 2.6.1.F ara and Ebla
+Whom the good cow had given birth to
+in the heart of the mountains. Krecher 1983 and Krispijn 1981-1982 indepen-
+dently recognized the existence of an unortho-
+TUR3xSAL-za further appears in Temple graphic Ebla copy of the ED list of domestic
+Hymns 103,35 where it describes the Ekisnugal
+and thus Nanna. In these cases the reading silam
+is indicated by a gloss in a Neo-Babylonian copy
+of An = Anum: dTUR3xSALSi-la-za36 TUR3xSAL-za appears twice in in Old Babylonian literature I
+give preference to the -za reading. Whether the gloss faith-
+fully represents the Old Babylonian understanding of the word
+remains, of course, a moot question.
+33. See also Foster in NABU 1996/68. 37. Krecher (1966: 216) proposed to read silam!(TUR3)
+34. Inana calls Sara "my manicurist and my hairdresser" amar-bi in CT 15 7 24. By itself this reading is plausible and
+in Inana's Descent 336 (umbin ku5-ku5-ra-guo0,g u2-has la2- gives good sense, but the parallelism with gud3 in the preced-
+gu10,). For gu2-has = "braid"s ee Farber (1977: 159). ing line makes tur3 more likely.
+35. See Sjoberg (1969: 74). 38. Lexical texts from Fara quoted in this section were col-
+36. SLT 121 line 4; see Sjoberg (1969: 74) and Litke (1998: lated from photographs published on the CDLI web site
+168 line 4 with notes). A parallel text has [dTURsxSAL]- (http://early-cuneiform.humnet.ucla.edu/), except for SF 1 for
+kur. Since the SLT text has the lectio difficilior, and because which a photograph is available in the original publication.
+STUDIES IN SUMERIANV OCABULARY 73
+animals that is known in regular writing in cop- We may conclude that the Early Dynastic evi-
+ies from Ebla, Fara,a nd Abu Salabikh.3T9 his list dence demonstrates that TUR3 may be read
+includes both /silam/ and /immal/. The compari- immal and silam.44L ine 114 of the list quoted
+son with the orthographics ources provides the above (example 2.10) seems to imply that AB2o r
+following results: LU. AB2 may have a reading /silam/. It is more
+likely, however, that the unorthographict ext has
+2.10 Ebla syllabic Orthographic
+an explanatoryv ariant here. The appearanceo f
+(MEE3 62) (SF81)
+immal (TUR3) in this list of domestic animals
+105 se3-li-im -TUR3( LAK7 7)
+leads to the conclusion that in the ED period
+106 se3-li-im-gal gal -TUR3
+both immal and silam where domestic;b y what
+10740 u3-ma-al6 TUR3 (LAK7 8) time immal became to be used for "wild cow" is
+108 [u3]-ma-al6[g al] gal TUR3
+unknown.
+121 se3-lam -TUR3
+122 se3-lamk ar kar -TUR3 2.6.2. Gudea
+123 u3-ma-al6 TUR3
+In GudeaC yl.B 4.7-9 the word /immal/ appears
+124 u3-ma-al6g a-la kar TUR3
+as im-ma-al:
+Furthermoret, he same list includes the item
+2.11 u8 gig2-geu mbin mi-ni-ib2-kig2
+114 na-ga se3-li-im naga LU ab2 im-ma-ala n-na-ke4
+ubur si ba-ni-ib2-sa2
+The Fara version (SF 81), which is the only
+non-Ebla version available at this point, makes a They sheared the black ewes
+And the cow of heaven
+distinctionb etween the sign for /silam/ (LAK7 7)
+Let her teats flow.
+and the sign for /immal/ or /ummal/ (LAK 78).
+LAK 77, transliteratedh ere as -TUR3,i s the sign It is not clear whether im-ma-ali s supposed to
+TUR3 (LAK 78) with the first, stronger vertical be a wild or a domestic cow here. Not helpful is
+omitted. The distinction may well be artificial; Gudea Cyl.B 16.20:
+the sign is used only in one other lexical Fara
+2.12 TUR3k i-nu2-bad ub3g ar-ra-am3
+text.41T he gloss se3-li-im or se3-lam for -TUR3
+(The bed) was a TUR3k neeling down in
+(105-106 and 121-122) correspondst o Ebla Sign
+List 11 TUR3 = si-la-mu-um (Archi 1987). The its sleeping place.
+first part of the Ebla Sign List follows ED Lu A TUR3 denotes an animal here and may either
+(though with many omissions); the present line be read silam or immal; whether the animal in
+refers to ED Lu A 28, which may be read gal- question is supposed to be wild or domestic may
+silam(TUR3).42T his reading is confirmed by a not be deduced from the context.
+variant in an Old Babylonianc opy from Nippur
+SLT1 12,43w hich has [gal]-silam( TUR3xSAL).
+2.6.3. Ur III
+In the Ur III period the readingT UR3 = immal
+39. SF 81; IAS 25-26; MEE 3 nos. 12-17; edited in MEE 3, is indirectly attested in the writing IB2-TUR3ki
+47-56. The archaic version (see ATU 3) is not relevant here. for Tummal,t o be read tum-malx( TUR3)ki.T45h e
+40. For al6(MAH) in Ebla see Krebernik (1984: 136). expression ab2-silam(TUR3i)s attested in Lagas
+41. SF 1, column 8, 13-15 (god list).
+42. Note that the extant Fara copies of ED Lu A 28 (SF 33
+and 34) write the regular TUR3 sign (LAK 78), not the sign 44. Also BE 1 93 5' where TUR3 has been read silam by
+-TUR3 (LAK 77). various authors (Steinkeller 2001, 70 note 205; Steible in
+43. Collated. The full description of this tablet is now CBS FAOS5 /2 220-21 with earlier literature)T. he readingi mmal
+6142 (SLT 112) + CBS 7989 (PBS 11/3 75) + UM 29-16-252 is equally possible here.
+(+) UM 29-16-221 (+) UM 29-16-224 45. See De Maaijer( 1999) and Steinkeller( 2001:6 6-71).
+74 NIEK VELDHUIS
+Fara ED-Ur III OB OB Emesal firstm ill.
+(lexical)
+tur3 TUR3 TUR3 TUR3 TUR3 TUR3
+immal(2) TUR3 TUR3 TUR3xSAL im-ma-al TUR3xBAR
+im-ma-al
+silam -TUR3 TUR3 TUR3xSAL [TUR3xSAL] TUR3xSAL
+TUR3 (TUR3)
+administrative texts, where it appears a few times copies) is probably to be read silam, because it
+in documents about calves (TCTI 2 2646; SS4): stands in parallelism to ab2.49
+2.13 7 amar ab2-TUR3 / 1.0.0 se gur lugal-ta
+(one line erased) 2.6.4. TUR3 = silam in O.B.
+se amar-e gu7-a
+Seven calves of silam cows; 1 royal gur At several places in Old Babylonian literature
+of grain each the spelling TUR3 = silam persisted. One of the
+grain eaten by the calves. sources of Nanna A writes TUR3 where the
+duplicate has TUR3xSAL (see Sjoberg 1960: 18),
+A very similar text has amar-TUR3 which is and the god name Ama-silam-ma is written Ama-
+either an error or an abbreviation for amar ab2- TUR3-ma (see Jacobsen and Alster 2000: 327
+TUR3.4 A third attestation is TCTI 2 3629 (SS 1): commentary to line 40). It is likely that more
+2.14 8 amar ab2-TUR3 such examples are to be found.
+dnanse
+a-du8-du8 na-gada 2.7. Conclusion
+This use of ab2-TUR3i n connection with calves The history of the orthography of tur3, silam,
+is consistent with Old Babylonian usage (see ?2.3) and immal(2) may be summarized in the table
+and makes it likely that the reading is ab2-silam above.
+(TUR3).47 It is likely that at least in some periods or regis-
+Ab2-silam appears in two incantations from Ur ters silam means "bovin" despite the Old Babylo-
+III Nippur, once written ab2-sa3-lama nd once ab2- nian spelling TUR3xSAL. The gender-specific
+TUR3.48 words are ab2-silam and silam-za.
+What little remains of Ur III literature con-
+firms that TUR3 is used in places where Old
+Babylonian copies have TUR3xSAL. The first ref- 3. se21 = To Lie/Lay Down (Inanimate)
+erence is the Lagas copy of Nisaba A line 2 (NFT Purpose of the present note is to demonstrate
+171; see Hallo 1970, 123). We have argued above that Sumerian had two verbs for to lay down or to
+that in this line the sign is to be read immal(2) sleep, nu2.d and se21.d, the first specialized for
+(example 2.2). The second case is Fields of Ni- animate beings, the second for inanimates. The
+nurta 93' where TUR3 (or TUR3xSAL in the O.B. distinction between these verbs was lost in or
+46. TCTI2 3883; IS 1.
+47. The Lagas personal name ab2-TUR3-e( CT 7 32 BM 49. An edition of this composition by Gonzalo Rubio, in-
+18395 obv.5 ; CTNMC5 4 i2 and i17; MVN 17 72 ri) may be cluding several unpublished duplicates, is forthcoming; until
+an abbreviationfo r ab2-silam-etu d-da( "bornto a motherc ow;" then the interpretation of TUR3xSAL/TUR3 in this line re-
+thus Heimpel 1968:2 07). mains difficult to evaluate. The line is discussed in Rubio forth-
+48. HS 1555 (TMHN F 4, 67) + 1587 (Finkel1 998, 79) line coming; the Ur III duplicate (6N-T115) was collated from a
+24: i3 ab2-sas-lam-maC;B S8 241 (PBS1 3 35 = NATNP late II) photograph of the flat cast in the University of Pennsylvania
+line 14: ab2-TUR3. Museum.
+STUDIES IN SUMERIANV OCABULARY 75
+before the Old Babylonianp eriod, so that se21.d 3.4 N"i-rig-na-mbui s sag-kal-gin7
+became a source of some confusion. id2 ka 7 dutu-kas ag4-bam u-un-se21-se21
+It rootsr ested like sagkal snakes
+In Utu'sr iver that has seven inlets.
+3.1. The Lexical Evidence
+Elsewhere in this compositioni t used for the
+In his edition of Homeo f the Fish Civil quoted young of the Anzud bird being put in its nest (41):
+the following extractf rom Proto-Diri( 1961: 168):
+3.5 gud3 im-ma-ni-ib-gara mar-bib a-e-se21
+3.1 se-e HU.NA2 nabum to call (by name);
+(Anzud)h ad established there its nest
+to name
+and laid there its chick to rest.
+rabasum to lie down; rest
+su-[w]u -um ? In the lines 57 and 93 Lugalbandai s subjecto f
+itulum to lie down the same expression. The verb is used at two
+places in Nanse and the Birds (C14):
+The gloss se-e (se21) for 'to name' (Akkadian
+nabum) is confirmed by Proto-Ea/Proto-A8a4 4; 3.6 se21musen gud3 amar-bi [...] bar-ba
+the conventionalr eading sa4 is based on Middle nam-mi-ib2-s[e21]
+Babylonian (Ugarit:M SL 14 144 ii23') and first The se bird lays the young of its nest
+millennium sources.T he verb e21 = "tos leep" is outsidet he [...]
+not found in other Old Babyloniano r later lexical
+This line is an etymologicale xplanationo f the
+sources. Confirmationf or this reading from a bird name se21musen( see ?3.3). Line D 28 of the
+much earlier period comes from the Ebla Sign same compositionr uns as follows:
+List, (Archi 1987) line 72:
+3.7 ti-ri2-da"mguiesn-g i-at i-ri2-dab a-e-se21
+3.2 NA2 = se3-tum. The tirida bird in the reed thicket rests
+The Ebla Sign List provides semiticized forms with the runaway.
+(ending in -um) of Sumerianv alues, so that the For the translation ti-ri2-da = "runaway,"se e
+presente ntry indicatest he reading/ sed/ for NA2.50 Civil (2002: 65-68), who, quoting this line, trans-
+lates, "the tirida bird calls tirida in the reed
+3.2. Literary Attestations thickets.'51S ince Nanse and the Birds records
+several birdcalls this translationh as some inher-
+The oldest attestationk nown to me is in Gudea
+ent plausibility.T he problem, however, is that
+Cyl. A iv 19 (Gudea'sd ream) and v 16 (Nanse's sa4/se21 = nabu is used for "to call (by name),'
+explanation)T. he lines are identical,b ut the spell- not for "toc all."
+ing of the verb differs: Nominal forms of the verb are found in Home
+3.3 zid-dag ab3-nap irig i3-NA2-NA2(i v19) of the Fish 37-38:52
+zid-da gab3-nap irig i3-se21(NA2.HU)- 3.8 a zal-le-gin7s e21-zun a-an-ba-la2-e
+se21(NA2.HU()v 16)
+iti6 e2-ban am-ba-ni-in-kurg-kurseg2 1-zu
+Lions were lying at his right and his left.
+na-an-ba-la2-e
+The example demonstratest hat by this period Like flowing water your bed will be spread.
+the verb se21 may be written NA2 or NA2.HU. The moonlightw ill enter that house,
+The sign HU, read musen, may be understooda s your bed will be spread.
+a partialg loss.
+The verb is used for snakes in LugalbandaI I
+51. Civil assertst hat ti-ri2-dam"i"se ind enticalw ith al-ti-ri2-
+34-35: gu7musen ( with many spelling variants).T his is unlikely since
+both appeari n ED Birds (MEE3 , 112 lines 77 and 78).
+52. Followingt he versioni n UET6 45. See the edition and
+50. Note that final /t/ is unknown in Sumerian. translationb y Civil (1961).
+76 NIEK VELDHUIS
+3.3. se21musena nd (gi)nnu2musen 3.4. Conclusion
+The spellings NA2muSaennd HU.NA2muSienn t hird In all attestations of se21 where it means "to
+millennium and Old Babylonian sources are equi- rest,' or "to put to rest' the one resting is an ani-
+valent writings for se21mu"eonr "sleeper bird;" no- mal: lions (3.3), snakes (3.4), birds (3.5-3.7), and
+where do they appear together in the same text. fish (3.8). We may conclude that se2l.d means "to
+se21musea"p pears in Nanse and the Birds C14 rest" or "to lay to rest" for inanimate beings. In
+(above example 3.6) and in the Old Babylonian Gudea the writings NA2 and NA2.HU are used
+lists of fish and birds from Nippur (115') and Ur indiscriminately; the usage of the sign NA2 for
+(UET 7 92 iv 32'). In ED Birds the word is writ- /sed/ is supported by the Ebla Sign List (example
+ten NA2muen( MEE 3 111 40).53T his writing also 3.2). For competent readers and writers of Su-
+appears in the variant Old Babylonian Nippur list merian it may have been unnecessary to indi-
+CBS 795054 (SLT6 5 ii4'). cate the difference orthographically. In the Old
+In late Old Babylonian bird lists the word is Babylonian period the verb se21.d occasionally
+written ginu2musen( Saduppum: IM 51144 riii 48 produced problems: source H of Lugalbanda II
+and Sippar(?): CT 6 14 Diil4).55 The GIS-deter- (example 3.5) consistently writes tus for se21
+minative makes the reading nu2 obligatory. This (PBS 5 16; O.B. Nippur; see Wilcke 1969, 153)
+reading of the bird name is continued in Middle and in the lexical tradition e21m u"eins gradually
+Babylonian and first millennium lexical tradition replaced by na2-amuge(?n3 .3).
+where na2-amuseins rendered issur miusi ("night Examples of suppletive stems for animate and
+bird") or sallalu ("sleeper").56 inanimate subjects are not too numerous but they
+do exist: til (animate) and lug (inanimate) is such
+a case (plural in both cases se1l).57I n the Old Ba-
+53. MVN 13 740 (photographa nd edition in Owen 1981), bylonian period suppletive stems tend to be lost,
+an Ur III administrativet ext that records the deliveries of
+a wide variety of birds, lists 1621 [NIA2mus(elinn e 20). The a process that is observable in the present case.
+line is slightly damaged and may be read [N]A2mUSeonr; The question remains what the relation is be-
+[idi]gna"usen[;H U.N]A2muSiesn e xcluded. tween se21.d = "to rest,' and se21 = "to name." It is
+54. The full descriptiono f this tablet is now CBS 4608 =
+likely that the two words have no relation at all;
+SLT 230; PBS 12/1 14 + CBS 6402 = SLT 40 + CBS 7379 =
+ST 217 + UM 29-16-220 (+) CBS7 950 = SLT6 5 (+) UM 29- they are written by the same sign combination
+16-452. The fragmentC BS 7950 (SLT6 5) was published as because of an accidental (partial?) similarity in
+CBS 7590. The tablet was reconstructedb y M. Civil in MSL their phonemic form.
+10, 145.
+55. IM 51144 is a multi-columnl exical list from Old Baby-
+lonian Saduppumt hat was partly published in MSL 6 (sec- 56. MSL8 /2, 134 242-243; Emar 6/4 131 65'; see Salonen
+tion wood) and 7 (sectiond ug).I wish to thankM iguel Civil, (1973:2 32).
+who kindlym ade a photographo f this tablet availablet o me. 57. See Steinkeller( 1984).
+References
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Alster,B endt Civil,M .
+1997 Proverbs of Ancient Sumer. The World'sE arli- 1961 The Home of the Fish. A New SumerianL it-
+est ProverbC ollectionsB. ethesda:C DL. erary Composition. Iraq 23: 154-75.
+Archi,A . 1973 From Enki's Headaches to Phonology JNES
+1987 The "Sign-list"f rom Ebla. Eblaitica 1: 91-113. 32: 57-61.
+Bauer,J . 1994 The Farmer'sI nstructions.A SumerianA gri-
+1998 Der VorsargonischeAn bschnittd er mesopota- culturalM anual.A ulaO rientalisS upplementa
+mischen Geschichte. Pp. 431-585 in Mesopo- 5. Sabadell (Barcelona): AUSA.
+tamien. Spdturuk-Zeitu nd Friihdynastische 2002 The Forerunners of Maru and Hamtu in Old
+Zeit. Anndherungen 1, ed. P. Attinger and Babylonian. Pp. 63-71 in Riches Hidden in Se-
+M. Wafler.O BO1 60/1. Fribourg:U niversitats- cret Places.A ncient Near Eastern Studies in
+verlag.
+STUDIES IN SUMERIAN VOCABULARY 77
+Memoryo f ThorkildJ acobsene, d. TzviA busch. Beschworungsliteratur. Texte und Studien
+WinonaL ake,I N: Eisenbrauns. zur Orientalistik 2. Hildesheim: Olms.
+Cohen,M . E. Krecher, J.
+1976 Literary Texts from the Andrews University 1966 Sumerische Kultlyrik. Wiesbaden: Harras-
+ArchaeologicaMl useum.R A 70: 129-44. sowitz.
+1988 The Canonical Lamentations of Ancient 1983 Eine unorthographische sumerische Wortliste
+MesopotamiaP. otomacC: DL. aus Ebla. OrAn 22: 179-89.
+Cooper,J . S. Krispijn, T. J. H.
+1983 The Curse of Agade. Baltimore:T he Johns 1981- 82Die Identifikation zweier lexikalischen Texte
+HopkinsU niversity. aus Ebla MEE III Nr. 62 und 63. JEOL 27: 47-
+De Maaijer,R . 59.
+1999 IB.TURk=i Tummal.N .A.B.U1 999/92. Landsberger, B.
+Englund,R . K. 1934 Die Fauna des alten Mesopotamienn ach der
+1995 There'sa Rat in my Soup!A oF 22: 37-55. 14. Tafel der Serie Har-ra = hubullu. ASAW
+Farber,W . 42/6. Leipzig: Hirzel.
+1977 Beschworungsritualea n Istar und Dumuzi. Litke, R. L.
+Wiesbaden:S teiner. 1998 A Reconstructiono f the Assyro-Babylonian
+Finkel, I. L. God-Lists,A N: dA-nu-uma nd AN: Anu sa
+1998 A Study in Scarlet. Incantationsa gainst Sa- Amnli. Texts from the Babylonian Collection
+mana. Pp. 71-106 in Festschrift fur Rykle 3. New Haven: Yale Babylonian Collection.
+Borgerz u seinem 65. Geburtstaga m 24. Mai Owen, D. I.
+1994. tikip santakki mala basmu..., ed. 1981 Of Birds, Eggs and Turtles. ZA 71: 29-47.
+Stefan M. Maul. Cuneifrom Monographs1 0. Rubio, G.
+Groningen:S tyx. in press Orthography and Grammar of the Ur III Su-
+Geller, M.J . merian Literary Texts. ASJ 22.
+1985 Forerunnerst o Udug-HulS. umerianE xorcistic Salonen, A.
+Incantations.F AOS1 2. StuttgartS: teiner. 1973 V6gel und Vogelfangi m alten Mesopotamien.
+George,A . R. AASF B 180. Helsinki: Academia Scientiarum
+1999 The Dogs of Ninkilim: Magic against Field Fennica.
+Pests in Ancient MesopotamiaP. p. 291-99 in Schretter, M. K.
+Landwirtschafti m alten Orient.A usgewdhlte 1990 Emesal-Studien. Sprach- und Literaturge-
+Vortrdged er XLL Rencontre Assyriologique schichtliche Untersuchungenz ur sogenann-
+Internationale Berlin, 4.-8.7.1994,e d. Horst ten Frauensprache des sumerischen. Inns-
+Klengel and JohannesR enger.B BVO1 8. Ber- bruckerB eitrage zur KulturwissenschaftS onder-
+lin: Dietrich Reimer. heft 69. Innsbruck: Institut fir Sprachwissen-
+Hallo,W .W . schaft der Universitait Innsbruck.
+1970 The Cultic Setting of Sumerian Poetry Pp. Sjoberg, A. W.
+116-34 in Andre Finet, ed. Actes de la XVIIe 1960 Der Mondgott Nanna-Suen in der sumer-
+RencontreA ssyriologiquIen ternationaleB. rux- ischen UberlieferungI . Teil:T exteS. tockholm:
+elles, 30 juin - 4 juillet 1969.H am-sur-Heure: Almqvist & Wiksell.
+Comiteb elge de recherchese n Mesopotamie. 1969 The Collectiono f the SumerianT empleH ymns.
+Heimpel,W . TCS 3. Locust Valley, New York:A ugustin.
+1968 Tierbilderi n der sumerischenL iteratur.S tu- 1972 "He is a Good Seed of a Dog" and "Engardu,
+dia Pohl 2. Rome:P apstlichesB ibelinstitut. the Fool:' JCS 24: 107-19.
+Jacobsen,T .,a nd B. Alster Steinkeller, P
+2000 Ningiszida'sB oat-Ridet o Hades. Pp. 315-44 1984 The Sumerian verb lugx (LUL). SEL 1: 5-17.
+in Wisdom,G ods and Literature.S tudies in 2001 New Light on the Hydrology and Topography
+Assyriologyi n Honour of W G. Lambert,e d. of Southern Babylonia in the Third Millen-
+Andrew R. George and Irving L. Finkel. Wi- nium. ZA 91: 22-84.
+nona Lake,I N: Eisenbrauns. Veldhuis, N. C.
+KrebernikM, . 1996 A Nippur Emesal Vocabulary ASJ 18: 229-34.
+1983 Zu Syllabar und Orthographied er lexikali- Wilcke, C.
+schen Texte aus Ebla.T eil 2 (Glossar)Z. A 73: 1969 Das Lugalbandaepos.W iesbaden: Harrassowitz.
+1-47.
+1984 Die Beschwdrungena us Fara und Ebla.U nter-
+suchungen zur dltesten keilschriftlichen
+

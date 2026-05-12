@@ -1,0 +1,1237 @@
+[
+  {
+    "author": [
+      {
+        "family": "Adams",
+        "given": "Robert McC"
+      },
+      {
+        "family": "Nissen",
+        "given": "Hans J."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "title": [
+      "The Uruk Countryside: The Natural Setting of Urban Societies"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Algaze",
+        "given": "Guillermo"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Private Houses and Graves at Ingharra: A Reconsideration"
+    ],
+    "volume": [
+      "18–19"
+    ],
+    "pages": [
+      "135–193"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mesopotamia"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Andrae",
+        "given": "Walter"
+      }
+    ],
+    "date": [
+      "1903"
+    ],
+    "title": [
+      "Ausgrabungen in Fara und Abu Hatab"
+    ],
+    "volume": [
+      "17"
+    ],
+    "pages": [
+      "4–35"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mitteilungen der Deutschen Orient-Gesellschaft"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Charvát",
+        "given": "Petr"
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "Early Ur"
+    ],
+    "volume": [
+      "47"
+    ],
+    "pages": [
+      "15–20"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Archiv Orientální"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Charvát",
+        "given": "Petr"
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "title": [
+      "Early Ur? War Chiefs and Kings of Early Dynastic III"
+    ],
+    "volume": [
+      "9"
+    ],
+    "pages": [
+      "43–59"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Altorientalische Forschungen"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Charvát",
+        "given": "Petr"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "The Name Anzu-dŠulpae in the Texts from Fara"
+    ],
+    "container-title": [
+      "Keilschriftliche Literaturen"
+    ],
+    "editor": [
+      {
+        "family": "Hecker",
+        "given": "Karl"
+      },
+      {
+        "family": "Sommerfeld",
+        "given": "Walter"
+      }
+    ],
+    "pages": [
+      "45–53"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Dietrich Reimer"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Charvát",
+        "given": "Petr"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Archaeology and Social History: The Susa Sealings, ca. 4000–2340 B.C"
+    ],
+    "volume": [
+      "14"
+    ],
+    "pages": [
+      "57–63"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Paléorient"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Curvers",
+        "given": "H.H."
+      },
+      {
+        "family": "Schwartz",
+        "given": "Glenn M."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Excavations at Tell al-Riqāʿī: A Small Rural Site of Early Urban Northern Mesopotamia"
+    ],
+    "volume": [
+      "94"
+    ],
+    "pages": [
+      "3–23"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "American Journal of Archaeology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Delougaz",
+        "given": "Pinhas"
+      },
+      {
+        "family": "Lloyd",
+        "given": "Seton"
+      }
+    ],
+    "date": [
+      "1942"
+    ],
+    "title": [
+      "Pre-Sargonid Temples in the Diyala Region"
+    ],
+    "volume": [
+      "58"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Oriental Institute Publications"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Diakonoff",
+        "given": "Igor M."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "title": [
+      "The Commune in the Ancient Near East as Treated in the Works of Soviet Researchers"
+    ],
+    "volume": [
+      "2"
+    ],
+    "pages": [
+      "32–46"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Soviet Anthropology and Archeology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Edzard",
+        "given": "Dietz Otto"
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "Die Archive von Šuruppag (Fara): Umfang und Grenzen der Auswertbarkeit"
+    ],
+    "container-title": [
+      "State and Temple Economy in the Ancient Near East I"
+    ],
+    "editor": [
+      {
+        "family": "Lipiński",
+        "given": "Edward"
+      }
+    ],
+    "pages": [
+      "153–169"
+    ],
+    "location": [
+      "Leuven"
+    ],
+    "publisher": [
+      "Departement Oriëntalistiek"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Fiandra",
+        "given": "Enrica"
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "Ancora a proposito delle cretule di Festòs"
+    ],
+    "volume": [
+      "1–2"
+    ],
+    "pages": [
+      "1–25"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bollettino d’Arte"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Foster",
+        "given": "Benjamin R."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "A New Look at the Sumerian Temple State"
+    ],
+    "volume": [
+      "24"
+    ],
+    "pages": [
+      "225–241"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of the Economic and Social History of the Orient"
+    ]
+  },
+  {
+    "editor": [
+      {
+        "family": "Fujii",
+        "given": "Hideo"
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Preliminary Report of Excavations at Gubba and Songor"
+    ],
+    "volume": [
+      "2"
+    ],
+    "pages": [
+      "3–242"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Al-Rafidain"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gelb",
+        "given": "Ignace J."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "title": [
+      "The Ancient Mesopotamian Ration System"
+    ],
+    "volume": [
+      "24"
+    ],
+    "pages": [
+      "230–243"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Near Eastern Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gelb",
+        "given": "Ignace J."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "Household and Family in Early Mesopotamia"
+    ],
+    "container-title": [
+      "State and Temple Economy in the Ancient Near East I"
+    ],
+    "editor": [
+      {
+        "family": "Lipiński",
+        "given": "Edward"
+      }
+    ],
+    "pages": [
+      "1–97"
+    ],
+    "location": [
+      "Leuven"
+    ],
+    "publisher": [
+      "Departement Oriëntalistiek"
+    ],
+    "type": "chapter"
+  },
+  {
+    "editor": [
+      {
+        "family": "Gibson",
+        "given": "McGuire"
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Uch Tepe I: Tell Razuk, Tell Ahmed al-Mughir, Tell Ajamat"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "Oriental Institute of the University of Chicago"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "Donald P."
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "title": [
+      "Al-Hiba, 1970–1971: A Preliminary Report"
+    ],
+    "volume": [
+      "35"
+    ],
+    "pages": [
+      "62–78"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Artibus Asiae"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Heinrich",
+        "given": "Ernst"
+      }
+    ],
+    "date": [
+      "1931"
+    ],
+    "title": [
+      "Fara: Ergebnisse der Ausgrabungen der Deutschen Orient-Gesellschaft in Fara und Abu Hatab 1902/03"
+    ],
+    "location": [
+      "Berlin",
+      "Berlin"
+    ],
+    "publisher": [
+      "Staatliche Museen zu"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Henrickson",
+        "given": "Elizabeth F."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Non-Religious Residential Settlement Patterning in the Late Early Dynastic of the Diyala Region"
+    ],
+    "volume": [
+      "16"
+    ],
+    "pages": [
+      "43–140"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mesopotamia"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobsen",
+        "given": "Thorkild"
+      }
+    ],
+    "date": [
+      "1957"
+    ],
+    "title": [
+      "Early Political Development in Mesopotamia"
+    ],
+    "volume": [
+      "52"
+    ],
+    "pages": [
+      "91–140"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie und Vorderasiatische Archäologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Legrain",
+        "given": "Léon"
+      }
+    ],
+    "date": [
+      "1936"
+    ],
+    "title": [
+      "Ur Excavations III: Archaic Seal Impressions"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "British Museum"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Madhlum",
+        "given": "Taha B."
+      }
+    ],
+    "date": [
+      "1960"
+    ],
+    "title": [
+      "The Excavations at Tell al-Wilayah"
+    ],
+    "volume": [
+      "16"
+    ],
+    "pages": [
+      "62–92"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sumer"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maekawa",
+        "given": "Kazuya"
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "title": [
+      "The Development of the É-MI in Lagash during Early Dynastic III"
+    ],
+    "volume": [
+      "8–9"
+    ],
+    "pages": [
+      "77–144"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mesopotamia"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Margueron",
+        "given": "Jean"
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "title": [
+      "Recherches sur les palais mésopotamiens de l’âge du bronze"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "publisher": [
+      "Paul Geuthner"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Harriet P."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "The Tablets of Shuruppak"
+    ],
+    "container-title": [
+      "Le temple et le culte"
+    ],
+    "pages": [
+      "173–182"
+    ],
+    "location": [
+      "Leiden"
+    ],
+    "publisher": [
+      "Nederlands Historisch-Archeologisch Instituut te Istanbul"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Harriet P."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Settlement Patterns at Shuruppak"
+    ],
+    "volume": [
+      "45"
+    ],
+    "pages": [
+      "24–31"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Harriet P."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Fara: A Reconstruction of the Ancient Mesopotamian City of Shuruppak"
+    ],
+    "location": [
+      "Birmingham"
+    ],
+    "publisher": [
+      "Chris Martin and Associates"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Matthews",
+        "given": "Roger J."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Clay Sealings in Early Dynastic Mesopotamia: A Functional and Contextual Approach"
+    ],
+    "genre": [
+      "PhD diss.,"
+    ],
+    "publisher": [
+      "University of Cambridge"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Matthews",
+        "given": "Roger J."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Excavations at Jemdet Nasr, 1989"
+    ],
+    "volume": [
+      "52"
+    ],
+    "pages": [
+      "25–39"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Matthews",
+        "given": "Roger J.nd"
+      }
+    ],
+    "title": [
+      "Abu Salabikh Ash Tip Sealings: Functional and Contextual Analyses"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Forthcoming"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Moorey",
+        "given": "Peter R.S."
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "title": [
+      "The ‘Plano-Convex Building’ at Kish and Early Mesopotamian Palaces"
+    ],
+    "volume": [
+      "26"
+    ],
+    "pages": [
+      "83–98"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Moorey",
+        "given": "Peter R.S."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "title": [
+      "Kish Excavations 1923–1933"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Clarendon Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nissen",
+        "given": "Hans J."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "The Urban Revolution of Mesopotamia Reconsidered"
+    ],
+    "container-title": [
+      "Studies in the Neolithic and Urban Revolutions"
+    ],
+    "editor": [
+      {
+        "family": "Manzanilla",
+        "given": "L."
+      }
+    ],
+    "pages": [
+      "287–294",
+      "349"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "BAR International Series"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Pomponio",
+        "given": "Francesco"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "‘Archives’ and the Prosopography of Fara"
+    ],
+    "volume": [
+      "5"
+    ],
+    "pages": [
+      "127–145"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Acta Sumerologica"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Postgate",
+        "given": "J.Nicholas"
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "title": [
+      "Excavations at Abu Salabikh, 1978–79"
+    ],
+    "volume": [
+      "42"
+    ],
+    "pages": [
+      "87–104"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Postgate",
+        "given": "J.Nicholas"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Excavations at Abu Salabikh, 1988–89"
+    ],
+    "volume": [
+      "52"
+    ],
+    "pages": [
+      "95–106"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Powell",
+        "given": "Marvin A."
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "title": [
+      "Review of Cuneiform Texts from Babylonian Tablets in the British Museum L, by Edmond Sollberger"
+    ],
+    "volume": [
+      "63"
+    ],
+    "pages": [
+      "99–106"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie und Vorderasiatische Archäologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rathje",
+        "given": "William L."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "title": [
+      "New Tricks for Old Seals: A Progress Report"
+    ],
+    "container-title": [
+      "Seals and Sealing in the Ancient Near East"
+    ],
+    "editor": [
+      {
+        "family": "Gibson",
+        "given": "McGuire"
+      },
+      {
+        "family": "Biggs",
+        "given": "Robert D."
+      }
+    ],
+    "pages": [
+      "25–32"
+    ],
+    "location": [
+      "Malibu, CA"
+    ],
+    "publisher": [
+      "Undena"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Roaf",
+        "given": "Michael"
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "title": [
+      "The Hamrin Sites"
+    ],
+    "container-title": [
+      "Fifty Years of Mesopotamian Discovery"
+    ],
+    "editor": [
+      {
+        "family": "Curtis",
+        "given": "J.E."
+      }
+    ],
+    "pages": [
+      "40–47"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "British School of Archaeology in Iraq"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Roaf",
+        "given": "Michael"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Social Organization and Social Activities at Tell Madhhur"
+    ],
+    "container-title": [
+      "Upon This Foundation: The ‘Ubaid Reconsidered"
+    ],
+    "editor": [
+      {
+        "family": "Henrickson",
+        "given": "Elizabeth F."
+      },
+      {
+        "family": "Thuesen",
+        "given": "Ingolf"
+      }
+    ],
+    "pages": [
+      "91–146"
+    ],
+    "location": [
+      "Copenhagen"
+    ],
+    "publisher": [
+      "Carsten Niebuhr Institute"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Safar",
+        "given": "Fuad"
+      },
+      {
+        "family": "Mustafa",
+        "given": "Mohammed A."
+      },
+      {
+        "family": "Lloyd",
+        "given": "Seton"
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Eridu"
+    ],
+    "location": [
+      "Baghdad"
+    ],
+    "publisher": [
+      "State Organization of Antiquities and Heritage"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "Erich"
+      }
+    ],
+    "date": [
+      "1931"
+    ],
+    "title": [
+      "Excavations at Fara, 1931"
+    ],
+    "volume": [
+      "22"
+    ],
+    "pages": [
+      "193–245"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "University of Pennsylvania Museum Journal"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "Karen L."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Nippur: The Definition of a Mesopotamian Jamdat Nasr Assemblage"
+    ],
+    "container-title": [
+      "Jamdat Nasr Period or Regional Style?"
+    ],
+    "editor": [
+      {
+        "family": "Finkbeiner",
+        "given": "Ulrich"
+      },
+      {
+        "family": "Röllig",
+        "given": "Wolfgang"
+      }
+    ],
+    "pages": [
+      "57–89"
+    ],
+    "location": [
+      "Wiesbaden"
+    ],
+    "publisher": [
+      "Ludwig Reichert"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Wright",
+        "given": "Henry T."
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "title": [
+      "The Administration of Rural Production in an Early Mesopotamian Town"
+    ],
+    "volume": [
+      "38"
+    ],
+    "location": [
+      "Ann Arbor"
+    ],
+    "publisher": [
+      "University of Michigan Press"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "University of Michigan Anthropology Papers"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yamamoto",
+        "given": "Shigeru"
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "title": [
+      "The ‘Agricultural Year’ in Pre-Sargonic Girsu-Lagash (II"
+    ],
+    "volume": [
+      "2"
+    ],
+    "pages": [
+      "169–187"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Acta Sumerologica"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yamamoto",
+        "given": "Shigeru"
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "The Lú-KUR6-dab5-ba People in the É-mí-šèd-ba in Pre-Sargonic Lagash"
+    ],
+    "volume": [
+      "3"
+    ],
+    "pages": [
+      "93–110"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Acta Sumerologica"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zettler",
+        "given": "Richard L."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Sealings as Artifacts of Institutional Administration in Ancient Mesopotamia"
+    ],
+    "volume": [
+      "39"
+    ],
+    "pages": [
+      "197–240"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  }
+]

@@ -1,0 +1,1019 @@
+# METADATA
+author: Lambert W.
+source_id:Lambert1962_ACatalogue
+title: A Catalogue Of Texts And Authors
+Year: 1962
+Source_ID:  Lambert1962_ACatalogue
+Source_Type: Article in Book - Journal of Cuneiform Studies
+Source_Role,Step_distance: 2,3 
+Pages: 59-77 (vol 16)
+Web:  https://www.jstor.org/stable/1359154
+
+# TEXT
+
+A Catalogue of Texts and Authors
+Author(s): W. G. Lambert
+Source: Journal of Cuneiform Studies, 1962, Vol. 16, No. 3 (1962), pp. 59-77
+Published by: The University of Chicago Press on behalf of The American Schools of
+Oriental Research
+Stable URL: https://www.jstor.org/stable/1359154
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+The American Schools of Oriental Research and The University of Chicago Press are
+collaborating with JSTOR to digitize, preserve and extend access to Journal of Cuneiform
+Studies
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+A CATALOGUE OF TEXTS AND AUTHORS
+W. G. LAMBERT
+The Johns Hopkins University
+Baltimore, Md., U.S.A.
+In a previous paper in this journall evidence of Geers, Oriental Institute, University of Chicago,
+scribal ancestors was collected. It was found among whose copies the new pieces were identified,
+thatl scribes in the late period profess descent and to the Trustees of the British WIuseum for
+from ancestors, some of whom are known from permission to copy and publish the originals.
+other sources as authors or editors of literary Thanks are also expressed to Prof. A. Falkenstein
+texts. The clearest evidence on this point came for permission to quote from a tablet recently
+from fragments of a catalogue from the library of excavated at Warka by the Deutsche Orient-
+Ashurbanipal in which works are listed and as- Gesellschaft. It is to appear in the next UVB,
+cribed to named scholars. At that time only two edited by Dr. J. J. A. Van Dijk. He has kindly
+fragments had been published, though the writer allowed us to see his WIS, and this has enabled us
+was able to add a third. As the result of further to add some references and to avoid some mistakes
+researches four more new pieces have been identi- which would otherwise have been made.
+fied, one of which has been joined to one of those The importance of this catalogue lies in its
+previously known. The text of the catalogue is manifestation of critical scholarship. The over-
+still incomplete, but the various fragments can whelming majority of Babylonian texts circulated
+now be put in order and the impression given is anonymously. Thus to draw up a list with
+so different from the previous one that a full new authors' names was a task comparable with
+edition is called for.
+modern discussion on the origin of Homer or the
+This catalogue is no recent discovery. Like
+Fourth Gospel. The big difference is that modern
+so much else in the British Museum, it was first
+writers on problems of authorship expose every
+identified by T. G. Pinches, before 1880.2 He
+detail of their materials and reasoning, while the
+showed the two duplicating pieces to Sayce, who
+Babylonian author gives results only. Yet this
+put out a transliteration with notes in the
+feature is characteristic of Babylonian science
+Zettschrift Lfur KeilschritLforschung, volume I,
+generally. Basic materials and facts are nor-
+187-194 (1884). For the time this was quite a
+mally put down without explanation. Whether
+creditable edition. Cuneiform copies were not
+it be omens, sign lists, or mathematical tables
+published until 189T, when Paul Haupt gave them
+in the second part of his Das babylonische Nim- matters of origin, purpose and significance were
+rodepos, pp. 90-92. In most cases Haupt read not written down. No doubt teachers supplied
+the tablets more accurately than Sayce, though orally what needed to be known for such com-
+not always,3 but he published no edition, nor did pilations to be meaningful. While our catalogue
+any other scholar until the present writer gave a is certainly the earliest document of any civiliza-
+transliteration in the aforementioned article. tion dealing with authorship, it is not unexpected
+The present edition is based on new copies of all for ancient Mesopotamia. The civilization that
+the pieces, which are given on pp. 60-63. had sign lists about 3000 B.C., pronouncing
+Acknowledgements are made to the late Dr. F. W. dictionaries by 1800 B.C., and a mass of lexical
+texts, commentaries, analyses of the Sumerian
+1 * 4 'Ancestors, Authors, and Canonicity, " JCS XI
+1-14, 112. verb, and other philological materials by 800
+2. See Sayce apud George Smith, Chaldean Account B.C., is not likely to have given no thought to
+of Genesis, revised edition, 1880, pp. x-xiii and p. 12.
+matters of authorship.
+3. Haupt copied the first two signs of line 3 of Sm 669
+The questions which arise from a study of this
+a-bir, thus turning the correct me.hus (Sayce: ME
+KHUSSET) from Sumerian into Akkadian. document relate to the sources used by the com-
+59
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+dX t wls / 15
+60 JOURNAL OF CUNEIFORM STUDIES, VOL. 16 (1962)
+1S t <
+,*,,;t>9F -> + K. 2248
+z z obt
+\F QF TC
+5F<g< f
+/
+xo
+W , Y
+_
+m
+1
+1
+5 ^o>,\S? I
+lo
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LAMBERT: A CATALOGUE OF T Exrrs ANI) AIJTHO:RS
+(;l
+obt Syn. 66q
+5
+'w4Wr i
+r v at s }
+lo
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+JOURNAL OF CUNEIFORM STU1)IES, VOIJ. 16 (1 962)
+K. 5717+ 81-7-27, 7
+ret
+2 6
+, K. 9717
+5
+W1-7-27,
+0 2
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LAMBERT: A CATALOGUE OF TEXTS AND AUTHORS 63
+K. 10797
+reg /
+,L
+5 5iz
+| 224g
+rev.
+Rernains of AshgrK colophon d (/i4B ff 358).
+K. gl77 K. 5715
+obv
+l (ret)
+5 E;
+;
+(Rez uninscribed)
+,
+piler and their reliability. lVirst, however, the preserved on K 22487 which proves that K 10802
+text. The following are the fragments: is the beginning of the rearerse, since all the copies
+K 22aI8 N 10797 have one column on one side only. The end
+W8981 K 10802 is preserved on K 224S, K 8981, and K 10797
+K9717+81-7-27271 Sm669 From this framework) and by observing the
+At least three different copies of the text are repre- curvature of the side edges of the various pieces,
+sented by these fragments. Probably K 2248 it is possible to arrange them in sequence as
+and Sm 669 belong to the same tablet; K 8981, seven preserved portionsn which we indicate by
+K 9717+ and K 10802 also; and K 10797 is the Roman numerals. It is not possible to estimate
+only piece of a third copy. The beginning is the extent of the missing lines.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+10 ]xsagduxxx [ ........... ]
+64 JOURNAL OF CUNEIFORM STUDIES, VOL. 16 (1962)
+I) K 2248 obverse: the beginning
+1 [a-si-pu-tu]m: lukalu(gala)-u-ttbm ua an den.lil
+2 [alam-di]m-mu-u: sag iti nu til.la: sa.gig.ga
+:S [ka.ta.du]g.ga: lugal.e uI me.lam.bi ner.gal: an.gim dim.[ma]
+4 [an-nu-tum] sa pi-i de- [a]
+.) [ud.sar an den.li]l.la: ma.e.me.en.nam tlen.lil.l[a]
+6 [an-nz-tlem sa] niuma-an-na a-da-p[a]
+7 . . ] x id-bu-bzz
+8 . ] x ka.dingir.ra[
+9 ] x nig.gig d[x]
+1 1 , . , ] x [ , . .
+12 ] na-ram [
+13-14 traces
+Note: a su/la is wlitten in a small hand under du in 10.
+II) K 10797 obverse
+1 trace
+2 . I xelinnin [ . .
+J [an-nu-t]um sa pi-i [. .
+4 . ] x-ni ltlum.me.a f
+) l si du ru x [
+() . din] .tirki-ma [
+7 traces
+III) K 9717 + 81-7-27, 71 obverse
+1 [sar gi-mir da-ad-)ne ba-nu-u] 1X[ib]-rra-a-t[iA
+'? [an-nu-u sa m1cab-ti-ilanimes-dmardle1c dumu mda-bi-bil ru-sah-ri-su-ma id-bu-bu
+:S . . ] x nu.lum gis zag.ga tilmuna
+4 . . ] x ir.si.im.bi dug.ga
+.) [an-nu-tum sa pi-i d]en-me-1war surri
+(; . . ] x ilanimes mut-tal-lum
+7 [an-nu-tum sa pi-i .. .. ] nun.me
+8 . . ] x ki.a
+9 [an-nu-u sa pi-i . lUllm.me.a din.ti]r
+10-12 traces
+IV) Sm 669 obverse
+1 i-nu x [.
+2 an-nu-u [s]a pi-i mdX [
+, me.hus.ba a.ri.a [ .
+4 ilu yas-su bu-kur [ . .
+5 an-nu-tum sva pi-i mpap-pa-tum t[u. . .
+d) nin.mah usu.ni gir.ra: (len.lil.la x [. . .
+7 u-te-ed-di-isV be-en-ni: ti.la [. . .
+8 dmarduk belu rabau ki-nisV lip-pa-l[is . . .
+9 an-nu- tum sva pi-i m taqt sva ( bas ti) - dg u- la l uga [la . . .
+10 pirig as.ur X sen.bi.ta: en.g[al . . .
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+1(i 0.... ......... ].o]f -th e- G o[d s,1 the Noble.
+LA MBERT: A CATALOGUE OF TEXTS AND AUTHORS
+I) Ii 2248 obrerse: the beginning
+1 [The Exorcists'] Corpus; The Lamentation-priests' Corpus; When Anu and Enlil;
+2 [(If ) a] Fdorm; Not Completing the fll onths; Diseased Sinews;
+:S [(Ifjl the Utterance [of the SIouth]; The King, the Storm (?), whose Aura is Heroic; Fashioned like An.
+4 [These] are by Ea.
+.F) [The Lunar Crescent of Anu and] Entil; I, even I, am Enlil.
+() [These are the ones which] Oannes-Adapa
+{ . . . ] . spoke.
+8 . . . ] . Babylon;
+9 . . . ] . an Abomination of the God [ . ];
+III) K 9717 + 81-7-27, 71 obverse
+1 [King of All Habitations, Creator of] the TForld Regions.
+.
+2 [This is what] was revealed to [Kabti-ilani-Atarduk, son of l)abibi], and sshich he spoke.
+:S . . . ] . the Date, Sweet Tree of Tilmun;
+4 . . . ] . whose Fragrance is Pleasant.
+.) [These are by] king Enmerkar.
+7 [These are by ......... ] the sage.
+8 . . . ] . . Underworld .
+'3 [This is by ......... scholar of] Babylon.
+IV) Sm 6fi9 obverse
+1 When . [ . . .
+2 This is by .[. . .
+3 Ravaged by That Savage lllana [. . .
+4 Fierce God, First-born of [. . .
+5 These are by Pappatum the [. . .
+6 The Exalted Lady, who Alone is lll ighty; hnlil . [ . .
+7 SpilepsywasRenewed;Life[...
+8 llJlay 1lIarduik, the Great Lord, Set His Steadfast Glance [. . .
+9 These are by Taqlsa-Gula, the lamentation-[priest . .
+10 The Dem(}n . . in That Battle; The Great l ord [ . . .
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+15 ... ] x x x [ .... ] sa la-am a-bu-bu
+5 [an-nu-tum sva pi-i .............. IUum.me].a din.tir[ki]
+JOURNAL OF CUNEIFORM STUDIES, VOL. 1 6 ( 1 962)
+66
+1 1 an-nu-tum sta pi-i men.me.dug.ga [ . . .
+12 [ur].sag nam.ku.zu [. . .
+13 [an-nu]-u sta pi-i mden-lBl-[. . .
+14 [ x x x x (x)] x ki be x [. . .
+V) K 10802: beginning of reverse
+1 [a-stist ... ga-na lu]-uq-bi-ka
+2 [an-nu-u sta pi-imsaggil-ktnam-ubbib ina tar-si mdadad-apl]a-iddina(si) lumas.mas luum.me.a din.tir
+3 . . . g]i-mir ilanimes a-sVib parakkqmes
+4 . . . ]-ti ga-svi-rat d1, gt gt
+6 . . .] x u di [ x (x)]
+7 trace
+VI) K 9717 + 81--7-27, 71 reverse, and Sm 669 reverse
+1 traces
+2 [an-nu-u/tum sva p]i- ri mbul-lut-sa'-ra-bi lUmas.mas luu[m.me.a . . .
+3 [ x x ] x dingir.re.e.ne.ke4: an-nu-u sva pi-i mmu-sVe-x [. . .
+4 [su-lu]-ul e-svar-ra SAR.gal nam.en.na [. . .
+,) [an-nu-tu]m sva pi-i man-dul-lu dumu [..
+t) [dumu] nun.na: sa pi-i mden-lil-ba-an-kadurri(nig.du) dumu mhu.me.me 1Umas.mas 1tlum.[me.a . . .
+7 [d]marduk belu kab-ti sa-muh svamee sva [. . .
+8 an-nu-u sva pi-i mgimil(su)-dgu-la dumu mas.dgan.du7 lUmas.mas luum.me.a din.t[irki]
+9 u4.me.da u4.su.u4.da u4.ri.a.ta: sa pi-i me.kur.dumu.nun.na dumu [. . .
+10. es.gar dgilgames : sa pi-i mdsin(30) -li-q1,-un-nin-ni lUm[as .mas .
+11 es.gar me-ta-na: sa pi-i mlu.dnanna l[U . . .
+12 [es.g]ar selibi(ka5.a): sa pi-imibni(du)-dmarduk dumu mlu.ddumu.nun.na luu[m.me.a x x k]
+13 [es.gar] msi.du: sa pi-i msi.du la-bi-ri lugala luu[m.me.a x ] xki
+14 [es.gar] gissarbati(asal): sa pi-i mur.dnan[n]a lUmas.maAs luum.me.a din.tirki
+16 . . . a-da]-pa ina pi-i-su is-tu-ru
+17 . . . ] x a-na pi-i antse.kur.ra is-tur
+18 . . . ] x dis-pi lam-di
+19 . . . i]n-nam-ru
+20 . . . glamusen
+21 . . . k]i
+Note: Sm 669 writes mdsin(30)-li-q-un-ni-ni in line 10.
+VII) K 2248 reverseX K 8981 and K 10797 reverse (end of text)
+1 traces
+2 [an-nu-u/tum sa' pi-i m . . . dumu msum]u-rlzb-si lugala luum.me.a eri4.dul0'
+3 [ x x ] x x [ ........ e]s.gar et-tu-tum
+4 [an-nu-t]um sa pi-i [m.... dumu] msumu-lfb-si lugala luum.me.a eri4.dul0
+5 [ x x ] er-si sva[rru . . . : sva pi]-ri' mri-mut-dgu-la nippuraki-u lugala den-lBl
+6 [dn]a sukkal mab [ .... ] x KU ner.da ki.si.ba
+7 [svaw pi]-i mgimil(su)-dna-na-a [dumu m . . ma.a]n.si lubal luum.me.a din.tirki
+Note: K 10797 writes line 5 in two lines, and begins the second: [an-nu]-u sva pi-rin [.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+3 [ 1 [ The] Series of the Spider.
+1(; ... which] Adapa wrote at his dictation.
+4) [.T..h..e.s.e.. .a r]e.S bhye ..w...h...o.. ,i ss cShloolrare] Mofi gBhabtyylo nth. atl the Igigi.
+LAMBERT: A CATALOGUE OF TEXTS AND AUTHORS 67
+11 These are by Enmedugga [. . .
+12 Hero, Wisdom [. . .
+13 This is by Enlil-[. . .
+V) K 10802: beginning of reverse
+1 [O Sage .......... Come, Let] llie Tell You.
+2 [This is by Saggil-klnam-ubbib, contemporary with Adad-apl]a-iddina, the magician scholar of
+Babylon.
+3 . . . ] of All the Gods that Sit on I)aises;
+VI) K 9717 + 81-7-27, 71 reverse, and Sm 669 reverse
+2 [These are] by Bullutsa-rabi, the magician, [scholar of . . .
+3 [ . . ] . of the gods; this is by Nluse. l
+4 Protection of Esarra; Great . of Lordship [. . .
+5 [These] are by Andullu, son of [. . .
+6 [Son] of the Artstocrat; by Enlil-ban-kudurri son of Humeme, the magician, scholar [of . . .
+7 'Iarduk, Revered Lord, the Luxuriant One of Heaven, who [. . .
+8 This is by Gimil-Gula, son of Asgandu, the magician, scholar of Babylon.
+9 From S;lany I)ays, from Former Days,from Remote Days; by Ekurdumununna, son of [. . .
+10 The Series of GilgamesV; by Sin-liqi-unninni, the [magician. .
+1 1. The Series of Stana; by Lunanna, the [. . .
+12 [The] Series of the Fox; by Ibni-A/Iarduk, son of Ludumununna, scholar [of. .]
+13 lY he Series] of Enlil-ibni; by Enlil-ibni the elder, the lamentation-priest, scholar of . .
+lA [The Seriesl of the Willow (?); by Urnanna, the magician, scholar of Babylon.
+I+r) . . . ] ,from before the Floobl.
+17 . . . ].wrote at the dictation of a horse.
+18 . . . ] of Honey Learn.
+1(9 . . .] was seen.
+VII) K 2248 reverse, K 8981, and K 10797 reverse (end of text)
+2 [This/These are by . . . son of] Sumu-libsi, the lamentation-priest scholar of Eridu.
+4 These are by [. . . son of] Sumu-libsi, the lamentation-priest, scholar of Eridu.
+5 [. . ] Wise, King [. . .; by] Rlmut-Gula, the Wippurian, lamentation-priest of Enlil.
+6 Nabu, Lofty Vizier, [.... ].......
+7 [BYl Gimil-Nanai, [son of. .ma]nsi, the haruspex, scholar of Babylon.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+[ ] " (dub.sagmes es.gar nam.gala
+.JOURNAL OF CUNEIFORM STUDIES, VOL. 16 (1962)
+NOTES ON THE TEXTS top of column IV. ADD 980 has similar
+entries: [x] ki-is-pi mas.mas-tu (I 5-6),
+(Texts on which nothing is written are unknown
+and [...] mas.mas-tu (III 1).
+to the present writer)
+No catalogue of the Lamentation-
+I 1 The first complete entry is kalutum, the
+priests' Corpus has survived, but there is
+literature of the kalu or lamentation-
+an Ashurbanipal tablet which, in the
+priest. The written material used by the
+colophon, describes itself as "Titles of the
+different classes of priests had been or-
+Series: The Lamentation-priests' Corpus.
+ganized into corpuses. For the masmassu
+Collated. Those which were available;
+("magician") a list survives entitled:
+many were neither seen nor included
+"Titles of the Series: The Magicians'
+Corpus, which are set for memorizing and
+igi.lameS sa ina qateII su-su-u [ma]-'-du-tum
+reciting..." (KAR 44, translated in ZA
+ul am-ru ina lzb-bi la ru-ud-du-u [.....
+30 204ff.). Since the many titles cover a
+r]u-ud-di: IV R2 53 IV 30-32).5 Despite
+whole series in almost every case the
+this description, the list cannot be the
+memorizing of the whole corpus must
+complete corpus. It contains only the
+have been no small achievement. A
+first lines of selections of three types of
+second such corpus for the magicians is
+religious compositions: those to be ac-
+listed on the same tablet under the title:
+companied by the lyre (balag), laments
+"Titles of the Series: The Magicians'
+originally sung by womell and later by
+Corpus of Esagil-kln-apli'' (ibid. rev. 4).
+men (ersemma), and prayers to be said
+The man named is known elsewhere as
+with uplifted hands (suila). Even for
+an editor of such texts.4 Since his corpus
+these groups the colophon makes clear
+does not overlap the preceding anonymous
+that many others of the same types
+one, it must be considered a kind of
+existed, and ritual texts for the use of the
+supplement or deutero-canonical collec-
+1valu are presered, svhich Thureau-
+tion. The first list has most of the
+Dangin edited in Rituels accadiens.
+better-knowll series. Although the com-
+Among these the tablets from IJruk de-
+plete text is known only from an Assur
+scribe their contents as "rituals for the
+tablet, a fragment from Nineveh also
+1calu" (ntpist sa qat kale), but one from
+survives, see footnote 8. Two medical
+Ashurbanipal's library has the note:
+texts, AliqT 40 2 9 and 94 2 II 18, have
+"Ritual of the Lamentation-priests'
+ni-sir-ti mas.mas-ti ("a secret of the
+Corpus" (ni-pi-si nam.gala.kam: op. cit.
+Magivians' Corpus") ,4a but generally
+p. 32 26 = IV R2 23 no. l rev. IV 26).
+tablets of the many series named do llot
+One of the colophons found on Ashurbani-
+indicate their belonging to the corpus.
+pal tablets speaks of the king assembling
+Ho+sTever, its existence is independently
+"the ssrisdom of Ea, the Lamentation-
+attested in two possibly related fragments
+priests' Corpus, a secret of the sage,
+of l.ate Assyrian lists, probably serving
+which is appropriate for appeasing the
+some purely practical purpose. ADD
+heart of the great gods" (nam.ku.zu
+869 III 3-4 lists: "one Remnants, the
+de-a nam.gala ni-sir-ti nun.me sa a-na
+lAIagicians' Corpus" (1 si-ta-te mas.mas-
+nu-uh lzb-bi ilanimes rabuties su-lu-ku:
+tu), and "one ()fferings for the Dead,
+VAB VII 366 13-14). This actually
+the AIagicians' Corpus" (1 1ci-is-pu
+occurs on the catalogue of kaCu composi-
+mas.mas-tu) in lines 12-13. Another tab-
+tions, but it is also found on a bilingual
+let or group of tablets similarly qualified
+hymn for Adad (IV R2 28 no. 2) and on a
+is alanost cornpletely broken away at the
+tablet of ersemmas (Y R +52 no. 1). The
+4. See JCS XI G. Hou-ever, we now consider Esgu7i- latter is certainly part of the Lamenta-
+gin-a merely learned ideograms for the l eal name,
+tions-priests' Corpus, bllt +Xre cannot be
+Esagil-kin-apli, in view of the writing me-say-tt-GIN.A
+in KAR44 rev. -1. 5. For the phrase sa ina/ana qate susu see E. Reiner,
+4a. References plovided by Miss E. Reiner. Or NS 30 101.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LAMBERT A CATALOGUE OF TEXTS AND AUTHORS X,9
+sure about the hymn to Adad. The by Zimmern in BBR, nos. 1-25, the
+earliest occurrence of nam.gala,#alutu tamttu-texts, and no doubt others, must
+is found in a Jena catalogue of Sumerian have had their place in any comprehensive
+liturgical texts, to be dated, according to collection of bczrutu. Yet this corpus
+its editors, c. 1500 B.C. A group of the cannot be restored as the first of Ea's
+texts are described as; slr nam.gala.me.es works, for the reason that liver omens
+'ssongs of the Lamentation-priests' were the province of Samas, not Ea.7
+Corpus" (E. Bernhardt and S. N. Kramer, This is illustrated by a statement of
+WZJ 6 (1956/57) 392 43). Neither this Ashurbanipal. He describes how he per-
+early example, nor the later cases, suggest formed a certain ritual act for Samas and
+that the texts involved had been organized Adad "which was commanded in the
+into a precisely deSned group, like those Corpus of the Haruspices from the be-
+of the magicians. ginning of time" (sa ul-tu ul-la ina ba-
+The first item of Ea's works is broken ru-ti qa-bu-u: AfO 8 180 49ff). There is
+amray, but for part of the last sign, which still one possibility left. Although the
+suggests a noun ending in -utum matching masmassu wasthe incantation-priest, there
+the second item. Since all the other was also a priest concerned with incanta-
+items are complete or can be restored the tions called asipu, "exorcist". In some,
+content of the first one can be determined as yet undefined, way the two terms
+by deduction alone. Ea's special sphere overlap. In two places there is mention
+was exorcism, but no preserved item of an Exorcists' Corpus. The earlier is
+covers even a small portion of the vast the Tukulti-Ninurta Epic, in which the
+incantation literature. The Lamenta- tablets +rhich the Assyrian king brought
+tion-priests' Corpus contained a fe+sr back from Babylon are described as in-
+which were used in their rites, but the cluding al-si-pu-ta (AfO 18 44 5). The
+other seven items did not contain any at later source is the late Assyrian lists.
+all. Thus the first item must be in part, ADD 994 II 1 lists "six tablets of the
+if not largely or entirely, incantations. Exorcists' Corpus" (6 a-si-pu-tu), and
+The lNIagicians Corpus must be con- ADD 1053 II 6 exactly the same: 6
+sidered, since the Assur catalogue includes
+a-si-pu-te. In the absence of more eri-
+many incantation series. The difficulty
+dence asiputum seems the best restoration
+arises that it also includes the series
+of the first word of our text.8
+Alamdimmu, Sagigga, and Kafadugga,
+which are listed separately among Ea'"s bdruti (Borger BiOs 14190f7.) is perhaps to be t;ranslated
+works, and the supplementary collection "secrets from the Corptls of the Haruspices". The
+of Esagil-kin-apli includes Enuma Anlt oklest reference occtlrs in the 'Tukulti-Ninurta Spic
+tTnXtz . 7w 'n7a tw 1sSr n *ee c1l ercl *1S a corpus havlng (aAlfO 18 44 7)7 speaking of tat)lets carried off from Baby-
+lon by Tukulti-Ninllrta I.
+the incantations, but lacking the omen
+7. A couple of passages, it is true, coIlnect the nisi7ti
+series, and the only known magicians' bdruti wtith Ea as the source of all wisdom (313R 1-2011;
+corpuses do not supply this need. There BiO7 14 192, K 3819 + 1). Against these mllst l)e set
+is one other well attested corpus, that of the statement f,hat Samas writes omens inside sheep
+(Eheling, Handezhebuny 48 110), and the text BBR 24
+the haruspices, barutu. The Late Baby-
+where all haruspices are called sons of EnmeduranLi,
+lonian tablets of liver omens from Uruk
+the antediluvian king of Sippal, who was a protege of
+are organized as numbered tablets within Samas. Since liver omens do not seenl to have t)een a
+this corpus, the highest number attested ,Sumerian institut;ion, it is no surprise that they are
+being 55.6 However, the rituals edited associated xvith the more Xemitic Sippar than with the
+Sumerian Eridtl.
+6* BRM IV 12 81: t^ep-pi 6-kam Sl1.8i ttlp-pi 55-kam 8. The three occtlrrences of asiputl. are all writtell
+es.gAr ba-lz-tim nu.al.til. Cf. BRM IV 13 (es.gar ba-ru- syllahically, while all the occurrences of eilastmasetuta
+tQb); TCL 6 2 (es.gar BE luvhal-u-tK); TCL 6 3 (es.gar are written ideographically (mas.mas- and phonetic
+nam.azu); TCL 6 4 (its-ka-ri ba-au-t4); TCL 6 5 (nam. complement). Also no one text contains both a-si-p1X-
+az6). Other occurrences are: ADD 944 rev. III 4 (hwal-te); tum and mas.mas-tum. Since lXlmas.mas can he read
+ADD 1053 I 9 and II 2 (hal-u-tqb). Also the phrase nistrti dsipu (Sm 1674 apud Delitzsch, HWB 247a), the question
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+iz-bu [ .. ] x-bu
+70 JOURNAL OF CUNEIFORM STUDIES, VOL. 16 (1962)
+I 1 When Anu and Enlil is the well known I S If the Utterance of the AIouth is a series
+series of astronomical and meteorological listing omens derived from speaking. It
+omens, the sources of which are listed and has been edited by F. R. Kraus, see the
+discussed by E. Weidner in AfO 14 172ff. works cited for If a Form and ZA 4:3
+and 308ff., 17 715. 77-113.
+I 2 If a Form is the series of physiognomic I 3 The King, the Storm (?), whose Aura is
+omens worked on by F. R. Kraus. See Heroic and Fashioned li1ce An are epics
+his Die physiognomischen Omina der known from OB Sumerian and late bi-
+Babylonier (AIVAG 40/2), Texte zur lingual copies. The bilingual edition has
+babylonischen Physiognomatik (AfO been edited by Hrozny (Bythen von dem
+Beiheft 3), and Or NS. 16 172-206. Gotte Ninrag, 11/1 VAG 8/5) and Geller
+I 2 Not Completing the months is not otherwise (AOTU I/4); Kinnier Wilson has recently
+known as the title of a series. The phrase given some additional pieces (ZA 54
+occurs twice in a bilingual magic text: 71-89). The unilingual editions are al-
+nigin sag iti nu.til.la ready cited in an OB list of Sumerian
+iz-bu ku-pu sa [. . . literary texts (TCL 15 LXVII 17 and 41,
+II R 17 I 13 = ASKT 83 13 cf. BASOR 88 17-18), and new editions
+ga.gig.dug4.ga sag iti nu.til.la are being prepared by Pater E. Bergmann.
+I .5 The first entry is restored from the Verse
+II R 17 II 35 = ASKT 89 35 Account of Nabonidus: ud.sar da-nim
+Here it qualifies a foetus, for which reason den.lil.la sa ik-su-ru a-da-p[a] (BHT pl.
+we have taken sag as 'total', referring to IX V 12, cf. ZA 37 92, a passage drawn
+premature birth. There is a series of to our attention by W. W. Hallo).
+omens about abnormal births, Summba Neither this text nor the other one
+Izbu, "If a Foetus", and since this series ascribed to Adapa is known to us. The
+would be expected here with the other Verse Account after this line mentions
+non-liver omens, it is probably meant by divine symbols, and ud.sar was the symbol
+this tit]e. Elsewhere, however, it is only of Sin, but it was also a technical term for
+called Summa Izbu or Izbu. The litera- a five day period within the month.
+ture and texts for this series are given by III 1-2 This is the first line of the lYra lYpic,
+von Soden in ZA 50 182ff. A new edition which is now fully restored as suggested
+is ill preparation by Erle Leichty. in AfO 18 400, and the ascription of
+I 2 Diseased Sinews is the title given to a authorship has been restored from Tahlet
+compendium of four originally separate V 42-44 :
+medical omen series. They have been 1. a-sir 1cam-me-su m1cab-ti-ilanimes-dmar-
+edited by R. Labat in his Traite A/c1cadien duk mar da-bi-i-bi
+de diagnostics et pronostics medicaux. A tn*a svat vm u*-s t /u- svab -vrz -s/u -m*a *cz -vz s a* tna
+catalogue of the whole compendium has mu-na-at-ti id-bu-bu
+been found at Nimrud and is edited by a-a-am-ma ul i&-ti e-du su-mu ul u-
+J. V. Kinnier Wilson in Iraq 18 130- rad-di ina mah-hi
+146. It is mentioned with If a Form in Kabti-ilani-NIarduk, son of l)ablbi, was
+BWL 21] 2tS, and in ADD 980 I 3. the compiler of its tablets.
+It was revealed to him in the night, and
+must be )ut if nlasmassutunl in fact exists, and if when he spoke it in the morning
+asiputllel shollld not he read in every case. The equa-
+He did not leave out a single line,
+tion 'umas.ma.s = asipu is not strong enough evidence
+nor did he add one to it.
+to bear this conclusion. Furthermore it does not
+obviate the difficulty that if asiputern is restored as the The verb usabrtsuma is active in f orm,
+first entry in our catalogue on this supposition, the only "he revealed it to him", but there is no
+known lists of this corpus, tho,se in KAR 44, iilelude obvious subject in the context. Either
+omen series which are listed separatelr in our catalogue.
+Era or Isum would fit the general back-
+Though KAR 44 is from Assur, a small fragment from
+ground of the epic, and this very fact
+ATineveh (79-7-8, 250, see E. Reiner, Stlrpu, p. 3) shows
+that it existed there too. makes it difficult to assume one as sub-
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+VI 6 dumu.nun.na - mar rube is Sin.
+LAMBERT: A CATALOGIJE OF TEXTS AND AUTHORS 71
+ject. An indefinite third person singular and a complete copy of Tablet IVb in
+subject, equivalent to a passive, or III/1 WA 12 73ff; VAT 16439b (BiOr 9 pl. IV)
+instead of III/2 could be assumed, but and K 13459 (unpublished) duplicate
+neither conforms to normal grammar. Tablet IVb. The only useful discussion
+The precise restoration of our line is of is that of Falkenstein, loc. cit.
+course uncertain, but in any case there IV 7 Although epilepsy is strange to a modern
+is a conflict in mood between usabrtsuma reader, there is no better alternative. In
+and idbubu, due to a slavish following of AN -Anum II 51-55 (CT 22l 13 47-51)
+the wording of the epic, despite the ab- five deities are explained as bennu. dbennu
+breviatioll of the two lines. occurs in ArOr 21 388 82. Diseases were
+III 3 To judge from the surviving words, this conceived as divine beings.
+was a text praising the Tilmun date. V 1 This is the Theodicy, see BWL 63ff.
+This variety of the palm is listed in V 4 In a text from the time of--Samsu-iluna
+Harra III 284-285 (MSL V 117) with ga-se-er-ti i-gi-gi "more mighty than the
+two names: titmunu and asnu. The Igigi" is used of Nanai, a form of Istar
+dates were evidently the Deglet Noor (ZA 44 32 26), and there are other similar
+of ancient Mesopotamia as a hymn of expressions both from the OB period
+praise to Babylon calls the city a Tilmun (Sumer 13 69 3-4; YBT IX 35 I aI-5;
+date (KAR 8 obv. 13-14). RA 22 170 2, 4) and later (SO VII 334).
+III 4 This too probably praises a fruit. The Thus quite probably this is a text ad-
+use of fruit in poetic imagery is found dressed to Istar. It could be the text
+occasionally in Mesopotamian literature beginning ut-ta-a-ti x [. . (K 10526, apud
+(CT 15 1 I 5, 7; Era IV 40, 42; IV R2 20 Bezold, Catatoque; duplicates K 8697 and
+no. 1 28-29; AfO 19 59 166) but so far as Rm 939). The trace consists of two
+the writer knows no text solely extolling a horizontal heads, and the line could there-
+fruit survives. The nearest approach is fore be restored: ut-ta-a-ti g[a-si-rat
+the self-praise in plant fables, and a dz gt gz] "Exalted one, [more mighty than
+Persian song about the palm of which the Igigi].' This fragment of text might
+Strabo speaks (see BWL 154). be the beginning of the long prayer to
+IV 4 The fierce god is probably either the fire Istar parts of which were edited by
+god or a plague god like Era or Nergal. It Langdon inAfK I 20ff. SeeAfO 19 47, 66.
+is possible to read dgas-su, v vDivine
+Gypsum", but the only likely text be- VI 9 This is the first line of a Sumerian epic to
+ginning in this way would be an incanta- which there are a number of parallels:
+tion addressed to one of the substances or u4.ri.a.ta (Enki and Ninmah: OECT VI
+objects used in the accompanying rites, pl. XVI K 2168+, see JNES 5 129);
+for which see A. Falkenstein, LSS NF. u4.ri.a u4.su.du.ri.a (Gilgames, En1kidu,
+I 76-82. Akkadian specimens of this and the Nether World, apud P. Garelli,
+type of incantation are attested (AlaqZu GiZgames et sa tegende 66); two other texts
+VI 26, 37 and VII 31), but the idea is listed in the OB catalogue published by
+doubtful. A single incantation would Kramer in BASOR 88 14-16 begin u4.ri.a
+probably not be included in our catalogue, but it is possible that one of these is the
+and the substances addressed in this type Enki and Ninmah in an earlier recension;
+of incantation do not normally take the u4.ri.a u4.rl.se na.nam (G. A. Barton,
+divine determinative. AIiscellaneous Babylonian Inscriptions
+INr 6 This is the bilingual epic named by 1 "X" 1-2). However, all of these differ
+Thureau-Dangin L'Exaltation d'Istar. too much from our line to be identified
+He published a complete copy of Tablet with the work of Ekur-dumu-nunna. K
+III in RA 11 141ff. (-TCL 6 51), and du- 9719 (p. 63) is only a small fragment,
+plicates exist in TCL 6 52 and LKU 135. but it could be the beginning of this
+An incomplete copy of Tablet I\Ta is pub- text, since its first line, the first of the
+lished by Falkenstein in BiOr 9 88ff., tablet, eilds: u4].ri.a.ta.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+2 JOURNAL OF CUNEIFORM STUDIES, VOL. 16 (1962)
+VI 10 For a bibliography of the epics of The beginning has long been available in
+Gilgames and papers on various aspects, CT 13 34, DT 41, but has been misunder-
+see P. Garelli (ed.), Gilgames et sa legende. stood as a creation myth. The other
+VI 11 The last full edition of the Etana epic piece is published in photograph only by
+is by S. Langdon, The Legend of Etana P. E. Gossmann, Das Era-Epos p. 114,
+and the Eagle, reprinted from Bab. XII. VAT 13837. The two contestants are
+New material is given by Ebeling in written ha-ma-a-ni-ir and is-qa-pi-si in
+AfO 14 298-307 and LKA 14, and some DT 41, but ha-ma-ni-ra and es-qa-pi-zu
+notes by von Soden are to be found in in VAT 13837. Neither word is other-
+WZKM 55 59-61. wise known, but they must be the names
+VI 12 For this text see BWL 186-209. of two kinds of spiders or similar insects.
+VI 13 The reading of this name comes from V R
+NOTES ON THE AUTHORS
+44 III 35 = JCS 11 12: msi.du = mden-
+The relationship of the texts to the authors is
+IBl-ib-ni. The series is mentioned in two
+expressed in most instances by sa pt, "of the
+other passages: ADD 943 I 8: 1 es.gar
+mouth". Previously we hesitated to decide if
+si.du ("One series of Enlil-ibni") and
+this indicated authorship or editorship. In view
+Rm 150 7 (RA 28 136): es.gar si.du ("the
+of the occurrence on one of the newly found
+series of Enlil-ibni"). The latter ex-
+fragments (I 4), where various works are said to
+ample comes from a list of texts which
+be "of the mouth" of Ea, authorship must cer-
+are connected in some unspecified way
+tain]y be indicated. No one would have de-
+with a certain Aplaia (line 9), perhaps
+scribed Ea as the editor of another's works. The
+the Nippurian Aplaia mentioned in ADD
+authors whose names are preserved fall into four
+944 obv. II 6-7. So far this series has
+classes: (i) gods, (ii) legendary and other humans
+not been identified, though it is im-
+of great antiquity, (iii) men without indication of
+probable that no piece of it has survived
+family origin, and (iv) men described as "son"
+and got published. Could it be the
+of an ancestral figure.
+Atra-hwasis Epic?
+The one god named as an author is Ea, who
+VI 14 For this text see BWL 164-167.
+has the place of honour at the head of the list.
+VI 15 Antediluvian knowledge was highly prized
+From early times he had been considered a source
+among the Babylonians and Assyrians.
+of esoteric knowledge, and the ascription to him
+Cf. the statement of Ashurbanipal: "I
+of incantations, ritual texts, and certain omen
+understand the script of stone inscriptions
+series is quite natural. An incantation was
+from before the flood, which are difficult,
+effective because it was of divine origin and
+obscure and confused" (hi-ta-1cu mihitti
+thereby had magic power. Many Sumerian in-
+(gu.sum) ab-ni sa ta-am a-bu-bi sd kak-ku
+cantations allude to this in such phrases as "the
+sa-ak-ku bat-tu: VAB VII 256 18, Th.
+lord has commissioned me" and "my incantation
+Bauer, Das Inschriftenwerk Assurbanipats
+is the incantation of Enki".9 It is tempting to
+II 85). Other statements on this kind of
+deduce from the last example that Enki composed
+knowledge are: "He (Gilgames) brought
+the incantation, but further investigation does
+information from before the flood"
+not confirm this. In some categories of Akkadian
+(ub-la te-e-ma sa la-am a-bu-bi: Gilg. I I 6),
+incantations, especially those found in the late
+and " ... ] which are false (?) .... pre-
+copies of medical texts, this Sumerian phrase is
+served from before the flood" ( . . . ]
+modified into: "the incantation is not mine, it is
+a.ma.uru ba.an.ag = ...] x scE sar-ru u-
+the incantation of . . . " (siptu ul iattun sipat . . . ).
+x x x na-as-ru sa la-am a-bu-bi: JRAS
+Usually more than one deity is named in this
+1932 33ff. K 4874 obv. 13-14 restored
+phrase. Occasionally extra phrases clarify the
+byK2211+obv.12).
+sense in which the incantation is "of" a number
+VI 17 If this is a known text it might be "The
+of gods:
+Series of the Ox and the Horse" (BWL
+su-n?l iq-bu-nim-ma ana-ku u-sa-an-[ni]
+175-185).
+VII 3 Two pieces of this series are published. 9. tSee A. Falkenstein, LSS NF. I 76-81.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LAMBERT: A CATALOGUE OF TEXTS AND AUTHORS
+They gave the command, I have repeated it operative when the incantations were recied.
+KAR 114 rev. 4 The difficulty of explaining the multiple author-
+[siptu ull ia-ut-tu-un sipat de-a u d[asal-lu-hi . . . ship does not therefore arise. However, on
+[dd]a-mu u dgu-la sipat dnin-gir[imx general grounds we would still expect them to
+[su-nu i]d-du-ma ana-ku u-sa-an-ni x [. . . have been revealed to men by a deity. Similarly
+The incantation is not mine, it is the incanta- with rituals. If they were merely thought up by
+tion of Ea and [Asalluhvi... pious men there would have been no reason to
+lOf] Damu and Gula, the incantation of observe them. They were authoritative because
+Ningirim [. . . they were prescribed by a higher power. In-
+[They] 'cast' it, I repeated it. [. . . ancient Egypt rites and spells were attributed to
+K 7954 + 82-3-23, 47 + 82-5-22, 539 + Thoth, and in the Bible God gives Moses ritual as
+83-1-18, 506 obverse II 26-28 well as civil laws and regulations. Omens could
+siptu ul ia-at-tu-un sip[at da]sal-lu-hi mas-mas have been different. Granting that the gods so
+ilanimes iddi-ma ana-ku as-si organized the universe that certain phenomena
+The incantation is not mine, it is the incan- portended this or that, it would not be impossible
+tation of Asalluhvi, the magician of the for men to deduce the connexion of portent and
+gods. He 'cast' it, I 'lifted' it. consequence empirically. However, our text
+AllIT 38 2 II + 42 4 obverse, makes clear that some omens too were written by
+dup. 45 5 obverse 7-8 Ea. Whenever revelation of this kind is con-
+[siptu u]l ia-ut-tu-un sipat dasal-lu-hi u dgu-la sidered to occur an intermediary, like Moses, is
+[x] x id-di-ma a-na-k?l as-si commonly named as author of the resulting texts,
+[The incantation] is not mine, it is the in- but according to our list no prophet intervened,
+cantation of Asalluhvi and Gula. Ea himself was the author. Other gods and god-
+[.].'cast' it, I 'lifted' it. desses could have been expected, especially
+Sm 1802 7-8 - Samas as the author of liver omens. While gaps
+In the first example "commanded" is certainly remain, it must be noted that Adapa immediately
+the sense of qebu. This may be seen from a follows Ea, so if other deities did occur, they
+parallel phrase found in other types of incanta- were assigned an inferior place in the list.
+tions, e.g. Jlaqlu and sa.zi.ga, which concludes Adapa is the first of the legendary humans, who
+the piece: "at the command which. . . uttered" occurs as the author of two unidentified works in
+(ina qibtt iqbu . . . ). This is the command for I 5-7. The note ascribing authorship to him is
+the demons to stop their diabolical work. The atypical, not simply "these are by Adapa".
+'casting' in the other examples (nadu) is the It is incomplete, but ends in idbubu, as does the
+technical term for reciting an incantation, derived note about the authorship of the Era Epic.
+from the formula e.nu.ru, which often accompanies Indeed one could restore the note about Adapa
+the word en "incantation" from the Fara texts from the Era entry:
+onwards.10 The .ru of this formula was inter- [an-nu-tum sa] muma-an-na a-da-p[a
+preted as nadu, "thron", though this is probably [u-sab-ri-su-m]a id-bu-bu
+erroneous, since the sign read as sub has the [These are what was revealed tol
+meaning of nadu, but not read ru, and the reading Oannes-Adapa and which he spoke.
+ru in e.nu.ru is beyond question. The origin and There is an obvious reason for this similarity
+meaning of e.nu.ru was probably lost to the between the treatments of Adapa and Kabti-
+ancients, and their interpretation, on which the ilani-Marduk. The Era Epic was revealed to its
+vIse of nadu w-ith incantations is based, is there- author, according to his own statement, so that
+fore false, though widespread. strictly speaking he was only its mediator. Simi-
+Thus, despite first impressions, these notes at larly Adapa was not the actual author of a work
+the end of incantations are not concerned srith beginning, "I, even I, am Enlil". Adapa occurs
+authorship, but urith the po^rers which would be a second time in the catalogue (VI 16), where his
+secretarial capacity is stated more explicitly.
+10. A. l)eimel, Die Inschrifterb aon Fara II p. 48 VAT
+12597 III 8: en.e.nu.ru, et aliter (drauTn to our attention Most of what he wrote is broken off, but it in-
+by Dr. E. Sollberg:er). cluded things "from before the flood" (VI 15).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+74 JOURNAL OF CUNEIFORM STUDIES, VOL. 16 (1962)
+The name in VI 16 lacks the beginning, but in I 6 A further reference to the literary activity of
+it is muma-an-na a-da-p[al, a double name, which Adapa, to which Van Dijk has called attention,
+appears elsewhere in the TEerse Account of Naboni- occurs on a piece of a ritual tablet from Seleucid
+dus (II 3): u4-ma-da-nim a-da-pa, but this may in Uruk. It was published by R. Campbell Thomp-
+fact have been borrowed from our catalogue, in son in A Catalogue of the Late Babylonian Tablets
+which case it would be no independent witness. in the Bodleian Library, Oxford, pl. 1, and is a
+The double name may also occur in a brick in- partial duplicate of BRJI IV 6. The text was
+scription of Nicarchus which Van Dijk proposes to certainly written in Uruk. Column A, which is
+restore: dres sa i-na mah-ri muma-dani [a-d]a-p[a] the only part relevant to the present discussion,
+i-pu-us-su "the Res shrine which Oannes-Adapa has the ends only of 33 lines. So little is preserved
+built of old". If correct, Adapa was considered that it is impossible to gain any clear idea of the
+the founder of the local shrine in Seleucid Uruk. content. However, tablets are mentioned twice
+Landsberger and others following him took the (3, 5), and writing in lines 4, 6, 11, 13, 22, 29, and
+first part of the name as an esoteric writing of the 30. It would be premature to describe it as a
+common noun ummanu, but Van Dijk is preparing catalogue of texts used in the local cult, but items
+for publication a new text in which muma-an is of this kind may well be included. The important
+the first antediluvian sage. As he saw at once, line is 22, from which 30 should probably be
+this is Berossus' Oannes, the creature who emerged restored:
+daily from the Red Sea in the time of the first king ...]-e sd muma-dani isturu(sar)
+of history to teach mankind the arts of civiliza- ...].which Oannes wrote
+tion. Oannes is therefore known in cuneiform All the material so far quoted follows the same
+textsn and is in fact a name of Adapa. This tradition as Berossus, that Oannes-Adapa was
+identification of muma-an-na with the Greek name the first sage, at the beginning of civilization.
+does not in itself disprove the identification with There was another tradition according to whi(h
+ummanu, but this must in fact be given up for he was associated with Enmerkar.l3
+the following reasons: that Berossus took it as a The only other well-known legendary figure is
+name, not a title; that the catalogue puts the Enmerkar, to whom some Sumerian poetic texts
+name-determinative with it, not with Adapa; are ascribed in III 3-5. Another sage followed
+that Adapa is often called a sage (apkallu),ll but him in III 7, but only his title survives. In
+never a scholar (ummanu); and that no example
+contrast the name Enmedugga, but no titles, is
+of ummdeu written in any such abstruse way is
+preserved in IV 11 as the author of a couple of
+known. Umanna is in fact the name and Adapa
+Sumerian texts. In Van Dijk's new text he is
+the epithet, which was also used in place of the
+the third antediluvian sage, and his name is of a
+real name. Thus in Igidah adapu occurs in a list
+good Sumerian type.14 Finally, Lu-Nanna, to
+of adjectives for "wise": u.tu.a.ab.ba-a-da-pu,
+whom the Etana myth is ascribed in VI 11, is
+and it is so used in a royal prayer in which the
+king speaks of himself as "your wise (a-da-pa) known from other sources as a sage of Ur, con-
+-
+slave''.12 According to Igidah the term is bor- nected with Sulgi.l4a
+rowed from the Sumerian phrase "born of the The rest of the authors can be divided into those
+sea", which fits Berossus' account very well, and with given 'fathers', and those without any
+even if this is dismissed as folk-etymology, it notice of ancestry. The latter are certainly the
+makes no real difference. To the Babylonians older group. All, however, are given a priestly
+this was its origin. A parallel to the use of an
+title and are said to be scholars (ummanu) of par-
+epithet instead of the real name occurs with
+ticular towns. The following tabular presenta-
+Zisudra/Uta-napistim, who, in the epic centering
+tion shows the lack of variety in these details:
+on him, is called Atra-hasis, "The Exceeding
+Wise One". 13. The Weidnelt Chronicle apud ZA 42 50-51 has
+Adapa and Enmerkar coming together) and the small
+11. BRM IV 3 5; ZA 42 51 33; IV RS 58 I 24; C7T 17 fragment of a commentary K 5763 (AfO 17 321) com-
+48 e; AMT 52 1-Ebeling, Tod >nd Leben p. 27; OIP II ments either on this or on a related text.
+117 4; Borger, Asarhaddon p. 34 46; 1TAS VII 254 13 lti. B. Landsberger apud M. Cig and H. Wizilyay
+ABL 923 8(?). Zwei altbabylonische Schulbucher au.s Nippur 108 44a.
+12. See AfO 19 64 72 and note. 14a. E. Reiner, Or NS. 30 3, 8.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LAMBERT: A CATALOGUE OF TEXTS AND AUTHORS 75
+(a) Scholars without ancestors
+IV 5 Pappatum [...
+* * * ]
+IV 9 Taqlsa-Gula lamentation-priest [ 1
+VI 2 Bullutsa-rabi magician
+[ * * * ]
+VI 10 Sin-liqi-lmninni magician [ 1
+VI 13 Enlil-ibni lamentation-priest [ 1
+VI 14 Ur-Nanna magician Babylon
+(b) ) Scholars with ancestors
+V 2 [... ('son'ofj . . ]iddina magi .clan Babylon
+VI 5 Andullu [. . . . * ]
+VI 6 Enlil-ban-kudurri Humeme mag *lelan
+[ ]
+VI 8 Gimil-Gula Asgandu mag l.e .lan Babylon
+VI 9 Ekurdumununna [- * - . 4 4 * ]
+VI 12 Ibni-Marduk Lu-dumu-nunna (no title)
+[ ]
+VII 2 Sumu-libsi lamentation-priest Eridu
+[
+VII 4 Sumu-libsi lamentation-priest Eridu
+[
+VII 7 Gimil-Nanai [ . . ma]nsi haruspex Babylon
+A few other entries exist which have not been t3... mamet-dpap-su#]kat u ta-q{-ea-dgu-ta
+included in the above lists because they are um.me.a dur.an.ki u-SAL[...
+almost completely destroyed. and VII 5 is omitted 4... -b]i-i xmeS an-nu-tim x.mimeS an-nu-tim
+because it is atypical. The trace before the name ut-te-te-[ . . .
+Rlmut-Gula could be the end of "by" or "son of", 5. . . ] x bu x x x x-su-nu te-u tu dis me ud.mes?
+and according to one's choice Rlmut-Gula will te u [
+be either the author or his ancestor. We have 6 . . . ] x x as x sa x den-ZzZ rit'-bu-uk sdr
+taken the former alternative since the space on ametutimttm x [. . .
+K 8981 does not seem to allow for two names in 7 [mu-du-u mu-da-a ti-Dat-tim t]a mu-du-u ta
+the line. The titles are unusual as the author is im-mar ad.hwal dingirmeS g[almes]
+described as '4a Nippurian", not "scholar of 8. . . ] . us 13ta Am m[u.sid.bi.im]
+Nippur", and as "lamentation-priest of Enlil", Consecutive sense can be obtained only from the
+while the other priests of this type do not have last line: "[The initiate may show it to another
+their divine masters named. initiate], but a lay person may not see it. It is a
+It is regrettable that only three of these an- mystery of the great gods." Line 3 mentions
+cestors are known outside this catalogue. Taqlsa- "[Amel-PapsukQkal and Taqlsa-Gula, scholar of
+Gula occurs in two notes appended to different Nippur', but what the text, when complete, said
+tablets. The one is KAR 385 rev. 44-45: about these men is not now apparent. However,
+. . . ] x pi?-i mamet-dpap-sukkat u mta-q-sa- in both of these notes the obvious conclusion is
+(dME.ME) um.me.a that the authorship of the texts to which they are
+...ni]-sir-ti mSUt-gi ad.hal um.me.a appended is being explained. A similar case is
+. . . ) according to (?) Amel-Papsukkal and offered by the paragraph appended to the Nimrud
+Taqlsa-(Gula), the scholar, catalogue of Saytgga (Iraq 18 136ff., cf. J0S XI
+. . . ]a secret of Sulgi, a mystery of the scholar. 13f.), in which these medical omens are somehow
+This is appended to a tablet of snake omens, and connected with Esagil-kin-apli. The importance
+the restoration of the second name is taken, svith of these three similar items is that they are pos-
+some mutual restoration, from the second note, on sible sources of our catalogue, or at least related
+K 8177. Only the concluding note of this tablet material. With Taqlsa-Gula clearly the cata-
+is preserved, apart from some illegible traces of logue is independent, since it ascribes a variety
+the last line of the text. Many of the signs are of religious texts to him alone, while the two notes
+badly rubbed, so the copy (p. 63) and translitera- couple him with another scholar, one of which
+tion is given with some reserve. connects them with snake omens. Howevern in
+2 . . . ) x um/dub x lu ti? sa pa-tu-u ih-su-tu Van Dijk's text Taqlsa-Gula again appears as the
+ba-x [... second of a pair of scholars, but his colleague
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+JOURNAL OF CUNEIFORM STUDIES, VOL. 16 (1962)
+here is msu.dme.me. Though this case shows the The line dealing with the authorship of the
+diversity of the material, no doubt other similar Theodicy, V 2, has been left ollt of the discussion
+notes existed and if we had a complete collection so far since so much has been restored. The
+it might well throw much light on the origin of restorations have been proposed in part by
+the material contained in our catalogue. Even Van Dijk on the basis of his text, which makes
+the case of Taqlsa-Gula offers two possibilities Saggil-klllam-ubbib, the author as known from
+of restoration: IV 9 of the catalogue could have the acrostic, a c3ntemporary of Adad-apla-iddina.
+"scholar of Nippur^' restored from K 8177, and Since the catalogue has a name ending in -iddina
+KAi? 385 rev. 44 could begin "[These are] by. . . " before the titJles, the restoration is very plausible.
+([an-nu-tum sa] pi!-i). Sin-liqi-unninni is well If correct, it is the only- case of a dated author.
+known as a scribal ancestor in Urukean texts This information need not have been borrowed
+from the Late Assyrian to the Seleucid period. directly from Van Dijk's text or a forerunner. It
+Enlil-ibni's series is mentioned twice in lists, as is always possible that such items circulated
+already quoted, and he appears in the list of singly in scribal notes attached to texts such as we
+ancestors or authors, V i? 44 III 35. Although have already examined.
+we have chosen to read his name as Akkadian, a
+The time has come to assess the date, sources,
+case could be made for reading it as Sumerian,
+and value of the catalogue. It is certainly a late
+Sidu. The list V R 44 is bilingual, and leaves
+compilation. If the name Adad-apla-iddina is
+the reader to decide which language is the original
+correctly restoredn 1000 B.C. is the terminus
+in each case. Otherwise it is always written in
+a quo. The Era Epic also reequires a late date,
+Sumerian) apart from the ocourrence in Van Dijk's
+since there is general agreement that it was not
+text, where he is given as: 4'Sidu, rariant Enlil-
+written earlier than 1000 B.C., and in the opinion
+ibni" (msi.du sa-nis mden-ZzZ-ibni). However, this
+of the present writer it comes from the first half
+could have been taken from the list V R 44,
+of the ninth century.l; The terminus ante quem
+and while msi.du is the kind of ideographic writing
+is the middle of the 7th century, since all the
+that grew up in the Cassite period for Akkadiarl
+fragments come from Ashurbanipal's library.
+names, it must be noted in favour of reading the
+Although they are from Assyrian scribes, there is
+name as Sumerian that Sidu is an attested
+nothing to suggest Assyrian authorship. Thus
+Sumerian name.l5 Of the five preserved ancestral
+the catalogue is to be dated in the first quarter of
+names, three occur in V R 44: gumeme, Asgandu,
+the first millennium, and is probably not much
+and Sumu-libsi, and the latter two are abundantly
+older than Ashurbanipalq from whose library we
+attested as ancestors in documents from the late
+know it.
+period from Babylon. For the rest, nothing is
+In only one case can the compiler's source be
+known of these authors beyond what our catalogue
+stated with certainty: his information about the
+states and what can be deduced from the names
+authorship of the Era Epic comes from the fifth
+that they bear, and this is little indeed.l6
+tablet of this text itself. Internal evidence
+15. B. Landsberger, op. cit. 103 44. suggests that he depended on a variety of sources
+16. Howevcr, not nothing. If, for example, Ur- - most, if not all of which are lost to us-to
+Nanna is correctly located in Babylon in VI 14, he is which he adhered fairly closely. The lack of a
+almost certainly to be assigned to the Old Babylonian
+consistent chronological scheme is striking. The
+period. Names of the type Ur + nometl dei die out
+antediluvian Adapa is dealt with in I 5 7, but
+with the Old Babylonian period apart from a few archais-
+ing examples in the Cassite period, and during that more of his works are given in VI 15-16, after
+period it is doubtful if a public figure in Babylon would texts which the compiler must have known to be
+bear a name compounded with the name of the moon later. We, however, must use an analytical ap-
+god. However, in the Old Babylonian period it is very
+proach in trying to assess the value of his sources.
+natural. The father and grandfat,her of Hammurabi
+So far as the last group of authors is concerned,
+both had names cornpounded with Sin (Awll-Sin alld
+Sin-rnuballit), the only kings of Babylon to have sllch those mentioned with their 'fathers', there is not
+names, apart frorn the Assyrian Sennacherib, arld the least reason to suspect the information given.
+Samsu-iluna calls S;n "the god my creator" (CT 21 48 No dotlbt they did compose the works assigned
+24-25- VS 1 33 II 19), whieh sllggests that the dynasty
+had a special attachment to a moon god. 17. AfO 18 396-398.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+LAMBERT: A CATALOGUE OF TEXTS AND AUTHORS 77
+to them. That a variety of sources is drawn upon of authors must be considered doubtful, though
+is evident from the use of Bablon and Eridu there could be some truth in it. The items about
+in VII, when they both refer to Babylon,l8 but the sages are pure mythology, though we know of
+we have no idea what kind of material it was. no epic presentation of the story. It was known,
+The third of our groups, the scholars without however, to Berossus. The item about Ea is de-
+notice of ancestry, is less certain in every way. rived from cosmological thinking.
+The case of Sin-liqi-unninni shows the dubious na- These conclusions must be regarded as pro-
+ture of this material. The Gilgarnes epic to which visional. Before the new material was found only
+the catalogue refers is the recension known to us the last two of our four classes of authors were
+from Ashurbanipal's library and late Babylonian known, and the new discoveries inJect a mytho-
+tablets. This, however, goes back to the late Old logical element that was previously lacking. If
+Babylonian recension, of which some tablets from the complete text were extant, a still different
+Sippar have survived, and this in turn to the early impression might be given. The value of the
+Old Babylonian recensions, of which some speci- catalogue lies more in the picture it offers of early
+mens have survived, and the earliest Akkadian first millennium Babylonian scholarship than in
+form of the text resulted from a free rewriting of positive information about Babylonian authors.
+several Sumerian Gilgames epics. It is quite con- But we should not look down on it with a patron-
+ceivable that Sin-liqi-unninni lived in the Cassite izing superiority. For the times this was no
+period and was the editor responsible for the edi- doubt a great achievement of scholarship, and
+tion zvhich is known from later times, but the com- though we know better in certain matters, future
+piler of the catalogue was certainly taking him as generations may find our own discussions of
+the original author of the Skkadian Epic of Gil- authorship equally unsatisfying. Incidentally
+games, and this shows a complete lack of under- the catalogue allows us to conclude that our
+standing of the origins of -the work in question. knowledge of Babylonian literature is more com-
+Thus the information given about the third group plete than we might have expected. Seeing that
+the works listed can mostly be identified only if
+18. A full statenlent of the evidence is being given
+the first line is preserved, it is surprising how many
+in the writer's forthcoming edition of Enuma Elis.
+iSee PSBA 33 161 and 35154-15fi. are already well known to us.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)77.39.232.98 on Tue, 15 Aug 2023 13:41:32 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

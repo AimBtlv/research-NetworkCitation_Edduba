@@ -1,0 +1,1922 @@
+# METADATA
+Author: Reade J.
+Title: The Manufacture, Evaluation and Conservation of Clay Tablets Inscribed in Cuneiform: Traditional Problems and Solutions
+Year: 2016
+Source_ID: Reade2016_TheManufac
+Source_Type:Article in Book: 
+Source_Role,Step_distance: 2 ,3,4 
+Pages: 163 -202
+Web: https://doi.org/10.1017/irq.2016.10 
+Published: Cambridge University Press
+
+# TEXT
+
+IRAQ(2017)79163–202Doi:10.1017/irq.2016.10 163
+THE MANUFACTURE, EVALUATION AND CONSERVATION OF
+CLAY TABLETS INSCRIBED IN CUNEIFORM: TRADITIONAL
+PROBLEMS AND SOLUTIONS
+ByJULIANEDGEWORTHREADE
+KnowledgeofancientMiddleEasternhistoryislargelybasedonwrittenrecordspreservedonclaytablets,but
+tablets have often been separated from other archaeological artefacts, with erratic consequences. This paper
+discusses the treatment, distribution and evaluation of tablets since the first major discoveries in 1850, the
+problemsandpotentialadvantagesofidentifyingclaysourcesandmethodsofmanufacture,thechallengesof
+preserving and recording tablets found in different conditions in the field, and the development of cleaning
+and long-term conservation techniques. Early experiments in firing tablets at the British Museum and at
+Babylon were followed by the systematic work of Friedrich Rathgen in Berlin around 1900. While his
+methods were gradually accepted in principle, there was limited communication among specialists, and
+independentproceduresevolved.Thedebateonbestpracticecontinues.
+Introduction
+From about 3500 or 3000 B.C. until early in ourown era, first and lastly in southern Iraq but once
+across the entire Middle East, many records were written in cuneiform scripts (Finkel and Taylor
+2015). The signs were cut or impressed on various objects, but especially on round or oblong
+tablets made of clay, or “cuneiform tablets”. Over a million tablets or fragments have emerged
+from excavations of one kind or another, and are now scattered among collections in Iran, Iraq,
+Syria,Turkeyandtherestoftheworld.
+Howthesetabletsshouldbeevaluatedandtreated,duringandafterexcavation,haslongbeena
+subject of debate. In 2002, during the Nimrud conference at the British Museum, Christopher
+Walker stated that I myself had once (actually about 1975) written a paper on the treatment of
+tablets in the field, which the then editor of the Journal of Cuneiform Studies had declined to
+publishbecause“hedidnotbelievethatAssyriologistscouldbetrustedtocarryouttheprocedures
+as advocated without serious risk to the tablets” (Walker 2008: 256). There are at least two
+questions here, whether the procedures were desirable and whether the treatment of tablets in the
+field should be entrusted to Assyriologists. Walker suggested that I should disinter that paper,
+which was entitled “Inscribed tablets as archaeological artefacts”, on the grounds that a record of
+my experience of fieldwork in Iraq might be valuable, but I can only locate notes for it, which
+probably means that my own copy was lent and never returned. The paper has anyway been
+supersededinlargepartbystudiessuchasthoseofJesperEidem(2002)andJonTaylor(2011).
+Thepresentpaper,puttogetherinstead,beganasapresentationataBritishMuseumseminaron
+thetreatmentofcuneiformtabletsinMarch2015,organisedbyIrvingFinkelandJonTaylor.Because
+I had had many opportunities, while employed at the museum during 1975–2000, to speak with
+visiting epigraphists, to look through obscure books and documents, and to handle and inspect
+hundreds of tablets, especially those in the KCollection, this paper is different from the previous
+one, and longer. It discusses some issues relating to tablets that still merit further thought, and it
+provides some of the background of which anyone wishing to excavate, clean and/or conserve
+tabletsshouldbeaware.
+In addition, much has been forgotten or ignored about the modern historyof cuneiform tablets
+because, rightly or wrongly, it has not seemed significant. I therefore made a few email enquiries,
+and was immediately provided with such a generous range of items of information, not readily
+available but again potentially useful to others who may find themselves involved with tablets in
+the future, that I have incorporated much of that here too. Accordingly I should like to
+acknowledge the help of the following friends and colleagues: Gojko Barjamovic, Bob Biggs,
+IraqLXXIX(2017) ©TheBritishInstitutefortheStudyofIraq2017
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+164 JULIANEDGEWORTHREADE
+CarolineCartwright,PaulCollins,IrvingFinkel,GrantFrame,MacGibson,DavidHawkins,Birger
+Helgestad, Hermann Hunger, Mogens Trolle Larsen, Maynard Maidman, Paolo Matthiae, Cécile
+Michel, Olof Pedersén, Nicholas Postgate, Andreas Schachner, Matt Stolper, Jon Taylor, Aage
+Westenholz, Christopher Walker, others such as Douglas Kennedy who taught me about tabletsin
+the past, and everyone to whom I listened during the 2015 seminar in London. I am further
+indebted to John Mallowan for permission to use his classic photograph, probably taken by
+Agatha(Christie)Mallowan,ofanepigraphistatworkonsite,Fig.1.
+Tabletsashistoricalsources
+Theprincipalacademicvalueofatabletformodernstudentsmanifestlyresidesinthecuneiformtext
+on its surface; that is why it has been kept. Europeans had first become interested in cuneiform
+inscriptions, either cut on stone above ground at Persepolis or impressed on bricks of fired clay at
+or near Baghdad, in the seventeenth century. Later a few burnt tablets emerged from Babylon,
+occasionallydescribedatthetimeas“loveletters”;nowtheyarerecognisedasbusiness documents
+belonging totheKasrarchive,muchmoreofwhichwasexcavatedafter 1900byRobertKoldewey
+(Stolper 2007). Excellent accounts of the kinds of cuneiform document known up to 1850 are
+provided by Henry Layard (1849: II, 185–88: 1853: 344–47); then in that year Layard himself
+discovered, in orclose to the placewhereit had been abandoned in antiquity, the core of the huge
+KCollection of tablets, named after the mound of Kuyunjik (or Kouyunjik) at Nineveh in what is
+nownorthernIraq.
+AlargecollectionofthemisalreadydepositedintheBritishMuseum.Wecannotoverratetheirvalue.They
+furnish us with materials for the complete decipherment of the cuneiform character, for restoring the
+languageandhistoryofAssyria,andforinquiringintothecustoms,sciences,and,wemayperhapseven
+add,literatureofitspeople.(Layard1853:347)
+Thisambitiousclaim,writtenwhenthedeciphermentwasinitsinfancy,hasbeenjustified.Ancient
+scribesandothersdecidedwhatinformationshouldberecorded,ontablets,board-booksandother
+media; much wasintentionallydiscarded (e.g. Millard2005), and practices changed over time. Yet
+those clay tablets that do still survive, from Kuyunjik and elsewhere, constitute our principal
+sourceforearlyMiddleEasternhistory.
+Thetypesoftabletavailabletohistorianshavealsobeensubjecttorandomfactors:thesitesthat
+happen to have been dug, the buildings that happen to have been found, the historical events that
+resulted in the survival of cuneiform records, the physical conditions affecting their preservation,
+and the circumstances of excavation, dispersal and access to collections. In 1873 the Daily
+Telegraph newspaper in London promoted itself by funding an expedition to find a single lost
+tablet fragment describing the Biblical Deluge (Smith 1875: 100), and apiece roughly like the one
+sought was indeed found; all later British Museum expeditions to Nineveh had the prime purpose
+of finding more tablets. That targeted quest was exceptional, however. In the later nineteenth
+centuryvastnumbersoftabletswereexcavatedinIraq,buttheworkwasnotmethodicalandgrew
+outofchancediscoveriesintheBabylonregionaround1870.
+ThepresenceofafewEuropeansatBaghdadandBasrahadlongensuredamodestdemandforthe
+ancientobjectsthatwerescatteredonthesurfacealloverthecountry.Whathappenedaround1870is
+thatsomeofthepeoplewhowerefollowingthetraditionaltradeofminingNeo-Babylonianruinsfor
+fine bricks encountered so many inscribed tablets, notably the Egibi archive, that it became
+worthwhile to excavate specifically for them (Reade 1986a: xiv–xvii; Panayotov and Wunsch
+2014). A regular market developed. Local merchants such as Yusuf Shemtob sold the tablets not
+onlyinBaghdadbutalso,throughagentsandthenindependentdealerssuchasEliasGéjou,inthe
+major cities of Europe. The new discoveries attracted purchasers in Biblical and academic circles.
+The commercial search for tablets expanded to meet demand, and so did the supply itself; there
+were even a few fakes. It became important to keep sources of supply secret. Official French,
+British, German, US and Ottoman archaeological expeditions before the First World War found
+yetmoretablets.
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM165
+Fig.1 CyrilGaddcleaningatabletoutsidetheNimruddig-house,withpotterystoredagainstthewall,1952;
+compressedaircomesfromapumpprobablyoperatedbyAbdal-Khalafal-AngudofSherqat.Photograph
+probablybyAgatha(Christie)Mallowan.CourtesyJohnMallowanCollection
+The results were phenomenal. For instance, at Telloh—“mound of tablets”—in the province of
+Basra, Ernest de Sarzec and local people in his absence excavated archives dating from the late
+third millennium, and there were more from Drehem near Nippur. Virtually nothing had been
+known of this period from previous discoveries in Assyria and the Babylon region. A flavour of
+thesituationthatdevelopedisprovidedincorrespondencebetweentheBritishepigraphistsClaude
+H.W. Johns and Theophilus G. Pinches. The former played an active role at the beginning of the
+twentieth century in identifying incoming tablets for dealers and in acting as middleman. A letter
+fromhim,dated24.1.1906(kindlyprovidedbyI.L.FinkelfromthePinchesarchive),states:
+IfrequentlyhavetabletssenttomeforsalebyGéjou,heseemstohaveanunlimitedstockofTellohtablets
+andverylittleelse.Heseemstowantthreeorfourshillingsapieceforthem,buttheyarenotatallinteresting
+asarule.ItisanuntoldpitythatthegreatfindofdeSarzecwasbrokenup.Thereisnohopenowofgetting
+togethertheinformationtheyonceafforded.ThousandshavebeenbrokenupforconcreteIamtold.Those
+thatreachConstantinopleareperishingfromthedamp,fallingintoearthagain.
+With this wealth of material, some institutions and individuals bought tablets almost
+indiscriminately, as more or less random lots (e.g. Foster 2013: 128). Among the more fastidious
+museum curators was Wallis Budge, who was head of the relevant department of the British
+Museum during 1894–1924. He regarded condition and legibility as critical in deciding which
+tablets merited a place in the collection (e.g. Reade 1986a: xxvi). He impressed the museum
+authorities, and continued to buy with great success. Johns (1911: 5–7) in contrast had the
+academic aim of establishing sound ancient chronologies. So he looked for tablets dated in
+different years, in order to identify sequences, like successive editions of books or strikings of
+coins. These discoveries were not spectacular, and he had difficulty persuading institutions to buy
+tabletshewishedtopublish(letterof8.5.1911,inauthor’spossession).
+The situation was complicated by Ottoman regulations and laws covering the ownership and
+export of antiquities (e.g. Shaw 2003). Western disdain and the nature of Ottoman provincial
+administration ensured that decrees emanating from Constantinople were a nuisance rather than
+an obstacle to thetrade, especiallysince thevalue oftabletswashardtodefine and clearlydid not
+reside in the raw material, but there were some consequences. It was desirable to sell tablets on as
+briskly as possible, and sometimes to destroy them to avoid incrimination. Accessible records of
+the trade are scarce, but volumes of official correspondence in the British Museum (now in the
+Department oftheMiddleEast),especiallythosefromthe1890s,holdmanylettersfromBaghdad
+dealers, ranging from informative to bizarre: several addressed to Budge, who was on friendly
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+166 JULIANEDGEWORTHREADE
+termswithsomeofthefamilies,pleadinvainforspecialtreatmentbecausetabletshadbeenacquired
+toraisecashfor marriagedowries.
+The process of selecting tablets for acquisition was liable, as an incidental effect, to separate
+fragments that really belonged together, creating split archives, “long-distance joins”, and
+additional puzzles for future epigraphists (e.g. Veenhof 1986: 34–35). This accounts for
+innumerable isolated groups. Their relationships are now in the long process of being put back
+together through projects such as the Cuneiform Digital Library Initiative (http://cdli.ucla.edu).
+However, “the historyof artifact acquisition is not well documented in CDLI” (website, 5.2.2016),
+asthesiteismainlyconcernedwiththetextualcontentoftabletsratherthantheirrecentvicissitudes.
+Tablets from unofficial excavations were distributed in different directions both through the
+market and more casually, e.g. “it seems that he just took some tablets from Baghdad as a
+souvenir” (Panayotov and Wunsch 2014: 199). Those from official excavations mostly went to
+established institutions such as museums where they were relatively secure (although not always
+widely known and/or accessible), and to university departments that could use them for
+reference or teaching, but sometimes they went to all kinds of people who had made financial
+or practical contributions to the work or were otherwise interested. Cuneiform tablets were thus
+liable to be treated not as unique records but as typical examples of a genre, much like minor
+uninscribed artefacts. Kelly (2011: 21), in connection with some Larsa tablets in the Weingreen
+Museum in Dublin, gives a far-reaching discussion of all such matters. Finds from some of the
+contemporary excavations in Egypt were dispersed in comparable ways.
+Recordsoftheseinformalkindsofdistributionarescatteredandconfusing.Forinstancethereis
+one tablet, an important letter from Ashurbanipal to a ruler of Dilmun, that was found during
+Layard’s 1850 excavations at Kuyunjik and was apparently one of a number belonging to Mrs
+Charlotte Rolland who had helped on the dig. She gave it to [Sir] Reginald St Johnson (1881–
+1950) when he was a small boy, and he showed it about 1906 to the Assyriologist R. Campbell
+Thompson, who transliterated it. In August 1910 St Johnston presented the tablet (and a bronze
+armlet or pair of armlets from the same source) to the museum of Cheltenham College, but later
+mistakenly told Campbell Thompson that he had given the tablet to the museum in the Falkland
+Isles (letter, 7.2.1934; copy in author’s possession); this was wrongly repeated by Reade (2000:
+421). Campbell Thompson (and Mallowan 1933: 103–04) published the transliteration in the
+Liverpool Annals of Archaeology and Anthropology, stating that the tablet had been destroyed “in
+a public museum … owing to an unfortunate accident to the building itself”. Really it was still in
+Cheltenham, where it remained until the school museum closed. It was transferred to the
+Merseyside Museum in 1976 and received the number 1976.159.312; it was illustrated, somewhat
+the worse for wear and not yet identified, on the CDLI website (accessed 4.2.2016). Christine
+Leighton (pers. comm., 4.2.2016), archivist of Cheltenham College, provided the details of St
+Johnson’s original gift of the tablet and of the surprisingly apt transfer to Liverpool, the place of
+itsoriginalpublication;IrvingFinkelconfirmedtheidentification.
+Theremustbehundredsofsimilarstories.PamelaGuest,acousinofmine,oncetoldmehowinthe
+1920sshehadvisitedanexcavationrunbyaFrenchmansomewherenearBaghdad.Shewasnotjusta
+casual tourist, as her brother and host was the botanist Evan, and Lady Layard had been an aunt.
+Pamela was duly given three small pots, which resided at the bottom of a display cabinet in her
+cottage at Inkpen, Wiltshire. We concluded the site had been Kish, and she later presented her pots
+totheAshmoleanMuseum,Oxford(1972.37–38;1975.309).MaxMallowan,whocontributedtothe
+expensesofhisownexcavations,retainedacollectionofitemsthatnowbelongtotheNationalTrust
+and are displayed at Greenway, his Devon home. There are alsotablets orfragments in the Carsten
+Niebuhr Institute in Copenhagen, partly published by Fales (1987), which must derive from
+Mallowan’s work at Nimrud. They do not seem to be included in the field catalogues, but these
+anyway were never comprehensive, with commonplace items omitted at the director’s discretion
+(Reade2002a:203).SinceJørgenLæssøeofCopenhagenwasavaluedmemberoftheNimrudteam
+in the 1956–58 seasons, he presumably had these pieces as samples forreference and teaching. That
+is the most recent example known to me of tablets being dispersed in this way from an official
+excavation, though many archives have been excavated irregularly since the 1990s and dispersed
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM167
+throughthemarket.Suchfactorsensurethat,foreveryknowngroupoftablets,anunknownquantityof
+associated or relevant evidence is liable to remain out of sight. Tablets differ from most collectible
+antiquities,however,inthattheyoftencarrywithinthemselvesirrefutableevidenceoftheirorigin.
+Other more fundamental considerations affecting the completeness of cuneiform archives as
+historicalsourcesarethatancientoraltraditionsandknowledgeareboundtobeunderrepresented
+in the written sources, and that systems such as urban and rural economies, and networks of
+communities with shared interests, may have been operating independently, with some remaining
+entirely detached and having no use for scribes and literacy. Also, many cuneiform texts were
+written in wax or resin on writing-boards, while a range of other perishable materials were surely
+employed (as in Yemen) for recording systems in cities in regions bordering western Asia, but
+except in Egypt the documents are missing. Historical hypotheses derived from the written
+evidencehavetoallowforuncertaintiesthatcannotbemeasuredneatly.
+Tabletsasarchaeologicalartefacts
+Tablets from excavations are archaeological artefacts, with basic characteristics like dimensions,
+shape, surface features and provenance, but there have been divergent views on their status. “The
+study of tablets as artefacts has a long but fitful history. Many questions have yet to be
+formulated, let alone answered” (Taylor 2011: 5). They have been treated as the responsibility of
+archaeologistorepigraphist,conservatororcurator:differentattitudeshaveledtoconfusion.Thus
+archaeologists will normally wish to keep a record of items which are excavated together from a
+single context, but these details may not concern all other specialists. Epigraphists can have their
+own specialised concerns, and may even study a text without regard for its colophon or context.
+Museum curators have been known to amalgamate groups of objects such as beads made of a
+particularshapeor material,orfragmentsofglassofaparticularcolour,discardingarchaeological
+associations, and they have done the same to clay tablets. Inscribed artefacts made of stone and
+metal are usually accepted as ordinary objects deserving standard treatment and are safer from
+neglect,butinscribedartefactsofclaycanbesegregatedinaclassoftheirown.
+Thus,inthe1860s,thousandsofKCollectiontabletfragmentsfromsuccessiveexcavationshadnot
+yetreceivedmuseumnumbers.Layarddidnotkeepthoroughrecordsoftabletprovenances,butmost
+ofthosesentbyhimwerecertainlyfoundinoneareaoftheSouth-WestPalaceatNineveh,whereas
+otherswerefoundlaterintheNorthPalace.Theboxesinwhichtheywerestoredshouldhaveincluded
+someinformationabouttheirdateofarrivalandconsequentlyabouttheirprovenance.GeorgeSmith,
+however, the young epigraphist working on the collection, sorted the fragments according to the
+content of the texts (Smith 1875: 13); information about the provenances of tablets found before
+1870 is largely lost as a result, and could not be included in the first K Collection catalogue
+(Bezold 1889–99). A similar problem arose in the Iraq Museum in the 1980s, after an entire
+library of scholarly texts had been excavated at Sippar (e.g. Al-Rawi and George 1990: 149). The
+question waswhether the individual tablets should be recorded and classified by their findspot, as
+was originally done by the archaeologists in the field, or by their subject-matter, which only
+becameknownonceepigraphistswerereadingthetexts.
+ThepreparationofCarlBezold’scataloguetooksometenyearslongerthanoriginallyexpected,
+partlybecauseadditionaltabletswerefoundinstore(Budge1925:161–62).Thenmoretabletsfrom
+KuyunjikreachedtheBritishMuseum,andsomepreviouslyuncataloguedfragmentswererecognised
+as deserving study. Two supplementary volumes of the K Collection were published (King 1914;
+Lambert and Millard 1966), both of which included all the provenance information that was
+readily available. Then in 1975, as best described by Rykle Borger (1991: 44–45), yet more boxes
+of unpublished tablet fragments from successive excavations in different areas of Kuyunjik
+emerged from storage. Edmond Sollberger, the epigraphist who was then responsible for the
+collection, decided to have them all fired in the museum before they were numbered and
+catalogued; during this process the groups of fragments, whose dates of arrival had previously
+been known, came to be mixed together, so that any information on provenance was lost. Also,
+once fired, the fragments no longer had their original distinctive range of colours, ranging from
+whitish to dark brown, and were roughly the same uniform reddish brown. Yet colour, like other
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+168 JULIANEDGEWORTHREADE
+typological features such as the likely size and proportions of the tablet to which a fragment once
+belonged, its location at top, bottom, left, right orcentre of atablet, the width of columns of text,
+prominent scribal habits or idiosyncrasies, and the condition and complementarities of broken
+backs and edges, can greatly facilitate the identification of related fragments, as it can in any
+collection of smashed archaeological material (e.g. Crawford 1966: 10; Reade 1975). Then the
+artefactscanbereconstructedquicklyandeconomically,allthemoresoifthepersoninvolvedhas
+no special knowledge and is therefore undistracted by interesting features such as, in the case of
+cuneiformtablets,temptingscrapsoftext.Thissavesepigraphiststhelabouroftrawlingrepeatedly
+throughminisculefragmentsorpublishedtransliterationsinsearchofphrasestheyrecognise.
+Later, when the redoubtable Wilfred Lambert was listing all these new fragments for the third
+supplementary catalogue of the K Collection (Lambert 1992), he was amused and dismayed to
+find that a few tablet fragments, to which K numbers had just been assigned, did not retain any
+tracesofcuneiformatall. He firmlyomitted these itemsfromhiscatalogue,and insistedthattheir
+K numbers should be removed and allocated to inscribed fragments instead. It was not
+particularly probable that any of these rejected plain fragments would make a significant
+contribution to the restoration of atext, byproviding aphysical join between inscribed fragments,
+but it does occasionally happen. Even a fragment with no original exterior surface at all has been
+thevitalmatrixtowhichotherinscribedfragmentscould beattached,andIhaveknownthistobe
+the only way of establishing the relationship between substantial portions of text. Archaeologists
+are liable to discard plain ceramic sherds, sometimes too hastily, but they are unlikely to ignore in
+this manner parts of other artefacts that lack specific superficial features, unless there is some
+practical reason to do so. One day these and other relevant K Collection fragments may be
+numbered and photographed, and an epigraphist can present abrief paper with their details, as a
+fourth supplementary catalogue; there will be a chance of joins with other pieces once images of
+theentirecollectionareavailableonline.
+Therehavebeencomparablevagariesinothercontexts.“Thesandisemptiedoutofthebowlonto
+thewirenet,whichactsasasieve,sothatthereisnochanceoflosingeventhemostminutefragment”
+(Delougaz1933:53),because“notinfrequentlythehumblestfragmentmayturnouttobeakeyelement
+in the reconstruction of some important document” (Sollberger 1965: ix). Yet others have dismissed
+such things as “waste” (Wallis Budge, cf. Reade 1986a: xxvi) or as “virtually useless epigraphically”
+(Saggs 1968: 156). I once heard an epigraphist with field experience express astonishment on seeing
+three large pieces of tablet joined together to form a single whole. This raised the question whether
+he was aware of the methods by which obvious physical joins between broken tablet fragments can
+beidentified,andwhetherhehadappreciatedthescopeforjoinsamongfragmentsonwhichhehad
+worked previously. On anotheroccasion I was myself reconstructing some six or seven tablets from
+freshly excavated fragments on one tray, only to discover, when I went to fetch the remaining
+fragments of the same tablets from two other trays in the next room, that an epigraphist had
+decidedtheyweresuperfluous;hehadthereforedroppedthemintotheladies’latrine.Walker(2008:
+255) has described how, at Isin and Warka in the 1960s, archaeologists and epigraphists hardly
+communicated at all about the contents of tablets that were being excavated, cleaned and read on
+site.Thearchaeologistslearntaboutthemthroughlettersfromcolleaguesathome.
+Gibson (1972) addressed the division that had developed, between archaeological and
+epigraphical disciplines, in relation to ancient Kish, and discussed what might be gained by
+integrating the two sources of information. At Tell al Rimah the tablets and seal-impressions
+excavated in position in the Old Babylonian palace illustrated an intricate relationship between
+architectural and political evolution (Oates 1976: xii–xiii); their interpretation was not
+straightforward, as maintenance and alterations can result in earlier documents overlying later
+ones, and any failure to observe and coordinate the archaeological evidence correctly would have
+turnedthesequenceoflocalrulersupsidedown.
+Since the 1970s there have been so many good examples of integrating different categories of
+evidence that it would be invidious to cite any as exceptional, but epigraphy and archaeology still
+usually reside in separate university departments. I was once discouraged from initiating
+interdisciplinarycooperationwithinauniversity,onthegroundsthatarchaeologywasself-sufficient.
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM169
+Asrecentlyas1998,theRencontreAssyriologiqueInternationale,theannualmeetingestablishedin1950
+atwhichepigraphistsandarchaeologiststogetherpresentedtheirrecentworkontheancientNearEast,
+was joined on the conference circuit by an independent biennial International Congress on the
+Archaeology of the Ancient Near East. While both disciplines evolve and expand in complicated
+ways, as described for the Neo-Assyrian period by Fales (2015), it remains the case that the
+segregationofcuneiformtabletsfromassociateddatadevaluesboth.In2015twoseparatecolloquia,
+in Bern and Cambridge,1 were held to discuss the problems of maintaining communication among
+specialists.
+Tabletclaysources
+Althoughtextualcontentandarchaeologicalcontextarenearlyalwaysthemostsignificantfeatures
+ofatabletorfragment,thereisadditionalinformation,environmentalandgeographical,thatcanbe
+extracted from its physical constituents and characteristics. The earliest writing as we recognise it
+developed in an alluvial flood-plain. People living there were familiar with local resources,
+including clays out of which they shaped bricks, plaster, pottery, toys and so forth (e.g.
+Plenderleith 1956: 319). Raw clay dissolves in water, it breaks easily, and it cracks in the sun,
+although temper such as straw can help hold it together, but it is free, it is malleable when fresh
+but hard when dry, and it is obviously the material on to which the earliest cuneiform signs are
+likely to have been scratched or impressed. So it was the prime candidate for tablets holding
+cuneiform records. The chemistry and the practical characteristics of clay and clay tablets are
+describedbyTaylor(2011:5–12).
+Anothercandidatewasgypsumpaste,usedinthelatefourthmillenniumatUruk(e.g.Reade1992:
+178),whileHeuzey(1912:442)alludestoOldAkkadiantabletsfoundatTellohthatweremadeofclay
+apparentlymixedwithabituminoussubstance,butallsuchalternativesrequiredadditionalpreparation.
+Naturally“clay”prevailed,butthisterm,asgenerallyusednowadaystodescribethematerialoftablets
+and some otherobjects, covers many varieties, variously coloured andwith or without deliberate or
+randomvisibleorinvisibleinclusionsandirregularitiessuchassand,earthandgrit.
+SomeunfiredclaytabletsfromsouthernIraqlookclean,butothersaredirty.Speciesofplanthave
+beenidentifiedfromcharcoalflecksintheclay,presumablytheremainsoffuel,andtherearetracesof
+molluscs such as snails “whose preferred habitat is in streams, rivers or irrigation canals”, which
+suggests that these tablets were made at least in part from unprocessed alluvial clay (Cartwright
+and Taylor 2011: 69–72). It has been hoped that microscopic traces of pollen in unfired and low-
+fired clay vessels can help to reconstruct ancient environments (e.g. Yi-Feng Yao et al. 2012), but
+Cartwright at theBritish Museum2015 seminarurgedcautionwhenattemptingto interpret pollen
+present in clay tablets as a direct reflection of the floral environment at the time a tablet was
+written.Shewrites(17.3.2015):
+Pollenmayarriveatalocation,includinginaclaytablet,throughavarietyofmechanismssuchaswater,
+wind and insect transport. Given clays are likely to form in an alluvial environment, there may be an
+inbuiltbiastowardswater-bornepollengrainsofundefinedagesderivingfromplantsofaquatichabitats.
+Different trees and shrubs produce varying quantities of pollen, thus introducing further complications
+forinterpretationofthiscategoryofproxyevidence.Pollengrainsandsporesmaybecomeincorporated
+intoclayswhentheyarebeingformed,thusintroducingafurtherlevelofchronologicalandprovenance
+uncertainty.
+Itcanbesensible,asmentionedbyDowman(1970:122),tokeepsamplesofclayfromtabletsbefore
+they are fired or otherwise transmuted by conservation, but one need not expect too much of the
+analysis.
+Outside southern Iraq, Blackman (2003) identified some of the clays present in cuneiform
+documents and sealings found at Tell Leilan, and distinguished different wadi systems in
+1University of Bern, 27 June 2015. “Philology and EasternStudies.UniversityofCambridge,10–13December
+Archaeology—Dialogue in Crisis”: conference following 2015.“TextualArchaeologyoftheAncientNearEast:Are
+Rencontre Assyriologique Internationale 61 (theme “Text We Doing it Wrong?”: conference held at McDonald
+and Image”). Sponsor: Swiss Society for Ancient Near InstituteforArchaeologicalResearch.
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+170 JULIANEDGEWORTHREADE
+north-easternSyriafromwhichtheyderived.Analysishasmadepossibletheidentificationofsource
+areas, in Cyprus andwestern Syria, for the clays of royal letters sent to Egypt and found at Tell el-
+Amarna (Goren et al. 2002). Cumulative evidence is needed for identifications like this, to avoid
+mistakesdue tothe likelihood that,in manyoffices, the clayofdiscarded documentswasreused for
+new ones. Taylor (2011: 21–23) cites many examples of recycling. Walker (pers. comm., 5.10.2015)
+recalls how at Isin he handled lumps of clay, incorporating occasional cuneiform signs, that plainly
+consistedofdiscardedtabletscrumpledtogetherandsometimesreusedasmortarinwallsorflooring.
+Scribesmusthavelearnt,aspartoftheirtraining,wheretheycouldconvenientlygetclayofsuitable
+quality,andhowtheyshouldprepareitforthemanufactureoftablets.Doubtlesstheyhadtheirown
+favourite sources, and probably had different grades of clay or blank tablet to hand, perhaps all
+taken from a single source but cleaned with varying degrees of thoroughness. Maidman (1999: 26)
+contrasted the different qualities of clay and calligraphy displayed in two contemporary archives at
+second-millennium Nuzi. Wiseman (1968: 175) noted that a few Middle Assyrian tablets with
+official contents found at Rimah were “written in a skilled hand on a fine reddish clay”, unlike
+tablets from the same context which dealt with commercial matters. This implies that the Rimah
+scribes writing official tablets had deliberately chosen finer clay or prepared the clay better, while
+privatelegalcontractsweremademorecasually.OntheotherhandHilprecht(1903:409),describing
+the fifth-century Murashu business tablets from Nippur, noted “the great care with which they had
+been made, the exceptionally pure and soft clay chosen”. Biggs (1974: 23), at third-millennium Tell
+AbuSalabikh,speculatedthatafragmentmarkedwithatextileimpressionmighthavederivedfrom
+“a scribe’s supply of damp clay wrapped in cloth to preserve its moisture”, but scribes also
+improvised.ThereisadiverserangeofclaysinlettersthathadbeensentfromadistancetoAssyrian
+kings: one royal command was written on a tablet “of coarse clay containing tiny stones” (Saggs
+2001: 3), presumably taken from a stream or some such source by a scribe who could find nothing
+better.Thereismoreevidenceofthisnaturescatteredinpublications(Taylor2011:6–7).
+TheKCollectionconsistspartlyofadministrativerecords,drafts,letters,privatecontractsandso
+on,andpartlyofso-calledlibrarytablets.The librarytextsarenotableforthehighqualityoftheir
+material.Bezoldwhocataloguedmuchofthecollectionisclearlyreferringtothesewhenhesays:
+Thetabletsvaryincolourfromdeepblacktoabrightred,andtheclayofwhichtheyaremadehasallthe
+appearance of having been carefully chosen, thoroughly cleaned from sand and grit, andwell kneaded.
+Specialcaremusthavebeenbestowedupontheselectionofthematerial.(Bezold1889–99:V,xv–xvi)
+Walker (pers. comm., 17.8.2016) was told by David Kanikanian, who came of a familyof Mosul
+potters, that each year they would go to the flood-plain between the Tigris and the walls of
+Nineveh when the spring floods subsided, and extract fresh clay ready for the wheel. An
+alternative is that the clean reddish or reddish brown clay of KCollection tablets, on the basis of
+its colour, density and texture, was not fresh but ancient alluvial material, taken from deep clay
+pits or from exposed or recently eroded geological stratathat were accessible throughout the year.
+This may have been first suggested by Campbell Thompson (1929: 126, 134). Beside the Khosr
+stream,closetoNineveh,thereis:
+agorge,onesideofwhichisasteepandoftensheerbluffsome120feethigh,ofgoodredmarlfromwhichthe
+Assyrianlibrariansprobablyobtainedtheirclay…Thegreaterpart[oftheNinevehtablets]werewrittenon
+areddishclay,whichmusthavecomefromneartheAjilahdam,andalthoughwehavenottestedthisinthe
+fire,itistobeassumedthatitwouldkeepitscolour.AsaruletheKouyunjiktabletsarebaked.
+Thisquestionofbakingisdiscussedfurtherbelow.
+SimilarlyatWadiTaya,south-eastofTel′AfarontheedgeoftheMiddleTigrisregion,alayerof
+alabasterorgypsum(theso-calledMosulmarblecommonlyusedforAssyriansculptures)canbeseen
+restingonalayeroffinegreyclay,whichisitselfaboveathickerlayeroffinereddishclay,whichis
+itself above several layers of limestone, Fig. 2 (Reade 1986b: 218; 1998: 25, fig. 16 in colour). The
+reddish clay is distinctive, it appears similar to that used in KCollection tablets, and its quality, at
+least on superficial inspection, is outstanding. In the 1880s a farmer at Nineveh, who had
+excavated some tablets and broken themup for fearof the Ottoman authorities, even claimed that
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM171
+Fig.2 OutcropwithgreyandredclaysstratifiedbelowgypsumrockatWadiTaya,Tel′Afar.Author’s
+photograph,1973
+“the dust was good for his land” (Budge, 8.5.1889, Middle East Department, Reports, 1887–89).
+Nuha al-Radhi kindly fired a sample of the Taya clay together with some pottery of her own in
+her electric kiln in Baghdad, to test whether it might have been used for third-millennium
+stoneware vessels; she was unimpressed because it melted to a pale grey-green and stuck to the
+wall,butIamunsurehowhighthetemperaturehadbeen.
+Similar-looking clays were used for many of the Old Babylonian and Middle Assyrian tablets
+excavated at Rimah. Lumps of such clay were also commonly found on the Rimah excavations,
+and skilled workmen would recognise and describe them as “tablet clay”, but they were not
+discarded tablets like those handled by Walker at Isin. Rather they had been part of the mudbrick
+walls of structures that had once been built with clean material from clay pits. The same or
+comparable layers of clay must have been exposed and accessible in places throughout the region
+inantiquity,andbeenavailableforusebyscribes.
+Thefinestvarietiesofclaycouldhavebeentradedfurtherafield,toareaslikeBabyloniawithout
+equivalentresources:thereareafewfinelateBabyloniantabletsofunusualcontent,apparentlyfrom
+Borsippa (e.g. BM 94043–93064), which are made of a clay different from that of many local
+commercialtablets.Similarly,theclayforfilecopiesofroyalletterswritteninsideEgyptandfound
+at Amarnawas not the local Nile clay commonly used for pottery but was derived from the Esna
+shale formation much further upstream (Goren et al. 2002: 197). This would demonstrate the
+long-distance movement of clay as a raw material, at least inside Egypt, if it were certain that
+the clay was not reused and that the Egyptian king was not himself located upstream at the times
+the letters were drafted. The possible long-distance movement of clay as a raw material or
+commodity, added to the possibility that scribes sometimes carried small quantities of favourite
+clay with them, does not discredit the identification of geographical sources for the clayof tablets
+liketheAmarnaletters,butitdoesmeanthatsuchevidenceneedscarefulassessment.
+Forinstance,someoftheAmarnaletterscomefromthekingofAlashiya.Oneofthese(EA34=
+BME29789intheBritishMuseum)ismadeofdenseclay,palegreenish-brownincolour,whosehigh
+quality,apparenttothenakedeye,immediatelysuggestsacleangeologicalratherthanrecentorigin.2
+IthasbeenidentifiedasmarlfromthePakhnaformationinCyprus,ashastheclayoftwoothersuch
+letters. This strongly supports the old proposal that Alashiyawas located on Cyprus (Goren et al.
+2002: 198–99). Goren et al. add cautiously that “the literal similarity in names between Alashiya
+and present-day Alassa [avillage in south-western Cyprus with suitable geology and a prominent
+ancient site of the right period] may be noted”. On the other hand, while the map provided by
+Goren et al. shows that this clay is not now available at Enkomi on the eastern coast of Cyprus,
+2ForillustrationsofBritishMuseumitemscitedinthispaper,seethemuseumwebsite.
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+172 JULIANEDGEWORTHREADE
+whichistheisland’smostimposingsiteofthisperiod,itdoesalsoshowthatthePakhnaformationis
+exposedonthesurfaceamere20kmsouth-westofEnkomi,andtheremayhavebeenmoreexposures
+closertoEnkomiinthepast.Fineclayintendedfordiplomaticcorrespondencecouldeasilyhavebeen
+brought to the capital of Alashiya from a modest distance, and the identification of a Pakhna
+formation source for the clayof these letters therefore fails to disprove the otherold proposal that
+Enkomi was itself the capital in question. Similarly, the clay of a letter sent from the king of
+Mitanni in north-eastern Syria (EA 26=BM E 29794) may well be identifiable as associatedwith
+a particular wadi system, just as the Leilan material has been, but an association like this could
+not on its own identify the location of the Mitannian capital city, probably but not certainly
+Fakhariyanear Ra’sal-’Ain. A letter sent bythe king of Karduniash or Babylonia (EA 9=BM E
+29785) appears to be made, as one might have expected, of clean but probably less informative
+palebrownalluvialclay.
+Tabletmanufactureandtreatment
+Taylor (2011: 7–12) has collected many examples of manufacturing processes. For instance, Biggs
+(1974: 22) reported excavating at least two kinds of tablet of unfired clay at Abu Salabikh. A few
+with a distinctive script had been “made in one piece”, but most had “a core of clay which is
+smoothed in a somewhat irregular fashion”, with a surface layerof “fine clay, normally about 1.4
+cm. thick. This surface layer separates very easily from the core”. Nearly 2000 years later,
+Babylonian letters found at Nimrud “often have a surface layerof higher quality clayover a core;
+examples of this also occur with the Assyrian tablets, although less commonly” (Saggs 2001: 2–3).
+StilllatertheCyrusCylinderfromBabylon(c.635B.C.),althoughoffiredratherthanunfiredclay,
+resembled the Abu Salabikh tablets in having “a slip of finer material wrapped around an inner
+core of cruder nature” (Finkel 2013: 11). It would be possible, and possibly constructive, to create
+a universal typology of the development of methods used to manufacture cuneiform tablets,
+definedbytimeandplace,tojointraditionalcriterialikescript,language,functionandshape.
+Thewayinwhichatabletwasmademayalsoaffectitsstateofpreservationintheground,butthis
+isanareainwhichnogeneralisationsarevalid.Conditionscanvaryunpredictably.Thefirsttablets
+foundatRimahinnorthernIraq,ajarfulofunfiredbusinessdocuments,wereveryfriableand“badly
+encrustedwithsaltsfromthetopsoilinwhichtheyhadbeenlyingandwillrequiretreatmentbefore
+theycan be read” (Oates 1965: 75; Wiseman 1968: 186–87); under Læssøe’s direction, weeven cut
+through half-melted tablets in order to expose complete ones, before they could dry into one solid
+lump. Such an unpleasant kind of problem would normally be associatedwith the salinated areas
+of southern Iraq, where comments on the extreme fragility of tablets re-echo through the
+generations, from Loftus (1857: 221) and Rassam (1897: 406), through Hilprecht (1903: 415–16)
+and Delougaz (1933: 39–42), to Crawford (1966: 1–2) and Biggs (1974: 19–20). Many give good
+detailed advice on how to excavate tablets, based on experience but liable to contradict equally
+good advice given by those such as Liz Dowman (1970: 122, see below), who have excavated
+tablets in different conditions. A further question is whether cleaning is best done by an
+epigraphist (as recommended by Delougaz), by a conservator (as assumed by Dowman), or by
+someone else. In practice there are no rules, except that the best qualifications include versatility,
+as shown by Biggs’ comment (loc. cit.) about Selma al-Radhi [subsequently restorer of the
+Amiriya complex in Yemen, and joint recipient of the 2007 Aga Khan Award for Architecture]:
+her “extensive experience in field conservation of the Nimrud ivories had given her skills and
+patience for the very tedious work on the tablets. Together we developed the techniques which
+enabledustotreatthetabletssafely”,Fig.3.
+Onemightsupposethatwaterwouldbeoneoftheworstpossiblesubstances touseforcleaning
+water-soluble clay tablets, but even this can be done. Although Isin is in the south, Walker (pers.
+comm., 5.10.2015) cleaned unfired tablets there whose exterior surface was in such a satisfactory
+state that he was able to use a special tool for wetting the dirt embedded in cuneiform signs and
+removing it without any apparent danger to the tablets at all. It seems possible that these Isin
+tablets had a “skin”. This is another feature, besides heating or firing (discussed below), that may
+reflectthetreatmentofacuneiformtabletafterithadbeeninscribed.
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM173
+Fig.3 Selmaal-RadhiandRobertBiggsgluingAbuSalabikhtabletsafterfiringatNippur,1965.Photograph:
+McGuireGibson
+ManyoftheOldBabyloniantabletsatRimah(Dalleyetal.1976)hadacomparablefeature.These
+tabletshadbeenburiedundermassesofmudbrickwhenthebuildingholdingthemwasdemolished,
+andtheyweregenerallyinexcellentconditionapartfrombreaks,Fig.4.Ihandledmanyinthefield
+andtheyallappeared,sofarasIrecallthoughIhavenotfoundastatementtothiseffect,unfiredat
+thetimeofexcavation.Theirexteriorsurfacetendedtoformanexiguouslayer,firmer,brownerand
+darker in colour than the softer sometimes reddish interior. This is the kind of tablet of which
+Dowman(1970:122),whowaspresentatsomeoftheRimahexcavations,wrote:
+theworstofthedirtshouldalwaysberemovedassoonaspossibleafterexcavationbeforeithastimetodry
+out;ifitwereleftthegreaterstressesrequiredtodisplaceitwhendrycouldwelldestroythesurfaceofthe
+tablet.Somepeopleconsiderthatitisbettertoremoveallthedirtwhileitisdampandonatabletingood
+conditionitdoesnotmattermuchonewayortheother;howeveritisusuallypreferabletoallowthefinedirt
+adheringtothesurfacetodryoutforadayortwoafterwhichitcanbegentlypickedoffwithaneedleand
+detachedrelativelyeasilyfromthefine“skin”ofthetabletor,iflooseenough,bebrushedoffwithasoft
+brush(ahardonewillscratchthesurface).
+Idonotknowanotherreferencetoalayerof“skin”ontablets.Perhapsitsformationresultedfrom
+some habitual act such as greasing or handling in antiquity, if not from a chemical process
+undergroundattheinterfaceofearthandclay.
+Firedorunfired:tablets
+Onceaclaytablethadbeeninscribed,itmusthavebeenallowedtodry,sothattheinscriptionbecame
+stable.Thewaterremovedduringdryinginthiswaywasnotchemicallyboundtotheclay.Dryingcould
+havebeenachievedinvariousways,withorwithoutexposuretoasourceofheatsuchasthesun.Some
+tablets,however,weredeliberatelyfiredorheatedintoorbeyondthevariablerangeoftemperatures,
+between 350° and 750° C, during which, among other changes, water that is chemically bound to
+theclay,sometimescalled“combined”or“chemical”water,isremoved.Oncethe“combinedwater”
+has gone, the malleable clay has been transformed irreversibly to rigid terracotta. Both operations,
+however, the drying and the firing,can be leftincomplete, so that between clayand terracottathere
+lieaninfinitenumberofintermediatestagesofdesiccation.Potterssometimesusetheterm“leather-
+hard”foroneofthesestages,butthisistoopreciseforusewithtablets.
+The tabletswere thenstored,hidden,discardedortrashedinvariouswaysinantiquity,andwere
+buried for thousands of years, exposed to different temperatures, humidities, salinities and so on.
+Anunfired tablet usually becomes damp in the soil; it may be permeated by soluble salts from the
+groundwater,andsaltsmaycrystalliseonitssurfaceasamoreorlesssolidlayer.Afterexcavationa
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+174 JULIANEDGEWORTHREADE
+Fig.4 Daulahal-Talabal-AngudofSherqatexcavatingOldBabyloniantabletsatRimah,1967;theyhad
+probablybeenstoredinabagorbasket.Photograph:J.D.Hawkins
+tablet again dries and the clay hardens. If the tablet is made of high-quality clay and is not badly
+affectedbysaltoradampatmosphere,itmayremainsolid;otherwiseresidualsaltsintheclaymay
+migrate to the surface and cause fresh damage. Tablets also travel after excavation, from site to
+store,andtheyarethenkeptinconditionsthatmayormaynotbestableandgeneratefurtherchanges.
+Sothereisoftennoclearanswertotheseeminglyelementaryquestionastowhetherornotatablet
+ismadeofunfiredclay,firedclay,orsomethinginbetweenthetwo.Ifatabletdoesturnouttohave
+beenheated,itmaynotbeknownwhetherthishappenedinantiquityorinmoderntimes.Wiseman
+andBlack(1996:8)stateintheirNimrudNabuTemplecatalogue:
+Theinformation“notbaked”,“partlybaked”or“kiln-baked”istakenfromtheexcavationrecordsbutwas
+notedthereonlyfortabletsfromthesixthseason(1955)withexcavationnumbersfrom4357to4405/1–80.
+After excavation, some tablets were baked at the site (“kiln-baked”); others have since been baked for
+conservationpurposes.
+Itwouldbehelpfulifmorepublicationsoftabletsincludedpassageslikethis,butthatiseasiersaid
+thandone,andthereisnoestablishedterminology.
+Also, some available descriptions are more convincing than others. For example, here is a
+descriptionoftheveryfirsttabletsexcavatedatRasShamrabySchaeffer(1929:295):
+Noustrouvionsunegrandetabletteenterrecuitecouvertedecaractèrescunéiformesquifutbientôtsuivi
+d’autres … Les tablettes, recuite par l’incendie, étaient très friables et il fallut employer de minutieuses
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM175
+précautionspourlessauver…Aprèsunlentséchageàl’ombredelatente,ellesregagnaientunecertaine
+soliditéquipermettaitleurtransport.
+Ifthisiscorrect,tabletsthathadbeenfiredtwiceinantiquity,firstdeliberatelyandsecondlywhenthe
+buildinghousingthemwasburnt,wereveryfriablebutbecamestrongeroncedry;thissoundsmuch
+more like the behaviour of tablets that had not originally been fired. A simple explanation for
+Schaeffer’s account is that he was not yet familiar with cuneiform tablets, and automatically
+assumed,whenhesuddenlyfoundsome,thattheyhadbeendeliberatelyfired.
+The problem goesbacktothe start ofcuneiform studies. Thus some tabletsfrom Warka, which
+William Loftus excavated in 1850, were described by him as “unbaked”, but as “baked” by Henry
+Rawlinson,whosawthemsoonafterwardsinBaghdad(Loftus1857:221–22).HaroldPlenderleith
+(1956: 319), who was familiar with the British Museum collection, described the situation as
+follows: “there are thus three types of material presented for conservation — baked clay, unbaked
+clay,andclaythathasbeeninadequatelybaked”.Theterm“inadequate”impliesfailure,like“half-
+baked”, a judgement we are not entitled to make since the condition could have been created
+intentionally. Organ (1961: 52), in discussing the conservation of the same collection, states that
+the material of the tablets was “usually sun-dried clay, only the less ephemeral literature having
+been hardened by heating strongly”, which suggests an understandable reluctance to define the
+term “heating strongly”. Both Plenderleith and Organ may have been thinking especiallyof the K
+Collection library tablets, which are particularly troublesome in this regard. Reade (1986b: 218–
+19) may be too simplistic in describing them as either “deliberately baked or not”. Taylor (2011:
+16) may be too emphatic in stating that “only rarely in antiquity were tablets baked”. Evenifonly
+“ahandfulofNeo-Babyloniancolophonsanddocumentsattestthepractice”inwriting,thetablets
+themselvestellamorecomplicatedstory.
+A general criterion for determining whether an inscribed clay object is likely to have been
+deliberately fired in antiquity is its original function. In Iraq, through prehistoric and historical
+periods in both south and north, there had been a long tradition of making containers and other
+objects offired clay, and the advantages of this material were familiar. Fittings such as bricks and
+tiles designed for use on exposed exteriors or in internal spaces vulnerable towater were naturally
+fired when possible. In major government buildings they were commonly stamped or impressed
+with details of royal names and titles or achievements. Nails, knobs, cones and other visible
+commemorative features were fired. Another kind of inscribed object is the permanent memorial
+record, deposited inside brickwork, and these too were fired (Taylor 2011: 25). The original
+practice of using stone for hidden memorial records was ultimately superseded by the use of fired
+clay, which could more easily accommodate much longer inscriptions. Some of these longer
+recordswere shaped as tablets, but therewere also round and polygonal cylinders, hollowor solid,
+especially in the seventh and sixth centuries B.C. Other types of inscribed object of fired clay
+includethingsthathadtobewornorregularlymoved,suchasamulets.
+Aconvenientthoughnotinfalliblemethodofseeingwhetheraninscribedobjectislikelytohave
+beenfiredisthroughthepresenceorabsenceoftemperintheclay.Forinstance,intheKCollection,
+there are very many fragments coveredwith historical records written in smallish script. Some do
+derive from tablets (e.g. Grayson and Novotny 2014: 5–8), but many others, though superficially
+resemblingfragmentsoftablet,canreallybeidentifiedasfragmentsofmemorialcylindersinstead.
+While some cylinders may have been stored in the Nineveh libraries, as does seem to have
+happened in the Nabu Temple at Nimrud (Wiseman and Black 1996: 4–5), they could all in
+practice have come from inside the walls of buildings or from the scriptoria where they were
+prepared. Many of the actual cylinders were made and fired like ordinary ceramic vessels, having
+internalwheelorcoilmarks,butevensmallfragmentstendtobedistinctincontour,thicknessand
+fabric, andwith ample traces oforganic temper such as fine chopped straw which was mixedwith
+theclayandvaporised during firing in thekiln. Voidsleft bytemperarevisible in brokensurfaces,
+and often also on outer surfaces, although a fine slip covering most external irregularities was
+added before the scribe wrote the text (e.g. Taylor 2011: 26, fig. 1.9). This deliberate organic
+tempercannormallybedistinguishedfromtheoccasionaltracesoforganicmaterialthatareliable
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+176 JULIANEDGEWORTHREADE
+tobepresentintheclayofanytabletbymistake.Ifdeliberatetemper,likethatpresentinamemorial
+cylinder, is visible in a fragment of some other kind of inscribed object, its presence will normally
+imply that the object was fired. This is most obvious in something like a fragment of brick. There
+are no safe rules, however, because some of the very earliest known of all inscribed bricks, those
+from Tell Brak stamped with the name of Naram-Sin of Agade, are said to be unfired sun-dried
+mudbricks(Mallowan1947:66).
+Furthermore, some fine terracottavesselswere madewith very little visible temper, and sowere
+some fired tablets. A good example of the latter is K 3751, which is in the KCollection but was
+excavated at Nimrud, andwhich is identified by its text as commemorating the foundation of the
+palace of Tiglath-pileser III about 730 B.C. (Tadmor and Yamada 2011: 115–25). It was probably
+once placed or designed to be placed somewhere inside the structure of the palace, and taken to
+the Nabu Temple afterwards, when the palace was dismantled. What survives is half of a tablet,
+24cmwideand upto4cmthick; thewholemustoriginallyhavebeen atleast40cmhigh.Ithasa
+compactpalepinkishbrownbodywithagreenishbrownsurface;somefineorganicmaterialinthe
+body has left a few voids, surely representing impurities rather than temper. A small patch of
+inscribed surface has flaked away, but there is no reason to suppose that the tablet had been
+damaged by fire in a burning building. This tablet was manifestly fired in antiquity, just as its
+original function would have suggested. Some red clay stuck firmly to some broken internal
+surfaces suggests that it may also have been heated since, perhaps in the British Museum for
+cleaning, but it was not fired there to a high temperature, since it retains a nineteenth-century ink
+label which would have been destroyed by very intense heat. So that is one tablet, even without
+unmistakabletemper,thathadbeendeliberatelyfiredinantiquity.Therefore,theabsenceofvisible
+temperinatabletdoesnotdemonstratethatitwasnotfiredinantiquity.
+Firing,whichconferreddurabilityonfoundationdocumentslikeK3751,mayreflecttheoriginal
+status and function of other kinds of tablet too. They became strong enough to take repeated
+handling, like hardback rather than paperback books. Thus at Warka, in an archive of mainly
+unfired documents, the title-deeds recording purchases are recorded as having been fired (Hunger
+1970: 197; Veenhof 1986: 1): these were proofs of ownership, and had long-term value. At
+Sultantepe (Gurney 1952) most of the tablets may derive from a scribal school, and are said to
+have been unfired. One of them, in contrast, a mathematical table of reciprocals, was fired. An
+obvious reason would be that it was not an ephemeral exercise tablet and that it needed to be
+strongenoughtotolerateregularuse.
+ManyMiddleAssyrianliterarytabletswereunquestionablyfiredinantiquitylikeK3751,havinga
+characteristicwhitishsurface.Thefiringcouldhavebeendonestraightforwardlyforlong-termuseand
+reference,justasacolophonorahandlemayunequivocallyconfirmatablet’ssignificanceorcanonical
+status,buttherecouldhavebeenothermotivestoo.AnexampleintheKCollection(Rm376:Lambert
+1965) is an incantation tablet found at Nimrud (according to the original museum record, not at
+Nineveh). It relates to difficult childbirths, and could have been carried by the doctor attending a
+patient. While one might have expected a capable doctor to recite the text from memory, a tablet
+might have given him greater authority. Some other tabletswere perhaps fired because they needed
+to be handled often or read at ceremonies. Examples of fired tablets which might have had a
+ceremonial purpose include the Middle Assyrian Tukulti-Ninurta Epic (Lambert 1957: BM
+121033), whichcame fromtheIshtarTempleat Nineveh,theNeo-Assyrian“letter togod” (Louvre
+AO5372:Oppenheim1960:143),andtheKhorsabadking-list(Lambert1957:39).
+Thequestionwhetheratabletwasfiredinantiquitymayberelevanttoitsstatus.Forinstance,one
+piecethatwasbuiltintothebaseofawallatRimah,whichIpersonallyregardedin1968asaschool
+exercise tablet of unfired clay, resembling others found in a earlier Old Babylonian level a few feet
+away, was inscribedwith abrief “foundation inscription” text, incorporating a royal name and the
+name of a city. If the tablet was a school exercise, then it has no authority as evidence for the
+ancient name of Rimah itself. It was published, however, as being made of “baked clay” (Oates
+1970: 4; Walker 1970: 27); if this is correct, it probably was an authentic memorial document,
+which raises the question whether the name on the tablet was that of ancient Rimah or of a
+different city nearby, and, if the latter, how the tablet came to be buriedwhere it was. Its original
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM177
+condition—fired or unfired—could no longer be checked once it had been fired in a modern kiln
+(Sollberger1976:v).
+Lambert(1965:283)explainedthestrikingcolourofthefiredMiddleAssyriantabletsasfollows:
+Tabletsbakedtoabout650°centigradehavearedcolour…,atemperaturereachingabout750°yieldsa
+whitish colour, and if still more heat is applied tablets are ruined because vitrification and a greenish
+colour result. The chief difference between ancient and modern firing is that the electric kiln supplies
+continuous heat for any length of time while ancient fuel burnt out quickly. Since the Babylonians and
+Assyrians had no large supply of wood for burning, such things as dry reeds and palm fronds were
+commonly used. Thus the Middle Assyrian scribes had their tablets baked to the highest safe
+temperature, but the maximum was reached for only the shortest period, as the fuel was quickly
+expended.Theextremeheatinconsequenceaffectedonlytheoutersurface;theinnerpartsofthetablets
+areofothercolours.
+This account stands out as a sensible attempt to ascertain what really happened, but omits to
+mention the availability of animal dung as a fuel: the marsh Arabs of southern Iraq were using
+dung patties to fire pottery in the 1970–80s (Ochsenschlager 2004: 119–21). Most tablets can also
+be fired safely far above 750°C, to judge by the maximum temperature of 1600° recommended by
+Delougaz (1933: 52). It is also evident from the quality of their products that Assyrian potters
+were capable of controlling kilns very efficiently, and scribes must have had access to comparable
+skills. The latter certainly demonstrated the ability to fire tablets so that they became terracotta,
+andtheymustalsohavebeenabletheoreticallyeithertoheatthemtoanintermediatetemperature
+at which, without becoming fully fired terracotta, they became much more durable than unfired
+clay, or to desiccate them, perhaps by “heating strongly” in the phrase offered by Organ (1961:
+52),inwhichcasetheybecamesomewhatmoredurablethantheywouldhavebeenifsimplyleftto
+dry. Thiswould create the three types of material observed byPlenderleith (1956: 319), andwould
+conform with the conclusions reached independently, at Knossos on the far western edge of the
+tabletworld,bySirArthurEvans(1935:592–93).
+AllthelibrarytabletsoftheKCollectionmustoncehavefallensomewhereonthisspectrum.These
+tabletsderivefromatleastfourplaces—theSouth-WestandNorthPalaces,andtheIshtarandNabu
+Temples(Reade2000:421–27;2005:382);afewhundredcanbeidentifiedarchaeologicallyascoming
+from specific places, but most of the provenances were confused, first in antiquity, and then by
+archaeologists, epigraphists and museum curators as outlined above. Some tablets belonged, or had
+once belonged, to private scribal collections; some have Middle Assyrian, or Neo-Assyrian, or
+Babylonian characteristics, and so on; some may have been waiting to be transcribed or updated,
+somemayhavebeensupersededorrejected,somethatborepalaceortemplecolophonswereprobably
+final fair copies. While a good proportion of the fragments have been classified by traditional
+Assyriological methods into distinct and significant groups, and thiswork continues, they could also
+be classified by correlating physical characteristics. Identification of more Ishtar Temple texts, which
+tendtobeearly,“mighthelpinourgraspofAssyrianintellectualhistoryiftheprojectwereofinterest
+toaphilologist”(Reade2005:382),andthereareequivalentpotentialitieswiththepalacetabletstoo.
+Oneofthephysicalcharacteristicswouldbewhetherthetabletsweredeliberatelyfiredinantiquity.
+Layard,whofoundahighproportionoftheKCollection,describedoneverysmallgroup(actually
+letterssentfromelsewhere)asmadeof“darkunbakedclay”,whichdemonstrateshisawarenessofthis
+kindofmaterial(Layard1849:II,124).Mostlyhistabletswere“baked”(Layard1853:344–47),which
+isprobablyageneralization,referringtothebulkofthelibrarytexts.HiscolleagueHormuzdRassam,
+whocontinuedtheexcavations,repeatedlydescribestheNinevehtabletsas“terracottas”,atermhe
+must have learnt from Layard. It was also used by Smith (1875: 13), who referred to the “many
+boxesfull offragments ofterracottatablets” which had reached theBritish Museum by1855from
+Layard and others. Bezold stated that “in no collection from any other site are the tablets so well
+shaped and so well baked” (Bezold 1889–89: V, xv–xvi). But the tablets were largely excavated
+from buildings that had been destroyed by fire, and there are indeed some among them (e.g. K
+5967)thathad been not onlyfiredbutpartlyvitrified and/ordistorted byintense heat. There must
+be plenty that were heated to a significant temperature during these fires, without reaching
+vitrification. Moreover there is the confusing factor that the clays available in the Middle Tigris
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+178 JULIANEDGEWORTHREADE
+region can have, even when they are unfired, a reddish colour resembling the colour of fired
+terracotta, cf. Fig. 2. What prospect is thereof knowing what the library tablets looked likebefore
+theconflagrations?
+NearlyallthelibrarytabletsfoundintheNabuTempleatNimrud,slightlyearlierthanorroughly
+contemporary with those from Kuyunjik, do seem to have been left unfired (Wiseman and Black
+1996).Similarly,atSultantepe,soonafterexcavation:
+thetabletsweredryingoutwell,anditwaspossibletobrushofftheaccumulationsofearthfrommanyof
+themwithoutdamage.Others,however,resistedthissuperficialtreatmentandwillhavetobebakedbefore
+anepigraphistcanbegintoworkonthem.(Gurney1952:25)
+ThenaturalconclusionmightseemtobethattheKuyunjikNeo-Assyrianlibrarytabletsshouldalso
+havebeenleftunfired,asmayindeed have happenedwiththetablets oftheNinevehNabu Temple
+library,butthereisthepossibilitythatadifferentpolicywasfollowedwiththeking’scollections.
+Itisnotmerelythattheearlyexcavatorsandepigraphistsneverseemworriedaboutthecondition
+of the main groups of Nineveh library tablets, except for the presence of salty encrustation on the
+surface, and nearly always describe them as terracotta. Plainly the exact conditions of burial
+varied, and some were undoubtedly burnt in the palaces, but an alternative explanation for the
+excellent preservation of so many K Collection library tablets could be that some of them were
+deliberately fired, as was indeed done to the Middle Assyrian pieces, and that others were
+strengthenedbydeliberateheatinginantiquity.
+Howfarcanthishypothesisbetested?TheKCollectiontabletsareliabletohavesuchcomplicated
+paststhateachofthemhastobeassessedseparately.Muchoftheevidenceforthestateofthesetablets
+atthetimeofexcavationhasbeenor mayhavebeendamagedordestroyed,especiallybycleaning,
+before 1920 by heating to 150° C and/or the application of hydrochloric acid, and since 1955 by
+heatingto700or750°Candmoreacid.Some,suchasK9785+15900+16810,consistofjoining
+fragments that arenowof different colours. Featuresthat do frequently survive, however, and that
+may conceivably help to decide this issue once all the associated evidence has been accumulated,
+aretheso-called“dryingholes”inthesidesoftablets;thesearediscussedbelow.
+TherearecomparablequestionsovertheoriginalconditionoftabletsfoundatthemajorAnatolian
+sites, Boghazköy and Kültepe; Schachner (pers. comm. 24.2.2015) confirms that they will have been
+hardenedin secondaryfireswhichdestroyed buildingsthere, but it remainsunclearwhetheranymay
+have been deliberately hardened beforehand. Similarly, Paolo Matthiae (pers. comm., 24.2.2015)
+confirms that most of the Mardikh tablets were in good condition, and he therefore did not have
+themfiredafterexcavation;thesewerenotburnt,buttheirconditionbeforeburialislesseasytoascertain.
+AnothermajorcollectionofadministrativetabletswasexcavatedatPersepolisinthe1930sbythe
+OrientalInstituteoftheUniversityofChicago.MattStolper(pers.comm.,23.2.2015)remarksthat
+AlbertOlmstead[celebratedhistorianofthePersianEmpire]couldnotresisttheironyintheideathat
+Alexander the Great, by burning Persepolis, fired the tablets there and so saved them. In reality,
+however, these tablets had not been fired in antiquity. Some were fired in modern times, probably
+inthe1970sattheUniversity’sMidwayStudios.
+“Dryingholes”
+Both narrow sides of the fired Tiglath-pileser III foundation tablet discussed above (K 3751) are
+penetrated by several deep round holes, c. 0.3cm in diameter. Holes of this nature in the sides of
+tablets were possibly introduced during the Middle Assyrian period (Walker 1989: 11). They are
+present in many library tablets in the K Collection, although many other such tablets of similar
+dimensionsinthesamecollectiondonotpossessthem.
+Theholeswerepresumablycreatedbyinsertingrodsintothedampclaywhiletabletswerebeing
+formed, before they were inscribed. As Guinan et al. (1976: 45) may havebeen the first to suggest
+in print, holes penetrating the damp clay could have facilitated the safe slow heating and cooling
+of a tablet, providing outlets for water vapour to escape during the process of drying and heating
+up to and above 100° C. Afterwards, as noted by Finkel (pers. comm.), if thin rods of organic
+materialwere used to make the holes, they would havedisappeared during heating or firing. If the
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM179
+tablet was being fired at 350° C and more, the holes would have facilitated the escape of the
+“combined water” too. Therefore Assyriologists usually call them “firing holes”, which is at first
+sight an appropriate term; Taylor (2011: 15–16) has suggested that “drying holes” may be
+preferable. While it is undeniable that these holes would have facilitated drying, it is slightly
+surprising,ifthiswasindeedtheirprimepurpose,thattheyarenotlargerandmorenumerous,and
+thattheyarenotfoundmoreconsistentlyontabletsofsimilarsizeandapparentstatus.
+Acomplicationisthatthereareholesofanotherkindforwhichthesamename,“dryinghole”,has
+beenusedlessaptly.Theseotherholeswereimpressednotintothesidesbutintothefrontandback
+surfacesoftabletsafterorduringtheprocessofinscription(e.g.K3751);theirdiametertendstobe
+less,e.g.0.1–0.2cm.Thereareplentyoftabletswithholesinthesesurfacesbutnotintheirsides(e.g.
+K47,50,160,3121).Sometimestheseholesinthesurfacesareimpresseddeeplyandsymmetrically,
+but they still only tend to be placed in areas that are otherwise blank, or in the spaces between
+columns or lines of text (e.g. K 39: Taylor 2011: 17, fig. 1.6); yet they can also be inside a
+cuneiform sign. Such arrangements of holes in the faces of tabletswould not havebeen efficient in
+facilitatingtheescapeofwatervapour.
+Commonly,whentherearetheseholesinthesurfacesoftablets,theyarearrangednotsymmetrically
+but in patterns that are irregular yet, as Taylor says, “not entirely random”. Finkel has drawn my
+attention to an early example of such superficial patterning on a Middle Babylonian tablet where
+the surface is marked by many small depressions that are ovoid rather than circular (Jeyes 2000:
+373, fig. 4). On K Collection tablets, it sometimes looks as if the holes had a decorative or other
+specific purpose, or were intended to denote that the tablet was a fine final canonical version. A
+tablet from the Nabu Temple at Nimrud, however, which has similar holes, also has numerous
+erasures,andisdescribedas“probablyscribalpractice”(WisemanandBlack1996:26,no.171).
+Itseemspossiblethatsimpletypology,definingthesize,shape,subject-matter,scriptandtextof
+tablets, and grouping physical sets of tablets with shared characteristics, would lead to the
+identification of patterns explaining the presenceofone or both of the types of “dryinghole”. The
+published catalogues and databases do not yet include all these kinds of information which might
+in turn clarify how far, if at all, the tabletswere deliberately fired in antiquity, and how the tablet
+librarieswereorganised.
+Firedorunfired:objectsotherthantablets
+The problem of distinguishing between fired and unfired clay also arises with objects other than
+inscribed tablets, and can influence how they are treated. Even the standard compendium of
+ancient Mesopotamian materials fails to draw a systematic distinction between fired, unfired and
+partly fired clay objects (Moorey 1994: 163), and plenty of them are described differently by
+different authorities. The problem is exacerbated by the fact that the word “terracotta”, among
+English-speakersunfamiliarwithItalian,hasapparentlyacquiredtwomeanings,referringnotonly
+to fired clay but to objects such as clay figurines generally. I once found a number of figurines
+stored together as “terracottas”, and a programme of desalination by soaking in distilled water
+wasin progress. It seemed provident to remove the unfired figurines to a separate drawer, but they
+soonreturnedtotheirpreviousposition.
+Ifanitemofunfiredclayisidentifiedasterracottaandtreatedwithwaterinordertocleanitorto
+removesalts,thensoonerorlateritbeginstounexpectedlymelt.Ihaveoccasionallyseenthishappento
+smallrecentlyexcavatedobjectsinIraq.Thesameprocessmayhaveinitiatedthechangeinappearance
+of a remarkable head, which had been purchased by the British Museum from the dealer Géjou as
+“terracotta” in 1926 (BM 118062: Reade 2002b: 155, figs. 24–25). A rubber-stamp on the old file-
+card covering this piece records it as having been fired in the museum, presumably after it had
+beguntomeltwhensoaked.Thestampisundated,butthefiring,whichmusthavehappenedbefore
+1975,mayhavebeenresponsibleforflakingofthesurfacethatcontinuedsubsequently.
+There is a celebrated painted clay head in the same museum (BM 122934), which appears as
+“ceramic” or “fired” both in a 2008 exhibition catalogue from the Metropolitan Museum of Art
+(Aruz et al. 2008: 23) and on the British Museum website (20.2.2015). I too once regarded it as
+fired; later, after close inspection, I described it as very fine unfired clay, but it may, while clearly
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+180 JULIANEDGEWORTHREADE
+notfired,havebeenhardenedinantiquitybyexposuretoheat(Reade1991:2;2002b:161).Thishead
+wasexcavatedatUr,wheremanyartefactsarebadlyaffectedbysalts,althoughnotapparentlythis
+one. Its surface also retains ample paint, vulnerable in any case and probably soluble in water, so
+that it unlike the Géjou head may be safe from inadvertent soaking and/or firing. The same
+applies to five painted and inscribed magical dog figurines from Nineveh (BM 30001–05). The
+manufacture offigurines like this fromunfired clay is prescribed in ritual texts, so their material is
+plain, but these five were still described ambiguously as “clay” in a catalogue (Curtis and Reade
+1995: 116–17) and as “fired clay” on the museum website (10.3.2015). Another kind of painted
+magical figurine excavated at Nineveh in 1989–90 has been described as “lightly-fired pale buff
+clay” (Pickworth 2005: 305); unfired Assyrian figurines do look lightly fired, as clay dries hard,
+but they were made by hand and buried promptly. There may be many other clay objects in
+museumswhich are at riskof being mistaken for terracottas. Even when an object is indeed made
+ofterracotta,itcanbeatriskoflosingtracesofpaintthatareonlyvisibleinunobtrusiverecesses.
+The organic residues that sometimes survive on and inside clay are also vulnerable to well-
+intentioned cleaning: for instance, small ceramic bottles, excavated complete from graves, have
+sometimesbeenknowntoreleaseafaintsmellofperfumeduringdesalinationbysoakinginwater.
+Ancient texts include many references to ritual anointing; if traces of this kind of process survive
+inoronclayfoundationdocumentsthatwereonceanointed,theytoomighteasilybewashedaway.
+TreatmentoftabletsintheBritishMuseum,1850–1855:JohnDoubleday,immersiontechniques,and
+thefirstattemptsatfiring
+Between 1850 and 1910 the British Museum acquired innumerable tablets, complete and broken.
+They came mainly from northern and southern Iraq, both through official excavations and
+through purchase. Most of the numbered pieces are now stored individually in glass-topped
+cardboard boxes lined with a soft material, which was originally cotton-wool but is now mainly
+plastazote, a polyethylene foam. The systematic boxing of tablets was introduced in 1883
+according to Wallis Budge (1925: 156–57), who joined the museum staff in that year and became
+Head of Department ten years later. This method of storage facilitates access, protects the tablets
+fromcasualdamage,providesadegreeofenvironmentalstability,andhasbeenadoptedelsewhere,
+but it does not address problems of cleaning and conservation. All tablets that arrived in London
+had already displayed a certain resilience, by even surviving the journey. Some of the acquisitions
+seem to have been trouble-free: thus the Amarna tablets from Egypt, which are unfired, were at
+least clean enough to be partly legible soon after they had been found, and all those that I have
+inspectedappearsolidandstable.Withsomeothergroupsthereweredifficulties.
+Already,soonafterthefirstseriousexcavationsoftabletsinwhatisnowIraq,ageneraldifference
+wasobservedbetweenthosefromnorthernandthosefromsouthernsites.Layard(1853:564)wrote
+thatthesouthernWarkatabletsare:
+lesswellpreservedthanthemoreancientdocumentsinthesamematerial,discoveredintheAssyrianruins
+[Nineveh],andmanyofthemhavecrumbledaway.Thisisowingtothenitrousnatureofthesoilcoveringthe
+remainsinBabylonia,andperhapsalsooftheclayoutofwhichtheseobjects,aswellasthepotteryofthe
+country,wasmade.Itthrowsoutakindofwhiteefflorescence,andgraduallyfallstopieces.
+Layard is referring to tablets that have been buried in alluvial areas of Babylonia without good
+drainage and that are liable, unless protected by special factors, to suffer from the same notorious
+salinationasthesoilaroundthem.Headdshopefullythat:
+theinscribedtablets…havebeenpartlyrestoredbythesameprocessastheivoriesfromNimroud,nowin
+theBritishMuseum.Theyhavebeenboiledinaglutinoussubstance,whichhaspenetratedintothevery
+heartoftheclay,andisexpectedtopreventitsfurtherdecay.
+Possibly theword “glutinous” herewasa mistake for “gelatinous”. Assyrian ivorieswere indeed
+successfullyboiledingelatineatthattime,andanerratumslipinanearlierbookbyLayard(1849:
+I, after p. xxxi; II, 9) corrects glutinous to gelatinous with reference to the treatment of ivory. Sir
+John Herschel, however, when consulted about a comparable problem with exfoliating Egyptian
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM181
+stelasin1847,hadrecommendedsoakingindistilledwaterfollowed,ifnecessary,byvarnishingwith
+awaterproofresinthatwould“drywithacertaincohesionorglutinousness”(Reade2008:18–19).So
+effortsatconservationtheninvolvedbothglutinousandgelatinoussubstances.
+Budge gives avery full and vivid account of the museum’s first attempts at the conservation of
+tablets. For events before the 1870s he must have relied on hearsay, such as the reminiscences of
+SamuelBirch.Budge had ahabit ofembroideringthetruth (Reade2011: 454–57), buthisaccount
+issupportedbyoccasionalofficialrecordsandisbroadlyconvincing.
+Thetablets[whicharrivedduring1850–1855]weretieduplooselyinnativereedbasketsandplacedinboxes
+withoutfurtherpacking.Allwerecoveredwithathickcoatingofdustandearth,whichwaseasilyremoved
+bycarefulbrushing;butthereweremanyhundredswithlargepatchesofacrystallinedepositadheringto
+their surfaces, and these rendered it impossible to see the inscriptions beneath them. The tablets from
+Ninevehwere…madeofbakedclay,butmanyofthosethatcamefromWarka,Sankaraandothersites
+inLowerBabyloniahadonlybeensun-dried.Manyofthelatteralsohadpatchesofacrystallinedeposit
+adhering to them; and when an attempt was made to remove them, the tablet crumbled in the hand,
+leaving the deposit intact. Sometimes the patches of crystals came away from the tablets easily; but
+portions of the surfaces of the tabletscame away with them, and the inscriptionswere mutilated. Many
+of the unbaked tablets had broken as they were being taken from the ground, and those that were
+removed in an entire state often cracked and broke into fragments, or crumbled into dust. None of the
+officials in the British Museumknewwhat stepsshould betakento remove the crystallinedeposit from
+thetablets,orhowtopreventthemfromcrumblingintodust,andnoexpertassistancewastobehad;for
+no cleaner or repairer of antiquities had any experience in such work. Mr Doubleday, the repairer
+employed by the Trustees [the governing body of the museum] at that time, made various suggestions
+andwas allowed to treat some of the tablets, but the results were disastrous. He attempted to bake the
+unbakedBabyloniantablets,beingconvincedthathecouldmakethemashardasthebakedtabletsfrom
+Nineveh; but the result of his ‘firing the tablet’ was that the whole surface of both sides of each tablet
+flaked off and fell into dust, and the inscriptions were lost for ever. Then he made attempts to
+consolidatethetabletsbyimmersingtheminspeciallypreparedpreservativesolutions;butthesetoowere
+unsuccessful; forthe tablets disintegrated,andlay inheapson thebottom of thevessel. Atlength Birch
+stopped the experiments, and nothing further was done in the way of cleaning the tablets for three or
+fouryears—infact,notuntilafterthedeathofMrDoubleday[on25January,1856].(Budge1925:147–49)
+John Doubleday was a capable man, best known for repairing the Portland Vase, and his
+experiments will have been more thoughtful than this account implies. Even if not yet successful,
+they anticipate the techniques that did later develop and that were obliged to confront not one
+problem but two. The tablets had to be cleaned, so that they were legible, and they had to be
+conserved,sothattheywerestable,butthetwoproblemsinviteddifferentapproaches.
+One of Doubleday’s “preservative” solutions must have corresponded to the saturation with
+gelatine or gluten mentioned by Layard. This itself was surely a dead end, but there have been
+more recent experiments with saturation. One method that Doubleday could well have tried was
+immersion in hydrochloric acid. Because it dissolves calcium carbonate, this substance often
+reappears in the history of attempts at tablet cleaning and conservation. It was to be one of the
+first techniques recorded by Friedrich Rathgen (1898: 72–73), Director of the Chemical
+LaboratoryoftheRoyalMuseumsofBerlinwhobecamethefatherofarchaeologicalconservation
+(Berlin Museum website: Lebenslauf Rathgens). He treated three tablets in this way (Berlin, VA
+1048,1050,2315);hedescribesthemasalreadyfired,thoughtwoofthemareatypeofUrIIItext
+normally described as unfired, which suggests that he had as much trouble with this issue as
+everyone else. Anyway he soaked them in hydrochloric acid and washed them in distilled water,
+and they were clean. However, tablets are liable to contain a range of insoluble salts, whose
+reactionstoacidsvary.SoakingwasnotatreatmentRathgenlaterrecommendedforunfiredtablets.
+SimilarlyElisabethPackard(1939)oftheWaltersArtGallery,Baltimore,records:
+amethodofcleaningaBabyloniantabletbyimmersioninadilutedsolutionofhydrochloricacid…The
+calcium carbonate deposit is dissolved and the other kinds of incrustation are brushed off. The loose
+fragments of the inscription are attachedwith a polyvinyl acetate solution and the impregnation of the
+tabletbypolyvinylacetateconcludesthework.
+Wearenottoldthelong-termresults.OntheotherhandwhenHarrySaggs,atRimahin1965,tried
+placingencrustedfragmentsofunfiredtabletclayindifferentconcentrationsofacid,probablyboth
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+182 JULIANEDGEWORTHREADE
+hydrochloricandnitric,hewasdissatisfiedbytheresults;theonlyeffectthatIobserved,afteraweek
+ortwo,wasthelossofafewscrapsofclay;muchoftheRimahencrustationwasprobablycalcium
+sulphate(gypsum).
+Packardalsoimpregnatedhertabletwithpolyvinylacetate.Whileitisnotoriousthatconsolidants
+andothersubstanceswithunpredictableagingcharacteristicscanstoreuptroubleforartefacts,itis
+doubtfulwhethertabletshavebeensignificantlydamagedinthisway.Thediscussioncontinues,and
+the efficacy of ethyl silicate, that has been suggested for the treatment of tablets at the Musée du
+Louvre, was one of the themes discussed during the British Museum 2015 seminar on tablet
+conservation.
+Since Herschel had identified salts as the cause of a long-term problem with the limestone
+Egyptian stelas, although this related to exfoliation rather than crystalline deposits or visible
+efflorescence, and had recommended their immersion in distilled water, perhaps Doubleday also
+triedthis procedurewithtablets.Thefactthatthesoakingofharddryclaywouldeventuallyresult
+in disintegration will not have been as obvious as may be supposed, especiallygiven the problems
+discussed above in distinguishing between unfired clay, partly fired clay, and terracotta. Even
+Flinders Petrie, an experienced archaeologist, in writing on the conservation of small antiquities,
+was to claim that “any sort of material may be soaked” in water to remove salt: “bronzes, stone,
+pottery,clothing,ivory,wood,painted objects,andevenunbakedclay,andpapersqueezes”(Petrie
+1888:88).Rathgen(1898:72)wastoremarkthatPetrie’smethodwasimpossible.
+Doubleday’sattemptstoconservetabletsbyfiringthemwereprescient.Iftabletsdisintegratedin
+the process, this may have been because the temperature was raised or lowered too rapidly. In the
+twentiethcenturyfiringbecamestandardpractice.
+TreatmentoftabletsintheBritishMuseum,1860–1895:RobertReadyandSons,andthesecretReady
+process
+AmongthefrequentvisitorstotheDepartmentsofAntiquitiesatthistimewasAlbertWay…Hearingof
+thedifficultyaboutcleaningthetablets,hetold[AugustusWallaston]Franksthathewassurethatacleaner
+andrepairerofantiquitiesemployedbyhimcoulddowhatwaswanted,andaskedhimtolethimbringhis
+protégétotheMuseumtolookatthetablets.ThiscleanerandrepairerwasRobertCooperWalpoleReady
+(1811–1903),andasheunaidedsolvedallthedifficultiesinconnectionwiththecleaningandpreservationof
+thetablets,itwillbewelltoputonrecordafewfactsaboutthisremarkableman…(Budge1925:149)
+ReadywasdulyemployedbytheMuseuminJuly1859asapart-time“repairer”.Aftervariousother
+workhe:
+tookinhandseveralfragmentsofthebakedclaytabletsfromKuyunjik…andbysomemeans,whichhedid
+notdivulge,hebroughtthembackclean,witheverycharacterlegible.Healsocleanedsuccessfullymany
+unbaked Babylonian tablets, and found the way to remove from them the patches of hard crystalline
+depositwithoutdamagingtheinscriptions.(Budge1925:152)
+Ready’smostnotablesuccessinthisrespectwasin1872whenhecleanedtheKuyunjiktabletK
+3375. One face of this, giving the Babylonian version of the Deluge, had been largely “covered
+with a thick whitish lime-like deposit” (Budge 1925: 152), probably with a substantial gypsum
+component. Deposits ofthis appearance are common onceramics excavatedin northern Iraq,and
+are very inconvenient until one discovers that they readily crumble and flake away after a year or
+so in storage there, exposed to the area’s extreme fluctuations of humidity and temperature. The
+crumbling presumably results from differential expansion and contraction. Ready could easily
+have devised a simple procedure on these lines, both heating and cooling the tablets, although it
+doesnotseemtofeatureamongconservationpracticesinmodernhandbooks.AlternativelyReady
+may have heated the tablets more strongly, as the museum did afterwards with a sand-bath
+process. After this treatment he could have used fine tools, brushes and hydrochloric acid for final
+cleaningasnecessary.
+In keeping his methods secret, unlike Petrie, Ready was following a long-established tradition
+amongskilledcraftsmen,andhedulypassedhisskillsontohissonsoneofwhom,TalbotReady:
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM183
+eachmonthrepairedacertainnumberoftablets,andcleanedothers,andrepairedbronzes,etc.Whenheleft
+theMuseum,Ithinkin1884,nostepsweretakentoreplacehisservicestothisDept,andfromthattime,the
+arrearsofworkhavesteadilyincreaseduntilatthepresentmomentsomethousandsoftabletswantcleaning,
+stopping[?],andrepairing.MrAugustusReadyhasfromtimetotimecleanedtabletswhichwereurgently
+neededfortheuseofstudents,butspeakinggenerallytheeffectsoftheservicesrenderedbyhimtothisDept
+inayearareunappreciable…itseemstomethatsomeoneoughttobetaughttohelphimtocleantablets.
+(Budge,3.10.1894;MiddleEastDepartment,Reports1890–96)
+The urgency probably resulted from the decision in 1886 to publish a catalogue of the entire K
+Collection,whenthe:
+workwasmuchdelayedbecausemanyofthetablets…wereillegibleonaccountofthedepositwhichfilled
+upthecharacters.Thedifficultyofgettingthetabletscleanedwasovercomeayearortwolater,whenthe
+officialsoftheDepartmentfoundameansofcleaningthemforthemselves;andfromthattimethework
+hasbeencarriedoutinasystematicmanner,tothegreatadvantageofallstudents.(Budge1925:155–56)
+TheBritishMuseumsand-bathprocess,1895–1915
+TheofficialBritishMuseummethodofcleaninginvolvedheatingtabletsinasand-bath.Thiswasa
+substantial structure: “at the quarterly inspection of the fire apparatus, &c, on 9th April, Captain
+Simonds examined and approved the building recently constructed on the Museum premises by
+the Office of Works to serve as a sand-bath for the cleaning and preservation of Assyrian tablets”
+(Trustees’Minutes,11May1895).Detailsofthecleaningprocessrecommendedmusthavebeenin
+a report sent by Sir William Flower, then Director of the British Museum (Natural History),
+presumably written by Lazarus Fletcher, Keeper of the Museum’s Mineralogical Department and
+perhapsstillkeptsomewhereinthemuseumarchives.
+Budge accordingly reported to the Trustees on 25.9.1895 (Middle East Department, Reports
+1890–96):
+Duringthelastfourmonthsfrequentusehasbeenmadeofthesand-bathwhichwasbuiltforthepurposeof
+cleaningAssyrianandBabyloniantabletsintheearlypartofthisyear.Thetabletsofwhichthecleaninghas
+been attempted are of three kinds: 1. Baked Assyrian tablets [plainly meaning items from the K
+Collection]. 2. Baked Babylonian tablets. 3. Sundried Babylonian tablets. The methodswhich havebeen
+employed in cleaning tablets are two: 1—with dilute hydrochloric acid, and 2—with sand heated to
+about 300 degrees Fahrenheit [about 150° C]; only the latter has been employed in the Dept during the
+lastfour months,andtheresultshavenotalwaysbeensuccessful.ThedirectionsgivenbySirW.Flower
+have been most carefully followed, and it has been found that when tablets coated with gypsum are
+insertedforatimeinsandheatedto300degreesFahrenheit,agreatdealofthecorrosioncanbebrushed
+off. Much, however, remains embedded in the hollows of the cuneiform characters, and to dislodge it
+fully the brush must be applied with considerable force. This treatment Mr Budge fears to apply to
+unbakedtabletsofanydescription.
+Informeryearslargenumbersoftablets,bothAssyrianandBabylonian,havebeencleanedbyacareful
+useofdilutehydrochloricacid[surelyoneoftheReadytechniques],andacarefulexaminationofthetablets
+which have been cleaned by this means convinces Mr Budge that they have suffered no injury, for any
+lingeringtracesofacidhavebeenneutralisedbyammonia.MrBudgeasksforpermissiontouseacidin
+caseswherebrushingis,inhisopinion,dangeroustothetablet.
+Asupplementaryletterof1October1895fromFletcherstatedthat“thedepositonthetabletsisnot
+whollygypsumandisnotthereforecompletelyremovedbyheatandbrushing. Hethereforethinks
+thatacid,asproposedbyMrBudge,mustbeused”.
+On 23.3.1896 Budge reported on the results of experiments made in the cleaning of Babylonian
+tabletsbyuseofboththehotsand-bathandhydrochloricacid,andrecommendedthecontinuance
+of this practice in preference to brushing. He does not seem to specify which tablets were being
+cleaned or how they were chosen for cleaning; it must have been partly in response to demand
+from visiting epigraphists, but there may also have been a more systematic arrangement. We then
+have statistics for the numberof tablets cleaned eachyear, with related information (in the printed
+BritishMuseumReturns,annualreportstoParliament):e.g.102cleanedintheyearendingMarch
+1896, but 400 in 1896–97; 369 in 1899–1900; and 280 in 1909–10. In 1913–14 114 tablets were
+cleanedbut3052werebrushed,presumablytoremoveefflorescencethathadbeenobserved.There
+were 183 tablets cleaned in 1914–15, and 100 in 1915–16, but by 1917 the museum was being
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+184 JULIANEDGEWORTHREADE
+severelyaffectedbywartimemeasures,andtheprospectofair-raidspromptedtheremovalofsomeof
+thecollectionstoaplaceofgreatersafety.
+On12.1.1918(Trustees’Minutes)Budgerequested“furtherhelpinthepackingofAssyriantablets
+forremoval”andtheTrusteessanctionedtheemploymentof“MrE.T.Steele,whohasbeenregularly
+employed to write labels etc in the various departments” at a rate of 10 shillings a day. By April
+instructions were being issued for staffon patrol in a nearby underground tunnel belonging to the
+Post Office. A hygrometer was to be installed, and electric radiators were to be placed anywhere
+that signs of dampness were observed. There are long lists of numbered boxes that were sent to
+storagefromwhatwasthentheDepartmentofEgyptianandAssyrianAntiquities;manyprobably
+contained tablets. I have not noticed any reference to tablets deteriorating because of damp in this
+period, butother museum objects suffered considerably, which led tothe creationof the museum’s
+Research Laboratory (Wilson 2002: 213). The process of bringing the tablet collection back to the
+Department after the war lasted into 1920–21, and the programme of regular cleaning must have
+lapsed.
+TheArabhotashprocess,c.1870–1900
+The treatment of tablets by heat, invented by Doubleday and refined by Ready and others at the
+British Museum,wasindependentlydeveloped byanunidentified ArabinsouthernIraq, therenot
+in order to clean tablets but to consolidate them. The principle was the same, but there was no
+exacttemperaturecontrol.
+Inthe1870speoplelivingin andaroundBabylonknewthatinscribed tabletshadacommercial
+value,anditbecameworthwhiletoexcavateandsellthemthroughdealerssuchasYusufShemtob,
+but condition was a problem. For instance Hormuzd Rassam, who had been deputed to get more
+tabletsfortheBritishMuseum,reportedinDecember1880that:
+the workmen come upon inscribed tablets almost daily. Unfortunately all the inscriptions found are on
+unbakedclay,whichgetverymuchdamagedassoonastheyareexposedtotheair.Wehavelatelyfound
+averylargetabletofthisdescription…whichhasalreadybeenverymuchdamaged;andmyfearisthat
+ifitissenttoEnglandinitspresentstate,notasignoftheinscriptionwouldremainonitbythetimeit
+reachestheBritishMuseum.ThereisanArabamongstourworkmenherewhohadbeeninthehabitof
+findingthesekindofunbakedclaytabletsandwhohadtried,withsuccess,topreservethembybakingin
+hot ashes. I am going toget him to tryone or two fragments before me, and if I find his process prove
+successful I will have the large tablet baked in the same way before I send it home. (quoted by Reade
+1986a:xxi)
+Soon afterwards, at the nearby site of Abu Habba (Sippar), Rassam “discovered in different
+chambersalargenumberofinscribedclaytablets;but,unfortunately,theywerenotbakedasthose
+foundinAssyria;andtheclayofwhichtheyweremadehadbecomesofriablethatassoonasthey
+wereexposedtotheairtheycrumbledtopieces.Ifoundthattheonlywaytopreservethemwasto
+have them baked, which wedidwith success; but I regret to sayagreat number were destroyed by
+the removal, as they were heaped up one upon another, and stuck together” (Rassam 1897: 406).
+According to another description (Rassam to Layard, 28.2.1881: British Library, Layard papers,
+kindlycopiedbyAlexandraFletcher):
+Inanotherchamberwediscoveredabout500piecesofinscribedclaytabletssomewholeandsomebroken,
+butasthesewereunbaked,andIfearedthatifIsentthemhomeinthestatetheywerefoundmostofthem
+wouldgetdestroyedontheway,Ihadthemburntandnowtheylookquiteasgoodasthosewefoundalready
+baked.TherearetwomenamongstourworkmenatBabylonwhohavebeenaccustomedtobakeallthe
+unburntclaytabletswhichtheyusedtofindintheirBabyloniandiggings.
+Budge,reportingonhisownfirstvisittoAbuHabbain1888,wrotethatinonemound“wereruins
+ofhundredsofsmallchambers,andinallofthemunbakedtabletswerefound…Thenativesheated
+hundreds of these in the fire in orderto harden them, but the result was that the hardened surface
+separated itself from the body of the tablet, and broke into pieces” (Budge 1920: I, 316). The
+British Museum holds thousands of tablets and fragments with a brownish grey or black surface
+colour that must have resulted from what we may call the hot ash process. The museum website
+has agood coloured illustration of this kind of effect on atablet from Babylonia (Rm 714: Reade
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM185
+2002b: 154, figs. 19–20); this tablet has on one side the image of apig in relief, darkened andwell
+preservedexceptwhereanattempttocleanthestomachhasexposedsomehigh-qualityunfiredclay.
+AnalternativeaccountofattemptingtoconservetabletsinsouthernIraqcomesfromthebrilliant
+scholar Hermann Hilprecht (1903: 415–16), who was at Nippur during some of the 1889–1900
+excavationsoftheUniversityofPennsylvania:
+Asmostofthetabletsdiscoveredwereunbakedorbakedinsufficiently,theynotonlyarebadlybrokenand
+chippedeverywhere,buttheyhavesufferedexceedinglyfromthehumidityofthesoilinwhichtheylay.In
+manycasesthesaltsofnitrecontainedintheclayhadcrystallizedandcausedthegradualdisintegrationof
+completedocuments,oratleast,theflakingoffoftheinscribedsurfaces.Frequentlytheycrumbledtodust
+immediatelyaftertheirdiscoveryorsoonafterwards,ontheirwayfromNuffartoConstantinople.Theoften
+advised baking of such tablets was not only useless, but proved repeatedly even most damaging, as it
+accelerated the process of dissolution and hardened the dirt, filling the cuneiform characters to such a
+degree that it could not be removed later. Thus far, none of the means generally recommended has
+provedaneffectivepreservativefortabletsdoomedtodestructionlongbeforetheyarediscovered.
+AstheNippurteamincluded,atleastin1889,“thirtytwotrainedworkmenfromJumjuma[Babylon]
+andanothervillagenearEl-Birs[Borsippa]”(Hilprecht1903:303),whowillhavebeenaccustomedto
+excavatingtabletsforsale,itislikelythattheycontributedtheirexperienceofthehotashprocess.
+An incidental effect of this method of conservation, combined sometimeswith open storage on
+museum shelves,is thelikelihood thatthesmoke fromthehot ashwill have leftfurtherdeposits of
+calcium carbonate and other substances in or on the clay of some or all of the tablets treated in
+this way. General air pollution, especially coal smoke, may also have left measurable traces:
+certainlya fewobscureobjects, acquiredbythe British Museum in the nineteenth centuryand not
+cleaned until the 1970s, retained then a distinctive thin layer of greasy soot, and even a faint
+sweetish smell, reminiscent of London before the 1956 Clean Air Act. Pollution like this, and
+comparable phenomena, need to be allowed for in the course of studies or analyses of types of
+tabletclay.
+FriedrichRathgenandtheintroductionofhigh-temperaturefiringinEuropeandtheUS,1900–1935
+MeanwhileanothermethodoftreatingcuneiformtabletswasbeingdevelopedbyFriedrichRathgen
+in Berlin. The first published description of his work may be a museum book on conservation
+(Rathgen 1898: 72–73). Rathgen probably knew from epigraphists about the Arab and British
+attempts to clean tablets by heating them, and proceeded to undertake his own experiments and
+publish his results. After his initial work with hydrochloric acid noted above, Rathgen (1903;
+1904), like Doubleday in the 1850s but with greater success, tried the more drastic step of
+transforming unfired and poorly fired tablets from clay to terracotta. He did this by heating them
+in a kiln to 600° C or more, far higher than the temperatures then approved for the British
+Museumsand-bath.
+Rathgen’sprocessissummarisedbyMarkGilberg(1987:112).Firstthetabletswerebaked“ina
+mufflefurnaceheatedbybunsenburners”,thetemperaturebeingregulated“throughtheuseofSeger
+Cones placed inside the furnace where they could be seen through the observation aperture”. This
+removed much of the surface encrustation, and the tablets were then soaked in water, with the
+long-termaimofpreventingfutureefflorescenceandsurfacedamage.Rathgen’stechniquewasthe
+first to integrate the processes of cleaning, in order to make the tablets legible, and conservation,
+inordertokeepthempermanentlystable.
+DuringthisperiodtabletswerecomingtoBerlinfromextensiveGermanexcavationsatBabylon
+and Ashur, and Rathgen was responsible for firing manyof them. I am indebted to Olof Pedersén
+(pers. comm., 23.2.2015) for this information and to Hermann Hunger (pers. comm., 17.3.2015)
+forthereminderofhowoftenscholarsworkingonAshurtextsremarkthatcleaningandfiringhas
+enabledthemtoreadmorethanthefirsteditor.
+Elsewherein Germany,asitthenwas,thereisanallusion (Anon.1913)tothefiring of400Old
+Babylonian clay tablets belonging to the Strasbourg University library. An electric kiln was used.
+It is not stated whether Rathgen’s recommendations on firing temperature were followed. There
+are probably further records of what else was being done to tablets in various institutions before
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+186 JULIANEDGEWORTHREADE
+theFirstWorldWar.Theabsenceofrecordswouldnotmeanthatnothingwashappening.Atanyrate
+theideathattabletsshouldbefiredorrefiredtoahightemperaturewasspreading.
+MeanwhileintheUSsubstantialnumbersofcuneiformtabletswerebeingboughtbyindividuals
+andinstitutions.Probablythemajoritywereinfairconditionandremainedso,sincethedealerswill
+havelookedafterthemasbesttheycould,andthepurchaserswillhavepreferredthebetter-looking
+pieces. The most substantial collection was at the University of Pennsylvania (Penn) Museum,
+Philadelphia. This comprised many tablets excavated by the successive expeditions to Nippur, in
+addition to those that had been purchased, and I am indebted to Aage Westenholz (pers. comm.,
+16.3.2015) for further information on Hilprecht’s activities there. In 1906 Hilprecht was in charge
+ofthecollection,andmadewhatseemstohavebeenhissecondexperimentinfiringtablets,buthe
+then decided that the process changed their appearance to an intolerable degree. So that
+experiment presumably involved firing at a high temperature, on the lines recommended by
+Rathgen.Hilprechtinsteadhadglass-toppedboxesmadeforthetablets,asattheBritishMuseum,
+whichitwashopedwouldpreservethemwellenough.
+Probablythefirstuseofahigh-temperaturekilntofiretabletsinEnglandwasatOxford.Henry
+Field(1929:7)states,withreferencetotheexcavationsinMoundWatKishin1923–24:
+Numeroustabletsbearingsyllabariesandreligioustextswereuncovered;butsincemostofthetabletswere
+unbaked,theywerenearlyalwaysinafragmentarycondition,andhadtobeexcavatedwiththegreatestcare
+and skill. Professor Langdon used a solution of celluloid as a preservative for the broken fragments of
+tablets,whichweredriedandbrushedbeforeshipmenttotheAshmoleanMuseumatOxford,wherethey
+werebakedandcleaned.
+Paul Collins, writing from the Ashmolean (pers. comm., 24.2.2015), points out that this may have
+been regular practice with tablets from Kish, as in 1923 the museum workshop was “fittedwith a
+gas muffle-oven, to enable the baking of clay tablets and other salt-corrupted objects” (Hogarth
+1923:2),butthefiring temperatureisunknown.Morerecentrecordsshowthatnearlyeverytablet
+intheAshmoleancollectionwasfiredto700°Cbetween1978and1980”.
+Rathgen’sfinalrecommendationsonthetreatmentofcuneiformtabletswerepublishedinthethird
+edition of his book, Die Konservierung von Altertumsfunden (Rathgen 1926: 89–103). He still
+recommended firing to 600° C in most circumstances, or to a maximum of 950° C or 1050° C if
+tabletswere particularlydifficult to clean. Once fired,tabletswere tobe soaked to remove residual
+salts,andsurfacescouldbecleanedwithhydrochloricacid.
+Soonafterwards,intheUSin1926–27,DrEttaleneM.Gricewasmakingherfirstattemptstousea
+“specially constructed electric furnace” for firing the tablets of the Babylonian Collection of Yale
+University(Parkinson1950:6).Shediedin1927,butParkinsonaddsthatthe“workwascontinuedby
+ProfessorR.P.Dougherty,and,since1933,byProfessorStephens,whohasmadevariousrefinements
+in the procedure”. The maximum temperature that Stephens quoted to Parkinson was 1400°F, i.e.
+760° C, but the latter himself preferred a maximum of about 850°C. There were also various ideas
+about the best methods of soaking to desalinate the tablets. In view of the timing, and of Grice’s
+position at Yale, it seems highly probable that this tablet firing project began as another initiative of
+thedynamicAlbertClay(Foster2006:65–68;2013),inspiredbyknowledgeofRathgen’swork.
+HaroldPlenderleith’s1934book,ThePreservationofAntiquities,referredtoRathgen(1926)forits
+descriptionofhowtoconservetablets.PlenderleithworkedattheBritishMuseumduring1924–59,
+butIhavenotheardoftabletsbeingfiredthereintheinterwarperiod.
+RathgenremainedinchargeofhislaboratoryinBerlinuntilretirementin1927.In1930,according
+toJoachimOelsner(Westenholz,pers.comm.,16.3.2015),thoseNippurtabletsformingHilprecht’s
+personalcollection,whichhadbecometheHilprecht-SammlungatJenaafterhisdeathin1925,were
+fired in Berlin (though apparently not desalinated). Given the friendly relations between Germany
+and Turkey, Rathgen’s laboratory was presumably also the model for a new one, complete with
+facilities for drying, firing and soaking tablets, that was established in the Istanbul Museum in
+1935 (Kraus 1947: 97–119). Firing began there in the autumn of 1937, and by November 1946
+about 60,000 out of the 75,000 tablets and fragments in the collection (from Adab, Ashur,
+Boghazköy, Kültepe, Kish, Telloh, Drehem, Abu Habba, Fara, Jokha and Warka) had been
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM187
+treated.AtsomestageakilnwasalsoestablishedinAnkara,asthatiswheretheSultantepetablets
+werefiredin1953(GurneyandFinkelstein1957:iv).
+LeonardWoolleyandthetreatmentoftabletsatUr,1919–1934
+In1919theBritishMuseuminitiatedfreshexcavationsatUrinsouthernIraq,whichdulyproduced
+tablets.Hall(1930:150,164–65,173)referstofindingbothbakedandunbakedvarietiesinthefirst
+season,butheclearlyhadnotimetotreattheminthefield.Thenin1922LeonardWoolleybegan
+work there, on behalf of the joint expedition of the British Museum and the University of
+Pennsylvania Museum. Woolley, who could well have seen the British Museum sand-bath in
+operation before the First World War and may have heard of Rathgen’s work, described his own
+method of conserving tablets in one of his reports home (15.1.1923), preserved in the central
+archive of the British Museum. I am indebted to Birger Helgestad for an extract and for drawing
+myattentiontothephotographsinFigs.5and8:
+Tabletscontinuetoturnupinconsiderablenumbers.Thesearealmostwithoutexceptionofunbakedclay,
+and after their long burial in damp soil impregnatedwith salts they are generally in a lamentable state,
+difficulttodistinguishfromthesurroundingearthandmoredifficulttoextractfromit,—thoughinthis
+respect our workmen have developed an unexpected and gratifying skill. It is dangerous to handle and
+impossibletocleanthem,astheclayissoftwhiledampandpowderywhendry,andtheywouldcertainly
+decomposeiflefttothemselves.Ihavethereforeadoptedameansofdealingwiththemmoreelaborate,I
+imagine, than has before been attempted in the field, but amply justified by its results. The tablets, as
+found, are packed in tins in dry sand and baked in an improvised kiln heated by fuel oil. The majority
+can, after this baking, be brushed clean and left; if necessary they are treated with hydrochloric acid.
+Thosewhichwerebadlyflakedordisintegratedbysaltactionare,aftercarefulcleaning,joinedtogether
+and solidified with celluloid solution. I send photographs of four tablets, taken at random, before and
+after treatment; that labeled T.T.B. 17 illustrates the action of organic salts in an aggravated form, the
+othersarenormalexamples.
+Analternativeaccountderivesfromavisitor:
+ThiswasanexcitingtimeoncemoreinUroftheChaldees,forundertheflooroftheTempleofNabonidus
+theyhaddiscoveredtheoldhouseofthearchives.Itsroofwasflattenedrightdown,butbeneathwerestores
+ofclaytablets,recordsofeverykindoftransactionofthatday.Astheyweremadeofsoftunbakedclayitwas
+immenselydifficulttogetthemoutwithoutinjuringthem,andonlyspecialArabworkerswerepermittedto
+attemptit.Theselayprostrateontheirfaces,flatontheground,usingasmallpenknife,and,withtheireyes
+screweddownclosetotheirwork,theylookedlikeacrowdofmyopicbookworms.Everynowandthenone
+wouldsignifyatrophyrecovered,whenthePennsylvanianexpert,DrLegrand[sic:actuallyLegrain],would
+carryitoffandlayitgentlyonsandinasmalltincan,tobebakedimmediatelyanddecipheredatonce.
+(Grenfellc.1929:116).
+Theprocedurewasmuchthesame41yearslateratAbuSalabikh;Figs.6–7.
+There are further details in a popular book first published in 1930 (Woolley 1937: 93–94, pls.
+29–31):
+AtUranylumpsofclaylookingliketabletsareliftedfromthegroundstillencasedintheircoveringofearth,
+andarepackedinmetalboxesfilledwithcleansand;aftertheyhavebeenleftforafewdaystogivetheclaya
+chancetodry,theboxesareputintoarough-and-readykilnuntilthekilnsarered-hotandtheclayisturned
+toterracotta.Thenthetabletsaretakenout;theircolourmayhavealtered,whichmatterslittle,buttheyare
+hardandstrong…
+Woolleywasapparentlynotconcernedaboutdesalination.
+Woolley’soil-firedkilnwasprobablythefirstofitskindspecificallyconstructedforfiringtabletsat
+anarchaeologicalsite.Soonafterwards,however,hewasindebtedto“Mr.Bruce,oftheIraqrailways,
+whowhenmylittlehomemadeovenprovedinadequatetothetaskundertookthefiringofalltablets
+found”(Woolley1925:392).WhateveritwasthatBrucedid,aphotographfromthe1928–29season
+showswhathasbynowbecomeanovenofconsiderablecharacter,withitssupplyofoilcomingfroma
+barrelperchedontheroofoverlookingit,Fig.8.AndréParrot(1953:88),whomusthavevisitedmany
+sitesduringhisownworkinIraqin1930–34,ifnotearlier,refersinonebreathtotheuseofafourau
+mazout, an oil-fired kiln, both at Ur and at Tell Asmar, the Diyala site being dug by the Chicago
+OrientalInstitute.
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+188 JULIANEDGEWORTHREADE
+Fig.5 TabletsbeforeandafterfiringandcleaningatUr,1923(Woolley1937:pl.XXXIa–b).Photographs:the
+JointExpedition.
+Fig.6 KhalifaMuhammad(?)ofSherqatcompletingexcavationofAbuSalabikhtablets,readyforremovalby
+RobertBiggsandDianeE.Taylor,1965.Photograph:McGuireGibson
+ThetemperaturereachedinthekilnsatUrmusthavevaried.AlthoughWoolleywroteofturning
+tabletstoterracotta,UrtabletsnowintheBritishMuseumincludesomefromthe1929–30season,
+with museum numbers in the range BM 128926–128961. They looked, at least on inspection in
+March 2015, as if they might still be in the state in which they had arrived, softer than terracotta,
+with grey-black surface colours much like those of tablets from Babylonia brought back by
+Rassam orpurchasedin the 1870s–1890s.Manywill havebeen firedtoahigher temperaturemore
+recently, but some of those at the University Museum may still be in the state in which they left
+thesite,asErleLeichtyhasremarkedthattabletsfromUrweretheonlyonesinthecollectionthat
+had not yet been fired when the kiln used for this purpose since the 1970s fell off a crane and
+brokeafewyearsago.
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM189
+Fig.7 RobertBiggsinspectingAbuSalabikhtabletsafterfiring,1965.Photograph:McGuireGibson
+Fig.8 “BakingclaytabletsatUr[1928–29season].Thetinsarebeingputinafurnaceheatedbyvaporisedoil
+fromthereservoironthehouseroof”(Woolley1937:pl.XXX).Photograph:theJointExpedition
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+190 JULIANEDGEWORTHREADE
+Woolleyalsogaveadescriptionofhisrecordingsystemfortablets.Hedidthisaftersomeofthem
+hadbeenpublished,tohismanifestannoyance,withnorecordoftheirprovenance,andhewishedto
+emphasisethathehimselfhadnotbeenresponsiblefortheomission.
+The tablets could not be given catalogue numbers [excavation U numbers] until they had been cleaned,
+whichnearlyalwaysmeantuntiltheyhadbeenbaked;fieldnotesonthehousesthereforecouldgenerally
+recordonlythefactoftheirdiscovery,theirwhereaboutsinthebuildingandtheapproximatenumberin
+the hoard or room. For each isolated tablet, or for each hoard, the site symbol, the house number and
+the room number were written on a paper which was kept with the specimen or specimens, and for
+bakingthesamedetailswereincisedonpot-sherdsplacedwiththespecimensinthesand-box;whenthe
+baked tablet had been cleaned its catalogue number was inscribed on it and the information on the
+potsherdwascopiedontothecataloguecard.(WoolleyandMallowan1976:xviii)
+SoWoolleywasfullyconsciousoftheimportance,notonlyofkeepingadequaterecordsoftablets
+in the first place but of keeping the records safe. Delougaz (1933: 42–53) also emphasises the
+importance of provenance records. Crawford (1966: 1–2) waswell aware of their vulnerability: “it
+is so easy to lose a slip of paper or return a tablet to the wrong box or shelf”. This has been a
+persistent problem, and firing is onlyone of theways of losing tablet numbers: thus the 1959.1117
+group of tablets acquired by the British Museum from the widow of Chauncy Winckworth were
+presumably from the Ur 1930–31 season (Winstone 1990: 185–87), but even this is not certain
+unlessconfirmedbypublicationoftheircontents.
+Thehigh-temperaturefiringoftabletsinthefield,1927–1949
+The next kiln specifically designed to fire tablets at a high temperature in the field was the one
+constructed for Edward Chiera in December 1927 at Nuzi (the Yorghan Tepe complex, including
+ancientGasur).Itwasa“veryelaborateandbigcrudeoilburningoven”,builtfromancientbricks
+(Richard Starr 1996: 24–26; Lacheman and Maidman 1989: frontispiece). The Nuzi expedition
+was a joint project of Harvard University and the American Schools of Oriental Research. As
+noted above, there was already a kiln at Yale, and the third edition of Rathgen’s book, Die
+Konservierung von Altertumsfunden, had just appeared, recommending high-temperature firing.
+Probably Chieragot the idea directlyor indirectly from Rathgen or Woolley. He does not seem to
+havesoakedthetabletsafterfiring.
+Many tablets had already appeared on the market from Nuzi before 1900 (Gadd 1926: 49–52).
+They had probably not been fired in antiquity but were in reasonable condition, and Chiera did
+not fire the tablets he himself excavated during his first official season in 1925. The condition of
+particular groups of tablets, however, must have depended as always on circumstantial factors,
+whichmadetheexistenceofthekilnconvenient.AsdescribedbyR.Starr(1996:25–26),thetablets:
+weremadeofordinaryclaydriedinthesunandperfectlycapableofstandingallthehandlingthatprivate
+documents,accounts,andrecordswouldget.Butwhenwedigthemoutofthegroundtheyaredampand
+extremelyfragile;infacttheyoftencomeoutbadlybroken,sosomemeansmustbefoundtoputthemin
+permanent form. Consequently we bake them; thus they become small inscribed bricks and almost
+indestructible.
+On the other hand another group found in 1927 consisted of “over 800 tablets almost all in perfect
+condition”.
+TheNuzikilnwasusedtofiretabletsonsiteduringalltheseasonsfrom1927till1931.Dorothy
+Starr(1996:174–77)givesveryfulldetailsoftheprocess,asoperatedin1930.Shealsomentionsthat
+“themodernpotteryofthisregionwillnotstandupundertheintenseheat”,andhow:
+intheearlydays,whenthetechniqueofourfieryfurnacewasbeinginvestigated,onebatchoftabletshad
+beencompletelymelted,alongwiththesurroundingjars,andfusedwiththeembeddingsand.Thattook
+considerable heat. But nowadays we knew better, and the fire was carefully regulated and constantly
+watchedbythefaithfulFathulla.
+Overheating is an unavoidable danger with kilns; much of the 1989 archive from the North-West
+PalaceatNimrudwaslostinthisway(MuayyadDamerji,pers.comm.,12.3.2002;AliYaseen2008).
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM191
+Fig.9 FiringatNippur,1965.RobertBiggscheckswhethertheglassinthepeepholeisbeginningtoclear,while
+MuhammadJodahcheckswhethertheflameneedsfuel.Photograph:McGuireGibson
+D.Starrmentionsa“tinywindowofglass”setintothedoorofthekiln,butshedoesnotseemto
+mentiontheuseofcones,asemployedbyRathgen;theseweresurelynotavailableinthemarketin
+Baghdad but could have been specially imported. While she does not say how Fathulla was
+enabledtojudgetheinternaltemperature,wemayimagineasystemcomparablewiththeonelater
+describedbyVaughnCrawford(1966:6)for measuringthetemperatureatNippur,Fig.9:
+Atthefinalstagetheflamewillbeshootingoutthetopofthemetalpipe.Itisbesttoarriveatthisstageafter
+darkwhenonecanobservetheflameseasily.Whenthetemperaturehasbecomehighenough,thecarbon
+whichcoveredtheinsideoftheglassoverthepeepholewillburnoffaffordingaclearviewofthebowls,now
+almostwhitehot,ontheinsideoftheoven.Assoonastheglassisclearenoughtoseethebowlsinsidethe
+oven,shutthefireoff.Thisburningoffofthecarbonontheglasswastheonlypyrometerusedonthethree
+Nippurovens.
+Remarkably, the person who has come to be widely regarded, at least in the English-speaking
+world,asthepioneeroftheconservationoftabletsbyfiringwasnotHormuzdRassam’sunnamed
+Arab workman, nor Rassam himself, nor Hilprecht, Woolley, Bruce or Chiera, all of whom had
+heatedorfiredtabletsinthefieldbefore1930,letaloneDoubleday,Ready,Budge,Rathgen,Grice
+and Dougherty who had heated or fired tablets in museums, but Pinhas Delougaz, who had been
+an assistant on the excavations at Nuzi in 1928–29. He must have seen tablets being fired there,
+and in 1930–31 he constructed a kiln for the same purpose at Tell Asmar. The critical step taken
+by Delougaz was to publish a pamphlet about the subject which was written in English and
+becamethestandardworkofreference(Delougaz1933).AccordingtoCrawford(1966:1):
+ThefirstbigstepforwardinprocessingclaytabletsinthefieldcameduringtheexcavationsoftheOriental
+Institute of the University of Chicago in the Diyala region near Baghdad some thirty years ago. The
+technique suggested then was the use of a simple furnace for thebaking of inscribed clay tabletson the
+site of the excavation itself soon after they were unearthed. All American expeditions working in the
+NearEastsincethattimehavecontinuedalongthelinessetforthbyDelougaz.
+Delougaz’s pamphlet included clear illustrations and detailed practical instructions on the
+excavation, conservation and recording of tablets, on the construction and operation of the kiln
+itself,andonfinalcleaning sothatthetabletsshould belegible.He advocatedthemeasurementof
+temperature by the use of cones, like Rathgen, but the firing of tablets at 1500–1600° C, a
+temperature much higher than Rathgen’s. He adds, however, that “when baking valuable tablets it
+is better not to reach the highest temperature”; this implies the recognition of some risk, without
+specifyinghowheassessedvalue.Delougazdescribeshisprocedures,whichdonotincludesoaking
+after firing, almost as if they were his own invention. The one group of people he does credit are
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+192 JULIANEDGEWORTHREADE
+the British troops who are said to have devised the method of combustion used in these kilns, by
+droppingwaterontohotcrudeoil.
+Parrot(1953:88),whoworkedatMariinSyriaandbeganfindingsubstantialnumbersoftabletsin
+1935,alsofiredthemtoahightemperature.Hisarrangementwas“plussimple”thantheoneshehad
+seenatUrandAsmar,butwasstillclaimedtogiveexcellentresults.Thetabletswereplacedflatin
+petrol cans, in layers separated by sand. The canswere placed in a quadrangular furnace made of
+ancient bricks, with brushwood as the fuel in a hearth underneath. The fire was kept going for
+several hours. The tablets had been soft, but after cooling they were now hard as stone, “dures
+comme la pierre”, ready to travel safely from Syria to France. Parrot too does not mention
+desalination, which was probably not a pressing requirement. According to Lamia Al-Gailani
+Werr(pers.comm.,2015),Muhammad AliMustafa,whenhewasdigging atTellHarmalandTell
+al-Dhiba’i on the edge of Baghdad during 1945–49, would also pack tablets in petrol cans with
+sandandfirethematthesite.Thefuelisunspecified,buttheproceduresoundssimilartoParrot’s.
+IamgratefultoCécileMichel(pers.comm.,23.2.2015)forsummarizingwhatlaterhappenedto
+theMaritablets.TheytravelledfirsttotheLouvre,thentoaLoirechateauduringtheSecondWorld
+War,thenbacktotheLouvre,thentothebasementoftheCollègedeFrancebeforemovingtoRue
+Geoffroy Lannier and Rue de la Perle, beforebeing sent back to Damascus some years ago. Also,
+during the 1980s, the Mari team proceeded to firing (by arrangement with the Sèvres porcelain
+factory), cleaning, joining and marking the tablets, aswell as to systematic photographic coverage
+using the procedures introduced by David Owen. The Sèvres firing implies that some of Parrot’s
+tabletsstillneededtreatment.
+Thetreatmentoftabletsinthefield,1949–80
+TheillustrationspublishedbyDelougazoftheTellAsmarkilnprovidedaconvenientmodelafterPenn
+andChicagoresumedexcavationsatNippurin1948.Originally,asMacGibsonwrites(pers.comm.,
+23.2.2015, 29.9.2015, 8.2.2016), the men operating the kiln and providing continuity were Abdullah
+Sultan, whowas major domo of the Nippurdig-house, and a Sherqati who hadworked as aboy in
+the Tell Asmar dig-house. There was a succession of epigraphists—Jacobsen, Steele, Goetze,
+Crawford, Biggs. In 1964–65 Muhammad Jodah, a local man from the hamlet nearest to Nippur,
+workedformonthswithBiggsandbecameanexpertintabletfiring,assistingotherepigraphistswho
+camelater.Crawford(1966:2–7,pls.I–IV)eventuallyrevisedtheDelougazsystemandpublishedhis
+own recommendations for kiln construction and organisation, again with detailed practical
+instructions and illustrations. He did not have apyrometer, but measured by appearance, as quoted
+above.“AtNippurtabletsfiredforthecorrectamountoftimeandattherighttemperaturecameout
+of the sand pink in colour. Underfired tablets were a dirty grey; overfired tablets white or green”
+(Crawford 1966: 6–7).In the 1970sGibsonat lastintroduced the practice, whentherewassufficient
+time, of desalinating tablets by soaking after firing, before final repairs; this required distilledwater,
+onlyobtainablefromBaghdad,anditcouldnotbedoneasthoroughlyasdesired.
+Upto1966therehadbeenthreesuccessivekilnsatNippur.BobBiggshimselfaddedtoandrefined
+theCrawfordfiringprocedure(pers.comm.,25.2.2015,29.9.2015).TabletswerealsotakenfromAbu
+SalabikhforfiringatNippurin1963and1965;in1965Biggsbuiltasecondkiln(neartheoldShergati
+houseandstoragesheds)sothathecouldfireeveryday.In1977anothernewkilnwasbuiltnearthe
+Nippur dig-house, Fig. 10, where tablets and impressions were fired every season until foreign
+archaeological work in Iraq was halted after Saddam’s invasion of Kuwait in 1990. Biggs also
+builtakilnatal-Hibawherehebakedtabletsandsealingsin1968–69and1970–71.
+Crawford(1966:7–9,pls.V–VII)advisedthat,afterbaking,cleaningshouldbecontinuedbyuseofa
+sand-blastinggun,amethodinventedonsitein1951–52byHarryWhitney,ratherthanbytraditional
+toolssuchasabrushandsharptool.CrawfordillustratesthegunbeingusedbyAlbrechtGoetze,and
+GibsontellsmethatitcontinuedtobeusedatNippuruntiltheearly1970s,butitwasnotgreatlyneeded
+becausetherewasnotthatmuchsurfacesalttoremove.BothCrawfordin1963andBiggsin1965used
+the sand-blaster on some of the Abu Salabikh tablets, which were more thickly encrusted with salt
+deposits, and Biggs againusedit on some ofthe tablets and sealings at al-Hiba. At Nippurthe gun
+was “attached to the type of automobile tyre pump which uses the auto engine as its source of
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM193
+Fig.10 ConstructionofanewtabletkilnatNippur,1977.Fromlefttoright:JabbarNasr,expeditiondriver;
+AbdaSadaAbid,alocalpickmanlaterpromotedtoforeman;professionalbuilderapplyingmudplaster.
+Photograph:McGuireGibson
+power”, but at al-Hiba it was “hooked up to the motor of one of the motorboats that were our
+connectionstothetownofShatra”(Biggs,pers.comm.,29.9.2015).
+TheGermansexpeditiontoWarka,incontrast,firedtabletsnotatthesitebutinanelectrickilnat
+theirInstituteinBaghdad.ThisatleastiswhereHermannHungerrecallsfiringtabletsin1969(pers.
+comm.,17.3.2015),andthesamekilnwasusedtofiresomeNuzitabletsbelongingtotheIraqMuseum.
+MaxMallowanrenewedBritishexcavationsatNimrudin1949,andinduecoursebegantofind
+tablets.AsdescribedbyDavidandJoanOates(2001:195),oneorbothofwhomwerepresentduring
+allthe1952–62seasons:
+byfarthemajorityofcuneiformtabletsatNimrudhavesurvivedintheiroriginalunbakedstate.Theseare
+oftencrumbly,andfullofsalt,andarenoteasytoexcavateevenwiththetechniquesofmodernarchaeology.
+Thesurfaces,moreover,areoftendamagedandextremelydifficulttocleanwithoutcausingfurtherloss.
+TheBritishthereforebuiltakilnatNimrudin1952.Thedesignwasimprovisedbythedigarchitect,
+JohnReid,forCyrilGadd,theBritishMuseumepigraphistwhohadjustvisitedNippurandseenthe
+kiln there (Mallowan 1977: 282–83). No technical description seems available, but it was on the
+eastern side of the dig-house; the chimney had to be rebuilt beforeit would draw properly. Agatha
+Mallowan wrote a ballad, doggerel but informative, about the first successful firing. One verse
+goes: “At dawn the Young Epigraphist/ Obediently did rise,/ Broke down the door and sorted out/
+Tablets of every size/ Holding a pocket-handkerchief/ Before his smoke-grimed eyes”. In 1962 the
+kilnwasnolongerinuse,andtabletsfromlaterexcavationswenttotheIraqMuseumforfiring.
+GaddalsosawWhitney’ssand-blastingdeviceinuseatNippurin1952.“Thisclearlyinspired[him]
+to adopt a similar sand-spraying method which he later demonstrated in a film taken by Agatha
+Christie [Mallowan]”(McCall2008:68),cf.Fig.1.Similarly,Walker(2008:256)has“heardpeople
+like Harry Saggs telling me of their weird andwonderful experienceswith the sand-blaster used to
+cleanthetablets”atNimrud.Plenderleith(1956:321–23)recordedsoonafterwardsthat:
+theold-fashionedmethodsofsurfacecleaningsuchaspickingwithaneedleortreatingthebakedtablets
+with hydrochloric acid are now out of date for routine purposes, although they may still be useful on
+occasion. These methods have been largely superseded by the sand-blasting technique… A useful
+portableformoftheapparatushasbeendevisedintheBritishMuseumlaboratory.
+He illustrates the apparatus, and it is presumably one made at Gadd’s request as avariant of the
+Nippur model and taken to Nimrud, but I have not encountered any further record of its use
+either there or in the British Museum itself. The method may have been discarded because of the
+need for power and compressed air, and because poor control could easily have caused irreparable
+damage.
+The young epigraphist of Agatha’s Nimrud balladwasSaggs, who came to Rimah in 1965 and
+built another kiln in open ground north of the temple, Fig. 11. I listened to long discussions of its
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+194 JULIANEDGEWORTHREADE
+Fig.11 AbandonedtabletkilnatRimah,1967,withtheOldBabyloniantemplemoundandziggurratbeyond.
+Photograph:J.D.Hawkins
+design,whichwasbasedontheNimrudorNippurkilnalthoughnodrawingsofeitherwereavailable,
+butahighwindblewupduringthefirstexperimentalfiring,thetestclaywasvitrified,andthiskiln
+wasneverusedagain.TherewasaplantofiresomeoftheRimahtabletsattheUniversityMuseum
+(Oates1965:75),butitseemsthatultimatelytheywereallfiredandcleanedattheBritishMuseumor
+atthe Iraq Museum (Sollberger1976:v). The Iraq Museum facilities for treating tabletswere fully
+described by Ali Al-Naqshbandi (1973). He was using a maximum temperature of 1380° F, or
+about 750° C, together with the customary cleaning and soaking procedures involving water,
+hydrochloricacidandawoodentool.
+Al-Naqshbandi adds that tablets were impregnated at the end with a solution of nitrocellulose
+(cellulose nitrate); this is unlikely to have penetrated deeply but will have helped consolidate and
+protect the surface. There are miscellaneous other records of the glues, adhesives or consolidants
+used on tablets in the final stage of conservation in the field, Fig. 12. In the nineteenth century
+therewasshellac (Budge 1925: 160), and since 1920 thereseem to havebeen about five substances
+employed, whose identity is partly hidden behind brand-names. Woolley used “celluloid solution”
+at Ur in 1923 (see above), and Field (1929: 7) mentions the use of celluloid at Kish. Leach and
+Tait (2000: 245) refer back to Lucas (1932: 132), who cites a “dilute solution of celluloid” used to
+strengthen Egyptian papyrus; they conclude that Lucas very probably meant “cellulose nitrate
+adhesive”, and the same must have been the case at Ur and Kish. Delougaz (1933: 54–55) equally
+recommendsasolution ofcelluloid, whichwas“easilyobtainedfrom waste photographic films, by
+placing them in hot water and then scraping off the gelatin with a knife”; alternatively it was
+“easilyprocurablereadyforuseundervariousnames(e.g.Ambroid)”.Delougazalsoexplainshow
+to prepare and apply it. Among other substances whose use on tablets is mentioned in reports of
+the period, paraffin wax and plasterof Paris areperennials, while in the 1930swehavespermaceti
+wax from whales (Parrot 1953: 89) and polyvinyl acetate or PVA (Packard 1939). In the 1940s
+there is Vinyl Seal (Parkinson 1950), in the 1950s and 1960s “a nitrocellulose adhesive such as
+Durofix” (Plenderleith 1956: 323) or “acetone-solvent glues such as Duco Cement or Ambroid”
+(Crawford 1966: 10), i.e. still cellulose nitrate, and polyvinyl acetate again (Dowman 1970: 65–68,
+123), which is what we used as a consolidant for general use at Nimrud, Rimah and Taya in the
+1960–70s. As an adhesive at Rimah and Taya we preferred the HMG brand of cellulose nitrate;
+thetabletsdidnotrequireconsolidation.
+Whilethispaperdoesnotcontinuethestoryoftablettreatmentinthefieldbeyondthe1970s,itis
+desirabletomakeasingleexception.Thecomprehensiveaccount(Roaf2004)oftheexcavationand
+firingoftheentirecontentsofajarofMiddleAssyriantabletsfoundin2000atGiricanoontheUpper
+Tigrisshouldberequiredreadingforanyoneexpectingtoexcavatetabletsinfuture.
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM195
+Fig.12 Selmaal-RadhicompletingworkonAbuSalabikhtabletsatNippur,1965.Photograph:McGuire
+Gibson
+ThetreatmentoftabletsattheUniversityofPennsylvaniaMuseumandtheBritishMuseum,1945–80
+Parkinson (1950) describes the treatment of tablets at the University Museum. His paper is an
+impressive piece of work, outlining in three concise pages the procedures for firing tablets to his
+own preferred temperature of 850° C, together with his ideas on the chemistry of desalination—
+almost fifty years before the same theme was addressed by Thickett and Brookes (1998).
+Parkinson’s study should have been a major contribution to understanding how tablets should or
+could be conserved, but instead therewasyet anotherbreakin the transmission of knowledge and
+experience.Hiskiln“wasquitetiny,andheldonlyafewtabletsatatime”(Guinanetal.1976:43),
+so that the amount of work he could do was limited, and he published his paper in The Museum
+News, a journal that is now difficult even to identify. I obtained a copy by the good offices of
+Grant Frame at the University Museum (20.3.2015), which had published it, but he tells me of at
+least three other US journals of the same name—from the Brooklyn Museum, the American
+AssociationofMuseums(Washington),andamuseumattheUniversityofSouthDakota.
+So the introduction in 1955 of a new firing programme for tablets at the British Museum was
+almost a fresh departure. The principle was straightforward, as enunciated by Plenderleith, still
+head of the Research Laboratory, which supervised the installation, in his standard book on
+conservation (Plenderleith 1956: 320–21). “As it is impossible to judge by inspection what heat
+treatment a cuneiform tablet has been given in antiquity, the first requirement is a controlled
+rebaking of the old tablet in order to convert it into brick”. He had cited Rathgen (1926) in his
+own 1934 book, and Gadd must have told him about the Nippur kiln in 1952, but the only
+reference Plenderleith makes to previous work in his own brief account of the new British
+Museum programme, where tablets were fired to 750° C, is to Delougaz (1933); he regarded the
+latter’s advocacy of a final heating temperature as high as 1,500–1,600° C as “unnecessary and
+undesirable”.
+The background to the new British Museum programme is that, during the Second World War
+(1939–45), many museum items were again stored away from the site (Wilson 2002: 249–51). I
+have not located a list of which items were removed, but some of the departmental archives have
+suffered water damage, which I was once told happened at this time, and tablets must have
+travelled too. This accords with what is said in the obituary of Cyril Bateman, Senior
+Conservation Officer in the department (Walker 2011): “part of the tablet collection had
+deteriorated and had to be written off as a result of poor wartime storage conditions”. The term
+“written off” is odd, as some tablets classified in this category, that are still kept in store, suffer
+from severebut hardly terminal salt efflorescence. Bateman, whowas responsible for handling the
+collections and musthavebeen wellaware of such issues,“came upwith the idea ofbaking tablets
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+196 JULIANEDGEWORTHREADE
+tostrengthenthemandsoakingtheminwatertoremovethedamagingsalts”.Theultimateintention
+was apparently to fire the entire collection which now included, besides the nineteenth-century
+tablets,manyfromexcavationsatUrandothersitesdugintheinterwarperiod.
+The procedure now introduced at the British Museum was described in great detail by Robert
+Organ (1961). An existing bathroom was converted to a workroom; the very fact that this
+change was approved, at considerable inconvenience to female staff and visitors, indicates how
+much importance was attached to the project (British Museum Trustees Minutes, 10.7.1954).
+The tabletswere baked to 750° C, which was thought to be just above the minimum required to
+ensure conversion of the clay to terracotta, with the least possible alteration in clay colour,
+followed by soaking and/or brushing to remove recalcitrant salts. There is no mention of the
+sand-blaster.Bateman(1966)repeatsmuchofthisinformation,giving700°Casthe temperature
+at which the kiln should be switched off, and addsfurtherpractical guidance on procedures. The
+original aim was to treat 10,000 tablets a year; the total after five years, limited by other
+demands on the operator’s time, turned out to be 14,000. A few years later, according to
+Bateman (1966: 12), the “small workshop is now set up on factory lines which enables one
+techniciantodealwithasmanyas5,000tabletsayear”.Sollberger(1965:ix),withregardtoone
+publication of Ur texts, states: “Mr Bateman has fired and treated the nails and tablets with his
+usual skill, often turning a shapeless lump of clay into abeautiful cuneiform text”. The firing of
+tablets at the museum continued in this way for many years, in the capable hands of Ken
+Uprichardandothers.
+Conclusionsandprospects
+Layard’sinitial optimism overtheimportanceofclaytablets inscribed in cuneiform asartefacts of
+historic importance was more than justified by experience. There have been persistent differences
+of opinion, however, about how to treat them. It is broadly the case that archaeologists like their
+tablets recorded, epigraphists like them legible, and conservators like them stable; collectors and
+curators have any number of likes and dislikes. The priorities are not contradictory, but they are
+divergent. Insistence on specialised agenda, without proper communication, has periodically
+resultedinafailuretoseethewoodforthetrees.
+For a long time it remained customary to distinguish between archaeological and epigraphic
+studies as if they were independent fields of study, and to treat cuneiform tablets as if they were
+plates in a book rather than artefacts in their own right. There are innumerable examples of
+primary publications of tablets, where the handwriting and identity of the ancient scribe may be
+significant, but all we can recognise is the style and identity of the modern copyist; where legal
+contracts were once guaranteed with seal-impressions, but the cuneiform is published without the
+seal-impressions, or the seal-impressions without the cuneiform; where the cuneiform is translated
+in a code only comprehensible to specialists; where the shape of the copy is different from the
+shape of the tablet; where we are not told the colour of the clay and whether it was fired in
+antiquity; and so on and so forth. These features were common up to the mid-twentieth century,
+and in some circles some of them persist. They can be understandable, but they mean that the
+publicationsareinadequate,andthatsomeoneelsewillhavetolookatthetabletsagain.
+Ontheotherhand,iftabletsaretreatedasartefacts,ifanalyticandtypologicalstudiesaredevoted
+to their materials, methods of manufacture, ownership, usage, provenance and other elementary
+characteristics,and ifthese resultsareintegratedwith theresults ofreadingthetexts,thenmoreof
+the information embodied in the tablets becomes available to everyone. Problems are diminished
+or eliminated, and specialists in distinct fields communicate in sometimes unexpectedly
+constructiveways.Nowadaysthisiswidelybutstillnotuniversallyaccepted.
+Thephysicaltreatmentoftabletshasfollowedapeculiartrajectory,withtheindependentevolution
+ofseveralprocesses,pioneeredbyJohnDoubledayattheBritishMuseumbefore1855.Thepriority
+was to make tablets legible, and perhaps to strengthen them. Robert Ready, who was active in the
+British Museum from 1859 on, was the first person able to do this reliably, almost certainly
+applying heat in some way, followed by hydrochloric acid. A process that involved heating tablets
+in hot ash, so that they were fit for travel and sale, was invented by an anonymous Arab in the
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM197
+Babylon region in the 1860s or 70s. A comparable system of heating tablets in a sand-bath to a
+temperatureof150°C,asrecommendedbyBritishMuseumscientists,wasofficiallyadoptedthere
+during1895–1915.
+Amoredrasticprocesswasdeveloped,throughaseriesofexperimentsbeginninginthe1890s,by
+Friedrich Rathgen of the Royal Museums in Berlin. His purpose was not merely cleaning or
+consolidation but long-term conservation. He heated tablets in a kiln to various temperatures,
+eventually settling on 600° C as the best; this transformed clay to terracotta. He then used
+hydrochloric acid to clean the tablets, and soaked them in distilledwater to remove residual salts.
+Rathgen expounded his method in a series of publications in German. The final edition of his
+majorbook,DieKonservierungvonAltertumsfunden,appearedin1926.
+Similar methods,presumablybasedonRathgen’sthoughthisisnotusuallyacknowledged,were
+adoptedatOxford(1923),Yale(1926),Istanbul(1935),theUniversityMuseum,Philadelphia(before
+1950), the British Museum (1955), the Iraq Museum (1973), and doubtless elsewhere, perhaps
+including Strasbourg (1913). In the field high-temperature firing for freshly excavated tablets was
+introduced by Woolley at Ur (probably in or soon after 1922, certainly before 1930), and was
+practised at Nuzi (from 1927), Asmar (from 1930), Mari (from 1935), Harmal and Dhiba’i (from
+about 1945),Nippur (from1949),Nimrud(from1952),andal-Hiba (from1968).However,tablets
+in the fieldwere not soaked to remove salts until Gibson introduced this practice at Nippur in the
+1970s.AnotherNippurinnovation(1951)wastheuseofasand-blaster,insteadoftraditionaltools
+like pins and brushes, for final cleaning of the surface of tablets, but this was not adopted as
+extensivelyasonceexpected.
+By 1970 there was abroad consensus about what should be done with most cuneiform tablets,
+whether on excavations or in museums. Unless they were in excellent condition or were already
+fired, they should be fired. Archaeologists, epigraphists, conservators and curators were generally
+content, and the fact that firing turned a soft vulnerable lump of clay irreversibly into stable
+terracotta was regarded as positive and advantageous. Nowadays this would still be widely
+accepted. There is also, however, the alternative view that all conservation practices should be
+reversible,andthatthefiringofanunfiredtablet,transforminganoriginalartefactintoasouvenir
+ofitself,isnotmerelymistakenbutwrong.
+Onethemebrieflymentionedabovehasbeenthepublicationofcuneiformtablets,whichhashad
+as chequered a history as their conservation. The most appropriate methods of printing and
+publication have been discussed interminably, but the advent of processes like three-dimensional
+printingwillhopefullyrender manyofthediscussionsobsolete.
+Thispaperhasdescribedsomeofwhathashappenedwithtabletsuptoabouttheyear1980.Itdoes
+notpretendtobecomplete,asaproperstudyofthesubjectcouldfillalongbook.Thatwouldentail
+checking innumerable other sources relating to the manufacture, use, burial, storage, excavation,
+dispersal and publication of cuneiform tablets. There also exist published and unpublished
+descriptions of the treatment of tablets at various archaeological sites and museums, which might
+add significantly to the information collected here. There seems to be less information than might
+be expected, however, as on the whole it has not been customary, at least for those studying the
+ancient Middle East, to describe their ideas and practical procedures in anygreat detail. We have
+thesameexperiencesoverandoveragain,andarerepeatedlyreinventingthewheel.
+Bibliography
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+AliYaseen,Ahmad.2008.Thearchiveofapalacescribeandotherofficialsinthequeen’shouseholdfromthe
+North-WestPalaceatKalhu(Nimrud).Pp.271–72inJohnE.Curtisetal.(eds.),NewLightonNimrud:
+ProceedingsoftheNimrudConference11th–13thMarch2002.London(BritishInstitutefortheStudyof
+Iraq;BritishMuseum).
+Al-Naqshbandi,Ali.1973.TheIraqMuseumLaboratory,Baghdad.StudiesinConservation18:36–42.
+Al-Rawi, Farouk N. H., and Andrew R. George. 1990. Tablets from the Sippar Library: II. Tablet II of the
+BabylonianCreationEpic.Iraq52:149–57.
+Anon.1913.Note.SprechsaalfürKeramik,Glas,Email,Silikate46:708.Coburg.
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+198 JULIANEDGEWORTHREADE
+Aruz, Joan, Kim Benzel, and Jean M. Evans (eds.). 2008. BeyondBabylon: Art, Trade andDiplomacy in the
+SecondMillenniumB.C.NewYork(TheMetropolitanMuseumofArt);NewHaven/London(Yale
+UniversityPress).
+Bateman, Cyril A. 1966. The treatment of cuneiform tablets in the British Museum. Pp. 12–17 in Cyril, A.
+Bateman et al., Preservation and Reproduction of Clay Tablets and the Conservation of Wall
+Paintings.London(BernardQuaritch).
+Bezold,Carl.1889–99.CatalogueoftheCuneiformTabletsintheKouyunjikCollectionoftheBritishMuseum.5
+vols.London(BritishMuseum).
+Biggs,RobertD.1974.InscriptionsfromTellAbuSalabikh(OrientalInstitutePublications,99).Chicago/London
+(UniversityofChicagoPress).
+Blackman,M.James.2003.Chemicalcharacterizationoftablets,sealingclays,andclaysourcesfromTellLeilan,
+Syria. Pp. 455–69 in Elena Rova and Harvey Weiss (eds.), The Origins of North Mesopotamian
+Civilization:Ninevite5Chronology,Economy,Society(Subartu,9).Turnhout(Brepols).
+Borger,Rykle.1991.EinBriefSîn-idinnamsvonLarsaandenSonnengottsowieBemerkungenüber“Joins”und
+das “Joinen”. Nachrichten der Akademie der Wissenschaften in Göttingen, I. Philologisch-historische
+Klasse(1991,Nr.2):39–81.Göttingen(Vandenhoeck&Ruprecht).
+Budge,ErnestAlfredThompsonWallis.1920.ByNileandTigris.2vols.London(JohnMurray).
+——1925.TheRiseandProgressofAssyriology.London(MartinHopkinson).
+Campbell Thompson, Reginald and Richard W. Hutchinson. 1929. A Century of Exploration at Nineveh.
+London(Luzac).
+CampbellThompson,Reginald,andMaxE.L.Mallowan,1933.TheBritishMuseumexcavationsatNineveh,
+1931–32.AnnalsofArchaeologyandAnthropology20:71–186.
+Cartwright,Caroline,andJonTaylor.2011.Investigatingtechnologicalandenvironmentalevidencefromplant
+remainsandmolluscsincuneiformtablets.TheBritishMuseumTechnicalResearchBulletin5:67–72.
+Crawford,VaughnE.1966.Processingclaytabletsinthefield.Pp.1–17inCyrilA.Batemanetal.,Preservation
+andReproductionofClayTabletsandtheConservationofWallPaintings.London(BernardQuaritch).
+Curtis,JohnE.,andJulianE.Reade(eds.).1995.ArtandEmpire:TreasuresfromAssyriaintheBritishMuseum.
+London(BritishMuseumPress).
+Dalley,Stephanie,ChristopherB.F.Walker,andJ.DavidHawkins.1976.TheOldBabylonianTabletsfromTellal
+Rimah.London(BritishSchoolofArchaeologyinIraq).
+Delougaz,Pinhas.1933.I.Plano-ConvexBricksandtheMethodsoftheirEmployment.II.TheTreatmentofClay
+TabletsintheField(StudiesinAncientOrientalCivilization,7).Chicago(UniversityofChicagoPress).
+Dowman,ElizabethA.1970.ConservationinFieldArchaeology.London(Methuen).
+Eidem,Jesper.2002.Theclaytheywroteon—OldBabylonianlettersasartefacts.Pp.74–81inLamiaAl-Gailani
+Werretal.(eds.),OfPotsandPlans:PapersontheArchaeologyofMesopotamiaandSyriapresentedto
+DavidOatesinhonourofhis75thBirthday.London(Nabu).
+Evans,SirArthur.1935.ThePalaceofMinos:aComparativeAccountoftheSuccessiveStagesoftheEarlyCretan
+CivilizationasIllustratedbytheDiscoveriesatKnossos,Vol.4/2.London(Macmillan).
+Fales,FrederickMario.1987.Neo-AssyriantextsandfragmentsfromCopenhagen.StateArchivesofAssyria
+Bulletin1:18–25.
+——2015.Editorial:twentyvolumesofNeo-Assyrianstudieslater…StateArchivesofAssyriaBulletin20:1–31.
+Field,Henry.1929.TheFieldMuseum-OxfordUniversityExpeditiontoKish,Mesopotamia1923–1929.Chicago
+(FieldMuseum).
+Finkel,IrvingL.2013.TheCyrusCylinder:theBabylonianperspective.Pp.4–34inIrvingL.Finkel(ed.),The
+Cyrus Cylinder: the King of Persia’s Proclamation from Ancient Babylon. London/New York (I.B.
+TaurisinassociationwithTheIranHeritageFoundation).
+Finkel,IrvingL.,andJonathanTaylor.2015.Cuneiform.London(BritishMuseum).
+Foster,BenjaminR.2006.ThebeginningsofAssyriologyintheUnitedStates.Pp.44–73inStevenW.Holloway
+(ed.),Orientalism,AssyriologyandtheBible.Sheffield(PhoenixPress).
+—— 2013. Albert T. Clay and his Babylonian Collection. Pp. 121–35 in Billie Jean Collins and Piotr
+Michalowski(eds.),BeyondHatti:aTributetoGarryBeckman.Atlanta(LockwoodPress).
+Gadd,CyrilJ.1926.TabletsfromKirkuk.Revued’Assyriologieetd’ArchéologieOrientale23(2):49–161.
+Gibson,McGuire.1972.Thearchaeologicalusesofcuneiformdocuments:patternsofoccupationatthecityof
+Kish.Iraq34:113–23.
+Gilberg, Mark. 1987. Friedrich Rathgen: the father of modern archaeological conservation. Journal of the
+AmericanInstituteforConservation26(2):105–20.
+Goren,Yuval,IsraelFinkelstein,andNadavNa’aman.2002.PetrographicinvestigationoftheAmarnatablets.
+NearEasternArchaeology65:196–205.
+Grayson,A.Kirk,andJamieNovotny.2014.TheRoyalInscriptionsofSennacherib,KingofAssyria(704–681
+BC), Part 2 (The Royal Inscriptions of the Neo-Assyrian Period, 3/2). Winona Lake, Indiana
+(Eisenbrauns).
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM199
+Grenfell,SirWilfredThomason.N.D.(c.1929).LabradorLooksattheOrient:NotesofTravelintheNearandin
+theFarEast.London(Jarrolds).
+Guinan,Ann,GaryOller,andDorothyOrmsby.1976.Nippurrebaked:theconservationofcuneiformtablets.
+Expedition18/3:42–47.
+Gurney,OliverR.1952.TheSultantepetablets:apreliminarynote.AnatolianStudies2:25–35.
+Gurney, Oliver R., and J. J. Finkelstein. 1957. The Sultantepe Tablets, Vol. 1. London (British Institute of
+ArchaeologyatAnkara).
+Hall,HarryReginaldHolland.1930.ASeason’sWorkatUr.London(Methuen).
+Heuzey,Léon.1912.LesconstructionsdeTellod’aprèslesfouillesd’ErnestdeSarzec:notescomplémentaires.
+Pp.395–449inErnestdeSarzec,DécouvertesenChaldée(1884–1912).Paris(ErnestLeroux).
+Hilprecht,HermannVolrath.1903.ExplorationsinBibleLandsduringtheNineteenthCentury.Edinburgh(T.&
+T.Clark).
+Hogarth,DavidGeorge.1923.ReportoftheKeeperoftheAshmoleanfortheyear1923.Pp.1–3inReportofthe
+VisitorsoftheAshmoleanMuseumofArtandArchaeology,1923.Oxford(OxfordUniversityPress).
+Hunger,Hermann.1970.DasArchivdesNabû-ušallim.BaghdaderMitteilungen5:193–304.
+Jeyes,Ulla.2000.Gall-bladderomensextantinMiddleBabylonian,NinevehandSeleucidversions.Pp.345–73
+inAndrewR.GeorgeandIrvingL.Finkel(eds.),Wisdom,GodsandLiterature.StudiesinAssyriology
+inHonourofW.G.Lambert.WinonaLake,Indiana(Eisenbrauns).
+Johns,ClaudeHermannWalter.1911.AListoftheYear-NamesUsedtoDatetheYearsoftheFirstDynastyof
+Babylon…,PartI.Cambridge(A.P.Dixon).
+Kelly,Amanda.2011.ANeo-AssyrianreliefintheWeingreenMuseumofBiblicalAntiquities,TrinityCollege
+Dublin—acasestudyinartefactacquisition.ProceedingsoftheRoyalIrishAcademy112C:1–33.
+King,LeonardW.1914.CatalogueoftheCuneiformTabletsintheKouyunjikCollectionoftheBritishMuseum:
+Supplement.London(BritishMuseum).
+Kraus,FritzRudolf.1947.DieIstanbulerTontafelsammlung.JournalofCuneiformStudies1:93–119.
+Lacheman,ErnestR.,andMaynardP.Maidman.1989.JointExpeditionwiththeIraqMuseumatNuziVII:
+Miscellaneous Texts (Studies in the Civilization and Culture of Nuzi and the Hurrians, 3). Winona
+Lake,Indiana(Eisenbrauns).
+Lambert,WilfredG.1957.ThreeunpublishedfragmentsoftheTukulti-NinurtaEpic.ArchivfürOrientforschung
+18:38–51.
+——1965.AMiddleAssyriantabletofincantations.Pp.283–88inHansG.GüterbockandThorkildJacobsen,
+(eds.),StudiesinHonorofBennoLandsbergeronhisSeventy-FifthBirthdayApril211965(Assyriological
+Studies,16).Chicago(OrientalInstitute).
+—— 1992. Catalogue of the Cuneiform Tablets in the Kouyunjik Collection of the British Museum: Third
+Supplement.London(BritishMuseumPress).
+Lambert,WilfredG.,andAlanR.Millard.1966.CatalogueoftheCuneiformTabletsintheKouyunjikCollection
+oftheBritishMuseum:SecondSupplement.London(BritishMuseum).
+Layard,AustenHenry.1849.NinevehanditsRemains.2vols.London(JohnMurray).
+——1853.DiscoveriesintheRuinsofNinevehandBabylon.London(JohnMurray).
+Leach,Bridget,andJohnTait.2000.Papyrus.Pp.227–53inPaulT.NicholsonandIanShaw(eds.),Ancient
+EgyptianMaterialsandTechnology.Cambridge(CambridgeUniversityPress).
+Loftus,WilliamKennet.1857.TravelsandResearchesinChaldaeaandSusiana.London(JamesNisbet).
+Lucas,Alfred.1932.Antiquities:theirRestorationandPreservation.London(EdwardArnold).
+McCall,Henrietta.2008.MaxMallowanatNimrud.Pp. 65–72in JohnE.Curtis etal.(eds.),NewLighton
+Nimrud:ProceedingsoftheNimrudConference11th–13thMarch2002.London(BritishInstitutefor
+theStudyofIraq;BritishMuseum).
+Maidman,MaynardP.1999.TheUniversityofChicagoNuzitexts:historyandprospects.Pp.25–34inDavidI.
+OwenandGernotWilhelm(eds.),NuziatSeventy-Five(StudiesintheCivilizationandCultureofNuzi
+andtheHurrians,10).Bethesda,Maryland(CDLPress).
+Mallowan,MaxE.L.1947.ExcavationsatBrakandChagarBazar.Iraq9:1–259.
+——1977.Mallowan’sMemoirs.London.
+Millard,Alan.2005.Onlyfragmentsfromthepast:theroleofaccidentinourknowledgeoftheancientNear
+East. Pp. 301–19 in Piotr Bienkowski, Christopher Mee, and Elizabeth Slate (eds.), Writing and
+AncientNearEasternSociety:PapersinHonourofAlanR.Millard.NewYork/London(T.&T.Clark).
+Moorey,P.RogerS.1994.AncientMesopotamianMaterialsandIndustries:theArchaeologicalEvidence.Oxford
+(ClarendonPress).
+Oates,David.1965.TheexcavationsatTellalRimah,1964.Iraq27:62–80.
+——1970.TheexcavationsatTellalRimah,1968.Iraq32:1–26.
+——1976.Introduction.Pp.ix–xviinStephanieDalley,ChristopherB.F.Walker,andJ.DavidHawkins,The
+OldBabylonianTabletsfromTellalRimah.London(BritishSchoolofArchaeologyinIraq).
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+200 JULIANEDGEWORTHREADE
+Oates,David,andJoanOates.2001.Nimrud:anAssyrianImperialCityRevealed.London(BritishSchoolof
+ArchaeologyinIraq).
+Ochsenschlager, Edward L. 2004. Iraq’s Marsh Arabs in the Garden of Eden. Philadelphia (University of
+PennsylvaniaPress).
+Oppenheim,A.Leo.1960.ThecityofAssurin714BC.JournalofNearEasternStudies19:133–47.
+Organ,RobertM.1961.Theconservationofcuneiformtablets.BritishMuseumQuarterly23:52–57.
+Packard,Elisabeth.1939.ThecleaningofaBabyloniantablet.TechnicalStudiesintheFieldofFineArts8:90–97.
+BCINabstractvidi.
+Panayotov,StrahilV.,andCorneliaWunsch.2014.NewlightonGeorgeSmith’spurchaseoftheEgibiarchivein
+1876fromtheNachlassMathewson.Pp.191–215inMarkhamJ.Geller(ed.),Melammu:TheAncient
+WorldinanAgeofGlobalization.Berlin(MaxPlanckInstitutefortheHistoryofScience).
+Parkinson,A.Eric.1950.Thepreservationofcuneiformtabletsbyheatingtoahightemperature.TheMuseum
+News27(17):6–8.Philadelphia(UniversityMuseum).
+Parrot,André.1953.Archéologiemésopotamienne:techniquesetproblèmes.Paris(AlbinMichel).
+Petrie,Flinders.1888.Thetreatmentofsmallantiquities.TheArchaeologicalJournal44:85–89.
+Pickworth,Diana.2005ExcavationsatNineveh:theHalziGate.Iraq67:295–316.
+Plenderleith,HaroldJames.1934.ThePreservationofAntiquities.London(TheMuseumsAssociation).Non
+vidi.
+——1956.TheConservationofAntiquitiesandWorksofArt.1969reprint.London/NewYork/Toronto(Oxford
+UniversityPress).
+Rassam,Hormuzd.1897.AsshurandtheLandofNimrod…NewYork(Eaton&Mains)/Cincinnati(Curtis&
+Jennings).
+Rathgen,Friedrich.1898.DieKonservierungvonAltertumsfunder.Berlin(W.Spemann).
+——1903.KonservierungbabylonischerTontafeln.Chemiker-Zeitung27:811.
+——1904.Altertümerkonservierung.LexikondergesamtenTechnikundihrerHilfswissenschaften,Bd.1:156–59.
+Stuttgart/Leipzig.Source:www.zeno.org.
+—— 1926. Die Konservierung von Altertumsfunden: 1. Teil. Stein und Steinartige Stoffe (Handbücher der
+StaatlicheMuseenzuBerlin).3rdedition.Berlin/Leipzig(WalterdeGruyter).
+Reade,JulianE.1975.SourcesforSennacherib:theprisms.JournalofCuneiformStudies27:189–96.
+——1986a.Introduction.Rassam’sBabylonianCollection:theexcavationsandthearchives.Pp.xii–xxxviin
+Erle Leichty, Catalogue of the Babylonian Tablets in the British Museum, Vol. 6. London (British
+MuseumPublications).
+——1986b.ArchaeologyandtheKuyunjikarchives.Pp.213–22inKlaasR.Veenhof(ed.),CuneiformArchives
+and Libraries (Publications de l’Institut historique-archéologique néerlandais de Stamboul, 57). Leiden
+(NederlandsInstituutvoorhetNabijeOosten).
+——1991.Mesopotamia.London(BritishMuseumPress).
+—— 1992. An early Warka tablet. Pp. 177–79 in Barthel Hrouda et al. (eds.), Von Uruk nach Tuttul: eine
+Festschrift für Eva Strommenger: Studien und Aufsätze von Kollegen und Freunden. München/Wien
+(ProfilVerlag).
+——1998.AssyrianSculpture.2ndedition.London(BritishMuseumPress).
+——2000.Ninive(Nineveh).ReallexikonderAssyriologieundVorderasiatischenArchäologie9(5–6):388–433.
+Berlin/NewYork(WalterdeGruyter).
+——2002a.TheziggurratandtemplesofNimrud.Iraq64:135–216.
+——2002b.Unfiredclay,models,and“sculptors’models”intheBritishMuseum.ArchivfürOrientforschung48–
+49:147–64.
+——2005.TheIshtarTempleatNineveh.Iraq67(=DominiqueCollonandAndrewGeorge,eds.,Nineveh,
+PapersoftheXLIXeRencontreAssyriologiqueInternationale,London,7–11July2003,PartTwo):347–90.
+——2008.Nineteenth-centuryNimrud:motivation,orientation,conservation.Pp.1–21inJohnE.Curtisetal.
+(eds.), New Light on Nimrud: Proceedings of the Nimrud Conference 11th–13th March 2002. London
+(BritishInstitutefortheStudyofIraq;BritishMuseum).
+——2011.Retrospect:WallisBudge—fororagainst?Pp.444–63inMatthewIsmail,WallisBudge:Magicand
+MummiesinLondonandCairo.Kilkerran(HardingeSimpole).
+Roaf,Michael.2004.Theexcavationandconservationofthejarandthetablets.Pp.15–49inKarenRadner,Das
+mittelassyrischeTontafelarchivvonGiricano/Dunnu-ša-Uzibi(Subartu,14).Turnhout(Brepols).
+Saggs,HenryW.F.1968.TheTellalRimahtablets,1965.Iraq30:154–74.
+—— 2001. The Nimrud Letters, 1952 (Cuneiform Texts From Nimrud, 5). London (British School of
+ArchaeologyinIraq).
+Schaeffer,F.-A.1929.LesfouillesdeMinet-el-BeidaetdeRasShamra(CampagneduPrintemps1929):Rapport
+sommaire.Syria10:285–97.
+Shaw,WendyM.K.2003.PossessorsandPossessed:Museums,Archaeology,andtheVisualizationofHistoryin
+theLateOttomanEmpire.Berkeley/LosAngeles/London(UniversityofCaliforniaPress).
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+THEMANUFACTURE,EVALUATIONANDCONSERVATIONOFCLAYTABLETSINSCRIBEDINCUNEIFORM201
+Smith,George.1875.AssyrianDiscoveries;anAccountofExplorationsandDiscoveriesontheSiteofNineveh,
+during1873and1874.London(SampsonLow,Marston,LowandSearle).
+Sollberger,Edmond.1965.UrExcavationTexts,VIII:RoyalInscriptionsPartII.London(BritishMuseum).
+——1976.Editor’sForeword.P.vinStephanieDalley,ChristopherB.F.WalkerandJ.DavidHawkins,TheOld
+BabylonianTabletsfromTellalRimah.London(BritishSchoolofArchaeologyinIraq).
+Starr,DorothyC.S.1996.NorthofBaghdad.Pp.127–238inDavidI.OwenandGernotWilhelm(eds.),Richard
+F.S.StarrMemorialVolume(StudiesontheCivilizationandCultureofNuziandtheHurrians,8).
+Bethesda,Maryland(CDLPress).
+Starr,RichardF.S.1996.Lettersfromthefield,1927–1930.Pp.9–125inDavidI.OwenandGernotWilhelm
+(eds.),RichardF.S.StarrMemorialVolume(StudiesontheCivilizationandCultureofNuziandthe
+Hurrians,8).Bethesda,Maryland(CDLPress).
+Stolper,MatthewW.2007.Kasrtexts:excavated,butnotinBerlin.Pp.241–81inMarthaT.Rothetal.(eds.),
+Studies Presented to Robert D. Biggs, June 4, 2004 From the Workshop of the Chicago Assyrian
+Dictionary,Vol.2(AssyriologicalStudies,27).Chicago(OrientalInstitute).
+Tadmor, Hayim, and Shigeo Yamada. 2011. The Royal Inscriptions of Tiglath-pileser III (744–727 BC) and
+Shalmaneser V (726–722 BC), Kings of Assyria (The Royal Inscriptions of the Neo-Assyrian
+Period,1).WinonaLake,Indiana(Eisenbrauns).
+Taylor,J.2011.Tabletsasartefacts,scribesasartisans.Pp.5–31inKarenRadnerandEleanorRobson(eds.),The
+OxfordHandbookofCuneiformCulture.Oxford(OxfordUniversityPress).
+Thickett,David,andSophieBrookes.1998.InvestigationofWhiteBloomFormedonCuneiformTabletsduring
+Conservation (Conservation Research Group Reports, 1998/10). London (British Museum
+DepartmentofConservation).
+Veenhof,KlaasR.1986.Cuneiformarchives:anintroduction.Pp.1–36inKlaasR.Veenhof(ed.),Cuneiform
+ArchivesandLibraries(PIHANS57).Leiden(NederlandsInstituutvoorhetNabijeOosten).
+Walker,ChristopherB.F.1970.AfoundationinscriptionfromTellalRimah.Iraq32:27–30.
+——1989.BM96573.In:BendtAlsterandC.B.F.Walker,“SomeliterarytextsintheBritishMuseum”.Pp.7–19
+in Hermann Behrens et al. (eds.), DUMU-E2-DUB-BA-A: Studies in Honor of Åke W. Sjøberg.
+Philadelphia(UniversityMuseum).
+——2008.ThearchivesofNimrud.Pp.255–59inJohnE.Curtisetal.(eds.),NewLightonNimrud:Proceedings
+oftheNimrudConference11th–13thMarch2002.London(BritishInstitutefortheStudyofIraq;British
+Museum).
+Walker,ChristopherB.F.2011.CyrilAlbertBateman(July8,1919–April25,2012).ArchivfürOrientforschung
+52:389–90.
+Wilson,DavidM.2002.TheBritishMuseum:aHistory.London(BritishMuseumPress).
+Winstone,H.VictorF.1990.WoolleyofUr:theLifeofSirLeonardWoolley.London(Secker&Warburg).
+Wiseman,DonaldJ.1968.TheTellalRimahtablets,1966.Iraq30:175–205.
+Wiseman,DonaldJ.,andJeremyA.Black.1996.LiteraryTextsfromtheTempleofNabû(CuneiformTextsfrom
+Nimrud,4).London(BritishSchoolofArchaeologyinIraq).
+Woolley,CharlesLeonard.1925.TheexcavationsatUr,1924–1925.TheAntiquaries’Journal5:347–402.
+——1937.DiggingupthePast.Firstpublished1930.Harmondsworth(PenguinBooks).
+Woolley,CharlesLeonard,andMaxE.L.Mallowan.1976.UrExcavations,VII:TheOldBabylonianPeriod.
+London(BritishMuseum).
+Yi-Feng, Yao, Xiao Li, Hong-En Jiang, David K. Ferguson, Francis Hueber, Ruby Ghosh, Subir Bera and
+Cheng-Sen Li. 2012. Pollens and phytoliths from fired ancient potsherds as potential indicators for
+deciphering past vegetation and climate in Turpan, Xinjiang, NWChina. PLOS ONE 7 (6): DOI:
+10.1371/journal.pone.0039780.
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+202 JULIANEDGEWORTHREADE
+JulianEdgeworthReade,
+AffiliatedProfessorofNearEasternArchaeology,
+DepartmentofCross-CulturalandRegionalStudies,
+FacultyofHumanities,
+UniversityofCopenhagen
+julianreade@gmail.com
+ﺔﻳﺪﻴﻠﻘﺗ ﻝﻮﻠﺣﻭ ﻞﻛﺎﺸﻣ :ﺔﻳﺭﺎﻤﺴﻤﻟﺍ ﺔﻴﻨﻴﻄﻟﺍ ﻢﻗﺮﻟﺍ ﺔﺠﻟﺎﻌﻣﻭ ﻢﻴﻴﻘﺗ
+ﺪﻳﺭﺛﺭﺍﻮﺟﺪﻳﺃﻥﺎﻴﻟﻮﺟ:ﻢﻠﻘﺑ
+ﺔﻳﺮﺛﻷﺍ ﻊﻄﻘﻟﺍ ﻦﻋ ﻢﻗﺮﻟﺍ ﻩﺬﻫ ﺖﻗﺮﺘﻓﺍ ﺎﻣ ﺎﺒﻟﺎﻏ ﻦﻜﻟﻭ ،ﺔﻴﻨﻴﻄﻟﺍ ﻢﻗﺮﻟﺍ ﻰﻠﻋ ﺔﻇﻮﻔﺤﻤﻟﺍ ﺕﺎﺑﺎﺘﻜﻟﺍ ﻰﻠﻋ ﺎﺳﺎﺳﺃ ﺪﻨﺘﺴﻳ ﻂﺳﻭﻷﺍ ﻕﺮﺸﻟﺍ ﺦﻳﺭﺎﺗ ﻦﻋ ﺔﻓﺮﻌﻤﻟﺍ
+ﻡ 1850 ﻡﺎﻋ ﺎﻬﻟ ﻝﻭﻷﺍ ﻑﺎﺸﺘﻛﻹﺍ ﺬﻨﻣ ﺔﻴﻨﻴﻄﻟﺍ ﻢﻗﺮﻟﺍ ﻢﻴﻴﻘﺗﻭ ﻊﻳﺯﻮﺗﻭ ﺔﺠﻟﺎﻌﻣ ﺔﻟﺎﻘﻤﻟﺍ ﻩﺬﻫ ﺶﻗﺎﻨﺗ .ﺔﻤﻈﻨﻣ ﺮﻴﻏ ﺐﻗﺍﻮﻋ ﻰﻟﺍ ﻯﺩﺃ ﺎﻤﻣ ﻯﺮﺧﻷﺍ
+ﻲﻓﻭ ﺕﻻﺎﺤﺑ ﺎﻬﻴﻠﻋ ﺮﺜﻋ ﺪﻗ ﻪﻧﺄﺑ ﺎﻤﻠﻋ ﺎﻬﻠﻴﺠﺴﺗﻭ ﺎﻬﻴﻠﻋ ﺔﻈﻓﺎﺤﻤﻟﺍ ﺕﺎﻳﺪﺤﺗﻭ ﺎﻬﺘﻋﺎﻨﺻ ﻕﺮﻃﻭ ﺎﻬﻨﻴﻃ ﺭﺩﺎﺼﻣ ﺪﻳﺪﺤﺗ ﻲﻓ ﺔﻠﻤﺘﺤﻤﻟﺍ ﺎﻳﺍﺰﻤﻟﺍﻭ ﻞﻛﺎﺸﻤﻟﺍﻭ
+ﻒﺤﺘﻤﻟﺍ ﻲﻓ ﺕﺮﺟ ﻲﺘﻟﺍ ﺔﻴﻨﻴﻄﻟﺍ ﻢﻗﺮﻟﺍ ﺮﺨﻓ ﻲﻓ ﻰﻟﻭﻷﺍ ﺏﺭﺎﺠﺘﻟﺍ ﺪﻌﺑ .ﻠﻳﻮﻄﻟﺍ ﻯﺪﻤﻟﺍ ﻰﻠﻋ ﺎﻬﻴﻠﻋ ﻅﺎﻔﺤﻟﺍﻭ ﺎﻬﻔﻴﻈﻨﺗ ﻕﺮﻃ ﻚﻟﺬﻛﻭ ﺔﻔﻠﺘﺨﻣ ﻊﻗﺍﻮﻣ
+ﻦﻜﻳ ﻢﻠﻓ ﻲﺠﻳﺭﺪﺗ ﻞﻜﺸﺑ ﺎﻴﺋﺪﺒﻣ ﻕﺮﻄﻟﺍ ﻩﺬﻫ ﻞﺒﻘﺗ ﻢﻏﺭ .1900 ﻡﺎﻋ ﻲﻟﺍﻮﺣ ﻦﻴﻟﺮﺑ ﻲﻓ ﺔﻤﻈﺘﻨﻤﻟﺍ ﻦﺠﺛﺍﺭ ﻚﻳﺭﺪﻳﺮﻓ ﻝﺎﻤﻋﺃ ﺕﺀﺎﺟ ﻞﺑﺎﺑ ﻲﻓﻭ ﻲﻧﺎﻄﻳﺮﺒﻟﺍ
+ﺍﺬﻫ ﻲﻓ ﻕﺮﻄﻟﺍ ﻞﻀﻓﺃ ﻝﻮﺣ ﺍﺮﺋﺍﺩ ﺭﺍﻮﺤﻟﺍ ﻝﺍﺰﻳ ﻻﻭ .ﻜﻟﺫ ﺀﺍﺮﺟ ﻯﺮﺧﺃ ﺔﻠﻘﺘﺴﻣ ﻕﺮﻃ ﺕﺎﺸﻧ ﻚﻟﺬﻟ ،ﻦﻴﺼﺘﺨﻤﻟﺍ ﻦﻴﺑ ﻝﺎﺼﺗﻹﺍ ﻦﻣ ﻞﻴﻠﻘﻟﺍ ﻻّ ﺍ ﻙﺎﻨﻫ
+.ﻟﺎﺠﻤﻟﺍ
+https://doi.org/10.1017/irq.2016.10 Published online by Cambridge University Press
+

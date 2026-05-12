@@ -1,0 +1,958 @@
+# METADATA
+author: Robson E.
+source_id:Robson2008_Mathematic
+title: Mathematics In Ancient Iraq
+Year:2008 
+Source_ID:  Robson2008_Mathematic
+Source_Type: Article in Book: 
+Source_Role,Step_distance:2 ,3,4 
+Pages: 1-26
+Web: 
+Publisher: Princeton University Press and copyrighted, © 2008, by Princeton
+University Press.  
+
+# TEXT
+
+E. Robson: Mathematics in Ancient Iraq
+is published by Princeton University Press and copyrighted, © 2008, by Princeton
+University Press. All rights reserved. No part of this book may be reproduced in any form
+by any electronic or mechanical means (including photocopying, recording, or information
+storage and retrieval) without permission in writing from the publisher, except for reading
+and browsing via the World Wide Web. Users are not permitted to mount this file on any
+network servers.
+Follow links for Class Use and other Permissions. For more information send email to:
+permissions@press.princeton.edu
+CHAPTER ONE
+Scope, Methods, Sources
+The mathematics of ancient Iraq, attested from the last three millennia BCE, was written on clay
+tablets in the Sumerian and Akkadian languages using the cuneiform script, often with num-
+bers in the sexagesimal place value system (§1.2). There have been many styles of interpreta-
+tion since the discovery and decipherment of that mathematics in the late nineteenth and
+early twentieth centuries CE (§1.1), but this book advocates a combination of close attention to
+textual and linguistic detail, as well as material and archaeological evidence, to situate an-
+cient mathematics within the socio-intellectual worlds of the individuals and communities who
+produced and consumed it (§1.3).
+1.1 THE SUBJECT: ANCIENT IRAQ AND ITS MATHEMATICS
+Iraq—Sumer—Babylonia—Mesopotamia: under any or all of these names
+almost every general textbook on the history of mathematics assigns the
+origins of ‘pure’ mathematics to the distant past of the land between the
+Tigris and Euphrates rivers. Here, over five thousand years ago, the fi rst
+systematic accounting techniques were developed, using clay counters to
+represent fixed quantities of traded and stored goods in the world’s earliest
+cities (§2.2). Here too, in the early second millennium bce, the world’s fi rst
+positional system of numerical notation—the famous sexagesimal place
+value system—was widely used (§4.2). The earliest widespread evidence
+for ‘pure’ mathematics comes from the same place and time, including a
+very accurate approximation to the square root of 2, an early form of ab­
+stract algebra, and the knowledge, if not proof, of ‘Pythagoras’ theorem’
+defining the relationship between the sides of a right­angled triangle (§4.3).
+The best­known mathematical artefact from this time, the cuneiform tab­
+let Plimpton 322, has been widely discussed and admired, and claims have
+been made for its function that range from number theory to trigonometry
+to astronomy. Most of the evidence for mathematical astronomy, however,
+comes from the later fi rst millennium bce (§8.2), from which it is clear that
+Babylonian astronomical observations, calculational models, and the sex­
+agesimal place value system all had a deep impact on the later development
+of Old World astronomy, in particular through the person and works of
+Ptolemy. It is hardly surprising, then, that ever since its discovery a cen­
+tury ago the mathematics of ancient Iraq has claimed an important role in
+the history of early mathematics. Seen as the fi rst fl owering of ‘proper’
+2 CHAPTER ONE
+mathematics, it has been hailed as the cradle from which classical Greek
+mathematics, and therefore the Western tradition, grew. But, as laid out over
+the course of this book, the mathematical culture of ancient Iraq was much
+richer, more complex, more diverse, and more human than the standard
+narratives allow.
+The mathematical culture of ancient Iraq was by no means confi ned to
+the borders of the nation state as it is constructed today. The name al­‘Iraq
+(Arabic ‘the river shore’) is first attested about a century after the Muslim
+conquests of the early seventh century ce,1 while the lines on modern maps
+which delimit the territory of Iraq are the outcome of the division of the
+collapsing Ottoman empire amongst European powers at the end of the
+First World War. The mathematics of pre­Islamic Iraq, as it has been pre­
+served, was written on small clay tablets in cuneiform writing. Because, as
+argued here, mathematics was an integral and powerful component of cu­
+neiform culture, for present purposes it will be a useful fi rst approximation
+to say that cuneiform culture and mathematical culture were more or less
+co­extensive. The core heartland of the cuneiform world was the very fl at
+alluvial plain between Baghdad and the Gulf coast through which the
+Tigris and Euphrates fl ow (figure 1.1). It was known variously in antiquity
+as Sumer and Akkad, Babylonia, Karduniaš, or simply The Land. The
+Land’s natural resources were primarily organic: reeds, small riverine trees,
+and other plant matter, but most importantly the earth itself. Alluvial clay
+was the all­purpose raw material par excellence, from which almost any­
+thing from sickle blades to monumental buildings could be manufactured.
+Equally, when judiciously managed the soil was prodigiously fertile, pro­
+ducing an abundance of arable crops (primarily barley), as well as grazing
+lands for herds (sheep and goats but also cattle). Even the wildest of marsh­
+lands were home to a rich variety of birds and fish and the all­purpose
+reeds, second only to clay in their utility. What the south lacked, however,
+were the trappings of luxury: no structural timber but only date­palms and
+tamarisks, no stone for building or ornamentation other than small out­
+crops of soft, dull limestone, and no precious or semi­precious stones at
+all, let alone any metals, base or precious. All these had to be imported
+from the mountains to the north, east, and west, in exchange for arable
+and animal products.
+The centre of power shifted north at times, to northern Iraq and Syria
+east of the Euphrates, known in ancient times as Assyria, Subartu, Mi­
+tanni, or the land of Aššur. Life here was very different: rainfall could be
+counted on for wheat­based agriculture, building stone was abundant, and
+mountainous sources of timber and metal ores relatively close to hand.
+Conversely, the dates, tamarisks, and reeds of the south were absent here,
+as were the marshes with their rich flora and fauna. Overland trade routes
+ran in all directions, linking northern Iraq with the wider world.2
+Figure 1.1 Map of the ancient Middle East, showing the major fi ndspots of mathematical cuneiform tablets.
+4 CHAPTER ONE
+The fluid peripheries over which these territories had at times direct
+political control or more often cultural influence expanded and contracted
+greatly over time. At its maximum extent cuneiform culture encompassed
+most of what we today call the Middle East: the modern­day states of
+Turkey, Lebanon, Syria, Israel and the Palestinian areas, Jordan, Egypt,
+and Iran. Chronologically, cuneiform spans over three thousand years,
+from the emergence of cities, states, and bureaucracies in the late fourth
+millennium bce to the gradual decline of indigenous ways of thought under
+the Persian, Seleucid, and Parthian empires at around the beginning of the
+common era. The history of mathematics in cuneiform covers this same
+long stretch and a similarly wide spread (table 1.1).
+The lost world of the ancient Middle East was rediscovered by Europe­
+ans in the mid­nineteenth century (table 1.2). Decades before the advent of
+controlled, stratigraphic archaeology, the great cities of Assyria and Baby­
+lonia, previously known only through garbled references in classical litera­
+ture and the Bible, were excavated with more enthusiasm than skill, yielding
+vast quantities of cuneiform tablets and objets d’art for Western museums.3
+The complexities of cuneiform writing were unravelled during the course
+of the century too, leading to the decipherment of the two main languages
+of ancient Iraq: Akkadian, a Semitic precursor of Hebrew and Arabic; and
+Sumerian, which appeared to have no surviving relatives at all.
+In the years before the First World War, as scholars became more confi ­
+dent in their interpretational abilities, the first mathematical cuneiform
+texts were published.4 Written in highly abbreviated and technical lan­
+guage, and using the base 60 place value system, they were at fi rst almost
+impossible to interpret. Over the succeeding decades François Thureau­
+Dangin and Otto Neugebauer led the race for decipherment, culminating
+in the publication of their rival monumental editions, Textes mathéma­
+tiques babyloniens and Mathematische Keilschrifttexte, in the late 1930s.5
+By necessity, scholarly work was at that time confined to interpreting the
+mathematical techniques found in the tablets, for there was very little cul­
+tural or historical context into which to place them. For the most part the
+tablets themselves had no archaeological context at all, or at best could be
+attributed to a named city and a time­span of few centuries in the early
+second millennium bce. The final reports of the huge and well­documented
+excavations of those decades were years away from publication and nor,
+yet, were there any reliable dictionaries of Akkadian or Sumerian.
+After the hiatus of the Second World War, it was business as usual for
+the historians of cuneiform mathematics. Otto Neugebauer and Abraham
+Sachs’s Mathematical cuneiform texts of 1945 followed the paradigm of
+the pre­war publications, as did Evert Bruins and Marguerite Rutten’s
+Textes mathématiques de Suse of 1961.6 Neugebauer had become such a
+towering figure that his methodology was followed by his successors in the
+SCOPE, METHODS, SOURCES 5
+Table 1.1
+Overview of Mathematics in Ancient Iraq
+Mathematical
+Dates Political History Developments
+Fourth millennium bce Urbanisation Pre­literate accounting
+Uruk period, Commodity­specifi c
+�c. 3200–3000 �number systems
+Third millennium bce Early Dynastic period Literate numeracy
+�(city states), Sophisticated balanced
+�c. 3000–2350 �accounting
+First territorial empires Sexagesimal place value
+�of Akkad and Ur, �system
+�c. 2350–2000
+Second millennium bce Babylonian kingdom, Old Babylonian (OB)
+�c. 1850–1600 �pedagogical
+Amarna age, c. 1400 �mathematics: geometry,
+�algebra, quantity
+�surveying
+Spread of cuneiform
+�culture and numeracy
+�across the Middle East
+First millennium bce Assyrian empire, Beginnings of systematic
+�c. 900–600 �observational
+Neo­Babylonian �astronomy
+�empire, c. 600–540 Reformulation of
+Persian empire, �cuneiform mathematics
+�c. 540–330 Mathematical astronomy
+Seleucid empire,
+�c. 330–125
+First millennium ce Parthian empire, c. 125 Last dated cuneiform
+�bce–225 ce �tablet, 75 ce
+Sasanian empire, Astronomical activity
+�c. 225–640 �continues
+Abbasid empire, Baghdadi ‘House of
+�c. 750–1100 �Wisdom’: al­Khwarizmi,
+�decimal numbers and
+�algebra
+Second millennium ce Mongol invasions, (Iraq a political and
+�c. 1250 �intellectual backwater)
+Ottoman empire, Rediscovery of ancient
+�c. 1535–1920 �Iraq and cuneiform
+Modern Iraq, c. 1920– �culture
+6 CHAPTER ONE
+Table 1.2
+The Rediscovery of Cuneiform Mathematics
+Date Event
+1534–1918 Iraq under Ottoman rule
+Before Travellers’ tales of ancient Babylonia and Assyria
+�1800
+1819 Tiny display case of undeciphered cuneiform at British Museum
+1842 Anglo­French rediscovery of ancient Assyria; priority disputes
+1857 Assyrian cuneiform offi cially deciphered at Royal Asiatic Society
+�in London
+1871 Discovery of Babylonian fl ood story in British Museum
+1877 Discovery of Sumerian language and civilisation; no mention in Bible
+1880– Mass recovery of cuneiform tablets in Babylonia
+1889– First decipherments of cuneiform astronomy and sexagesimal
+�place value system
+1900 First Old Babylonian (OB) mathematical problems published
+1903– Progress in understanding sexagesimal numeration and tables
+1916 First decipherment of OB mathematical problem
+1920 Formation of modern Iraqi state
+1927 Neugebauer’s fi rst publication on OB mathematics
+1927–39 Neugebauer and Thureau­Dangin’s ‘golden age’ of decipherment
+1945 Neugebauer and Sachs’s fi nal major publication on OB mathematics
+1955 Neugebauer and Sachs publish mathematical astronomy
+1956 First volume of Chicago Assyrian Dictionary published (fi nished
+�in 2008)
+1968 Ba’athist coup in Iraq
+1976– Increased interest in third­millennium mathematics
+1984 First volume of Pennsylvania Sumerian Dictionary published
+�(now online)
+1990 Høyrup’s discourse analysis of OB maths; war stops excavation
+1996– Developing web technologies for decipherment tools and primary
+�publication
+2003– Iraq War and aftermath result in major archaeological looting and
+�the virtual collapse of the State Board of Antiquities and Heritage
+SCOPE, METHODS, SOURCES 7
+discipline, though often without his linguistic abilities. Cuneiformists put
+mathematical tablets aside as ‘something for Neugebauer’ even though he
+had stopped working on Babylonian mathematics in the late 1940s. Since
+there was almost no further output from the cuneiformists, historians of
+mathematics treated the corpus as complete. In the early 1950s the great
+Iraqi Assyriologist Taha Baqir published a dozen mathematical tablets from
+his excavations of small settlements near Baghdad, but virtually the only
+other editor of new material was Bruins, who tended to place short articles
+in the small­circulation Iraqi journal Sumer (as did Baqir) or in Janus,
+which he himself owned and edited.7 All attempts at review or criticism
+met with such vitriolic attacks that he effectively created a monopoly on the
+subject.
+Meanwhile, since Neugebauer’s heyday, other aspects of the study of
+ancient Iraq had moved on apace. The massive excavations of the pre­war
+period, and the more targeted digs of the 1950s onwards, were being pub­
+lished and synthesised. The monumental Chicago Assyrian dictionary
+gradually worked its way through the lexicon of Akkadian, volume by
+volume. The chronology, political history, socio­economic conditions, and
+literary, cultural, religious, and intellectual environments of Mesopotamia
+were the subjects of rigorous, if not always accessible, scholarship. In the
+course of the 1970s and ’80s attention turned to much earlier mathemati­
+cal practices, as scholars led by Marvin Powell and Jöran Friberg found
+and analysed the numeration, metrology, and arithmetic of the third mil­
+lennium bce, from sites as far apart as Ebla in eastern Syria and Susa in
+southwestern Iran.8 Denise Schmandt­Besserat began to formulate her
+mould­breaking theories of the origins of numeracy and literacy in the tiny
+calculi of unbaked clay that she had identified in prehistoric archaeological
+assemblages all over the Middle East.9
+Nevertheless, it would be no exaggeration to say that between them,
+Neugebauer’s renown for scholarly excellence and Bruins’s reputation for
+personal venom seriously stifl ed the fi eld of Babylonian mathematics until
+their deaths in 1990. It is perhaps no coincidence that ‘Algebra and naïve
+geometry’, Jens Høyrup’s seminal work on the language of Old Babylo­
+nian algebra, was also published in that year, signalling a paradigm shift
+away from the history of Mesopotamian mathematics as the study of cal­
+culational techniques and their ‘domestication’ into modern symbolic alge­
+bra. Høyrup’s work was in effect a discourse analysis of Mesopotamian
+mathematics: a close scrutiny of the actual Akkadian words used, and
+their relationship to each other. In this way he completely revolutionised
+our understanding of ancient ‘algebra’, showing it to be based on a very
+concrete conception of number as measured line and area.10 An interdisci­
+plinary project based in Berlin developed further important new method­
+ologies in the early 1990s, leading to the computer­aided decipherment of
+the complex metrologies in the proto­literate temple accounts from late
+8 CHAPTER ONE
+fourth­millennium Uruk which had resisted satisfactory interpretation for
+over eighty years.11 Uruk also provided new sources from the other end of
+the chronological spectrum, as Friberg published mathematical tablets
+from the latter half of the fi rst millennium bce.12
+In the past decade, large numbers of new mathematical tablets have
+come to light, both from excavation and from renewed study of old publi­
+cations and large museum collections, and are now attested from almost
+every period of cuneiform culture. The published corpus now comprises
+over 950 tablets (table B.22). Still the largest body of evidence, though, is
+the pedagogical mathematics—exercises set and solved, metrological and
+mathematical tables copied and recopied—from the early second millen­
+nium bce or Old Babylonian period. This currently accounts for over 80
+percent of the published sources, not far short of 780 tablets. There are
+fewer than sixty known mathematical tablets from the whole of the third
+millennium, on the other hand (about 6 percent), and just over twice that
+number from the millennium and a half after 1500 bce (some 13 percent).
+Thus the main focus of attention is still therefore on the large body of Old
+Babylonian material.
+With some exceptions, the new generation of scholarship has taken a
+long time to filter through to the wider historical community. Cuneiform­
+ists have been put off by technical mathematics, historians of mathematics
+by technical Assyriology. Thus mathematics tends to be ignored in general
+histories of the ancient Near East, and even though it has an inviolable
+place at the beginning of every maths history textbook, the examples found
+there are for the most part still derived from a few out­of­date general
+works. Neugebauer’s The exact sciences in antiquity, first published in
+1951, was justly influential, but Van Der Waerden’s derivative Science
+awakening (first English edition 1954) and later Geometry and algebra in
+ancient civilizations (1983) are both deeply Eurocentric and diffusionist.
+All in all it is time for a new look, from a new perspective—which is what
+this book sets out to do.
+1.2 THE ARTEFACTS: ASSYRIOLOGICAL AND MATHEMATICAL ANALYSIS
+Perhaps the most important methodological thread running through this
+book is that although mathematics is most immediately the product of in­
+dividuals, those individuals are shaped and constrained by the society in
+which they live, think, and write. In order to understand the mathematics
+of a particular people as richly as possible, historians need to contextualise
+it. This approach is especially important for comprehending the mathe­
+matics of ancient Iraq, where anonymous tradition was prized over named
+SCOPE, METHODS, SOURCES 9
+authorship and we are more often than not completely unable to identify
+the work or influence of individuals within the written tradition. But con­
+text, crucial though it is, has to be paired with scrupulous attention to the
+mathematical, linguistic, and artefactual details of the tablets themselves.
+In order to demonstrate this, on the following pages a typical example, in
+the standard style of primary publication, is used to explain the basics of
+the media, script, numeration, and language of the sources, and to exem­
+plify the usual methods of decipherment, interpretation, and publication.
+The final section demonstrates some of the different ways in which contex­
+tualisation can add layers of meaning to the interpretation of individual
+objects.
+The primary publication of a cuneiform tablet should normally com­
+prise at least a hand­copy (scale drawing) and transliteration, and often a
+photograph and translation as well. The sample tablet, 2N­T 30 (fi gure 1.2),
+has been partially published twice before: once as a rather blurry photo­
+graph, and once as a transliteration and translation based on that photo­
+graph. The hand­copy presented here is also based on that photograph,
+and on personal inspection of the tablet in Baghdad in March 2001.13
+1 45 0;00 01 45
+1 45 0;00 01 45
+��1⁄ kuš 1⁄ šu­si­ta­am A square is 1⁄ cubit, 1⁄ fi nger on each
+3 2 3 2
+3 3
+���ib ­[si ] �side.
+2 8
+��a­šag ­bi en­nam What is its area?
+4
+��a­šag ­bi Its area
+4
+��9 še igi­5­ğal ! še­kam is 9 grains and a 5th of a grain.
+2
+As the photograph shows, the text is not on a flat writing surface like
+paper or papyrus, but on a small cushioned­shaped tablet of levigated clay
+(that is, clay that has been cleaned of all foreign particles so that it is pure
+and smooth), measuring about 7.5 cm square by 2.5 cm thick at its maxi­
+mum extent. Clay tablets varied in size and shape according to place and
+time of manufacture, and according to what was to be written on them; they
+could be as small as a postage stamp or as large as a laptop computer, but
+more usually were about the size of a pocket calculator or a mobile phone
+(though often rather thicker). Scribes were adept at fashioning tablets to the
+right size for their texts, making the front side, or obverse, much fl atter than
+the back, or reverse. Some specialised genres of document traditionally
+required particular types of tablet, as in the case of 2N­T 30: it is square,
+with text only in the bottom right and top left corners; the rest of the tablet
+(including the reverse) is blank. Tablets were more usually rectangular, with
+the writing parallel to the short side and covering the whole surface of the
+clay. When the scribe reached the bottom of the obverse, instead of turning
+the tablet through its vertical axis (as we would turn the pages of a book),
+10 CHAPTER ONE
+Figure 1.2 A mathematical exercise on an Old Babylonian cuneiform tablet.
+(2N­T 30 (cid:2) IM 57828. Photograph: F. R. Steele 1951, pl. 7, courtesy of the
+University of Pennsylvania Museum of Archaeology and Anthropology; drawing
+by the author.)
+he would flip it horizontally, so that the text continued uninterrupted over
+the lower edge and onto the reverse.14 The text would thus finish at the top
+edge of the tablet, next to where it had started. Scribes could also use the
+left edge of the tablet to add a few extra lines or a summary of the docu­
+ment’s contents. Larger tablets were ruled into columns, and here the same
+SCOPE, METHODS, SOURCES 11
+conventions applied: on the obverse the columns were ordered left to right
+and then the final column ran directly down the tablet and onto the other
+side, becoming the first column on the reverse of the tablet. The remaining
+columns were then ordered right to left, ending up in the bottom left corner
+of the reverse, right next to the top of the obverse.
+Tablets were rarely baked in antiquity, unless there was some special
+reason for doing so, or it happened by accident in a fire. Tablets in museum
+collections tend to be baked as part of the conservation process, where they
+are also catalogued and mended. Tablets were often broken in antiquity—
+this one has lost its top right corner—and where possible have to be pieced
+together like a three­dimensional jigsaw puzzle or a broken cup, some­
+times from fragments that have ended up in different collections scattered
+around the world. Often, though, missing pieces are gone forever, crum­
+bled into dust. This tablet has two catalogue numbers, one from excava­
+tion and one from the museum that now houses it. The excavation num­
+ber, ‘2N­T 30’, signifies that it was the thirtieth tablet (T 30) to be found
+in the second archaeological season at Nippur (2N) in 1948, run jointly by
+the Universities of Chicago and Pennsylvania. This is the designation used
+in the archaeological field notes, enabling its original findspot and context
+to be traced; we shall return to this later. The museum number, ‘IM 57828’,
+indicates that it is now in the Iraq Museum in Baghdad (IM) and was the
+57,828th artefact to be registered there. Like almost all museum numbers,
+it gives no information at all about the tablet’s origins.
+The writing on the tablet is a script composed of wedge­shaped impres­
+sions now known as cuneiform (figure 1.3). It runs horizontally from left
+to right (whatever the direction of the columns it is in) and where there are
+line rulings (as on the bottom right of this tablet) the signs hang down
+from the lines rather than sitting on them. As can be seen from the top left
+of the tablet, though, the lines were not always ruled.
+The appearance and structure of cuneiform changed signifi cantly over
+the course of its history, but some common key features remained through­
+out. In the earliest written documents, from the late fourth millennium
+bce, there were two distinct sign types. Numbers were impressed into the
+surface of the clay, while other signs were incised into stylistic representa­
+tions. Most of the non­numerical signs were logograms and ideograms;
+that is, they represented whole words or idea. A small subset acted as de­
+terminatives, classifying the words they were attached to as belonging to a
+particular category, such as vessels, wooden objects, or place­names. De­
+terminatives did not represent parts of speech but were aids to reading the
+words with which they were associated. Many of the non­numerical signs
+were pictographic; that is, they looked like the objects they represented,
+but others were more abstract shapes. Each sense unit was grouped into
+cases, rectangular areas ruled onto the surface of the tablet.
+12 CHAPTER ONE
+Figure 1.3 Writing cuneiform on a clay tablet with a stylus. (Drawing by the
+author.)
+The early writing system was very limited in scope and function, but over
+the first half of the third millennium bce it gradually acquired more power
+and flexibility by using the same signs to represent not just an idea or a
+thing, but the sound of that word in the Sumerian, and later Akkadian,
+language. Thus, as writing became language­specific and acquired the abil­
+ity to record syllables it became increasingly important to arrange the signs
+into lines on the surface of the tablet, following the order of the spoken
+language. At the same time, the signs themselves lost their curviform and
+pictographic visual qualities, becoming increasingly cuneiform and visu­
+ally abstract. However, signs retained their ideographic signifi cance even
+as they acquired new syllabic meanings. In other words, they became mul­
+tivalent; that is, a single cuneiform sign could have as many as twenty dif­
+ferent meanings or values depending on the context in which it was used.
+For instance (table 1.3), the sign DUG functioned as a determinative in
+front of the names of pottery vessels; as a logogram with the meaning ‘pot’
+(Sumerian dug (cid:2) Akkadian karpatum) or ‘cup’ (Sumerian lud (cid:2) Akkadian
+luţţum); and as an Akkadian syllabogram with values dug, duk, duq, tuk,
+tuq and lud, lut, luţ. Conversely, the writing system also encompassed ho­
+movalency; that is, the potential for different signs to represent the same
+syllables; some of these, however, were at least partially contextually deter­
+mined. For instance, there are three other signs with the value ‘dug’: one is
+just a syllable, while the others are logograms for the adjective ‘good’ and
+the verb ‘to speak’. The total repertoire of cuneiform signs is around six
+hundred, but not all of those signs, or all possible values of a sign, were in
+use at any one time or in any one genre of text.15
+In modern transliteration, determinatives are shown in superscript (there
+are none in 2N­T 30), and Sumerian syllables in normal font. Akkadian
+SCOPE, METHODS, SOURCES 13
+Table 1.3
+Four Different Cuneiform Signs that Take the Value Dug
+Late IV III II I Determinative Logographic Main Syllabic
+mill. mill. mill. mill. Values Values Values
+dug ‘pottery dug (cid:2) karpatum dug, duk, duq,
+vessel’ �‘pot’; lud (cid:2) �tuk, tuq and
+�luţţum ‘cup’ �lud, lut, luţ
+— — du (cid:2) zamārum tug, tuk, tuq,
+�‘1
+t
+2
+o play (a �duk, raš
+�musical
+�instrument)’;
+�tuku (cid:2) rašûm
+�‘to acquire’
+— dug (cid:2) ţâbum ‘to ḫi, ḫe, ţa
+�be 3 good, sweet’;
+�ḫi (cid:2) balālum
+�‘to mix’
+— dug (cid:2) qabûm ‘to ka, qa
+�sp 4 eak’; gu (cid:2)
+�rigmum ‘n 3 o ise’;
+�inim (cid:2) awatum
+�‘word’; ka (cid:2)
+�pûm ‘mouth’;
+�kir (cid:2) būşum
+�‘hy 4 e na’; kiri (cid:2)
+�appum ‘nose 3 ’;
+�zu (cid:2) šinnum
+�‘to 2 o th’; zuḫ (cid:2)
+�šarāqum ‘to
+�steal’
+syllables are written in italics, and logograms in small capitals. (But in trans­
+lations, this book shows all untranslated words—such as metrological
+units—in italics, whether they are in Sumerian or Akkadian.) Homovalent
+signs are distinguished by subscript numbers, as for instance kuš or si .
+3 8
+Signs that are missing because the tablet has broken away are restored in
+square brackets: [si ] or in half brackets ğeš if the surface is damaged and
+8
+the sign not clearly legible; uncertain signs can also be signalled by a super­
+script question mark: še? and erroneously formed signs indicated with an
+exclamation mark: ğal !. Sometimes scribes omitted signs; editors restore
+2
+them inside angle brackets: <ti>. When a scribe has erroneously written an
+extra sign it is marked in double angle brackets: «na». Modern editor’s
+glosses are given in parentheses: (it is), with comments in italics: (sic).
+14 CHAPTER ONE
+Cuneiform was used to record many different languages of the ancient
+Middle East, just as the Roman alphabet today is not reserved for any one
+language or group of languages. Only two were used extensively for math­
+ematics, however: Sumerian and Akkadian. Sumerian was probably the
+first language in the world to be written down and maybe because of that
+it appears to be a language isolate: that is, it is genetically related to no
+other known language, living or dead. It seems to have died out as a mother
+tongue during the course of the late third and early second millennium bce,
+but continued to be used as a literary and scholarly language (with a status
+similar to Latin’s in the Middle Ages) until the turn of the common era. It
+does, of course, have features in common with many languages of the
+world. In the writing system four vowels can be distinguished—a, e, i,
+u—and fifteen consonants b, d, g, ğ, ḫ, k, l, m, n, p, r, s, š, t, and z (where
+ḫ is approximately equivalent to kh or Scottish ch in ‘loch’, ğ to ng in
+‘ring’, and š to sh in ‘shoe’). Words are formed by agglutinating strings of
+grammatical prefixes and suffixes to a lexical stem, as can happen to some
+extent in English, for instance with the stem ‘do’: un­do­ing. The main
+feature of the Sumerian case system is ergativity: grammatical distinction
+between the subjects of transitive and intransitive verbs. Compare in Eng­
+lish the intransitive ‘the man walked’ with transitive ‘the man walked the
+dog’; in Sumerian the second ‘man’ is in the ergative case, ‘the man(­erg.)
+walked the dog’. Its gender system is a simple dichotomy, people/others,
+and its word order is verb­final. Instead of tense, Sumerian uses aspect,
+distinguishing between completed and incomplete action. Thus to com­
+pletely Sumerianise ‘the man walked the dog’, we would have ‘man(­erg.­
+pers.) dog(­other) (he­it­)walk(­compl.). It is perhaps not surprising that
+there is still much argument about the details of how Sumerian works and
+exactly how it should be translated.16
+Akkadian, by contrast, is very well understood. It is a Semitic language,
+indirectly related to Hebrew and Arabic. Like Sumerian it was written
+with the four vowels a, e, i, u and all the consonants of Sumerian (except
+ğ) as well as q, ş (emphatic s, like ts in ‘its’), ţ (emphatic t), and a glottal
+stop, transliterated: ‘. Like other Semitic languages, Akkadian works on
+the principle of roots composed of three consonants, which carry the lexical
+meaning of words. For instance, the root mḫr carries the sense of equality
+and opposition, while kpp signifies curvature. Words are constructed by
+infl ection, that is, by the addition of standard patterns of prefi xes, suffi xes,
+and infixes in and around the root which bear the grammatical meaning
+(tense, aspect, person, case, etc.). Thus maḫārum and kapāpum are both
+verbal infi nitives ‘to oppose, to be equal’, and ‘to curve’. The fi rst­person
+present tense is amaḫḫar ‘I oppose’, the simple past amḫur ‘I opposed’.
+Nouns, adjectives, and adverbs are all derivable from these same roots, so
+SCOPE, METHODS, SOURCES 15
+that the refl exive noun mitḫartum ‘thing that is equal and opposite to itself’
+means a square and kippatum ‘curving thing’ is a circle.17
+The mixed cuneiform writing system enabled polysyllabic Akkadian
+words to be represented with a logogram, usually the sign for the equiva­
+lent Sumerian stem; indeed some signs, especially weights and measures,
+were almost never written any other way. So while it appears that 2N­T 30
+is written in Sumerian, it may equally be in highly logographic Akkadian:
+it is impossible to tell. And just as it is sometimes difficult to judge the
+language a scribe was writing in, we cannot even begin to determine what
+language he might have been speaking or thinking in. The death of Sumer­
+ian as a written and/or spoken language is still a hotly debated issue, but it
+must have taken place over the last third of the third millennium and/or
+the fi rst half of the second.18
+The tablet 2N­T 30 uses two different systems of numeration. The num­
+bers on their own in the top left corner are written in the sexagesimal place
+value system (SPVS), while those in the main text belong to various abso­
+lute value systems that were used for counting, weighing, and measuring.
+The earliest known written records, the temple account documents from
+late fourth­millennium Uruk, used a dozen or so very concrete numeration
+systems that were not only absolute in value but were also determined by
+the commodity being counted or measured (table A.1 and see chapter 2).
+Over the course of the third millennium this bewildering variety of me­
+trologies was gradually rationalised to five: length; area, volume, and
+bricks; liquid capacity; weight; and the cardinal (counting) numbers (table
+A.3 and see chapter 3). Although the number sixty became increasingly
+prominent, all systems except the weights retained a variety of bases (com­
+parable to more recent pre­decimal Imperial systems) and all used signs for
+metrological units and/or different notations for different places. For in­
+stance, the length of the square in 2N­T 30 is 1⁄ cubit and 1⁄ finger. A cubit
+3 2
+was approximately 0.5 m long, and comprised 30 fingers—so the square is
+101⁄ fi ngers long, c. 17.5 cm.
+2
+But the interface between the different systems was never perfect: for
+instance, there was an area unit equal to 1 square rod, but none equal to 1
+square finger or 1 square cubit. In other words, the exercise on 2N­T 30
+is not a simple matter of squaring the length in the units given: it is fi rst
+necessary to express that length in terms of rods, where the two systems
+meet nicely. Then the length can be squared, to give an area expressed in
+(very small) fractions of a square rod (c. 36 m2) or, more appropriately,
+integer numbers of smaller area units. The area system borrowed the sex­
+agesimal divisions of the mina weight for its small units, so that a sixtieth
+part of a square rod is called a shekel (c. 0.6 m2, or 2.4 square cubits), and a
+180th part of a shekel is known as a grain (c. 33 cm2, or 12 square fi ngers).
+16 CHAPTER ONE
+The area in 2 N­T 30 is almost too small for the area system to handle, so
+the scribe has approximated it as 91⁄ grains.
+5
+The function of the sexagesimal place value system (SPVS), which came
+into being during the last centuries of the third millennium (§3.4), was thus
+to ease movement between one metrological system and another. Lengths,
+for instance, that were expressed in sexagesimal fractions of the rod instead
+of a combination of rods, cubits, and fingers, could be much more easily
+multiplied into areas expressed first in terms of square rods, and then con­
+verted to more appropriate units if necessary. The SPVS, in other words,
+was only a calculational device: it was never used to record measurements
+or counts. That is why it remained a purely positional system, never devel­
+oping any means of marking exactly how large or small any number was,
+such as the positional zero or some sort of boundary marker between inte­
+gers and fractions. In other words, these deficiencies were not the outcome
+of an unfortunate failure to grasp the concept of zero, but rather because
+neither zeros nor sexagesimal places were necessary within the body of cal­
+culations. For the duration of the calculation, then, the absolute value of the
+numbers being manipulated is irrelevant; only their relative value matters—
+as long as the fi nal result can be correctly given in absolute terms.
+This is apparent on the top left corner of 2N­T 30, where the scribe has
+expressed 101⁄ fingers as a sexagesimal fraction of a rod, namely as 1 45.
+2
+In modern transliteration sexagesimal places are separated by a space or
+comma, rather like the reading on a digital clock. But in translation it is
+often useful to show the absolute value of a sexagesimal number if known,
+so we can write 0;00 01 45, where the semicolon is a ‘sexagesimal point’
+marking the boundary between whole and fractional parts of the number.
+In cuneiform no spaces are left between sexagesimal places, because there
+are separate ciphers for ten signs and units, but like modern decimal nota­
+tion it is a place value system. That is, relative size is marked by the order
+in which the figures are written, in descending order from left to right. For
+instance, 22 45 ((cid:2) 1365) could never be confused with 45 22 ((cid:2) 2722). On
+2N­T 30, the number 1 45 has been written twice, because it is to be
+squared, but the resulting 3 03 45—better, 0;00 00 03 03 45 square rods—
+has not been recorded. Nevertheless, it is clear from the final answer that
+the scribe got the right result: he must have multiplied up by 60 (shekels in
+a square rod) and then by 180 (grains in a shekel). The exact sexagesimal
+answer is 9;11 15 grains, which the scribe had to approximate as 91⁄ grains
+5
+(i.e., 9;12), because the absolute systems did not use sexagesimal fractions
+but only the simple unit parts 1/n.
+In sum, a good idea of the mathematical sense of 2N­T 30 can be gained
+from its internal characteristics alone: its contents could be summarised
+simply as 0;00 01 452 (cid:2) 0;00 00 03 03 45. But that would leave many
+SCOPE, METHODS, SOURCES 17
+questions unanswered: Who wrote the tablet, and under what circum­
+stances? Who, if anyone, did he intend should read it? Why didn’t he re­
+cord the sexagesimal result but only the version converted into area mea­
+sure? What else did he write? What else did he do with his life? Such
+questions, once one starts to ask them, are potentially endless, but the
+tablet alone cannot answer them: we have look beyond, to its textual, ar­
+chaeological, and socio­historical context if we want to know more.
+1.3 THE CONTEXTS: TEXTUALITY, MATERIALITY, AND SOCIAL HISTORY
+In the early 1990s Jens Høyrup pioneered the study of syntax and techni­
+cal terminology of Old Babylonian mathematical language, with two aims
+in view.19 First, a close reading of the discourse of mathematics reveals,
+however approximately, the conceptual processes behind mathematical
+operations—which translation into modern symbolic algebra can never
+do. This line of enquiry is most profi table on more verbose examples than
+2N­T 30, particularly those that include instructions on how to solve
+mathematical problems. Many examples are presented in later chapters.
+Such work can be carried out, and largely has been, on modern alphabetic
+transliterations of the ancient texts with little regard to the medium in
+which they were originally recorded. But the idea of close examination can
+also apply to non­linguistic features: the disposition of text and numerals
+on the tablet, the presence and presentation of diagrams, the use of blank
+space, and so forth. In the case of 2N­T 30 one might be interested in the
+spatial separation of word problem and solution from the numerical cal­
+culation, as well as the fact that there are no traces on the tablet of the
+scribe’s actual working or sexagesimal answer.
+Second, looking at clusters of linguistic and lexical features enables un­
+provenanced tablets to be grouped and separated along chronological and
+geographical lines. This approach can also be supported by tracing the
+distribution of problem types and numerical examples within the known
+corpus and comparing the techniques of calculation used to solve them.
+Doing that for 2N­T 30 yields six other Old Babylonian tablets very like
+it (but with different numerical parameters) and eight tablets containing
+just the squaring calculation without the setting and solution expressed
+metrologically (table 1.4 and fi gure 1.4).
+The large majority of the tablets are from Nippur, like 2N­T 30, but it is
+difficult to tell whether that is historically significant or is more an out­
+come of the history of excavation and publication. However, it probably
+is noteworthy that all the Nippur tablets are square, while those from Ur
+are both round (technically speaking Type R and Type IV respectively: see
+Table 1.4
+Old Babylonian Calculations of Squares
+Tablet Length of Sexagesimal
+Number Provenance Square Calculation Tablet Description Publication
+NCBT 1913 Unknown (cid:3)58 rods, 58 202 (cid:2) Round. The problem is not Neugebauer and
+�4 cubits(cid:4) �56 42 46 40 �set metrologically, but the �Sachs 1945, 10
+�answer is given in both
+�SPVS and area units.
+�Horizontal line at the end;
+�erasures.
+NBC 8082 Unknown 1 rod, 1 202 (cid:2) 1 46 40 Square with rounded corners; Neugebauer and
+�4 cubits �lower right corner missing. �Sachs 1945, 10
+�Numbers auxiliary to the �(no copy); Nemet­
+�calculation are written �Nejat 2002,
+�down the left­hand side of �no. 13
+�the tablet, separated from
+�the rest by a vertical line.
+2N­T 472 (cid:2) UM Nippur 1 cubit, [5 202 (cid:2) 28 36 40] Square with rounded corners; Neugebauer and
+�55­21­76 �2 fi ngers �upper half missing. �Sachs 1984 (no
+�copy); Robson
+�2000a, no. 7
+CBS 11318 Nippur 1 cubit 52 (cid:2) 25 Square with rounded corners; Neugebauer and
+�lower left corner missing. �Sachs 1984
+2N­T 116 (cid:2) Nippur 2⁄3 cubit, [9 402 (cid:2) 1 33 26 40] Tablet shape unknown. Neugebauer and
+�IM 57846 �9 fi ngers �Sachs 1984 (no
+�copy)
+2N­T 30 (cid:2) Nippur 1⁄3 cubit, 1 452 (cid:2)(cid:3)3 03 45(cid:4) Square with rounded corners. F. R. Steele 1951,
+IM 57828 �1⁄2 fi nger �pl. 7; Neugebauer
+�and Sachs 1984
+UM 29­15­192 Nippur 2 fi ngers 202 (cid:2) 6 40 Square with rounded corners. Neugebauer and
+�Sachs 1984
+UM 29­16­401 Nippur — 44 26 402 (cid:2) 32 55 Square with sharp corners? (See table B.10)
+�18 31 06 [40] �(Now all broken.)
+�Horizontal line above and
+�below answer.
+3N­T 611 (cid:2) Nippur — 16 402 (cid:2) 4 37 46 40 Square with rounded corners. (See table B.10)
+�A 30279
+UET 6/2 211 Ur — 16 402 (cid:2) 4 37 46 40 Round. Robson 1999, 251
+CBS 3551 Nippur — 7 362 (cid:2) 57 47 Square with sharp corners. (See table B.10)
+�(sic, for 45) 36 �Erasures. Horizontal line
+�below answer.
+N 3971 Nippur — 7 052 (cid:2) 50 10 25 Square with rounded corners. Robson 1999, 275
+�Erasures.
+CBS 7265 Nippur — 5 152 (cid:2) 27 33 45 Rectangular, portrait (See table B.10)
+�orientation.
+HS 232 Nippur — 4 502 (cid:2) 23! 21 40 Square with sharp corners? Friberg 1983, 82
+�Horizontal line below
+�answer.
+UET 6/2 321 Ur — 1 33 452 (cid:2) Round. The answer has Robson 1999, 251
+(cid:3)2 26 29 03 45(cid:4) �been erased.
+20 CHAPTER ONE
+Figure 1.4 Two Old Babylonian exercises in fi nding the area of a square. (CBS
+3551 and UET 6/2 211. Robson 2000a, no. 4; 1999, 521 fi g. A.5.7.)
+SCOPE, METHODS, SOURCES 21
+table 4.5). None of them has anything written on the back. Further, there
+is a striking similarity in textual layouts: all the Nippur tablets which set
+the problem in metrological terms write it in a box in the bottom right
+corner, just like 2N­T 30. Even more importantly, every single one of the
+sexagesimal calculations is laid out in the same way, with the length writ­
+ten twice in vertical alignment and the answer immediately underneath.
+Only the sharp­cornered square tablets mark it with a horizontal ruling,
+and 2N­T 30 is the only one of its kind with no sexagesimal solution.
+Some show traces of erased signs that suggest the remains of scratch
+calculations.
+A further search would yield a list of mathematical problems about
+squares with the parameters now missing, and a compilation of simple geo­
+metrical problems about squares with diagrams but no answers.20 A large
+tablet from Susa also catalogues (amongst other things) thirty statements
+and answers of the squaring problem, with lengths running systematically
+from 1 finger to 4 rods, just like the entries in a metrological list (see §4.2).21
+The hunt could go on, but enough evidence has already accumulated to
+show that elementary exercises in finding the area of a square were com­
+mon in their own right, quite apart from squarings carried out in the course
+of solving other sorts of problems. That strongly suggests that the purpose
+of at least some cuneiform mathematical activity was pedagogical.
+This discussion has already touched on the fact that the shape of tablets,
+as well as what is written on them, can be important. Once historians start
+to consider the material culture of mathematical cuneiform tablets as well
+as the features of ancient mathematical texts, then they become increas­
+ingly sensitive to their identities as archaeological artefacts with precise
+fi ndspots and belonging to complex cultural assemblages. If mathematical
+tablets come from a recorded archaeological context, then they can be re­
+lated to the tablets and other objects found with them as well as to the
+fi ndspot environment itself.
+Controlled stratigraphic excavation has been carried out to great effect
+in Iraq for over a century now. In the years before the First World War, the
+German teams led by Robert Koldewey and Walter Andrae at Assur, Baby­
+lon, and elsewhere set impeccable standards which have been followed,
+more or less, by most academic archaeological teams from all over the
+world ever since. However, scrupulous recording of the context of arte­
+facts quite simply generated too much data for pre­computerised analyses
+to manage, however much painstaking and time­consuming work was
+put into their publication (it is not uncommon for final reports to appear
+decades after the last trench was scraped). Tablets in particular have often
+become separated from their findspot information. It is only in the last few
+years with the advent of mass­produced relational database programmes
+that large finds of epigraphic material have been satisfactorily analysed
+22 CHAPTER ONE
+contextually. The tablet 2N­T 30 constitutes a good example. It was exca­
+vated in 1948 from an archaeological site in the ancient city of Nippur in
+southern Iraq, now in the middle of desert but once on a major artery of
+the Euphrates. In the early days of exploration, expeditions were sent out
+to Iraq with the express goal of recovering as many artefacts as possible for
+their sponsoring institutions. The University of Pennsylvania organised
+several large­scale trips to Nippur in the 1880s and ’90s, bringing back
+tens of thousands of tablets for its museum and depositing many more in
+the Imperial Ottoman Museum of Istanbul (for at that time Iraq was still
+a province of the Ottoman empire). Modern archaeology no longer oper­
+ates like that; instead, it focusses on small areas which are carefully chosen
+with the aim of answering specific research questions. After the Second
+World War, the Universities of Philadelphia and Chicago jointly initiated a
+new series of excavations at Nippur, which ran on and off until the Gulf
+War brought all archaeology in Iraq to a halt. One of their early aims was
+to understand better the area where their Victorian precursors had found
+a spectacularly large trove of Sumerian literary and scholarly tablets—not
+least because there had been a major controversy over whether the tablets
+constituted a putative temple library or not, an issue which could not be
+resolved at the time because the process of excavation had never been re­
+corded.22 The later excavators chose, in 1947, to open a trench in one of
+the old diggings, on a mound the Victorians had dubbed ‘Tablet Hill’, in
+the twin hopes of recovering more tablets of the same kind and of learning
+more about their origins. Area TB, as they called it (T for Tablet Hill, B
+because it was their second trench on the mound) measured just 30 by 40 m.
+When in the second season they reached Old Babylonian levels, they found
+not the monumental walls of temple architecture but well­built and spacious
+houses, densely grouped together. The dwelling they labelled House B had
+been rebuilt many times over the course of its useful life. In the second
+layer from the surface they found fifty­three tablets in the central courtyard
+and four of its six rooms (loci 10, 12, 17, 31, 45 in figure 1.5) as well as
+the remains of domestic pottery. Tablet 2N­T 30 was in room 12.23
+Unfortunately, although the excavation was published in the early 1960s,
+and has been reanalysed since, there has been no systematic study of the
+tablets found there. Partly this is a result of the division of fi nds between
+Philadelphia, Chicago, and the Iraq Museum in Baghdad, but it is more a
+symptom of the fact that tablets in general have not tended to be treated as
+archaeological artefacts. Nevertheless, there are enough data in the origi­
+nal excavation notes and in an unpublished catalogue of the 2N­T tablets
+to enable the assemblage of tablets found in House B to be reconstructed.
+It turns out that 2N­T 30 is just one of eight mathematical tablets found
+there (table 1.5), most of which are elementary calculations of squares or
+regular reciprocal pairs (for which see §4.3) while the other two are extracts
+SCOPE, METHODS, SOURCES 23
+Figure 1.5 House B, Area TB, Level II.1, in Old Babylonian Nippur, excavated in
+1948. Mathematical tablets were found in rooms 10, 12, and 45. (Stone 1987,
+pl. 30, courtesy of The Oriental Institute of The University of Chicago.)
+from standard pedagogical lists (for which see §4.2). Two of the calcula­
+tions are written on the same tablets as Sumerian proverbs from a standard
+scholastic compilation now known as Sumerian Proverbs Collection 2,
+which mostly set out appropriate behaviours for scribes (see further §4.4).
+Extracts from that proverb collection are found on nine further tablets,
+and elementary Sumerian literary compositions on nine more. All but fi ve
+of the remaining tablets contain standard lists of cuneiform signs, Sumer­
+ian words, or other well­attested items in the curricular repertoire of Old
+Babylonian Nippur.24 The curricular context of mathematics is examined
+in more detail in chapter 4, but a reasonable provisional conclusion would
+be that somebody wrote 2N­T 30 as part of a general scribal education
+that was quite standardised across the city, and that House B was probably
+either his own home or his teacher’s.
+Situating individual objects, and thereby sub­corpora of mathematics,
+within an archival and physical environment thus enables consideration of
+the people involved in creating, learning, and transmitting mathematical
+ideas, and to relate those ideas to the wider Mesopotamian world. The
+24 CHAPTER ONE
+Table 1.5
+Mathematical Tablets Found in House B of Area TB, Old Babylonian Nippur
+Excavation Museum
+Number Number Findspot Description Publication
+2N­T 27 IM 57826 Room 12, Calculation of regular Unpublished
+�level II­1 �reciprocal pair (7 55
+�33 20 ~ 7 34 55 18
+�45); erased exercise on
+�reverse; rectangular
+�tablet, c. 5.5 (cid:5) 7(cid:8)cm
+2N­T 30 IM 57828 Room 12, Problem and calculation (See table 1.4)
+�level II­1 �of square; square
+�tablet, c. 6.5 (cid:5) 6.5(cid:8)cm
+2N­T 35 IM unknown Room 12, Fragment of metrological Unpublished
+�level II­1 �list or table, c. 4 (cid:5) 4(cid:8)cm
+2N­T 115 IM 57845 Room 45, Calculation of regular Neugebauer
+�level II­1 �reciprocal pair (9 28 53 �and Sachs
+�[20] ~ 6 19 [41 15]); �1984
+�illegible exercise;
+�multiplication table
+�(times 1 40) on reverse;
+�fragment c. 5.5 (cid:5) 4.5(cid:8)cm
+2N­T 116 IM 57846 Room 45, Calculation of square; (See table 1.4)
+�level II­1 �c. 6.5 (cid:5) 7.5(cid:8)cm
+2N­T 131 IM 57850 Room 10, Fragment of table of Unpublished
+�level II­1 �squares, c. 5.5 (cid:5) 3(cid:8)cm
+2N­T 496 IM 58966 Room 10, Calculation of regular Al­Fouadi
+�level II­2 �reciprocal pair (16 40 �1979,
+�~ 3 36) and Sumerian �no. 134;
+�Proverb 2.42; �Alster 1997,
+�rectangular tablet, �304; Robson
+�c. 8.5 (cid:5) 8(cid:8)cm �2000a, 22–3
+2N­T 500 A 29985 Room 10, Calculation of regular Gordon 1959,
+�level II­1 �reciprocal pair (17 46 �pl. 70;
+�40 ~ 3 22 30) and �Alster
+�Sumerian Proverb 2.52; �1997, 55;
+�rectangular tablet, �Robson
+�c. 8 (cid:5) 7.5(cid:8)cm �2000a, 21–2
+SCOPE, METHODS, SOURCES 25
+socio­historical context of ancient Iraqi mathematics can be split into three
+concentric spheres: the inner zone, closest to the mathematics itself, is the
+scribal school in which arithmetic and metrology, calculational techniques,
+and mathematical concepts were recorded as a by­product of the educa­
+tional process. As House B illustrates, schools were not necessarily large
+institutions but could simply be homes in which somebody taught young
+family members how to read, write, and count. Who was mathematically
+educated, and to what degree? Who taught them, and how? The answers
+to these questions are only partially answerable at the moment, and differ
+depending on the time and place, but attempts will be made chapter by
+chapter for all the periods covered in this book.
+Beyond school is the sphere of work: the domain of the professionally
+numerate scribal administrator who used quantitative methods of manag­
+ing large institutions and, in later periods, of the scholar who used pat­
+terned and predictive approaches to the natural and supernatural worlds.
+Tracking the continuities and disjunctions between work and school math­
+ematics can enable us to estimate the extent to which mathematical train­
+ing equipped scribes for their working lives. This is a potentially enormous
+topic, so for manageability’s sake the book focuses on the domains of land
+and labour management, though it could equally well have highlighted
+livestock, agriculture, manufacturing, or construction. Equally, other areas
+of professionally literate intellectual culture are analysed for traces of
+mathematical thinking in literature, divination, and of course astronomy.
+The outer sphere extends beyond the literate to various aspects of Meso­
+potamian material culture: an ethno­mathematical approach can, for in­
+stance, identify the external constraints on mathematical thinking, or use
+the detailed insights of the mathematical texts to reveal the conceptualisa­
+tion of number, space, shape, symmetry, and the like in other aspects of
+ancient life, thereby encompassing the lives and thoughts people with no
+professional mathematical training. The theory and methods of ethno­
+mathematics were developed by scholars such as Ubiratan D’Ambrosio
+and Marcia Ascher for the study of cultures without writing;25 but an ethno­
+mathematical approach is just as applicable to the areas of literate societies
+that are beyond the reach of written mathematics. It proves a particularly
+useful tool for understanding ancient Iraq, in which only a tiny minority of
+professional urbanites could read and write.
+But the ancient world was not just composed of social institutions: it was
+populated by individuals with families, friends, and colleagues. So this book
+also spotlights individual creators, transmitters, and users of mathematical
+thoughts and ideas. That does not mean ‘great thinkers’ along the lines of
+Euclid or Archimedes or Ptolemy, but rather school teachers and pupils,
+bureaucrats and accountants, courtiers and scholars. Some of this evidence
+takes the form of names on tablets, but even anonymous writings can be
+26 CHAPTER ONE
+grouped by handwriting, stylistic idiosyncrasies, and subject matter. Even
+when a tablet’s origins are unknown, its orthography (spelling conven­
+tions), palaeography (handwriting), layout, shape, size, and other design
+features can all give important indications of the time and place of compo­
+sition as well as clues about its authorship and function.
+Such prosopographic work is necessary primarily because large numbers
+of tablets have no known context, having been acquired on the antiquities
+market by dealers, museums, and collectors. Before the creation of the
+modern Iraqi state and the drafting of strong antiquities laws in the 1920s26
+even the big Western museums employed agents to undertake opportunis­
+tic or systematic searches for ‘texts’ which, they were optimistic enough to
+suppose, could ‘speak for themselves’ without recourse to archaeological
+context. More recently, since the Gulf War of 1991 and again since the
+Iraq War of 2003, many more cuneiform tablets have fl ooded the interna­
+tional antiquities market. Some can still be found on sale today, despite
+increasingly stringent international legislation. This glut was caused fi rst
+by the looting of provincial museums after the Gulf War, later fuelled by
+the Iraqi economic crisis of the 1990s, and more recently provoked by the
+invasion and insurgency since 2003. International sanctions against Iraq
+followed by gross post­war mismanagement led both to the virtual col­
+lapse of the State Board of Antiquities and Heritage, which has responsi­
+bility for the protection of some ten thousand identifi ed archaeological
+sites nationwide, and to sudden and desperate poverty across larges
+swathes of a previously prosperous population. Now, as in former times,
+the perpetrators have been both impoverished local inhabitants who ex­
+ploit the tells for profit like any other natural resource of the area, and
+naive or unscrupulous purchasers whose paramount goal has been the re­
+covery of spectacular objects for public display or private hoarding. Al­
+most every cuneiform tablet on sale today, whether in a local antiques
+shop, through a major auction house, or on the web, is stolen property. In
+most countries it is technically a criminal offence to trade them. But legal­
+ity apart, the example of 2N­T 30 has shown that the archaeological con­
+text of a cuneiform tablet is as crucial to the holistic decipherment of that
+tablet as the writing it carries. While historians have to do the best they can
+with the context­free tablets that came out of the ground in the bad old
+days, anyone at all committed to the sensitive understanding of the past
+should resist the temptation to buy. Cuneiform tablets and other archaeo­
+logical artefacts must be allowed to remain undisturbed until they can be
+excavated and studied with the care and attention that they and the people
+who wrote them deserve.
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

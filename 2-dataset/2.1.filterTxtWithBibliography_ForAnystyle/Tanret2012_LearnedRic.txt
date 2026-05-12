@@ -1,0 +1,758 @@
+# METADATA
+author: Tanret M.
+source_id:Tanret2012_LearnedRic
+title: Learned, Rich, Famous, And Unhappy: Ur Utu Of Sippar
+Year: 2012
+Source_ID:  Tanret2012_LearnedRic
+Source_Type: Article in Book: OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+Pages: 270-281
+Web: www.researchgate.net/publication/297235478 DOI: 10.1093/oxfordhb/9780199557301.013.0013 
+
+# TEXT
+
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/297235478
+Learned, Rich, Famous, and Unhappy: Ur-Utu of Sippar
+Chapter · January 2012
+DOI: 10.1093/oxfordhb/9780199557301.013.0013
+CITATIONS READS
+4 673
+1 author:
+Michel Tanret
+Ghent University
+57 PUBLICATIONS 57 CITATIONS
+SEE PROFILE
+All content following this page was uploaded by Michel Tanret on 19 May 2018.
+The user has requested enhancement of the downloaded file.
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+chapter 13
+lear ned, r ich,
+fa mous, a nd u n happy:
+ur-utu of sippar
+michel tanret
+What do we know about the life of Ur-Utu, chief dirge singer (or chief lamenter,
+galamah̄ um ) of the goddess Annunitum and one of the most prominent citizens of Sippar
+Amnanum? What do we know about his education, his interests and aspirations?1
+His house was excavated by the Belgian Archaeological Mission to Iraq under the
+direction of Leon De Meyer and Hermann Gasche (Gasche 1 989 ) . Th e archive it con-
+tained turned out to be particularly rich and important: comprising 2500 tablets, it is the
+largest private Old Babylonian archive ever found. It was excavated so meticulously that
+we not only know in which layers and rooms the tablets were found but also how they
+were grouped within these rooms. Such precision in excavating and reporting enabled
+us to reconstruct the circumstances in which the archive was abandoned by its last
+owner, Ur-Utu, as well as the processes by which it was formed.
+Perhaps paradoxically, although Ur-Utu’s rich and well documented archive provides
+unique insights in the social and economic life during the second half of the Old
+Babylonian period, it does not provide us with much direct information about Ur-Utu
+as a person. Th e archive contains contracts and administrative texts documenting his
+economic activities and those of his family, but this does not tell us much about him. Th e
+over two hundred letters of the same archive look more promising at fi rst sight, but these
+1 Th is article is the result of research undertaken within the framework of the Interuniversity Pole
+of Attraction Programme VI/34—Belgian State. Federal Offi ce for Belgian Science Policy.
+Names of Old Babylonian kings will be abbreviated as follows: Sm = Sin-muballiṭ, Ha = Hammurabi,
+Si = Samsu-iluna, Ae = Abi-ešuh, Ad = Ammi-ditana, Aṣ = Ammi-ṣaduqa.
+Di (= Dêr inscriptions) numbers refer to unpublished texts form the Ur-Utu archive, unless otherwise
+stated. All Di letters cited are taken from Caroline Janssen’s unpublished PhD thesis (Janssen 1993 ) whom
+we thank for permission to cite. When a Di number is cited alone this refers to an unpublished document.
+00000011225533223344..IINNDDDD 227700 22//1177//22001111 99::2211::4400 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+learned, rich, famous, and unhappy: ur-utu of sippar 
+were almost all sent to him by other people with only a few copies of letters he sent. And
+as they mostly concern economic matters, or allude to situations we do not otherwise
+know about, the letters are also little help to us.
+But although we have no direct access to the information we want, we will see there
+are some indirect and unexpected ways to lift some of the veil the time has spread over
+the person of Ur-Utu. We will proceed from an attempt at a simple biography and reach
+out on every possible occasion from there to his intellectual undertakings, his hopes,
+and his fears.
+Yahrurum origins
+Ur-Utu was born into a family long involved with priestly prebends, or rights to temple
+income, involving a number of days of the dirge singer ( gala )-ship of the goddess Inanna
+of Sippar Yahrurum. His known ancestry goes back six generations, to the reign of
+Apil-Sin (1830–1813).2 Th e priestly functions also originate from that time. His family
+had always lived in Sippar Yahrurum but Ur-Utu’s father, Inanna-mansum, moved to
+Sippar-Amnanum, a sister town some fi ve kilometres away, when he became a chief
+dirge singer—the fi rst of his family—in the fi rst year of king Ammi-ditana (1683).
+Moving to Amnanum and moving in Amnanum
+Inanna-mansum stayed in his fi rst house in Sippar-Amnanum for 28 years (1683–1655)
+and then bought a group of smaller houses, had them demolished, and built a completely
+new and much larger one in their place (Janssen et al. 1 994 ) . Th is was a typical but sizea-
+ble Old Babylonian house of 193.75 m 2 , with a central court of about 35 m 2 surrounded by
+nine rooms (Gasche 1 989 ) . Th ere probably was only a ground fl oor. Aft er 27 years, in
+1628, he rebuilt it. Some rooms received new fl oors and three rooms were added at the
+back, enlarging the house to 250 m 2 . Th is was not a small house, but the materials used
+for its construction, in particular the foundations and the brickwork, were of poor qual-
+ity. We may have expected better for the dwelling of the highest priest in town.
+Although the rebuilding might have been necessary because of the poor quality of the
+building materials, the reason for adding the rooms was to create a larger space for the
+archive. Th is had been kept in one of the smaller rooms opening onto the courtyard,
+with a fl oor area of just under 10 m2 . Th e newly created archive room was nearly double
+this size at just under 19 m2 . Th e fact that there were two archive rooms in the house is
+important in relation to the place where the archival tablets were found. We will come
+back to this later, aft er a look at the family troubles between Inanna-mansum’s sons.
+2 Absolute dates conform to the Middle Chronology for reasons of uniformity throughout this
+volume.
+00000011225533223344..IINNDDDD 227711 22//1177//22001111 99::2211::4400 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+ michel tanret
+Th e dead
+Th e house was not only a place for the living but it was also the last resting place for the
+deceased members of the family (Gasche 1989 : 65–66). Th e number of graves under the
+house indicates that child mortality must have been relatively high, which is not surpris-
+ing. Th e gender of the deceased is interesting: four of the fi ve adults were women, a fact
+that fi ts in well with the high rate of newborn and infant deaths. It is tempting to identify
+the older man buried under the old archive room with Inanna-mansum, Ur-Utu’s father,
+who died in the house. However, as Hermann Gasche already noted, this poses a prob-
+lem since we know that Inanna-mansum’s career lasted 42 years while anthropological
+study of the bones indicates that the remains are of a man of up to 50. We would tend to
+discount this estimate and consider this to be Inanna-mansum. Th e grave in itself is not
+of particularly high quality, although it is a vault tomb, but it has quite a number of grave
+gift s, including ox and sheep or goat meat (now only bones), some of which were even
+deposited in the pit outside the tomb. Th ese features make it exceptional among the
+graves under the house.
+During the rebuilding and the rearrangement of the archive, the house burnt down,
+never to be rebuilt or revisited. Th is fi nal occupation phase lasted only fi ve months
+(Tanret 2 001 ) and, surprisingly enough, in that short span of time no less than nine indi-
+viduals were buried under the house. All of them are newborns or babies up to a year
+and a half, except for a boy of about 11. As Gasche ( 1989 : 66) noted, this implies that three
+or four women reached the end of their pregnancies within a very short timespan.
+Epidemics or malnutrition, the causes of death proposed by Gasche (who reckoned on
+16 months for this phase), seem all the more probable now that we know they took place
+in just fi ve months. Th ere must have been hardship towards the end.
+But let us fi rst turn to happier times.
+Ur-Utu is born
+Inanna-mansum had married a woman from Babylon, Ilša-hegalli, who was a q adištum-
+priestess. Th eir fi rst son was probably Ur-Utu. As we will see further on, Ur-Utu may
+have been in his early teens around 1651. Th is would put his date of birth around 1661, in
+Ad 23, twenty-three years aft er his father moved to Sippar Yahrurum and six years before
+he had his new house built. He disappeared in Aṣ 18 (1629) at the age of 32. If we assume
+that his father Inanna-mansum was about 20 when he became chief dirge singer and
+moved to Amnanum in Ad 1 (1683) he would have been born in 1703, which corresponds
+to Ae 9. (His father Marduk-naṣir is attested under Samsu-iluna, 1749–1712). He would
+have had Ur-Utu at a rather late age, when he was 42.
+Ur-Utu had a sister, Lamassani, and three brothers, Kubburum, Huzalum, and Ili-
+iqišam. Th is could have been a well-to-do and happy family, but it was not and there
+were reasons for that.
+00000011225533223344..IINNDDDD 227722 22//1177//22001111 99::2211::4400 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+learned, rich, famous, and unhappy: ur-utu of sippar 
+Trouble in the family
+Aft er a 41-year career, at the end of 1643 (Aṣ 4), Inanna-mansum handed over his role as
+chief dirge singer, head of the main temple of Sippar-Amnanum, to his son Ur-Utu and
+donated a number of fi elds and house plots to him (for a full account of this section, see
+Janssen 1992 ) . Th e fact that Ur-Utu was already receiving (part of) his inheritance pro-
+voked the jealousy of his three brothers, who also claimed their shares. Inanna-mansum
+refused to give them anything during his lifetime, infuriating them even more. Th en, as
+so oft en in those times, they tried to invoke the help of a higher authority. When an
+infl uential person visited Sippar Yahrurum he was off ered golden earrings belonging to
+one of the brothers’ wives as a bribe in exchange for interceding with Inanna-mansum.
+Th e latter’s answer was most surprising, at least according to Ur-Utu (not the most objec-
+tive witness in this matter but there is no other), who cites his father’s words in a letter.
+According to him Inanna-mansum said:
+To whom should I divide my inheritance? Th is Kubburum, he is the son of Warad-
+Mamu, a servant of Esangila-mansum, the [t ext broken ] Ili-iqišam is the son of a
+sister of the daughter-in-law of Ku[…]ia and Huzalum is the son of a (female) ten-
+ant of the house of a slave of the sanga- priest of Zarpanitum. I will not leave my
+inheritance to them. Ur-Utu has received my sceptre [= he is my heir]. I will leave
+everything to him. (Janssen 1992 : 24–25)
+E ven if we may suppose there is some exaggeration here, especially where Ur-Utu claims
+that his father wanted to make him sole heir, the remarks about the brothers not being
+Inanna-mansum’s children must be taken seriously. As Lucile Barberon (2 005 ) has con-
+vincingly shown, since Inanna-mansum’s wife was a q adištum -priestess, it is probable
+that although she could marry she was not allowed to bear children, which means they
+were all adopted. Starting from the idea that none of these children were children of
+Inanna-mansum’s wife, Barberon hypothesizes that when Inanna-mansum refers to
+their father they are not his children either, but when he refers only to a mother he might
+well be the father himself, the mothers being secondary wives he may have had. Th is
+leads then to the conclusion that Kubburum was adopted by Inanna-mansum and his
+wife and that Ur-Utu, Huzalum and Ili-iqišam (probably in that order) were sons of
+Inanna-mansum with secondary wives. Th is confi rms our earlier conclusion that
+Ur-Utu was Inanna-mansum’s eldest son and thus the heir to his title.
+Th is also fi ts well in with the fact that Kubburum (the only son who was completely
+adopted) was the most vehement concerning the inheritance, no doubt because he felt
+his position to be least assured. He managed to persuade his ‘brothers’ (since they had
+received nothing from their father either) to manipulate their father into giving them
+their shares and to litigate against Inana-mansum’s wife for the property she had received
+from him (Janssen 1 992 : 24–25, 35–36) . However, we sadly note that, notwithstanding
+the fact that one brother was adopted and the three others had diff erent mothers, all of
+them are simply referred to as ‘sons of Inanna-mansum and his wife’ in many texts of the
+archive, a historian’s nightmare.
+00000011225533223344..IINNDDDD 227733 22//1177//22001111 99::2211::4400 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+ michel tanret
+Inanna-mansum’s disinheritance threat was in fact only that, because further infor-
+mation shows that aft er Inanna-mansum’s death his property was divided among his
+sons. Indeed, a little further on in the same letter, Ur-Utu states that the brothers have
+divided the inheritance, except for a house in the sister town Sippar Yahrurum, where
+the family had lived until Inanna-mansum moved to Sippar-Amnanum. Th is house had
+been sealed but, still according to Ur-Utu, the brothers had broken into it and stolen
+goods that had been kept there: 1200 litres of oil, fi ne clothes, copper cauldrons.
+Altogether the haul was worth 10 minas of silver, about 5 kilos—quite a sum, the approx-
+imate price of 50 ha of fi elds or several houses in town. Again, in view of the fact that this
+information comes from a letter in which Ur-Utu complains about how he was wronged
+by his brothers, we may have to take it with a grain of salt. As if this were not enough, still
+according to Ur-Utu, his brothers broke into the house a second time and took every-
+thing that was left , down to the hairpins and pestles. Ur-Utu then asks his intercessor to
+speak to a very important person in the capital city, Babylon, and persuade him to have
+the brothers arrested and brought to the capital to be judged and condemned.
+As already mentioned, Inanna-mansum’s wife also had to suff er the attacks from three
+of her sons. Inanna-mansum had given her some property as a gift from husband to wife.
+When he died the three—Kubburum, Ili-iqišam, and Huzalum—started litigation against
+her. Again, they felt that a part of their rightful inheritance had been taken away. Again, a
+higher offi cial was approached and bribed (Janssen 1 992 : 35–36) . A supplementary diffi -
+culty for the mother was that she had lost the sealed document stipulating the gift .
+Offi cials came to Ur-Utu’s house, where his mother was living, examined the property
+deeds, and concluded that she had indeed rightfully received the gift from her husband.
+So fi nally, aft er years of dispute and lawsuits all was well that ended well: Ur-Utu
+became chief dirge singer and received a large part of his inheritance at the same time,
+while his father was still living. Th e brothers protested and lost but fi nally got their share
+of the inheritance aft er their father died. All seemed to be going well for Ur-Utu.
+Ur-Utu, the man
+Th e chief dirge singer was a very important person in his local community of Sippar-
+Amnanum but it is clear that the s anga -priests of the Ebabbar, Šamaš’s temple in Sippar
+Yahrurum, were more important (Harris 1975: 187; Charpin 1988 : 28–30 text HG 96) . When
+the chief dirge singer was involved in a lawsuit with his brothers they referred to higher
+authorities who resided in Babylon or travelled around. Th ey off ered bribes and asked inter-
+mediaries to approach high offi cials in their favour ( Janssen 1 992: 24–26). Social networks
+were of the utmost importance. Th e chief dirge singer had relations in Babylon who inter-
+ceded for them with the higher authorities there. Th ey seem to have had relatively few deal-
+ings with their fellow-citizens; or at least, they are much more sparsely documented.
+As the future head of the local temple Ur-Utu was no doubt inducted orally by his
+father into the Annunitum cult and the meaning of its various rituals. In writing we only
+00000011225533223344..IINNDDDD 227744 22//1177//22001111 99::2211::4400 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+learned, rich, famous, and unhappy: ur-utu of sippar 
+have the ‘bookeeping’ aspect of the cult, concerning the management of rations and the
+produce left over from the execution of the rites (Tanret & Van Lerberghe 1 993 ) . Ur-Utu
+had the authority to organize rites of Annunitum, which were performed by many indi-
+viduals, mainly but not exclusively women. Th is performance was lucrative for the chief
+dirge singer because the remains of these cultic activities (silver, beer, bread, and fl our)
+were due to him but it was also desirable from the performer’s point of view. In Ur-Utu’s
+archive we fi nd a number of letters in which higher ranked persons ask or command the
+chief dirge singer to accept people of their entourage for the rites. Th e granting of these
+requests no doubt gave Ur-utu some leverage among the high and mighty.
+Wealth
+As an indication of Ur-Utu’s wealth we take the example of his ownership of fi elds. We
+have to look behind the data to get a more accurate picture. Ur-Utu owned quite a number
+of fi elds in many agricultural districts in the Sippar region. Some of these he had inher-
+ited from his father. According to one text from the archive his father had bequeathed
+8.28 ha (1 b ur and 5 iku ) to him during his lifetime (Di 932, Janssen 1 992 : 37) . We know he
+owned much more than that. We can calculate the area he must have owned or managed
+on the basis that he paid an annual tax of 82.3.4.0 g ur or nearly 25,000 litres of barley. One
+text from the archive gives the equivalence 6 gín (54 g) of silver = 6 gur (1,800 litres) of
+barley, the biltum -tax on 1 bur (6.48 ha) of fi eld (Di 837). 3 Th is allows us to calculate that
+the 24,820 litres he paid every year was the tax on nearly 14 bur, or almost 90 ha of land.
+Th ere is no document in the archive showing that Ur-Utu owned or managed any
+fi elds other than his own, and there is no indication that he managed the fi elds of the
+Annunitum temple (if these existed at all). Th at leaves us with a bit of a mystery as to
+where all these fi elds came from. It is true that the archive contains a sizeable real estate
+section but it certainly does not document the acquisition of a total of more than 80 ha
+of land. We also must take into account that what we have calculated so far is just the tax
+he had to pay on these fi elds. Th e real yield must have been higher. Some texts also show
+that even on the taxes he had to pay Ur-Utu made a profi t: he lent the barley to a third
+party before it went to its destination. In Di 946, for instance, silver and barley owed by
+him are lent to another person who will, at the time of the harvest, pay the taxes due.
+Whatever the case, Ur-Utu, must have been a wealthy man.
+Education
+Not only was Ur-Utu a wealthy and respected citizen of Sippar-Amnanum, he was also
+an educated person. In the open courtyard of his house there was an installation typical
+for the teaching of cuneiform writing. Th is was a so-called tablet bin made of large bricks
+3 Other texts count 7 or even 8 gur per bur.
+00000011225533223344..IINNDDDD 227755 22//1177//22001111 99::2211::4400 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+ michel tanret
+laid fl at, surrounded by standing ones, to make a more or less waterproof container fi lled
+with exercise tablets and purifi ed clay. New tablets could be made out of the old ones or
+with the clay reserve as required by the teaching process. Since previous exercises were
+thrown away and not all reused, examples of all stages of the learning process could be
+retrieved archaeologically.
+As we have shown elsewhere, we can formulate a hypothesis as to the identity of the
+teacher and the student ( Tanret 2002 ) . Th e bin and its contents belong to the stratigraph-
+ical level IIId. Th is is the fi rst occupational phase of the house, to be dated from Ad 29
+(1655) to Aṣ 18 (1629), a period of 26 years. Th ese are the last twelve years of Inanna-
+mansum’s chief dirge singership and almost the entire career of his son, who continued
+to live in the same house aft er him. Th e presence of the bin shows that, somewhere
+within this timespan, someone learned to write. Aft er IIId no further training took
+place; the whole courtyard and bin were covered by a new fl oor.
+Th e exercise tablets that were found allow us to conclude that this was no general or
+repeated training but the education of one single person. It must be stressed that this
+training took not place in what could be called a ‘school’, nor even the house of a scribe.
+Th is was the house of a chief dirge singer. We can conclude that the person who was edu-
+cated here was someone who lived in the house. A further important point is that the
+exercises still present in the bin or around it represent most of the phases of the elemen-
+tary curriculum. Th e most obvious candidate for this one person receiving an elemen-
+tary scribal training is Ur-Utu. Is this chronologically possible?
+Th e archaeological data provide us with a 26-year timespan as we saw above: the last
+12 years of Inanna-mansum (1655–1643), and then 14 years (1643–1629) of chief dirge
+singership for his son Ur-Utu. We can safely assume that when Ur-Utu inherited his
+father’s title at the very end of Aṣ 4 (1643) his learning days were over. He had mastered
+what he needed to know of writing and reading and had no doubt also received the nec-
+essary chief dirge singer training from his father.
+Our time frame for his scribal education is thus shortened to 12 years (1655–1643),
+which is still much too long. We have a way of reducing it further by refl ecting on who
+the teacher might have been. Th is must have been a professional scribe and one of these,
+Šumum-liṣi, worked for Inanna-mansum and later for Ur-Utu himself quite oft en. His
+name was found on many of the tablets from their archive, which implies he was fre-
+quently in the house and could have undertaken the scribal education of Inanna-
+mansum’s son and successor. Šumum-liṣi is mentioned for the fi rst time in the archive in
+Ad 33 (1651) so we suppose that his teaching started aft er this, narrowing the time frame
+to eight years, between Ad 33 (1651) and Aṣ 4 (1643). If we suppose that Ur-Utu was in his
+early teens when he learned to read and write, he would have been born in Ad 23 (1661).
+What precisely did Ur-Utu learn? Th e fi rst exercises consisted of familiarizing oneself
+with the clay, which had been purifi ed to eliminate all intrusive elements like small peb-
+bles, splinters of reed or wood. Th is clay had then to be kneaded and shaped into a tablet.
+Diff erent shapes of tablets prepared in such a way, but without any writing, attest to this
+stage (Tanret 2 002 : 125–127) . Th en the apprentice had to be trained in the manipulation
+of the stylus, in all probability held between the thumb and the index fi nger, within the
+00000011225533223344..IINNDDDD 227766 22//1177//22001111 99::2211::4400 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+learned, rich, famous, and unhappy: ur-utu of sippar 
+palm of the hand. Th e only interesting archaeological objects found in the same layer of
+Ur-Utu’s house as the exercise tablets is a collection of small bone objects that have been
+identifi ed as writing styli. First impressions were made in the clay, always in threes
+according to the tablets found: a vertical, a horizontal and a wedge, corresponding to the
+three basic positions of the stylus for writing any cuneiform sign.
+From there on a list of simple signs was copied, traditionally called ‘Syllable Alphabet A’
+by Assyriologists. Th is list of about 126 lines was no doubt learned by heart and copied over
+and over. In the examples of Ur-Utu’s fi rst attempts at this excerise, it becomes clear how
+diffi cult it is to impress the basic lines in such a way that they form a single sign. Oft en the
+signs have an ‘exploded’ look, not achieving the required unity. Some transitional tablets
+were also found, combining Syllable Alphabet A either with the very fi rst stylus manipula-
+tions or the subsequent exercise: the fi rst syllabary. Th is was a much longer list, of over 400
+lines, now called Syllabary A. Th e aim was now not only to learn how to form more and
+more signs but also to learn their phonetic values by heart, sometimes with more than one
+value for the same sign. Th e teaching was based on repetition and learning by heart.
+In the tablet bin only one clear example is attested of the next stage, which was the
+combination of several signs to make personal names. Th is must have been very useful
+for Ur-Utu when searching through his archive but also for reasons of family tradition,
+as we shall see further on.
+Th e next documented step is the copying of lexical lists. Th ese were very long lists with
+thematically grouped nouns referring to real-world objects. Th e exercises that were found
+were extracts of the list of reeds, pots, skins and metal objects; of the list of stones, plants,
+fi sh, birds and clothes; of the list of geographical names and terminology and stars; of the
+list of foods and drinks. With these exercises Ur-Utu learnt to write and read words, oft en
+including logograms, and learnt their meaning. He was taught that certain words should
+be written in a certain way. Within this phase the fi rst exercises consisted in copying on the
+right half of a large tablet the lines written by the teacher on the left half. Later, the appren-
+tice could write parts of the list in several columns, under dictation or all by himself.
+Mathematics was an important part of the curriculum (Robson 2008 ) . Metrological lists,
+enumerating the diff erent units from small to large, and tables incorporating a conversion
+into the sexagesimal positional system in order to facilitate calculations were taught. No
+examples of actual calculations were found although Ur-Utu must have learnt the basic
+mathematical operations. More advanced mathematics was probably not included in his
+training. One fragment was found of a list including Sumerian formulas used in the writing
+of contracts. Th is too would have doubtless come in handy for the chief dirge singer.
+How does this all fi t in the larger scribal curriculum? Niek V eldhuis ( 1997 : 63) distin-
+guished four phases of the elementary scribal study curriculum in the Old Babylonian
+city of Nippur. Th e fi rst comprises the acquisition of writing techniques such as the han-
+dling of stylus and clay, the writing of simple signs and the writing of personal names.
+Th e second consists of the writing and learning by heart of the so-called thematic lists,
+list of nouns designating trees, wooden objects, reeds, vessels, leather, metal objects, ani-
+mals, meats, stones, plants, fi sh, birds, garments, geographical names, stars, and food-
+stuff s. Th e third is represented by metrological lists and tables, advanced lists, Sumerian
+00000011225533223344..IINNDDDD 227777 22//1177//22001111 99::2211::4400 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+ michel tanret
+readings of signs, thematic-acrographic, compound signs. Th e fourth is introductory
+Sumerian with model contracts and proverbs. Th e advanced curriculum consists of lit-
+erary texts. In the chief dirge singer’s house the surviving scribal exercises all belong to
+this elementary curriculum, within which the fi rst three phases are particularly well rep-
+resented (cf. Robson 2001 ) .
+An important question for our investigation is what this elementary education meant
+for Ur-Utu’s intellectual development. A fi rst and evident point is that it made him stand
+out among his contemporaries. During the Old Babylonian period knowledge of reading
+and writing seems to have been limited to a small number of people. Dominique C harpin
+( 2008 , 31–51) has convincingly shown that it was not exclusively the domain of the profes-
+sional scribes but that the elite, higher temple offi ce holders, palace administrators, and
+even higher military offi cers could at least read and in many cases also write simple texts
+and letters. As he shows, fewer than 100 cuneiform signs suffi ced for this. Th e archive of
+the chief dirge singers adds weight to Charpin’s point that an elementary form of literacy
+could have been dispensed to non-scribes. A slight problem seems to be that although a
+limited curriculum could be suffi cient there is no trace of an adapted curriculum for this
+‘light’ form of cuneiform teaching. As is clear from Ur-Utu’s apprenticeship, the tradi-
+tional scribal training had to be painstakingly worked through even to retain only these
+hundred signs. Whichever way we look at it, scribal training was heavy.
+It is certain that there were practical reasons for this non-professional scribal educa-
+tion. Th ese were the people who exercised control over society and it would not have
+been wise for them to leave all of the written aspect of this to specialists. Th ere could also
+have been another dimension, in the sense of Bourdieu and Passeron’s notion of ‘cultural
+capital’ (1970; cited in Veldhuis 1997 : 143) : the idea that a number of intellectual qualifi -
+cations are generated by the family and the school. Th ese tend to fi x and perpetuate
+social elites and in doing so are a source of power. Th is is certainly pertinent for a tradi-
+tional society like Mesopotamia. In Ur-Utu’s case this means that, apart from the practi-
+cal benefi ts, his even elementary knowledge of reading and writing reinforced his élite
+social standing.
+Th e archive itself illuminates another and quite unexpected value of the written record
+for the chief dirge singers. First and foremost it is a collection of economic, administra-
+tive and juridical documents, written proofs which had to be kept and produced in case
+of legal claims against the family. A certain group of documents, however, shows that
+there was another reason to keep old deeds. To fi nd out more about this we will now take
+a look at Ur-Utu’s archive.
+The archive
+Th e archive was preserved in situ because a catastrophe struck the house of the chief
+dirge singer in Aṣ 18 (1629): a fi re, which made the inhabitants fl ee with their possessions
+including some tablets. Some were dropped on their way out, leaving a trail of tablets in
+the courtyard (Figure 13.2 ) .
+00000011225533223344..IINNDDDD 227788 22//1177//22001111 99::2211::4400 PPMM
+learned, rich, famous, and unhappy: ur-utu of sippar 
+018
+019
+022 023
+029
+025
+026
+028
+027
+004
+Pit 1
+012A
+003
+004
+(1)
+002 012B
+009 007
+008
+980
+TELL ed-DER, Chantier E
+Phase IIIb (second phase of occupation of the house of Ur-Utu: 1534/1533 BC)
+N
+0001 089
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+New archive room
+013
+1000
+017 014 Ruined walls
+of IIId
+Old archive room
+Bench Bench
+teerts
+e
+t
+h
+o
+t
+w sda 020
+Ruined walls
+of IIId
+Tablets lost
+on the way out
+011
+Bin
+Ruined walls
+of IIId
+Oven
+0 5 10 m
+fig. 13.2 When Ur-Utu’s house was on fi re: the way out (Gasche 1989: pl. 12.1; reproduced with
+the author’s permission).
+00000011225533223344..IINNDDDD 227799 22//1177//22001111 99::2211::4400 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+ michel tanret
+Th is catastrophe happened while the archive rooms were in the middle of being rear-
+ranged. Th e original archive room, locus 22, had become a temporary storage room and
+a number of tablets had already been moved to the new and much larger room, locus 17.
+Th e archive contains a number of older tablets, dating from before the family’s move from
+Yahrurum to Amnanum. Th is can only mean that Inanna-mansum moved them from the
+one town to the other. As far as they are preserved, none of these tablets bear his name. Th is is
+a fi rst (sub)archive. While Inanna-mansum lived in his fi rst house in Amnanum his archive
+was enriched with new tablets. Th is is a second (sub)archive. When he moved to his new
+house in Ad 29 (1655) he took with him the tablets that he had brought from Sippar Yahrurum
+and, no doubt aft er fi ltering and discarding, some of those that had entered his archive when
+he lived in his fi rst house, from Ad 1 to Ad 28. Th e third (sub)archive comprises tablets that
+were written in the family’s third and fi nal house before the fi re struck: Inanna-mansum’s
+tablets from Ad 29 to Aṣ 4 and tablets of Ur-Utu from Aṣ 4 to 18. In all, we can conclude, there
+are three layers in this archive, which can be chronologically distinguished.
+A very special group of tablets
+Among the diff erent heaps of tablets in the old archive room 22 there is one which stands
+out (for a detailed discussion see Tanret 2008 ) . Th is is group L, still stacked in such a way
+that it must have originally been contained in a (reed) box, whereas in all the other
+groups the tablets were just heaped up (Figure 1 3.1 ) . Th e implication is that this group
+was special. It soon turned out that these were no property deeds or otherwise economi-
+cally important tablets.
+A small group of 63 tablets from this special box were brought by Inanna-mansum
+from Sippar Yahrurum, from his father’s archive, to Sippar-Amnanum, to his fi rst house.
+Quite surprisingly, these documents never mention Inana-mansum’s name, they do not
+relate to any property he inherited, and most of them—if not all—were many years out
+of date. What then could have prompted him to take precisely these documents ?
+Th e oldest document in the box is a tablet dated to Hammurabi 3 (1790) concerning
+silver to be returned to two members of the family, four generations before Inanna-
+mansum (Di 1911). It is the oldest tablet of the archive mentioning members of the fam-
+ily. Th is tablet must have entered the archive at the time it was written. For the last of the
+archive’s owners, Ur-Utu, this tablet went back fi ve generations. Each generation had
+carefully kept and transmitted this document that in the meantime had become eco-
+nomically useless. When the archive was brutally terminated by fi re in Aṣ 18 it still con-
+tained this tablet, which by then had reached the venerable age of 161.
+Th irty tablets of this group are dated to Hammurabi’s successor, Samsu-iluna, and all
+share two characteristics. Th e fi rst is that all of them mention one or more members of the
+previous generations of Inanna-mansum’s family. Th e second is that by the time Inanna-
+mansum took them to Amnanum, they too had lost their economic value. To be sure, there
+are other Samsu-iluna documents in the archive but whereas all the others concern the
+transfer of real estate, none of the ones in the box do. Th is is a very clear cut distinction, but
+00000011225533223344..IINNDDDD 228800 22//1177//22001111 99::2211::4411 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+learned, rich, famous, and unhappy: ur-utu of sippar 
+fig. 13.1 Th e tablets from the special box in Ur-Utu’s house (Gasche 1989: pl. 14.2; reproduced
+with the author’s permission).
+how to explain the conservation of non real estate documents over such a long period of
+time? Th e real estate documents were of course kept as proofs of ownership. As for those in
+the box, we can see no other reason for their presence in the archive until its end under
+Ammi-ṣaduqa than that they preserve the names and family relations of the members of
+Inanna-mansum’s family. Th ey allow him (and us) to reconstruct (a sizeable part of) his
+family tree, reaching further back than human memory and being destined to be kept and
+transmitted to further generations until fi re put an untimely stop to this process.
+Among the documents in the box dated to the period of Inanna-mansum’s fi rst house
+in Sippar-Amnanum, there are fi ve written for Inanna-mansum which entered his
+archive on the date they were written: Ad 1, 3 and 20. Not only were they kept until Ad 29
+when Inanna-mansum left his fi rst house but they were transported, no doubt in this
+box, together with the older family mementoes, to his new house. Why were precisely
+these documents chosen to be kept in this group, more precisely selected to be in this
+box, while many others were doubtless thrown away?
+Th e answer is that all of them had some special meaning. One is the oldest consign-
+ment document in the archive. It concerns 2 shekels (c. 16.6 g) of silver handed over to a
+woman who has to transmit it to someone else (the text is damaged in several places).
+Another is Inanna’s mansum’s oldest purchase of an ox. A third and fourth one form a
+couple: the last payment of the igi.sÁ tax due by the dirge singers and the fi rst in which
+Inanna-mansum pays his due to the storehouse of Sippar-Amnanum as a c hief dirge
+00000011225533223344..IINNDDDD 228811 22//1177//22001111 99::2211::4411 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+ michel tanret
+singer. In other words, this couple marks the important promotion the family had been
+hoping for. Th e last one confi rms this. It is a very normal, run-of-the-mill loan, one of
+the four hundred loans in the archive. What makes it stand out is that it is the very fi rst
+written mention of Inanna-mansum and adds his title ‘chief dirge singer’. His promotion
+to head of Annunitum’s temple in Sippar-Amnanum had not been marked by a royal
+edict or any other written proclamation, so if he wanted a memento of his nomination
+he had to preserve a simple loan (which he may have taken out for this very purpose) on
+the fi rst day of the fi rst year of the reign of king Ammi-ditana.
+If the foregoing might have left some doubt as to the cogency of our hypothesis, we can
+add another document from the same group, undated but obviously early Ammi-ditana.
+Th e obverse has four lines of writing, the reverse is anepigraphic. Th e text runs as follows:
+Inanna-ma[nsum]
+chief dirge singer [of the goddess Annunitum]
+son of Mar[duk-naṣir]
+servant of Ammi-[ditana]
+Th is cannot be anything but the four-line inscription which had to be written on Inanna-
+mansum’s seal, a model for the seal cutter.4 Another completely useless document once
+his seal had been cut, preserved among his personal mementoes in his very special box.
+Our reconstruction of a box full of mementoes shows that even day-to-day economic
+texts could be reinvested with a new meaning, could be recontextualized and rise above
+the economic level to the emotional one. Th is is a journey of historical discovery that
+could not have been undertaken in any other place than a well-excavated archive and
+these are fi ndings that cannot be duplicated (or disproved) in any other setting than
+another such archive.
+Th is box must have been very precious for the family, with a value extending above
+the purely economic. No doubt, on certain very special occasions Inanna-mansum must
+have taken his son to the archive room just like his own father, and before him his father’s
+father, to show him the special box, giving the family tradition a concrete framework in
+the form of this collection of memorabilia. And here the arduous acquisition of reading
+cuneiform, especially the proper names, was rewarded with the ability to trace back the
+family line over the generations.
+Concern for the future
+Unfortunately, the offi ce of chief dirge singer, prestigious as it was, also had less positive
+and even life-threatening aspects to it. A number of documents allow us a glimpse of
+Ur-Utu’s metaphysical concerns.
+4 An impression of this seal was published by Charpin (1 988 : seal G. p. 30 and plate p. 28). Th e fi rst line is
+not rolled on HG 96 but can now safely be restored with Inanna-mansum’s name, as proposed by Charpin.
+00000011225533223344..IINNDDDD 228822 22//1177//22001111 99::2211::4411 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+learned, rich, famous, and unhappy: ur-utu of sippar 
+First there is a group of eleven diviner’s reports. Th ese texts are technical resumes of
+the observation of the internal organs, in particular a description of the parts of the liver,
+without further comments. Th e diviner must have communicated his interpretation of
+these ominous signs orally to Ur-Utu and handed him his technical report as evidence.
+Unfortunately the dates of only a few of these documents are preserved. Two are dated to
+the fi ft h year of Ammi-ṣaduqa (1641), in months 8 and 11; two other ones are dated to the
+tenth year (1636), months 4 and 5. We may suppose there were many more of these docu-
+ments, and that Ur-Utu frequently consulted the diviners. Th is might indicate a great
+concern for knowledge about his (and his family’s) well-being in the future and even in
+the immediate future, since he had consultations in months four and fi ve, eight and
+eleven. We have evidence to suggest that Ur-Utu had good reasons for doing this, other
+than a general curiosity about things to come. A remarkable fact is that all of these
+reports were found in room 17 of the house, which means they were sorted out and
+meant to be kept, even though some of them were thirteen years old by the time of the
+archive’s rearrangement and fi re.
+Singing dirges for a reason
+In no fewer than 46 letters out of 200 in the archive reference is made to a ‘binding’
+( e’iltum ) of the chief dirge singer. Th is word is oft en included in the opening lines of the
+letter, such as this one:
+Speak to my father,
+Th us Muti-ilum:
+May Šamaš and Marduk release your e ’iltum .
+Th e Queen of Sippar, whose word
+Finds grace with her beloved Šamaš:
+May she release you from your sins,
+May she intercede for you with her beloved Marduk.
+May one who has seen your sorrow (now) see your revival. (Di 614)
+Th e frequency of these references indicates that the chief dirge singer must have been
+regularly subject to this phenomenon, interpreted by Caroline Janssen ( 1991 : 96) as a
+binding by liability. Th at this circumstance was not theoretical or abstract but could lead
+to disease and fear for one’s life as a consequence, is illustrated by another letter from the
+archive about someone else: ‘(…) an e ’iltum which cannot be bound has turned his face
+pale…and he died’ (Di 662).
+In order to escape this danger the chief dirge singer had to be released (p aṭār e’iltim ).
+Th is release could only be eff ectuated by the gods, probably by means of a ritual as
+described in Di 604:
+I just heard the release of your e ’iltum before Šamaš and Marduk: in the gate the chief
+musician (u gula nar ), at the moment of the raising(?) of the t aqribtum -prayer, lined
+up the sanga-priest of Šamaš, the sanga-priest of Aya, the g udapsû -priests (…) and the
+00000011225533223344..IINNDDDD 228833 22//1177//22001111 99::2211::4411 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+ michel tanret
+erib bıt̄ im -priest, (…). I heard the words of the sanga of Šamaš: a shudder caught him
+(…).
+Th e binding itself was associated with darkness and silence. Th e letter Di 1672 (Janssen
+1989: 100–101) reads:
+Th e god […]:
+May he show the light to your darkness,
+May he release your e ’iltum .
+Ur-Utu wrote to high offi cials in Babylon, who were are able to predict that he would
+soon be released (Janssen 1989: 89). Th ey told him not to worry in the meantime.
+Eventually he was always released. We have no indication of the origin or reason for this
+‘binding’. In some cases other persons were also ‘bound’, mostly prisoners. In such con-
+texts the chief dirge singer could and did take over their ‘binding’, freeing them but
+putting himself in danger and having to wait to be released by the gods. Whatever the
+particulars may be, as Caroline Janssen ( 1991 : 98) writes, ‘Th e e ’iltum -pattern being part
+of his function, the chief dirge singer is regularly subjected to a cycle of opposites of
+darkness and light, distress and joy, e ’iltum and release.’
+In this light, the life of a chief dirge singer does not seem to have been a very enviable
+one. Th e regular fear that he would not be released by the gods may have prompted him
+on the one hand to ask people in Babylon to intervene on his behalf and at the same time
+to try and fi nd out what the gods had in store for him by consulting diviners on a regular
+basis. He must have been a dirge singer with good reason. Indeed, we know that dirges
+were sung to placate the gods…
+Praying to the gods, writing to the goddess
+Six i kribu prayers were found in Ur-Utu’s archive. Th ey formed part of the diviner’s rit-
+ual, as one of them mentions: ‘In the extispicy ( têrtum ) that I perform…by an extispicy
+of good health…’ (De Meyer 1982 : 274–5) . In fact two of our prayers were found together
+with four diviners’ reports in lot U in the new archive room, which confi rms the link
+between them.
+Ur-Utu prayed to the gods requesting the well-being of his family and household.
+The questions asked in two of the prayers are very suggestive of Ur-Utu’s anxiety
+over the ‘binding’ (although this is not mentioned explicitly). The first ends with:
+‘Will Ur-Utu remain alive and well? Establish a good oracle for Ur-Utu, an oracle of
+health and life!’ (Di 261, De Meyer 1 982 : 274–5) . It covers a whole year of 360 days,
+from and to the 20th day of Nisannu, the first month of the year. This prayer is
+addressed to the god Ninsiana, the male version of the Venus deity, the Ištar of the
+stars. This deity was connected with light, as seen too in a dedication also found in
+the archive, a remarkable four-line text in Akkadian and unorthographic Sumerian
+which states:
+00000011225533223344..IINNDDDD 228844 22//1177//22001111 99::2211::4411 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+learned, rich, famous, and unhappy: ur-utu of sippar 
+Ninsiana, pure god
+whose light fi lls heaven and earth,
+who dispenses good, prosperity and life
+for his servant who reveres him. (De Meyer 1 989 : 213–222)
+Th e second one is addressed to the goddess Annunitum (Di 262, De Meyer 1 982 , 277–78) .
+Again, Ur-Utu requests well-being for the whole year, from the month of Nisan to the
+next month of Nisan.
+Di 306 is another prayer to Ninsiana, dated on the eleventh day of the sixth month of
+the fourteenth year of Ammi-ṣaduqa. Th e god is asked to grant well-being to Ur-Utu, for
+a period of eight months. Ur-Utu hopes that he will see the faces of Annunitum and
+Marduk. In a very broken prayer to Annunitum (Di 515) Ur-Utu prays for his life and
+well-being, again for a period of less than a year. Two periods seem to be involved: from
+the tenth to the twelft h month and from the fourth to a month whose name is broken in
+the text. All of the prayers were found in room 17, indicating they were meant to be kept.
+Finally, in an undated letter to his goddess Annunitum, Ur-Utu quite movingly writes:
+To my mistress who loves life, say: ‘thus speaks your servant Ur-Utu. As my mistress
+knows, a servant who for his master, a servant woman who for her mistress does not
+carry an unconscious fault ( hıt̄um ) or a conscious one ( g illatum ), does not exist
+(Di 525, De Meyer 1989a)
+and then proceeds to request the rapid lift ing of the taboo (a sakkum ) of Adad. Th ese
+texts show a person who was greatly concerned about his future and that of his house-
+hold, a concern that was probably based on the frequently dire situation linked to his
+offi ce. From darkness to light in a never ending cycle.
+Conclusion
+As the chief dirge singer of the goddess Annunitum’s temple in Sippar-Amnanum,
+Ur-Utu was certainly a prominent citizen. He had power, as head of a large institution.
+He was wealthy and, to a certain extent, learned. He could read and write to an elemen-
+tary level, which was more than most of his contemporaries. He knew the value of the
+written word, both practically for the management of his estate but also more emotion-
+ally through the mementoes he kept in his archive, which kept his ancestors’ names from
+oblivion.
+On the other hand his life cannot always have been a happy one. His offi ce of chief
+dirge singer seemingly entailed repeated dangerous ‘bindings’ from which only the gods
+could free him, not without some period of anxiety. As if this were not enough, his broth-
+ers did not make life easy for him. Th ey disputed his inheritance and that of his mother
+in lawsuits over many years. But even this was not the end of his toils. In a letter his dear
+wife with the lovely name Ra’imtum (literally ‘lover’), wrote to him:
+00000011225533223344..IINNDDDD 228855 22//1177//22001111 99::2211::4411 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+ michel tanret
+Now you have gone to the lawsuits
+and I do not know what you have been doing.
+As a [v ery unfortunately broken ] I came to the house of a poor man.
+I always respected your father
+but whereas I take care
+you will never have anything
+…(Di 617, Janssen 1993 : 49)
+Poor, poor rich man!
+Further reading
+Th e fi nal report on the excavation of Sippar Amnanum in general and the Chief Dirge Singer’s
+house in particular is Gasche (1 989 , in French). Th e history of the house, in archaeology
+and texts is to be found in Janssen et al. (1 994 , in French). An overview of the composition
+of the archive is Tanret (2 004 , in French) and the complete story of the tablet box is given
+in T anret (2 008) . Th e scribal education of Ur-Utu is the subject of the monograph Tanret
+( 2002 , in French).
+References
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Barberon, L. 2005: ‘Quand la mère est une religieuse’, N.A.B.U. § 89, 94–5.
+Bourdieu, P. and Passeron, J.-Cl. 1970: La reproduction. Elèments pour une théorie du système
+d’enseignement . Paris: Minuit.
+Charpin, D. 1988: ‘Sippar: deux villes jumelles’, R evue d’Assyriologie 82, 13–32.
+——— 2008: Lire et écrire à Babylone . Paris: Cerf.
+De Meyer, L. 1982: ‘Deux prières ikribu du temps d’Ammı-̄ ṣaduqa’ in Van Driel, G. , Krispijn,
+T.J.H. , Stol, M. , Veenhof, K.R. (Ed.), Z ikir Šumim. Assyriological Studies Presented to F.R.
+Kraus on the Occasion of his Seventieth Birthday (= NINO5), Leiden: Brill, 271–8.
+——— 1989: ‘Le dieu Ninsianna ou l’art de transposer les logogrammes’ in De Meyer, L. ,
+Haerinck, E. (éd.), A rchaeologia Iranica et Orientalis. Miscellanea in honorem Louis Vanden
+Berghe . Gent: Peeters, 213–21.
+——— 1989a: ‘Une lettre d’Ur-Utu Galamah à une divinité’ in Lebeau, M. , Talon, P. (éd.), Refl ets
+des deux fl euves. Volume de mélanges off erts à André Finet (= Akkadica Suppl. 6), Leuven;
+Peeters, 177–80.
+Gasche, H. 1989: La Babylonie au 17e siècle avant notre ère: approche archéologique, problèmes et
+perspectives , Mesopotamian History and Environment, Memoires 1. Gent: University of Ghent.
+Janssen, C. 1991: ‘ E’iltam paṭārum: awāt hadê!’, Mésopotamie et Elam. Actes de la XXXVIème
+Rencontre Assyriologique Internationale . Gand, 10–14 juillet 1989. Mesopotamian History
+and Environment, Occasional Publications, Gent: University of Ghent, 77–107.
+——— 1992: ‘Inanna-mansum et ses fi ls: relation d’une succession turbulente dans les archives
+d’Ur-Utu’, R A 86, 19–52.
+——— 1993: ‘De brieven van het Ur-Utu archief’ [= Th e letters from the Ur-Utu archive],
+unpublished doctoral dissertation, Ghent University.
+00000011225533223344..IINNDDDD 228866 22//1177//22001111 99::2211::4411 PPMM
+OUP UNCORRECTED PROOF – FIRST-PROOF, 02/17/11, SPi
+learned, rich, famous, and unhappy: ur-utu of sippar 
+——— , Gasche, H. , Tanret, M. 1994: ‘Du chantier à la tablette. Ur-Utu et l’histoire de sa maison
+à Sippar Amnanum’ in Gasche, H. , Tanret, M. , Janssen, C. , Degraeve, A. (éd.), Cinquante-
+deux réfl exions sur le Proche-Orient ancien off ertes en hommage à Léon De Meyer (=
+MHEO2), Leuven; Peeters, 91–123.
+Robson, E. 2001: ‘Th e tablet house: a scribal school in Old Babylonian Nippur’, RA 95, 39–66.
+——— 2008: M athematics in Ancient Iraq. A Social History . Princeton University Press:
+Princeton, NJ.
+Tanret, M. , Van Lerberghe, K. 1993: ‘Rituals and profi ts in the Ur-Utu archive’ in Quaegebeur,
+J. (Ed.), Ritual and Sacrifi ce in the Ancient Near East. Proceedings of the International
+Conference Organized by the Katholieke Universiteit Leuven from the 17th to the 20th of April
+1991 (= OLA 55), Leuven: Peeters, 435–49.
+——— 2001: ‘As years went by in Sippar Amnanum…’ in Abusch, T. , Beaulieu, P.-A. ,
+Huehnergard, J. , Machinist, P. , Steinkeller, P. (eds.) H istoriography in the Cuneiform World.
+Proceedings of the XLVe Rencontre Assyriologique Internationale . Harvard University,
+Bethesda MA (2 vols.), 455–65.
+——— 2002: P er aspera ad astra. L’apprentissage du cunéiforme à Sippar Amnanum pendant la
+période paléobabylonienne tardive . Mesopotamian History and Environment, Texts 1/2,
+Ghent: University of Ghent.
+——— 2004: ‘Verba volant, scripta non manent. Tablettes nomades dans les archives des gala.
+mah à Sippar-Amnānum’ in C. Nicolle (ed.), Nomades et sédentaires dans le Proche-Orient
+ancien. Actes de la XLVIe Rencontre assyriologique internationale (Paris, 10–13 juillet 2000)
+(Amurru 3), Paris: Éditions Recherche sur les civilisations, 249–70.
+——— 2008: ‘Find the tablet box…New aspects of archive-keeping in Old Babylonian Sippar
+Amnanum’ in R. van der Spek (ed.), S tudies in Ancient Near Eastern World View and Society
+presented to Marten Stol on the occasion of his 65th birthday . Bethesda, MD: CDL Press,
+131–47.
+Veldhuis, N. 1997: ‘Elementary Education at Nippur. Th e Lists of Trees and Wooden Objects’,
+unpublished doctoral dissertation, University of Groningen (available online at http://irs.
+ub.rug.nl/ppn/30177613X) .
+00000011225533223344..IINNDDDD 228877 22//1177//22001111 99::2211::4411 PPMM
+View publication stats
+

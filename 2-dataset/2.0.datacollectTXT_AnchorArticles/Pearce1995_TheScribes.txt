@@ -1,0 +1,364 @@
+# METADATA
+author: Pearce L.E.
+source_id:Pearce1995_TheScribes
+title: The Scribes And Scholars Of Ancient Mesopotamia
+Year: 1995 
+Source_ID:  Pearce1995_TheScribes
+Source_Type:  Article in Book: Civilizations of the Ancient Near East,JACK M. SASSON
+Source_Role,Step_distance: 2 ,3,4 
+Pages: 2265-2278
+Web: 
+ 
+
+# TEXT
+
+Civilizations of the
+
+Ancient Near East
+
+JACK M. SASSON
+
+EDITOR IN CHIEF
+
+JOHN BAINES GARY BECKMAN KAREN S. RUBINSON ASSOCIATE EDITORS
+
+VOLUME IV 1995
+
+CHARLES SCRIBNER’S SONS MACMILLAN LIBRARY REFERENCE USA Simon & SCHUSTER MACMILLAN New York Simon & SCHUSTER AND PRENTICE HALL INTERNATIONAL LONDON Mexico City New DELHI SINGAPORE SYDNEY TORONTO 
+
+The Scribes and Scholars of Ancient Mesopotamia
+
+LAURIE E. PEARCE
+
+The scribal art is the mother of speakers, the father
+
+of scholars.
+
+THis SUMERIAN PROVERB demonstrates the high regard generally accorded scribes and scholars in ancient Mesopotamia. Although the scribes themselves remain largely in the background—anonymous recorders of civilization—the training, responsibilities, and activities of Mesopotamian scribes and scholars can be deduced from the texts they produced. Documentation unevenly reflects details related to the training of the scribes, the existence of a scribal academy, and the nature of cuneiform in scholarship. In order to present the broadest possible picture of cuneiform scribes and scholars, evidence from all periods is included here.
+
+Scribes functioned in a society in which the vast majority of people were illiterate. The basic responsibility of scribes was to write documents for themselves and others. They acquired literacy and numeracy in schools dedicated to that purpose. Having mastered those fundamental steps, the scribe was equipped to serve the business communities, both private and public. Scribes with exceptional interest or talent engaged in additional study, mastering advanced
+
+bodies of knowledge: science, literature, religion. These scholars were responsible for preserving the cultural heritage of Mesopotamia.
+
+SOCIAL STANDING OF THE SCRIBES
+
+Scribes and scholars belonged to the social elite. A bilingual Sumero-Akkadian proverb notes: “The scribal art, receiving a handsome fee, is a bright-eyed guardian, the need of the palace.” Students in the scribal school were male children of members of the upper strata of society. Their fathers were well-to-do merchants, priests, governors, ambassadors, kings, and occasionally scribes. (As in most areas of Mesopotamian society, women were denied access to the scribal academy. See the accompanying sidebar for a discussion of women scribes, scholars, and authors.)
+
+One text tells ofa failed scribal career. Yasitna2265 
+
+Language, Writing, and Literature
+
+abum, the scribe of a very flowery letter from Tell al-Rimah (around 1750 BcE), had been told to “Learn the art of scribes! I shall make you into a household of gentlemen.” Although Yasitnaabum gave up food and water in order to master the scribal arts, he met with little success and never achieved prominent employment: “Because I have nothing, I cannot serve in the palace.”
+
+Among the Hittites, the scribe could be counted with the dignitaries of the court and might be called upon as the king’s substitute to deliver prayers before a god. Payment to an archive administrator of a salary equal to onehalf of that of the high priest’s substitute during the reign of Bur-Sin in the Third Dynasty of Ur (Ur III) period attested to the prominent social standing of the scribes.
+
+MATERIALS OF THE SCRIBAL PROFESSION
+
+The cuneiform scribe most frequently executed his tasks with clay tablet and reed stylus, ready materials in the riverine environment of Mesopotamia. However, a variety of materials were used
+
+Women Scribes
+
+While the vast majority of scribes were men, there were notable exceptions. The first was Enkheduanna, the earliest named woman scribe and author. She was a daughter of Sargon of Akkad and author of a lengthy Sumerian poem praising Inanna. Nin-shata-pada was priestess of the underworld deities, Meslamtaea and Lugal-girra, and daughter of Sin-kashid of Uruk (Warka). In her literary letter to Rim-Sin of Larsa, she appealed to the conquering king for mercy. Her elegant prayer became the object of study in subsequent generations of apprentice scribes. The wife of Ur-Nammu (circa 2100) may have composed a lament following his death in battle. The wife of Shulgi may have created the lullaby to her son.
+
+Women scribes are attested in Old Babylonian Mari and Sippar (Abu Habba). Some were daughters of scribes. At Sippar, the women scribes were members of the cloister that functioned as an important social
+
+for cuneiform inscriptions. The entire range of tools and materials is considered here.
+
+Tools Used for Writing
+
+The stylus used to impress clay tablets was most frequently fashioned out of reed and was known by the Sumerian or Akkadian words for that material, Gt and qant, respectively. At first, the rounded end of the reed was impressed into the tablet. Soon, scribes began to shape the reed’s end into a triangular cross-section that gave cuneiform signs their characteristic wedge shape.
+
+Wall reliefs in palaces of several Neo-Assyrian kings, including those of Adad-nirari III, Tiglath-pileser IJ, and Sennacherib, portray scribes at their tasks. Reliefs from Nineveh (Kuyunjik) variously depict two scribes recording the spoils of war and the numbers of enemies slain in military campaigns (see fig. 1). The Aramaic scribe holds pen and papyrus; the other scribe holds either a hinged writing board coated with wax or a cuneiform tablet and a stylus.
+
+When writing on wax, scribes employed a metal (bronze) stylus because of its strength and durability. Writing on wood was done with ink and brush. With a pointed tool, scribes outlined inscriptions to be chiseled in stone by expert stoneworkers.
+
+and economic entity in that city. These scribes served to record the transactions of the members of the cloister. Their position as scribes further indicates the social and economic achievement of these women.
+
+At Mari, the names of at least ten women scribes are known. Nine of these received rations small enough to suggest that, although they were literate, they were held in low regard and were slaves of the harem. Slave-girls trained as scribes were occasionally given to princesses as part of their dowries. Just as at Sippar, these women scribes served the documentational needs of other women in their society.
+
+Evidence of women scribes as scholars is limited to one fragment of a vocabulary text written by one Belti-remenni in the Old Babylonian period. Female counterparts to diviners, physicians, performers, and artists are all attested. But their activities, too, are overshadowed by those of their male counterparts.
+
+2266 
+
+The Scribes and Scholars of Ancient Mesopotamia
+
+Fig. 1. Assyrian relief from the Southwest Palace of Nineveh showing military scribes listing booty and soldiers slain during the war in southern Babylon (note the heads at the scribes’ feet). BRITISH MUSEUM, LONDON
+
+Clay Tablets: Preparation and Layout
+
+Surviving tablets reflect the quality ofthe materials available to the scribes, as well as the attention paid by the scribe to the preparation of the tablets themselves. Some tablets were prepared from clay filled with inclusions, impurities in the clay such as small pebbles, grit, straw, and other organic material. Other tablets were formed from a fine clay body.
+
+The quality of the clay body and the layout of the text were related to the type of text to be written on the tablet. Literary and historical texts are the most aesthetically pleasing to the modern eye, because the scribes took great care to proportion the size of the tablet to the amount of
+
+material to be inscribed. The standardized and formulaic language of some text genres, such as contracts, encouraged scribes to adhere to a prescribed layout of text on tablet.
+
+Some late-first-millennium cuneiform tablets also contained scribal notations inscribed or painted in the Greek or Aramaic alphabetic scripts. The scribe of an incantation text found on a tablet from Uruk engaged in the unusual practice of employing the cuneiform script to graphically represent the Aramaic in which the incantation was composed.
+
+A variety of other markings appeared on some tablets. Vertical or horizontal lines, found on literary, historical, lexical, religious, and scientific texts, divided texts into various sections compara2267 
+
+Language, Writing, and Literature
+
+ble to poetic stanzas or book chapters. The rulings also provided reference points to sections of the text and aided the scribe in allocating the text on the tablet.
+
+From the Middle Babylonian and Middle Assyrian periods on, some literary tablets were impressed front to back or side-to-side with holes. The suggestion that the purpose of these holes was to prevent the rupture of the tablet during firing is dubious, as many large tablets were successfully fired in antiquity without such precautions. Although their purpose remains unclear, it became traditional to impress such holes on many literary tablets. Tablets of the Erra Epic could be hung on votive statues once a cord was passed through holes bored in the clay. Holes in the corners of the bronze tablet found at Bogazkéy, recording a treaty between the Hittite king, Tudkhaliya IV, and Kurunta of Tarkhuntassha, may have served a similar function.
+
+Other marks included impressions of a fingernail or the hem of a garment, evidence of an individual’s participation in the recorded transaction. Some economic tablets that were reviewed when taking inventory of stocks bore a thick red marking painted on its face. Scribes drew maps and representations of astrological material on tablets. Impressions of a stamp or cylinder seal sometimes accompanied cuneiform inscriptions. When a scribe noticed mistakes in the text, he might correct them by rubbing the surface of the clay with his fingers. The clarity of corrections depended on the elasticity of the clay when the scribe made the correction. Variation among scribes’ handwritings occasionally makes it possible to identify groups of tablets as the product of a specific, albeit anonymous, scribe.
+
+Scribes inscribed tablets from the left edge to the right and from top to bottom. Tablets were generally turned on the horizontal rather than vertical axis: top to bottom, as it were. Multicolumned tablets read from left to right on the obverse, and continued from right to left on the reverse. For want of space, scribes also filled the edges of a clay tablet and occasionally squeezed words between lines. The layout of text on clay objects other than tablets conformed to the constraints imposed by their unique shapes.
+
+Clay Tablets: Shapes and Sizes
+
+The majority of clay tablets were rectangular in shape; the vertical axis was generally the longest. Some Ur III land surveyors used circular tablets to record their results. Students of the Ur III and Old Babylonian period schools wrote elementary exercises in sign composition and beginning vocabulary development on round tablets.
+
+Royal inscriptions, commissioned by kings to commemorate their great deeds, appear on variously shaped writing surfaces, including clay barrels, and six- and eight-sided prisms. Each face of a prism contained a column of text. Barrels were inscribed along their long axes, so that when they were stored or displayed vertically (on a spindle that fitthrough the hole running the length of the barrel), the inscription appeared perpendicular to the direction in which it was intended to be read.
+
+Clay cones with broad flat nail-heads and bronze nails, decorated with a figure carrying a work basket on his head, contain inscriptions attesting to the piety of the ruler responsible for the buildings into whose sides these cones were inserted. Inscriptions on clay cones began at the flat-head side of the nail; sometimes the nail was ruled into registers and the text divided into two columns. The shape of these foundation deposits developed from the practice at Early Dynastic Uruk of facing walls and columns with cones, the heads of which were set in mosaic-like patterns. Foundation-deposit inscriptions are also attested on rectangular tablets of precious metals.
+
+Surfaces on which cuneiform inscriptions appear vary greatly in size. The smallest clay tablets, just a few centimeters in length and width, could contain tens of lines of writing on each side. The ability to write so much in limited space is a tribute to the dexterity and skill of the scribe. Large texts recording literary, historical, and political records may measure as much as 45 by 30 centimeters (18 by 12 inches). While the bronze treaty tablet mentioned above was somewhat smaller, measuring 35 by 23.5 by 1 centimeters, its weight of 5 kilograms (11 pounds) is remarkable! Scribes in the service of the Neo-Assyrian king Esarhaddon executed copies of treaties concluded with his vassals on
+
+2268 
+
+The Scribes and Scholars of Ancient Mesopotamia
+
+tablets of such dimensions. Among the largest surfaces containing inscriptions were walls in the palaces of Assyrian kings, such as those of Assurnasirpal II, and the escarpment of the mountain pass at Behistun (Bisitun), Iran, on which the Persian king Darius I had a trilingual inscription carved. (See the chapter on Darius in Part 5, Vol. II.)
+
+Other Uses of Clay
+
+Scribes fashioned clay into other objects related to writing. Clay tokens, in a variety of shapes and sizes, may have been the original source and inspiration for the shapes of some cuneiform signs. Bullae were of two types: hollow spheres of clay contained clay tokens; flattened rings of clay surrounded some papyrus and parchment documents and served as the medium onto which witnesses impressed their seals in attestation to the transaction recorded therein. (See“Record Keeping Before Writing” earlier in this volume.) .
+
+Clay casings, termed envelopes, enclosed some administrative documents (fig. 2). The text of the transaction was recopied, in part or whole, onto the envelope. The envelope inscription served either to provide a duplicate copy against which the original text could be compared if questions about the validity of the transaction arose or to offer a ready indication of the contents within, facilitating storage and retrieval of the tablet in an archive. Although attested from the Ur III to Neo-Assyrian periods, the practice was largely abandoned after the Old Babylonian period.
+
+Inscriptions on Stone and Metal
+
+Stone and metal were generally reserved for inscriptions commissioned by members of royalty, although not all royal inscriptions were written on these materials. Since Mesopotamia was poor in mineral resources, gold, silver, and basalt were imported. Metals were attested only infrequently as a writing material and were reserved for texts of importance to the crown, such as several found at Persepolis.
+
+Inscriptions on Ivory and Wood
+
+Another medium for cuneiform inscriptions was writing boards, flat pieces of ivory or wood
+
+Fig. 2. An example of a tablet encased in a clay envelope, Middle Babylonian period. BRITISH MUSEUM, LONDON
+
+bound together with hinges. Writing boards of silver and gold are rarely mentioned. Writing boards, in use from the Ur III to Late Babylonian periods, were coated with a layer of wax to which orpiment was added. This allowed the wax to flow easily to coat the surface of the boards and to retain its malleability for the inscription. This malleability also made it possible for the scribes to erase and reuse the wax, rendering it ideal for the preliminary composition of texts. Once the preliminary copy was completed, the scribe copied all of the data onto a durable clay tablet. The wax was then erased and reused and this process was repeated. The texts composed on wax writing boards recorded a variety of data compiled over a period of time, including reli2269 
+
+Language, Writing, and Literature
+
+gious and ritual matters, royal reports and orders, registers of people, and astronomical observations. The Mesopotamians depicted the “tablet of life” as a wax-covered board on which the god Nabu recorded the names and deeds of kings and their sons. Some wax boards were attached together by means of hinges to form a “book.” Recent excavation of a shipwreck near Uluburun, on the southwestern coast of Turkey, delivered a rare example of such a “book.” (See “Sea and River Craft in the Ancient Near East” in Part 6, Vol. III.)
+
+Scribes also wrote on papyrus and leather. Because these materials were not easily impressed with cuneiform signs, their use did not become widespread until the development and spread of alphabetic scripts in the first millennium. Inscriptions employing these scripts used pen or brush and ink. Scribes who wrote on these materials were designated leather or papyrus scribes, respectively.
+
+THE SCRIBAL SCHOOL AND CURRICULUM
+
+Archaeological evidence for the existence and activities of the scribal school comes from sites such as Ur (Muqayyar), Sippar, and Nippur (Nuffar), where rooms replete with cuneiform tablets have been identified as schools.
+
+All education related to the scribal arts occurred in a school or under the tutelage of experienced scribes. The scribal school, known as “the tablet house” (Sumerian £.puB.BA.A; Akkadian bit tuppi), achieved its greatest prominence in the Old Babylonian period. There, all aspects of the scribal profession were taught, from the preparation of tablet and stylus to the mastery of a curriculum covering four major areas of instruction: language (including vocabulary and grammar), literature, mathematics (including surveying), and music.
+
+By the Old Babylonian period, Akkadian had replaced Sumerian as the appropriate language of commerce and diplomacy throughout Mesopotamia. Although the students’ native language was generally Assyrian or Amorite, Sumerian retained its exalted position as the literary and religious language of school and cult and was
+
+probably the language of instruction in the Old Babylonian school. Thus, students would had to have learned Sumerian upon entrance into the school. Scribes preserved Sumerian compositions, either unilingual or bilingual (with Akkadian translations), until the end of cuneiform usage.
+
+The difficulties inherent in mastering the cuneiform system, in particular the complexity of sign-forms and multiple phonetic readings of individual signs, ensured a lengthy period and process of scribal education. These difficulties guaranteed the limited spread of literacy throughout Mesopotamian society. With the exception of one possible example discussed below, modern scholars lack the biographical data that, when correlated to scribes’ activities, would make it possible to determine the ages at which scribes entered or graduated from the academy, or began and ended their careers. Although the length of many scribes’ careers can be determined, this is relative, not absolute, data.
+
+The early stages of language study were combined with instruction in tablet preparation and sign production. The teacher or his assistant wrote the day’s lesson on the obverse of round tablets; the student copied the lesson on the reverse. At first, this consisted of learning how to impress the horizontal, vertical, and diagonal wedges that, combined in differing arrangements, produced cuneiform signs. The students progressed to form individual signs and words. Inscriptions on these lenticular tablets reflect the rudimentary stages of scribal education: crudely fashioned signs and only the briefest of connected textual passages, usually short proverbs and maxims. Once students mastered the fundamentals of sign composition, they advanced to the study of the components of language and literature.
+
+Language study was acomplished through the copying and studying of lists. Scribes and scholars generated four kinds of philological lists: sign lists, vocabularies, syllabaries, and grammatical lists. Sign lists were either single- or multicolumned; in the latter case the right-hand column gave the names of signs listed on the left. Vocabularies or lexical lists of two or three parallel columns offered translations into Akkadian for designated Sumerian terms. Syllabaries
+
+2270 
+
+The Scribes and Scholars of Ancient Mesopotamia
+
+Fig. 3. Round school tablet inscribed with a Sumerian proverb by a student, Old Babylonian period. BRITISH MUSEUM, LONDON
+
+presented cuneiform signs in standardized orders governed by orthographic or phonetic conventions. Some word lists provided Akkadian equivalents to Sumerian grammatical (verbal or nominal) forms. Once the student mastered the fundamentals of language and a basic vocabulary, he proceeded to advanced and specialized study in a variety of disciplines. (See “Ancient Mesopotamian Lexicography” below.)
+
+Pedagogic practices in the Old Babylonian school were responsible for the preservation of Sumerian literature. Copying literary texts provided instruction in Sumerian composition and syntax for more advanced students. Among the literary texts thus preserved were royal hymns, proverb collections, mythological texts, and dialogues between hypothetical rival parties (such as the pickax and the plow) in which each presented evidence to support its claim to superiority or greater worth (see fig. 3).
+
+The student achieved competence in epistolary and contractual style and structure by copying practice letters and model contracts. He mastered the terminology of a discipline by copying lists of technical vocabulary. The practice of grouping words according to subject
+
+matter facilitated this endeavor. The complex composition and syntax of the majority of cuneiform lists show they were intended for the use of advanced students in the scribal school or as reference works to be consulted by scholars. Other areas of advanced training and study included the vocabulary of priestly and administrative offices, the preparation of stelae, and the copying of law codes and trial proceedings.
+
+Mathematics constituted the third area of instruction in the scribal curriculum. Mathematical exercise texts, preserved from the Old Akkadian, Old Babylonian, and Seleucid periods, belong to one of three types: table texts dealing with multiplication, reciprocals, squares, and square roots; coefficient lists presenting fixed values for various items; and problem texts covering matters such as algebra, geometry, and surveying. Texts containing practical problems prepared scribes for a variety of administrative positions. (See “Metrology and Mathematics in Ancient Mesopotamia” in Part 8, Vol. III.)
+
+Individuals who would enter temple service received training in music, the fourth curricular area. Music instruction included mastery of Sumerian technical terms, such as GI8.GIy.GAL (Akkadian mihru), Sip (Akkadian mand), and KI.8U; (Akkadian kilu), roughly equivalent to our terms antiphon, recital, and finale. Students in the scribal school mastered performance of several instruments. They also learned the different names of various songs and the versification of lyrics. This training was essential preparation for the chief singer of lamentations and dirges in the temple. Ordinary performers in the cult, however, probably did not read or write. (See “Music and Dance in Ancient Western Asia” later in this volume.)
+
+Sequence of Instruction
+
+Several Sumerian texts deal with students’ experiences in school. Known by their modern titles, “Examination Text A” and “Schooldays”’ provide acomprehensive picture of the composition and pedagogic practices of the faculty. While the surviving texts themselves date from the Late Babylonian period, they are believed to reflect conditions during Old Babylonian times, the heyday of the scribal academy. The teacher, desig2271 
+
+Language, Writing, and Literature
+
+nated as ummdnu, “expert, professor,” presided over the school, the students, and the curriculum. The advanced student, called “big brother,” served as his assistant. The “son of the tablet house” occupied the lowest rung in the student hierarchy.
+
+The primary task of the school day was the preparation, writing, and reading of tablets. Students partook of a midday meal brought from home. The teacher meted out corporal punishment for tardiness and lack of decorum. The teacher held power over the student’s career, for he could ensure, or at least influence, the student’s placement in a desirable position.
+
+After the Old Babylonian period, the academy as an institution died out. The heretofore uniform school curriculum became less clearly defined and less widespread in its application. Although texts describing the educational process ceased to be produced, students continued to receive formal education from masters of the scribal arts. Scholars instructed pupils in their homes or in smaller schools. Some of these were located in proximity to the place in which scribes fulfilled their professional duties, for example, the private study of a master scribe associated with the temple complex at Hellenistic Uruk.
+
+Evidence of pedagogic activity is available in the continued production of copying exercises and lists, and indirectly from notices of scribal activities contained in the texts and in colophons appended to texts. It was customary for scribes to append to the ends of tablets colophons that included some or all of the following notations: catch-line, which gave the opening line of the next tablet in the series; name and number of a tablet in a series; number of lines on the tablet; source of the copy; names of the owner or scribe who produced the copy; reason for writing the tablet; curse or blessing; date; and disposition of the copy. The colophon might also contain the name of the owner of the tablet, that of the tablet scribe, or both names. Prosopographic notices in colophons from texts, particularly of the Hellenistic period, afford a unique glimpse at the transmission of knowledge and the development of personal libraries and study collections. The statements of purpose in the colophon contain phrases related to the pedagogic process. The phrases “for reading,” “for instruction,” “for dictation,” or “for his own study” indicate
+
+some of the activities in which scholars were engaged.
+
+SCRIBAL TITLES
+
+The Akkadian and Sumerian terms for scribe, tupsarru and DUB.SAR, meant “tablet writer,” Other scribal titles reflected either the materia] on which a scribe wrote or some aspect of his duties, for example, wood-tablet scribes known from the Hittite Empire and, as mentioned above, leather or papyrus scribes.
+
+Asample of translated Sumerian and Akkadian scribal titles offers some indication of the broad range of responsibilities borne by cuneiform scribes. Not all titles were in use throughout the entire period of cuneiform writing, and the specific duties associated with each title varied through time.
+
+deaf writer (probably a copyist)
+
+female scribe
+
+field scribe, land-registrar, geometer inscriber of stone
+
+judge’s scribe
+
+mathematician
+
+military scribe
+
+scribe for laborer groups
+
+scribe of the property of the temple of Anu scribe of the naditu (cloistered) women
+
+scribe of (the omen series) Entima Anu Enlil (an astrologer)
+
+Scribes could hold titles indicating additional nonscribal responsibilities. For example, at Hellenistic Uruk some scribes held as many as three titles, including that of kali, “lamentation priest.” Furthermore, scribal titles indicate that a scribe could hold several scribal positions, either concurrently or consecutively.
+
+DUTIES AND RESPONSIBILITIES OF SCRIBES
+
+Cuneiform scribes were involved in every facet of life where the script was employed. Distribution of scribes across various specialties is esti2272 
+
+The Scribes and Scholars of Ancient Mesopotamia
+
+mated as follows: 70 percent administrative; 20 percent private; and 10 percent scientific and quasi-scientific activities.
+
+Scribes Engaged in Private Enterprise
+
+As private individuals, scribes recorded business transactions, prepared contracts, served as notaries, and functioned as witnesses both to transactions they recorded and to those in which they had an interest. While scribes received compensation for their work, the great fortunes some scribes amassed derived from a variety of activities, including the sale and rental of real estate, accumulation and trading of shares held in temple offerings, and loans of silver. As private individuals, scribes engaged in activities appropriate to any member of their social strata. Tablets from the Old Assyrian trading colony at Kanesh (modern Kiiltepe) demonstrate that some merchants were literate, having received training sufficient to enable them to send letters and maintain business records. However, most merchants hired scribes to do this work for them. Scribes were particularly in evidence as businessmen in entrepreneurial firms of the late first millennium. Records from the House of Egibi, a Neo-Babylonian business firm, provide information about the activities of individual scribes as businessmen. Of these, the most renowned was Itti-Marduk-balatu, son of aman who was a scribe and businessman. Although Itti-Mardukbalatu wrote many legal documents, mercantile activity was his primary concern. In his lifetime he amassed a fortune that included more than one hundred slaves and sixteen houses in Babylon and Borsippa. His resources enabled him to provide his sister and daughters with substantial dowries. (See “Private Commerce and Banking in Achaemenid Babylon” in Part 6, Vol. III.) Scribes were among the members of the community who served as agents for business activities of the Achaemenid firm of Murashu. Like other landholders with whom the Murashu firm did business, scribes were grouped into special associations in which a foreman allocated shares in the fiefdom to the association members. One such association was of the “scribes of the army/ people.” The foremen of this group were, among other things, responsible for ensuring payment of rent from their own association’s lands to the Murashu firm and for issuing written authorization for collection of rents due on lands of other associations. Individuals titled sepiru, an Aramaic loanword often rendered “‘translatorscribe,” made and received payments on behalf of their principals. Additionally, these individuals, competent in both Akkadian cuneiform and Aramaic, worked outside the firm as low-level administrators in private real-estate firms.
+
+In contracts, the scribe served either as a notary or a witness. Scribes of Hellenistic contracts typically recorded transactions to which they were not witnesses. But individuals known and designated by title as scribes appear in witness lists of other contracts, indicating that a scribe, just as any member of the social elite, could witness contractual agreements. However, seal impressions on Old Babylonian tablets indicate that scribes in that period could serve simultaneously as notaries and witnesses.
+
+Scribes in the Palace
+
+Palace scribes recorded the activities of kings and the affairs of kingdoms in ancient Mesopotamia. Scribes served a variety of administrative functions, including arrangement and storage of texts for future retrieval from palace archives and libraries, collection of taxes and supervision of workers, and supervision of public buildings such as granaries. As secretaries to kings, scribes exercised control over communications intended for royalty. Some seal inscriptions of Old Babylonian scribes designated an individual scribe as servant of a particular king. Particularly in the first millennium, scribes in their capacities as scholars achieved the greatest proximity to and influence over matters at court. Among the areas of scholarly specialization were haruspicy, astrology, exorcism, medicine, and performance of hymns to appease angered gods. The tablets of Nabu-zuqup-kenu, a scribe in the palace of the Neo-Assyrian kings Sargon and Sennacherib, inform us of the activities of a scholar in the palace employ. The colophons appended to many of the tablets he copied indicate that he traveled to other cities to consult original texts in order to prepare copies for the library at Nimrud (Kalkhu). The colophons to six texts written by Nabu-zuqup-kenu note that the texts were copied “for his reading.” This attests to his continuing personal study in addition to the execution of professional obligations.
+
+2273 
+
+Language, Writing, and Literature
+
+Besides being a copyist, Nabu-zuqup-kenu authored an mathematical text, known as I.NAM.GIS.HUR.AN.KLA. A tablet preserving an extract of this series contains a chart, the three columns of which established equivalences among divine attributes, numerals, and the deities’ names. The colophons to these tablets were a vehicle by which the scribes could assert, in a self-perpetuating way, that learning was only for those initiated into its secrets. Warnings to this effect might read: “A secret of the scholar. The uninitiated shall not see.”” However, the ease with which many of the putative scribal secrets can be deciphered mitigates the force of this claim.
+
+Scribes as Translators
+
+As Mesopotamian kings turned their political ambitions to empires, the need for translators arose. Scribes, already trained in the spoken and written forms of two languages, were the natural choice to assume this task. However, there is little indication of how scribes achieved proficiency in additional languages.
+
+At the time of the Akkadian Empire, reterences to translators of the languages of Melukkha and Kutha appear. The Ur III king Shulgi boasted that in his palace he alone knew how to speak Elamite and Amorite. The Mari tablets of 1780 BCE mention the presence of translators in trading caravans. In the Middle Babylonian period translators were needed to deal with the Mitannian army. International activity between Egypt, Mesopotamia, and the Hittite empires in the middle and late second millennium necessitated translators from cuneiform into Egyptian. Texts from the Egyptian city of Amarna (Akhetaten) refer to cuneiform scribes learning Egyptian, as well. The appearance of the title “head of the translators” indicates that there was an organized cadre of these professionals.
+
+Translators, in great demand throughout the first millennium, achieved special prominence during the Achaemenid period. When the kings of the Achaemenid Empire adopted Aramaic as their official language, it became necessary to prepare copies of royal promulgations in the native languages of the subject populations. Following the Neo-Assyrian period, the Akkadian term targamannu, “translator,” is replaced by sepiru, “parchment scribe.” Sepiru in fifthcentury Nippur served as translators for various laborers employed in that city.
+
+Temple Scribes
+
+Scribes associated with the temple were not officiants in the temple cult. They functioned largely in administrative and bureaucratic roles. They received incoming staples for the temple, including commodities such as grain, fish, wool. and silver. They traveled to various cities to fulfill official duties, such as the purchase of grain for the temple complex.
+
+Temple scribes aided temple archivists by classifying records, indicating categories under which tablets were to be stored. They also helped to prepare tablets as votive offerings to the gods. The nature and organization of archives, both private and public, is discussed under the title of “Archives and Libraries” earlier in this volume.
+
+One area of scribal activity that reflects the interconnection between temple and palace activities is the composition of ephemerides, late first millennium texts on which scribes kept track of and recorded astronomical data. In order to determine the propitiousness of an action at any given time, the king ordered the observation of a variety of natural and celestial phenomena. Priests interpreted the signs as beneficent or malevolent. Archive staff members prepared reports and disseminated them to interested parties. Records of these observations and the ensuing actions taken provided comprehensive catalogs of everything that transpired in the court and empire. Preparation of these reports called upon the expertise of many specialists, including priests, astronomers, archivists, and scribes.
+
+CUNEIFORM SCHOLARS
+
+Most scribes wrote mundane business documents and left little indication of their personalities, backgrounds, or intellectual interests. A few scribes, however, stand out for achievements that earn them the title of scholar. Cuneiform scholars were individuals who, having mastered the basics of the scribal curriculum, received advanced training in one or more specialized
+
+2274 
+
+The Scribes and Scholars of Ancient Mesopotamia
+
+fields. Scholars amassed collections of tablets for personal, family, or royal libraries. Facility in a particular genre or discipline led some to author or edit unique compositions which may then have been copied by generations of scribes.
+
+In general, anonymity characterized cuneiform literature. However, the few named authors of literary texts left remarkably rich insights into the nature of their involvement with their work. Kabti-ilani-Marduk, author of the Erra Epic, claimed to have completely and accurately copied the poem that had been divinely transmitted to him through a dream.
+
+Saggil-kinam-ubbib, author of The Babylonian Theodicy, allowed his sense of whimsy and innovation to creep into his famous composition. When the syllabic signs beginning each line of each successive stanza of this acrostic poem are arranged sequentially, they read: “I, Saggilkinam-ubbib, the incantation priest, am adorant of the god and the king.” Sin-leqe-unninni, the legendary editor of a recension of the Epic of Gilgamesh, was said to have lived around 1300. Hundreds of years later, a few scholars regarded him as a putative ancestor.
+
+Many families of scholars associated themselves, through patronymics recorded in colophons, with a prestigious ancestor. At Hellenistic Uruk, most scribes claimed descent from either Sin-leqe-unninni, Ekur-zakir, Akhu’tu, or Kuri. Scribes claiming descent from Sin-leqeunninni concentrated their efforts on the copying of scholarly and scientific texts. Scribes in both the Sin-leqe-unninni and Ekur-zakir “clans” developed personal tablet collections once they retired from actively writing tablets.
+
+Sumero-Akkadian bilingual hymns from Babylon were largely composed by scribes claiming descent from the ancestor Nana-Utu. The family tree reconstructed for the scribes of this genre of texts includes four generations. In almost all cases the writer of a particular tablet was the son of the individual who owned it. The fathers of the scribes had themselves frequently been scribes of this genre of texts. From the dates of these texts, it is possible to determine that these scribes assumed scribal duties only after their fathers were no longer writing tablets.
+
+The term ummadnu, defined as teacher, carried the basic meaning of master, one proficient in a particular area of knowledge. In this sense the
+
+term was applied to practitioners of various disciplines, including diviners and exorcists, who consulted gods about important events; astronomers, who observed celestial phenomena; astrologers, who interpreted omens portended in the heavens and on earth; and physicians, who ministered to the mental and physical health of the court. The king regularly availed himself of the talents of these specialists and counted them among his most trusted advisors. The technical literature mastered by these professionals constitutes the body of Mesopotamian science.
+
+By the end of the Neo-Assyrian period, the association of the scientific literature with the temples as well as the palace was strong, leading some modern scholars to consider their ancient counterparts priests. However, this conclusion conflicts with the evidence from most periods, as the duties and responsibilities of scholars and priests were clearly differentiated. This specialization is reflected in part by the distinctive titles held by members of particular professions. Only in the Hellenistic period, when the use of cuneiform was limited to a few traditionalists in the major cities of Mesopotamia, did an individual hold multiple titles once reserved for separate offices.
+
+Astronomers and astrologers constituted the largest group of scholars. By 700 BCE, astronomers could predict eclipses and planetary phases and had discovered the periodicity of various astronomical phenomena. Records show that some physicians diagnosed conditions based on the appearance of a variety of symptoms. An extensive corpus of letters written by scholars to the king during the Neo-Assyrian period documents communication between these two parties.
+
+Scholars were not merely copyists of earlier traditions. They perused earlier tablets of particular omen series and took the information they deemed necessary or appropriate for the particular occasion and edited it into a new composition. Increasingly, scholars found ways to leave their personal imprint on texts.
+
+In the first millennium, scholars began to engage in whimsical and erudite orthographies. Numerals sometimes substituted for syllabic or logographic signs in normal orthographies of some omen texts and commentaries. We encounter a comparable practice in modern times when,
+
+2275 
+
+Language, Writing, and Literature
+
+for example, the homophony of the numeral “four” and the preposition “for” allows us to write “4 sale.” This curious practice was also tested on some scribal names preserved in colophons. As the numbers in these curious cuneiform orthographies have no intrinsic relationship to the cuneiform signs for which they substitute, we must conclude that the scribes manipulated the system for their enjoyment and intellectual diversion.
+
+ROYALTY AND THE SCRIBAL ARTS
+
+While scribes and scholars may have served the needs of temple and palace, several royal figures claimed to have mastered or at least achieved
+
+An Individual Scribe’s Career
+
+Evidence from the scribal curriculum demonstrates how and what the scribes learned. An understanding of the breadth of scribal and scholarly activity is deduced from the documents they produced. While the career of an individual scribe is generally difficult to trace, it is possible to determine that some scribes served that profession for their entire adulthoods. Scribal careers of thirty or more years, while not typical, are attested. Evidence from the careers of two scribes at Hellenistic Uruk affords a rare opportunity to examine aspects of an individual scribe’s career at a particular place and time. It would be unfair, however, to generalize the conclusions based on this evidence to all periods of scribal craft.
+
+This brief glimpse into a scribe’s career focuses on Anu-belshunu and his grandson, who, in accordance with the practice of papponymy common at Uruk, bore the same name. Both were involved, either as owner or scribe, with some two dozen texts. Between the years 230 and 193 BCE, the grandfather wrote a variety of texts, including a contract recording a realestate purchase, omen tablets, lamentations, and a ritual to be followed by the kali priest. A horoscope indicates that he was born in 248. Therefore, this man began his scribal career no later than his seventeenth year and practiced his profession until he was fiftyfive years old. When his name appeared in other coloproficiency in the scribal arts. Enmerkar, putative builder of Uruk, makes a literary claim to having invented writing itself. Otherwise, the first, already mentioned above, was Enheduanna. (See an illustration of Enheduanna in “Art and Ideology in Ancient Western Asia” later in this volume.) In self-laudatory hymns, Shulgi claimed to have mastered various aspects of the scribal curriculum, including music and divination. He asserted that none of the young students could write tablets as well as he, and that Nisaba, patron deity of writing, provided him with intelligence and wisdom. In the hymns he also credited the scribal school with preserving tradition. (For further discussion on Shulgi, see the chapter on him in Part 5, Vol. II.)
+
+Other kings responsible for the development of libraries were Tiglath-pileser I, who brought together tablets at his palace at Kalkhu, and Asphons, he was the owner of astronomical texts that date from 192-176. Thus, Anu-belshunu served as a scribe and began to collect scientific documents, probably fora personal reference library, once he no longer was an active scribe.
+
+His grandson adheres to this pattern of scribal and scholarly activity. He wrote texts from 178-172. These texts were records of real-estate transfers and a letter describing the training of scribes. Evidence from the remainder of his career, spanning 186—164, shows him as a tablet owner of some of the most unusual texts of the time, including a unique list of the names of antediluvian sages. Either this Anubelshunu had access to some of the more esoteric material in the Hellenistic cuneiform corpus, other exemplars of which have not survived, or he was uniquely creative and talented. In either case, the evidence from the careers of this grandfather and grandson, combined with that from other scribes of this clan at Uruk, overwhelmingly suggests that the careers of scribes adhered to this pattern: they began by writing routine formulaic texts, such as legal contracts, and as their interest or talent increased, progressed to copy scholarly treatises. Some became collectors of tablets, in much the same way that modern scholars build personal reference libraries in their areas of interest or expertise.
+
+2276
+
+
+
+The Scribes and Scholars of Ancient Mesopotamia
+
+surbanipal. Like Shulgi, Assurbanipal was not modest about his erudition:
+
+I am versed in the craft of the sage Adapa [an antediluvian hero]; I studied the secret lore of the entire scribal craft, I know the celestial and terrestrial portents. I discuss with competence in the circle of the masters; I argue about the text “If the liver is a correspondence of the sky” with expert diviners. I can solve the most complicated divisions and multiplications which do not have a solution. I have read intricate tablets inscribed with obscure Sumerian or Akkadian difficult to unravel, and examined sealed, obscure, and confused inscriptions on stone from before the Deluge.
+
+More significant evidence of Assurbanipal’s interest in scholarly activities is the library he created at Nineveh. One letter from a scribe to Assurbanipal indicated that the king was personally involved in deciding which tablets were to be included in the collection. The scribe noted that all texts he suggested for the king’s consideration were worth preserving for eternity. In a letter to a second scribe, Assurbanipal directed the scribe to find designated tablets in various houses and in the temple of Nabu at Babylon. The king instructed the temple overseer and magistrates to place at this scribe’s disposal any tablets he deemed suitable for the palace library.
+
+Nabonidus, the last Neo-Babylonian king (see the chapter on him in Part 5, Vol. II), has long been known for his antiquarian interests. In attempting to reestablish aspects of the cult of the moon god Sin, Nabonidus consulted older stelae and tablets for the proper procedures. He claimed to have taken out old tablets and writing boards and to have restored the works according to ancient customs. The Royal Chronicle recorded that while Nabonidus claims to have consulted the earlier documents, he handled the texts ignorantly.
+
+The cuneiform scribes are responsible for producing the written evidence from which modern scholars are able to learn about Mesopotamia. The enormity of the cuneiform record, both in sheer numbers and in breadth and depth of content, attests not only to the complexity of its civilization but to the prodigious efforts of its recorders.
+
+BIBLIOGRAPHY
+
+The Sumerian proverb opening this chapter is cited from J. LAESS#E, “Literacy and Oral Tradition,” in Studia Ioanni Pedersen . . . dicata (1953).
+
+Scribal Training
+
+STEPHANIE DALLEY, C. B. F. WALKER, and J. D. HAWKINS, The Old Babylonian Tablets from Tell al-Rimah (1976), contains the text of Yasitna-abum, the unsuccessful scribe described above. ADAM FALKENSTEIN, “Die babylonische Schule,” Saeculum 4 (1953), is an early study of the general characteristics of the Babylonian school. c. J. GADD, Teachers and Students in the Oldest Schools (1956), is a general introduction to the topic. S. N. KRAMER, Schooldays: A Sumerian Composition Relating to the Education of a Scribe,” Journal of the American Oriental Society 69 (1949), has an English translation of the Sumerian text on which much of our knowledge of the scribal school is based; it contains commentary suitable for the general reader. See also his “The First Schools” and “The First Case of ‘Apple Polishing,” in History Begins at Sumer (1959; 3rd rev. ed. 1981), which present a thumbnail sketch of the Mesopotamian scribal academy. BENNO LANDSBERGER, © Babylonian Scribal Craft and Its Terminology,” International Congress of Orientalists 23 (1954), presents a list and basic discussion of terms relating to the scribal school, the pedagogic process, and scribal titles; see also his “Scribal Concepts of Education,” in City Invincible, edited by C. H. KRAELING and R. M. ADAMS (1960). KAREN RHEA NEMET-NEJAT, “Cuneiform Mathematical Tests as Training for Scribal Professions,” in A Scientific Humanist: Studies in Memory of Abraham Sachs, edited by E. LEICHTY AND M. DEJ. ELLIS (1988), details all types of cuneiform mathematical texts and explores their relationship to the scribal curriculum. A. L. OPPENHEIM, Ancient Mesopotamia (1964; 2nd ed. rev. by ERICA REINER, 1977), discusses the scribes, their training, and responsibilities. a. w. sjJOBERG, “The Old Babylonian Eduba,” in Sumerological Studies in Honor of Thorkild Jacobsen, edited by s. LIEBERMAN (1975), describes the scribal curriculum as recovered from a variety of sources, including the royal hymns. In “How Did They Learn Sumerian?” Journal of Cuneiform Studies 31 (1979), H. L. J. VANTISPHOUT considers the place of lexical lists in the process of learning Sumerian. He suggests that some royal hymns may have provided students with instruction in progressively more difficult stages of Sumerian.
+
+Women Scribes
+
+See w. Ww. HALLO, “Women of Sumer,” in The Legacy of Sumer, edited by D. SCHMANDT-BESSERAT (1976). In
+
+2277 
+
+Language, Writing, and Literature
+
+addition to female scribes and scholars Enkheduanna and Nin-shata-pada, Hallo discusses women and their presence in the religious, economic, and political life of Mesopotamia. See also RIVKAH HARRIS, “The Female ‘Sage’ in Mesopotamian Literature (with an Appendix on Egypt),” in The Sage in Israel and the Ancient Near East, edited by J. G. GAMMIE AND L. G. PERDUE (1990).
+
+Scribal Materials
+
+In GEORGE F. Bass, “Oldest Known Shipwreck Reveals Splendors of the Bronze Age,” National Geographic 172 (December 1987), both the text and superb photographs record a significant archaeological find. See HEINRICH OTTEN, Die Bronzetafel aus Bogazkéy: Ein Staatsvertrag Tuthalijas IV (1988), for the publication of the bronze treaty tablet mentioned above. C. B. F. WALKER, Cuneiform (1987), is a small volume that covers the origin, development, and geographical distribution of cuneiform, the process of its decipherment, scribes and libraries, and the variety of texts produced in cuneiform. pD. J. WISEMAN, “Assyrian Writing Boards,” Iraq 17 (1955), presents evidence of the production, use, and organization of this inscriptional medium.
+
+The Scribal Process
+
+W. G. LAMBERT, ‘Ancestors, Authors, and Canonicity,” Journal of Cuneiform Studies 11 (1957), is a consideration of the contributions of ancient cuneiform scholars to the literary “canon”; see also ALAspatR LIVINGSTONE, Mystical and Mythological Explanatory Works of Assyrian and Babylonian Scholars (1986), A. L. OPPENHEIM, “The Intellectual in Mesopotamian Society,” Daedalus 104, no. 2 (1975), discusses the contributions of the scribe to the intellectual history of Mesopotamia and considers the scribe in his roles as bureaucrat, scholar, and poet. In SIMO PARPOLA, Letters from Assyrian Scholars to the Kings Esarhaddon and Assurbanipal (1971), the introductory material of vol. 1 discusses the nature of Mesopotamian science, the responsibilities of the cuneiform scholars, and the relationship of the scholars to the crown. FRANCESCA ROCHBERG-HALTON, © Canonicity in Cuneiform Texts,” Journal of Cuneiform Studies 36 (1984), examines evidence for the existence of a native Mesopotamian concept of canon as applied to its literary and scientific texts. Three streams of tradition are defined. The problems are considered in detail with regard to the celestial omen series Entima Anu Enlil. MAXIMILLIAN STRECK, Assurbanipal und die letzten assyrischen Kénige bis zum Untergang Ninivehs (1916), discusses the inscriptions of Assurbanipal from which the excerpt above was quoted.
+
+SEE ALSO Legal and Social Institutions of Ancient Mesopotamia (Part 4, Vol. I) and The Scribes of Ancient Egypt (Part 9, Vol. III).
+
+2278
+
+# FIGURE
+
+# BIBLIOGRAPHY
+

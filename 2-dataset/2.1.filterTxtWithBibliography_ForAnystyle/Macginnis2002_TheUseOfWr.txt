@@ -1,0 +1,1112 @@
+# METADATA
+author: Macginnis J.
+source_id:Macginnis2002_TheUseOfWr
+title: The Use Of Writing Boards In The Neo Babylonian Temple Administration At Sippar
+Year: 2002
+Source_ID:  Macginnis2002_TheUseOfWr
+Source_Type:Article in Book: Iraq, Vol. 64 (2002)
+Source_Role,Step_distance: 0,1,2 ,3,4 
+Pages: pp. 217-236
+Web:  
+Published: British Institute for the Study of Iraq
+
+
+# TEXT
+
+The Use of Writing Boards in the Neo-Babylonian Temple Administration at Sippar
+Author(s): John MacGinnis
+Source: Iraq, Vol. 64 (2002), pp. 217-236
+Published by: British Institute for the Study of Iraq
+Stable URL: http://www.jstor.org/stable/4200524 .
+Accessed: 10/11/2014 12:58
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+.
+British Institute for the Study of Iraq is collaborating with JSTOR to digitize, preserve and extend access to
+Iraq.
+http://www.jstor.org
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+217
+THE USE OF WRITING BOARDS IN THE NEO-BABYLONIAN
+TEMPLE ADMINISTRATION AT SIPPAR
+By JOHN MacGINNIS
+The use of waxed wooden writingb oards in Mesopotamiac an be tracedb ack at least to the Ur
+III period and the indicationsa re that at certainp eriodst hey were a majorv ehicle of cuneiform
+writing.T his articled eals with the use of writingb oards at Sippari n the Neo-Babylonian/early
+Achaemenidp eriod,b asedo n the numerousr eferencesto theiru se in the archiveso f the Ebabbara1.
+The word used for a set of writing boards was le'u, normally written with the logogram 1DA but
+occasionally written out phonetically.2 This article presents a catalogue of the evidence from
+Sipparf ollowedb y an analysiso f the purposesf or whichw ritingb oardsw ereu sed, an examination
+of the proceduresa nd officials involved, comments on their manufacturea nd a review of the
+evidencec oncerningt he end of the archives.A n appendixg ives editions of twelve new texts.
+Glossary
+The following are technical terms from Neo-Babylonian temple administration:
+ginu: a synonym for sattukku.
+guqqu: offerings whose periodicity is not yet fully understood.
+imittu: the portion of the harvest collected from land worked directly by the temple, consisting of
+a fixed amount assessed by annual inspection.
+isqu: share in the right to perfom one of the prebendary functions in the temple.
+massartu: the term for the consumables required by the offerings system including both the
+materials for the offerings themselves (sattuku/ginu', guqquz) and the prebendaries' pappasu,
+calculated in four-month blocks.
+pappasu:t he remunerationto prebendariesn, ormallyp aid in dates (in Sippara t a rate of twelve
+litres a day).
+qipu: the senior official appointed by the king to monitor the activities of the Ebabbara.
+sattukku: the regular daily offerings to the gods.
+sepiru: a scribe writing Aramaic.
+sa muhhi esre: a private individual awarded the contract to collect tithes owed to the temple.
+sa muhhi suti: a private individual awarded the contract to collect dues from land worked under
+outsourced management.
+sangu: the bureaucratic head of the temple administration in Sippar.
+sirkatu: a female sirku.
+sirku( plural& irkeo r siraku):a n individuald edicatedt o the temple,b ut not alwaysa ctuallya slave.
+Catalogue of the evidencef rom Sippar
+Nbn. 219 (Nabonidus 6): record of dates issued for the pappasu of the brewers not to be entered
+on the writing board (ina UGUg iDA la sd-ta-ri).3
+'The principal previous study of Neo-Babylonian writing of this article and making many suggestions; and last but
+boards is San Nicolo6 1948. Symington 1991 gives a com- not least E. Leichty, without whose performance of the
+prehensive review of the evidence from the Hittite texts, Herculean task of cataloguing the Sippar Collections none
+with numerous references to evidence from Mesopotamia of this work would have been possible.
+and the writing boards recovered from the wreck of a 2The word le'u does not necessarily mean a writing
+ship off Ulu Burun in southern Turkey dating to the late board, it can refer to boards of other types, but context
+second millennium BC; for remarks on the use of writing usually tells us the right meaning, and when the expression
+boards in the Middle Assyrian period see Postgate 1986: le'u Sa Samas is used there is no doubt that this refers to
+22-5; for the Neo-Assyrian evidence Wiseman 1955. I would the official temple ledgers. The individual panels of writing
+like to express my thanks to H. Bongenaar, S. Dalley, boards were denoted by the word daltu, for the latest
+M. A. Dandamayev, R. Da-Riva, I. Finkel, M. Jursa, comment on which see Stol 1998: 343.
+A. Millard, K. Nemet-Nejat, M. W. Stolper, D. Symington, 3F or this translation cf. CAD le'u b.2'b'.
+C. Waerzeggers and S. Zawadzki for reading draft versions
+IraqL XIV( 2002)
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+218 JOHN MacGINNIS
+Nbn. 429 (Nabonidus 10): consignmento f seven minas of beeswaxf or writingb oards (7 ma-na
+DUHd i§-pia -na mul-li-i d
+giIG.MES).4
+Cyr. 31 [Cyrus 4-5]: drawing up by three scribes of accounts of barley, dates and emmer of the
+offerings of gama§ according to the writing board (a-ki-[i] giiDA).5
+Cyr. 256 (Cyrus 7): accounts of dates paid out as pappasu of the brewers, drawn up with Nabu-
+balassu-iqbi and the brewers and entered on the writing board (ina muh-hi giDA ep-tsu).
+Cam. 172 (Cambyses 3): issue of silver to a certain Arad-Bel "according to the writing board"
+(aDIsic giSA).
+Dar. 433 (Darius 16): loan of dates by Iqisa-Marduks on of Eriba-Mardukto Lus(a)-ana-nuri
+son of Remut. The dates are to be repaid in the bit makkari on the quay (karu) of Sippar using
+the measure of §ama§. There is a further stipulation, the precise implication of which is slightly
+obscure due to an uncertainty in interpretation. Possible readings are "they will credit to the
+god what is (entered) on the writing board of gama§" (sd ina muh-hi gitDA s6 dUTU a-na UGU
+i-lim tiu-e-ez-ziz), or "they will credit to him" (a-na UGU-i-si tiu-e-ez-ziz).6 Either way, this would
+appear to be a transaction in which personal and temple interests were intertwined; perhaps a
+part of the dates loaned by Iqisa-Marduk was earmarked for temple use (Lus(a)-ana-nuri was
+a prebendary baker) and so entered against the account of the god.
+Dar. 451 (Darius 17): memorandum recording that the sepiru Nabu-zer-ibni and his colleagues
+had communicated a decision of Darius ordering an audit of the accounts of the &a muhhi
+suti Bultaya, including an inspection of his writing boards and promissory notes (g^DA.ME§-i ut
+U-il-tim S-Su).
+CT 22 11 [Cyrus 3-Cambyses 4]:8 letter of one Ahhe-iddin-Marduk (possibly the brewer of this
+name) to three scribes (another Ahhe-iddin-Marduk, Bel-iddin and Nabu-ahhe-4ullim); the
+relevant passage concerns 501 kur of wheat which the sender of the letter had earlier delivered
+to the temple: it would appear that this was going to be reckoned as barley and entered on the
+writing board of gama§, and the writer wants to know how much barley he is being credited
+for (ki-ma-a' ki-i §[E.BAR ana] UGU ta-na-ad-[Md-alu] ak-ka-a' ki-i ina UGU giD[A] S dUTU
+tu-Md-az-zi-za-as' u-up-ra-an-ni)
+CT 22 12 [Cyrus 3-Cambyses 4]: letter of Ahhe-iddin-Marduk to the sanguz, apparently a direct
+follow up to the previous letter CT 22 11. Ahhe-iddin-Marduk writes that he has given 25 kur
+of barley to the birdkeeper Samas-ahhe-sullim, in addition to the barley which he had earlier
+delivered to the bit makkari.9 But he has received no reply from the scribes despite writing to
+them a number of times requesting they inform him how this has been entered on the writing
+board of Samag. Ahhe-iddin-Marduk asks the sangu to send him this information (ina UGUl e-'i
+Sd dUTU §E.BAR ma-li iq-ru-bu u ak-ka-['i] ki-i tu-sa-az-za-az si-pir-ta-ku-nul u-mur).l°
+CT 22 14 (Nabonidus 6-12): letter from the sanga Musezib-Marduk to five scribes concerning
+silver expenditures. The relevant passage is problematic. It reads itiNE qa-ta ki-i a-na muh-hi
+gi'DA e§-u sa ina itiNE a-ga-a si-in-qa sd i-di E.ME§ sai muh-hi ka-a-ri al-tap-par-rak-ka-Nu-nu-tu;
+we tentatively translate "Abu is at an end; as they (the house rents?) are transferred to a new
+writing board in Abu, I have sent you the rent from the storerooms on the quay."'1
+CT 22 21 (Nabonidus 14-Cyrus 4): letter to the scribes; the name of the sender is lost but as
+he addresses them as "my brothers" he was evidently of equal rank. The exact circumstances
+of the text are not clear, but one point is that in a matter of three minas of silver there
+is a discrepancy regarding the earlier (entries on the) writing board which is with the scribes
+(3 ma-na KU.BABBAR U 1g'DA mah-ru-uzit -ti-ku-nu i-sd-an-ni).
+CT 22 23 (Nabonidus 14-Cyrus 4): letter to the scribes, sender's name lost, which appears to
+deal with an escaped slave: "Do not release the captive whom they have seized. Quickly enter
+4Nbn. 429 is also discussed by Stol 1998: 343. 9Reading [9E.BARm] ah-ri-tu4a -[na t] NiG.GA at-ta-din in
+5This text is discussed by Bongenaar 1997: 143 who also 11.9 -11 rather than the ['IGAL] NiG.GA suggested by Ebeling
+reconstructs the chronological date. 1949: 9.
+6Another possibility might be to read a-na UGUi -<na>-si. '°See MacGinnis 1995: 22 for further comments on this
+7 Dar. 451 is edited by Jursa 1995: 107. text.
+8Following the dating of Bongenaar 1997: 90; CT 22 " For the translation of sinqu as "transferred" see CAD
+11 = Bertin 3067. sandqu A8c.
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+THE USE OF WRITING BOARDS IN THE NEO-BABYLONIANT EMPLE 219
+(the details) on the writing board [and send] the writing board [to me]!" (su-ud-dir-a-ma ina
+UGU gisle-e su-uz-zi-za-a' gisle-e su-[ud-dir-a-mas up-ra-al).
+CT 22 126 (Nabonidus 15-Cyrus 7): letter of Marduk-[sum-iddi(n? )] to the scribes about the
+work station of Bunene-ibni: "Bunene-ibni son of Marduk-ere§ is an architect working in the
+gate. Open the writing board of Samas (and) according to the writing board send him on his
+way! [And concerning] the rations for year [...], look in the writing board to see whether or
+not they have been paid!" (gDA sa dUTU pi-ta-a' a-ki-i giDA [ka]p-du [KASKAL.aI-In a] GiR.II-s
+[su-uk-na-al
+CT 22 170 (undated):l etter from a Nabiu-sum-iskutno the sangu:e videntlyN abu-sum-iskunh as
+not been given all the silver he needs to carry out the work he has been assigned and asks "may
+my lord examine the writing board and [send] me the rest (of the silver)!" (~giDAE N li-mur u
+re-eh-[tut]i na lib-bi rlul-s[e-bil-m]a[ rest broken off]).
+CT 22 204 (reign of Nebuchadnezzar?):l etter from a Sumaya and Nabu-nadin-ahi to Nabu-ah-iddin:
+the sangu has recorded the seed-grain of Sadufnus on of Bel-nasir on the old and the new writing
+boards (SE.NUMUNm Sd-du-[nua] -su&sa im dEN-na-[sir1 U]KID.BARU D.KIB.NUNki [ina] gii-us-um SUMUN
+[u] giili-u5-um e§-su ana muh-hi-su sad-ti-ir).
+CT 55 411 (undated):l ist of libraryb oardsc ontainingm agicala nd medicalt exts, see Stol 1998:3 43.
+CT 55 429 (Nabonidus -): record of precious items delivered to the bit kare including gold cups,
+gold containers and writing boards.
+CT 55 482 (Neriglissar [x]-Nabonidus 1): record of transfers of sheep, including the entry (line
+11) "two sheep have been entered on the writing boards" (2 UDU.NITA2 ina IGI giDA.ME, ep-suz).
+CT 55 596 ([Nebuchadnezzar] year 11-12):12 record of the whereabouts of 5000+ sheep, concluding
+"the young male sheep which are at the disposal of the shepherds from year 11 to year 12 have
+been withdrawn from the writing board" (UDU.NITA2z i-ka-ri sd ina IGI luSIPA.MEST A MU 11 KAM
+EN MU 12 KAM TA SA-bi giDA na-si-ih).
+Jursa Tempelzehnt No. 7 (Cyrus 7-Nebuchadnezzar IV year 1): the sangu Bel-uballit and qipu
+Sarru-ludari investigate the amount of tithes payable by the Gezerite colony in Birillu and state
+that the amount, 200 kur, was recorded "for inspection of the writing board of accounts"
+(a-na muh-hi a-ma-ru sadg i8DA NiG.rSIDl).
+MacGinnis Letter Orders No. 40 (Darius 23): Labasi, the sa muhhi suti of the village of Birilli,
+has made a payment to Nabu-balassu-iqbi (evidently the baker of that name)13 and the scribes
+Bel-iddin and Uballissu-Gula write to tell Labasi that that they will enter this transaction on
+the board of Samas against the account of Nabuf-balassu-iqbi (ina muh-hi gSiDA s dUTU a-na
+mu[h-hi-su] nu-ul). The scribes also order the transfer of another 1,800 litres of barley, sesame
+and emmer; tablet sealed with the seal of Uballissu-Gula.
+BM 63469 = No. 4 below (no date): list of writing boards, including for house rentals, gold,
+rations, massartu and pappasu transactions.
+BM 64026= No. 12 below (Cyrus7 ): registrationo f the child of a sirkatu in the le'u sa Samas.
+BM 68389= No. 10 below (Nebuchadnezzar 28): fragmentary document concerning silver
+expenditures, with a line appended after the date reading "Withdrawal from the writing board
+of [~amas ...]" (rnil-si-ih Sd ina SAi gDA s[ dUTU ...]).
+BM 74435 = No. 3 below (Nabonidus 10): issue of sesame for (oiling) writing boards.
+BM 74564 = No. 7 below (Darius year 26): (1) from the dates belonging to Samas from the imittu
+of the villages of Hasape and Til-salam, which were at the disposal of Iddin-Bel and Nabiu-
+eter-napsati from these dates Marduk-remanni the sanguzh as received 23 kur 5 silt against
+the account of Iddin-Bel and Nabfi-eter-napsati; Marduk-remanni will enter the transaction on
+the writing board of Samas and show the entry to Iddin-Bel and Nabu-eater-napgati(. 2) This is
+apart from the 36 kur 4 pan I sat which Marduk-remanni earlier took from Iddin-Bel and
+Nabu-eter-napsatai nd gave to a slave of the satammu of Esagila. Marduk-remannwi ill enter
+12I am gratefult o R. Da-Rivaf or drawingm y attention 13Bongenaa1r9 97:1 93.
+to the fact that a comparisonw ith the prosopographyo f
+CT 55 595 allows this text to be placed in the reign of
+Nebuchadnezzar.
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+220 JOHN MacGINNIS
+the total 60 kur of dates on the writingb oard of Samas and show the entry to Iddin-Bela nd
+Nabu-eter-nap§ati.
+BM 74570= No. 11 below (Darius 35): contractf or the performanceo f two days of a brewer's
+prebend in the Ebabbara in which the servicer undertakes to deliver the barley for the offerings,
+stand his watch and have the pappasu entered on the le'u sa Sama?.
+BM 74644 = No. 8 below (Darius 30): on the orders of the scribes of the Ebabbara thirty kur of
+dates are assigned from the imittu of §a-pi-kalbi, a gardener of Laharatu, for the pappasu of
+the bakers and brewers of the temple of Adad; the collectors Nergal-eter and Labadi will credit
+Sa-pi-kalbi with thirty kur of dates in the writing board of Sama§.
+BM 77960 (Nabopolassar 10): part of long list of individuals who delivered or received sheep
+"according to the writing board" (ma-la giDA): courtesy R. Da-Riva.
+BM 79570 = No. 9 below (Xerxes 1): delivery of dates to the sapiru of the brewers to be entered
+on the le'u Sa sama&.
+BM 79574= No. 1 below (Cambyses 1): receiptf or wax and orpimentf or the filling of writing
+boards.
+BM 83464= No. 5 below [Cyrus 6-Darius 7]: sworn testimony of Sarru-ludari( the qipu)
+mentioning the writing board of Nergal-§ar-[...]i n connection with an inspection of the
+gardeners.
+BM 83895 = No. 6 below [Darius 4-17]: record of payments of barley including a payment by
+the ga muhhi eSre Taqi§ entered on the writing board of Sama§.
+BM 99465= No. 2 below (Cyrus 6): record of silver expendituresi ncludinga sum for wax for
+writing boards.
+Analysis
+Writing boards are attested in Sippar from Nabopolassar year 10 to Xerxes year 1. The officials
+involved in the writing and consultation of writing boards are the Sangz, qipu and scribes.14T he
+areas for which we have direct evidence of the use of writing boards are:
+pappasu:N bn. 219, Cyr. 256, Texts Nos. 4, 8, 11 below. These paymentsw ere in dates. The evidence
+tells of boards dealingw ith the pappasuo f the brewersa nd bakers,b ut it could be that there was a
+separateb oardf or the pappasuo f each prebendaryp rofessionw hich,i n additiont o brewersa nd bakers,
+includeso il-pressers," templee nterers"( erib biti), arrangerso f the sacrificalt able (mubannd)p, orters,
+orchardk eepers( rabb ane),s ingers,w eavers,b leachersp, otters,b uildersg, oldsmithsm, easurersb, oatmen
+and fishermen.
+sattukku/ginuC: yr. 31, a drawingu p of accountso f offeringso f barley,d ates and emmer.I t is not clear
+whethert hese commoditiesw ere recordedo n three separateb oards,b ut this was probablyt he case.
+maSdartu:T extsN os. 4 and 9 (?); a le'u Sam aSSartiis also attestedi n VS 6 132, but it is not certaint hat
+this text is from Sippar.
+rations:C T 22 126;T ext No. 4.
+seedgrain:C T 22 204.
+sutu:D ar. 451, CT 22 21 (?), MacGinnisL etterO rdersN o. 40.
+imittu:T extsN os. 7, 8.
+tithes:T ext No. 6, Jursa TempelzehnNt o. 7.
+loans: Dar. 433.15
+sheep:C T 55 482, 596, BM 77960.T hese texts deal with the rotationo f sheepf or offeringsr athert han
+the actual breeding.
+silver: Cam. 172, Text No. 10. A particularr equirementw as for silver to pay for earthworki n the
+countrysidee, .g. CT 22 170.
+14 angU:C T 22 12, 14, 126, 170, 204; Jursa Tempelzehnt ' Cf. Weszelia nd Baker1 997:2 35 for a smiliars cenario,
+No. 7; Texts Nos. 7, 8, 12 below;q ipu:J ursa Tempelzehnt from Babylon, in which the contract stipulatest hat the
+No. 7; Text No. 5 below;s cribes:C T 22 11, 12, 14, 21, 23, debtors hallr epayt he loan to the templea gainstt he account
+126;C yr.3 1; MacGinnisL etterO rdersN o. 40; Text No. 12 of the son of the creditora nd havei t enteredo n the register
+below. of Bel.
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+THE USE OF WRITING BOARDS IN THE NEO-BABYLONIANT EMPLE 221
+propertyr entals( idi bititi): CT 22 14, Text No. 4. These were paid in silver.
+gold:T extN o. 4; gold was commonlyi ssuedt o goldsmithst o worki n theiro wn workshops,t he procedure
+being to weigho ut the gold being issueda nd weighi n the finishedp roduct;a proceduret o whichw riting
+boardsw ould have lent themselvesn aturally.
+rosterso f workmen:i n Text No. 5 referencei s made to a writingb oard of Nergal-§ar-[...i]n connection
+with an inspectiono f the gardenersa, nd in CT 22 126 the scribesa re directedt o consulta writingb oard
+to confirmw here an architects hould be working.N ot all rostersw ere on writingb oards - we have
+hundredso n clay tablets- but the advantageo f writingb oardsi s that they could be used over a period
+of time, addingn ewcomersa nd markingi n presencesa nd absencesa t the daily roll call.
+rosterso f siraku( templeo blates):t he templew ill certainlyh ave had a registero f firdkua nd Text No. 12
+would seem to indicatet hat this was kept on a writingb oard;t his was also the case in the Eannat emple
+at Uruk.
+magicala nd medicalt exts: CT 55 411.
+These are the areas for which we have direct evidence for lists and running accounts maintained
+on writing boards. Working out from these there are a number of further areas where we can be
+fairly confident that this was the case. Thus, complementary to the writing boards covering sheep
+there should have been a set dealing with cattle, probably broken down by gender and age. Sets
+of writing boards for recording the movements of birds can be expected but are not directly
+attested so far.16 There may have been separate series for the various types of birds kept by the
+temple (ducks, geese, doves). Iron and bronze were issued for work in the same way as gold, and
+we would expect a running ledger to be kept in the same way. In Uruk, Dilbat and Borsippa there
+were writing boards covering the overall income (erbu) and outgoings (telitu) of the temples. The
+terms erbu and telitu were also used in the administration in Sippar, and there may indeed have
+been separate series for incoming and outgoing silver. But with dates and barley it may be that
+the transactions were logged according to the class of payment: suitu,i mittu and tithes coming in,
+offerings, rations etc. going out. The flow of wool through the administration should also have
+been monitored on writing boards, from the initial delivery to the temple after shearing, to
+allocations made for clothing allowances, raw wool issued to temple weavers and the finished
+product weighed back in. Wool might also be sold; this could be done locally, but it might also
+be handed over to a merchant (tamkdru) for a venture further afield (harrdnu); there are no
+references from Sippar to writing boards listing goods sent for export, but there is a reference to
+a le'u gah arriznii n a text from Babylon.'7 The rkept an up to date record of
+the holders of prebends (isqeti); once again writing boards would have been the natural medium,
+and indeed we find a reference to a le'u sa isqeti in Uruk.18 In Uruk there was also a writing
+board dealing with the sacrificial remnants (rehanu), but note that although this word is attested
+at Sippari t does not have the same meaningo f "sacrificalr emnants"b ut somethingm ore along
+the lines of "outstanding payments".19 In the area of rosters of personnel, in Uruk there was a
+writingb oard for archers20a nd it is most probablet hat the same was true in Sippar.
+In arguingf or the use of writingb oardsi n the above cases we are on solid ground.O thera reas
+are more speculative. For instance, when the temple made loans of commodities to private
+individuals,w eret hese enteredo n a writingb oard?W e do not know, but perhapst his is suggested
+by Dar. 433. To take anotherc ase, the templeh ad a numbero f differents torerooms/warehouses,
+of which the main ones were the bit qiti, bits utum sarri, bit kare/bit kalakku and the various bit
+makkuri's.W e could imaginet hat each of these kept runningr ecordso f their contents but we do
+not really know. Certainlyw ritingb oards were used to keep inventoriesb y the Hittites2'a nd in
+addition to monitoringp erishables tock they could have been used to list practicale quipment
+(spades, baskets, ploughshares)a nd cultic utensils. Were writing boards used for letters?V ery
+likely they were. Apart from the celebratedp assagei n Homerm entionings uch a use (Iliadv i.169)
+there is also Hittite and Ugaritice videncet o this effectw hich has been reviewedb y Symington.22
+'6Though perhaps this is what lies behind the entry "we 18CAD le'u b.2'.b'.I".
+will enter thirty ducks against his account" (30 UZ.TUR.MUSEN 19Bongenaar 1997: 104.
+ina muh-hi-Sin u-ul-te-zizi)n a letter order from the reign 20 YOS6 116. 8.
+of Nabopolassar, MacGinnis 1996: 136 No. 50. 21 Symington 1991: 118.
+17Holt AJSL27(1910-11): 194 No. 3. 8. 22Symington1 991:1 19-20.
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+222 JOHNM acGINNIS
+Perhapst his is what is meant when the sendero f CT 22 23 asks the scribest o enter the detailso f
+an apprehendedm an on a writing board and forwardt he writingb oard to him. Alternatively,
+this text may indicate that boards were used to maintaint he roster of prisonersi n the bit kili.
+Lastly, we may ask whethera ny part of legal proceedingsc ould have been recordedo n writing
+boards.T he issuei s not clearc ut, for whilet herea re hundredso f courtp roceedingsfr omB abylonia
+writteno n clay tablets,i n the Hittitew orldl egal texts would appeart o have been recordede ntirely
+on writing boards.
+Is there evidencef or categorieso f texts that were originallyw ritteno n clay tablets and then
+changed format to writing boards? There are some possibilities. One is an easily recognisable class
+of text recording animal offerings listing the sheep and sometimes oxen sacrifices (which incidentally
+give us the best information on the pantheon of gods worshipped at Sippar).23 As it stands all
+known exemplars of the archives, that is from the reigns
+of Nabopolassar and Nebuchadnezzar. Another possibility is with the records of plough teams
+recording the head of the team (rab epinni) and those under him (the full complement was officially
+four). These also are known from the earlier years of the administration. Both these categories of
+text would have been well suited to the medium of writing boards, and it seems eminently plausible
+that there was a change in administrativep ractice in which the recordingo f these classes of
+information was shifted to wooden writing boards. Nevertheless the possibility remains that the
+restriction of our current knowledge of these genres to the early years of the archive is just a
+matter of chance.
+Moving out of administrativem aterial,w ritingb oards were used for medicala nd astrological
+texts24a nd in all likelihooda ll mannero f scholarshipC. hroniclet exts mightb e writteno n writing
+boards- a usagef or whicht he capacityt o be updatedw ith runninge ntriesm adet hemp articularly
+suitable25- while the Assyrianl ibraryl ists studiedb y Parpolad emonstratet hat writingb oards
+were used as vehiclesf or all types of literaturei n its widest sense (epics, omens, incantations).26
+It is a long standing question whether or not there was an astronomical school at Sippar27b ut
+we do know that there was a libraryo f literarya nd technicalt exts in the north-easternp art of
+the temple complex.T his was excavatedb y the Universityo f Baghdadi n the 1980s.T hey found
+a small room lined with niches for storingc uneiformt ablets and the questionm ust be, was there
+a similarr oom for storingw ritingb oards?A lthought he actualb oardsm ightn ot survive,a rchaeo-
+logical evidencec ould survivei n the form of hinges, clasps, clay sealings,s tyli and differentiated
+storagef acilities.I ndeed,a recentlye xcavateda rchiveb uildinga t Boghazkoyc ontainedm ore than
+a thousand stampedc lay bullae which are thought to have sealed writingb oards.28M etal styli
+have also been found at Boghazkoy.29
+The Hittites used both clay tablets and wooden writing boards to record rituals, and while
+ritualsw erec ertainlyc ommittedt o clay tabletsi n Mesopotamia,3t0h e paucityo f ritualt exts from
+the Ebabbaram ight be explainedb y their mostly having been recordedo n writingb oards.31A s
+23S ee MacGinnis1 995: 152-3; anothers uch text, dated which are catalogueda s rituals or incantations,I found
+to Nabopolassar3 /3/14, is in the possessiono f Westminster only seven texts, all fragmentaryt, hat mention Samas.
+College,C ambridge( registrationC 9/15/4 No. 1). Whethert his is becauset he ritualso f the Ebabbaraw ere
+24 C AD le'u b.3'.b';S tol 1998:3 43. committedt o writingb oards or whetherw e simply have
+2SM illard1 964:1 5 line 23. not found the relevantc lay tablets is an open question.
+26Parpola1 983, cf. A. R. George in S. Parpola and Neverthelesse ven these fragmentsc an yield excellentd ata
+R. M. Whiting (edd.) Assyria 1995 (Helsinki 1997) as Maul's superb treatmento f BM 50503 (Maul 1999)
+pp. 71-2 + n. 9; for colophons stating that the texts were bears witness.W hile on the subjecto f religion,n ote that
+copied from originalso n writingb oardsc f. Hunger 1968: the statementi n CAD that writingb oardss erveda s objects
+166. of worshipi n the Neo-BabylonianE babbara(C ADl e'ub .4')
+27Oelsner1 971. must be disregardedt:h e text in question,C TMMA2 12,
+28SeeN eve 1991:3 25-35. belongs to a well-knownt ype of offeringl edgerf rom the
+29Nemet-Neja2t 000:2 53. reignso f Nabopolassaarn d Nebuchadnezza(sre e MacGinnis
+30Seef or instanceF . Thureau-DanginR ituelsa ccadiens 1995: 152 for references)a, nd the entry in line 16 should
+(Paris, 1921) and most recentlyG . (agirgan and W. G. be read ^"GIGIRa, nd not g'DA. This is cleareri n the hand
+Lambert,T he Late BabylonianK islimur itual for Esagil, copy of Hartmant hant he printedc uneiformo f Moldencke.
+JCS 43-5 (1991-3): 89-106. I am most gratefult o ProfessorS tolperf or trackingd own
+31 Readingt hrought he tabletsi n the SipparC ollections and supplyingm e the variousc opies and transliterationosf
+many of which, admittedly,d o not come from Sippar this text.
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+THE USE OF WRITING BOARDS IN THE NEO-BABYLONIANT EMPLE 223
+noted by Symington, when dealing with complicated rites stretching over several days wooden
+boards would have been easier to handle than clay tablets, not least because of their lightness.32
+Were there any purposes for which writing boards were not suitable? The most obvious area is
+contracts. These were traditionally formatted as tablets sealed with cylinder seals and here the
+fact that clay could not be written on after drying was its great advantage, preventing alteration
+of the contract. Also, Mesopotamian sealing practice was perfectly adapted to use on clay tablets
+and clay tablets were particularly well suited to contracts: the sealed tablet could be inspected
+without destroying the information. Wooden writing boards could be sealed (with a bulla on
+string)33 but the information could not then be viewed without destroying the integrity of the
+sealed unit (breaking the seal or cutting the string).
+Procedures
+Writing boards were used in the Ebabbara in an administration which also made extensive use
+of clay tablets. Clay was considered the natural medium for some records and writing boards for
+others. The situation has been well summarised by Symington:
+Therea re distincta dvantagesi n (waxed)w ritingb oardso ver clay tablets:t hey were lighter,l ess fragile,
+they weree asilyu pdateda nd could be re-used.O n the otherh andw ritingb oardsw erer elativelye xpensive
+to producea nd theirw rittenc ontentsc ould be easilyf alsified,h encet he referencesto woodend ocuments
+being sealed.34
+The capacity for updating meant that boards "afforded the freedom of adding, subtraction and
+finally erasing information which was no longer needed".35 The advantages of clay tablets were
+that they were cheap, could therefore be copied readily, and could be sealed. There was an
+interplay of information between these two media, with the consequence that we must look for
+at least the following types of practice:
+(1) information transferred from clay tablets to wooden boards.
+(2) information transferred from wooden boards to clay tablets.
+(3) information entered on wooden boards without first being entered on a tablet.
+(4) information entered simultaneously on both tablet and writing boards.
+(5) deletion of information.
+(6) consultation.
+(7) scrutiny.
+(1) Information transferredfromc lay tablets to wooden boards
+This procedure is attested for tithes (Text No. 6), sheep (CT 55 482) and dates issued as pappasu
+of the brewers (Nbn. 219 and Cyr. 256). In the case of CT 22 204, where an amount of seed-grain
+was entered on a writing board, we are unable to tell whether this information originally came
+from tablets or not. The transfer of information in this manner may have been common. According
+to this model individual day-to-day transactions were written on clay tablets which were then
+collected, collated and entered on writing boards. This procedure could have taken place anything
+from minutes to months after the writing of the clay tablet. Symington summarises the evidence
+for such a procedure at Emar, though with reservations as to whether the same routine was
+practised by the Hittites.36 In the case of the Ebabbara administration it seems to fit. There was
+an administrative procedure to commute the commodity being reckoned, e.g. wheat could be
+recorded in terms of barley, and it is not surprising that this should have caused occasional
+concern (CT 22 11).
+An area where this hypothesis seems particularly convincing is in the working of gold. Gold
+was routinely issued to the goldsmiths and the procedure was to weigh out the amount issued and
+weigh the finished products back in again. Numerous clay tablets record this weighing in and out
+and it makes excellent sense that the gold department of the storehouses (or the accounts
+department) would have kept a wooden writing board updating this information. This must be
+32"Symington1 991:1 17;c f. Nemet-Nejat2 000:2 55. 35S ymrningt1o9n9 1:1 18.
+33Symington 1991:1 20-121, Nemet-Nejat2 000:2 55. 36Symington1 991:1 18.
+34S ymington1 991: 111.
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+224 JOHN MacGINNIS
+"the writingb oard for gold" listed in Text No. 4.37A s mentioned,t he same processw as used for
+the working of iron and bronze, so we should expect that there were sets of writing boards
+recordingt he movementso f these metals as well. Anotherg ood candidatew ould be wool, which
+was issued to weaverst o producet extiles for the cult (divine garments,t ablecloths,b edspreads,
+etc.) and clothing for the temple personnel;w hen the wool in stock was surplust o requirements
+textilesc ould also be made for commercialu se.
+Another area where this procedurec an be reconstructedis in the case of letter orders. The
+informationf low was studied by the present author and may be summariseda s follows:38t he
+bakers or brewerss end in a request for the materialst hey need, thehesaer e either issued from
+the stores or brought in by means of a letter order to the rab stthi e and transactioni s then
+enteredo n a (wooden) masterl edger.I n facti t was probablye nteredo n two ledgers,a n account
+of maybartu/pappaspua yments and an account of the rab suti in question. The procedureo f
+enteringt he informationo n the board is directlyr eferredt o in MacGinnisL etter OrdersN o. 40
+and Text No. 8 below. The 25 kur of barleyw hich Ahhe-iddin-Marduska ys he had sent in earlier
+in CT 22 12 could have been requisitionedb y letter order or might have been a consignmento f
+agriculturadl ues collecteda fter the harvest.W e can assumet hat the rab suti would have kept the
+actual tablet of the letter order until he was satisfiedt hat he had been crediteda ccordinglyi n
+the integrateda ccounts. In fact, when in Dar. 451 the sepiruN abu-zer-ibnia nd his colleagues
+communicateda decision of Darius ordering an audit of the accounts of the Sa muhhis iuti
+Bultaya - includiinn ga n spectiono f his writingb oardsa nd promissoryn otes39- the promissory
+notes were probably the letter orders themselves.
+A final entry in this category may be found in the texts in which the phrase PNi x itti PN2
+uoazzazma ana PN3 inamdin occurs, if Weszeli is right in understanding there to be an underlying
+assumption in thescea csaesseet hat iPs N sto enter the transaction on the corresponding writing board
+against the name of PN2.40
+(2) Information transferredfrom wooden boards to clay tablets
+This procedure is attested in Cyr. 31, in which boards were consulted for a drawing up of
+accounts on a large clay tablet. The entry in Text No. 10 concerning "the (silver) withdrawn from
+the writingb oard of [gama§]"m ay also belong in this category.
+(3) Informatione ntered on wooden boards withoutfirst being entered on a tablet
+This may be the case with the stipulationt hat the servicero f a prebendi n Text No. 11 is to
+ensuret hat the paymento f pappasuw as enteredo n the board of Samas:t he administrationm ust
+have kept a registero f prebendariest, he amount of pappasup ayablew as fixed (twelve litres of
+dates per day)41s o the informationo f a specificd aily paymentc ould be entered on a writing
+board without furtherd ocumentation.T he case of Text No. 12, where the child of a Airkatui s
+belatedlyr egisteredw ith the temple,i s interestingi n that at the conclusiono f the hearingt he legal
+decision was recordedo n a clay tablet and the informationt hus validated was entered on a
+wooden board.
+In this categorya lso mustc ome the use of writingb oards" in circumstancews heret he preparation
+of clay tabletsw as not practicable,a s in the case of an armye ngagedi n a militaryc ampaign,o r,
+indeed, of a travellingm erchant/envoyw ho needed to update his records".42W e are not well
+informedo f eithert he militaryo r the mercantilea ctivitieso f the Ebabbara- thoughw e do know
+the temple had businessi n both spheres - but similara rgumentsm ay have held for the heavy
+earthworksw hich the temple carriedo ut in the countryside.T hese were supervisedb y the qipu
+and regularlyi nvolveda gang of fifty or more corveel abourers.T heir ranksc ould be swelledb y
+37F or a sidelighto n Neo-Assyriant empleg oldsmithss ee components such as meat, vegetablesa nd fish but the
+Radner1 999. indicationas ret hatt he templed id not recordt he distribution
+38 MacGinnis1 995:2 0-2, 182. of these on a daily basis.
+39Fora somewhats imilars ituationi n which a sepiru is 42Symington1 991: 119; though note, as drawn to my
+involved in communicatinga messageo f Naboniduss ent attentionb y ProfessorD andamayevt,h at we do have clay
+from Temas ee MacGinnis1 998:2 07-8. tablets sent by Babylonianm erchantsi n Ecbatanaa nd
+'Weszeli 1997:2 33-6, cf. Jursa 1999:4 7. other placesi n westernI ran.
+4 MacGinnis 1991/92:7 6; there may have been other
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+THE USE OF WRITING BOARDS IN THE NEO-BABYLONIANT EMPLE 225
+hired labourers,w ith numbersr isingt o 250 in the case of the great dam projecti n the village of
+Gilu§u.43
+(4) Informatione ntered simultaneouslyo n both tablet and writing boards
+This may be the case with the statementi n CT 55 596 that "the young male sheep which are
+at the disposal of the shepherdsf rom year 11 to year 12 have been withdrawnf rom the writing
+board".
+(5) Deletion of information
+This is not directlya ttested.
+(6) Consultation
+In Cam. 172 silver is issued to an individual" accordingt o the writingb oard", i.e. the board
+was consultedt o verify the corrpreatcyhtmen eesnsot .f We can guess that the board in question
+was eithera runninga ccounto f silvere xpendedi n a specificw orks project,o r that it was a master
+list detailingd aily/monthlyp ay status. Similarly,i n CT 22 170 Nabu-sum-iskuna sks the sangut o
+have a look at the appropriatew ritingb oard to confirmt hat he has not receivedt he full amount
+of silver allocated for his work, and in CT 22 14 the sangu consulted a writing board before
+sendingt he scribesd etails of the rent on certains toreroomso n the quay. In CT 22 126 when the
+scribes have written to the sangu about the workplaceo f the architectB unene-ibni,h e directs
+them to "open the writingb oard of Sama§( and) accordingt o the writingb oard send him on his
+way! [And concerning]t he rations for year [...], look in the writingb oard to see whethero r not
+they have been paid."44
+(7) Scrutiny
+This referst o occasionsw hen writingb oards were subjectedt o detailede xaminationa s part of
+a wider rangingi nvestigation.E xampleso f this are the audit of the books of the rab suti Bultaya
+orderedb y Darius to take into account both clay tablets and writingb oards (Dar. 451); and the
+occasion when a writingb oard from the time of Nergal-sar-[...]w as examinedb y the later qipu
+Sarru-luidariin connection with an inspection of the gardeneri n No. 5.45 The results of the
+investigation into the amount of tithes payable by the Gezerite colony in Birillu in Jursa
+TempelzehnNt o. 7 were themselvesr ecorded" for inspectiono n the writingb oard of accounts".46
+Manufacture
+We do not know what wood the boards in Sipparw ere made of47 but we do know that they
+neededt o be oiled (No. 3) and, if the giSDA.MEiSn CT 55 429 are writingb oardsr athert han some
+43Jursa 1995: 185. BM 84059, dating to the third year of Nabonidus, in which
+44
+Anothere xampleo ccursi n thel etterC T22 189( probably Nergal-4ar-bulllit and Muezib-Marduk, the qipu and gangu
+from Borsippa): "Concerning the silver about which you of the Ebabbara,c arry out an investigationi nto a store-
+wrote: when I looked at the writing board, the 33 shekels room on the quay of Sipparb uilt by the earlierq ipuN abi-
+of silvera t the disposalo f NabO-adannuar e enteredo n the balat-eret.N abfi-balft-eregw as qipuf rom at least the 27th
+writingb oarda gainsty our account". year of Nebuchadnezzaur ntil the 2nd year of Neriglissar.
+4sA notherp ossibleo ccurrencoef a registero f an inspection The central issues concerningt he inquiry are not pre-
+(le'u ga amirti) is in MacGinnis1 996: 105 No. 4 where it served - they probably revolved around ownershipo r
+is plausiblet hat in line 12 we should restoreI 'DA to read control of the storeroom but it is evident that the
+[f^DA gd] a-mir-tu4 a-na EN-ia ul-te-bi-lu-ni, "I have sent the investigatorsm ust have consultedr ecordsf rom the time of
+[board of] the inspection to my lord". The inspection of NabQ-balat-ere§th, ough these may not necessarilyh ave
+old writing boards in Uruk is at the centre of a text been writingb oards.T he text notes that Nergal-§ar-bulllit
+published by Frame: here Nabonidus, wishing to restore the and Muezib-Marduks poke to ;ama§-ahhe-eribain, terest-
+offeringisn Eannat o theirf ormerle velu nderN ebuchadnezzar, ing if not surprisingin that he was the rab Sirke, and the
+orderst he prebendarieas nd scribeso f Eannat o searcho ut quay was certainlyo ne placew herew e woulde xpectt o find
+the writingb oardsa nd clay (?) documentsf rom the time of girku's at work.
+that king (gVDA.ME§ u Sd-ta-ra-ni Sd E-an-na Sd pa-ni 47 Othere videncef rom Mesopotamiais for boardsm ade
+mdNA.-NiG.DU-WE), Frame 1991: 40, line 18. Other texts of boxwood, cedar, cypress,t amarisk,w alnut and ivory,
+orderinga check with writing boards from the time of see Wiseman 1955: 3f., Warnock and Middleton 1991
+NebuchadnezzarN, eriglissara nd Nabonidusa re YOS III Symington1 991, 113 n. 19, Klengel-Brandt1 975, Nemet-
+45, 81, 106. Nejat 2000:2 51.
+46Also of interesti n this regardi s the fragmentaryte xt
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+226 JOHN MacGINNIS
+other type of wooden board, they may have been fitted with gold hinges and clasps. That they
+came in sets that folded shut is impliciti n the order to open them CT 22 126. The boards were
+filled with a mixtureo f wax (iskuru)a nd orpiment( kalu):t he ratio in text No. 1 is 1:14, which
+can be comparedw ith ratios of 1:4, 1:8.5 and 1:10 in texts from Uruk.48T he ratio of orpiment
+to wax in the actual boards found at Nimrud and the Ulu Burun shipwrecki s approximately
+1:3.49A n issue of wax for writingb oardsi s mentionedi n Nbn.4 29, and in Text No. 2 below silver
+is issued for this purpose.50
+Writingb oards and the end of the archives of the Neo-Babylonian Ebabbara
+As is well known, the archiveso f the Ebabbaraa s currentlye xtantc ome to an end in the second
+year of Xerxes.51O elsnerw as the first to suggest that tablets in the "SipparC ollections"d ated
+later than this would not actuallyb e from Sippar,a nd a searcht hrought he tablets with this in
+mind confirmst hat he is right.52B ut while it is agreedt hat the archivesa vailablet o us do indeed
+stop at this time, there is as yet no consensuso n the cause. The main theoriesa re:53
+( 1) Destruction of the Ebabbarab y Darius or Xerxes
+It was at one time thought that the Esagilat emplei n Babylona nd perhapso ther templesw ere
+destroyedb y Dariuso r Xerxes.T his is no longera utomaticallya ssumed54b ut it is fair to say that
+it has not been formallyd isproved.D andamayevk eeps an an open mind: he is of the opinion
+that it is still possiblet hat Xerxesd id destroyE sagila55b ut dismissest he possibilityt hat the Eanna
+templei n Uruk was destroyedb y Darius I.56T he same situationm ust also applyt o the Ebabbara:
+it is possible that the Ebabbaraw as destroyed by Xerxes but there is no actual evidence.A s
+regardsD arius'd estructiono f the walls of Babylonianc ities,57t here is no reasont o assumet hat
+this entailedd estructiono f the cities themselves.
+(2) Abandonmento f Sippar due to a change in the course of the Euphrates
+It would seem that this can be ruledo ut as therei s sporadice videncef or the existenceo f Sippar
+after Xerxes year 2, specifically:( 1) a document from Sippar dated to Xerxes year 6;58( 2) a
+referencet o Sippar in an astronomicald iary from the time of Alexander( 330 BC);59( 3) the
+appearanceo f Sippar in the geographyo f ClaudiusP tolemy;60a nd (4) archaeologicael vidence
+4 Nemet-Nejat2 000:2 53-4. As far as I know, the modem locationo f Sahrinuh as not
+49I bid. been identified,b ut could it be the site of El Geraineh,
+5°Othero ccurrenceso f wax in the Sipparm ateriala re where Rassam dug in January 1881 (Reade 1986: xxii,
+CT 55 394 wheret he Ebabbarab uys six minas of wax for xxxi [with map on page xii])? In additiont o the fact that
+threes hekelso f silver[ year 31 (Nebuchadnezzar/Darius)]; El Gerainehi s near Babylon,w hichw as evidentlyt he case
+CT 56 29 in which1 i manaw ax is issuedt o ;amag-ah-iddin with ~ahrinu,p erhapst herei s also a phoneticr esonance.
+Sa muhhi kurummat Sarri [Nebuchadnezzar 36]; and 53T his subjecth as been previouslyd iscussedb y Joannes
+VS 6 77.12, VS 6 222 (edited Jursa Bel-remannpi . 266) 1995,D andamayev1 995:3 0, MacGinnis1 995:1 88.
+and BM 74854. rev.l. From Uruk, another issue of wax 54Kuhrta nd Sherwin-Whit1e9 87,c f. Dalley 1998:3 7.
+55
+and kalu is found in GCCI II 167, where, however,t he Dandamayev1 993. The idea would be that even if
+quantitiesa re damaged.W ritingb oardsw ithoutw ax (SXl a Xerxes did destroy Esagila it was subsequentlyr estored.
+DUH.LAL) are handedo ver to a carpenteri n GCCI 11 58. For detailso f templess urvivingi nto the Hellenisticp eriod
+Waxa nd imga-le-[ealr e also found in BE 8.i.1 2-13 and wax see Dalley 1998:4 0-2, 115-16.
+in YOS3 20.20. 56Dandamayev1 992.
+s5A s for contents, the texts from the first two years of 5'Herodotus iii.159; Oelsner (1971) is surely right in
+Xerxesi ncluder ecordso f telitu and allocationsf or sattukku, arguing that the statementi n Pliny NH 6.123 that the
+a field rental,a cattle rental,l ettero rders,c ontractsf or the Persiansd emolishedt he walls of the Hipparenir eferst o
+sale and performanceo f prebends,a recordo f house rent, Nippurr athert han Sippar,b ut this does not meant hat the
+loans of dates and barley, a loan of silver with 6Lo f a walls of Sipparm ight not also have been destroyed.B ut
+baker'sp rebenda s surety,a slave sale, silver given to the note that accordingt o Gaschea nd Paepet he walls round
+qipuf or the sale of wool and a recordo f wool froms hearing. Sipparw eref or defencea gainstf lood rathert hanf or military
+BM 78520 is from the reigno f an Artaxerxesn ot Xerxes. purposes( in L. De Meyer,T elle d-Der1 1I,1 980:5 1).
+52Oelsner1 971: 145, 1992:1 45, quoted by Dandamayev 58DurandT BERp l. I AO 1729= JoannksT EBRn o.89,
+NABU 1995/2N o. 35 (and cf. id. JAOS 114 (1994): 667). GrazianiX erxes4 2.
+The texts in the SipparC ollectionsd ated after Xerxesy ear 59Sachsa nd HungerA stronomicaDl iaries2 p. 178, cf.
+2 come chieflyf rom Babylon,B orsippa,D ilbat, Cuthaa nd Zadok NABU 1997/1 No. 6 and Wiseman1 985: 121. For
+sahrinu, with a few others from scatteredl ocations:B it- the possibilityo f thereh avingb einga n astronomicaslc hool
+Ahiran, Bit-sar-Babili,B iit-arrisu, Gummanu, and the in Sippari tself see Oelsner1 971,B rown2 000:3 n. 5.
+uncertainp laces U"Lu-ga-uD-Bki, UNAM?-a-aan d 'uSu-la-[x]. 60Oelsner1 971:1 44.
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+THE USE OF WRITING BOARDS IN THE NEO-BABYLONIANT EMPLE 227
+for reduced occupation of the site into the first centuries AD.61 Note, incidentally, van der Spek's
+opinion that the temple of Samas taxed by Seleucus was the temple in Sippar rather than Larsa,
+though it seems to me that his reasoning is not conclusive.62 In short, Sippar may not have
+continued as a great city after Xerxes year 2 but neither did it cease to exist.
+(3) Switch to record-keepingo n writing boards
+Dandamayevh as suggestedt hat in the case of both Eanna and the Ebabbarat he cessation of
+the cuneiform archives may have been due to a switch to using writing boards.63 This is possible.
+Were it correct, we might expect to find sealings and hinges as well as evidence for the continued
+use of the building themselves.
+(4) Switch to record-keepingi n Aramaic
+This theory stems from the fact that we know that Aramaic spread through Babylonia and
+eventuallyr eplacedA kkadiana nd cuneiforma lmost entirely.T here is also evidencef or the use
+of Aramaica t Sippar both from the presenceo f the sepiru (Aramaic scribe)a nd in the form of
+clay tablets written in cuneiformw ith Aramaic dockets. There is no direct indication that the
+Ebabbaras witchedt o record-keepingin Aramaicb ut it is at this stage a plausiblet heoryt hat has
+not been disproved. As with the writing boards, such a switch should have left some archaeological
+evidence, in this case bullae and ostraca.
+(5) Administrationc ontinueda s before but the archives have not beenf ound
+According to this theory, the Neo-Babylonian Sippar collections as we know them are from
+"dead archives";64a ccordingly, the rooms where they were found were not the working archives
+but storerooms for disused tablets. If this is correct, we may of course expect to find remains from
+working archives some time in the future.
+As yet it is not possible to say with certainty which of these factors, or what combination, may
+have been responsible for the end of the archives, though it is probably fair to say that majority
+opinion is behind the "dead archives" hypothesis. But a switch to record-keeping entirely on
+writing boards cannot be ruled out. It would in any case be consistent with the dead archives
+hypothesis:t he tabletsw e have would still be dead archives,o nly the activea rchivest hat succeeeded
+them continued on writing boards rather than on clay.
+Conclusions
+Wooden writing boards are attested in the Ebabbara at Sippar from Nabopolassar year 10 to
+Xerxes year 1. The principal purposes for which they were used were: (1) running accounts of
+offerings, rations and pappasu; agricultural dues (tithes and field rents); seed-grain; sheep and
+probably cattle and poultry; issue and receipt of silver and gold (and probably also iron, bronze
+and wool); property rentals; and probably also loans of temple stock; and (2) registers of slaves,
+workmen, and holders and performers of prebends; and possibly also practical equipment and
+cultic utensils. Other purposes for which writing boards may have been used include letters and
+recordingg oods entrustedt o a merchant;t he principala reas where we have no reason to think
+writing boards were used were short administrative notes within the temple, contracts and records
+of court proceedings. Outside of the administrative sphere writing boards were employed for
+literature, scholarship (medical, astrological, and omen texts) and rituals. The boards were regularly
+consulted to clarify working details and might also be subjected to close examination in the course
+of official enquiries, for example in a review of personnel or auditing accounts. To this purpose
+they might be kept for many years, though exactly which boards and for how long we do not
+know. Given the many areas where we know that writing boards were used and the paucity of
+precise information, on the whole it seems that we are likely to underestimate their use.
+61 Both Iraqi excavations at Abu Habbah and the Belgian 63 Dandamayev 1992: 172 and 1995: 30.
+excavations at Tell ed-Der found remains dating from the 64Cf. Stolper 1998: 497, Jursa 1999: 126, Oelsner 1999:
+mid-6th to mid-2nd centuries BC; cf. Oelsner 1986: 129-31. 47, Bongenaar 2000: 74, 75.
+62Van der Spek 1992: 241-2; cf. Kuhrt and Sherwin-
+White 1994: 320.
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+228 JOHN MacGINNIS
+APPENDIX: NEW TEXTS REFERRINGT O THE USE OF WRITING BOARDS
+No. 1 BM 79574
+4.5 x 3.2 cm Cam -/-/1(+)
+1 56 GiN DUH.LAL
+2 4 GIN IM.GUL
+3 PAP 1 ma-na DUH.LAL
+4 uzI M.GUL a-na
+5 mu-ul-le-e sd GIS.DA.[MES]
+6 ina IGI mdUT[U-X-(X)]
+7 ii[X UD X K]AM MU I + [(x) KAM]
+8 mKdm-bu-zi-i[dL UGAL] rElki LUGAL rKUR1.[KUR]
+Translation
+Fifty-six shekels of wax, four shekels of ochre, a total of one mina of wax and ochre for the
+filling of writing boards at the disposal of §ama§-[...]. (Date).
+4. Note the neologisticl ogogramI M.GUL = kahl" orpiment"c reatedo ut of the equivalanceG UL = kalh "to
+hold" with IMs ervinga s a determinativefo r an earthc ompound.
+6. Perhapst o be restoredm dUT[U-MaUs S] amas-iddinis the only carpenterw hose nameb eginsw ith &ama§
+currentlyk nown to have been active in Sippari n the reigno f Cambyses( see Bongenaar1 997:4 05).
+No. 2 BM 99465
+3.8 x 3.8 + cm Cyrus 1/6/6
+1 r21G IN KU.BABBAR TA er-[bi]
+2 a-na DUH.LAL
+3 3gi:j DA.ME~
+4 1 GIN a-na 4 [X X]
+5 a-na rdul-lul `[X X]
+6 a-na LmrdNAl-[XX (X)]
+7 SUM-i[n]
+8 "'tKINU D 1 [KAM]
+9 MU 6 KAM mKu-[ra-ads
+10 2 (GIN) a-na re-[hi]
+11 SAM SIM.rHIl.[A a-na]
+12 md30-DINGIR e-l[at]
+13 4 GIN a-na D[UH.LAL]
+14 IGI-i di9 '[DA.MES Sd]
+15 [a-n]a md30-DINGIR
+16 SUM-na
+Translation
+Two shekels of silver from the income for wax for writing boards, one shekel for four [...] for
+the work of the [...], given to Nabu-[...]. Date. One half shekel (has been given) to Sin-ili for the
+rest of the aromatics, in addition to the four shekels given to Sin-ili for the earlier (delivery of)
+wax for writing boards.
+No. 3 (Bertin 1394) BM 74435
+5.7 x 3.7 cm Nabonidus 16/12/10
+1 6 KIic 4 (PI) 1-BAN 3 SILA2 SE.GIS.i
+2 1-BAN 3 SILA2 re-hi i.GIg
+3 gd gGIGIR 1 SILA2 5d E dA-nu-ni-tu4
+4 11 SILA2 a-na ""DA.MES
+5 a-na dNA-si-lim
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+THE USE OF WRITING BOARDS IN THE NEO-BABYLONIANT EMPLE 229
+6 e-pis-sd-nu SUM-in
+7 1 ma-si-hi SE.GIS.I
+8 ina pap-pa-su sd
+9 mu-ut-ta-qu sa
+10 mKAR-dAMAR.UTU a-na
+11 mdUTU-SU u mSu-la-a
+12 na-din itiSE
+13 UD 16 KAM MU 10 KAM
+14 mdNA-I LUGAL Eki
+Translation
+1233 litres of sesame, 9 litres remaining of the seame oil for the chariot, 1 litres for the temple
+of Anunitu, 1I litres for writing boards, given to Nabu-silim the performer (of the oil-presser's
+prebend). One measure of sesame as the pappasu (for the manufacture) of sweetcakes of Musezib-
+Marduk, given to Sama§-eriba and ~ulaya.
+1. Assumingt hat KI is a mistake for GUR; otherwisei t might be an error for KIMIN, assumingt hat the
+scribe had been workingo ut figuresi n masihua nd continuedt he abbreviationo n to a new tablet without
+statingw hat the abbreviationw as for.
+No. 4 BM 63469
+5.5 x 4.2cm no date
+I GI9.DA sd i-di E.M[ES]
+2 GIS.DA sa KU.GI
+3 rGIS.DA1 sti SUK.HI.A.MES
+4 [GIS.DA sa m]as-sar-tu4
+5 [GI9.DA gc pap-pa]-su
+Translation
+board of (payments for) house rentals
+board of gold (disbursements)
+board of ration (payments)
+[board of] masgartu (payments)
+[board of] pappasu (payments)
+No. 5 BM 83464
+4.0 x 4.1 + cm [Cyrus 6-Darius 7]
+1 mLUGAL-[lu-da-ri lqi-i-pi sd]
+2 E.BABBAR.R[A mx X X A-su sa]
+3 mBA-sd-a ina [dEN dNA]
+4 ua-de-e m[X X X LUGAL Eki]
+5 it-te-mu-ru [ki-i X X (X)]
+6 VSDA sa mdU.GUR-LUGAL-[X sd]
+7 a-mir-tu4 sa IUNU.GIS.S[AR.MES X X]
+8 i-mu-ru ina SA-bi ni X [X X X X]
+9 [X X] rX X giDAI s m[dU.GUR-LUGAL-[SES]
+The reverse is effaced with traces of the names of witnesses and the scribe.
+Translation
+Sarru-ludari the qipu of the Ebabbara [......] Iqisa swore by [Bel, Nabu] and the loyalty oaths
+of [...] king of Babylon that] they saw [...] a writing board of Nergal-sar-[... of] an inspection of
+the gardeners. In (it) [......] writing board of [Nergal-sar-... (rest broken off)]
+3. Perhapst his Iqisai s the individualf ounda s a kizua nd laterr abe Sirtii n the time of Cyrus,c f. MacGinnis
+1998:2 09f. No. 3 and No. 5.
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+230 JOHN MacGINNIS
+No. 6 BM 83895
+8.1 x 1.8 + cm [Darius 4-17]
+1' [X] rGUR 9E.BAR X1 [X X X X X X X]
+2' rd il-na E.BABBAR.RA ina rXi [X X X X X X]
+3' mTa-qiss d ina muh-hi es-ru-uz1 0 rGUR1 [SE].rBAR X1 [X]
+4' d ina muh-hi ViDA sd-at-ra 5 GUR SE.BAR ina SU.II
+5' mBul-ta-aI 'GAL GI&.BAN
+6' [x] + 1 ma-na KU.BABBAR ina SU.II mBA-s-dAMAR.UTU sd UGU i-di E.[MES]
+7' [x m]a-na 5 GIN KU.BABBAR ul-tu qu-up-pu
+8' [x m]a-na 5 GIN KU.BABBAR a-rna 20 (+) GUR SE.BAR1
+9' [x ma-n]a 5 [GIN KU].BAB[BAR X X X X X X]
+Translation
+(long break) [x] kur of barley [...] which in the Ebabbara in [...] Taqis the sa muhhi e§re; 10
+kur of barley [...] which was entered on the writing board; 5 kur of barley from the hands of
+Bultaya the rab suti; [x] + 1 mina of silver from the hands of Iqi§a-Marduk the overseer of house
+rents; [x m]ina 5 shekels of silver from the basket; [x mi]na 5 shekels of silver for 20 kur of barley;
+[x min]a 5 [shekels of sil]ver [......] (rest broken off)
+This text neatly groups togetherp aymentsf rom three of the officesi nvolvedi n the collectiono f temple
+revenuet hat had been privatised,n amely the sa muhhie sre in chargeo f collectingt ithes due from temple
+land, the rabs iiti in chargeo f collectingr ent due from templel and rentedo ut to privatef armers,a nd the Sa
+muhhib itatii n chargeo f collectingr ent from housesb elongingt o the temple.T he rabs uti Bultayai s attested
+from Darius4 to 17 (Bongenaar1 997:4 28). This is apparentlyt he firsta ttestationo f the Sam uhhie §reT aqi;
+(cf. Bongenaar1 997:4 28f., Jursa 1998). Therei s one other attestationo f the Sa muhhib itati Iqisa-Marduk,
+from Darius year 4 (Bongenaar1 997:1 0 and n. 21).
+No. 7 (Bertin 2600) BM 74564
+8.6 x 6.3 cm Babylon Dar 10/4/26
+1 ina ZU.LUM.MA ZAG.UDU NIG.GA dUTU d rUHa-as-pe-e
+2 u DU6-sa-lam Sd MU 24 KAM mDa-ri-ia-wusL UGAL TIN.TIRki
+3 LUGAL KUR.KUR Sd ina IGI mMU-dEN DUMU sd mZab-di-iau mdNA-KAR-ZI.MES
+4 DUMU sa mdEN-9E9.MES-MU DUMU lUSU.HA ina SA-bi 23 GUR 5-BAN ZU.LUM.MA
+5 la gam-ru mdAMAR.UTU-re-man-ni 'UUMBISAG E.BABBAR.<<BABBAR>>.RA DUMU
+dgam dEN-TIN-it
+6 DUMU l.SUR-gi-ni-e ina SU.II mIR-dEN DUMU S mdNA.-KAR-ZI.MES
+7 DUMU mtR-dBE a-na muh-hi mMU-dEN DUMU sd mZab-di-ia
+8 u mNA-KAR-ZI.MES DUMU sa mdEN-SES.MES-MU DUMU lUSU.HA ina qi-bi
+9 Sd mMU-dEN ma-hir ZU.LUM.MA-a' 23 GUR 5-BAN la gam-ru
+10 mdAMAR.UTU-re-man-ni ina muh-hi GIS.DA sd dUTU u-sd-az-zi-iz-ma
+11 a-na mMU-EN u mdNA-KAR-ZI.MES u'-kal-lamg i-mir
+12 u ma-al-ta-ku it-ti-Su-nuu l ni-hi-is
+13 e-lat GID.DA IGI-u gd 36 GUR 4 (PI) 1-BAN ZU.LUM.MA la gam-ru
+14 sd ina ZAG.UDU NIG.GA dUTU sd UrUHa-as-pe-e u
+15 DU6-sa-lam gd MU 24 KAM sd ina IGI mMU-dEN ru1
+16 maNA-KAR-ZI.MES Sd mdAMAR.UTU-re-man-ni iS-[sd-a-ma]
+17 a-na mdEN-ul-lim-ma-an-ni luqal-l[a]
+18 sd mIna-E.SAG.I LA-lil-bir lursA1.TAME .SAG.ILA
+19 id-din-nu PAP 60 GUR ZU.LUM.MA la gam-ru
+20 mAMAR.UTU-re-man-ni ina GIS.DA S dUTU u-sd-az-ziz-ma a-na
+21 mMU-dEN u mdNA-KAR-ZI.MES u-kal-lam l-en-ta-am sd-ta-ri TI-u
+22 'lmu-kin-nu mdEN-BA-sa DUMU sd mj RdGu-la DUMU iuma-lah4
+23 mdEN-SUR DUMU gd mNi-din-tu4m Si-rik-ti DUMU sa md30-SUR
+24 DUMU md30-SIGs-iqm Lib-lutD UMU sd mMU-DU
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+THE USE OF WRITING BOARDS IN THE NEO-BABYLONIANT EMPLE 231
+25 DUMU mdEN-A-SES mTAR-a-a DUMU s mdZa-ba4-ba4-ZI-tim-SES
+26 mdNA-it-tan-nuD UMU sa mTab-ni-e-aD UMU lUSANGA dUTU
+27 mdEN-SUM-na lDUB.SAR DUMU sa msa: BA-dAMAR.UTU
+28 DUMU mIR dBE TIN.TIRki itiSU UD 10 KAM
+29 MU 26 KAM mDa-ri-ia-wu4-u§
+30 LUGAL TIN.TIRki LUGAL KUR.KUR.MES
+This text is quoted by Jursa 1995: 39 n. 88.
+Translation
+From the dates imittu belonging to Samas of Hasape and Til-salam of year 24 of Darius
+king of Babylon king of countries which are at the disposal of Iddin-Bel son of Zabdiya and
+Nabu-eter-napsati son of Bel-ahhe-iddin of the Barber family: Marduk-remanni the scribe of the
+Ebabbara son of Bel-uballit of the Sahit gine family has received 23 kur 5 sit of dates as a partial
+payment from the hands of Arad-Bel son of Nabfu-eter-napsatio f the Arad-Ea family, against the
+account of Iddin-Bel son of Zabdiya and Nabu-eter-napsati son of Bel-ahhe-iddin of the Barber
+family. Marduk-remanni has entered this partial payment of 23 kur 5 sat of dates on the writing
+board of Samas and will show it to Iddin-Bel and Nabfu-eter-napsati.T he transport costs and ...
+(maltaku) have not been deducted. This is in addition to the earlier debt of 36 kur 4 pan 1 sit of
+dates which Marduk-remanni took as a partial payment from the imittu belonging to Sama§ of
+Hasape and Til-salam of year 24 which were at the disposal of Iddin-Bel and Nabu-eter-napsati,
+and gave to Bel-4ullimanni the slave of Ina-Esagila-lilbur the satammu of Esagila. In all Marduk-
+remanni has entered 60 kur of dates as partial payments on the writing boards of Samas and will
+show (the entries to) Iddin-Bel and Nabu-eter-napsati. Each party has taken a copy of this
+document. Witnesses. Babylon. Date.
+2. Til-salam:n ot otherwisea ttestedi n Sippar;t herew as a Til-salami n the regiono f Nippur( Zadok RGTC
+8: 313) and anotherp lace of the same name in upperM esopotamia( NABU 2000/1 No. 3 p. 5).
+12. I am not entirelys ure of the meaningo f maltaku:t he standardt ranslation" test" might make sense
+but is not otherswisea ttestedi n such a context.
+14. UrUHa-as-pe-we ritten sup. ras.
+27. For mBA-_-dAMAR.UTU.
+No. 8 (Bertin 2690) BM 74644
+6.6 x 5.5 cm Sippar Dar 7/9/30
+1 30 GUR ZU.LUM.MA pap-pa-su
+2 '6NUNGI-tu-tu u lUMU-u-tu
+3 ana E dIM 3d MU 30 KAM mDa-ri-id-wusL UGAL
+4 sa mdU.GUR-SUR A-su sd mTa-qis-dGu-la
+5 u mLa-ba-a-si A-su sa mdEN-it-tan-nu
+6 ads i-pir-tu4s ad UUMBISAG!.MES sadE .BABBAR.RA
+7 a-na IGI mSd-pi-kal-biI UNU.GIS.SAR
+8 sad ~inLa-ha-<ra>-a-taZ U.LUM.MA 30 GUR
+9 ina i-mit-tu4 NIG.GA dUTU sd MU 30 KAM
+10 mdU.GUR-SUR u mLa-ba-a-si
+11 ina SU.II mSd-pi-kal-bi
+12 ma-hi-ir-u' ZU.LUM.MA
+13 30 GUR mdU.GUR-SUR u mLa-ba-a-si
+14 u-sd-az-zu-ma ina UGU GIS.DA s&d UTU
+15 a-na mSd-pi-kal-bi i-nam-din-nu-u'
+16 lumu-kin-num dNA-MU-SES A-suts mdAMAR.UTU-MU-MU
+17 A maUSANGAd INNIN Eki mRe-ba-a-ta
+18 A-Su S mdUTU-MU A mMas-tuk-a-ta
+19 mDUG.GA-ia A-su Sd mSES.MES-MU A m' USANGA dUTU
+20 mdEN-MU A-su s mdDI.KUD-MU mBA-sa-a
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+232 JOHN MacGINNIS
+21 A-u sa mdAMAR.UTU-MU-SES A mDU-es-DINGIR
+22 mURU-ba-a A-§, sa mMu-al!-lim-dAMAR.UTU
+23 A mEUSANGAd UTU
+24 mSIGs-ia IUUMBISAG DUMU sa mBA-SaA IUrSANGAl[ dUTU]
+25 Sip-parkii tiGAN UD 7 KAM
+26 MU 30 KAM mDa-ri-ia-wusL UGAL
+Translation
+Thirty kur of dates as pappasu of the brewers and bakers for the temple of Adad of year thirty
+of King Darius, which, on the orders of the scribes of the Ebabbara, Nergal-eter son of Taqi§-Gula
+and Labaii son of Bel-ittannu (has been placed) at the disposal of ga-pi-kalbi the gardener of
+Laharatu. Nergal-eter and Labasi have received from Sa-pi-kalbi thirty kur of dates from the
+imittu belonging to Samas of year thirty. Nergal-eter and Labasi will enter these thirty kur of
+dates on the writing board of Samas and give (them) to Sa-pi-kalbi. Witnesses. Sippar. Date.
+This text is also discussedb y Jursa 1995:3 8-9; for a discussioni n the setting of workingt he brewers'
+prebendss ee Jursa 1999:7 0.
+24. For the restorationo f the familyn ame cf. Bongenaar1 997:4 50-1.
+No. 9 BM 79570
+6.0 x 3.9 + cm [Xerxes year 1]
+1 [XXXXXXXXXX]
+2 [SAT.TUK?] rsa itiSIG14 mdEN-TIN-it
+3 lUPAD UMU s mdEN-SES-it-tan-nu
+4 Al(si)EN-e-te-ru ina 9U.II
+5 mNi-din-tu4I UGALG IS!!.BAN A-su sa mTAR-a-a
+6 ina rqil-bi sd mMU-SES 'USANGAS ip-parki mrdl[x X X]
+7 [u mdEN]-rel-te-rul Ise-pi-ri it-[ta-'i (?)]
+8 [ZU.LUM.MA-a' ina U]GU-hi siDA sa dUTU
+9 [u-S6]-az-zi-iz-maa -na
+10 mNi-din-tu4i -nam-din
+11 ina GUB-zu sa mdU.GUR-SUR
+12 A-§u sd mLa-a-ba-§im Mu-ra-nu
+13 rA1-[h sa m]rU sl-sa-a-a
+14 [mdEN-it-ta]n-nul UUMBISAG A-su sa mdNA-MU-u-kunl
+15 [A mBa-la-tu Sip-par]rkiit iSIG41U D [X KAM]
+16 [MU 1 KAM mIh-'i-war-suL UGAL Eki u KUR.KUR]
+Translation
+[(x litres dates), sattukku] of Simanu Bel-uballit the sapiru, son of Bel-ah-ittannu descendant
+of Bel-eter has taken from the hands of Nidintu the rab sauti,s on of Siqaya on the orders of
+Sum-usur the sangu of Sippar, [PN (the scribe) and Bel]-eter the sepiru. He (viz. gum-usur) will
+enter [these dates] on the writing board of Samas and credit them to Nidintu. Witnesses. Scribe.
+Date.
+4. Note the unorthodoxo rderi n which Nidintu'st itle and lineagea re given.
+13. For the restorations ee Bongenaar1 997:4 84.
+The dating is providedm ost specificallyb y Bel-eteru'st erm as sepiru.
+No. 10 BM 68389
+4.2 x 2.4 + cm Nebuchadnezzar -/1/28
+1 KU.BABBAR ul-tu UD.KIB.NUNki na-sa-[a itiX]
+2 MU 28 KAM mdNA-NIG.DU-S[ES LUGAL TIN.TIRki]
+3 33 ma-na KU.BABBAR ina SU.II mdUT[U-X X]
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+THE USE OF WRITING BOARDS IN THE NEO-BABYLONIANT EMPLE 233
+4 [A]-rsl sd mLe-si-[ruX X X X X]
+5 [X X XX] rmdlAMAR.UTU-PAP sa [X X X X]
+6 [XXXXX]rXl[XXXXX]
+reverse
+1' u [mlrxl [X X] rA-su sd [mX X X]
+2' mdNA-DU-SES sad1 k[a-lak-ku A-su sa]
+3' [mJdUTU-SES-MUi tiBA[R UD X KAM MU 28 KAM]
+4' dPA-NIG.DU-SES LUG[AL TIN.TIRki]
+5' rniP-si-ih sd ina SA giDA s dUTU...]
+Translation
+Silver taken from Sippar, [month X] , year 28 of Nebuchadnezzar king of Babylon. Thirty-three
+minas of silver from the hands of Samas-[... son] of Lesiru [...] Marduk-nasir [... long break ...]
+Nabu-ban-ahi of the bit kalakku [son of] Samas-ah-iddin. Date. The withdrawal which is (entered)
+in the writing board of [&amas ...].
+No. 11 (Bertin 2746) BM 74570
+6.0 x 3.9 + cm Babylon Darius 29/4/35
+1 ina MU.AN.NA 2-ta u4-mumei 'UrNUNGIl-u-tu
+2 UD 12 KAM UD 13 KAM sa itGUD (ina) E.BABBAR.RA
+3 E dUTU sa UD.KIB.NUNki s mMUdEN A-su [sa]
+4 mIR-ia A mdILLAT-i a-na [e]-pis-[sd-nu-tu]
+5 a-na mSul-lu-ma-aA -su s mdU.GUR-S[UR]
+6 A mSd-na-si-sui d-din SE.BAR gi-nu-ui
+7 mSul-lu-ma-ai -na-si-ma man-za-al-tu4
+8 iz-zu-zu u pap-pa-a-sa ina muh-hi
+9 giDA sa dUTU u-§d-az-za-<az>-ma a-na
+10 fA-mil-tu4-si-in-duD UMU.MUNUS sd
+11 lmIdUTU-TIN-itD AM mMU-dEN i-nam-din
+12 pu-ut la bat-la sa u4-mume 2-ta
+13 mSul-lu-ma-a na-si u4-mumei 2-ta
+14 E mas-ka-nu sd fA-mil-tu4-si-in-du
+15 tumu-kin-num dUTU-TIN-it A-su sd mdU.GUR-MU
+16 A mdILLAT-um dUTU-MU-u-kin A-su [sd]
+17 mdZa-ba4-ba4-SUA mSd-la-la mdEN-[X X]
+18 A-sut sa mTa-qis A mSi-gu--a mdEN-[X (X)]
+19 A-su sd mSul-lu-ma-aA <<A>>m Sd-la-la lUrUMBISAGI
+20 mSUdUTU A-su sa mRe-mut-dENA m(d)ILL[AT-u]
+21 TIN.TIRki itiSU UD 29 KAM
+22 MU 35 KAM mDa-a-ri-id-wus
+23 LUGAL Eki LUGAL KUR.KUR
+24 1-en 2-ta-a' TI-u
+Translation
+Two days of a brewer's prebend per year, day 12 and day 13 of Ayyaru in the Ebabbara, the
+house of Samas of Sippar, which Iddin-Bel son of Ardiya of the Illatu family has given for
+performance to Sullumaya son of Nergal-iddin of the Sa-nasisu family. Sullumaya will collect the
+barley (for the) offerings and will carry out his duty and have the pappasu entered on the writing
+board of Samas and give it to Amiltu-sindu daughter of Samas-uballit the wife of Iddin-Bel.
+Sullumaya guarantees against any cessation (in the performance) of these two days. These two
+days are standing as the surety of Amiltu-sindu. Babylon. Witnesses. Date.
+For other referencesa ttesting to to Sullumaya'sa ctivities as the performero f a brewer'sp rebends ee
+Bongenaar1 997:4 73. This text is also discussedb y Jursa 1999:4 7.
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+234 JOHN MacGINNIS
+No. 12 (Bertin 1730) BM 64026
+5.4 x 4.4 cm Sippar Cyrus 7/10/6
+1 fZi-it-ta-a 'fi-is-ka-tu4
+2 al-ti mE-te-rul UENGAR §s dUTU
+3 d fSu-ud-du-u§-tu4D UMU.SAL-su fNAR-tu4
+4 mU -bar-ia ina na-ru-tu4 tu-li-du-ma
+5 rlal-IGI mdAMAR.UTU-MU-MU lUSANGA UD.KIB.NUNki
+6 [u lU]UMBISAG.ME8 tap-si-nu ar-ki ina MU 6 KAM
+7 [mKu]-ra-a LUGAL TIN.TIRki LUGAL KUR.KUR
+8 [taq]-bi um-ma mU-bar-ia
+9 [DUMU] fSu-ud-du-us-tu4'U PA.KAB.DU dUTU
+10 [Su]-}ua -na ""DA li-ru-ub
+11 [dAMAR.UTU-MU-MU 'U6]SANGA1U D.KIB.NUNki
+12 [u '6UMBISAG.ME] fZi-it-ta-a
+13 [if-mu-u-ma a-ki-i] rDUMU1.SAL-su mU'-bar-ia
+14 [ina g8DA sadd UTU] is-tu-ru
+15 [Umu]-rkin-numl d1[ M-na]-din-~ES lUSAG-LU[ GAL]
+16 mSES.ME8-MUdAMAR.UTU A-su s mSU-dAMAR.UTU
+17 A IUSANGAd INNIN TIN.TIRki mdAMAR.UTU-na-sir
+18 A-su sd mGAR-MU A lUSANGA dINNIN TIN.TIRki mdEN-MU
+19 A-su sd dNA-MU-SI.SA A lUSANGA dINNIN TIN.TIRki
+20 mMU-dU A-§u sd mUR-a A DU-e§-DINGIR
+21 mTa-qis-dME.MEA -su sa mdEN-na-din-AA lUSANGA UD.KIB.NUNki
+22 luUMBISAG mBA-fa-dOUA -su Sd mE-tel-pi-id UTU A lUSANGA UD.KIB.NUNk
+23 UD.KIB.NUNki iti'ABU D 7 KAM MU 6 KAM
+24 [Ku-ra-ad LUGAL TIN.TIR]ki LUGAL KUR.KUR
+Translation
+Zittaya the firkatuo f Samas and wife of Eteru the ikkdru of §ama§, whose daughter Suddugtu
+the singer gave birth to Ubaria in (the time of) her status as singer, and hid (him) from Marduk-
+§um-iddin the §angu of Sippar and the scribes: afterwards, in year 6 of Cyrus king of Babylon
+king of countries she said "Ubaria is [the son of] Suddustu; he is a &irkuo f Samag. Let him enter
+on to the writing board!" [Marduk-4um-iddin] the sangu of Sippar and [the scribes listened] to
+Zittaya and according to (the statement of) her daughter inscribed Ubaria [in the writing board
+of gama§]. Witnesses. Sippar. Date.
+This text is also discussedb y Jursa 1995:7 n. 33, Bongenaar1 997:2 96 and van Driel 1998: 192 n. 59 (I
+am gratefult o S. Zawadzkif or this reference)A. similart ext in which the parentageo f a Sirkui s affirmed
+by sworn statementi s Nbn. 958.
+6. The ina is presento n the tablet but not on Bertin'sc opy.
+10. Restorationf ollowingt he readingo f M. Jursa.T he UD sign whicha ppearsb etweenl ines 10 and 11 on
+the Bertinc opy is not there on the actual tablet.
+Bibliography
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Bongenaar,A . C. V. M. 1997: The Neo-BabylonianE babbarT emplea t Sippar:I ts Administratioann d its
+ProsopographyL. eiden.
+Bongenaar,A . C. V. M. 2000:I nterdependencoyf Institutionas nd PrivateE ntrepreneurLs.e iden.
+Brown,D . 2000: MesopotamianP lanetaryA stronomy-AstrologGy.r oningen.
+Dalley, S. 1998:T he Legacyo f MesopotamiaO. xford.
+Dandamayev,M . A. 1992:W as Eanna Destroyedb y Darius I?, AMI 25, 169-72.
+DandamayevM, . A. 1993:X erxesa nd the EsagilaT emplei n Babylon,B ulletino f theA siaI nstituteN S 7,41-5.
+DandamayevM, . A. 1995:A n UnidentifiedD ocumentf romX erxes'R eigna nd the EbabbaraT emple,N ABU
+1995/2N o. 35.
+van Driel, G. 1998:T he Care of the Elderly:T he Neo-BabylonianP eriod, in M. Stol and S. P. Vleeming
+(eds.), The Careo f the Elderlyi n the AncientN ear East. Leiden, 161-97.
+van Driel, G., and K. R. Nemet-Nejat1 994:B ookkeepingP racticesf or an InstitutionaHl erda t Eanna,J CS
+46, 47-58.
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+THE USE OF WRITING BOARDS IN THE NEO-BABYLONIANT EMPLE 235
+Ebeling, E. 1949: Neubabylonische Briefe. Munich.
+Frame, G. 1991: Nabonidus, Nabu-sar-usur, and the Eanna Temple, ZA 81, 37-86.
+Graziani, S. 1986: I testi mesopotamici datati al regno di Serse. AION supplement 47 to volume 46. Naples.
+Hunger, H. 1968: Assyrische und babylonische Kolophone. Neukirchen.
+Joannes, F. 1995: L'extinction des archives cun6iformes dans la seconde partie de l'epoque perse, RA
+89, 139-47.
+Jursa, M. 1995: Die Landwirtschaft in Sippar in neubabylonischerZ eit. Vienna.
+Jursa, M. 1998: Der Tempelzehnti n Babylonien vom siebenten bis zum dritten Jahrhundertv . Chr. Munster.
+Jursa, M. 1999: Das Archiv des Bel-remanni. Leiden.
+Klengel-Brandt, E. 1975: Ein Schreibtafel aus Assur, AoF 3, 169-71.
+Kuhrt, A., and S. Sherwin-White 1987: Xerxes' Destruction of Babylonian Temples, in H. Sancisi-
+Weerdenburg and A. Kuhrt (eds.), Achaemenid History II - The Greek Sources. Leiden, 69-78.
+Kuhrt, A., and S. Sherwin-White 1994: The Transition from Achaemenid to Seleucid Rule in Babylonia:
+Revolution or Evolution?, in H. Sancisi-Weerdenburg, A. Kuhrt and M. Root (eds.), Achaemenid
+History VIII - Continuity and Change. Leiden, 311-27.
+MacGinnis, J. D. A. 1991/92: Neo-Babylonian Prebend Texts from the British Museum, AfO 38/39, 74-100.
+MacGinnis, J. D. A. 1994: The Royal Establishment in Sippar in the Sixth Century BC, ZA 84, 198-219.
+MacGinnis, J. D. A. 1995: Letter Ordersf rom Sippar and the Administrationo f the Ebabbara in the Late-
+Babylonian Period. Poznan.
+MacGinnis, J. D. A. 1996: Letters from the Neo-Babylonian Ebabbara, Mesopotamia 31, 99-159.
+MacGinnis, J. D. A. 1998: Ordering the House of Samas: Management Texts from the Neo-Babylonian
+Ebabbara, Iraq 60, 207-17.
+MacGinnis, J. D. A. 1999: Additional Prebend Texts from the British Museum, AoF 26, 3-12.
+Maul, S. M. 1999: Gottesdienst im Sonnenheiligtum zu Sippar, in B. Bock et al. eds. Munuscula Mesopotamica,
+Festschrift J. Renger, AOAT 267. Munster.
+Millard, A. 1964: Another Babylonian Chronicle Text, Iraq 26, 14-35.
+Nemet-Nejat, K. R. 2000: An Administrative Text about Writing Boards (557 B.C.E.), BaghdaderM itteilungen
+31, 249-58.
+Neve, P. 1991: Die Ausgrabungen in Bogazkoy-Hattusa 1990, ArchdologischerA nzeiger 3, 299-348.
+Oelsner, J. 1971: War Nippur Sitz einer spatbabylonischen Astronomenschule?, WissenschaftlicheZ eitschrift
+der Friedrich-Schiller-Universitat, Gesellschafts- und Sprachwissenschaftliche Reihe, Vol. 20/5,
+141-9.
+Oelsner, J. 1986: Materielen zur Gesellschaft und Kultur in Hellenisticher Zeit. Budapest.
+Oelsner, J. 1992: Review of E. Leichty et al., Catalogue of the Babylonian Tablets in the British Museum,
+Vols. 6-8, Tabletsf rom Sippar 1-3, JNES 52, 143-7.
+Oelsner, J. 1999: Review of MacGinnis Letter Ordersf rom Sippar, OLZ 94, 45-9.
+Parpola, S. 1983: Assyrian Library Records, JNES 42, 1-29.
+Payton, R. 1991: The Ulu Burun Writing-Board Set, Anatolian Studies 41, 99-106.
+Postgate, J. N. 1986: Middle Assyrian Tablets, AoF 13, 10-39.
+Radner, K. 1999: Ein neuassyrisches Privatarchiv der Tempelgoldschmiedev on Assur, Studien zu den Assur-
+Texten, Heft 1. Saarbriicken.
+Reade, J. E. 1986: Rassam's Babylonian Collections: The Excavations and the Archives, in E. Leichty,
+Catalogue of the Babylonian Tablets in the British Museum VI: Tablets from Sippar 1. London,
+xii-xxxvi.
+Sachs, A. and H. Hunger 1988: Astronomical Texts and Related Diaries from Babylonia 1: Diaries from
+652-262 BC. Vienna.
+San Nicolo6, M. 1948: Haben die Babylonier Wachstafeln als Schrifttrager gekannt?, Orientalia 17, 59-70.
+Stol, M. 1998: Einige kurze Wortstudien, in S. M. Maul (ed.), Festschrift Rykle Borger. Styx Cuneiform
+Monographs 10. Groningen.
+Stolper, M. W. 1989: Registration and Taxation of Slave Sales in Achaemenid Babylonia, ZA 79, 80-101.
+Stolper, M. W. 1993: Late Achaemenid, Early Macedonian, and Early Seleucid Records of Sale, Deposits and
+Related Texts. AION supplement 77 to volume 53/4. Naples.
+Stolper, M. W. 1994: On Some Aspects of Continuity between Achaemenid and Hellenistic Babylonian Legal
+Texts, in H. Sancisi-Weerdenburg, A. Kuhrt and M. Root (eds.), Achaemenid History VIII
+Continuity and Change. Leiden, 329-51.
+Stolper, M. W. 1998: Review of Jursa Die Landwirtschaft in Sippar in neubabylonischer Zeit, JESHO
+41,496-503.
+Symington, D. 1991: Late Bronze Age Writing Boards and their Uses: Textual Evidence from Anatolia and
+Syria, Anatolian Studies 41, 111-23.
+van der Spek, R. J. 1992: Nippur, Sippar and Larsa in the Hellenistic Period, in M. de J. Ellis (ed.) Nippur
+at the Centennial (Philadelphia), 235-60.
+Warnock, P., and M. Pendleton 1991: The Wood of the Ulu Burun Diptych, Anatolian Studies 41, 107-10.
+Weszeli, M., and H. Baker 1997: Eseleien II, WZKM 87, 231-47.
+Wiseman, D. J. 1955: Assyrian Writing Boards, Iraq 17, 3-13.
+Wiseman, D. J. 1995: Nebuchadrezzara nd Babylon. Oxford.
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+236 JOHN MacGINNIS
+t-,< m ..N,'o . . 1, No. 21
+^^?ff%'5 '(^No2. 4·
+1-
+5" No. 6 :
+No. 95N._ o.6
+~~~~~~~~
+.j
+~
+.
+~
+j
+~
+Y
+~~ ~~~~~~~~~.::~::~.T~: ~~~.' ~'...
+This content downloaded from 131.111.164.128 on Mon, 10 Nov 2014 12:58:43 PM
+All use subject to JSTOR Terms and Conditions
+
