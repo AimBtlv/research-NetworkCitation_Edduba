@@ -1,7 +1,7 @@
-# Title
+
 ### Step-Distance Roles
 
-The citation network is structured through a five-level *epistemic step-distance* model, reflecting how knowledge moves from primary data production to interpretation, stabilization, and synthesis.
+The citation network is structured through a five-level * step-distance* model, reflecting how knowledge moves from primary data production to interpretation, stabilization, and synthesis.
 
 #### Step 1 — Direct Reliance Sources (Primary Data Providers)
 Publications that introduce primary empirical material into scholarly discourse.  
