@@ -1,4 +1,4 @@
-## Step Distance Calculation 
+## Step-Distance Model 
 
 ## Overview
 

@@ -5,7 +5,12 @@ The references listed below correspond to sources included in the citation netwo
 Digital access points (DOI or stable online repositories) are provided where available.
 
 ---
-
+### Digital Visualization sources
+- Cleveland, William S., and Robert McGill. “Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods.” Journal of the American Statistical Association 79, no. 387 (1984): 531–554. https://doi.org/10.1080/01621459.1984.10478080
+- Porter, T., & Duff, T. (1984). Compositing Digital Images. Computer Graphics, 18(3), 253–259.
+### Network Citation Sources
+- Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets: Reasoning About a Highly Connected World. Cambridge University Press.
+- Cowell, F. A. (2011). Measuring Inequality (3rd ed.). Oxford University Press.
 ### Primary Archaeological Publications
 (Direct data providers; Step 1)
 
