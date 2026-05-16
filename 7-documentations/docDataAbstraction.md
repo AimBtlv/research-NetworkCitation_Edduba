@@ -3,11 +3,11 @@
 The dataset is a directed network (graph) in which nodes represent individual academic publications and directed edges represent citation relationships. This is a relational dataset of type items + links, where the analytical interest lies not in the attributes of individual items in isolation, but in the topology of their connections.
 
 ---
-**Dataset scale:**  
+***Dataset scale:***  
 **Full corpus:** 2,103 nodes, 2,524 edges (density = 0.0006) 
 **Epistemic subgraph (Steps 1–3, top 15% betweenness filter):** 400 nodes, 841 edges (density = 0.0053).  
 
-#### Node
+### Node
 
 --- 
 Each publication carries: 
@@ -22,7 +22,7 @@ Each publication carries:
 | `community` | Categorical (nominal) | Edge-betweenness cluster membership |
 | `reliable_source` | Binary (0/1) | Satisfies Trust Triangle criteria |
 
-#### Edges
+### Edges
 ---
 
 | Attribute | Data Type | Description |
@@ -39,9 +39,9 @@ An edge `A → B` means *A cites B*, i.e. knowledge flows from B toward A.
 Edges are not weighted by frequency — each citation pair is recorded once.
 The direction encodes epistemic dependency: the citing work relies on the cited work as a source of evidence, interpretation, or authority.
 The structural significance of an edge is determined not by its own attributes but by the position of the nodes it connects in the **step-distance hierarchy**.
-
+### Analytical Abstraction Layer
+The Step-Distance Model functions as a structural abstraction layer that transforms citation-network relationships into interpretable epistemic roles.
 #### Step-Distance Hierarchy
-Data Abstraction by Step-Distance Model
 
 The raw citation dataset (2,103 nodes, 2,524 edges) does not carry explicit labels about the epistemic role of each publication. To move beyond simple citation counts, an additional layer of abstraction was applied: each node was assigned a `step_distance` value (1–5) representing its **functional distance from primary empirical data**.
 
