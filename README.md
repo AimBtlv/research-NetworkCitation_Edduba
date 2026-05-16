@@ -9,10 +9,10 @@ This project analyses the epistemic structure of academic scholarship on Edubba 
 **Project Status:**
 **🟡 in Process** / 🟢 Complete / 🔴 On a Wait
 ##### About Project: 
-This project does not aim to reinterpret Edubba history directly. Instead, it treats scholarly publications as a citation network in order to analyse how knowledge about Edubba is structurally produced, transmitted, and stabilised within academic discourse. The focus is therefore not on what is known about Edubba, but on how that knowledge is organised across the scholarly ecosystem. 
-To make these structures visible, the study combines network analysis with a systematic data collection and visualisation pipeline. Citation relations are modelled as directed edges between publications, enabling the construction of a multi-layered epistemic network.
-A directed citation graph of 2,103 sources was constructed from a seed corpus of approximately 150 anchor publications, expanded via a snowball bibliographic method. Network metrics — including in-degree, betweenness centrality, eigenvector centrality, and a custom step-distance model — were applied to classify sources by their epistemic role.
-The guiding assumption is that epistemic structure becomes observable only when translated into visual form, where relational properties such as mediation, centrality, and fragmentation can be directly perceived.
+This project demonstrates that directed citation network analysis can reveal structural properties of scholarly knowledge that are not accessible through traditional bibliometric or close-reading approaches. By modelling a corpus of 2,103 publications on Edubba scribal schools as a directed graph and applying standard network-theoretic measures, the study identifies five structural findings of methodological significance.
+The network is not hierarchical but sparse and fragmented, with a single dominant epistemic community and 202 micro-clusters. Primary archaeological sources are structurally isolated from the canonical literature, connected only through a bottleneck of 37 mediators. Epistemic influence, as measured by eigenvector centrality, is concentrated in Step 3 authorities rather than primary data. And reliable sources — defined by the composite Trust Triangle criterion — are structurally rare and belong to the mediator layer, not the authority layer.
+These findings challenge the assumption that citation frequency is a valid proxy for epistemic reliability. They also demonstrate the value of custom classification models (Step-Distance) that translate domain-specific epistemic concepts into quantitatively tractable network properties. The pipeline developed in this project — from data collection and bibliographic expansion through graph construction, centrality computation, community detection, and hypothesis testing — is fully reproducible and applicable to other specialised humanities corpora.
+
 
 ***
 ##### Research Questions and Hypotheses:
