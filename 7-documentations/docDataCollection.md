@@ -17,3 +17,4 @@ PDF documents were converted to text using pdfplumber for digital files and pyte
 ---
 #### Bibliographic Expansion (Snowball Method)
 Bibliographies were automatically extracted with AnyStyle, converted to structured JSON, and matched to identify citing–cited relationships (references.json). The snowball expansion grew the dataset from ~150 anchor sources to 2,103 unique nodes and 2,524 edges (sources_all_normalized.csv).
+> workflow in folder [/2-dataset]
