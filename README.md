@@ -66,7 +66,7 @@ Custom dataset manually compiled from archaeological reports and scholarly bibli
 **Reference:** [`/6-bibliography/`](./6-bibliography/)
 ***
 #### Format: 
-**input-pdf -> txt -> json -> network graph-> analyse data -> .png visualisation output**  
+**(input)Data - pdf -> Normalize Data - txt -> Parse Data - json -> Network Graph -> Analyse Data -> Visualise Data - png -> Analyse Reports - pdf -> Presentation - pdf (output)** 
 ***
 #### Language: Enlish 
 *** 
