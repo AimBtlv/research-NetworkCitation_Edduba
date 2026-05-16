@@ -12,6 +12,13 @@ https://networksciencebook.com/.
 - Girvan, M., and M. E. J. Newman. “Community Structure in Social and Biological Networks.” Proceedings of the National Academy of Sciences 99, no. 12 (2002): 7821–7826. https://doi.org/10.1073/pnas.122653799.
 - Kirk, Andy. Data Visualisation: A Handbook for Data Driven Design. 2nd ed. London: SAGE Publications, 2019.
 - Lazer, David, Alex Pentland, Lada Adamic, Sinan Aral, Albert-László Barabási, Devon Brewer, Nicholas Christakis, et al. “Computational Social Science.” Science 323, no. 5915 (2009): 721–723. https://doi.org/10.1126/science.1167742.
+- Blondel, V. D., Guillaume, J.-L., Lambiotte, R., & Lefebvre, E. (2008). Fast unfolding of communities in large networks. Journal of Statistical Mechanics, 2008(10), P10008.
+- Bonacich, P. (1987). Power and centrality: A family of measures. American Journal of Sociology, 92(5), 1170–1182.
+- Freeman, L. C. (1977). A set of measures of centrality based on betweenness. Sociometry, 40(1), 35–41.
+- Granovetter, M. S. (1973). The strength of weak ties. American Journal of Sociology, 78(6), 1360–1380.
+- Haas, P. M. (1992). Introduction: Epistemic communities and international policy coordination. International Organization, 46(1), 1–35.
+- Page, L., Brin, S., Motwani, R., & Winograd, T. (1999). The PageRank citation ranking: Bringing order to the Web. Technical Report, Stanford InfoLab.
+
 
 ### Archaeological Excavation Contexts/Canonical and Authoritative Works
 - **Fara** — Excavations directed by A. Deimel (German expeditions).  
