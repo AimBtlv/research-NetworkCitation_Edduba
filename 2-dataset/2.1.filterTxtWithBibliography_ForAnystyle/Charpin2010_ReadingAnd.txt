@@ -1,0 +1,720 @@
+# METADATA
+Author: Charpin D.
+Title: Reading and Writing in Babylon 
+Year: 2010
+Source_ID: Charpin2010_ReadingAnd
+Source_Type: chapter in book
+Pages: 1-16; 271-304;
+
+# TEXT
+
+Introduction
+
+How did the inhabitants of Mesopotamia imagine the origin of writing? Berossos, priest of the god Marduk in Babylon in the early third century B.c., dedicated a book to King Antiochos I; written in Greek and titled Babyloniaca, it summarized the traditions of his country. In that book, writing appears as one of the essential elements that Oannes, a hybrid creature with a fish's body and a human head, gave to humanity at the dawn of time. While men were still living "without discipline and order, just like animals," at the start of the reign of Alorus--supposedly the first of the Mesopotamian kings--Oannes emerged from the Persian Gulf: "Berossos says that this monster spent its days, never eating anything, but teaching men the skills necessary for writing and doing mathematics and for all sorts of knowledge: how to build cities, found temples, and make laws" (Verbrugghe and Wickersham 1996, 44)[FN:1]. Given the close connection between Adapa, the indigenous name for Oannes, and the god Enki, patron of technology, it is clear that this gift of writing was, like kingship, "descended from heaven."
+The epic Enmerkar and the Lord of Aratta presents a different view: the invention of writing was supposedly the act of a man, Enmerkar. To carry out his public works projects, that king of Uruk sought to procure the necessary raw materials from across the mountains, in the rich region of Aratta, but the ruler of that city issued a series of challenges in the form of riddles. Enmerkar managed to solve them all, until the messenger traveling back and forth between the two kings capitulated before the complexity of the message to be transmitted:
+Because the messenger's mouth was too heavy, and he could not repeat it,
+The lord of Kulab (Enmerkar) patted some clay and put the words on it as on a tablet.
+Before that day, there had been no putting words on clay;
+But now, when the sun rose on that day--so it was!:
+The lord of Kulab had put words as on a tablet--so it was!(Vanstiphout 2003a, 84-85, lines 501-505)
+Imagine the perplexity of the lord of Aratta when he saw that written message. The way writing was conceived is noteworthy: the "spoken word" (inim in Sumerian) "held" in the clay. Writing was only an oral discourse fixed on a support[FN:2]. Ought we therefore to place two different traditions in opposition, one that considers the invention of writing a gift of the gods (through Adapa/Oannes), the other, a human invention (attributable to Enmerkar)? Nothing of the sort: for a bit earlier in the epic, we find that Enmerkar owed his wisdom to the goddess Nisaba, who inspired him to solve the riddles sent to him by the lord of Aratta[FN:3]. And as a matter of fact, Nisaba was the goddess of writing in the Mesopotamian pantheon. Both accounts, despite their differences, place the emphasis on something that coincides with the results of the most recent research: the birth of writing cannot be apprehended correctly in purely evolutionist terms. Writing appeared in a sudden and radical leap, constituting a complete system from the start (Michalowski 1994a, 54) (Figure 1)[Fig:1].
+
+Deciphering Cuneiform Writing
+
+Cuneiform writing, which emerged in the late fourth millennium, met its demise in the early part of the Christian era: unlike Aramaic writing, for example, it completely vanished from human knowledge. Hence, when travelers brought copies of cuneiform inscriptions--or the first originals--back to the West in the seventeenth and eighteenth centuries, the "readings" proposed were utterly fanciful when compared with our current understanding. It has proved interesting to analyze them, however, to glean the conception of the sign and of the relation between language and writing that existed in Europe in the modern period (Cancik-Kirschbaum and Chambon 2006). It was not until the early nineteenth century that the work of interpretation became truly rigorous.
+The history of the decipherment of cuneiform writing has often been written, and I shall confine myself here to recalling the chief stages in that process (Bottero 1987; Daniels 1995a). It was the result of a collective, lengthy, and exacting effort, which therefore appears to the uninitiated less extraordinary than Jean-Frangois Champollion's achievement. No doubt Assyriology would be more popular if cuneiform writing were as appealing as Egyptian hieroglyphs and if a genius had early on provided the key to it. But such is not the case.
+The starting point for that history is located in present-day Iran, in the region of Persepolis. Inscriptions on rock were discovered there, and Carsten Niebhur was the first to recognize that, behind their common appearance--signs composed of "spikes" or "wedges" (cunei in Latin)--lay three different systems. The simplest of these had about forty signs: it was rightly concluded that this was an alphabetical writing system. George Frederick Grotefend had the auspicious intuition that these were inscriptions of Persian kings from the dynasty of the Achaemenids, in other words, the successors of Cyrus the Great. Thanks to Herodotus, it was known that Darius and Xerxes had moved their capital to Persepolis. As it happened, a later state of the Persian language was beginning to be studied at the same time: "Zend," or in other words, the language of the Avesta. Considering the shortest cuneiform inscriptions, Grotefend wagered that they were composed of the name of a king, his genealogy, and his titulature. By combining seyeral of them, he managed to read: "Darius, powerful king, son of Hystaspes," and "Xerxes, powerful king, king of kings, son of Darius." From October 3, 1802, to May 20, 1803, Grotefend sent reports to the Kenigliche Gesellschaft der Wissenschaften (Royal Society for Sciences) at the University of Gettingen in which he detailed his discoveries. These discoveries therefore preceded by twenty years Champollion's famous Precis du systeme hieroglyphique (Abstract on the System of Hieroglyphics), but they did not immediately create much of a stir.
+Several scholars, including Henry Rawlinson, took on the Persepolitan writing used to notate Old Persian. Between 1836 and 1847, Rawlinson successfully copied out the long Behistun inscription and, thanks to it, was able to completely decipher that writing. But Persepolitan writing, invented for the Achaemenid kings, was used for little other than the notation of their commemorative inscriptions.
+Two other "cuneiform" writing systems remained to be deciphered. Between 1838 and 1851, Edmund Norris was the principal scholar to work on the second of these. Thanks to the proper names, he managed to read the text of the second column of the Behistun inscription, which was in a completely unknown language. It is now called Elamite, but the truth is, for lack of a sizable corpus and especially of sufficient variety, that language, spoken on the Iranian plateau from the third millennium B.c. on, remains poorly understood.
+During the first half of the nineteenth century, several scholars concurrently tackled the task of deciphering the third writing system. It was the most difficult one, since it made use of several hundred signs. Ultimately, they came to understand that it combined phonetic signs notating syllables with others that notated words (called "logograms"). The language so written was called "Assyrian," since it belonged to the emperors whose capitals in the northern part of present-day Iraq, in Nineveh, Nimrud (the ancient Kalhu), and Khorsabad (Dur Sharrukin), had just been discovered. It constitutes the eastern branch of the Semitic languages, and that affiliation allowed for very rapid progress in deciphering Assyrian, thanks to its kinship to Hebrew and Arabic. In 1857, barely more than 150 years ago, it was decided that the time had come to take stock. A long inscription had just been exhumed in Nimrud[FN:4], and a copy of it was given to four scholars: Rawlinson, Edward Hincks, William Henry Fox Talbot, and Jules Oppert. Without consulting one another, they were to send their translation of the text to the Royal Asiatic Society in London. The results were sufficiently concordant for the decipherment to be considered successful.
+Nevertheless, the mixed character of that writing system, partly syllabic and partly logographic, raised a problem. After bitter debates, scholars reached the conclusion that it had originally been invented to notate Sumerian. The discovery in Tello of numerous inscriptions in that language beginning in 1880 confirmed that view. It was only with the 1905 publication of Francois Thureau Dangin's Inscriptions royales de Sumer et d'Akkad (Royal Inscriptions of Sumer and Akkad) that Sumerian could be considered altogether deciphered. Even in our own time, the lexicon and grammar of that language and its parentage are far from being known with any certainty.
+"Classical" cuneiform writing was not only used to notate Sumerian and Akkadian. Over time, many peoples borrowed it, adapting it to their own languages. In second-millennium Anatolia especially, it served to notate Hittite and Hurrian; in Armenia of the early first millennium, Urartian.
+
+How to Read a Cuneiform Tablet
+
+Whereas the history of this decipherment has often been written, explanations of how specialists in the writing system, traditionally called Assyriologists, proceed are much less common. Generally, when a photograph of a cuneiform inscription and the translation of its text are placed side by side, the uninitiated remain perplexed, wondering how one got from one to the other. This is often a long and difficult labor, about which specialists do not expatiate; in that respect, they are like old-time chefs who disliked divulging their recipes. I should now like to invite the reader to a visit to the Assyriologist's workshop.
+
+Three-Dimensional Writing
+
+We must first recognize the radically different character of cuneiform writing when compared with our own: it consists of incisions made in the surface of an unbaked clay tablet with the aid of a triangular-shaped calamus made of reed or bone (see Figure 14)[FIG:14]. 'The impression of that stylus produces a "spike" or "wedge" (cuneus in Latin, whence the name given to that writing in the eighteenth century). Combinations of several wedges form a sign: the simplest is constituted by a single horizontal or vertical wedge, while the most complex may consist of a dozen. It is the play of shadow and light that makes the written signs visible, and lighting from the left is necessary if the signs are to be read accurately.
+
+Page Layout and Paleography
+
+The "page layout" of the tablets changed over time. At first tablets were round, and their surface (front and back) was divided into columns, themselves subdivided into cells. In about 2300 B.c., a linear orientation prevailed. Henceforth the tablets were rectangular: the written lines were usually parallel to the shorter side, but the reverse sometimes occurred. Whatever the language, the signs were written from left to right.
+The form of the signs themselves evolved between their appearance in about 3200 and the last datable text, written in A.D. 75. They were originally pictograms, that is, signs depicting visually what they signified. But very quickly, unlike Egyptian hieroglyphs, cuneiform signs lost that connection and became a more cursive writing. The different stages of that evolution as well as the regional variants have been painstakingly inventoried.
+Hence, at a single glance, as a function of the shape of the tablet, the layout, and the paleography, an experienced epigraphist will be able to say, even before he starts to read the text, whether the tablet before him is, for example, a bookkeeping document from the pre-Sargonic period, a letter from the Old Babylonian period, or a Neo-Assyrian scholarly text.
+
+A Repertoire of Several Hundred Signs
+
+Next comes the reading of the document. The first task consists of identifying the signs. This is not always easy, for several reasons. Cuneiform is not an alphabetical writing system with twenty-six characters: the "standard" repertoire contains nearly 600 different signs. Moreover, the legibility of the written signs varies by era. The most outstanding period in this respect was the age of Akkad (ca. 2340-ca. 2200 B.c.). At that time, signs were incised with an elegance and uniformity that were never again equaled. By contrast, the end of the Old Babylonian period (seventeenth century B.C.) is characterized by sloping writing that is often difficult to decipher. Distinctions must also be made based on the kind of written material at issue: a copy of a literary text intended for a royal library such as that of Ashurbanipal will naturally be much neater than a memorandum that a merchant drew up in haste.
+One Writing System, Several Languages. But identifying the signs is only the first stage. Assyriologists must then select the value of each one and arrange them into signifying units, since there are no word separators or punctuation. That, no doubt, is the most complex mental process.
+It must first be determined in what language the document was written, since cuneiform was used for very diverse languages (Woodard 2004). The Akkadians adopted it to notate their language in about the mid-third millennium B.c. In about 2000, their language, Akkadian, split into two branches: Assyrian and Babylonian. But cuneiform was also used to notate an Indo-European language, Hittite, not to mention languages that are still poorly understood, such as Hurrian and Elamite. Of course, Assyriologists in the broad sense of the term are obliged to specialize, but they must still have a good general background. Hence it is not possible to study Sumerian without knowing Akkadian: in fact, it is in good part thanks to the dictionaries constituted by the Akkadian scribes that we are able to understand the meaning of Sumerian words, for which there are no available resources to serve as the basis for comparison. Those who specialize in Akkadian are not required to know Hittite, but the reverse is not true. And so on.
+Logograms or Syllables. Once the language in which the document is written has been identified, the Assyriologist's second instinct comes into play, producing reactions that vary depending on the language. Take the example of a text composed in Akkadian. The notation of that language may be done with phonetic signs. Each sign in that case represents a syllable: a vowel by itself, a consonant plus a vowel, or a consonant plus a vowel plus a consonant.
+The problem is that a single sign may have several phonetic values. Hence the sign NI, when preceded by BE, will be read /LI/: in Akkadian, beli means "my lord." But in the sequence PA NI, NI will be read /NI/, pani meaning "my face."
+Things become even more complicated in that a sign, in addition to its syllabic value(s), may have one or more logographic value. When the Akkadian scribes borrowed cuneiform writing, they kept the ideogrammatic value that certain of the signs had had in Sumerian. Recall that an ideogram (or logogram) is a sign that conveys both a sound and a meaning: the sign [#Cuneiform Script] is pronounced KA and designates "mouth" in Sumerian. An Akkadian scribe could therefore use that sign to notate the word piim, which designates "mouth" in his language. In a passage containing the word KA, if a syllabic reading of the sign does not make sense, the possibility of an ideogrammatic reading must be considered.
+Ideograms have a disadvantage: they multiply the number of signs in the repertoire, thereby taxing the memory. But they also have a considerable advantage, which explains why ancient scribes valued them so: they take up less space on the tablet surface and required less time to write, since a single ideogrammatic sign suffices where three or four syllabic signs would be necessary. Let me demonstrate this point with a passage from a divinatory treatise. The first line is a copy and transcription of the text from the Old Babylonian period (2000-1600 B.c.), in syllabic notation. Below it is the same text notated in ideograms, in the Neo-Assyrian version (eighth-seventh centuries B.c.): BE is the ideogram for Summa, SAL for sinnistum, and so on. The third line is the Akkadian text with the signs written in cursive[FN:5]:
+
+Sum-ma si-in-ni-is-tum ui-li-id-ma (eleven signs) 
+BE     SAL             U.TU-ma (five signs) 
+summa  sinnistum       ulid-ma
+if     a woman         has given birth
+
+The use of ideograms thus appears to have been a kind of shorthand, but with principles very different from those usually conveyed by that term at present.
+Seen from outside, the system appears very complicated. Traditionally, Assyriologists have believed that its use was reserved for a very limited group, that of scribes, the only ones who could master that writing system and then only after a long training period. In this book, I shall call into question that view of Mesopotamian civilization.
+Establishing the Text. The first decipherment of the text may be done quickly, if it is a well-preserved tablet and if the text belongs to a well-known literary genre. Hence a sales contract for a piece of land can be read at sight if the specialist has mastered the models used by the notaries of the period and is well acquainted with the proper names of the region. For a letter, the task will take longer, inasmuch as that genre is by definition much less stereotyped.
+If the tablet is damaged, an Assyriologist must begin by determining whether "joins" (to use the professional jargon) with other fragments are not possible. There are two complementary ways of proceeding. He can base himself on the shape of the fragments and connect those that seem to complete each other as a function of the shape of the break (oblique, for example). Or he can make joins as a function of the content: for example, if a very rare proper name appears on two different fragments, it is possible that they belong to the same tablet.
+Sometimes the search for joins is not fruitful, or the surface of the tablet itself is damaged beyond repair. Then the problem of restoring the lacunae arises. When the text corresponds to a wellestablished model, the task is relatively easy. It is much less so in the case of a letter, despite the existence of a certain rhetoric. Restitution is an area where scientific proficiency reaches its limit: despite the greatest ingenuity, no one is ever assured of the complete reliability of the result.
+When the text belongs to the category of "literary" works, the labor will be rather painstaking because of the plurality of manuscripts. The lacunae in one are often filled in by another, which constitutes an appreciable advantage. But the existence of duplicates raises another problem: how to publish the variants? At present, Sumerologists provide a reconstituted text, with what is called a "score" underneath it--that is, the text of all the manuscripts that attest the line in question, in the state found on the tablet.
+That type of work presupposes, then, that all the originals can be collated, that is, that all the tablets can be reviewed. Since some were published a great while ago, improvements in the interpretation are likely to be possible, particularly if duplicates have been discovered in the meantime. An Assyriologist is thus obliged to travel to the world's great museums. To edit a Sumerian text, for example, he must in the first place plan a visit to the United States, to consult the Babylonian section of the University of Pennsylvania Museum of Archaeology and Anthropology in Philadelphia; another to the Museum of the Ancient Orient in Istanbul; and a third to the University of Jena in Germany. The tablets discovered in Nippur, one of the most important sources of Sumerian manuscripts, are in fact dispersed among these three institutions. But in not unusual cases, he will also have to go to the British Museum in London or to the Vorderasiatisches Museum in Berlin, not to mention the Iraq Museum in Baghdad or the Louvre in Paris.
+Translation. Once the transcription of the document has been established, the Assyriologist will go on to translate it. In reality, the two processes are intimately linked, as can be deduced from my previous comments. Of course, the translation problems will vary depending on the language of the text in question. In Akkadian, the vocabulary is fairly well known for the most part; only certain technical terms continue to raise problems. Akkadian's kinship to the family of Semitic languages allows for many comparisons that may contribute to delimiting the meaning of new words, which, indeed, we continue to discover on a regular basis. In addition, the task is simplified by the existence of two large dictionaries, one in German (W. von Soden's Akkadisches Handwerterbuch), the other in English (Chicago Assyrian Dictionary).
+For texts composed in Sumerian, matters are less simple. Specialists in Sumerian do not have the opportunity to make comparisons but rather depend greatly on the "lexical lists" established by the ancient scribes, from which apprentices learned the Sumerian vocabulary. Although there is now an electronic dictionary (ePSD), it has not been possible as yet to overcome all the remaining problems related to vocabulary.
+The Problem of Reproduction. Tablets are reproduced for two different purposes. For a long time, reproductions were intended to give access to the sources, and cuneiform tablets were simply published in the form of copies, with each reader deciphering them independently. Copying amounted to transposing, in ink, signs of a three-dimensional writing system onto a two-dimensional support (Figure 2)[FIG:2]. But by definition, however faithful the copy, it is still an interpretation. For tablets that have been broken, it is often very difficult to discern the marks; it is in such cases that an improvement in the reading will often become possible subsequently.
+Currently, a transcription and a translation of the text are often published together. The copy thus no longer serves as anything but verification. It is therefore possible to replace it with a photograph, which is by definition more reliable than a copy. All the same, one of the key problems of reproduction remains: the transformation from three dimensions to two. In general, at least six shots of each of the inscribed parts of the tablet are required to make it legible. Recent attempts at three-dimensional digitalization with a scanner have produced interesting results. The problem of the quality of the photo also arises: the lighting must be undertaken with special care. The use of vaporized ammonium chloride may improve the quality of the photo: when a fine white coating of it is deposited on the surface of the tablet, it does not penetrate into the wedges. That process markedly accentuates the contrast. The type of film, chemical products, and paper can all be experimented with as well. And since the advent of digital cameras, the electronic photo file can be manipulated through the use of a computer program.
+Even more than the quality of the photo, that of the reproduction is crucial. At this point, financial considerations arise. The use of microfiche has been indispensable for some time; that of CD-ROMS is currently very common.
+Plasticity and Durability of the Support. The work performed by the Assyriologist, then, includes not only the transcription and translation of ancient texts, but also their transfer onto new supports: the sheet of paper on which he writes his first transcription, the hard disk on his computer, the film on which he photographs the tablet. These supports have many advantages over the clay of the tablet: it is very easy to rework a text on a computer or to annotate it on a sheet of paper, which clay allows only with difficulty or not at all. Conversely, clay possesses one considerable advantage: it is resistant to fire, water, and magnetic disturbances. In short, in a few thousand years, our photographs, books, and hard disks will no doubt have disappeared, but our collections of cuneiform tablets will still be there.
+For historians, the term "Mesopotamians" is problematic, since the former inhabitants of that region did not designate themselves as such and did not think of themselves that way. From the geographical point of view, the contrast is striking between the northern and southern parts of present-day Iraq, which correspond, respectively, to Babylonia and Assyria. But what we call "Babylonia" in no wise formed a unity in the third millennium or even at the start of the second: Akkad in the north (the region of present-day Baghdad) was distinct from Sumer in the south. Moreover, the borders of that "Mesopotamian" world were far from fixed. Mari, on the Middle Euphrates, about 15 kilometers west of the present day border between Syria and Iraq, is a textbook case: depending on the period and the point of view, it was closer to Mesopotamia or, on the contrary, more oriented toward the Western Mediterranean. Such is the lot of all hubs. I shall make only brief excursions beyond Mesopotamia, to the west (Syria, Anatolia) or east (Iran).
+Many have spoken of the long duration of Mesopotamian civilization, but they are far from agreeing on the ideal temporal divisions that would need to be respected in following its evolution (Van De Mieroop 1997). A combination of political and linguistic considerations have given rise to the designations currently in use, which I shall also employ in this book (see Chronology), despite their unsatisfactory nature. The expression "Old Babylonian period" will therefore designate the four centuries at the start of the second millennium dominated by the figure of Hammurabi, king of Babylon (1792-1750). Reference will also be made to the "NeoAssyrian empire," and so on.
+I shall begin by presenting the contexts and methods associated with an apprenticeship in the cuneiform writing system, in an attempt to evaluate the scope of literacy (Chapter 1). I shall then examine what writings were produced: first, archival documents (Chapter 2), and then correspondence, which I treat separately (Chapter 3). The complex relationship between the oral and the written was not limited to letters; hence I shall consider that situation in the realm of law and politics (Chapter 4). In the modern view, libraries constitute the site par excellence for reading, but that situation looked different in Mesopotamia (Chapter 5). Rarely were texts written "for eternity": nevertheless, a portion of those that have come down to us were intended for the deities and for posterity (Chapter 6). When a specialist reads a letter, we surmise that he is committing an indiscretion. By contrast, when he deciphers the commemorative inscription of a Mesopotamian ruler, he is fulfilling the wishes of the person who commissioned it in antiquity. He is acting in such a way that the ruler's name will not fall into oblivion.
+
+# FIGURE (IMAGES)
+
+[FIG:1] An archaic tablet from Uruk, ca. 3200 (distribution of rations of different sorts of beer). The signs were not yet cut into segments at the time; this writing is therefore customarily called "protocuneiform." (Bolaffi Collection.)
+
+[FIG:2] A copy and a photo of the same text (letter from Mari A.2692). (Courtesy of D. Charpin.)
+
+# BIBLIOGRAPHY
+
+Abraham, K. 2004. Business and Politics under the Persian Empire: The Financial Dealings of Marduk-nasir-apli of the House of Egibi (521-487 B.C.E.). Bethesda, Md.
+Abrahami, P., and L. Coulon. 2008. "De l'usage et de l'archivage des tablettes cuneiformes d'Amarna." In Pantalacci 2008a, 1-26.
+Abusch, T. 2002a. Mesopotamian Witchcraft. Leiden.
+Abusch, T.,ed. 2002b. Riches Hidden in Secret Places: Ancient Near Eastern Studies in Memory of Thorkild Jacobsen. Winona Lake, Ind.
+Abusch, T., and K. van der Toorn, eds. 1999. Mesopotamian Magic: Textual, Historical, and Interpretative Perspectives. Groningen.
+Abusch, T. et al., eds. 2001. Historiography in the Cuneiform World: Proceedings of the XLVe Rencontre Assyriologique Internationale, Part I, Harvard University. Bethesda, Md.
+Al-Jadir, W. 1998. "Decouverte d'une bibliotheque dans le temple de la ville de Sippar (Abu Habbah)." XXXIVe Rencontre assyriologique internationale, 6-10/VII/1987, Istanbul, 707-715 (and pl. 207-213). Ankara.
+Al-Rawi, F. N. H. 1990. "Tablets from the Sippar Library I. The 'Weidner Chronicle': A Supposititious Royal Letter Concerning a Vision." Iraq 52: 1-13 and pl. 1.
+Al-Rawi, F. N. H., and S. Dalley. 2000. Old Babylonian Texts from Private Houses at Abu Habbah Ancient Sippir Baghdad University Excavations. London.
+Al-Rawi, F. N. H., and A. R. George. 1994. "Tablets from the Sippar Library III: Two Royal Counterfeits." Iraq 56: 135-148.
+Alster, B. 1987. "A Note on the Uriah Letter in the Sumerian Sargon Legend." ZA 77: 169-173.
+Alster, B. 1997. Proverbs of Ancient Sumer: The World's Earliest Proverb Collections. Bethesda, Md.
+Alster, B. 2007. Sumerian Proverbs in the Schoyen Collection. Bethesda, Md.
+Anbar, M. 197s. "Textes de l'epoque babylonienne ancienne." RA 69: 109-136.
+Andre-Leicknam, B., and C. Ziegler, eds. 1982. Naissance de I'ecriture. Paris.
+Archi, A. 1992. "Transmission of the Mesopotamian Lexical and Literary Texts." Quaderni di Semitistica 18: 1-40.
+Archi, A. 2003. "Archival Record-Keeeping at Ebla 2400-2350 B.c." In Brosius 20038a, 17-36. 
+Arnaud, D. 1980. "La bibliotheque d'un devin syrien & Meskene-Emar (Syrie)." CRAIBL, 375-388.
+Arnaud, D. 1987a. Textes de la bibliotheque: Transcriptions et traductions, Recherches au pays d'AStata. Emar 6/4. Paris.
+Arnaud, D. 1987b. "La Syrie du Moyen-Euphrate sous le protectorat hittite: Contrats de droit prive." AuOr 5: 211-241.
+Arnaud, D. 2007. Corpus des textes de bibliotheque de Ras Shamra-Ougarit (1936-2000) en sumerien, babylonien et assyrien. Sabadell, Spain. 
+Attia, A. et al., eds. 2009. Advances in Mesopotamian Medicine from Hammurabi to Hippocrates. Leiden. Baker, H. 2003. "Record-Keeping Practices as Revealed by the Neo-Babylonian Private Archival Documents." In Brosius 2003, 241-263. 
+Battini, L. 1996. "La localisation des archives du palais sud-ouest de Ninive." RA 90: 33-40. 
+Bauer, J., R. K. Englund, and M. Krebernik. 1998. Mesopotamien: SpaturukZeit und Friihdynastische Zeit. Freibourg and Gottingen. 
+Bautier, R. H. 1961. "Les archives." In Samaran 1961, 1120-1166. 
+Beaulieu, P. A. 1989. The Reign of Nabonidus King of Babylon 556-539 B.c. New Haven, Conn. 
+Beaulieu, P. A. 1993. "The Historical Background of the Uruk Prophecy." In Cohen et al. 1993, 41-52.
+Beaulieu, P. A. 2000. "The Descendants of Sin-leqi-unninni." In Marzahn et al. 2000, 1-16.
+Beaulieu, P. A. 2006. "The Astronomers of the Esagil Temple in the Fourth Century B.C." In Guinan et al. 2006, 5-22. 
+Beaulieu, P. A. 2007. "Late Babylonian Intellectual Life." In Leick 2007, 473-484. 
+Beckman, G. 1983. "Mesopotamians and Mesopotamian Learning at Hattuea." JCS 35: 97-114. 
+Beckman, G. 1996. Hittite Diplomatic Texts. Atlanta. 
+Beckman, G. et al., eds. 2003. Hittite Studies in Honor of Harry A. Hoffner Jr. on the Occasion of His Sixty-fifth Birthday. Winona Lake, Ind. 
+Behrens, H. et al., eds. 1989. DUMU-E,-DUB-BA-A: Studies in Honor of A. W. Sjeberg. Philadelphia. Bezold, C. 1889-1899. Catalogue of the Cuneiform Tablets in the Kouyunjik Collection of the British Museum. 5 vols. London.
+Biga, M. G. 2003. "The Reconstruction of a Relative Chronology for the Ebla Texts." Orientalia 72: 345-367.
+Biggs,R.D.1973. "Regional Cuneiform Handwritings in Third Millennium Mesopotamia." Orientalia 42: 39-46.
+Birot, M. 1985. "Les chroniques 'assyriennes' de Mari." MARI 4: 219-242.
+Black, J. A., and G. Spada. 2008. Texts from Ur Kept in the Iraq Museum and in the British Museum. Messina.
+Bleibtreu, E. 2003. "Bemerkungen zum Griffel des Tontafelschreibers." In Selz 2003, 1-5.
+Bock, B. 1996. ""Wenn du zu Nintinuga gesprochen hast. . .' Untersuchungen zu Aufbau, Inhalt, Sitz-im-Leben und Funktion sumerischer Gottesbriefe." AoF 23: 3-23.
+Bock, B. 2000. Mesopotamische Morphoskopie. Vienna.
+Bonechi, M. 1992. "Relations amicales syro-palestiniennes: Mari et Hasor au XVIIIe siecle av. J.C." In J.-M. Durand, ed., Florilegium marianum: Recueil d'etudes en l'honneur de M. Fleury, 9-22. Paris.
+Bonneterre, D. 1988. "Pour une etude des dermatoglyphes digitaux sur des tablettes cuneiformes." Akkadica 59: 26-29.
+Bordreuil, P., ed. 1991. Une bibliotheque au sud de la ville: Les textes de la 34e campagne (1973). Paris.
+Borger, R. 1957-1971. "Geheimwissen." RIA 3: 188-191.
+Borger, R. 1990. "Schliissel zu M. E. Cohen, CLAM." BiOr 47: 5-39.
+Borger, R.  1996. Beitriige zum Inschriftenwerk Assurbanipals. Wiesbaden.
+Bottero, J. 1974. "Symptomes, signes, ecritures en Mesopotamie ancienne." In J. P. Vernant et al., Divination et rationalite, 70-197. Paris.
+Bottero, J. 1985. Mythes et rites de Babylone. Geneva.
+Bottero, J. 1987. La Mesopotamie: L'ecriture, la raison et les dieux. Paris. Translated into English by Zainab Bahrani and Marc Van De Mieroop as Mesopotamia: Writing, Reasoning, and the Gods. Chicago, 1992.
+Boyer, G. 1958. Textes juridiques. Paris.
+Brinkman, J. A. 2006. "Babylonian Royal and Land Grants, Memorials of Financial Interest, and Invocation of the Divine." JESHO 49: 1-47.
+Brosius, M., ed. 2003a. Ancient Archives and Archival Traditions. Oxford.
+Brosius, M. 2003b. "Ancient Archives and Concepts of Record-Keeping: An Introduction." In Brosius 2003a, 1-16.
+Brown, D. 2000. Mesopotamian Planetary Astronomy-Astrology. Groningen.
+Buccellati, G. 1993. "Through a Tablet Darkly: A Reconstruction of Old Akkadian Monuments Described in Old Babylonian Copies." In Cohen et al. 1993, 58-71.
+Butler, S. A. L. 1998. Mesopotamian Conceptions of Dreams and Dream Rituals. Miinster.
+Cancik-Kirschbaum, E. 1996. Die Mittelassyrischen Briefe aus Tall SehHamad. Berlin.
+Cancik-Kirschbaum, E., and G. Chambon. 2006. "Les caracteres en forme de coins: Le cas du cuneiforme." RA 100: 13-40.
+Caquot, A., J. M. Tarragon, and J. L. Cunchillos. 1989. Textes ougaritiques tome II: Textes religieux, rituels, correspondance. Paris.
+Cassin, E. 1987. Le semblable et le different: Symbolismes du pouvoir dans le Proche-Orient ancien. Paris.
+Castel, C. 1995. "Contexte archeologique et statut des documents: Les textes retrouves dans les maisons mesopotamiennes du Ier millenaire av. J.C." RA 89: 109-137.
+Cavigneaux, A. 1981. Textes scolaires du temple de Nabi 8a hare. Baghdad.
+Cavigneaux, A.  1982. "Schultexte aus Warka." BaM 13: 21-30.
+Cavigneaux, A. 1996a. "Un colophon de Type Nabi SSa Hare." ASJ 18: 23-30.
+Cavigneaux, A.  1996b. URUK: Altbabylonische Texte aus dem Planquadrat Pe XVI4/5 nach Kopien von Adam Falkenstein. Mainz.
+Cavigneaux, A. 1999a. "Nabu Sa hare und die Kinder von Babylon." In J. Renger, ed., Babylon: Focus mesopotamischer Geschichte, Wiege friiher Gelehrsamkeit, Mythos in der Moderne, 385-391. Saarbriicken.
+Cavigneaux, A. 1999b. "AScholar's Library in Metura? With an Edition of the tablet H 72 (Texts of Tell Haddad VII)." In Abusch and van der Toorn 1999, 251-273.
+Cecen, S., and K. Hecker. 1995. "Ina matika eblum: Zu einem neuen Text zum Wegerecht in der Kiiltepe-Zeit." In Dietrich and Loretz 1995, 31-41. Chamaza, V. 1992. "Syntaxical and Stylistic Observations on the Text of the Eighth Campaign of Sargon II (TCL 3)." SAAB 6: 109-128. 
+Charpin, D. 1980. Archives familiales et propriete privee en Babylonie ancienne: Etude des documents de "Tell Sifr." Geneva.
+Charpin, D.  1983. "Un inventaire general des tresors du palais de Mari." MARI 2: 211-214.
+Charpin, D.  1984. "Nouveaux documents du bureau de I'huile a l'epoque assyrienne." MARI 3: 83-126.
+Charpin, D. 1985a. "Les archives d'epoque 'assyrienne' dans le palais de Mari." MARI 4: 243-268.
+Charpin, D. 1985b. "Les archives du devin Asqudum dans la residence du 'Chantier A." MARI 4: 453-462.
+Charpin, D. 1986a. Le clerge d'Ur au siecle d' Hammurabi (XIXe-XVIIIe siecles av. J.-C.). Geneva.
+Charpin, D. 1986b. "Transmission des titres de propriete et constitution des archives privees en Babylonie ancienne." In Veenhof 1986a, 121-140.
+Charpin, D. 1987. "Nouveaux documents du bureau de l'huile (suite)." MARI 5: 597-599.
+Charpin, D. 1988. "Premiere partie." In Charpin, Joannes, Lackenbacher, and B. Lafont 1988, 7-232.
+Charpin, D. 1989. "Corrections, ratures, annulations: La pratique des scribes mesopotamiens." In R. Laufer, ed., Le texte et son inscription, 57-62. Paris.
+Charpin, D. 1990a. "Les divinites familiales des Babyloniens d'apres les legendes de leurs sceaux-cylindres." In O. Tunca, ed., De la Babylonie a la Syrie, en passant par Mari: Melanges offerts a Monsieur J.-R. Kupper a occasion de son 7oe anniversaire, 59-78. Liege.
+Charpin, D.  1990b. "Une alliance contre |'Elam et le rituel du lipit napistim." In F. Vallat, ed., Contribution a Vhistoire de I'Iran: Melanges offerts a Jean Perrot, 109-118. Paris.
+Charpin, D.  1991. "Un traite entre Zimri-Lim de Mari et Ibal-pi-E] II d'ESnunna." In Charpin and Joannes 1991, 139-166.
+Charpin, D. 1992a. "Les malheurs d'un scribe, ou de l'inutilite du sumerien loin de Nippur." In M. Ellis 1992, 7-27.
+Charpin, D. 1992b. "Les legendes de sceaux de Mari: Nouvelles donnees." In G. Young, ed., Mari in Retrospect, 59-76. Winona Lake, Ind.
+Charpin, D.  1992C/. Review of Frayne 1990. RA 86: 88-91.
+Charpin, D.  1993. "Un souverain ephemere en Ida-Maras: I8me-Addu d'ASnakkum." MARI 7: 165-192.
+Charpin, D.  1994a. "Le sumerien, langue morte parlee." NABU: 6.
+Charpin, D. 1994. "Le sceptre de I'heritier." NABU: 8.
+Charpin, D. 1994c. Review of D. Arnaud, Altbabylonische Rechts- und Verwaltungsurkunde (Berlin, 1989). RA 88: 78-81.
+Charpin, D.  1995. "'Lies natiirlich..." A propos des erreurs de scribes dans les lettres de Mari." In Dietrich and Loretz 1995, 43-56.
+Charpin, D.  1995b. "La fin des archives dans le palais de Mari." RA 89: 29-40.
+Charpin, D.  1995C/. "Centre et peripherie." NABU: 86.
+Charpin, D.  1997a. "Sapiratum, ville du Suhiim." MARI 8: 341-366.
+Charpin, D. 1997b. ""Manger un serment.'" In S. Lafont 1997, 85-96.
+Charpin, D.  1997c. "La version mariote de 'insurrection generale contre NaramSin." In Charpin and Durand 1997, 9-18.
+Charpin, D.  1999-2002. "Sumer III. Ecoles et education." Supplement au Dictionnaire de la Bible 72: 215-226.
+Charpin, D. 2000a. "Lettres et proces paleo-babyloniens." In Joannes 2000, 69-111.
+Charpin, D. 2000b. "Les preteurs et le palais: Les edits de miSarum des rois de Babylone et leurs traces dans les archives privees." In A. C. V. M. Bongenaar, ed., Interdependency of Institutions and Private Entrepreneurs (MOS Studies 2): Proceedings of the Second MOS Symposium (Leiden 1998), 185-211. Leiden.
+Charpin, D. 2001. "Larchivage des tablettes dans le palais de Mari: Nouvelles donnees." In van Soldt 20012, 13-30.
+Charpin, D.  2002a. "Esquisse d'une diplomatique des documents mesopotamiens." Bibliotheque de l'Ecole des chartes 160: 487-511.
+Charpin, D. 2002b. "La commemoration d'actes juridiques: A propos des kudurrus babyloniens." RA 96: 169-191.
+Charpin, D. 2002C. "Prophetes et rois dans le Proche-Orient amorrite: Nouvelles donnees, nouvelles perspectives." In D. Charpin and J.-M. Durand, eds., Florilegium marianum VI: Recueil d'etudes a la memoire d'Andre Parrot, 7-38. Paris.
+Charpin, D. 2002d. "La politique hydraulique des rois paleo-babyloniens." Annales, Histoire, Sciences sociales 57/3: 545-559.
+Charpin, D. 2003. "Le sacrifice de chevres lors d'alliances sous le regne de ZimriLim." NABU: 48.
+Charpin, D. 2004a. "Histoire politique du Proche-Orient amorrite (2002-1595)." In Charpin, Edzard, and Stol 2004, 25-480.
+Charpin, D. 2004b. "Donnees nouvelles sur la region du Petit Zab au XVIIIe siecle av. J.-C." RA 98: 151-178.
+Charpin, D. 2005-2006a. Review of M. P. Streck 2000. AfO 51: 282-292.
+Charpin, D. 2005-2006b. Review of Heimpel 2003. AfO 51: 295-304.
+Charpin, D. 2006a. "Les inscriptions royales sumero-akkadiennes d'epoque paleo-babyloniennes." RA 100: 131-160.
+Charpin, D.  2006b. "Comment faire connaitre la civilisation mesopotamienne." RA 100: 107-130.
+Charpin, D. 20072. "Le 'scribe accroupi' en Mesopotamie." NABU: 61.
+Charpin, D.  2007b. Review of Michalowski and Veldhuis 2006. RA 101: 186.
+Charpin, D. 2007C/. "Les mots et les choses: Girginakku 'bibliotheque.'" NABU: 60.
+Charpin, D.  2008a. "Tell Hariri/ Mari: Textes. II. Les archives de l'epoque amorrite." Supplement au Dictionnaire de la Bible 14: 233-248.
+Charpin, D.  2008b. "Archivage et classification: Un recapitulatif de creances a Mari sous Zimri-Lim." In R. D. Biggs et al., eds., Proceedings of the 51e Rencontre Assyriologique Internationale held at the Oriental Institute of the University of Chicago July 18-22, 2005, 1-13. Chicago.
+Charpin, D. 2010. Writing, Law, and Kingship: Essays on Old Babylonian Mesopotamia. Chicago.
+Charpin, D. Forthcoming a. "Zur Funktion Mesopotamischer Tempel." In G. J. Selz and K. Wagensonner, eds., The Empirical Dimension of Ancient Near Eastern Studies. Minster.
+Charpin, D.  Forthcoming b. "Les formulaires juridiques des contrats de Mari a 'epoque amorrite: Entre tradition babylonienne et innovation." In S. Demare-Lafont and A. Lemaire, eds., Trois millenaires de formulaires juridiques ouest-semitiques, 13-42. Geneva.
+Charpin, D.  Forthcoming c. La correspondance 4 l'epoque amorrite. Ecriture, acheminement et lecture des lettres d'apres les archives royales de Mari.
+Charpin, D.  Forthcoming d. "Guerre et paix dans le monde amorrite et postamorrite." In H. Neumann et al., eds., Krieg und Frieden im Alten Vorderasien. Wiesbaden.
+Charpin, D. Forthcoming e. "Lhistorien face aux archives paleo-babyloniennes." English translation in H. D. Baker et al., eds., Too Much Data? Generalizations and Model-building in Ancient Economic History on the Basis of Large Corpora of Documentary Evidence. Miinster.
+Charpin, D. Forthcoming f. "Lexercice du pouvoir par les rois de la Iere dynastie de Babylone: Problemes de methode." In G. Wilhelm, ed., Organization, Representation and Symbols of Power in the Ancient Near East. Winona Lake, Ind.
+Charpin, D.  Forthcoming g. "Se faire un nom: La louange du roi, la divinisation royale et la quete de l'immortalite en Mesopotamie." RA 102.
+Charpin, D., and D. Beyer. 1990. "Les sceaux de Yasim-stiima." MARI 6: 619-624.
+Charpin, D., and J.-M. Durand. 1981. Documents cuneiformes de Strasbourg conserves a la Bibliotheque Nationale et Universitaire. Vol. 1. Paris.
+Charpin, D. 1985. "La prise du pouvoir par Zimri-Lim." MARI 4: 293-343.
+Charpin, D. 1993. "Notes de lecture: Texte aus dem Sinkasid Palast." MARI 7: 367-375. , 
+Charpin, D. eds. 1994. Florilegium marianum II: Recueil d'etudes a la memoire de Maurice Birot. Paris., 
+Charpin, D. eds. 1997a. Florilegium marianum III: Recueil d'etudes 4 la memoirede Marie-Therese Barrelet. Paris.
+Charpin, D. 1997. "Assur avant l'Assyrie." MARI 8: 367-392.
+Charpin, D. 2001. Mari, Ebla et les Hourrites: Dix ans de travaux. Actes du colloque international (Paris, mai 1993). Deuxieme partie. Paris.
+Charpin, D., D. O. Edzard, and M. Stol. 2004. Mesopotamien: Die altbabylonische Zeit. Freibourg and Gottingen.
+Charpin, D., H. Hunger, and H. Waetzoldt. 2009. "Schreiber (Scribe)." RIA 12: 266-269.
+Charpin, D., and F. Joannes, eds. 1991. Marchands, diplomates et empereurs: Etudes sur la civilisation mesopotamienne offertes 4 Paul Garelli. Paris.
+Charpin, D.1992. La circulation des biens, des personnes et des idees dans le Proche-Orient ancien: Actes de la XXXVIIlIe Rencontre Assyriologique Internationale (Paris, 8-10 juillet 1991). Paris.
+Charpin D., F. Joannes, S. Lackenbacher, and B. Lafont, 1988. Archives Epistolaires de Mari I/2. Paris.
+Charpin, D., and N. Ziegler. 2003. Florilegium marianum V: Mari et le Proche-Orient a l'epoque amorrite: Essai d'histoire politique. Paris.
+Civil, M. 1975. "Lexicography." In S. J. Lieberman, ed., Sumerological Studies in Honor of Thorkild Jacobsen on His Seventieth Birthday, 123-157. Chicago.
+Civil, M.  1979. The Series lu=8a and Related Texts. Rome.
+Civil, M.  1983. "An Early Dynastic School Exercise from Laga'." BiOr 40: 559-566.
+Civil, M. 1985. "Sur les 'livres d'ecolier' 4 l'epoque paleo-babylonienne." In Durand and Kupper 1985, 67-78.
+Civil, M.   1987. "Ur III Bureaucracy: Quantitative Aspects." In M. Gibson and R. D. Biggs, eds., The Organization of Power, 43-54. Chicago.
+Civil, M.  1989. "The Texts from Meskene-Emar." AuOr 7: 5-25.
+Civil, M.   1998. "Bilingual Teaching." In Maul 1998, 1-7.
+Civil, M. 1999-2000. "Reading Gilgame'." In M. Molina et al., eds., Arbor scientiae: Estudios del Preximo Oriente Antiguo dedicados a Gregorio del Olmo Lete con occasien de su 65 aniversario, 179-189. Sabadell, Spain.
+Civil, M. 2008. The Early Dynastic Practical Vocabulary A (Archaic HAR-RA A). Rome.
+Civil, M., O. R. Gurney, and D. Kennedy. 1986. The Sag-Tablet: Lexical Texts in the Asmolean Museum. Middle Babylonian Grammatical Texts. Miscellaneous Texts. Rome.
+Clancier, P. 2005. Les bibliotheques en Babylonie dans la deuxieme moitie du Ter millenaire av. J.-C. Minster.
+Cohen, M. E. 1988. The Canonical Lamentations of Ancient Mesopotamia. Potomac, Md.
+Cohen, M. E. et al., eds. 1993. The Tablet and the Scroll: Near Eastern Studies in Honor of W. W. Hallo. Bethesda, Md.
+Cohen, Y. 2004. "Kidin-Gula--The Foreign Teacher at the Emar Scribal School." RA 98: 81-100.
+Cole, S. W. 1996. The Early Neo-Babylonian Governor's Archive from Nippur. Chicago.
+Cooper, J. S. 2006. "Response for the First Session: Origins, Functions, Adaptation, Survival." In Sanders 2006, 83-87.
+Cooper, J. S., and W. Heimpel. 1983. "The Sumerian Sargon Legend." JAOS 103: 67-82.
+Dain, A. 1961. "Introduction a la paleographie." In Samaran 1961, 528-531.
+D'Alfonso, L., Y. Cohen, and D. Siirenhagen, eds. 2008. The City of Emar among the Late Bronze Age Empires: History, Landscape, and Society. Proceedings of the Konstanz Emar Conference, 25.-26.04.2006. Minster.
+Dalley, S. 1973. "Old Babylonian Greeting Formulae and the IItani's Archive from Rimah." JCS 25: 79-88.
+Dalley, S., C. B. F. Walker, and D. J. Hawkins. 1976. The Old Babylonian Tablets from Tell al Rimah. London.
+Daniels, P. T. 1995a. "The Decipherment of Ancient Near Eastern Scripts." In Sasson 1995, 81-93.
+Daniels, P. T. 1995b. "Cuneiform Calligraphy." In Mattila 1995, 81-90.
+Dassow, E. von. 2009. "Naram-Sin of Uruk: A New King in an Old Shoebox." JCS 61: 63-91.
+Da Riva, R. 2008. The Neo-Babylonian Royal Inscriptions: An Introduction. Miinster.
+Demare[-Lafontl], S. 1987. "Linterpretation de Nb 5,31 4 la lumiere des droits cuneiformes." In J.-M. Durand, ed., La femme dans le Proche-Orient antique: Compte rendu de la XXXIIIe Rencontre Assyriologique Internationale (Paris, 7-10 juillet 1986), 49-52. Paris.
+Dercksen, J. G., ed. 2004. Assyria and Beyond: Studies Presented to Mogens Trolle Larsen. Leiden.
+Dick, M. B., ed. 1999. Born in Heaven, Made on Earth: The Making of the Cult Image in the Ancient Near East. Winona Lake, Ind.
+Dietrich, M. 1990. "Die akkadische Texte der Archive und Bibliotheken von Emar." UF 22: 25-48.
+Dietrich, M.2001. "Babylonische Sklaven auf der Schreiberschule. Anspielungen auf tupsarritu-Lehrvertrage in OIP 114,83 und YOS 19,110." In van Soldt 2001a, 67-81.
+Dietrich, M., and O. Loretz, eds. 1995. Vom Alten Orient zum Alten Testament, Festschrift fiir Wolfram Freiherrn von Soden zum 85. Geburtstag am 19. Juni 1993. Neukirchen.
+Dombradi, E. 1996. Die Darstellung des Rechtsaustrags in den altbabylonischen Prozessurkunden. Stuttgart.
+Donbaz, V., and M. W. Stolper. 1997. Istanbul Murasti Texts. Leiden.
+Dorleijn, G., and H. L. J. Vanstiphout, eds. 2003. Cultural Repertoires: Structure, Function, and Dynamics. Leuven.
+Driver, G. R. 1976. Semitic Writing. 3rd ed. London.
+Durand, J.-M. 1982. "Sumerien et Akkadien en pays amorite, I: Un document juridique archaique de Mari." MARI1: 79-89.
+Durand, J.-M. 1984. "Trois etudes sur Mari." MARI 3: 127-180.
+Durand, J.-M. 1985a. "La situation historique des Sakkanakku: Nouvelle approche." MARI 4: 147-172.
+Durand, J.-M. 1985b. "Les dames du palais de Mari al'epoque du royaume de Haute Mesopotamie." MARI 4: 385-436.
+Durand, J.-M. 1987. "Documents pour histoire du royaume de Haute-Mesopotamie (I)." MARI 5: 155-198.
+Durand, J.-M. 1988a. Archives epistolaires de Mari. Vol. 1. Paris.
+Durand, J.-M. 1988b. "Lecture d'un texte divinatoire babylonien." In A. M. Christin, ed., Espaces de la lecture, 54-59. Paris.
+Durand, J.-M. 1991. "Precurseurs syriens aux protocoles neo-assyriens: Considerations sur la vie politique aux Bords-de-l'Euphrate." In Charpin and Joannes 1991, 13-72.
+Durand, J.-M. 1992. "Unite et diversites au Proche-Orient a P'epoque amorrite." In Charpin and Joannes 1992, 97-128.
+Durand, J.-M. 1997. Les documents epistolaires du palais de Mari. Vol. 1. Paris.
+Durand, J.-M. 1998. Les documents epistolaires du palais de Mari. Vol. 2. Paris.
+Durand, J.-M. 2000. Les documents epistolaires du palais de Mari. Vol. 3. Paris.
+Durand, J.-M. 2000-2001. "Assyriologie." Annuaire du College de France: 693-705.
+Durand, J.-M. 2003. "La conscience du temps et sa commemoration en Mesopotamie: Lexemple de la documentation mariote." Akkadica 124: 1-12.
+Durand, J.-M. 2006. "La lettre de Labarna au roi de Tigunanum, un reexamen." In G. del Olmo Lete et al., eds., Shapal tibnim m& illakt: Studies Presented to Joaquin Sanmartin on the Occasion of His Sixty-fifth Birthday, 219227. Sabadell, Spain.
+Durand, J.-M. 2008. "La religion a l'epoque amorrite d'apres les archives de Mari." In G. del Olmo Lete, ed., Mythologie et Religion des Semites Occidentaux. Vol. 1: Ebla et Mari, 161-716. Leuven.
+Durand, J.-M., and M. Guichard. 1997. "Les rituels de Mari." In Charpin and Durand 19972, 19-78.
+Durand, J.-M., and J. R. Kupper, eds. 1985. Miscellanea babylonica: Melanges offerts a Maurice Birot. Paris.
+Edel, E. 1994. Die dgyptisch-hethitische Korrespondenz aus Boghazkoi in babylonischer und hethitischer Sprache. Opladen.
+Edel, E.1997. Der Vertrag zwischen Ramses II. von Agypten und Hattusili II. von Hatti. Berlin.
+Edzard, D. O. 1976-1980. "Keilschrift." RIA 5: 544-568.
+Edzard, D. O.1997a. "Le developpement de |'ecriture cuneiforme: Le fonctionnement de l'ecriture sumerienne." In Talon and Van Lerberghe1997; 33-39-
+Edzard, D. O.1997b. Gudea and His Dynasty. Toronto.
+Eidem, J. 2000. "Northern Jezira in the Eighteenth Century B.c.: Aspects of Geo-Political Patterns." In O. Rouault and M. Wafler, eds., La Djezire et |'Euphrate syriens de la protohistoire a la fin du He millenaire av. J. C.: Tendances dans l'interpretation historique des donnees nouvelles, 255-264. Turnhout.
+Eidem, J. 2002. "The Clay They Wrote On--Old Babylonian Letters as Artefacts." In L. Al-Gailani Werr et al., eds., Of Pots and Plans: Papers on the Archaeology and History of Mesopotamia and Syria Presented to David Oates in Honour of His Seventy-fifth Birthday, 74-81. London.
+Eidem, J. 2008. "Apum: A Kingdom on the Old Assyrian Route." In Veenhof and Eidem 2008, 265-352.
+Ellis, M. deJong, ed. 1992. Nippur at the Centennial: Papers Read at the 35e Rencontre Assyriologique Internationale, Philadelphia 1988. Philadelphia.
+Ellis, R. S. 1968. Foundation Deposits in Ancient Mesopotamia. New Haven, Conn.
+Elsen-Novak, G., and M. Novak. 2006. "Der 'Kenig der Gerechtigkeit': Zur Ikonologie und Teleologie des 'Codex' Hammurapi." BaM 37: 131-155.
+Englund, R. K. 1998. "Texts from the Late Uruk Period." In Bauer, Englund, and Krebernik 1998, 15-233.
+Eph'al, I., and H. Tadmor. 2006. "Observations on Two Inscriptions of Esarhaddon: Prism Nineveh A and the Letter to the God." In Y. Amit et al., eds., Essays on Ancient Israel in Its Near Eastern Context: A Tribute to Nadav Na'aman, 155-170. Winona Lake, Ind.
+Faivre, X. 1995. "Le recyclage des tablettes cuneiformes." RA 89: 57-66.
+Fales, F. M. 1986. Aramaic Epigraphs on Clay Tablets of the Neo-Assyrian Period. Rome.
+Fales, F. M. 1991. "Narrative and Ideological Variations in the Account of Sargon's Eighth Campaign." In M. Cogan and I. Eph/al, eds., Ah Assyria. ..: Studies in Assyrian History and Ancient Near Eastern Historiography Presented to Hayim Tadmor, 129-147. Jerusalem.
+Fales, F. M. 1999-2001. "Assyrian Royal Inscriptions: Newer Horizons." SAAB 13: 115-144.
+Fales, F. M. 2007. "Multilingualism on Multiple Media in the Neo-Assyrian Period: A Review of the Evidence." SAAB 16: 95-122.
+Fales, F. M., and J. N. Postgate. 1992. Imperial Administrative Records, Part I: Palace and Temple Administration. Helsinki.
+Figulla, H. H. 1953. "Accounts Concerning Allocation of Provisions for Offerings in the Ningal-Temple at Ur." Iraq 15: 88-122 and 171-192.
+Fincke, J. 2003-2004. "The Babylonian Texts of Nineveh: Report on the British Museum's Ashurbanipal Library Project." AfO 50: 111-149.
+Fincke, J. 2006-2007. "Omina, die gettlichen 'Gesetze' der Divination." JEOL 40: 131-147.
+Finet, A. 1969. "Les symboles du cheveu, du bord du vetement et de l'ongle en Mesopotamie." In Eschatologie et Cosmologie, 101-130. Brussels. Finkel, I. L. 1988. "Adad-apla-iddina, Esagil-kin-apli, and the Series SA.
+GIG." In Leichty et al. 1988, 143-159. . 2006. "On an Izbu VII Commentary." In Guinan et al. 2006, 139-148. Fleming, D. 2000. Time at Emar: The Cultic Calendar and the Rituals from the Diviner's House. Winona Lake, Ind.
+Foster, B. R. 1986. "Archives and Empire in Sargonic Mesopotamia." In Veenhof 1986a, 46-52.
+Foster, B. R.1991. "On Authorship in Akkadian Literature." Annali: Rivista del Dipartimento di Studi Asiatici e del Dipartimento di Studi e Ricerche su Africa e Paesia Arabi 51/1: 17-32.
+Foster, B. R.1993. "Letters and Literature: A Ghost's Entreaty." In Cohen et al. 1993, 98-102.
+Foster, B. R.2003. Late Babylonian Schooldays: An Archaizing Cylinder." In Selz 2003,79-87.
+Foster, B. R.2005a. "The Transmission of Knowledge." In D.C.Snell, ed., A Companion to the Ancient Near East, 245-252. Oxford
+Foster, B. R.2005b. "Shuruppak and the Sumerian City State." In L. Kogan et al., eds., Memoriae Igor M. Diakonoff, 71-88. Winona Lake, Ind.
+Foster, B. R.2005C/. Before the Muses: An Anthology of Akkadian Literature. 3rd ed. Bethesda, Md.
+Foster, B. R. 2007. Akkadian Literature of the Late Period. Miinster. 
+Frahm, E. 1997. Einleitung in die Sanherib-Inschriften. Vienna.
+Frahm, E. Forthcoming. Origins of Interpretation. Munster. 
+Frake, C. 1983. "Did Literacy Cause the Great Cognitive Divide?" American Ethnologist 10: 369-371.
+Frame, G., and A. R. George. 2005. "The Royal Libraries of Nineveh: New Evidence for King Ashurbanipal's Tablet Collecting." Iraq 67/1: 265-284.
+Frayne, D. R. 1990. Old Babylonian Period (2003-1595 B.C.). Toronto.
+Freedman, S. M. 1998. Ifa City Is Set on a Height: The Akkadian Omen Series Summa Alu ina Mele Sakin. Vol. 1: Tablets 1-21. Philadelphia.
+Freedman, S. M.2006a. If a City Is Set on a Height: The Akkadian Omen Series Summa Alu ina Mele Sakin. Vol. 2: Tablets 22-40. Philadelphia.
+Freedman, S. M. 2006b. "BM 129092: A Commentary on Snake Omens." In Guinan et al. 2006, 149-166.
+Friberg, J. 1987-1990. "Mathematik." RIA 7: 531-585.
+Fronzaroli, P., and A. Catagnoti. 2003. Testi di cancelleria: I rapporti con le citta. Rome.
+Galter, H. D. 1997. "Assyrische Kenigsinschriften des 2. Jahrtausends v. Chr. Die Entwicklung einer Textgattung." In Waetzoldt and Hauptmann 1997, 53-59
+Garfinkle, S. J. 2004. "Shepherds, Merchants, and Credit: Some Observations on Lending Practices in Ur III Mesopotamia." JESHO 47: 1-30.
+Gasche, H., and L. De Meyer. 2006. "Lieu d'enseignement ou atelier de recyclage de terre a tablettes?" In P. Butterlin et al., eds., Les espaces syromesopotamiens, 361-373. Turnhout.
+Gasche, H. et al., eds. 1994. Cinquante-deux reflexions sur le Proche-Orient ancien offertes en hommage a Leon De Meyer. Ghent.
+Gavrilov, A. K. 1997. "Techniques of Reading in Classical Antiquity." Classical Quarterly 47: 56-73.
+Gelb, I. J. 1977. "Typology of Mesopotamian Seal Inscriptions." In Gibson and Biggs 1977, 107-126.
+Gelb, I. J., P. Steinkeller, and R. M. Whiting. 1991. Earliest Land Tenure Systems in the Near East: Ancient Kudurrus. Chicago.
+Geller, M. J. 1997. "The Last Wedge." ZA 87: 43-95.
+Geller, M. J.2005. Renal and Rectal Disease Texts. Berlin.
+George, A. R. 1986. "Sennacherib and the Tablets of Destiny." Iraq 48: 133-146.
+George, A. R.2003. The Babylonian Gilgamesh Epic: Introduction, Critical Edition, and Cuneiform Texts. Oxford.
+George, A. R. 2003-2004. Review of Gesche 2001. AfO 50: 403-406.
+George, A. R.2005. "In Search of the e.dub.ba.a: The Ancient Mesopotamian School in Literature and Reality." In Y. Sefati et al., eds., "An Experienced Scribe Who Neglects Nothing": Ancient Near Eastern Studies in Honor of Jacob Klein, 127-137. Bethesda, Md.
+George, A. R.2007a. "The Epic of Gilgames: Thoughts on Genre and Meaning." In
+J. Azize and N. Weeks, eds., Gilgames and the World of Assyria, 37-65. Leuven.
+George, A. R.2007b. "Gilgamesh and the Literary Traditions of Ancient Mesopotamia." In Leick 2007, 447-457.
+George, A. R.2007C/. "The Gilgamesh Epic at Ugarit." Aula Orientalis 25/2: 237-254.
+George, A. R., and I. L. Finkel, eds. 2000. Wisdom, Gods, and Literature: Studies in Assyriology in Honour of W. G. Lambert. Winona Lake, Ind.
+Gesche, P. D. 2001. Schulunterricht in Babylonien im ersten Jahrtausend v. Chr. Minster.
+Gibson, M., and R. D. Biggs, eds. 1977. Seals and Sealing in the Ancient Near East. Malibu, Calif.
+Glassner, J. J. 2004. Mesopotamian Chronicles. Atlanta.
+Godard, O. 1990. Le pouvoir de l'ecrit: Aux pays des premieres ecritures. Paris.
+Goddeeris, A. 2002. Economy and Society in Northern Babylonia in the Early Old Babylonian Period (ca. 2000-1800 B.c.). Leuven.
+Goetze, A. 1947. Old Babylonian Omen Texts. New Haven, Conn.
+Gorelick, L., and A. J. Gwinnett. 1990. "The Ancient Near Eastern Cylinder Seal as Social Emblem and Status Symbol." JNES 49: 45-56.
+Gossens, G. 1952. "Introduction a l'archiveconomie de l'Asie Anterieure." RA 46: 98-107.
+Grayson, A. K. 1980. "Histories and Historians of the Ancient Near East: Assyria and Babylonia." Orientalia 49: 140-194.
+Grayson, A. K.1987. Assyrian Rulers of the Third and Second Millennia B.c. (to 1115 B.C.). Toronto.
+Grayson, A. K.1991. Assyrian Rulers of the Early First Millennium B.c. Vol. 1: 1114859. Toronto.
+Grayson, A. K.1996. Assyrian Rulers of the Early First Millennium B.c. Vol. 2: 858745 B.C. Toronto.
+Grayson, A. K. 2000. "Murmuring in Mesopotamia." In George and Finkel 2000, 301-308.
+Green, M.W. 1981. The Construction and Implementation of the Cuneiform Writing System." Visible Language 15/4: 345-372.
+Greengus, S. 1969. "Old Babylonian Marriage Contracts." JAOS 89: 505-532.
+Guichard, M. 1994. "Au pays de la Dame de Nagar." In Charpin and Durand 1994, 235-272.
+Guichard, M. 1997. "Violation du serment et casuistique a Mari." In S. Lafont 1997, 71-84.
+Guichard, M. 1999. "Les mentions de la Crete 4 Mari." In A. Caubet, ed., Lacrobate au taureau: Les decouvertes de Tell el-Dab'a et l'archeologie de la Mediterranee orientale, 165-177. Paris.
+Guichard, M.  2004. "'La malediction de cette tablette est tres dure!' Sur l'ambassade d''Itar-Asda a Babylone en I'an 4 de Zimri-Lim." RA 98: 13-32.
+Guinan, A. K. et al., eds. 2006. Ifa Man Builds a Joyful House: Assyriological Studies in Honor of Erle Verdun Leichty. Leiden.
+Giinbatti, C. 2001. "The River Ordeal in Ancient Anatolia." In van Soldt 20014, 151-160.
+Gurney, O. 1989. Literary and Miscellaneous Texts in the Ashmolean Museum. Oxford.
+Hackl, J. 2007. Der subordinierte Satz in den spatbabylonischen Briefen. Miinster.
+Hagenbuchner, A. 1989. Die Korrespondenz der Hethiter. Heidelberg.
+Hallo, W. W. 1977. "Seals Lost and Found." In Gibson and Biggs 1977, 55-60.
+Hallo, W. W.2002. "A Model Court Case Concerning Inheritance." In Abusch 2002b, 141-154.
+Hallo, W. W., and I. J. Winter, eds. 2001. Seals and Seal Impressions: Proceedings of the XLVe Rencontre Assyriologique Internationale, Part II, Yale University. Bethesda, Md.
+Harper, R.F. 1892-1914. Assyrian and Babylonian Letters Belonging to the Kouyounjik Collection of the British Museum. London
+Hattori, A. 2001. "Seal Practices in Ur III Nippur." In Hallo and Winter 2001, 71-99.
+Heesel, N. P. 2000. Babylonisch-assyrische Diagnostik. Minster.
+Heimpel, W. 2003. Letters to the King of Mari: A New Translation, with Historical Introduction, Notes, and Commentary. Winona Lake, Ind.
+Hilprecht, H. V. 1910. "The Earliest Version of the Babylonian Deluge Story and the Temple Library of Nippur. Philadelphia.
+Horowitz, W., and N. Wasserman. 2004. "From Hazor to Mariand Ekallatum: A Recently Discovered Old-Babylonian Letter from Hazor." In C. Nicolle, ed., Nomades et sedentaires dans le Proche-Orient ancien: Compte rendu de la XLVIe Rencontre Assyriologique Internationale, Paris, 10-13 juillet 2000, 335-344. Paris.
+Horsnell, M. J. A. 1999. The Year Names of the First Dynasty of Babylon. 2 vols. Hamilton, Ontario.
+Horsnell, M. J. A..2004. "On the Use of Year Names in Reconstructing the History of the First Dynasty of Babylon." In G. Frame, ed., From the Upper Sea to the Lower Sea: Studies on History of Assyria and Babylonia in Honor of A. K. Grayson, 165-186. Leiden.
+Howard, M. 1955. "Technical Description of the Ivory Writing-Boards from Nimrud." Iraq 17: 14-20.
+Huber, F. 2001. "La correspondance royale d'Ur, un corpus apocryphe." ZA 91: 169-206.
+Hunger, H. 1968. Babylonische und assyrische Kolophone. Neukirchen.
+Hunger, H. 1976. Spiitbabylonische Texte aus Uruk. Vol. 1. Berlin.
+Huot, J. L., ed. 1987. Larsa 10e campagne, 1983 et 'Oueili 4e campagne, 1983: Rapport preliminaire. Paris.
+Ichisar, M. 1981. Les archives cappadociennes du marchand Imdilum. Paris.
+Ikeda, J. 1999. "Scribes in Emar." In K. Watanabe, ed., Priests and Officials in the Ancient Near East, 163-186. Heidelberg.
+Janssen, C. 1991. "Samsu-iluna and the Hungry naditums." NAPR 5: 3-40.
+Janssen, C.  1992. "Inanna-mansum et ses fils: Relation d'une succession turbulente dans les archives d'Ur-Utu." RA 86: 19-52.
+Janssen, C.  1996. "When the House Is on Fire and the Children Are Gone." In K. R. Veenhof, ed., Houses and Households in Ancient Mesopotamia: Papers Read at the 40e Rencontre Assyriologique Internationale, Leiden, July 5-8, 1993, 237-246. Leiden.
+Jeyes, U. 1997. "Assurbanipal's bariitu." In Waetzoldt and Hauptmann 1997, 61-65.
+Joannes, F. 1984. "Chapitre II: Textes nos. 91 4 245." In G. Bardet et al., Archives administratives de Mari, 1:83-226. Paris.
+Joannes, F.1985. "Nouveaux memorandums." In Durand and Kupper 1985, 97-113.
+Joannes, F.1990. Les tablettes neo-babyloniennes de la Bodleian Library conservees a l'Ashmolean Museum. Oxford.
+Joannes, F.1992. "Les archives de Ninurta-ahhe-bullit." In M. Ellis 1992, 87-100.
+Joannes, F.1994. "Un precurseur paleo-babylonien de la serie Summa alu." In Gasche et al. 1994, 305-312.
+Joannes, F.ed. 1995. Les phenomeenes de fin d'archives en Mesopotamie. RA 89.
+Joannes, F.1997. "Palmyre et les routes du desert au debut du deuxieme millenaire av. J.-C." MARI 8: 393-416.
+Joannes, F. ed. 2000. Rendre la justice en Mesopotamie. Paris.
+Jonker, G. 1995. The Topography of Remembrance: The Dead, Tradition, and Collective Memory in Mesopotamia. Leiden.
+Jursa, M. 1997. "'Als Konig Abi-eSuh gerechte Ordnung hergestellt hat': Eine bemerkenswerte altbabylonische Prozessurkunde." RA 91: 135-145.
+Jursa, M. 1999. Das Archiv des Bel-remanni. Leiden.
+Jursa, M.  2005. Neo-Babylonian Legal and Administrative Documents: Typology, Contents, and Archives. Miinster.
+Kataja, L. 1987. "A Neo-Assyrian Document on Two Cases of River Ordeal." SAAB 1: 65-68.
+Kessler, K. 1980. Untersuchungen zur historischen Topographie Nordmesopotamiens nach keilschriftlichen Quellen des 1. Jahrtausends v. Chr. Wiesbaden.
+Kestemont, G. 1974. Diplomatique et droit international en Asie occidentale, 1600-1200 av. J. C. Louvain-la-Neuve.
+Kienast, B. 1996. "Miindlichkeit und Schriftlichtkeit im keilschriftlichen Rechtswesen." Zeitschrift fiir Altorientalische und Biblische Rechtsgeschichte 2: 114-130.
+Kienast, B., and K. Volk. 1995. Die sumerischen und akkadischen Briefe des III. Jahrtausends aus der Zeit vor der III. Dynastie von Ur. Stuttgart.
+Kilmer, A. D. 1974. "Symbolic Gestures in Akkadian Contracts from Alalakh." JAOS 94: 177-183.
+King, L. W. 1914. Supplement to the Catalogue of the Cuneiform Tablets in the Kouyunjik Collection of the British Museum. London.
+Kitz, A. M. 2004. "An Oath, Its Curse and Anointing Ritual." JAOS 124: 315-322.
+Klein, J. 1986. "On Writing Monumental Inscriptions in Ur III Scribal Curriculum." RA 89: 1-7.
+Klein, J.2000. "The Original Development of Language on Earth: The Sumerian versus the Biblical View." In S. Graziani, ed., Studi sul Vicino Oriente dedicati alla memoria di Luigi Cagni, 563-584. Naples. Klein, J., and T. Sharlach. 2007. "A Collection of Model Court Cases from Old Babylonian Nippur (CBS 11324)." ZA 97: 1-25. 
+Klengel, H. 1968. "Eine altbabylonische Verlustanzeige." Orientalia 37: 216-219.
+Klengel, H. 1994. "Richter Sippars in der Zeit des Ammisaduqa: Ein neuer Text." In H. Gasche, M. Tanret, C. Janssen, and A. Degraeve, eds., Cinquantedeux reflexions sur le Proche-Orient ancien offertes en hommage a Leon De Meyer, 169-174. Louvain, 1994.
+Klinger, J. 2003. "Zur Palaographie akkadischsprachiger Texte aus HattuSa." In Beckman et al. 2003, 237-248.
+Koch, U. S. 2005. Secrets of Extispicy: The Chapter Multabiltu of the Babylonian Extispicy Series and Nisirti baruti Texts Mainly from Assurbanipal's Library. Munster.
+Koppen, F. van. 2002. "Redeeming a Father's Seal." In C. Wunsch, ed., Mining the Archives: Festschrift for Christopher Walker on the Occasion of His Sixtieth Birthday, 147-172. Dresden.
+Kraus, F. R. 1973. Vom mesopotamischen Menschen der altbabylonischen Zeit und seiner Welt. Amsterdam.
+Kraus, F. R. 1985a. "Altbabylonische Briefe mit Siegelabrollungen." In Durand and Kupper 1985, 137-145.
+Kraus, F. R. 1985b. "Eine altbabylonische Buchhaltung aus einem Amtsarchiv in Nippur." BiOr 42: 526-542.
+Krebernik, M. 2001. Tall Bi'a/Tuttul. Vol. 2: Die altorientalischen Schriftfunde. Saarbriicken.
+Kryszat, G. 2008. "The Use of Writing among the Anatolians." In J. G. Dercksen, ed., Anatolia and the Jazira during the Old Assyrian Period, 231-238. Leiden.
+Labat, R. 1988 [1948]. Manuel d'epigraphie akkadienne (signes, syllabaires, ideogrammes), edited and corrected by F. Malbran-Labat. 6th rev. ed. Paris.
+Lackenbacher, S. 1990. Le palais sans rival: Le recit de construction en Assyrie. Paris.
+Lackenbacher, S. 2002. Textes akkadiens d'Ugarit: Textes provenant des vingt-cing premieres campagnes. Paris.
+Lafont, B. 1990. "Nouvelles lettres du temps des rois d'Ur." RA 84: 165-169.
+Lafont, B.  1992. "Messagers et ambassadeurs dans les archives de Mari." In Charpin and Joannes 1992, 167-183.
+Lafont, B. 1997. "Le fonctionnement de la poste et le metier de facteur d'apres les textes de Mari." In Young et al. 1997, 315-334- . 2000. "Les textes judiciaires sumeriens." In Joannes 2000, 35-68.
+Lafont, B.  2001. "Relations internationales, alliances et diplomatie au temps des rois de Mari." In Charpin and Durand 2001, 213-328.
+Lafont, S., ed. 1997. Jurer et maudire: Pratiques politiques et usages juridiques du serment dans le Proche-Orient ancien. Paris.
+Lafont, B. 1999. Femmes, droit et justice dans l'Antiquite orientale: Contribution a l'etude du droit penal au Proche-Orient ancien. Fribourg and Gottingen.
+Lambert, W. G. 1957. "Ancestors, Authors, and Canonicity." JCS 11: 1-14.
+Lambert, W. G. 1960. Babylonian Wisdom Literature. Oxford.
+Lambert, W. G. 1962. "A Catalogue of Texts and Authors." JCS 16: 59-77.
+Lambert, W. G. 1967. "Enmeduranki and Related Matters." JCS 21: 126-138.
+Lambert, W. G. 1989. "The Laws of Hammurabi in the First Millennium." In M. Lebeau and P. Talon, eds., Reflets des deux fleuves, volume de melanges offerts a Andre Finet, 95-98. Leuven.
+Lambert, W. G.1992. Catalogue of the Cuneiform Tablets in the Kouyunjik Collection of the British Museum: Third Supplement. London.
+Lambert, W. G.1999-2000. "Literary Texts from Nimrud." AfO 46-47: 149-155.
+Lambert, W. G. 2007. Babylonian Oracle Questions. Winona Lake, Ind.
+Lambert, W. G., and A. L. Millard. 1968. Second Supplement to Catalogue of the Cuneiform Tablets in the Kouyunjik Collection of the British Museum. London.
+Landsberger, B. 1937. Die Serie ana ittisu. Rome.
+Landsberger, B.1960. "Scribal Concept of Education" In C.H. Kraeling and R.M. Adams, eds., City Invincible, 94-123. Chicago. 
+Larsen, M. T. 1976. The Old-Assyrian City-State and Its Colonies. Copenhagen.
+Larsen, M. T. 1987. "The Babylonian Lukewarm Mind: Reflections on Science, Divination, and Literacy." In Rochberg-Halton 1987, 203-226.
+Larsen, M. T. 1988. "The Role of Writing and Literacy in the Development of Social and Political Power: Literacy and Social Complexity." In J. Gledhill etal., eds., State and Society: The Emergence and Development of Social Hierarchy and Political Centralization, 173-191. London. 
+Larsen, M. T.1989. "What they Wrote on Clay" In K. Schousboe and M. T. Larsen, eds., Literacy and Society, 121-148. Copenhagen.
+Larsen, M. T.1996. The Conquest of Assyria: Excavations in an Antique Land, 1840-1860. London.
+Leemans, W. F. 1960. Foreign Trade in the Old Babylonian Period. Leiden.
+Leemans, W. F.1982. "La fonction des sceaux apposes a des contrats vieuxbabyloniens." In van Driel et al. 1982, 219-244.
+Leemans, W. F. 1991. "Textes paleo-babyloniens commengant par une liste de personnes." In Charpin and Joannes 1991, 307-332.
+Leichty, E. V. 1970. The Omen Series Summa Izbu. New York.
+Leichty, E. V. et al., eds. 1988. A Scientific Humanist: Studies in Memory of Abraham Sachs. Philadelphia.
+Leick, G., ed. 2007. The Babylonian World. New York.
+Leiderer, R. 1990. Anatomie der Schafsleber im babylonischen Leberorakel: Eine makroskopisch-analytische Studie. Munich.
+Lemaire, A. 2001. Nouvelles tablettes arameennes. Geneva.
+Lenzi, A. 2008. Secrecy and the Gods: Secret Knowledge in Ancient Mesopotamia and Biblical Israel. Helsinki.
+Lieberman, S. J. 1990. "Canonical and Official Cuneiform Texts: Towards an Understanding of Assurbanipal's Personal Tablet Collection." In T. Abusch et al., eds., Lingering over Words: Studies in Ancient Near Eastern Literature in Honor of William L. Moran, 305-336. Atlanta.
+Lieberman, S. J. 1992. "Nippur: City of Decisions." In M. Ellis 1992, 127-136.
+Linssen, M. J. H. 2003. The Cults of Uruk and Babylon: The Temple Ritual Texts as Evidence for Hellenistic Cult Practices. Leiden.
+Lion, B. 2001a. "Dame Inanna-ama-mu, scribe a Sippar." RA 95: 7-32.
+Lion, B.,2001b. "Les gouverneurs provinciaux du royaume de Maria Pepoque de Zimri-Lim." In Charpin and Durand 2001, 141-210.
+Lion, B., and E. Robson. 2005. "Quelques textes scolaires paleo-babyloniens rediges par des femmes." JCS 57: 37-54.
+Liverani, M. 1973. "Memorandum on the Approach to Historiographic Texts." Orientalia 42: 178-194.
+Liverani, M. 2001. "Mesopotamian Historiography and the Amarna Letters." In Abusch et al. 2001, 303-311.
+Livingstone, A. 1999. "The Magic of Time." In Abusch and van der Toorn 1999, 131-138.
+Livingstone, A. 2007. "Ashurbanipal: Literate or Not?" ZA 97: 98-118.
+Loud, G., and C. B. Altman. 1938. Khorsabad, Part 2: The Citadel and the Town.Chicago
+Lucas, C.J. 1979 "The Scribal Tablet-House in Ancient Mesopotamia." History of Education Quarterly 19/3: 305-332.
+Luckenbill, D. D. 1924. Inscriptions of Sennacherib. Chicago.
+Ludwig, M. C. 1990. Untersuchungen zu den Hymnen des Iime-Dagan von Isin. Wiesbaden.
+Luukko, M. 2007. "The Administrative Roles of the 'Chief Scribe' and the "Palace Scribe' in the Neo-Assyrian Period." SAAB 16: 227-256.
+Luukko, M., and G. Van Buylaere. 2002. The Political Correspondence of EsTemple Administration at Sippar." Iraq 64: 217-236.
+Machinist, P., and H. Tadmor. 1993. "Heavenly Wisdom." In Cohen et al. 1993, 146-151.
+Malbran-Labat, F. 1995. Les inscriptions royales de Suse: Briques de l'epoque paleo-elamite a l'Empire neo-elamite. Paris.
+Marazzi, M. 1994. "Ma gli Hittiti scriverano veramente su 'legno?'" In P. Cipriano and P. di Giovine, eds., Miscellanea di studi linguistici in onore di Walter Berlardi, 131-160. Rome.
+Margueron, J. 1982. Recherches sur les palais mesopotamiens a l''Age du Bronze. Paris.
+Margueron, J.1986. "Quelques remarques concernant les archives retrouvees dansle palais de Mari." In Veenhof 1986a, 141-152.
+Margueron, J. 1995. "Notes d'archeologie et d'architecture orientales 7.--Feu le four a tablettes de l'ex 'cour V' du palais d'Ugarit." Syria 72: 55-69.
+Marzahn, J., H. Neumann, and A. Fuchs, eds. 2000. Assyriologica et Semitica: Festschrift fiir Joachim Oelsner anlaflich seines 65. Geburtstages am 18. Februar 1997. Miinster.
+Matthiae, P. 1986. "The Archives of the Royal Palace G of Ebla: Distribution and Arrangement of the Tablets according to the Archaeological Evidence." In Veenhof 1986a, 53-71.
+Matthiae, P. 2008. Gli Archivi Reali di Ebla: La scoperta, i testi, il significato. Milan.
+Mattila, R., ed. 1995. Nineveh 612 b.c.: The Glory and Fall of the Assyrian Empire. Helsinki.
+Maul, S. M. 1991. Review of Gurney 1989. BiOr 48: 852-860.
+Maul, S. M. 1994a. "Die Korrespondenz des Iasim-Sime: Ein Nachtrag zu ARMT XIII 25-57." In Charpin and Durand 1994, 23-54.
+Maul, S. M. 1994b. Zukunftsbewdiltigung: Eine Untersuchung altorientalischen Denkens anhand der babylonisch-assyrischen Leserituale (Namburbi).Mainz.
+Maul, S. M. ed. 1998. Festschrift fiir Rykle Borger zu seinem 65. Geburtstag am 24. Mai 1994 tikip santakki mala basmu . . . Groningen.
+Maul, S. M. 1999. "How the Babylonians Protected Themselves against Calamities Announced by Omens." In Abusch and van der Toorn 1999, 123-130.
+Maul, S. M. 2003a. "Omina und Orakel." RIA 10: 45-88.
+Maul, S. M.  2003b. "Die Reste einer mittelassyrischen Beschworerbibliothek aus dem K6nigspalast zu Assur." In Sallaberger et al. 2003, 181-194.
+Maul, S. M.  2003c. "Wie die Bibliothek eines Assyrischen Gelehrten wiederersteht." In J. Marzahn and B. Salje, eds., Wiedererstehendes Assur: 100 Jahre deutsche Ausgrabungen in Assyrien, 175-182. Mainz.
+Maul, S. M. 2005. "Nos 2-18: Bilingual (Sumero-Akkadian) Hymns from the Seleucid-Arsacid Period." In I. Spar and W. G. Lambert, eds., Literary and Scholastic Texts of the First Millennium b.c., 11-116. Turnhout.
+Meijer, D. J. W. 2004. "A Scribal Quarter?" In Dercksen 2004, 387-393.
+Metman, Y. 1961. "Sigillographie." In Samaran 1961, 393-446.
+Michalowski, P. 1981. "K6enigsbriefe." RIA 6: 51-59.
+Michalowski, P.  1983. Review of L. Cagni, Briefe aus dem Iraq Museum (TIM II) (Leiden, 1980). JCS 35: 221-228.
+Michalowski, P.  1993. Letters from Early Mesopotamia. Atlanta.
+Michalowski, P.  1994a. "Writing and Literacy in Early States: A Mesopotamian Perspective." In D. Keller-Cohen, ed., Literacy: Interdisciplinary Conversations, 49-70. Cresskill, N.J.
+Michalowski, P. 1994b. "The Drinking of Gods: Alcohol in Mesopotamian Ritual and Mythology." In L. Milano, ed., Drinking in Ancient Society: History and Culture of Drinks in the Ancient Near East. Papers of a Symposium Held in Rome, May 17-19, 1990, 27-44. Padua.
+Michalowski, P. 2003. "The Libraries of Babel: Text, Authority, and Tradition in Ancient Mesopotamia." In Dorleijn and Vanstiphout 2003, 105-129.
+Michalowski, P. 2006. "The Lives of the Sumerian Language." In Sanders 2006, 159-184.
+Michalowski, P. Forthcoming. Royal Correspondence of Ur.
+Michalowski, P., and N. Veldhuis, eds. 2006. Approaches to Sumerian Literature: Studies in Honour of Stip (H. L. J. Vanstiphout). Leiden.
+Michel, C. 2001. Correspondance des marchands de Kanish. Paris. 
+Michel, C. 2008. "La correspondance des marchands assyriens du XIXe s. av. J.-C. De l'archivage des lettres commerciales et privees." In Pantalacci 2008a, 117-140.
+Miller, J. 2001. "Hattusili I's Expansion into Northern Syria in Light of the Tikunani Letter." In G. Wilhelm, ed., Akten des IV. Internationalen Kongresses fiir Hethitologie Wiirzburg, 4.-8. Oktober 1999, 410-429. Wiesbaden.
+Mittermayer, C. 2006. Altbabylonische Zeichenliste der sumerisch-literarischen Texte. Fribourg and Gottingen.
+Mora, C., and M. Giorgieri. 2004. Le lettere tra i re ittiti e i re assiri ritrovate HattuSa. Padua.
+Moran, W. L. 1992. The Amarna Letters. Baltimore.
+Moran, W. L. 2003. Amarna Studies: Collected Writings. Winona Lake, Ind.
+Morandi, D. 1988. "Stele e statue reali assire: Localizzazione, diffusione, e implicazioni ideologiche." Mesopotamia 23: 105-155.
+Negri Scafa, P. 1999. "The Scribes of Nuzi." SCCNH 10: 63-80.
+Nissen, H. J., P. Damerow, and R. K. Englund. 1993. Archaic Bookkeeping: Writing and Techniques of Economic Administration in the Ancient Near East. Chicago.
+Nougayrol, J. 1955. Textes accadiens et hourrites des archives est, ouest et centrales, Paris.
+Nougayrol, J. 1956. Textes accadiens des archives sud (Archives internationales). Paris.
+Oettinger, N. 1976. Die Militerischen Eide der Hethiter. Wiesbaden.
+Offner, G. 1950. "A propos de la sauvegarde des tablettes en Assyro-Babylonie." RA 44: 135-143.
+Oppenheim, A. L. 1960. "The City of Assur in 714 B.c." JNES 19: 133-147.
+Oppenheim, A. L.1964. Ancient Mesopotamia: Portrait of a Dead Civilization. Chicago (rev. ed. 1977).
+Otten, H. 1988. Die Bronzetafel aus Bogazkey: Ein Staatsvertrag Tuhalijas IV. Wiesbaden.
+Ouy, G. 1961. "Les bibliotheques." In Samaran 1961, 1061-1119.
+Palaima, T. 2003. "'Archives' and 'Scribes' and Information Hierarchy in Mycenian Greek Linear B Records." In Brosius 2003a, 153-194.
+Pantalacci, L., ed. 2008a. La lettre d'archive. Cairo.
+Pantalacci, L.2008b. "Archivage et scribes dans l'oasis de Dakhla (Egypte) a la fin du IIe millenaire." In Pantalacci 2008a, 141-153.
+Parpola, S. 1983. "Assyrian Library Record." JNES 42: 1-29.
+Parpola, S. 1986. "The Royal Archives of Nineveh." In Veenhof 1986a, 223-236. 
+Parpola, S.  1987. "The Forlorn Scholar" In Rochberg-Halton 1987, 257-278.
+Parpola, S.  ed. 1987-2003. State Archives of Assyria. 18 vols. Helsinki.
+Parpola, S. 1993a. Letters from Assyrian and Babylonian Scholars. Helsinki.
+Parpola, S.  1993b. "Mesopotamian Astrology and Astronomy as Domains of Mesopotamian 'Wisdom.'" In H. D. Galter, ed., Die Rolle der Astronomie in den Kulturen Mesopotamiens, 47-59. Graz.
+Parpola, S. 1995. "The Imperial Archives of Nineveh." In Mattila 1 15-25.
+Parpola, S.  1997. " The Man without a Scribe and the Question of Literacy in the Assyrian Empire." In B. Pongratz-Leisten et al., eds., Ana Sadi Labnani lu allik: Beitrage zu altorientalischen und mittelmeerischen Kulturen. Festschrift fur Wolfgang Rollig, 315-324. Neukirchen.
+Parpola, S., and K. Watanabe. 1988. Neo-Assyrian Treaties and Loyalty Oaths. Helsinki.
+Parrot, A. 1954. "Les fouilles de Mari: Neuvitme campagne (automne 1953)." Syria 31: 151-171.
+Pearce, L. E. 1998. "Babylonian Commentaries and Intellectual Innovation." In J. Prosecky, ed., Intellectual Life of the Ancient Near East: Papers Presented at the 43e Rencontre assyriologique internationale, Prague, July 1-5, 1996, 331-338. Prague.
+Pedersen, O. 1985-1986. Archives and Libraries in the City of Assur: A Survey of the Material from the German Excavations. 2 vols. Uppsala.
+Pedersen, O. 1998. Archives and Libraries in the Ancient Near East 1500-300 b.c. Bethesda, Md.
+Pedersen, O. 2005. Archive und Bibliothek in Babylon: Die Tontafeln der Grabung Robert Koldeweys 1899-1917. Saarwellingen.
+Poebel, A. 1909. Babylonian Legal and Business Documents from the Time of the First Dynasty of Babylon Chiefly from Babylonian Nippur. Philadelphia.
+Pomponio, F. 1983. "'Archives' and the Prosopography of Fara." ASJ 5: 127-145.
+Pongratz-Leisten, B. 1999. Herrschaftswissen in Mesopotamien: Formen der Kommunikation zwischen Gott und Kenig im 2. und 1. Jahrtausend v. Chr. Helsinki.
+Postgate, J. N. 1976. Fifty Neo-Assyrian Legal Documents. Warminster.
+Postgate, J. N.1986a."Middle Assyrian Tablets: The Instruments of Bureaucracy." AOF 13: 10-39.
+Postgate, J. N.1986b. "Administrative Archives from the City of Assur in the Middle Assyrian Period." In Veenhof 1986a, 168-183.
+Postgate, J. N. 2003. "Documents in Government under the Middle Assyrian Kingdom." In Brosius 20038, 124-138. Potts, D. T. 1990. "Lock and Key in Ancient Mesopotamia." Mesopotamia 25: Rt A
+Powell, M.A. 1981. "Three Problems in the History of Cuneiform Writing: Origins, Direction of Script, Literacy." Visible Language 15/4: 419-440.
+Powell, M.A. 1991. "Naram-Sin, Son of Sargon: Ancient History, Famous Names, and a Famous Babylonian Forgery." ZA 81: 20-30.
+Prang, E. 1981. "Sonderbestimmungen in altbabylonischen Erbteilungsurkunden aus Nippur." ZA 70: 36-51.
+Radner, K. 1995. "The Relation between Format and Content of Neo-Assyrian Texts." In Mattila 1995, 63-77.
+Radner, K. 2005. Die Macht des Namens: Altorientalische Strategien zur Selbsterhaltung. Wiesbaden. 
+Reade, J. 1986. "Archaeology and the Kuyunjik Archives." In Veenhof 1986a, 213-222.
+Reade, J. 1998-2001. "Ninive (Niniveh)." RIA 9: 388-433.
+Reiner, E. 1960. "Plague Amulets and House Blessings." JNES 19: 148-155.
+Reiner, E. 1961. "The Etiological Myth of the 'Seven Sages.'" Orientalia 30: 1-11.
+Reiner, E. 2004. "Runaway--Seize Him." In Dercksen 2004, 475-482.
+Reiner, E.  2005. Babylonian Planetary Omens. Part Four. Leiden.
+Renger, J. 1971. "Uberlegungen zum akkadischen Syllabar." ZA 61: 23-43.
+Richardson, S. 2006. "gir,-gen-na and Sulgi's 'Library': Liver Omen Texts in the Third Millennium B.c. (I)." CDLJ 3: 1-9.
+Richter, T. 2005. "Qatna in the Late Bronze Age: Preliminary Remarks." SCCNH 15: 109-126.
+Robson, E.1999. "Mesopotamian Mathematics, 2100-1600 b.c.: Technical Constant in Bureaucracy and Education. Oxford.
+Robson, E.2001."The Tablet House: A Scribal School in Old Babylonian Nippur" RA 95: 39-66.
+Robson, E. 2008." Mathematic in Ancient Iraq: A Social History. Princeton.Rochberg(-Halton), F. 1984. "Canonicity in Cuneiform Texts"  JCS 36: 127-144. 
+Robson, E. Ed. 1987 "Language,Literature and History: Philological and Historical Studies Presented to Erica Reiner. New Haven, Conn. 
+Robson, E.2000. " Scribes and Scholars: The tupsar Enuma Anu Enlil"  In Marzahn et al. 2000, 359-375.
+Robson, E. 2004. The Heavenly Writing: Divination, Horoscopy, and Astronomy in Mesopotamian Culture. Cambridge, Mass.
+Robson, E.2006. "Old Babylonian Celestial Divination." In Guinan et al. 2006, 337-348. Leiden.
+Roth, M. 1995. Law Collections from Mesopotamia and Asia Minor. Atlanta.
+Rubio, G. 2000 [2005]. "On the Orthography of Sumerian Literary Texts from the Ur-III Period." ASJ 22: 203-225.
+Rubio, G.2006. "Sulgi and the Death of Sumerian." In Michalowski and Veldhuis 2006, 167-179.
+Russell, J. M. 1999. The Writing on the Wall: Studies in the Architectural Context of Late Assyrian Palace Inscriptions. Winona Lake, Ind.
+Riister, C. 1972. Hethitische Keilschrift-Paldographie. Wiesbaden.
+Riister, C., and E. Neu. 1975. Hethitische Keilschrift-Paldographie II (14./13. Jh. v. Chr.). Wiesbaden.
+Sachs, A. 1976. "The Latest Datable Cuneiform Tablets." In B. L. Eichler, ed., Kramer Anniversary Volume: Cuneiform Studies in Honor of Samuel Noah Kramer, es Neukirchen.
+Saggs, H.W.F.1981. "The Reed Stylus" Summer 37: 127-128.
+Sallaberger, W. 1996. "Zu einigen Jahresdaten Enlil-banis von Isin." ZA 86: 177-191.
+Sallaberger, W. 1999. "Wenn Du mein Bruder bist... :" Interaktion und Textgestaltung in altbabylonischen Alltagsbriefen. Groningen.
+Sallaberger, W. 2001. "Die Entwicklung der Keilschrift in Ebla." In J. W. Meyer et al.,eds., Beitriige zur Vorderasiatischen Archeologie Winfried Orthman gewidmet, 436-445. Frankfurt.
+Sallaberger, W. 2004. "Das Ende des Sumerischen: Tod und Nachleben einer altmesopotamischen Sprache." In P. Schrijver and P. A. Mumm, eds.,
+Sprachtod und Sprachgeburt, 108-140. Bremen.
+Sallaberger, W. 2008. Das Gilgamesh-Epos: Mythos, Werk und Tradition. Munich.
+Sallaberger, W. et al., eds. 2003. Literatur, Politik und Recht in Mesopotamien: Festschrift fiir Claus Wilcke. Wiesbaden.
+Salvini, M. 1994. "Una lettera di Hattusili I relativa alla spedizione contro Hahhum." SMEA 34: 61-80.
+Samaran, C., ed.1961 LHistoire et ses methodes. Paris.
+Sanders, S., ed. 2006. Margins of writing, Origins of Culture: New approaches to Writing and Reading in the Ancient Near East. Chicago.
+San Nicold, M. 1922. Die Schlussklauseln der altbabylonischen Kauf- und Tauschvertrege. Munich. Second rev. ed. with foreword, notes, and addenda by H. Petschow. Munich. 1974.
+Sassan, J.M. 1981. "On Idrimi and Sarruwa, The Scribe." SCCNH 1:309-324.
+Sassan, J.M. 1982, "Accounting Discrepancies in the Mari NI.GUB [NIG.DU] Texts." In van Driel et al. 1982, 326-341.
+Sassan, J.M. 1988. "Shunukhra-Khalu." In Leichty et al. 1988, 329-351.
+Sassan, J.M. 1995. "Water beneath Straw: Adventures of a Prophetic Phrase in the Mari Archives." In Z. Zevit et al., eds., Solving Riddles and Untying Knots: Biblical, Epigraphic, and Semitic Studies in Honor of Jonas C. Greenfield, 599-608. Winona Lake, Ind.
+Sassan, J.M. 1997. "The Vow of Mutiya, King of Shekhna." In Young et al. 1997, 475-490.
+Sassan, J.M.1998. "The King and I: A Mari King in Changing Perception." JAOS 118: 453-470.
+Sassan, J.M. 2002. "The Burden of Scribes." In Abusch 2002b, 211-228.
+Sasson, J. M. et al., eds. 1995. Civilizations of the Ancient Near East. New York.
+Schaudig, H. 2002. Die Inschriften Nabonids von Babylon und Kyros' des Grossen... Miinster.
+Schaudig, H. 2003. "Nabonid, der 'Archdologe auf dem Kenigsthron': Zum Geschichtsbild des ausgehenden neubabylonischen Reiches." In Selz 2003, 446-497.
+Scheil, J. V. 1937. Au service de Clio: Notices diverses. Chalon-sur-Saene.
+Seidl, U. 2007. "Assurbanipals Griffel." ZA 97: 119-124.
+Selz, G., ed. 2003. Festschrift fiir Burkhart Kienast zu seinem 70. Geburtstage dargebracht von Freuden, Schiilern und Kollegen. Minster.
+Seminara, S. 2004. Le iscrizioni reali sumero-accadiche d'eta paleobabilonese: Un'analisti tipologica e storico-letteraria. Rome.
+Seux, M. J. 1976. Hymnes et prieres aux dieux de Babylonie et d'Assyrie. Paris.
+Shaffer, A. 2000. "A New Look at Some Old Catalogues." In George and Finkel 2000, 429-436.
+Sigrist, R. M. 1984. Les sattukku dans I'ESumesa durant la periode d'Isin et Larsa. Malibu, Calif.
+Singer,I.2003."The Great Scribe Taki-Sarruma." In Beckman et. Al.2003 341-348.
+Sjoberg, A. 1972. "In Praise of the Scribal Art" JCS 24: 126-131.
+Sjoberg, A. 1973. Der Vater und sein Missratener Sohn." JCS 25: 105-169.
+Skaist, A. 1990. "The Sale Contracts from Khafajah." In J. Klein and A. Skaist, eds., Bar-Ilan Studies in Assyriology Dedicated to Pinhas Artzi, 255-276. Bar-Ilan.
+Skaist, A.1994. The Old Babylonian Loan Contract: Its History and Geography. Bar-Ilan.
+Slanski, K. E. 2003. The Babylonian Entitlement naris (kudurrus): A Study in Their Form and Function. Boston.
+Slanski, K. E.2003-2004. "Representation of the Divine on the Babylonian Entitlement Monuments (kudurrus): Part I: Divine Symbols." AfO 50: 308-323.
+Smith, G. 1876. The Chaldean Account of Genesis Containing the Description of the Creation, the Fall of Man, the Deluge, the Tower of Babel, the Times of the Patriarchs, and Nimrod. London.
+Sollberger, E. 1966. Business and Administrative Correspondence under the Kings of Ur. New York.
+Sollberger, E.1968. "The Cruciform Monument." JEOL 20: 50-70.
+Sollberger, E., and J. R. Kupper. 1971. Inscriptions royales sumeriennes et akkadiennes. Paris.
+Spada, G. 2007. Testi economici da Ur di periodo paleo-babilonese. Messina.
+Spycket, A. 1981. La statuaire du Proche-Orient ancien. Leiden.
+Steinkeller, P. 1989. Sale Documents of the Ur-III-Period. Stuttgart.
+Steinkeller, P.2003. "Archival Practices at Babylonia in the Third Millennium." In Brosius 20038a, 37-58.
+Steve, M. J. 1992. Syllabaire elamite. Histoire et paleographie. Neuchatel.
+Stol, M. 1981. Letters from Yale. Leiden.
+Stol, M. 1998. "Einige kurze Wortstudien." In Maul 1998, 343-352.
+Stol, M. 2001. "A Rescript of an Old Babylonian Letter." In van Soldt 20014, 457-465.
+Stolper, M. 1998. "Inscribed in Egyptian." In M. Brosius and A. Kuhrt, eds., Studies in Persian History: Essays in Memory of David M. Lewis, 133143. Leiden.
+Streck, M. 1916. Assurbanipal und die letzten assyrischen Kenige bis zum Untergange Niniveh's. Leipzig.
+Streck, M. P. 2000. Das Amurritische Onomastikon der altbabylonischen Zeit: Band 1. Miinster.
+Suurmeijer, G. 2006-2007. "Loans and Edicts: A Quantitative Analysis of the Temporal Distribution of
+Loan Documents and Royal Edicts under the Reign of Samsu-iluna." JEOL 40: 104-119.
+Svenbro, J. 1997. "La Grece archaique et classique: invention de la lecture silencieuse." In G. Cavallo and R. Chartier, eds., Histoire de la lecture dans le monde occidental, 47-77. Paris.
+Tadmor, H. 1997. "Propaganda, Literature, Historiography: Cracking the Code of the Assyrian Royal Inscriptions." In S. Parpola and R. M. Whiting, eds., Assyria 1995, 325-338. Helsinki.
+Talon, P., and K. Van Lerberghe, eds. 1998. En Syrie aux origines de l'ecriture. Turnhout.
+Tanret, M. 2001. "As Years Went by in Sippar-Amnanum..." In Abusch et al. 2001, 455-466. Bethesda, Md.
+Tanret, M. 2002. Per aspera ad astra: Liapprentissage du cuneiforme a SipparAmndanum pendant la periode paleobabylonienne tardive. Ghent.
+Tanret, M. 2004. "The Works an d the Days...: On Scribal Activity in Old Babylonian Sippar- Amnanum." RA 98: 33-62.
+Tanret, M. 2005. "Shegels for the Scribe." NABU: 73.
+Tanret, M. 2008. "Find the Tablet-box . ..: New Aspects of Archive-Keeping in Old Babylonian Sippar-Amnanum." In R. van der Spek, ed., Studies in Ancient Near Eastern World View and Society Presented to Marten Stol on the Occasion of his Sixty-fifth Birthday, 131-147. Bethesda, Md.
+Tanret, M., and K. De Graef. 2003-2004. "Puzzling with Numbers: The Late Old Babylonian SI.BI Clause." AfO 50: 56-80.
+Teissier, G. 1961. "Diplomatique." In Samaran 1961, 633-676.
+Thucydides. 1950. The History of the Peloponnesian War, translated by Richard Crawley. New York.
+Thureau-Dangin, F. 1912. "Notes assyriologiques XVI: Un jugement sous le regne de Samsu-iluna." RA 9: 21-24.
+Tinney, S.1998. " Texts, Tablets and Teaching: Scribal Education in Nippur and Ur" Expedition 40/2:40-50
+Tinney, S. 1999. " On the Curricular Setting of Summerian Literature",Iraq 61:159-172.
+Ulshefer, A. M. 1995. Die altassyrischen Privaturkunden. Stuttgart.
+Van De Mieroop, M. 1997. " On Writing a History of the Ancient Near East" BiOr 54: 285-305.
+Van De Mieroop, M. 1999. "Cuneiform Texts and the Writing of History." London
+Van De Mieroop, M. 2000. "Sargon of Agade and His Successors in Anatolia." SMEA 42: 133-159.
+Van der Toorn, K. 2000. "Cuneiform Documents from Syria-Palestine: Texts, Scribes, and Schools." Zeitschrift des Deutschen Paldstina-Vereins 116: 97-113.
+Van der Toorn, K. 2007. "Why Wisdom Became a Secret: On Wisdom as a Written Genre." In R. J. Clifford, ed., Wisdom Literature in Mesopotamia and Israel, 21-29. Atlanta.
+Van Dijk, J. J. 1965. "Une insurrection generale au pays de LarSa avant lavenement de Nir-Adad." JCS 19: 1-25.
+Van Dijk, J. J., and W. R. Mayer. 1980. Texte aus dem Re3-Heiligtum in UrukWarka. Berlin.
+Van Driel, G. 1973. Review of R. Ellis 1968. JAOS 93: 67-74.
+Van Driel, G. et al., eds. 1982. Zikir Sumim: Assyriological Studies Presented Amnanum (Tell ed-Der)." In Brosius 2003a, 59-77.
+Van Lerberghe, K., and G. Voet. 1989. "A Long Lasting Life." In Behrens et al. 1989, 525-538.
+Van Lerberghe, K. 1991. "On 'Quasi-Hiillentafeln." NAPR 6: 3-8.
+Van Lerberghe, K. 1994. "An Old Babylonian Clone." In Gaschi et al. 1994,159-168.
+Van Soldt,W.H. 1995. "Babylonian Lexical, Religious and LiteraryTexts, And Scribal Education at Ugarit and Its Implication for the Alphabetic Literary Texts" In M. Dietrich and O. Loretz, eds.,Ugarit: Ein ostmediterranes Kulturzentrum im Alten Orient: Ergebnisse und Perspektiven der Forschung, 171-212. Munster.
+Van Soldt,W.H. ed. 2001a. Veenhof Anniversary Volume: Studies Presented to Klaas R. Veenhof on the Occasion of His Sixty-fifth Birthday. Leiden.
+Van Soldt,W.H. 2001b. "NahiSS-Salmu, an Assyrian Scribe Working in the 'Southern Palace' at Ugarit." In van Soldt 2001a, 429-444
+Vanstiphout, H.L.J. 1978 "Lipit-Istar's Praise in Edubba" JCS 30:33-61
+Vanstiphout, H.L.J. 1979 "How did they learn Sumerian?" JCS 31: 118-126
+Vanstiphout, H.L.J. 1989. "Enmerkar's Invention of Writing Revisited." In Behrens et al. 1989, 515-524.
+Vanstiphout, H.L.J. 1995. "On the Old Babylonian Edubba" In J.W. Drijvers and A.A. MacDonald,eds., Centres of Learning: Learning and Location in PreModern Europe and the Near East, 3-16. Leiden.
+Vanstiphout, H.L.J. 1997. " School Dialogues." In W.W. Yallo and K.L. Younger, eds.,The Context of Scripture, 1: 589-590. Leiden.
+Vanstiphout, H.L.J. 1999. "The Twin Tongues: Theory, Technique, and Practice of Bilingualism in Ancient Mesopotamia." In Vanstiphout et al. 1999, 141-159.
+Vanstiphout, H.L.J. 2003a. Epics of Sumerian Kings: The Matter of Aratta. Atlanta.
+Vanstiphout, H.L.J. 2003b. "The Old Babylonian Literary Canon: Structure, Function, and Intention." In Dorleijn and Vanstiphout 2003, 1-28.
+Vanstiphout, H. L. J. et al., eds. 1999. All Those Nations... : Cultural Encounters within and with the Near East. Groningen.
+Veenhof, K. R. 1966. Review of E. Kutsch, Salbung als Rechtakt im Alten Testament und im Alten Orient (Berlin, 1963). BiOr 23: 308-313.
+Veenhof, K. R. ed. 1986a. Cuneiform Archives and Libraries: Papers Read at the 30e Rencontre Assyriologique Internationale, Leiden, 4-8 July 1983. Leiden.
+Veenhof, K. R. 1986b. "Cuneiform Archives: An Introduction." In Veenhof 1986a, 1-36.
+Veenhof, K. R. 1987. "'Dying Tablets' and 'Hungry Silver': Elements of Figurative Language in Akkadian Commercial Terminology." In M. Mindlin et al., eds., Figurative Language in the Ancient Near East, 41-75. London.
+Veenhof, K. R. 2003a "Archives of Old Assyrian Traders." In Brosius 2003a, 78-123.
+Veenhof, K. R. 2003b. "Fatherhood Is a Matter of Opinion: An Old Babylonian Trial on Filiation and Service Duties." In Sallaberger et al. 2003, 313-332.
+Veenhof, K. R. 2008. "The Old Assyrian Period." In Veenhof and Eidem 2008, 13-264.
+Veenhof, K. R., and J. Eidem. 2008. Mesopotamia: The Old Assyrian Period.Fribourg Gottingen 
+Veldguis, N. 1997 "Elementary Education at Nippur. Groningen.
+Veldguis, N. 1997-1998. Review of Cavigneaux 1996. AfO 44-45: 360-363.
+Veldguis, N. 1999a. "Reading the Signs." In Vanstiphout et al. 1999, 161-174.
+Veldguis, N. 1999b. "The Poetry of Magic." In Abusch and van der Toorn 1999, 35-48.
+Veldguis, N. 2000a. "Sumerian Proverbs in Their Curricular Context." JAOS 120: 383-399.
+Veldguis, N. 2000b. "Kassite Exercise:Literary and Lexical Extracts" JCS 52:67-94.
+Veldguis, N. 2003. "On the Curriculum of the Neo-Babylonian School" JAOS 123:627-633
+Veldguis, N. 2006. " How did they learn Cuneiform?Tribute/Word List C as an Elementary Exercise." In Michalowski and Veldhuis 2006,181-200.
+Verbrugghe, G. P., and J. M. Wickersham. 1996. Berossos and Manetho, Introduced and Translated: Native Traditions in Ancient Mesopotamia and Egypt. Ann Arbor, Mich. 
+Villard, P. 1992. "Parade militaire dans les jardins de Babylone." In J.-M. Durand, ed., Florilegium marianum: Recueil d'etudes en 'honneur de M. Fleury, 137-152. Paris.
+Villard, P. 1995. "Les derniers rapports des devins neo-assyriens." RA 89: 97-107.
+Villard, P. 1997. "L'education d'Assurbanipal." Ktema 22: 135-149.
+Villard, P. 2006. "Acheminement et reception de la correspondance royale dans lempire neo-assyrien." In L. Capdetray and J. Nelis-Clement, eds., La circulation de l'information dans les Etats antiques, 17-32. Bordeaux.
+Villard, P. 2008. "Les lettres du temple d'A8Sur." In Pantalacci 2008a, 179-191. Vincente, C. A. 1995. "The Tall Leilan Recension of the Sumerian King List."ZA 85:234-270
+Visicato,G. 2000. "The Power and the Writing: The Early scribes of Mesopotamia, Bethesda, Md. 
+Voet, G., and K. Van Lerberghe. 1993. "Sealing in Philadelphia and Elsewhere." Acta Archaeologica Lovaniensia 32: 43-58.
+Voet, G., 1994. "Comments." BiOr 51: 441. 
+Volk, K. 1996. "Methoden altmesopotamischer Erziehung nach Quellen der altbabylonischen Zeit." Saeculum 47: 178-216.
+Volk, K. 2000. "Edubba'a und Edubba'a-Literatur: Ratsel und Lesungen." ZA 90:1-30
+Von Weiher, E. 1983 -1998. Spatbabylonische Texte aus Uruk. Vols. 2-5. Berlin.
+Waetzoldt, H. 1986. "Keilschrift und Schulen in Mesopotamien und Ebla." In Erziehungs- und Unterrichtsmethoden im historischen Wandel, 3650. Bad Heilbrunn.
+Waetzoldt, H. 1991. Review of M. Gibson and R. D. Biggs, eds., The Organization of Power: Aspects of Bureaucracy in the Ancient Near East (Chicago, 1987). JAOS 111: 637-641.
+Waetzoldt, H. and H. Hauptmann, eds. 1997. Assyrien im Wandel der Zeiten. Heidelberg. 
+Walker, C. B. F. 1987a. Cuneiform: Reading the Past. London.
+Walker, C. B. F. 1987b. "The Kouyunjik Collection of Cuneiform Texts: Formation, Problems, and Prospects." In M. F. Fales and B. J. Hickey, eds., Austen Henry Layard tra l'Oriente e Venezia, 183-193. Rome.
+Walker, C. B. F., and M. Dick. 2001. The Induction of the Cult Image in Ancient Mesopotamia: The Mesopotamian mis pi Ritual. Winona Lake, Ind.
+Watanabe, K. 1985. "Die Briefe der neuassyrischen K6nige." ASJ 7: 139-156.
+Watson, W. G. E., and N. Wyatt, eds. 1999. Handbook of Ugaritic Studies.Leiden
+Weisberg, D.B. 1969. " An OldBabylonian Forerunner to summon alu." Hebrew Union College Annual 40: 87-104. 
+Westbrook, R. 1988. Old Babylonian Marriage Law. Horn, Austria. 
+Westenholz, A. 2007. "The Graeco-Babyloniaca Once Again." ZA 97: 262-313. 
+Westenholz, J. G. 1993. "Writing for Posterity: Naram-Sin and Enmerkar." In A. F. Rainey, ed., kinattitu a darati: Raphael Kutscher Memorial Volume, 205-218. Tel Aviv.
+Westenholz, J. G. 1997. Legends of the Kings of Akkade: The Texts. Winona Lake, Ind.
+Westenholz, J. G. 2004. "The Old Akkadian Presence at Nineveh: Fact or Fiction?" Iraq 66: 7-18. Whiting, R. M. 1977. "Sealing Practices on House and Land Sale Documents at Eshnunna in the Isin-Larsa Period." In Gibson and Biggs 1977, 67-74. palace
+Whiting, R. M. 1987. Old Babylonian Letters from Tell Asmar. Chicago.
+Wilcke, C. 2000. "Wer las und schrieb in Babylonien und Assyrien: Überlegungen zur Literalitat im Alten Zweistromland. Minich.
+Wilcke, C. 2006. "Die Hymne auf das Heiligtum Kee: Zu Struktur und 'Gattung' einer altsumerischen Dichtung und zu ihrer Literaturtheorie." In Michalowski and Veldhuis 2006, 181-237.
+Wilhelm, G. 1970. Untersuchungen zum Hurro-Akkadischen von Nuzi. Neukirchen.
+Wilhelm, G. 1991. "A Hurrian Letter from Tell Brak." Iraq 53: 153-168.
+Wiseman, D. J. 1955. "Assyrian Writing-Boards." Iraq 17: 3-13.
+Wiseman, D. J., and J. A. Black. 1996. Literary Texts from the Temple of Nabii. London.
+Woodard R. D., ed. 2004. The Cambridge Encyclopedia of the World's Ancient Languages. Cambridge, Mass.
+Woods, C. 2006. "Biling rian." In Sanders 2006, 91-120.
+Wunsch, C. 2000. Das Egibi-Archiv I: Die Felder und Garten. Groningen.
+Xenophon. 1914. Cyropaedia, with an English translation by Walter Miller. 2 vols. London.
+Yon, M., and D. Arnaud, eds. 2001. Etudes ougaritiques I: Travaux 1985-1995. Paris.
+Young, G. D. et al., eds. 1997. Crossing Boundaries and Linking Horizons: Studies in Honor of M. C. Astour on His Eightieth Birthday. Bethesda, Md.
+Ziegler, N. 1999. Florilegium marianum IV: Le harem de Zimri-Lim. Paris.
+Ziegler, N. 2000. "Aspects economiques des guerres de Samsi-Addu." In J. Andreau et al., eds., Economie antique: La guerre dans les economies antiques, 14-33. Saint-Bertrand-de-Comminges.
+Ziegler, N. ed. 2006. La musique au Proche-Orient ancien. Dijon.
+Ziegler, N. 2007. Florilegium Marianum IX: Les musiciens et la musique d'apres les archives de Mari. Paris.
+Ziegler, N., and D. Charpin. 2004. "Une lettre de Samsi-Addu decouverte a Hazor?" NABU: 84.
+Ziegler, N. 2007. "Amurritisch lernen." In Festschrift fiir Hermann Hunger zum 65. Geburtstag gewidmet von seinen Freunden, Kollegen und Schiilern (WZKM 97), 55-77. Vienna.
+
+
+

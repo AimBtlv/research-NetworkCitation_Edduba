@@ -1,0 +1,432 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bedford",
+        "given": "Timothy"
+      },
+      {
+        "family": "Cooke",
+        "given": "Roger M."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Vines: A New Graphical Model for Dependent Random Variables"
+    ],
+    "volume": [
+      "30"
+    ],
+    "pages": [
+      "1031–1068"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cooke",
+        "given": "Roger M."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Markov and Entropy Properties of Tree- and Vine-Dependent Variables"
+    ],
+    "container-title": [
+      "Proceedings of the Section on Bayesian Statistical Science"
+    ],
+    "pages": [
+      "78–83"
+    ],
+    "location": [
+      "Alexandria, VA"
+    ],
+    "publisher": [
+      "American Statistical Association"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooke",
+        "given": "Roger M."
+      },
+      {
+        "family": "Kousky",
+        "given": "Carolyn"
+      },
+      {
+        "family": "Joe",
+        "given": "Harry"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Microcorrelations and Tail Dependence"
+    ],
+    "container-title": [
+      "Dependence Modeling"
+    ],
+    "pages": [
+      "89–112"
+    ],
+    "location": [
+      "Hackensack, NJ"
+    ],
+    "publisher": [
+      "World Scientific"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanea",
+        "given": "Anca M."
+      },
+      {
+        "family": "Nane",
+        "given": "George F."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "The Asymptotic Distribution of the Determinant of a Random Correlation Matrix"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "url": [
+      "https://arxiv.org/abs/1309.7268"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Holmes",
+        "given": "Randall B."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "On Random Correlation Matrices"
+    ],
+    "volume": [
+      "12"
+    ],
+    "pages": [
+      "239–272"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "SIAM Journal on Matrix Analysis and Applications"
+    ],
+    "issue": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hotelling",
+        "given": "Harold"
+      }
+    ],
+    "date": [
+      "1936"
+    ],
+    "title": [
+      "Relations between Two Sets of Variates"
+    ],
+    "volume": [
+      "28"
+    ],
+    "pages": [
+      "321–377"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Biometrika"
+    ],
+    "issue": [
+      "3–4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Houghton",
+        "given": "Richard A."
+      },
+      {
+        "family": "Hall",
+        "given": "Forrest"
+      },
+      {
+        "family": "Goetz",
+        "given": "Scott J."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Importance of Biomass in the Global Carbon Cycle"
+    ],
+    "volume": [
+      "114"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Geophysical Research: Biogeosciences"
+    ],
+    "issue": [
+      "G2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Joe",
+        "given": "Harry"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Generating Random Correlation Matrices Based on Partial Correlations"
+    ],
+    "volume": [
+      "97"
+    ],
+    "pages": [
+      "2177–2189"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Multivariate Analysis"
+    ],
+    "issue": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kendall",
+        "given": "Maurice G."
+      },
+      {
+        "family": "Stuart",
+        "given": "Alan"
+      }
+    ],
+    "date": [
+      "1967"
+    ],
+    "title": [
+      "The Advanced Theory of Statistics"
+    ],
+    "volume": [
+      "2"
+    ],
+    "container-title": [
+      "Inference and Relationship"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Hafner Publishing"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Koch",
+        "given": "Gary G."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Intraclass Correlation Coefficient"
+    ],
+    "container-title": [
+      "Encyclopedia of Statistical Sciences"
+    ],
+    "volume": [
+      "6"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kousky",
+        "given": "Carolyn"
+      },
+      {
+        "family": "Cooke",
+        "given": "Roger M."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "The Limits of Securitization: Micro-correlations, Fat Tails and Tail Dependence"
+    ],
+    "container-title": [
+      "Re-Thinking Risk Measurement and Reporting: Uncertainty, Bayesian Analysis and Expert Judgement"
+    ],
+    "editor": [
+      {
+        "family": "Böcker",
+        "given": "Klaus"
+      }
+    ],
+    "pages": [
+      "295–330"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Risk Books"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Lewandowski",
+        "given": "Daniel"
+      },
+      {
+        "family": "Kurowicka",
+        "given": "Dorota"
+      },
+      {
+        "family": "Joe",
+        "given": "Harry"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Generating Random Correlation Matrices Based on Vines and Extended Onion Method"
+    ],
+    "volume": [
+      "100"
+    ],
+    "pages": [
+      "1989–2001"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Multivariate Analysis"
+    ],
+    "issue": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "Hoi H."
+      },
+      {
+        "family": "Vu",
+        "particle": "Van"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Random Matrices: Law of the Determinant"
+    ],
+    "volume": [
+      "42"
+    ],
+    "pages": [
+      "146–167"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Annals of Probability"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Weisbin",
+        "given": "Charles R."
+      },
+      {
+        "family": "Lincoln",
+        "given": "William"
+      },
+      {
+        "family": "Saatchi",
+        "given": "Sassan"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "A Systems Engineering Approach to Estimating Uncertainty in Above-Ground Biomass Derived from Remote-Sensing Data"
+    ],
+    "volume": [
+      "17"
+    ],
+    "pages": [
+      "361–373"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Systems Engineering"
+    ],
+    "issue": [
+      "3"
+    ]
+  }
+]

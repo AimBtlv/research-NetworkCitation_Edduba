@@ -1,0 +1,571 @@
+# METADATA
+author: Veldhuis N.
+source_id:Veldhuis2012_PrestigeDi
+title: Prestige: Divergent Receptions Of Babylonian Scholarship: Cuneiform Lexical Texts In The Lare Bronze Age
+Year: 2012
+Source_ID:  Veldhuis2012_PrestigeDi
+Source_Type: Article in Book : Birgit Christiansen, Ulrich Thaler (Hrsg.) Ansehenssache Formen von Prestige in Kulturen des Alterrums
+Source_Role,Step_distance:2 ,3,4 
+Pages: 83-103
+Web:
+
+# TEXT
+
+Birgit Christiansen, Ulrich Thaler (Hrsg.)
+
+Ansehenssache Formen von Prestige in Kulturen des Alterrums
+
+Sonderdruck unverkauflicher Sonderdruck, nicht im Buchhandel erhaltlich Niek Veldhuis not for sale and not available in shops Prestige: Divergent Receptions of Babylonian Scholarship.
+
+Cuneiform Lexical Texts in the Late Bronze Age 
+
+Kulturen, die Gegenstand der Untersuchung waren, reichte dabei von den schriftlosen Kulcuren Westcuropas tiber das Alte Agypten, Mesopotamien und China bis hin zur Spatantike und frithen Neuzcit. Die Gliederung der Tagung in verschiedene thematische Sektionen wurde auch der vorliegenden Publikation zugrunde gelegt.
+
+Als Herausgeber méchten wir an erster Stelle allen Autorinnen und Autoren far ihre Bereitschaft danken, ihre Beitrage im vorliegenden Band zu verdffentlichen und somic dazu beizutragen, dass die im Rahmen des Graduiertenkollegs diskutierten Fragen und erzielten Forschungsergebnisse einem gréferen Interessentenkreis zuganglich gemache werden. Fiir die Gelegenheit, die Herausgeberschaft dieses Bandes zu tibernchmen, und fiir ihre Unterstiitzung in organisatorischen Belangen sind wir Martin Zimmermann und Jens-Uwe Hartmann als Sprechern des Kollegs sowie dessen Koordinatorin Caroline Veit sehr dankbar. Fir die Aufnahme des Bandes in die Reihe ,,Miinchner Studien zur Alten Welt* gilt unser Dank den Herausgebern Martin Zimmermann, Jens-Uwe Krause und Michael Mackensen. Ebenso danken wir Catherine Jones fiir die Unterstiirzung bei der Redaktion der englischsprachigen Beitrage und Matthias Hoffmann fiir die kompetente Begleitung der Drucklegung scitens des Herbert Utz Verlages.
+
+Munchen, Mai 2012 Birgit Christiansen Ulrich Thaler
+
+10
+
+Niek Veldhuis
+
+Prestige: Divergent Receptions of Babylonian Scholarship
+
+Cuneiform Lexical Texts in the Lare Bronze Age
+
+In the Lare Bronze Age (around 1300 BCE) the lexicographical traditions of Babylonia, originally created as textbooks for aspiring scribes, were exported to scribal centers all over the Near East from Egypt to Anatolia and from the Syrian coast to Dilmun in present day Bahrain. In these various contexts the Babylonian cradicions assumed different roles ranging from introductory writing manuals to prestigious compendia of ancient knowledge. The prestige attached to these compendia, | will argue, is not a characteristic of the lexical texts themselves, but rather of their use and function in a variety of cultural contexts.
+
+Asan introduction I will briefly discuss the two main concepts in the subricle: the Late Bronze Age and lexical lists. In the body of the paper I will describe the lexical lists from four areas: Babylonia, Egypt (Amarna), Northern Syria (Emar) and Northern Mesopotamia (Assur) and discuss how more or less the same corpus of cexts was received, used, and treated differently in each of these contexts.
+
+Introduction 1: Late Bronze Age
+
+The Late Bronze Age! (second half of the second millennium BCE) is also known as the International Period, characterized by intense relationships between the main political powers of the time. The entire known world was included in this network of diplomatic exchanges: Egypt, Mesopotamia, the Levant, Anatolia, Cyprus, and the Aegean. The great powers in this configuration were Egypt, the Hittite kingdom in Anarolia, the Kassite rulers in Babylonia, and che Hurrian kingdom in Mirtani, in Northern Mesopotamia. The Levant, the area including present-day Israel and Lebanon, as well as coastal Syria, was home to small-scale city-states which allied themselves with Egypt, wich the Hittite kingdom, or with Mittani, depending on the current balance of power. Assyria emerged as a formidable military power cowards the end of this period and replaced Mittani as the main political entiry in Northern Mesopotamia. Relatively little is known about the most Western participants in this network, Cyprus (ancient Alagiya) and the Aegean.
+
+1 For the history of this period, see Van de Mieroop (2007, ch. 7-10) with further literature.
+
+83 
+
+Nick Veldhuis
+
+Textual finds from the period include an extensive diplomatic correspondence, mainly written in Babylonian, which reveals the structure of the power relations.? The “Great Kings” included Egypt's pharaoh, the Hittite king and the rulers of Mittani (later Assyria) and Babylonia. The kings called each other “brother” in their diplomatic letters; they exchanged precious gifts and arranged diplomatic marriages. Rulers of smaller kingdoms sent letters to their overlords to reconfirm their allegiance or to complain about their neighbors.
+
+The kingdoms that negotiated this successful balance of power had very different histories and cultural backgrounds. The elite art of the period has been defined as an international artistic koiné,* a visual hybrid thar is truly nobody's — or everybody's. A mix of Mesopotamian, Egyptian, Anatolian, and other elements, used for precious furnicure and utensils, created a kind of art that expressed the identity of an international elice, rather than the identity of one political entity.
+
+The international correspondence of the period was written in cuneiform in the Babylonian language. Babylonian developed into the Lingua Franca of the time so that even administrative texts for local use were often written in Babylonian (this is the case, for instance, in Emar and Ugarit in present-day Syria).
+
+The balance of power between the Great Kings was an intricate one and one that shifted constantly. For our purposes, the most important shifts took place in the North. The Hittite king Suppiluliuma defeated Mittanni at the end of the fourteenth century and established control over Northern Syria. The weakness of Mictani allowed Assur to expand from a city-state to a territorial state subdivided into provinces. The king of Assur soon started to join in the correspondence between the Great Kings - not without some initial resistance from other members of the club.
+
+The Mittani state that thus disappeared and was crushed between the Hittices and the Assyrians is still in many respects a blank page in the history books. Mittani occupied a large area in Northern Mesopotamia and Northern Syria. The language of the state was Hurrian, a language that is still imperfectly known. The spread of cuneiform to Northern Syria was due, initially, to Mictani rule over chat area. The archives of cuneiform texts from Ugarit, Emar, and Ekalte are dated to the period of Hittite concrol, but the scribal craditions as expressed in lexical texts have little in common with what we encounter in the Hittite cuneiform tradition. Lexical texts from the whole area that was once controlled by Mittani show a surprising uniformity. Occasionally these texts still include Hurrian translations.
+
+2 ~~ Moran 1992. 3 Feldman 2006.
+
+84
+
+Babylonian Scholarship: Cunciform Lexical Texts in the Late Bronze Age
+
+Introduction 2: Lexical texts
+
+Lexical cexts are found at all places were cuneiform was used. The earliest lexical compositions dare to the very beginning of cunciform writing, about 3200 BCE and the tradition continued to the very end of cuneiform civilization. Lexical texts are there to teach and document the cuneiform writing system and, in lacer periods, the Sumerian language.
+
+The cunciform lexicographical tradition that is found in Late Bronze Age scribal centers goes back ro an Old Babylonian (early second millennium) school corpus that was designed to preserve the ancient Sumerian language and the literary heritage that was recorded in Sumerian. Descendants of this Old Babylonian wadition were exported to the various areas where cuneiform was used and in each of those areas that tradition was received, used and adapted in slightly different ways. In the present section I will briefly describe che Old Babylonian lexical corpus, the common ancestor of all Late Bronze Age lexical texts. The examples come from Nippur in central Babylonia, where the great majority of Old Babylonian lexical texts now extant was found.
+
+Old Babylonian cuneiform lexical lists may be divided into two main groups: sign lists and word lists. Sign lists simply list cuneiform signs and explain their proper use. Most cuneiform signs have more than one reading or meaning, and chus the sign is repeated a number of times, to allow for multiple explanations. A brief extract from such a sign list runs as follows:*
+
+§ ib, IB ¢ da-ra IB § u-fa-as IB q un UN q ka-lam UN
+
+This section of the sign list explains that the sign [B has three main readings in Sumerian: ib, dara,, and ura. Similarly, che sign UN has the readings un and kalam. Each of these readings represents a Sumerian word:
+
++ Inmoder cransliteration capirals are used co identify a sign, without regard for the correct reading in context. Subscript numbers are used co distinguish between signs thar have the same value. Thus, there are cwo different signs that may be read /ib/, which are distinguished in transliteration as 16 (which is #6,
+
+by default) and ib.
+
+85 
+
+Nick Veldhuis
+
+ib(IB) corner
+
+dara, (1B) belt
+
+Uras(IB) goddess of earth un(UN) people
+
+kalam(UN) land
+
+In addition, the reading ib (of IB) and un (of UN) are frequently used as syllables to indicate a verbal morpheme in Sumerian. These multiple uses of the same sign rarely create problems of ambiguiry — in most cases only one reading is possible in context. If IB represents the god name Ura it is preceded by the determinative for gods (in transliteration “IB or ura’); when it represents the word for bele it is usually preceded by the determinative for leather objects (*“dara,). When IB or UN are found in verbal forms the (syllabic) readings -ib- and -un- (as in mu-un-na-dug : he said to him) are the only possible choices. The list leaves all of this implicit — this is a school text and we may assume that the teacher provided such useful background information.
+
+In the example above the list provides glosses for the proper reading of Sumerian words, but does not translate those words. By this period Sumerian was a dead language (the vernacular of the period was Babylonian) and one of the purposes of scribal education around this time was to learn the Sumerian language and writing system and the Sumerian heritage that came with it. The absence of translations is another strong indication that the teacher was involved in explaining what was going on. The main goal of scribal training at this period was literacy in Sumerian — and so the Babylonian translations had to be memorized, but there was little reason to write them down.
+
+The following text is an extract from an Old Babylonian word list:
+
+amar calf
+
+amar ga milk calf
+
+amar ga nag-a calf that drinks milk amar ga gu.-a milk-fed calf
+
+amar ga sub-a calf thar suckles milk amar sah, playful calf
+
+amar lirum strong calf
+
+amar ban,-da wild calf
+
+amar mu-3 three years old calf amar mu-2 two years old calf amar mu-] one year old calf amar babbar whice calf
+
+amar giggi black calf
+
+amar su,-a red calf
+
+amar sig,-sig. yellow calf
+
+86
+
+Babylonian Scholarship: Cuneiform Lexical Texts in the Lare Bronze Age
+
+amar gun,-a speckled calf ansc donkey dusu, dusu donkey
+
+ange kunga (SU,.AS,) mule
+
+This example comes from a series of thematic word lists. In Old Babylonian Nippur this thematic list was divided into six chapters or divisions, ranging in length between 450 (division 5) and 700 (division 1) lines, for a total of about 3,500 entries. They cover the following subjects:
+
+Division Contents
+
+1 trees and wooden objects
+
+2 reed objects; vessels and clay; hides and leather objects; metal objects 3 domestic animals; wild animals; cuts of meat
+
+4 stones and plants; fish and birds; clothing
+
+5 geographical names and terms; stars
+
+6 foodstuffs
+
+Our example represents a section from Division 3. Again, chese lists of Sumerian words were copied without translation — we have good evidence to suggest that in fact the lists were memorized as bilingual (Sumerian - Babylonian) vocabularies. There are a few tablets in which the scribe added Babylonian translation glosses to some of the entries. Quite frequently, Sumerian words are repeated two or more times to allow for multiple translations in the process of memorizing. The thematic lists do not only include primary nouns, but also various nominal expressions, such as “white calf” or “three years old calf” In the section sheep one may encounter the sheep that is eaten by a god, followed by the sheep that is eaten by a wolf.
+
+The lexical corpus includes various other kinds of sign lists and word lists with different kinds of organization, used on different levels of instruction.’ Most of the lists introduced in the Old Babylonian period were designed for elementary instruction, to enable the continuing student co read, copy, and understand the Sumerian literary texts, che Sumerian heritage that was created in the more advanced stages of education.
+
+Two characteristics of these lists are worth emphasizing for the sake of the present argument. First, Old Babylonian lexicographical texts contained much thac was archaic or obscure and that was never actually used in any text that a student would come across for the rest of his life. There is, in ocher words, a lor of overkill in these lists. The Sumerian heritage did not only consist of the literary, religious and historical texts in Sumerian, it included the Sumerian language and the Sumerian writing
+
+5 Civil 1995. 
+
+Niek Veldhuis
+
+system itself and thus every Sumerian word and expression and every cuneiform sign (no matter how outdated) was worth preserving for posterity by recording it in a lexical list. Second, the lists were not frozen in their contents or in the order in which items were presented. Comparing the list of animals from Nippur, with one from contemporary Uruk or Kisurra, one encounters a lot of similarities, but also many differences. The format of the lists is basically the same in all Babylonian schools and the general copics treated in these lists are very similar, too. But one version may put the calves before the cows, the other may have them after. One version may list three colors, the other five. The differences between the version are usually not radical and do not change the structure of the composition as such. It is in the nature of such lists that they can easily be expanded or shortened or rearranged ~ and that happened all the time. Ic is important to emphasize this particular aspect of the lists, because this is exactly something chat changes during the Late Bronze Age period. We expect compositions to be more or less stable and we expect copyists to do their best to preserve the text thar they copy as best as they can. Cuneiform texts, including lexical texts, were usually not treated that way and once cuneiform scribes do scart to treat their texts as unchangeable relics of the past - something important is going on.
+
+Lexical texts in the Late Bronze Age
+
+In the Late Bronze Age cuneiform writing spread over the entire Near East. The Babylonian lexical tradition, designed to teach the cuneiform writing system, followed suit and so lexical texts have been excavated from Egypt to Assur and from Anatolia to Bahrain. The selection of lexical texts, their use and function, and their literate context differs from case to case. In the following I will discuss four such find spots: Kassite Babylonia, Amarna in Egypt, Emar in Northern Syria, and Assur in Northern Mesopotamia. Ic will turn out that each of those places received the lexicographical tradition differently and used it for different purposes.
+
+Kassite Babylonia
+
+After the Hittite raid on the city of Babylon in 1595 a dynasty of Kassite kings established control over Babylonia. We know relatively little about the Kassites, about their language or culture. Kassite rule in Babylonia lasted for several centuries - it was a prosperous and peaceful period. Kassite kings bore Kassite names and presumably identified themselves with their Kassite background, although in fact we do not know much about that part of their self-image. At the same time, the Kassite ruling class identified wich Babylonian history, portraying themselves not as a new beginning, but rather as a continuation of a glorious past. Kassite royal inscriptions,
+
+88
+
+Babvionian Scholarship: Cunciform Lexical Texts in the Late Bronze Age
+
+therefore, are never in Kassite, but either in Babylonian or in Sumerian, emulating inscriptional patterns of earlier eras.
+
+During the Kassite period Sumerian and Babylonian liceracure flourished and the traditional lexical texts were copied, preserving some knowledge of the ancient Sumerian language, vocabulary and writing system. Knowledge of Sumerian was used, first of all, to read Sumerian literature. The little evidence that we have for Sumerian licerarure in the Kassite period — not more than little scraps here and there - suggests che availability of a rather broad spectrum of compositions, in particular of mythological content.° A little eight-line snippet of Inana’s Descent demonstrates that thar ext was still known and copied. Other fragments attest to the availability of the Ninurta narratives known as The Exploits of Ninurta and Ninurta’s Return to Nippur. In addition to reading and copying these and other tradicional Sumerian texts, scribes still attempted to write original texts in Sumerian. A good percentage of Kassite roval inscriptions is in Sumerian, and so are many seal inscriptions (cylinder seals were rolled over the wet clay of a legal document by way of signature). Furthermore, we know of a few bilingual (Sumerian - Babylonian) literary texts that were composed in the Kassite period.
+
+By far che longest and most important of the original Kassice Sumerian texts is the Kurigalzu scarue from Dur-Kurigalzu (‘Aqar-Quf).” Several inscribed and uninscribed fragments of this more-than-life-size statue were found during excavations in the nineteen forties.* The Kurigalzu thar this statue represents is Kurigalzu I, who reigned in the first half of the fourteenth century, and who had a very active building program.’ The statue commemorates the dedication of the E’ugal temple to Enlil, the traditional head of the Sumerian pantheon and his consort Ninlil.
+
+Even in its fragmentary state the object sends a strong and unequivocal message: Kurigalzu, the king who is standing tall before you, is a king who stands in the most ancient tradition of Babylonian kingship. The starue gives this message in a variety of ways. First, it is possible and likely chat some stone monuments of major kings of the past were visible in Kassite rimes - not in Dur-Kurigalzu, but perhaps in Sippar or other places. In the middle of the twelfth century numerous ancienc Babylonian royal monuments such as the Codex Hammurabi and the Naram-Sin Stela were taken from Babylonia by the Elamites and brought to Susa, where they were excavated, three millennia later, by a French archaeological team. By Kurigalzu’s time, however, they were still present in Babylonia and may well have provided an interpretative framework for the royal statue. Stone was a relatively rare material and ro have a statue
+
+6 NVeldhuis 2000. 7 ~~ Veldhuis 2008. 8 Krameret al 1948. 9  Clayden 1996.
+
+89 
+
+Nick Veldhuis
+
+made of stone as support for an inscription delivers a message of power, fortune, and durability.”
+
+Kurigalzu’s scribes knew about the ancient Sumerian gods and in the inscription they largely depicted these gods in terms that are familiar to us from Old Babylonian texts. Nanna, the moon god, is described as the one who “lights up the night; who slecps during the day like a lion; who reveals the signs of the night ...” Inana is the goddess of love and one of her responsibilities is described as follows:
+
+A sweet word from wife to husband, soothing inside and outside, they gave her (Inana) in her hand.
+
+But Inana is a very complex character, responsible for all kinds of chaotic aspects of reality, such as war, and so Kurigalzu’s scribes also reflect on several of her other roles:
+
+Men who fasten the chest-cloth with a toggle pin like women; women who like men fasten it on the heart
+
+[..]
+
+those who fight with the dagger; those who are counted as criminals, and those who make evil sweet, to lead them on their ways, they (gave) to the most competent Inana as her lot.
+
+This not only recalls cross-dressing as a well-known aspect of Inana’s cult," but also the odd list of “offices” assigned to Inana in the literary text Inana and Enki, including such things as lying and rebellion." Details like these show that Kassite scribes were surprisingly well informed about the ancient Sumerian tradition.
+
+Although the scribes who composed this were competent indeed in their knowledge of the Sumerian heritage, their command of the Sumerian language - set against Old Babylonian standards - is often rather flaky, to a degree that the interpreration and translation of the cext meets several insurmountable obstacles. What is more interesting here, is that the scribes clearly used the lexical tradition to find the words and expressions that they needed, often preferring exceedingly obscure findings over more common Sumerian words. An example comes from the section about Inana, quoted above, which talks about men and women. The word for man (or men) is lu,- ulu, or lu,-lu, - an acceptable usage in classical Sumerian, although lu,-(ulu,) rather means “human” (without strong emphasis on gender). The word for woman is a3bar, an otherwise unknown word that does appear once in the (late) lexical tradition with che eranslation amiltu, itself a rare Babylonian word for “woman.” It is unlikely
+
+10 Slanski 2000. 1] Bock 2004. 12 Black et al. 1998, no, 1.3.1.
+
+90
+
+Babvlonian Scholarship: Cuneiform Lexical Texts in the Lare Bronze Age
+
+that this Kassite scribe would not have known the frequent Sumerian word munus (woman) — he chose as-bar because of its obscuriry and to show off his knowledge of the lexical tradition.
+
+The relatively small corpus of Sumerian texts from the Kassite period includes several examples of words or signs that otherwise occur only in the lexical tradition. The most spectacular example is found in a bilingual hymnic text from the Kassite period:**
+
+... lyre-song, wailing a dark day (abununnu).
+
+After I have selected the tablet, composed by the sage
+
+which is his deep well with twined rope, made of precious blocks of Lapis Lazuli pure, refined, product of mountain ore
+
+that is full of joy,
+
+Esilimbi and Lugalierzi will sing a song fit for praise
+
+‘Gestin-an 1s its guardian angel’
+
+as a hymn.
+
+The Sumerian of this text is peculiar, using complex sentence structures and unfamiliar words. The Sumerian word abununnu (dark day or eclipse), written with the sign complex UD.MUD.NUN.NA, is well known from lexical texts from the Old Babylonian period onwards, but the only known context attestation is here. We may imagine that the author of this text found the word in one of his lexical compilations and valued it because of its rarity and because of the complexity of its orthography.
+
+In Kassite Babylonia the Sumerian chat is preserved through the transmission of lexical texts is valued as a link with an illustrious past, supporting the claims of the Kassite ruling class of being the direct inheritors of Babylonian glory. Occasionally, scribes enjoy displaying their knowledge of this linguistic heritage by using extremely rare Sumerian vocabulary.
+
+“marna (Egypt)
+
+Under king Akhnaren, Amarna was for a while the Egyptian capital. The cuneiform corpus from Amarna is, first of all, a diplomatic corpus, preserving the correspondence berween the pharaoh of Egypt and the kings of Babylonia, Assyria, Mittani, Harti, and numerous vassal kingdoms in Canaan. Cuneiform writing was most likely introduced to Egypt by Hittite scribes." The corpus, however, also contains clear evidence of Babylonian imports, in particular three (or four) literary texts in a Ba13. Myhrman 911 no.ll; cf. Westenholz 2005. 14 Lzre’el 1997, 10 (with previous literature).
+
+91 
+
+Nick Veldhuis
+
+bylonian ductus. Finally, a fragment with Egyptian words transcribed in cuneiform and translated into Babylonian may be adduced as evidence for local, non-traditional developments of the concept of a lexical lise.
+
+The Amarna school tradition (including the lexical and the literary material),” therefore does not derive from a single source, but rather reflects the intense international contacts of the time and in that sense the situation in Amarna is not different from the one in other peripheral centers such as Hattusa, Emar, or Ugarit. What makes the Amarna corpus unique, though, is the availability, in this same social setting, of hieroglyphic Egyptian, a system of local origin and with a long and prominent tradition. For matters of prestige, therefore, scribes at Amarna did not need cuneiform. Sumerian did not link them to any relevant past. The main and perhaps only use of cunciform was international correspondence — there was little virtue in knowing or collecting traditional cuneiform scholarly literature in its entirety.
+
+Accordingly, the school texts from Amarna are elementary sign lists (Syllabary A and Diri) a sign exercise (TuTaTi), and ad-hoc exercises that may have been made up for the purpose. The cuneiform tradition did not carry any cultural weight here, and so the invention of new exercises is not particularly surprising. The few literary texts in Babylonian found at Amarna all use a simplified orthography, consistent with cheir use in scribal education. The school texts from Amarna thus all reflect an clementary level of teaching, simply an introduction to cunciform writing and nothing more. The heritage aspect of the lexicographic tradition had no relevance here. We may perceive the Amarna lexical corpus asa rather practice-oriented group. This, of course, should not be understood in an absolute sense. The corpus, small as it is, clearly shows its dependence on an established tradition and there are certainly many entries in these texts that are not “practical” in any sense of the word. But the Amarna scribes did not go out of their way to learn large bodies of Babylonian knowledge, or to acquire a deep understanding of all the intricacies of cuneiform writing and Sumetian. Nor did they need to. No Egyptian magnate would commission an inscription in Sumerian and there was no particular prestige in being literate in Babylonian or being able to find and use an obscure Sumerian word. The need for a written heritage
+
+with sufficient culeural currency was more than fulfilled with local Egyptian texts.
+
+Emar
+
+The city of Emar, on the bend of the Euphrates, received cuneiform literacy while it was under Mittani rule. The texts we have, including the lexical material, are from a somewhat later date, when Emar belonged to the Hittite empire, under the viceroy at Charchemish.
+
+IS Lzre'el 1997.
+
+92
+
+Babylonian Scholarship: Cunciform Lexical Texts in che Lare Bronze Age
+
+Most of che Emar texts come from a single building rhat was inhabited by Za-Ba'la, “Diviner of the Gods” and his family. “Diviner of the Gods” was a hereditary title that implied a number of ritual obligations and entitlements, spelled out in the ritual texts uncovered in this same building.
+
+Za-Ba’la the diviner was an Emar citizen who was employed by the Hirrice administration and played a role in the balance of power within the city. Emar was the capital of the kingdom Aétata; the kingdom and the city had kepe their own political structures, largely independent from the Hittite overlords. The presence of officials in service of the Hirtice king, such as Zi-Ba'la, provided an aspect of direct control by the city’s overlords. Zi-Ba'la’s “House of the Gods” was, in Fleming’s words, “one component in a cluster of related institutions that act in the legal, economic, and religious interests of the city as a whole.” As an employee of the Hittites Zi-Ba'la dealt nor only with the viceroy in Charcemish; on occasion he was in direct contact with the Hictice king, and he enjoyed his procection."”
+
+In his analysis of the tablets from the Zu-Ba'la family home, Fleming has emphasized the broad intellectual interests of its occupants. The corpus includes administrative and cultic texts, detailing the specifics of the local cule, as well as a variety of learned texts in Sumerian, Babylonian, and Hurrian (the language of Mirtani). A large percentage of these learned texts are lexical lists; in addition we find omen texts (in Babylonian and Hurrian} medical texts, literary compositions, and incantations.
+
+Among the lexical texts by far the best represented is the chematic list of words. By the Middle Babylonian period the six Old Babylonian divisions of this compilation had been expanded co fifteen — all fifteen chapters are present at Emar, some in multiple large cablers. Bilingual (Sumerian - Babylonian) and unilingual (Sumerian) versions are found side by side; some chapters of the list are found in different recensions.
+
+Compared to the practical needs of a scribe or administrator who lived in these quarters, the range of lexical texts attested at Emar is quite astonishing. The Sumerian vocabulary and che Babylonian cranslations were both foreign to these scribes and there was lictle or no use for Sumerian terms for trees, musical instruments, agriculcural implements, reed baskets, golden ornaments, wild animals, species of sheep, or kinds of stones. An example from a bilingual version of che section on wooden objects runs as follows:
+
+ma-n.-cum ma-a-ri-tum musical instrument ur.-za-ba -ba, ur-za-ba-bi-tum musical instrument zannaru (ZA“TINANA) ca-na-ru kind of lyre
+
+16 Fieming 2000, +2. I” Cf Yamada 2006.
+
+93 
+
+zannaru zannaru
+
+har-hu
+
+&c§pu, har-hu
+
+kul zag-mi,
+
+[one illegible line]
+
+dub zag-mi,
+
+ab, zag-mi,
+
+ur-gu-la
+
+dim,-me-ma mar-kur-ra dim,-me-ma mar-ha-a-si tigidlu(SAG TAR) tigidlu kaskal
+
+tigidlu sa-us
+
+sa-us
+
+sa-uS tigidlu
+
+gu,-uh?-de, ha-sur <nig,>-gub nig,-zabar gag ***uzu-la,
+
+uzu-la,
+
+Nick Veldhuis
+
+ki-in-na-ru tevi-du-u
+
+har-har-rum
+
+mu-se-lu-u
+
+Sa-am-mu
+
+ha-an-su-u
+
+tup-pu sa sa-am-mi-e
+
+ha-si,-su sa-am-mi-e
+
+ur-gu-lu-u hal-ma-ad-ru
+
+pa-ra-Su-u
+
+ti-ky-it-ta-lu-u har-ha-du-tu ta-al-rmu-ut-tu ta-al-mu-ut-tu ta-al-mu-ut-tu ti-ks-it-Li ma-la-hu mu?-pa-ri-ku ni-ka-ku-up-pu GIs za-bar-gu-bu na-as-ru
+
+Na-ag-ru
+
+kind of Ivre kind of lyre
+
+instrument (“chain”) handle of the 4-instrument
+
+lyre neck of the lyre handle? of the Ite
+
+sound box of the Ivre sound hole of the lyte
+
+“lion” instrument “yoke-like” instrument same, from Marhaii
+
+string instrument travelling rigidly tilmuttu-insrument
+
+tibnuttu-inscrument
+
+three-stringed rigidly plucked instrument
+
+>
+
+?
+
+potstand?
+
+hook (for meat) hook (for mear}
+
+This extract illustrates some important aspects of thematic lists and the Emar lexical material. First, the text is reconstructed from two duplicates, a large multi-column tablet and a much smaller exercise tablet. It is often possible to adduce additional exemplars from contemporary Ugarit to reconstruct passages in broken lexical texts from Emar. There was, in other words, a more or less standardized version of the lexical tradition - one chat was shared by those scribal centers where literacy was introduced under Mittani rule. Presumably, local scribes had a limited understanding of the vocabulary in these lists and thus the incentive to add, change, or omit was low, preserving more or less the same lexicographical tradition in the entire Mittani area. This is not to say, however, that there was something like a “valid” or “canonical” text, that can be usefully distinguished from less correct versions. Scholars and
+
+94
+
+ot
+
+Soe
+
+wom
+
+Babylonian Scholarship: Cuneiform Lexical Texts in the Late Bronze Age
+
+scribes from Mesopotamia were employed at Emar and Ugarit'* thus creating a feedback loop in the transmission of the lexicographical tradition. It is not uncommon to encounter different versions of the same lexical composition in one city or in one house. As far as we can tell, each of those versions was equally valid.
+
+Third, the Sumerian words for musical instruments listed here are for the most part well known from Old Babylonian versions of the list and from a hymn to the late third-millennium king Sulgi that extols the king’s musical competence (Sulgi B).” It is unlikely thac chis hymn survived the Old Babylonian period (Sumerian royal hymns were not transmitted beyond the Old Babylonian period), and so an Emar scribe would never run into these words outside the corpus of lexical cexts. In some cases the Sumerian is slightly corrupted. The entry dim ,-me-ma mar-kur-ra, for instance, represents the Old Babylonian entry dim, '*ma,-gur,-ra, an unidentified musical instrument that is named (in Sumerian) “pole of the sailor.” More remarkable, perhaps, is that the great majority of entries preserve valid knowledge of Sumerian vocabulary and orthography.
+
+Civil observed that the terminology for animals, fish, birds, and plants in the lists of animals and plants bears the mark of its history and is centered on those species that were known in Southern Mesopotamia.” Similarly, the list of place names includes Syrian towns (in Sumerian), but its main emphasis is on Southern Mesopotamia and it starts with the classical Sumerian cities of Nippur, Uruk, and Ur. Even though the lists were not rigidly standardized, they were not systematically adapted to the new contexts in which they were introduced either.
+
+The lexical compilations and the divination compendia found in the house of the “Diviner of the Gods” at Emar are part of the same textual complex. What they have in common is that they derive from Mesopotamia, transmit traditional knowledge and are written in cuneiform. In the absence of a local written tradition of any depth, it made sense to borrow such a culcural repertoire where it was available. The ZiBa'la family played an elite role in the city and extensive knowledge of a prestigious written tradition provided them with the elite stacus that they claimed.
+
+In addition to this learned, foreign tradition, however, the Babylonian language and the cuneiform writing system were also used to record local tradition, in particulara set of rituals in which the Diviner of the Gods played a role.” In the Babylonian tradition, rituals were not among the kinds of things char were frequently written down. Local priests knew what the rituals were, it was part of their job to know such things ~ the idea to look it up in a written cext seems rather anachronistic. What the reason was for recording this particular set of rituals is nowhere made explicit. The
+
+18 Van Sold: 2001; Cohen 2004. 19 Black et al. 1998, no. 2.4.2.02. 20) Civil 1989.
+
+21 Fleming 1992; Sallaberger 1996.
+
+95 
+
+Nick Veldhuis
+
+Zii-Ba'la family had an interest in these rituals, because they derived a certain income from them — perhaps the reason for recording was thus an economic one. Or perhaps they tried to give these rituals more weight and prestige by associating them with the large corpus of traditional cuneiform texts from Babylonia.
+
+Assur
+
+To the North of Babylonia, che city of Assur became a formidable power at the end of the fourteenth century under king A3sur-uballit I and his successors. Within a brief period of time the kingdom grew from a city-state co a territorial state, divided into multiple provinces. The most famous king of the period, Tukulti-Ninurta I, made a name for himself not only by dominating a vast territory, but also by ambitious building projects and through literary means. The Tukulei-Ninurta epic, which relates his military exchanges with Kastilias, king of Babylon, is one of the very few original literary creations from Assyria.” According to the epic, among the spoils of war that the king brought back from Babylon was a Jarge number of learned cunciform tablets. Babylonian literature and learning was treasured in Assyria where no independent “Great Tradition” existed in written form.” The literary language used in Assyrian royal inscriptions and royal poetry is a form of Babylonian, distinct from the local Assyrian dialect.
+
+The lexicographical tradition found at late second-millennium Assur is expliciely and emphatically a Babylonian tradition. The Assur corpus is more comprehensive than contemporary text groups from Amarna, Emar, Ugarit, or Hattuda, reflecting the desire to own and control the entire lexicographic tradition, including extremely rare compositions. Moreover, scribes at Assur introduced editorial techniques to safeguard this precious Babylonian tradition against corruption. In adopting and scrupulously preserving the Babylonian heritage, the Assyrian scholars standardized and basically froze its contents, introducing a modality of writing that was fundamentally different from what was used before.
+
+The colophon on a copy of a chematic list of words says (VAT 8876):
+
+[Total: 3] 28 lines
+
+(complete; col]lated; from an original from Akkad. [by Marduk-balas]su-eres
+
+the junior [scribe]
+
+22 Foster 1993, 209-229 (with a rranslation and further literacure). 23. Machinist 1984-1985.
+
+24 All tablets discussed below may be found under their museum number at herp://keil.uni-gocrtingen.de (11/05/2012).
+
+96
+
+Babvlonian Scholarship: Cunciform Lexical Texts in che Late Bronze Age
+
+[son of Ninurta-uballis]su the royal [scribe].
+
+This colophon not only informs us that it was copied from a Babylonian original, but it also draws attention to several measures that have been taken to ensure that the text is exactly identical to the Babylonian original. The text was collated and the line count allows one to check that nothing was added or omitted. Many Middle Assyrian lexical texts include ten-marks (a little wedge in the margin at every centh line) to facilitate line count and the discovery of omissions or additions in the process of copying.
+
+Several lexical texts in the Middle Assyrian corpus signal their Babylonian origin by using Babylonian paleography. Assyrian and Babylonian cuneiform writing are different in style. Assyrian is squarish and very orderly, with most strokes at right angles. Babylonian writing tends to be more cursive and more chaotic in its appearance. The basic signs are the same, Assyrian and Babylonian signs clearly derive from the same repertoire, but their looks are different. The great majority of Middle Assyrian lexical texts is written in the Assyrian style - even those that claim to be copies of a Babylonian original. A number of tablets, however, use Babylonian sign forms. This group not only includes lexical material, but also omen compendia and literary texts. Such texts may have been imported from Babylonia, they may have been brought by Babylonian scholars working at Assur“ or they may have been taken as booty.
+
+In a few cases, however, the use of Babylonian sign forms does not signal the origin of the cext or its scribe but is scholarly in character. The sign list Ea is a learned compilation of Sumerian signs, their reading and their Babvlonian equivalents. This list had little value for a Middle Assyrian scribe in acquiring literacy, because many of the signs and sign values are highly esoteric and may never appear outside of the lexical corpus. A list like Ea has a highly self-referential character where the writing system does not only encode knowledge but is the object of (speculative) knowledge itself. In the example below, signs such as AxBAD, AxLAGARgumit, AxA and AxSAG never appear outside the lexical corpus (VAT 10172):
+
+gloss SIGN Babylonian translation
+
+Gea A nigu to cry
+
+Gea A rihitu sperm §du-ru A rathu moist
+
+Ge A KA-KA SIG-GA (syllable /e/) fs A mi water
+
+25 Weidner 1952-1953; Pedersen 1985, 34. 26 Wiggermann 2008. 
+
+Nick Veldhuis
+
+Ga A mu water
+
+§ 8c-e3 AxIGI bakit to shed tears Gir AxIGI dimtu tear
+
+G i-sis AxIGI sthtu laughter
+
+§ a-ga-am AxBAD agammu marsh
+
+§ Se-du AxLAGARgunit dusis £1 mé abundant, said of water G¢-du-ru AxA aplu heir
+
+GF c-sag AxSAG: SAG aplu heir
+
+§ za-ah AxHA: HA haliqu to flee
+
+§ za-ah AxHA nabutu fugitive
+
+§ za-ah AxHA nergi to hide
+
+Gsa-a ZA KA-KA SIG-GA (syllable /za/) § zag-ga ZA baru to twitter Gza-a ZA amilu man
+
+§ lim-mu ZA orbit four
+
+Ea is laid out in three columns: the sign to be explained is in the middle column; the first column has gloss that usually represents a Sumerian word and the third column has a Babylonian translation of that Sumerian word. In the Middle Assyrian exemplars of Ea the middle column uses Babylonian signs, the explanatory columns to the left and right are in Assyrian paleography. In Middle Assyrian Assur, therefore, Ea is a sign lise that explains the proper use of Babylonian cunciform signs.
+
+Ultimately, all Late Bronze Age lexical texts derive from Babylonian sources and in this che Assur corpus is no different from Emar or Amarna. It is only at Assur, however, thar the Babylonian character of this knowledge tradition is emphasized so explicitly and forms such an important aspect of the value and prestige of these texts.
+
+The Assyrian realm had been part of the Mittani empire and thus we might expect the Middle Assyrian lexical tablets to reflect the same tradition that we encounter at Ugarit and Emar in the West and at Nuzi in the East of the area once dominated by Mictani. Indeed, in the provincial Middle Assyrian capital Sibaniba a lexical cablet in the Mictani cradition has been unearthed; a list of domestic animals that follows closely the tradition known from Ugarit and Emar.” In the capital however, the situation was different. At Assur, good traditions curned out to be Babylonian traditions, if possible imported from Babylonia or copied right from Babylonian originals.
+
+The appropriation of Babylonian learning and religion was based, in part, upon the relative proximity of this tradition. The Babylonian and Assyrian languages are closely relared dialects, they share the cuneiform writing system and Babylonian gods were integrated into the Assyrian religious system without much trouble. The god Assur, the central god of the Assyrian pantheon, was identified with the main god
+
+27 Finkelstein 1953, no.56.
+
+98
+
+Babylonian Scholarship: Cunciform Lexical Texts in the Late Bronze Age
+
+of the Sumerian pantheon Enlil as the “Assyrian Enlil’** This identification enabled the appropriation of an entire mythology around Enlil, his spouse Ninlil and cheir son Ninurta. By the same token, the ancient Sumerian language, which had no roots in Assyria, could now be used legitimarely in the cult of Assur employing hymns and laments to Enlil borrowed from Babylonia. This explains che existence of a bilingual (Sumerian - Babylonian) poem, the so-called Prayer of ‘fukulti Ninurta.” The Sumerian is comparable to the Kassite Sumerian discussed above and depends on creative uses of the lexical tradition. By allying their central god with the head of the Sumerian pantheon Sumerian became available as a legitimate medium, highly charged with tradition and venerable antiquity.
+
+The import of the lexical corpus from Babylonia supported a knowledge of writing and Sumerian that went far beyond what scribes needed for their administrative duties. The Babylonian lexical material provided the technical skills for reading and understanding ancient Sumerian compositions or creating new ones. However, the lexicographical texts functioned nor only in a supporting role - they were themselves part of the intellectual and religious tradition that the Assyrian state needed.
+
+The surge in Sumerian and Babylonian learning had a royal and political motivation. The Assyrian empire was an empire without a written tradition to match its political ambitions. Although writing had been available in Assur and in Assyria for many centuries, the state did not have much of a literary heritage, beyond the bare bones of king lists and date lists. The appropriation of the Babylonian tradicion helped Assyria and the Assyrian king to win its legitimate place among the Great Kings of the international arena of the time not only in military terms, but also in terms of prestige and social acceptability.
+
+The import of Babylonian learning in Assyria not only affected Assyria - it also had a significant effect on the lexical tradition itself. The respect for the Babylonian tradition and the emphasis on accurately preserving the actual wording of Babylonian originals was at odds with the rather fluid existence of this tradition in Babylonia itself and in most peripheral centers of writing (such as Amarna and Emar) and introduced an important change in the source of scholarly authority. The teacher is no longer a living part of the tradition; the lexical cradition is objectified and frozen.
+
+The standardization of the Babylonian lexical cradition is a process that cook place over many cencuries. The less scribes understood, the more they were inclined to copy the text exactly as-is. It is only in the Middle Assyrian period, however, that this standardization becomes the norm and that actual editorial techniques are introduced to safeguard the text against errors. In actual practice, this did not stop the lexical tradition from evolving over time; the idea of a standardized text was more a matter of scribal theory than scribal practice. This theory, however, did allow che de28 Maul 1998.
+
+29 Foster 1993, 230-235 (with a translation and further literature).
+
+99 
+
+Nick Veldhuis
+
+velopment of a scribal mythology that assigned the whole of the scholarly tradition (including medical, magical, divinatory, and ritual texts) to a period in proto-history when ic was given to mankind by the gods.”
+
+Conclusions
+
+The Babylonian lexical corpus was exported to the various areas of the Ancient Near East where cuneiform was used. In each of these areas the response was rather different. In Kassite Babylonia the lexical corpus was at home and could be used to emphasize or create continuity. In Egypt cuneiform was a special-purpose writing system with little or no cultural importance. In Emar it was the only writing system available and the local scribes not only appropriated large amounts of clearly Babylonian (and thus foreign) knowledge, but also started to record some of their own traditions in cuneiform. The most extreme reaction is found in Assyria, where cunciform had a long history, but was never extensively used as the carrier of a cultural heritage. By importing Babylonian heritage, and appropriating it to fit the Assyrian context, this heritage was changed into a frozen body of texts, a reliable and stable corpus of prestigious knowledge.
+
+The case histories discussed above may be a reminder that texts do not speak for themselves. Texts are, in a sense, social actors, assigning social status to those who own, know, or order them. In order to study prestige as expressed in texts it is not sufficient to read and translate them properly. We need to locate and study the text in the social and intellectual context of the time to understand its place and function in a particular historical system of prestige and tradition.
+
+Bibliography
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Black et al. 1998 J. A Black - G. Cunningham - E. Fliickiger-Hawker - E. Robson - G. Zélyomi, The Electronic Text Corpus of Sumerian Literature. heep://www-etcslorient.ox.ac.uk (11/05/2012)
+
+Béck 2004 B. Béck, Uberlegungen zu cincm Kultfest der alemesoporamischen Gértin Inanna. Numen 51, 20-46.
+
+30 Lenzi 2008.
+
+100
+
+Babylonian Scholarship: Cunciform Lexical Texts in che Late Bronze Age
+
+Civil 1989 M. Civil, The texts from Meskene-Emar. Aula Orientalis 7, 5-25.
+
+Civil 1995 M. Civil, Ancient Mesopotamian lexicography, in: J. M. Sasson (ed.), Civilizations of the Ancient Near East, New York, 2305-2314.
+
+Clayden 1996 T. Clayden, Kurigalzu I and the restoration of Babylonia. Iraq 58, 109-121.
+
+Cohen 2004 Y. Cohen, Kidin-Gula - The foreign teacher at the Emar scribal school. Revue d’Assvriologie et d’Archéologie Orientale 98, 81-100.
+
+Feldman 2006 M. H. Feldman, Diplomacy by Design: Luxury arts and an “international style” in the ancient Near East, 1400-1200 BCE, Chicago.
+
+Finkelstein 1953 I. Finkelstein, Cunciform texts from Tell Billa. Journal of Cuneiform Studies 7, 111-176.
+
+Fleming 1992 D. E. Fleming, The Installation of Baal’s High Priestess at Emar: A window on
+
+ancient Syrian religion, Harvard Semitic Studies 42, Aclanta.
+
+Fleming 2000 D. E. Fleming, Time ac Emar: The cultic calendar and the rituals from the diviner's archive, Mesopotamian Civilizations 11, Winona Lake (IN).
+
+Foster 1993
+
+B. R. Foster, Before the Muses: An anthology of Akkadian literature, Bethesda (MD).
+
+Izreel 1997 S. Izre’el, ‘The Amarna Scholarly ‘lablets, Cunciform Monographs 9, Groningen.
+
+Kramer et al. 1948
+
+S.N. Kramer — T. Baqir — S.J. Levy, Fragments of a diorite statue of Kurigalzu in the Iraq Museum. Sumer 4, 1-38.
+
+101 
+
+Nick Veldhuis
+
+Lenzi 2008 A. Lenzi, Secrecy and the Gods: Secret knowledge in ancient Mesopotamia and Biblical Israel, State Archives of Assyria Studies 19, Helsinki.
+
+Machinist 1984-1985 P. E, Machinist, ‘The Assyrians and their Babylonian problem: Some reflections.
+
+Jahrbuch des Wissenschaftskolleg zu Berlin 1984-1985, 353-364.
+
+Maul 1998 S. M. Maul, Marduk, Naba und der assyrische Fail: Die Geschichte cines sumerischen Sw’ilas, in: S. M. Maul (ed.), Festschrift fiir Rykle Borger zu seinem 65. Geburtstag am 24, Mai 1994: tikip santakki mala bagmu, Cuneiform Monographs 10, Groningen, 159-197.
+
+Moran 1992 W.E. Moran, The Amarna Lerrers, Baltimore.
+
+Myhrman 1911 D. W. Myhrman, Babylonian Hymns and Prayers, Publications of the Babylonian Section 1.1, Philadelphia.
+
+Pedersén 1985 O. Pedersén, Archives and Libraries in the City of Assur: A survey of the material from the German excavations. Pt. 1, Studia Semitica Upsaliensia 6,
+
+Uppsala.
+
+Sallaberger 1996
+
+W. Sallaberger, Rev. of: Fleming 1992. Zeitschrift fiir Assyriologic 86, 140-147.
+
+Slanski 2000 K. E. Slanski, Classification, historiography and monumental authority: The Babylonian entitlement naris (kudurrus). Journal of Cunciform Studies 52, 95-114.
+
+Van de Mieroop °2007 M. Van de Mieroop, A History of the Ancient Near East, Oxford.
+
+102
+
+Babvlonian Scholarship: Cuneiform Lexical Texts in the Late Bronze Age
+
+van Soldt 2001 WH. van Solde, Nahis-Salmu, an Assyrian scribe working in the “Southern Palace” at Ugarit, in: W”. H. van Solder - J. G. Dercksen — N. J. C. Kouwenberg - T. J. H. Krispijn (eds.). Veenhof Anniversary Volume: Studies presented to Klaas R. Veenhof on the occasion of his sixty-fitth birthday, Uirgaven van het Nederlands Historisch-Archaeologisch Instituut te Istanbul 89, Leiden, 429-444.
+
+Veldhuis 2000 N.C. Veldhuis, Kassite exercises: Literary and lexical extracts. Journal of Cuneiform Studies 52, 67-94.
+
+keldhuis 2008 N.C. Veldhuis, Kurigalzu’s statue inscription. Journal of Cunciform Studies 60, 25-51.
+
+Weidner 1952-1953 E. F. Weidner, Die Bibliothek Tiglatpilesers I. Archiv fur Orienttorschung 16, 197-215.
+
+Westenholz 2005 J. G. Westenholz, Sing a song for Sulgi. in: Y. Sefati — P. Arczi —- C. Cohen - B.L. Eichler - V. A. Hurowirz (eds.), “An Experienced Scribe Who Neglects Nothing”: Ancient Near Eastern studies in honor of Jacob Klein, Bethesda (MD), 343-373.
+
+JViggermann 2008 F. A. M. Wiggermann, A Babylonian scholar in Assur, in: R. J. van der Spek (ed.). Studies in Ancient Near Eastern World View and Society: Presented to Marten Stol on the occasion of his 65th Brithday, 10 November 2005, and his retirement from the Vrije Universiteit Amsterdam, Bethesda (MD), 203-234.
+
+Yamada 2006
+
+M. Yamada, The Hittite administration in Emar: Whe aspect of direct control. Zeitschrift fiir Assyriologie 96, 222-234.
+
+103
+

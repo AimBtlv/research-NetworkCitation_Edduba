@@ -1,0 +1,1008 @@
+# METADATA
+Author: Michel C.
+Title: Central Anatolia in the Nineteenth and Eighteenth Centuries BC
+Year: 
+Source_ID: Michel0000_CentralAna
+Source_Type: Article in Book: 
+Source_Role,Step_distance: 2 ,3,4 
+Pages: 111-136
+Web:  
+
+# TEXT
+
+Cécile Michel*
+Central Anatolia in the Nineteenth and Eighteenth Centuries BC
+At the beginning of the second millennium BC, certain sites in central Anatolia, such as
+Ac˛emhöyük and Kültepe, underwent considerable changes and attracted Assyrian mer-
+chants from the southeast. These sites have been excavated for several decades now. They
+have yielded abundant findings and have allowed us to better understand the environment
+and material culture of the societies indigenous to the region. The earliest written sources
+discovered in Anatolia are foreign: they belong to the archives of merchants from Asˇsˇur,
+who settled at the city of Kanisˇ in the 19th and 18th centuries BC. Kanisˇ, whose modern
+name is Kültepe, is located nearby the modern city of Kayseri. Although these documents
+record the traderelations between Assyrians and Anatolians, they also indirectly document
+the political organization of Anatolia and its constituent states. To reconstruct the history of
+a region based primarily on foreign sources necessarily limits the results: we are restricted
+to those areas of activity, within which the Assyrian merchants operated, and even within
+these areas, we get a very partial and fragmentary account of events. For example, the As-
+syrians never named the rulers of the different city-states that they resided in. Fortunately,
+the few surviving archives belonging to Anatolians offer a more detailed account.
+The period on which this article focuses is several centuries earlier than the founding
+of the Mittani state; in examining this era we would be hard pressed to learn, from the Ana-
+tolian point of view, something about the state’s origins or the circumstances of its rise to
+power. This study aims instead to paint a picture of the history and organization of Anatolia
+in the first centuries of the second millenium BC. A synoptic description of the Anatolian
+region and its resources during this period will permit us to better understand the political
+and economic organization of the small Anatolian states and to better analyze the different
+conflicts that set them against one another during the period documented in the Old Assy-
+rian archives. In theka¯rum of Kanisˇ, the Assyrians interacted regularly with Anatolians as
+well as other foreign merchants, including the Hurrians, who would later found the state of
+Mittani.
+* Director of Research at the CNRS, ArScAn-Histoire et archéologie de l’Orient cunéiforme, Maison René-
+Ginouvès, Archéologie et Ethnologie, Nanterre.
+CENTRAL ANATOLIA IN THE NINETEENTH AND EIGHTEENTH CENTURIES BC 111
+1 Anatolia and its resources at the beginning of the second millenium
+Hundreds of sites dating to the Bronze Age have been excavated in Anatolia. Nevertheless,
+only three sites from the Middle Bronze are known by their ancient names: Kültepe, in
+ancient times called Kanisˇ, Bog˘azköy, formerly Hattusˇ(a), and Ali¸sar, which seems to have
+once been known as Amkuwa.1 Although some sites, like Kültepe, have been excavated for
+over half a century, there have been, until now, very few attempts at a scholarly synthesis of
+the findings. Our understanding of material culture, society, and the political organization
+of sites in Anatolia regularly improves, as does our knowledge of the chronological context
+of archaeological finds. The development of different sites and their importance was di-
+rectly linked to their geographic location.
+1.1 The Anatolian space
+Anatolia consists of a central plateau with clay deposits that was shaped by numerous vol-
+canic formations and lacustrine depressions, bordered to the north and south by mountain
+ranges. The Asian peninsula of Turkey encompasses several geographic zones, all of which
+were more or less populated during the Middle Bronze Age in the first half of the second
+millennium BC.2
+To the north of the Anatolian plateau, the region bordering the Black Sea, there are
+large areas covered by woods and rich deposits of copper and silver, especially in the Pontic
+chain to the east. In this area there are relatively few urban centers that date to the Bronze
+Age, with the exception of the plain between the Kızılırmak and the Ye¸silırmak.3 In the
+West, there are also only a few major sites inhabited during this time period (see below).
+The Anatolian plateau takes up the major part of the Asian peninsula of Turkey. The
+Kızılırmak flows through its central part, which was densely populated during the Bronze
+Age; the river serves as a natural border. The most important sites of the Middle Bronze age
+were located in the fertile plane nestled along river bends. To the west of the Kızılırmak, the
+soil is drier and there are fewer inhabited sites. To the southwest, in the irrigated plane of
+Konya there were also fewer settlements, mainly inhabited by farmers and shepherds. To
+the southeast of the Kızılırmak, in the plane of Kayseri, Kültepe was the most important
+among a number of settlements that were occupied during the Middle Bronze age.4
+The long range of the Taurus Mountains also forms a natural border between the Anat-
+olian plateau and Cilicia to the south, as well as the Arab plateau to the southeast.5 The
+1 Michel 2008a.
+2 Yakar 2000.
+3 Dönmez– Beyazıt 2008.
+4 Yakar 2000; Sagona– Zimansky 2009, 225–252; Barjamovic 2011.
+5 Marro 2004.
+112 CÉCILE MICHEL
+plains of Göksun, Elazıg˘ and Elbistan, irrigated by numerous waterways, contain a concen-
+tration of smaller Bronze Age sites; these villages, inhabited by farmers, seem to have been
+oriented toward the Euphrates rather than toward Central Anatolia. The Assyrian caravans
+coming from Mesopotamia had to cross the Taurus at one of the few mountain passes, but
+they also had to travel through very densely forested land. To the southeast of the Taurus,
+the Euphrates constituted an additional natural border.6 The cities situated on the other
+side of the river, although strictly speaking not a part of Anatolia, nevertheless participated
+in the Assyrian trade network, even though the major commercial exchanges only occurred
+once the Euphrates had been crossed.
+1.2 Transportation in Anatolia
+The Anatolian plateau itself did not pose any major problems for the transportation of per-
+sons and goods; the areas close to the mountain ranges and rivers, however, were difficult to
+access and to cross. The waterways, depending on their size, depth, and the rapidity of their
+currents, were either crossed at a ford or with the help of a ferry or a bridge; one group of
+texts records the costs of using various river crossings.7 Guarded toll bridges spanned
+smaller streams, while travelers who crossed the Euphrates had to use ferries or small boats
+that were put at their disposal.8 Travelling through the arid steppes and mountain ranges
+posed other problems that were potentially dangerous to men, animals and the goods they
+were transporting, and thus certain precautions had to be taken. Accounts recording the
+employment of carriers and the renting of beasts of burden indicate that crossing the
+mountains was costly and difficult. Additional men had to be hired to protect against the
+bands of thieves that plied their trade in the mountains, stealing from and sometimes kill-
+ing the passing merchants.9 The trade agreements concluded between the Anatolian rulers
+and the Assyrians defined waterways and mountains as dangerous areas. A treaty signed
+between the Assyrians and the Anatolian authorities of Hahhum, a city on the Euphrates,
+addresses losses on the river itself, in the surrounding mountains, and anywhere within the
+lands of the local sovereign.10 Crossing the Anti-Taurus and Taurus was especially perilous
+for caravans coming from Asˇsˇur.11
+The Anatolian climate, continental in nature, featured hot and dry summers con-
+trasted with cold winters and heavy drifts of snow until well into springtime. These climatic
+variations impacted the movement of caravans, imposing a hiatus on long-distance com-
+6 Veenhof 2008b; Barjamovic 2011.
+7 Veenhof 2006 et 2008b; Michel 2008b.
+8 Veenhof 2008b.
+9 Michel 2008b, 372f., 380–384.
+10 Kt 00/k 10:ii 11–18,ka¯rum Ib, cf. Veenhof 2008a, 194–200.
+11 Forlanini 2006.
+CENTRAL ANATOLIA IN THE NINETEENTH AND EIGHTEENTH CENTURIES BC 113
+mercial activity in winter, as the routes through the mountains became inaccessible due to
+snow and storms. In fact, allusions to interruptions in travel due to freezing temperatures
+and closed roads during the cold season are common in the surviving documentation. Even
+though forests covered much of the Anatolian plateau, merchants were forced to travel
+through desert-like areas during the dry season and therefore had to choose their itineraries
+based on sources of water and places where they could re-provision. The journey was di-
+vided into several stages, with breaks at inns, where people and animals alike could rest.
+Caravan accounts included fees for inns, totaling several shekels of silver or tin or several
+minas of copper; other expenses included fodder and rent for stables for the donkeys as well
+as lodging and food for the merchants. A salary was sometimes added for the guards.12
+Thus, the regular passage of large caravans played an important role in local economies.
+1.3 The resources of the Anatolian states
+The Anatolian plateau was largely covered by forests, but a sizable portion of the region con-
+sisted of arable land and pastures. Farming and breeding livestock were the principle activ-
+ities of the small Anatolian states. The past several years have seen an increase in archaeo-
+botanical studies for various excavations of smaller sites in Anatolia, yet such studies are
+beginning for larger cities like Kültepe and Acemhöyük. Research carried out on the botan-
+ical remains at Kaman Kalehöyük, however, reveals the presence of no less than half a
+dozen varieties of grain. According to the textual evidence, the majority of non-irrigated
+fields were devoted to the cultivation of barley and wheat. The fields were alternately culti-
+vated and allowed to lay fallow.13 The many loan contracts that were made out to the Anat-
+olians provide a good documentation of the ancient agricultural calendar.14 Wheat was
+sown in autumn (era¯sˇum, “to work” and “to sow”), barley in the spring. Once the grain had
+ripened (kubur uttitim, from July to October), the grain was harvested with sickles (sibit nig-
+˙˙ ·
+gallim, esa¯dum “to harvest”), after which it was taken to the threshing floor (adrum). Finally,
+·
+the grain was sold in sacks at the market, or stored in large jars in the palace warehouses.
+The Anatolians also cultivated sesame in order to make oil for food, perfume, and light.
+In this period, land was owned either by farmers or by palace officials. Parts of the cul-
+tivated land were under the direct control of the palace itself. The urban population and the
+merchants of the ka¯rum, meanwhile, lived on the surplus agricultural goods sold at the
+markets.15 This surplus also provided the funds for hiring men and animals for the cara-
+vans and paid for their re-provisioning at the roadside inns across the plateau. Certain fields
+12 Michel 2008b, 377, n. 25, text TC3 165.
+13 Michel 1997; Fairbairn 2006; Fairbairn et al. 2007; Dercksen 2008b.
+14 Michel 1997; Dercksen 2008b; Veenhof 2008a, 234–245.
+15 Dercksen 2008a.
+114 CÉCILE MICHEL
+were tied to the palace by a service obligation (tuzinnum) whereas other domains (uba¯din-
+num) were given to high officials by the king.16 Landowners were required to give a portion
+of their harvests to the palace as a kind of tax. According to Yakar (1998), the communities
+that were established on the semi-arid plateau in the area around Kanisˇ had a largely self-
+sufficient agricultural economy. Nevertheless, the poorest farmers produced barely enough
+food for survival; they were often obliged to borrow grain in order to get by until the next
+harvest. They frequently mortgaged their lands against these debts.
+Irrigated farmland was used by both the palace and individual landowners for the cul-
+tivation of fruit trees, vegetables, lentils, chickpeas, onions, leeks, aromatic plants, spices
+and animal fodder (in particular, vetch).17 Commoners also paid a fee for the use of irrigated
+water.18 Olive picking took place in autumn (serdum). To the north of Kanisˇ, grapes were
+also cultivated; the harvest took place in September (qitip kera¯nim).
+Sheep and goat were allowed to graze the steppe and fallow fields. These herds were
+usually owned by the palace and were raised for meat, fat, milk, and wool. The sheep were
+plucked in the spring and the palace sold their wool in large quantities to the Assyrian mer-
+chants, who played the role of intermediaries in its trade;19 the wool produced at Mamma
+and Luhusaddia was particularly valued.20 The palace also raised mules, horses, oxen and
+dogs.21 Excavations of the kitchens at the palace of Ac˛emhöyük have revealed the remains of
+sheep and goats, but also of oxen and pigs.22 Commoners, meanwhile, often raised a few
+sheep and pigs in their backyards.23
+It was not, however, Anatolia’s agricultural production that attracted the Assyrian mer-
+chants but rather its richness in minerals.24 The Anatolians possessed great quantities of
+copper, but they depended on Assyrian imports for the supply of tin, which was used to pro-
+duce the highly valued bronze. The Assyrians, meanwhile, purchased gold and silver from
+the Anatolians to take home with them. Silver was extracted in the Taurus Mountains in the
+region to the south of Nig˘de; it was also imported from the west, and the city of Burusˇhat-
+tum was one of its major markets. Along with copper, silver was one of the principal forms
+of payment for small expenditures. One part of the silver acquired by the Assyrians was
+converted to gold at a rate of six to eight shekels of silver for one shekel of gold. The gold
+came from the west and southwest of Anatolia, as well as from the mountains to the north-
+east of Malatya.
+16 Dercksen 2004b.
+17 Michel 1997; Dercksen 2008b; Sturm 2008.
+18 Kt o/k 52:10–11, Albayrak 2001, 308. 311.
+19 Dercksen 2004a, 181–190.
+20 Michel 2006a; Michel– Veenhof 2010; Lassen 2010.
+21 Michel 2004; Dercksen 2008a; Kt g/t 35, cf. Balkan 1957 and Michel 2001, no. 62.
+22 Nicola– Glew 1999.
+23 Michel 1997; Michel 2006b.
+24 Dercksen 2005.
+CENTRAL ANATOLIA IN THE NINETEENTH AND EIGHTEENTH CENTURIES BC 115
+Anatolia was a major producer of copper; the most heavily exploited mines could be
+found along the coast of the Black Sea and in the region of Ergani.25 Durhumit was the prin-
+cipal market for copper.26 Copper was a cheap metal, and it served as a currency for the pur-
+chase of common goods. When it was alloyed with the tin that was imported by the Assy-
+rians it was used to manufacture bronze. The Assyrians purchased copper at Durhumit,
+refined it and traded it for silver at the markets in Burusˇhattum, Wahsˇusˇana and Kanisˇ.
+Bronze was used for the manufacture of tools, weapons, plateware and many other ob-
+jects.27 Metallurgical workshops discovered at Kültepe contained many moulds for bronze
+tools, weapons and ingots.28
+2 The Anatolian states: organization and relations
+The textual record offers little information about the political structure, size, and economic
+importance of the different Anatolian centers. The rare allusions to the political sphere
+principally concern the Anatolian elite– for the most part, princes and palace officials in-
+volved in negotiations with the Assyrians. We can also glean information from the sources
+regarding events that interrupted trade activities, such as conflicts, rebellions, or the ab-
+sence of the ruler. The latter could be either due to the king being on a journey or the throne
+being vacant. The growing number of publications of tablets from Kanisˇ in the last two dec-
+ades has made it increasingly possible to reconstruct more and more fragments of Anat-
+olian history. We must nevertheless recall that the surviving sources are primarily Assyrian
+and therefore only concern the regions within Anatolia that were visited by the Assyrian
+merchants.
+2.1 The zone of Assyrian activity in Asia Minor
+At the beginning of the second millennium BC, a dozen or so localities in central Anatolia
+underwent a process of rapid development: they were generally situated along the principal
+axes of circulation, and included Kültepe, Ac˛emhöyük, Karahöyük Konya and Bog˘azköy.
+Built on the ruins of Early Bronze Age settlements, these sites were fortified and now in-
+cluded an upper part with a palace and temples– signalling the development of monumen-
+tal architecture. The evolution of these cities seems to have been accompanied by profound
+political, economic and social changes. Indeed, it is at this moment that they– having pre-
+25 Dercksen 1996.
+26 Michel 1991.
+27 Özgüç 1986 and 2003; Dercksen 1996, 76–80; Sturm 2001; Michel 2008c.
+28 Özgüç 1986, 39–51; Müller-Karpe 1994, 49–66.
+116 CÉCILE MICHEL
+viously been nothing more than the capitals of very small territorial states– began to attract
+the interest of Assyrian merchants, who established themselves inka¯rum (orwabartum), lo-
+cated in the lower part of the cities.29
+The sites in the heartland of the Anatolian plateau are the main sources for our knowl-
+edge of Anatolian chronology: they have furnished us with a highly precise stratigraphy as
+well as numerous texts, seals and seal impressions. The Assyrians chose the site at Kültepe
+as the center of their commercial operations in Asia Minor, which explains the more than
+17,000 cuneiform texts discovered there over the last sixty years. Most of them were exca-
+vated in the lower city, which included living quarters for both Anatolian and Assyrian mer-
+chants, the central office of theka¯rum (b¯et ka¯rim, which has yet to be excavated), and a sanc-
+tuary for the god Asˇsˇur. The citadel site reveals 18 strata of human occupation, ranging
+from the Early Bronze Age to the Roman period (levels 10–6 correspond to the Middle
+Bronze Age); the lower city’s stratigraphy only covers the Middle Bronze Age (IV-I). Levels
+IV and III, which date to the end of the third millennium BC and cover a considerable sur-
+face area, have not furnished us with any written sources. Level II, which corresponds to the
+principal phase of Assyrian settlement in the area, was used from the last decades of the
+20th century BC until 1835 BC. Most of the archives that have been excavated thus far date
+to this period. The texts allow us to estimate that approximately 500Assyrians lived in the
+lower city. The quarter partially burned down but it does not seem to have been abandoned,
+as level Ib shows signs of occupation two or three years after the end of level II.30 This sec-
+ond period of Assyrian inhabitation lasted until the end of the 18th century. Trade with
+Assyria slowed down during this period, and the written sources exhibit few different sign
+forms and spellings.31 The merchant quarters in Ali¸sar (Amkuwa) and Bog˘azköy (Hattusˇ),
+which have each yielded less than one hundred tablets in excavations, are contempor-
+aneous with the level Ib at Kanisˇ.32 Level Ia of Kanisˇ, meanwhile, corresponds to a phase of
+Assyrian withdrawal; no written documents have been unearthed from this period, al-
+though the discovery of ceramics imported from Syria testifies to the ongoing exchanges
+occurring at this time between Anatolia and Upper Mesopotamia.33
+The trade documented in the detailed archives of the merchants at Kanisˇ dealt mostly
+with metals and textiles– neither of which has left much of a trace in the archaeological rec-
+ord. On the other hand, the rich findings of furniture discovered at Kanisˇ and other sites on
+the Anatolian plateau gives us an excellent idea of the material culture of the Bronze Age in
+the region. Ceramics, seals, and impressions of seals allow us to delimit the areas, in which
+the Assyrian merchants were active. This area can be specifically defined by the toponyms
+mentioned in the Assyrian archives. For example, to the Southwest, the site of Karahöyük
+29 Yakar 1998; Sagona– Zimanski 2009.
+30 Günbattı 2008.
+31 Kryszat 2008a.
+32 Dercksen 2001.
+33 Emre 1995; Emre 1999.
+CENTRAL ANATOLIA IN THE NINETEENTH AND EIGHTEENTH CENTURIES BC 117
+Konya produced a considerable number of seal impressions showing that this site was part
+of the trade network that was initiated by the Assyrians.34 According to the texts, Burusˇhat-
+ˇ
+tum and Saladuwar were the two most western cities in the Assyrian trade network. Bu-
+rusˇhattum can no longer be identified with Ac˛emhöyük,35 but Karahöyük Konya is a pos-
+sible candidate for its modern location, although Barjamovic (2011) situates it further to the
+ˇ
+west. Saladuwar was probably situated to the northwest of the Salt Lake, perhaps in the
+bend formed by the Sakarya Nehri. Wahsˇusˇana and Nenasˇsˇa were also located to the West
+of Kızılırmak. The cities of Ulama and Usˇsˇa, which were situated in the southern part of the
+plateau, also belonged to the trade network. To the north, the Assyrians traveled as far as
+Zalpa (Zalpuwa), close to the Black Sea. In the southeast, we assume that they never went
+further than Hahhum (Samsat), a city on the Euphrates, because the city of Karkemisˇ is not
+mentioned in the texts.
+2.2 The political organization of Anatolia
+At the beginning of the second millennium BC, central Anatolia was divided into multiple
+political centers, ranging in size from small, fortified city-states to true territorial states with
+a capital and surrounding villages. The archives of Kanisˇ mention about 500 toponyms.
+Unfortunately, their importance remains obscure in most cases. The Assyrians doubtlessly
+took up residence in the largest and most economically developed of the cities. The econ-
+omic resources of these states varied considerably depending upon their geographic lo-
+cation: certain regions played a crucial role in the silver trade (Burusˇhattum to the west),
+others in the copper trade (Durhumit to the north) and still others in wool (Mamma and Lu-
+husaddia to the south).36
+The Assyrian terminology for Anatolian political entities is not at all precise. The term
+ma¯tum, “country”, logically refers to the territory of a city-state. But certain Assyrian mar-
+riage contracts make a distinction betweena¯lum, “the City” (meaning Asˇsˇur), andma¯tum,
+“the Country”, which corresponds in this case to Central Anatolia.37 The archives dating to
+Level II of theka¯rum at Kanisˇ (19th century BC) mention the territories of Burusˇhattum,
+Kanisˇ, Luhusaddia, Wahsˇusˇana and Zalpa to the north. The region situated along the in-
+terior of the Kızılırmak bend– the “Hattum”– contained several important cities, including
+Amkuwa, Hattusˇ, Tawinia, and Tuhpia. A marriage contract summarizing the area of activ-
+ity for one Assyrian merchant references Kanisˇ, Burusˇhattum and the Hattum.38
+34 Alp 1968.
+35 Dercksen 2001, 60f.; Miller 2001; Michel 2002.
+36 Garelli 1989; Michel 1991; Michel– Veenhof 2010.
+37 ICK 13.
+38 Prag I 490.
+118 CÉCILE MICHEL
+The Assyrians first established themselves in Kanisˇ, the capital of a territorial state,
+which became their administrative center for the entire period. There were about ten vil-
+lages belonging to the kingdom of Kanisˇ (including Dadasun, Hailawakuwa, Meliliya, Tal-
+wahsˇusˇara, Tatasˇa, Tiwara and Utisˇa39). Next, the Assyrians slowly settled the region be-
+tween Upper Mesopotamia and Anatolia, and they createdka¯rums in the cities of Eluhut,
+Nihria, Hahhum, Ursˇu, Southern Zalpa, Timilkia, Tegarama, andS ˇ alahsˇuwa. Then they ex-
+panded their zone of activity towards the north (Hattusˇ,S ˇ imala,S ˇ inahutum, Tawinia, Tisˇ-
+murna, Tuhpia, Durhumit,S ˇ amuha), and to the west (Wahsˇusˇana andS ˇ aladuwar) and to-
+wards the southwest (Nenasˇsˇa, Burusˇhattum40). They also established themselves in about
+fifteenwabartums– a trading post under the authority of the nearestka¯rum– at Amkuwa,
+Hanaknak, Hurrama, Karahna, Kuburnat, Kusˇsˇara, Mamma,S ˇ amuha,S ˇ uppilulia, Ulama,
+Upe¯, Usˇsˇa, Wasˇhania, Northern Zalpa and Zimishuna. During the period of theka¯rum II,
+the Assyrians settled in more than forty localities.
+In the next phase, which corresponds to level Ib of theka¯rum at Kanisˇ (18th century
+BC), some states increased in size and importance, while others disappeared entirely from
+the Assyrian zone of activity. Kanisˇ was among the largest with more than twenty villages in
+its territory, as recorded in a list of palace personnel discovered in the remains of the cita-
+del.41 The kingdom of Mamma also seems to have had vassals, according to a letter sent by
+its king.42 Burusˇhattum in the west disappeared entirely from the documentation in this
+period, while Wahsˇusˇana became insignificant. The number of cities with an Assyrian mer-
+chant “colony” also diminished: the texts mention only ten ka¯rums (Durhumit, Eluhhut,
+Kanisˇ, Kuburnat, S ˇ aladuwar, S ˇ uppilulia, Tawinia, Tegarama, Wahsˇusˇana and Wasˇhania)
+and fivewabartums (Amkuwa, Hurrama?, Mamma,S ˇ amuha, Timilkia?).
+In spite of all this information, it is impossible to delineate the frontiers of the king-
+dom of Kanisˇ or its neighbors. The territory of Kanisˇ bordered to the southeast the terri-
+tories of Luhusaddia, Hurrama, andS ˇ alahsˇuwa. Contracts for the sale of slaves seem to sug-
+gest that the major political frontier was the Euphrates.43
+2.3 The internal political organization of Anatolian states: the example of Kaniˇs
+Each city-state was ruled by a dynasty. The rulers were alternately calledruba¯’um, “prince”,
+andruba¯tum, “princess”, but were also often known just by a nisba (“Man of GN”: Hattu-
+sˇa¯ıum, Nenasˇsˇa¯ıum, Wahsˇusˇana¯ıum, Timilkia¯ıum and Tipurzia¯ıum). The Akkadian term
+39 Forlanini 1992; Dercksen 2008b.
+40 Veenhof 2008a, 164–167.
+41 Kt g/t 36 and Kt g/t 42 + Kt z/t 11, Bilgiç 1964; Günbattı 1987; Forlanini 1992, 175f.; Dercksen 2004b; Derck-
+sen 2008b.
+42 Balkan 1957; Michel 2001, n. 62.
+43 Hecker 1997.
+CENTRAL ANATOLIA IN THE NINETEENTH AND EIGHTEENTH CENTURIES BC 119
+sˇarrum “king” was used in the plural as sˇarra¯num during the ka¯rum Ib to designate petty
+kings, vassals of the princes of Mamma and Kanisˇ. The Sumerian equivalent, LUGAL, was
+used for the term ruba¯’um in the expression LUGAL GAL, meaning “Great Prince” (the
+equivalent of ruba¯’um rabi’um). Certain kingdoms were governed by a princely couple,44
+others by a princess ruling alone.45 In these latter cases, we are not certain whether the
+woman in question was a widow or the daughter of a ruler who died without a male heir.
+In the ka¯rum II period, we know of fifteen Anatolian states that were governed by a
+“prince”: Amkuwa, Burusˇhattum, Durhumit, Hattusˇ, Hurrama, Kanisˇ, Kuburnat, Luhus-
+addia, Mamma, Nenasˇsˇa,S ˇ inahutum, Tawinia, Timilkia, Tuhpia, Wahsˇusˇana, Wasˇhania. At
+˘
+Burusˇhattum, the local ruler was sometimes called “Great Prince”, ruba¯’um rabi’um and
+must have had vassals.
+Anatolian legal documents in theka¯rum Ib period give the name of a local ruler and of
+hisrabi simmiltim (literally “chief of the stairs”), a title which sometimes corresponds to that
+of crown prince. Coming from Kanisˇ, these sources are primarily concerned with the local
+dynasty46 (see below). Princes are also referenced at other Anatolian sites – at Amkuwa,
+Kanisˇ, Luhusaddia, Mamma, S ˇ alahsˇuwa and Tawinia – but we do not know their names.
+The ruler exercised power from his palace. It was the center of the Anatolian adminis-
+tration and housed many hundreds of people, including high officials in charge of different
+sectors, workers, and artisans. The building called the “palace of Warsˇama”, dating from
+layer Ib at Kanisˇ, occupied more than a hectare.47 Old Assyrian sources dating to the level II
+period mention palaces at fifteen different locations; in the following period, only the palace
+at S ˇ alahsˇuwa is mentioned. The fifty surviving titles we have for Anatolian officials (gen-
+erally constructed on the principle of rabi+substantive) suggest a sophisticated adminis-
+tration that oversaw every sector of the palace economy. However, we know little about the
+activities of individual officials.48 The known titles are Assyrian translations of Anatolian
+terms, and they sometimes cause confusion. At the top of the hierarchy was therabi sim-
+miltim; below him were therabi sikkatim, who had commercial and military responsibilities
+(he supervised the “chief of the troops”,rabi ummana¯tim), and therabi hursˇa¯tim, “chief of
+warehouses”, who was in charge of the palace storage units. The responsibilities of the “sec-
+ond man”, thesˇinahilum, are unclear, as are those of the “steward” (alahhinnum), especially
+as it appears to be possible for one person to hold both offices. These two terms, borrowed
+from Hurrian, are attested in other Akkadian texts;49 they also appear in the abstract form
+in the Old Assyrian corpus (alahhinnuttum,sˇinahiluttum).50 The “majordomo”,rabi b¯etim,
+44 KTK 106; Kt 93/k 145.
+45 Kanisˇ: Michel 2001, n. 207; Luhusaddiya: Michel 2001, n. 10; Wahsˇusˇana: KTS150c; Ali¸sar: OIP275.
+46 Veenhof 2008a, 169–173.
+47 Özgüç 2003, 187–192.
+48 Veenhof 2008a, 219–245.
+49 Dercksen 2007, 37f.
+50 Veenhof 1989, 518.
+120 CÉCILE MICHEL
+supervised the palace domain, while the “chief of the gates”,rabi abulla¯tim, along with the
+“chief of the porters”,rabiu¯tu’¯e, oversaw the palace entrances, undoubtedly assisted by the
+guards under the authority of the “chief of the guards”,rabi massara¯tim.
+··
+Among the prince’s intimates were the “chief scepter-bearer”,rabi hattim, the “chief
+˙˙
+cup-bearer”, rabi sˇa¯q¯e, and the “chief of the tables” rabi pasˇsˇu¯r¯e. The prince’s private staff
+perhaps also included the “chief vizier”,rabisˇukkallim, the “chief of the heralds”,rabi na¯-
+gir¯e, the “chief of the messengers”,rabi la¯sim¯e, and the “chief of the interpreters”,rabi tar-
+gumann¯e.
+The “men”,aw¯ıl¯e, the “workers”,sa¯b¯e, and the “slaves”,urd¯e, were overseen by three
+·
+different officials. The artisans, under the overall direction of the “chief of the workers”,
+rabi sa¯b¯e/sa¯bim, were further separated into different trades, each supervised by another
+· ·
+chief, such as the “chief of the metalworkers”,rabi nappa¯h¯e, who worked closely with the
+“chief of the arms”,rabi kakk¯e, himself answerable to therabi sikkatim. In the agricultural
+sector, we find the “chief of the barley”, rabi sˇe’¯e, the “chief of the threshing floor”, rabi
+adrim, the “chief of the gardens”, rabi kiria¯tim, and the “chief of the gardeners”, rabi
+nuk(i)ribb¯e. Other officials were given charge of a single sector of production, like the “chief
+of the vegetables”,rabiu¯rq¯e, “the chief of the wine”,rabi kira¯nim, the “chief of the flax”,rabi
+kitta¯tim, and the “chief of the oil”,rabisˇamnim, who was charged with collecting (sesame?)
+oil and distributing it throughout the palace. The “chief of the wood”,rabi esse, was probably
+··
+responsible for supplying the palace and its kitchens with firewood. The officials who over-
+saw the palace flocks were given titles reflecting the animals they were charged with super-
+vising: the “chief of the horses”,rabi sis¯e, the “chief of the mules”,rabi perdim, the “chief of
+the dogs”,rabi kalba¯tim. One Peruwa, apparently “chief of the shepherds”,rabi r¯e’¯e/r¯e’im,
+whose records were unearthed during the earliest excavations at Kültepe, accumulated
+enough wealth to purchase an entire village. The goods produced by the palace lands were
+doubtlessly sold under the authority of the “chief of the market”,rabi mah¯ırim. In the reli-
+gious domain, finally, the prince had at his disposition the “chief of the oblates”,rabisˇar¯ıq¯e,
+and the “chief of offerings”, rabi niq¯e. The palaces of Anatolia were clearly economic
+centers, and had many dealings with foreign merchants.
+Aside from palace officials and artisans the Anatolian population was essentially rural,
+free but poor (hupsˇum). The farmers cultivated just enough to support the needs of their
+family, and the majority of the land belonged to the urban elite and to the palace. The prince
+often bestowed land or even entire villages on palace officials, either as gifts that they were
+then free to resell, or as compensation for services rendered. The service due to the king or
+to a high official – called arha¯lum, and mentioned only in the archives at Kanisˇ – was
+required only if someone lived in the “household of the king”; if the person left the house-
+hold (because of a divorce, for example), he became exempt from service.51 Among the
+kinds of service that counted for thearha¯lum was the corvée (unusˇsˇum), principally docu-
+51 Dercksen 2004b, 140–147.
+CENTRAL ANATOLIA IN THE NINETEENTH AND EIGHTEENTH CENTURIES BC 121
+mented during theka¯rum Ib and whose name, Hurrian in origin, also appears in the sec-
+ond half of the second millennium at Alalakh IV and at Ugarit (asb¯elu¯ unusˇsˇim).52 In one
+surviving trade agreement, the ruler of Kanisˇ promises not to disturb the Assyrians while
+taking a census of the people bound to theunusˇsˇum service.53
+It was not unusual that individuals entered into slavery in order to pay off a debt, either
+sold by a relative or by themselves; they could buy their freedom back after a certain amount
+of time had passed. The amount of time that had to pass was agreed upon when the person
+was sold into debt slavery, and usually they had to pay at least double the price of their orig-
+inal debt. The sale of Anatolian slaves was supervised by the reigning prince or by one of his
+representatives.
+The texts offer little information on the priesthood, and we have no understanding of
+the organization of the temples. The only temples mentioned are those to Anna and Nipas.
+The patron deity of Kanisˇ seems to have been Anna (ilat a¯lim) and the texts give other
+names to the deities revered by the inhabitants of the city-state: Hikisˇa, Ilalianta, Kubabat,
+the Lord of the Battle (B¯el qablim), Nisaba (Halki), Pirwa, the storm god, and the sun god.
+We also know the names of a certain number of priests, either because they appear in com-
+mercial transactions, or because they were landowners, but we know nothing of their activ-
+ities in the religious cult.54
+2.4 Foundations for a political history of Anatolia
+Giving a continuous account of the political history of Anatolia during theka¯rum periods
+would be impossible at this stage; in fact, the information given by the Assyrian archives on
+local political events is brief and undated. During the level II at Kanisˇ (ca. 1950–1835 BC),
+the Anatolian city-states, whether powerful or weak, were sometimes allies and sometimes
+rivals; their urban centers were all fortified, suggesting repeated conflict. Each city-state
+secured trade agreements with the Assyrians independently of the others.55 The absence of
+a strong central power in Anatolia undoubtedly helped the commercial activities of the
+Assyrians, whose business in turn guaranteed a certain degree of intra-Anatolian stability
+by unifying the local trade in copper and wool. The peace guaranteed by the commercial
+treaties reflected an ideal situation, not necessarily the reality: the correspondence of mer-
+chants testifies to various internal political problems, including unrest following the death
+of a prince, rebellions of various kinds, and the forming of coalitions and conflicts between
+the Anatolian states.56 A vacant throne or political instability within a city-state often
+52 von Dassow 2008, 162f.
+53 Kt00/k 6:84, Günbattı 2004; Veenhof 2008a, 193.
+54 Kryszat 2006.
+55 Veenhof, in print.
+56 Michel 2008a; Michel 2008b.
+122 CÉCILE MICHEL
+brought caravan traffic to a halt, or even caused the city to be closed to foreigners.57 The ab-
+sence of a local sovereign during a military expedition could plunge the state into anarchy;58
+similarly, the belligerent behavior of a ruler could disrupt trade in the region: “the king has
+shed blood and his throne is no longer secure. The treaties are postponed. The princes are
+watching one another.”59 Certain texts refer to the oaths (mam¯ıtum) sworn by different sov-
+ereigns so as to form an alliance, like that between Wahsˇusˇana and Kanisˇ;60 but the refer-
+ences to conflicts between Anatolian states are more frequent, as Assyrian merchants were
+sometimes unwillingly involved. Asˇsˇur-takla¯ku, whose archives were excavated in 1993,
+seems to have been taken hostage in the war between Tawinia and Wasˇhania.61 The move-
+ments of kings are also mentioned in the archives whenever they cause the caravan routes
+to be closed to commercial traffic;62 these royal journeys reflected diplomatic relations be-
+tween certain Anatolian princes.
+The period of the ka¯rum II was marked by an ongoing war to the west between the
+cities of Burusˇhattum and Wahsˇusˇana, a conflict in whichS ˇ aladuwar was involved several
+times: “Invade the land of Wahsˇusˇana! Otherwise, I am your enemy.”63 And again: “until
+therabi sikkatim makes the princes of Burusˇhattum, Usˇunalam, and Wahsˇusˇana swear an
+oath, he must not visit (these places)”.64 The battle turned in favor of the city-state of Bu-
+rusˇhattum, the main market for silver, which took on importance at the end of theka¯rum II,
+during which the Assyrian community abandoned the city of Wahsˇusˇana.65 In the same
+period (or perhaps at the beginning of theka¯rum Ib), the princes ofS ˇ inahutum, Amkuwa
+and Kapitra joined in an alliance against the king of Hattusˇ.66
+The information at our disposal for the period of theka¯rum Ib in Kanisˇ (ca. 1830–1700)
+changes as the sources are of lesser quality and of a very different nature. References to
+relations between the principalities become rarer, and the majority of references to the local
+princes themselves come from Anatolian contracts notorized by the local sovereign and by
+the rabi simmiltim; ka¯rum Ib has also yielded several trade agreements. Hurmeli?, Har-
+patiwa, Inar and his son Warsˇa/uma, Pithana and his son Anitta, and Zuzzu succeeded to
+the throne of Kanisˇ during the 18th century BC.67 In a letter addressed to Warsˇama, prince
+of Kanisˇ, Anum-hirbe, Hurrian prince of Mamma, recounts the invasion of his kingdom
+and the plundering of his villages by a vassal of the ruler of Kanisˇ; he also refers to the long
+57 Kt93/k 179 and 237; Michel 2008a.
+58 Kt92/k 526; Veenhof, in print.
+59 Michel 2001, no. 98 et 99.
+60 Michel 2001, no. 65.
+61 Michel– Garelli 1996; Günbattı 2001; Michel 2008a.
+62 Kt93/k 685, 7–18; see also Kt92/k 194.
+63 Michel 2001, no. 57.
+64 Michel 2001, no. 100 and also no. 64.
+65 Barjamovic et al. 2012; Veenhof, in print.
+66 KTK10, Larsen 1972; Michel 2001, no. 63.
+67 Veenhof 2008a, 169–173; Kryszat 2008b; Kryszat 2008c; Barjamovic et al. 2012.
+CENTRAL ANATOLIA IN THE NINETEENTH AND EIGHTEENTH CENTURIES BC 123
+siege of Harsamna carried out by his father, Inar.68 The same conflict may have been refer-
+enced in an unpublished letter sent to theka¯rum at Kanisˇ by the assembly of Asˇsˇur: it gives
+an account of a war between Harsamna and Zalpa, just after the death ofS ˇ amsˇ¯ı -Adad and
+the ascension of Isˇme-Dagan to the throne.69 The reigns of Pithana and Anitta are docu-
+mented by the Anitta text, a later Hittite document, which recounts how Pithana, king of
+Kusˇsˇara, conquered Kanisˇ and dethroned its king.70 Anitta succeeded his father to the
+throne of Kanisˇ and enjoyed great success on the battlefield: he bestowed upon himself the
+title of Great Prince (ruba¯’um rabium). He destroyed Hattusˇ around 173071 and occupied the
+palace of Warsˇama, which he had not destroyed. As the new king of Kanisˇ he ordered the
+construction of two temples. Zuzu, king of Alahzina, the latest of the conquerors of Kanisˇ,
+is the last known ruler (Great Prince) of Kanisˇ; he probably reigned from about 1725 until
+the last years of the 18th century.72 The rivalries between Anatolian states seem to have been
+the cause of the end of the ka¯rum Ib: several kingdoms disappeared entirely and are no
+longer documented during the Hittite period.
+3 The population of the trading posts in Anatolia
+The main motivation for the presence of the Assyrians in Asia Minor was above all related
+to trade and was based on the treaties ratified by local authorities; other merchants, coming
+from Syria and Upper Mesopotamia, also frequented the Anatolian trading posts. At Kanisˇ,
+the relations between foreign merchants (especially Assyrian) and the Anatolians went
+beyond just the exchange of trade-goods; interactions between the two communities are vis-
+ible in the material culture, the language and the writing. Mixed marriages became com-
+mon and a hybrid society developed within the lower city.73
+3.1 The Assyrians
+The Assyrians living in the lower city quarters were administratively and legally indepen-
+dent from the local authorities. Yet they were connected to the government of Asˇsˇur via the
+ka¯rum at Kanisˇ. Interactions with local authorities were determined by the treaties signed
+by the representatives of theka¯rum and the local prince; these agreements recognized the
+mutual and complementary interests of the two parties and guaranteed peaceful coexist-
+68 Balkan 1957; Miller 2001.
+69 Günbattı 2005.
+70 Warsˇama, ca. 1750; Carruba 2003; Barjamovic et al. 2012.
+71 Kryszat 2008c.
+72 Kt j/k 625 and Kt89/k 625; ca. 1716 according to Barjamovic et al. 2012.
+73 Michel 2010.
+124 CÉCILE MICHEL
+ence between them. The Anatolian palace collected an import duty on merchandise and
+had preemptive purchasing rights to textiles; in exchange, the Assyrians were permitted to
+reside within the ka¯rum and were accorded certain protections. Similarly, their caravans,
+men, animals and merchandise were protected along guarded routes.74 The first Assyrians
+to settle at Kanisˇ, usually the eldest sons of trading families, came to Anatolia to represent
+their family firms. They did not necessarily come from the wealthiest classes of Asˇsˇur, but,
+being generally richer than the indigenous population, they quickly became the major
+creditors in Anatolia. Many of them had houses in theka¯rum; others lived temporarily in
+the homes of other Assyrians, sometimes leaving their archives there.75
+Two treaties dating from theka¯rum Ib have been discovered at Kanisˇ in recent years:
+one was negotiated with the Great Prince of Kanisˇ (either Anitta or Zuzu) and the other
+with dignitaries from Hahhum.76 They guaranteed that caravan traffic would continue
+even during times of conflict, and depict a situation slightly different from that of the
+ka¯rum II. The texts thenceforth distinguish Assyrians who resided in the ka¯rum (wasˇbu¯-
+tum) from those involved in the caravan trade with Asˇsˇur (a¯liku¯sˇsˇa harra¯n a¯lim).77 The
+former, who were completely invested in intra-Anatolian trade, seem to have been less
+prosperous, and often in debt. Individual clauses in the treaties therefore protected Assy-
+rian households withtamka¯rum or widows from seizure of property by Kanisˇites,hap¯ıru¯, or
+the local prince.78
+3.2 The “Anatolians”
+In the lower city, the Assyrians dealt with many different ethnic groups whom they invari-
+ably designated with the generic term nu’a¯’um, meaning “Anatolian”. For the Assyrians,
+this term was not pejorative; the Anatolians, meanwhile, designated the Assyrians by the
+wordtamka¯rum, which signifies “the merchant”.79 The Anatolians in Kanisˇ lived either in
+the citadel or in the lower city; those who lived in the latter were often merchants. Many of
+them bore personal names with either a Hittite or Luwian etymology; certain others had
+names of Hattic origin – an agglutinative language which does not belong to any known
+linguistic family but which seems to have been influenced by Luwian.80 The Hittites and
+Luwians, both Indo-European populations, seem to have arrived in central Anatolia during
+the last centuries of the third millennium. Hittite became the dominant language in central
+74 Michel 2001, no. 87; Veenhof 2003.
+75 Michel– Garelli 1997, 27–34.
+76 Günbattı 2004; Veenhof 2008a, 183–218.
+77 Barjamovic et al. 2012.
+78 Veenhof 2008a, 147–182.
+79 Michel 2010.
+80 Garelli 1963, 127–168; Dercksen 2002; Goedegebuure 2008.
+CENTRAL ANATOLIA IN THE NINETEENTH AND EIGHTEENTH CENTURIES BC 125
+Anatolia from about the 19th century forward; the majority of linguistic borrowings dis-
+covered in the Old Assyrian archives are taken from an early form of Hittite.81
+The archives discovered in certain houses in theka¯rum in Kanisˇ show a concentration
+of houses belonging to the Assyrians in the north and more houses belonging to the Anat-
+olians in the south, but the separation between the communities was not so clear. Assyrians
+and Anatolians interacted on a daily basis and the use of different languages does not seem
+to have been an obstacle to communication, a fact confirmed by the numerous “native”
+words to be found in Old Assyrian texts. The interpreters (targumannum) were not numer-
+ous and seem to have been principally employed by the government administration to
+maintain commercial and diplomatic relations between local palaces and theka¯rum offices.
+It is possible that these translators may have offered their services to other foreign mer-
+chants doing business in Kanisˇ.
+3.3 The Hurrians and other foreigners in Anatolia
+The archives taken from Kanisˇ mention other groups of foreigners, designated by the lan-
+guages they speak: certain personal names have an Amorite or Hurrian etymology, and cer-
+tain individuals are identified as natives of foreign places, such as Ebla, indicating that there
+were close commercial contacts between the Anatolian plateau and northern Syria.82 The
+laws of the city of Asˇsˇur prohibited Assyrians from selling gold to the different groups they
+traded with at Asˇsˇur (except to the Elamites) or on the road to Asia Minor, including the
+Akkadians (meaning Babylonians) to the south of Asˇsˇur with whom they traded goods; the
+Amorites, whose territories they crossed where the Euphrates curves to the west, at the
+Upper Jazirah (where the village of Nihriya, among others, is located); and the Subareans
+(or Hurrians), who lived to the north of Asˇsˇur along the Tigris and in the mountains of
+Upper Mesopotamia.83 The gods of Amurru and Subartu are invoked in a treaty ratified be-
+tween Asˇsˇur and Apum.84
+During ka¯rum Ib period (18th century), the Hurrians, who several centuries later
+would found the kingdom of Mittani, progressively settled west of the Euphrates, south of
+the Anti-Taurus, and east of Anatolia.85 Although tablets dating from theka¯rum II at Kanisˇ
+contain words of Hurrian origin86 as well as cloth produced in Hurrian territory or woven in
+the Hurrian style,87 the majority of Hurrian personal names mentioned in the Old Assyrian
+81 Dercksen 2007.
+82 Bilgiç 1992; TPAK1 109:4; Kt88/k 525:5–6, cf. Michel 2010b; Kt91/k 338:2; Kt94/k 421:28.
+83 Michel 2001, no. 2.
+84 Eidem 1991; Kryszat 2003.
+85 Veenhof 2008c; Wilhelm 2008; Michel 2012.
+86 Dercksen 2007.
+87 Michel– Veenhof 2010; Michel 2012.
+126 CÉCILE MICHEL
+archives appear in texts dating from theka¯rum Ib. This is the case, for example, with two
+letters addressed to a Hurrian named Unapsˇe, who had temporarily or definitively settled in
+Kanisˇ.88 In the first of these letters, Ehli-Addu, writing from western Syria, reclaims the re-
+imbursement of a debt left unpaid for two decades; he mentions witnesses in the city of
+Hasˇsˇum, quite certainly located in the region of Gaziantep.89 In the second letter, Abduata
+asks Unapsˇe to send a tablet containing a proposition about a sale of textiles to a scribe who
+understands and reads Hurrian.90 In both cases, these letters have no connection to other
+documents in the archive. Two other documents excavated in 1990 contain foreign names,
+mostly Hurrian. The arbitration Kt 90/k 358+359, dating presumably to the ka¯rum Ib
+period and concerning commercial affairs that took place in part at Burusˇhattum, involved
+one Urumum and the Hurrian Dakip-sˇarri.91 The letter Kt90/k 360 was addressed to five
+persons bearing Amorite and Hurrian names: G/Kalali, whose official title,halsuhlu, was
+·
+Hurrian, the Amorite Zimr¯ı-Addu, or Hasˇip-Tesˇsˇup, a Hurrian personal name that is men-
+tioned in the archives of Shemshara, and later in those of Nuzi.92 The foreign syllabary and
+composition of this letter, which recalls festive days spent by the author in the company of
+the ruler of Kanisˇ, suggests that it was sent from somewhere along the Upper Tigris or east
+of the river. These various documents indicate that during theka¯rum Ib, new populations
+took an interest in trade with Anatolia. Finally, the best known Hurrian, who moved into
+Anatolia in the 18th century BC, is the ruler of Mamma, Anum-hirbe, who was the author of
+a letter sent to his counterpart at Kanisˇ.93
+3.4 Relations between different ethnic groups
+At Kanisˇ, the Assyrians settled in the lower city; they purchased houses built in the local
+style and used the pottery produced by local craftspeople for their everyday needs. Never-
+theless, certain traces bear witness to their foreign origins.94 Artifacts discovered in their
+tombs and houses indicate cultural practices that were typical for the Assyrians. Although
+they were immersed in a cultural and linguistic environment that was very different from
+their own, the Assyrians adapted their vocabulary to the local realities. The Old Assyrian
+tablets include numerous loandwords, not only from an early version of Hittite spoken at
+Kanisˇ, but also from Hurrian.95 Unfortunately, the documentation is very vague when it
+88 AKT434:23.
+89 Kt k/k 4, Hecker 1991 and 1996; Wilhelm 2008.
+90 Subarean; Kt91/k 539, Veenhof 2008c.
+91 Michel 2010b.
+92 Michel 2010b.
+93 Balkan 1957; Miller 2001.
+94 Michel 2010a.
+95 Dercksen 2007.
+CENTRAL ANATOLIA IN THE NINETEENTH AND EIGHTEENTH CENTURIES BC 127
+comes to information on the integration of other foreigners into the culture of the lower city
+at Kanisˇ; for example, written documents mentioning the Hurrians, whose presence is par-
+ticularly well attested during the ka¯rum Ib, are still too few to allow for any major con-
+clusions.
+The Anatolians, meanwhile, adopted the system of syllabic writing used by the Assy-
+rians but did not attempt to apply it to their own language; they preserved the Old Assyrian
+dialect, which had become the language of diplomacy. It is well known that Anatolian
+scribes in the major urban centers wrote contracts that contained certain grammatical er-
+rors, for example, confusing grammatical genders, clearly indicating the different linguistic
+environments.96 Furthermore, some of the houses, in which archives were found, be-
+longed to indigenous Anatolians. The Anatolians, who traditionally used stamp seals,
+began using the cylinder seal under the influence of the Assyrians and developed a local
+style that borrowed elements from Old Babylonian, Old Assyrian and Old Syrian styles, all
+of which had arrived through trade.97
+At first the Anatolians acted as clients of the Assyrians: they purchased Assyrian mer-
+chandise, paid directly or with credit, and those who did not belong to the elite often ap-
+peared in the records as debtors to the Assyrians, owing small sums of silver, copper, or
+sacks of grain. Some Anatolians, however, entered into real trade partnerships with the As-
+syrians: they were entrusted with merchandise, lending capital and selling slaves. During
+their lengthy residency in Anatolia, certain Assyrians, already married at Asˇsˇur, got mar-
+ried for a second time to Anatolian women.98 Others settled in Kanisˇ with their families;
+Assyrian widows took Anatolian men as second husbands. The Assyrian population of
+Kanisˇ decreased perceptibly during the second half of the 18th century (at the end of the
+ka¯rum II); nevertheless, long-distance trade continued with Asˇsˇur. According to the royal
+archives at Mari, in the 18th century BC (during the ka¯rum Ib), great trade caravans still
+traveled between Asˇsˇur and Kanisˇ, and this trade remained profitable both for investors in
+Asˇsˇur and Assyrians in Kanisˇ, who had accounts at the local trading post. Many Assyrian
+merchants gradually climbed upwards on the social scale, while other Assyrian merchants
+got more and more involved in the local trade in copper and wool, lost contact with their
+countrymen in Asˇsˇur, and at times became impoverished. Specific clauses included in the
+treaties dating from theka¯rum Ib make some attempts at protecting these Assyrians, who
+were cut-off from their homeland and increasingly immersed in a hybrid Assyrio-Anatolian
+community.99
+96 Dercksen 2007; Kryszat 2008a.
+97 Özgüç 1965; Özgüç 2006.
+98 Michel 2008d.
+99 Michel 2010a; Barjamovic et al. 2012.
+128 CÉCILE MICHEL
+The Old Assyrian archives excavated at Kanisˇ, Amkuwa and Hattusˇ allow us to reconstruct
+some aspects of the political, economic and social history of Anatolia in the first centuries of
+the second millennium BC. The presence of the Assyrians in Central Anatolia was pri-
+marily economic and not political. They were the most numerous and best organized
+foreigners in the Anatolian trading posts, especially at Kanisˇ, where they did business with
+other merchants from southwestern Turkey, from northern Syria and from Upper Mesopo-
+tamia. Among the Upper Mesopotamians, individuals bearing Hurrian names, although
+rare during theka¯rum II, seem to have become well established in eastern Anatolia during
+the ka¯rum Ib. Their arrival in Anatolia from Upper Mesopotamia, where certain Hurrian
+rulers reigned (in, for example, the state of Idamaras100), seems to have coincided with
+·
+the reign of S ˇ amsˇ¯ı-Adad.101 Letters found at Kanisˇ, most probably dating to the ka¯rum
+Ib, which contain an unusual syllabary as well as Hurrian expressions and personal
+names, show the increasing interest the Hurrians had for Anatolia, where certain Hurrian
+speakers had taken power.102 In any case, the documentation of the Hurrian presence
+in Anatolia in the 18th century BC remains limited: only 2% of the discovered documents
+at Kanisˇ date from the ka¯rum Ib period, and they are for the most part still unpublished.
+Finally, with the departure of the Assyrians involved in long distance trade at the end of
+the 18th century, writing disappeared from Anatolia for nearly a century, during which
+time the Hurrian presence must have slowly taken on a more substantial and structured
+form.103
+Bibliography
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Albayrak 2001
+I˙. Albayrak, Kültepe Metinlerinde Geçen m¯a’û “Su” Kelimesi, Anadolu Medeniyetleri Müzesi
+2000 Yıllıg˘ı (Ankara 2001) 300–311.
+Alp 1968
+S. Alp, Zylinder und Stempelsiegel aus Karahöyük bei Konya, TTKY V/26 (Ankara 1968).
+Balkan 1957
+K. Balkan, Letter of King Anum-Hirbi of Mama to King Warshama of Kanish, TTKY VII/31a
+(Ankara 1957).
+Barjamovic 2011
+G. Barjamovic, A Historical Geography of Ancient Anatolia in the Old Assyrian Colony
+Period, CNIP38 (Copenhagen 2011).
+100 Cf. Guichard (this volume, p. 147–160).
+101 Cf. J. Eidem (this volume (p. 137–146).
+102 Anum-hirbe at Mamma, for example; Miller 2001.
+103 Cf. de Martino (this volume p. 61–74).
+CENTRAL ANATOLIA IN THE NINETEENTH AND EIGHTEENTH CENTURIES BC 129
+Barjamovic et al. 2012
+G. Barjamovic – Th. Hertel – M. T. Larsen, Ups and Downs at Kanesh – Chronology, History
+and Society in the Old Assyrian Period, OAAS 5, PIHANS 120 (Leiden 2012).
+Bilgiç 1964
+E. Bilgiç, Three Tablets from the City Mound of Kültepe, Anatolia8, 1964, 145–163.
+Bilgiç 1992
+E. Bilgiç, “Ebla” in Cappadocian Inscriptions, in: H. Otten et al. (eds.), Hittite and Other
+Anatolian and Near Eastern Studies in Honour of Sedat Alp (Ankara 1992) 61–66.
+von Dassow 2008
+E. von Dassow, State and Society in the Late Bronze Age Alalah under the Mittani Empire,
+˘
+SCCNH17 (Bethesda 2008).
+Dercksen 1996
+J. G. Dercksen, The Old Assyrian Copper Trade in Anatolia, PIHANS75 (Istanbul 1996).
+Dercksen 2001
+J. G. Dercksen, ‘When we met in Hattusˇ’. Trade according to Old Assyrian Texts from Alishar
+and Bog˘azköy, in: Wilfred H. van Soldt et al. (eds.), K. R. Veenhof Anniversary Volume,
+PIHANS89 (Leiden 2001) 39–66.
+Dercksen 2002
+J. G. Dercksen, Kultureller und wirtschaftlicher Austausch zwischen Assyrern und Anato-
+liern (Anfang des zweiten Jahrtausends v.Chr.), in: B. Harmut et al. (eds.), Brückenland Ana-
+tolien? Ursachen, Extensität und Modi des Kulturaustausches zwischen Anatolien und
+seinen Nachbarn (Tübingen 2002) 35–43.
+Dercksen 2004a
+J. G. Dercksen, Old Assyrian Institutions, MOS Studies4, PIHANS98 (Leiden 2004).
+Dercksen 2004b
+J. G. Dercksen, Some Elements of Old Anatolian Society in Kanis, in: J. G. Dercksen (ed.),
+Assyria and Beyond. Studies Presented to Mogens Trolle Larsen, PIHANS 100 (Leiden
+2004) 137–178.
+Dercksen 2005
+J. G. Dercksen, Metals According to Documents from Kültepe-Kanish Dating to the Old
+Assyrian Colony Period, in: Ü.Yalcun (ed.), Anatolian MetalIII. Der Anschnitt, Beiheft18
+(Bochum 2005) 17–34.
+Dercksen 2007
+J. G. Dercksen, On Anatolian Loanwords in Akkadian Texts from Kültepe, ZA 97, 2007,
+26–46.
+Dercksen 2008a
+J. G. Dercksen, Subsistence, Surplus and the Market for Grain and Meat at Ancient Kanesh,
+AoF35, 86–102.
+130 CÉCILE MICHEL
+Dercksen 2008b
+J. G. Dercksen, Observations on Land Use and Agriculture in Kanesˇ, in: C. Michel (ed.), Old
+Assyrian Studies in Memory of Paul Garelli, OAAS4, PIHANS 112 (Leiden 2008) 139–157.
+Dönmez– Beyazıt 2008
+S¸. Dönmez– A. Y. Beyazıt, A General Look at the Central Black Sea Region during the Middle
+Bronze Age and a New Approach to the Zalpa Problem in the Light of New Evidence, in:
+J. G. Dercksen (ed.), Anatolia and the Jazira during the Old Assyrian Period, OAAS 3,
+PIHANS 111 (Leiden 2008) 101–135.
+Eidem 1991
+J. Eidem, An Old Assyrian Treaty from Tell Leilan, in: D. Charpin– F. Joannès (eds.), Mar-
+chands, diplomates et empereurs. Études sur la civilisation mésopotamienne offertes à Paul
+Garelli (Paris 1991) 185–207.
+Eidem 2011
+J. Eidem, The Royal Archives from Tell Leilan. Old Babylonian Letters and Treaties from the
+Lower Town Palace East, PIHANS 117 (Leiden 2011).
+Emre 1995
+K. Emre, Pilgrim-Flasks from Level I of the Ka¯rum of Kani¸s, BMECCJ8, 1995, 173–200.
+Emre 1999
+K. Emre, Syrian Bottles from the Ka¯rum of Kani¸s, BMECCJ11, 1999, 39–50.
+Fairbairn 2006
+A. S. Fairbairn, Archaeobotany at Kaman Kalehöyük 2005, Kaman-Kalehöyük 15, 2006,
+133–138.
+Fairbairn 2007
+A. S. Fairbairn – C. Longford – B. Griffin, Archaeobotany at Kaman Kalehöyük (2006),
+Kaman-Kalehöyük16, 2007, 151–158.
+Forlanini 1992
+M. Forlanini, Am Mittleren Kızılırmak, in: H. Otten et al. (eds.), Hittite and Other Anatolian
+and Near Eastern Studies in Honour of Sedat Alp (Ankara 1992) 171–179.
+Forlanini 2006
+M. Forlanini, Étapes et itinéraires en Asˇsˇur et l’Anatolie des marchands paléo-assyriens: nou-
+veaux documents et nouveaux problèmes, Kaskal3, 2006, 147–176.
+Garelli 1963
+P. Garelli, Les Assyriens en Cappadoce, Bibliothèque archéologique et historique de l’Institut
+français d’archéologie d’Istanbul19 (Paris 1963).
+Garelli 1989
+P. Garelli, Le marché de Burusˇhattum, in: K. Emre et al. (eds.), Anatolia and the Ancient Near
+East. Studies in Honour of Tahsin Özgüç (Ankara 1989) 149–152.
+Günbattı 1987
+C. Günbattı, YenidenI˙¸slenen Bir Kültepe Tableti (Kt g/t 42+z/t 11), Belleten51, 1987, 1–10.
+CENTRAL ANATOLIA IN THE NINETEENTH AND EIGHTEENTH CENTURIES BC 131
+Günbattı 2001
+C. Günbattı, The River Ordeal in Ancient Anatolia, in: W. H. van Soldt et al. (eds.), K. R. Veen-
+hof Anniversary Volume, PIHANS89 (Leiden 2001) 151–160.
+Günbattı 2004
+C. Günbattı, Two Treaty Texts Found at Kültepe, in: J. G. Dercksen (ed.), Assyria and Beyond.
+Studies Presented to Mogens Trolle Larsen, PIHANS 100 (Leiden 2004) 249–268.
+Günbattı 2005
+C. Günbattı, 2000 ve 2001 Yılı Kültepe Kazılarında Ele Geçen Bazı I-b Tabletleri, 5.UHKB,
+Çorum 2002 (Ankara 2005) 445–451.
+Günbattı 2008
+C. Günbattı, An Eponym List (KEL G) from Kültepe, AoF35, 2008, 103–132.
+Hecker 1991
+K. Hecker, Zur Herkunft der Hethitischen Keilschrift, in: S. Alp (ed.), Uluslararası 1. Hitito-
+loji Kongresi Bildirileri (19–21 Temmuz 1990, Çorum) (Ankara 1991) 53–63.
+Hecker 1996
+K. Hecker, Zur Herkunft der Hethitischen Keilschrift, in: D. I. Owen– G. Wilhelm (eds.),
+Nuzi and the Hurrians. Richard F. S. Starr Memorial Volume, SCCNH8 (Bethesda 1996)
+291–303.
+Hecker 1997
+K. Hecker, Über den Euphrat (Ortsbezogene Restriktionen in aA Kaufurkunden), ArchAn. 3,
+1997, 157–172.
+Kryszat 2003
+G. Kryszat, Zur Liste des Schwurgötter im Assur-Apûm-Vertrag, Isimu6, 2003, 99–102.
+Kryszat 2006
+G. Kryszat, Herrscher, Herrschaft und Kulttradition in Anatolien nach den Quellen aus den
+altassyrischen Handelskolonien. Teil2: Götter, Priester und Feste Anatoliens, AoF33, 2006,
+102–124.
+Kryszat 2008a
+G. Kryszat, The Use of Writing among the Anatolians, in: J. G. Dercksen (ed.), Anatolia and
+the Jazira during the Old Assyrian Period, OAAS3, PIHANS 111 (Leiden 2008) 231–238.
+Kryszat 2008b
+G. Kryszat, Herrscher, Kult und Kulttradition in Anatolien nach den Quellen aus den alt-
+assyrischen Handelskolonien. Teil 3/1: Grundlagen für eine neue Rekonstruktion der Ge-
+schichte Anatoliens und der assyrischen Handelskolonien in spätaltassyrischer Zeit, AfO35,
+2008, 156–189.
+Kryszat 2008c
+G. Kryszat, Herrscher, Kult und Kulttradition in Anatolien nach den Quellen aus den alt-
+assyrischen Handelskolonien. Teil3/2: Grundlagen für eine neue Rekonstruktion der Ge-
+schichte Anatoliens und der assyrischen Handelskolonien in spätaltassyrischer Zeit II,
+AfO35, 2008, 195–219.
+132 CÉCILE MICHEL
+Larsen 1972
+M. T. Larsen, A Revolt against Hattusˇa, JCS24, 1972, 100f.
+Larsen 2002
+M. T. Larsen, The Asˇsˇur-na¯da¯ Archive, Old Assyrian Archives1, PIHANS96 (Leiden 2002).
+Lassen 2010
+A.W. Lassen, The Trade in Wool in Old Assyrian Anatolia, JEOL 42, 2010, 159–179.
+Marro 2004
+C. Marro, Upper-Mesopotamia and the Caucasus: Essay on the Evolution of Routes and
+Road Networks from the Old Assyrian Kingdom to the Ottoman Empire, in: A. Sagona
+(ed.), A View from the Highlands. Studies in Honour of Charles Burney (Leiden 2004)
+91–120.
+Michel 1991
+C. Michel, Durhumid, son commerce et ses marchands, in: D. Charpin– F. Joannès (eds.),
+Marchands, Diplomates et Empereurs, Etudes sur la civilisation mésopotamienne offertes à
+Paul Garelli (Paris 1991) 253–273.
+Michel 1997
+C. Michel, À table avec les marchands paléo-assyriens, in: H. Waetzoldt– H. Hauptmann
+(eds.), Assyrien im Wandel der Zeiten, CRRAI39, HSAO6 (Heidelberg 1997) 95–113.
+Michel 2001
+C. Michel, Correspondance des marchands de Kanisˇ au début du IIe millénaire av. J.-C.,
+LAPO19 (Paris 2001).
+Michel 2002
+C. Michel, Nouvelles données pour la chronologie du IIe millénaire, N.A.B.U. 2002/20.
+Michel 2003
+C. Michel, Old Assyrian Bibliography of Cuneiform Texts, Bullae, Seals and the Results of
+the Excavations at Assur, Kültepe/Kanis, Acemhöyük, Alishar and Bogazköy, OAAS 1,
+PIHANS97 (Leiden 2003).
+Michel 2004
+C. Michel, Theperdum-mule, a Mount for Distinguished Persons in Mesopotamia during the
+IInd millennium B.C., in: B. S. Frizell (ed.), Man and Animal in Antiquity, Acta Instituti Ro-
+mani Regni Sueciae (Roma 2004) 194–204 (http://www.svenska-institutet-rom.org/pecus/
+contents.html).
+Michel 2006a
+C. Michel, Femmes et production textile à Asˇsˇur au début du IIe millénaire avant J.-C., Tech-
+niques & culture 46, 2006, 281–297.
+Michel 2006b
+C. Michel, Les suidés dans la documentation de Kanisˇ au début du IIe millénaire avant J.-C.,
+in: B. Lion– C. Michel (eds.), De la domestication au tabou: le cas des suidés au Proche-
+Orient ancien, Travaux de la Maison René-Ginouvès1 (Paris 2006) 169–180.
+CENTRAL ANATOLIA IN THE NINETEENTH AND EIGHTEENTH CENTURIES BC 133
+Michel 2008a
+C. Michel, Nouvelles données de géographie historique anatolienne d’après des archives ré-
+centes de Kültepe, in: K. Strobel (ed.), New Perspectives on the Historical Geography of Anat-
+olia in the II and I millennium B.C., Eothen16, 2008, 235–252.
+Michel 2008b
+C. Michel, Les pérégrinations des marchands assyriens en haute Mésopotamie et en Asie
+Mineure, Res Antiquae5, 2008, 371–388.
+Michel 2008c
+C. Michel, Etain et cuivre dans les archives commerciales du xixe siècle av. J.-C.: du com-
+merce du métal à l’objet, Cahier des thèmes transversaux ArScAn VIII, 2006/2007, 59–65
+(http://www.mae.u-paris10.fr/cahiers/pdf/C8/C8_Michel.pdf).
+Michel 2008d
+C. Michel, Les Assyriens et leurs femmes anatoliennes, in: J. G. Dercksen (ed.), Anatolia
+and the Jazira during the Old Assyrian Period, OAAS 3, PIHANS 111 (Leiden 2008)
+209–229.
+Michel 2010a
+C. Michel, Les comptoirs de commerce assyriens en Anatolie: emprunts réciproques et ac-
+culturation, in: P. Rouillard (ed.), Portraits de migrants, portraits de colons II, Colloques de la
+Maison René-Ginouvès6 (Paris 2010) 1–12.
+Michel 2010b
+C. Michel, Deux textes atypiques découverts à Kültepe, JCS62, 2010, 73–82.
+Michel 2012
+C. Michel, Subartu, RlA13, 2012, 225–227.
+Michel– Garelli 1996
+C. Michel– P. Garelli, Heurts avec une principauté anatolienne, WZKM86, 1996, 277–290.
+Michel– Garelli 1997
+C. Michel– P. Garelli, Tablettes paléo-assyriennes de Kültepe1 (Kt90/k) (Istanbul 1997).
+Michel– Veenhof 2010
+C. Michel– K. R. Veenhof, The Textiles Traded by the Assyrians in Anatolia (19th–18th Cen-
+turies BC), in: C. Michel– M. L. Nosch (eds.), Textiles Terminologies in the Ancient Near East
+and the Mediterranean Area from the 3rd to the 1st millennium BC, Ancient Textiles Series,
+Oxbow Books, (Oxford 2010) 210–271.
+Miller 2001
+J. Miller, Anum-Hirbi and His Kingdom, AoF28, 2001, 65–101.
+Müller-Karpe 1994
+A. Müller-Karpe, Altanatolisches Metallhandwerk (Neumünster 1994).
+Nicola– Glew 1999
+J. Nicola– C. Glew, Assyrian Colony Period Fauna from Acemhöyük Level III: A Preliminary
+Analysis, BMECCJ11, 1999, 93–148.
+134 CÉCILE MICHEL
+Özgüç 1965
+N. Özgüç, Kültepe Mühür Baskılarında Anadolu Grubu/The Anatolian Group of Cylinder
+Seal Impressions from Kültepe, TTKY V/22 (Ankara 1965).
+Özgüç 1986
+T. Özgüç, Kültepe-Kani¸s II. Eski Yakındog˘u’nun Ticaret Merkezinde Yeni Ara¸stırmalar. New
+Researches at the Trading Center of the Ancient Near East. Türk Tarih Kurumu Yayınları V/41
+(Ankara: Türk Tarih Kurumu Basimevi 1986).
+Özgüç 2003
+T. Özgüç, Kültepe Kanisˇ/Nesˇa. The Earliest International Trade Center and the Oldest Capi-
+tal City of the Hittites (Istanbul 2003).
+Özgüç 2006
+N. Özgüç, Kültepe-Kanisˇ / Nesˇa. Yerli Peruwa ve Asˇsˇur-imitt¯ı’nin og˘lu Assur’lu Tüccar Usur-
+·
+sˇa-Isˇtar’ın Ari¸sivlerine ait Kil Zarfların Mühür Baskıları / Seal Impressions on the Clay En-
+velopes from the Archives of the Native Peruwa and Assyrian Trader Usur-sˇa-Isˇtar son of
+·
+Asˇsˇur-imitt¯ı, TTKY V/50 (Ankara 2006).
+Sagona– Zimansky 2009
+A. Sagona– P. Zimansky, Ancient Turkey (London 2009).
+Sturm 2001
+Th. Sturm, Puzur-Anna¯ – Ein Schmied des K¯arum Kanisˇ, in: W. von Soldt et al. (eds.),
+K. R. Veenhof Anniversary Volume, PIHANS89 (Leiden 2001) 475501.
+Sturm 2008
+Th. Sturm, Allanu– Haselnüsse als Delikatesse im karum-zeitlichen Handel von Anatolien
+nach Nordmesopotamien (ca. 1930–1730 v.Chr), AoF35, 2008, 296–311.
+Veenhof 2003
+K. R. Veenhof, Trade and Politics in Ancient Asˇsˇur. Balancing of Public, Colonial and Entre-
+preneurial Interest, in: C. Zaccagnini (ed.), Mercanti e Politica nel Mondo Antico (Roma
+2003) 69–118.
+Veenhof 2006
+K. R. Veenhof, Traveling in Ancient Anatolia: Two New Sources from Karum Kanesh, in:
+B.Avunç (ed.), Hayat Erkanal’a Armag˘an; Kültürlerin Yansıması. Studies in Honor of Hayat
+Erkanal; Cultural Reflections (Istanbul 2006) 778–783.
+Veenhof 2008a
+K. R. Veenhof, The Old Assyrian Period, in: J. Eidem – K. P. Veenhof – M. Wäfler (eds.)
+Mesopotamien. Annäherungen 5: The Old Assyrian Period, OBO 160/5, (Fribourg 2008)
+13–264.
+Veenhof 2008b
+K. R. Veenhof, Across the Euphrates, in: J. G. Dercksen (ed.), Anatolia and the Jazira during
+the Old Assyrian Period, OAAS3, PIHANS 111 (Leiden 2008) 3–29.
+Veenhof 2008c
+K. R. Veenhof, Some displaced Tablets from Ka¯rum Kanesh (Kültepe), AoF 35, 2008,
+10–27.
+CENTRAL ANATOLIA IN THE NINETEENTH AND EIGHTEENTH CENTURIES BC 135
+Veenhof (in print)
+K. R. Veenhof, Old Assyrian Traders in War and Peace, in: H. Neumann et al. (eds.), Krieg
+und Frieden im Alten Vorderasien, CRRAI52, Münster, July17–21 2006 (in print).
+Wilhelm 2008
+G. Wilhelm, Hurrians in the Kültepe Texts, in: J. G. Dercksen (ed.), Anatolia and the Jazira
+during the Old Assyrian Period, OAAS3, PIHANS 111 (Leiden 2008) 181–194.
+Yakar 1998
+Y. Yakar, Environmental Factors Effecting Urbanisation in Bronze Age Anatolia, in: J. Good-
+nick Westenholz (ed.), Capital Cities, Urban Planning and Spiritual Dimensions (Jerusalem
+1998) 99–109.
+Yakar 2000
+Y. Yakar, Ethnoarchaeology of Anatolia. Rural Economy in the Bronze and Iron Ages. Tel Aviv
+University Monograph Ser17 (Tel Aviv: Tel Aviv University, Institute of Archaeology 2000).
+136 CÉCILE MICHEL
+

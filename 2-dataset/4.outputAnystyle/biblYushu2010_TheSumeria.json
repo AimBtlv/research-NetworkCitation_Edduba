@@ -1,0 +1,767 @@
+[
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "Sol"
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "title": [
+      "Enmerkar and the Lord of Aratta"
+    ],
+    "genre": [
+      "PhD diss.,"
+    ],
+    "publisher": [
+      "University of Pennsylvania"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Englund",
+        "given": "Robert K."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Texts from the Late Uruk Period"
+    ],
+    "container-title": [
+      "Mesopotamien: Späturuk-Zeit und Frühdynastische Zeit"
+    ],
+    "editor": [
+      {
+        "family": "Bauer",
+        "given": "Josef"
+      },
+      {
+        "family": "Englund",
+        "given": "Robert K."
+      },
+      {
+        "family": "Krebernik",
+        "given": "Manfred"
+      }
+    ],
+    "pages": [
+      "15–217"
+    ],
+    "location": [
+      "Fribourg",
+      "Freiburg Schweiz; Göttingen"
+    ],
+    "publisher": [
+      "Universitätsverlag",
+      "Vandenhoeck & Ruprecht"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Farber-Flügge",
+        "given": "Gerlinde"
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "title": [
+      "Der Mythos „Inanna und Enki“ unter besonderer Berücksichtigung der Liste der me"
+    ],
+    "volume": [
+      "10"
+    ],
+    "location": [
+      "Rome"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Studia Pohl"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Glassner",
+        "given": "Jean-Jacques"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "The Invention of Cuneiform Writing in Sumer"
+    ],
+    "editor": [
+      {
+        "family": "Bahrani",
+        "given": "Zainab"
+      },
+      {
+        "family": "Mieroop",
+        "given": "Marc",
+        "particle": "van de"
+      }
+    ],
+    "location": [
+      "Baltimore–London"
+    ],
+    "publisher": [
+      "Johns Hopkins University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Green",
+        "given": "Margaret W."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "title": [
+      "Animal Husbandry at Uruk in the Archaic Period"
+    ],
+    "volume": [
+      "39"
+    ],
+    "pages": [
+      "1–35"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Near Eastern Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Green",
+        "given": "Margaret W."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "The Construction and Implementation of the Cuneiform Writing System"
+    ],
+    "volume": [
+      "15"
+    ],
+    "pages": [
+      "345–372"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Visible Language"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Green",
+        "given": "Margaret W."
+      },
+      {
+        "family": "Nissen",
+        "given": "Hans J."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Zeichenliste der archaischen Texte aus Uruk (ZATU"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Gebr. Mann"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobsen",
+        "given": "Thorkild"
+      }
+    ],
+    "date": [
+      "1939"
+    ],
+    "title": [
+      "The Sumerian King List"
+    ],
+    "volume": [
+      "11"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Assyriological Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobsen",
+        "given": "Thorkild"
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "The Harps That Once... Sumerian Poetry in Translation"
+    ],
+    "location": [
+      "New Haven–London"
+    ],
+    "publisher": [
+      "Yale University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Komoróczy",
+        "given": "Géza"
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "Zur Ätiologie der Schrifterfindung im Enmerkar-Epos"
+    ],
+    "volume": [
+      "3"
+    ],
+    "pages": [
+      "19–24"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Altorientalische Forschungen"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kramer",
+        "given": "Samuel Noah"
+      }
+    ],
+    "date": [
+      "1952"
+    ],
+    "title": [
+      "Enmerkar and the Lord of Aratta"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University of Pennsylvania Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kramer",
+        "given": "Samuel Noah"
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "title": [
+      "History Begins at Sumer"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Doubleday"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lieberman",
+        "given": "Stephen J."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "title": [
+      "Of Clay Pebbles, Hollow Clay Balls, and Writing: A Sumerian View"
+    ],
+    "volume": [
+      "84"
+    ],
+    "pages": [
+      "339–358"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "American Journal of Archaeology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Michalowski",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Mental Maps and Ideology: Reflections on Subartu"
+    ],
+    "container-title": [
+      "The Origin of Cities in Dry-Farming Syria and Mesopotamia in the Third Millennium B.C"
+    ],
+    "editor": [
+      {
+        "family": "Weiss",
+        "given": "Harvey"
+      }
+    ],
+    "pages": [
+      "129–156"
+    ],
+    "location": [
+      "Guilford, CT"
+    ],
+    "publisher": [
+      "Four Quarters Publishing"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Michalowski",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Early Mesopotamian Communicative Systems: Art, Literature, and Writing"
+    ],
+    "container-title": [
+      "Investigating Artistic Environments in the Ancient Near East"
+    ],
+    "editor": [
+      {
+        "family": "Gunter",
+        "given": "Ann C."
+      }
+    ],
+    "pages": [
+      "53–69"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Nissen",
+        "given": "Hans J."
+      },
+      {
+        "family": "Damerow",
+        "given": "Peter"
+      },
+      {
+        "family": "Englund",
+        "given": "Robert K."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Frühe Schrift und Techniken der Wirtschaftsverwaltung im Alten Vorderen Orient"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Franz Steiner Verlag"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pallis",
+        "given": "Svend Aage"
+      }
+    ],
+    "date": [
+      "1956"
+    ],
+    "title": [
+      "The Antiquity of Iraq: A Handbook of Assyriology"
+    ],
+    "location": [
+      "Copenhagen"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Powell",
+        "given": "Marvin A."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Three Problems in the History of Cuneiform Writing: Origins, Direction of Script, Literacy"
+    ],
+    "volume": [
+      "15"
+    ],
+    "pages": [
+      "419–441"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Visible Language"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rogers",
+        "given": "Robert William"
+      }
+    ],
+    "date": [
+      "1915"
+    ],
+    "title": [
+      "A History of Babylonia and Assyria"
+    ],
+    "volume": [
+      "1"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Eaton & Mains"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Röllig",
+        "given": "Wolfgang"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Literatur"
+    ],
+    "volume": [
+      "7"
+    ],
+    "pages": [
+      "35–66"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Reallexikon der Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schmandt-Besserat",
+        "given": "Denise"
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "title": [
+      "An Archaic Recording System and the Origin of Writing"
+    ],
+    "volume": [
+      "1"
+    ],
+    "pages": [
+      "1–32"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Syro-Mesopotamian Studies"
+    ],
+    "issue": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schmandt-Besserat",
+        "given": "Denise"
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "An Archaic Recording System in the Uruk–Jemdet Nasr Period"
+    ],
+    "volume": [
+      "83"
+    ],
+    "pages": [
+      "19–48"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "American Journal of Archaeology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schmandt-Besserat",
+        "given": "Denise"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Before Writing"
+    ],
+    "location": [
+      "Austin"
+    ],
+    "publisher": [
+      "University of Texas Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Steinkeller",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "The Function of Written Documentation in the Administrative Praxis of Early Babylonia"
+    ],
+    "container-title": [
+      "Creating Economic Order"
+    ],
+    "editor": [
+      {
+        "family": "Hudson",
+        "given": "Michael"
+      },
+      {
+        "family": "Wunsch",
+        "given": "Cornelia"
+      }
+    ],
+    "pages": [
+      "65–88"
+    ],
+    "location": [
+      "Bethesda, MD"
+    ],
+    "publisher": [
+      "CDL Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Vanstiphout",
+        "given": "Herman L.J."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Enmerkar’s Invention of Writing Revisited"
+    ],
+    "container-title": [
+      "DUMU-E-DUB-BA-A"
+    ],
+    "editor": [
+      {
+        "family": "Behrens",
+        "given": "Hermann"
+      },
+      {
+        "family": "Loding",
+        "given": "Darlene"
+      },
+      {
+        "family": "Roth",
+        "given": "Martha T."
+      }
+    ],
+    "pages": [
+      "515–524"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Vanstiphout",
+        "given": "Herman L.J."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Another Attempt at the Spell of Nudimmud"
+    ],
+    "volume": [
+      "88"
+    ],
+    "pages": [
+      "135–154"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revue d’Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vanstiphout",
+        "given": "Herman L.J."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "The Twin Tongues Theory, Technique, and Practice of Bilingualism in Ancient Mesopotamia"
+    ],
+    "container-title": [
+      "All Those Nations"
+    ],
+    "pages": [
+      "141–159"
+    ],
+    "location": [
+      "Groningen"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Whittaker",
+        "given": "Gordon"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "The Dawn of Writing and Phoneticism"
+    ],
+    "container-title": [
+      "Hieroglyphen, Alphabete, Schriftreformen, Lingua Aegyptia: Studia Monographica"
+    ],
+    "volume": [
+      "3"
+    ],
+    "pages": [
+      "11–50"
+    ],
+    "publisher": [
+      "Göttingen"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiseman",
+        "given": "Donald J."
+      }
+    ],
+    "date": [
+      "1955"
+    ],
+    "title": [
+      "Assyrian Writing-Boards"
+    ],
+    "volume": [
+      "17"
+    ],
+    "pages": [
+      "3–13"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  }
+]

@@ -1,0 +1,1106 @@
+# METADATA
+Author: Sovegjarto S.
+Title: A Collector’s Edition of the Past: Personal Collections of Mesopotamian Royal Inscriptions from the Old Babylonian Period
+Year: 2023
+Source_ID: Sovegjarto2023_Archaeolo
+Source_Type: Article in Journal: 
+Source_Role,Step_distance: 2 ,3,4 
+Pages: 447 - 477
+Web: https://doi.org/10.1515/9783111037196-014 
+
+# TEXT
+
+Szilvia Sövegjártó
+A Collector’s Edition of the Past: Personal
+Collections of Mesopotamian Royal
+Inscriptions from the Old Babylonian Period
+Abstract: The present study focuses on multiple-text manuscripts compiled by
+scribes for their own use, based on royal monuments set up in temples and thus
+collectible, in this way, only for ancient scholars. However, these collections
+were more than mere copies of ancient relics: scribes studied these inscriptions
+in terms, not only of their contents, but also their palaeography, orthography,
+grammar and visual organization. All these interests can be discerned based on
+the collections preserved up to the present day on clay tablets.
+1 Introduction
+The collecting of antiquities is surely among the oldest human hobbies and
+obsessions. Whether intended for study, cultural preservation, aesthetic pleas-
+ure or a combination of these and other factors, it is difficult not to be fascinated
+by an object speaking out from the past. These insights and obsessions were
+already perceptible in ancient Mesopotamia.1
+During the 1880s Ernest de Sarzec2 conducted excavations in the site of Tel-
+loh3 and unearthed over twenty statues of Gudea, a ruler of ancient Lagash in
+the twenty-second century BCE. Ten of these statues were found in the palace of
+Adad-nādin-aḫḫē, governor of the city in the second century BCE. The monu-
+ments of Gudea who reigned two thousand years before the lifetime of Adad-
+nādin-aḫḫē had been reassembled and set up in the main courtyard of the gov-
+ernor’s palace, the colossal statue of Gudea was placed in a niche of the build-
+ing’s exterior wall. The statues were grouped into sitting and standing images of
+||
+1 Detailed studies on the phenomenon of Mesopotamian antiquarianism include Winter 2000;
+Rubio 2009; and Beaulieu 2013.
+2 Ernest Choquin de Sarzec (1832–1901), a French diplomat and archaeologist. He excavated
+the site of Telloh between 1877 and 1901.
+3 Ancient Girsu, located midway between the Tigris and Euphrates rivers in south-eastern
+Iraq, some 25 km north-west of the site of modern Tell Telloh in the Dhi Qar Governorate.
+Open Access. © 2023 the author, published by De Gruyter. This work is licensed
+under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+https://doi.org/10.1515/9783111037196-014
+448 | Szilvia Sövegjártó
+the ruler.4 The Hellenistic governor of the city thus was surely obsessed with
+antiquities. However, when setting up his collection, his purpose may have
+been more than simply admiring and preserving ancient art. It is quite likely he
+revered Gudea as his ancestor and such a gesture amplified his own royal cult.5
+Today Adad-nādin-aḫḫē is probably the best-known antiquities collector of
+ancient Mesopotamia, but he was certainly not the first. The collectors whose
+legacy is the focus of this paper lived in the first half of the second millennium
+BCE. As apprentice scribes they were in no position to collect royal statues, so
+they compiled royal inscriptions, the intangible and immaterial components of
+royal statuary as well as of other votive objects which served as writing support.
+They did so of course by their own hand, and for their own use, perhaps as a
+calligraphic or historiographic exercise, out of respect for the ancient models, or
+a wish to have those copies as collectibles.
+This paper is based on a survey of existing collections of royal inscriptions
+produced as copies in the Old Babylonian period, preserving texts related to
+earlier rulers and dynasties. It will be argued here that both the form and con-
+tent of these collections reflect the compiler’s personal interests and individual
+taste and should therefore be regarded as the scribes’ personal collections.
+2 The early history of the cuneiform manuscript
+culture
+At the beginning of the Old Babylonian period (2000–1600 BCE) – the period in
+which the manuscripts focused on in this study were produced – cuneiform
+manuscript culture could already look back on a long history. Cuneiform script
+was invented in ancient Mesopotamia, in the south of modern Iraq. The first
+manuscripts date back to the second half of the fourth millennium BCE and come
+from the southern Mesopotamian city of Uruk. Proto-cuneiform script of the
+Late Uruk period (3500–3100 BCE) and its successor, cuneiform script of the
+Uruk III period (3100–2900 BCE) was mainly used for administrative purposes6
+||
+4 Suter 2012, 68–70 provides detailed information on the unusual secondary contexts of these
+finds.
+5 See Bonatz 2002, 197–202 and Radner 2005, 233–234 on this proposition.
+6 Beyond administrative documents, there are also lexical lists preserved from these periods
+whose purpose was most likely to record a sign inventory thus documenting as well as trans-
+mitting a newly invented administrative tool – the writing system.
+A Collector’s Edition of the Past | 449
+and bore an ideographic character. More extended use of the cuneiform script
+began in the mid-third millennium BCE. Some important developments occurred
+in the writing system and this process led to the expansion of the script much
+beyond administration. The first known corpus of literary compositions dates
+from the Early Dynastic IIIa period (2600–2450 BCE).7 Even royal inscriptions
+and letters have been preserved from the subsequent Early Dynastic IIIb period
+(2450–2334 BCE).8 Though the Early Dynastic material known from the Mesopo-
+tamian heartland was mainly Sumerian, a few pieces of Akkadian literature are
+also attested, together with a higher variety of Semitic material – lexical, admin-
+istrative as well as literary compositions – known from the city of Ebla.9
+The last third of the third millennium BCE is marked by three dynasties, the
+Dynasty of Agade (2334–2154 BCE), the Lagash II Dynasty (2200–2100 BCE), and
+the Ur III Dynasty (2112–2004 BCE). Cuneiform manuscripts became increasingly
+diverse in genre in the late third millennium. The textual genres included ad-
+ministrative and legal documents, letters, magical-therapeutical texts, lists and
+literary texts, however, of all these manuscripts, royal inscriptions are the most
+elaborate and best attested written corpus in this period.
+By the Old Babylonian period (2000–1600 BCE), the balance between the
+Sumerian and the Akkadian languages changed significantly. The Akkadian
+language obtained an important position: royal, legal and administrative doc-
+uments, law codes, personal and official correspondence were all carried out in
+Akkadian. The language was also used occasionally to convey cultic and literary
+contents. Sumerian, in contrast, had died out as a vernacular at the beginning
+of the Old Babylonian period. It had become restricted to cult and literature and
+its prestige increased being deemed the suitable language for communicating
+with the gods.
+||
+7 The two key provenances in this period are Fāra, the ancient city of Šuruppak as well as Tell
+Abū Ṣalābīḫ. The tablets found in Fāra were published in Deimel 1923 and Jestin 1937 and 1957.
+The incantations have been edited in Krebernik 1984. The manuscripts from Tell Abū Ṣalābīḫ
+were published by Biggs 1974.
+8 The main provenance of Early Dynastic IIIb material is the city of Ebla in Syria, in the Meso-
+potamian periphery. The city’s inhabitants spoke Eblaite, a Semitic language, but studied
+cuneiform script in Sumerian texts and adapted that script to their own language. For an over-
+view and an edition of written material from the Ebla archives and an additional bibliography
+see Ebla Digital Archives, <http://ebda.cnr.it/> (accessed on 13 February 2023).
+9 Literary compositions in Akkadian have been attested among the tablets from Tell Abū
+Ṣalābīḫ and Ebla. For an edition of the compositions see Krebernik 1992. For Akkadian lan-
+guage in general see Vita 2021.
+450 | Szilvia Sövegjártó
+The Old Babylonian period yielded the most extensive corpus of Sumerian
+literature, amounting to hundreds of compositions written down or even com-
+posed by non-native speakers of the language.10 Sumerian literary tradition was
+in no way dead by the Old Babylonian period. The era brought forth, not only
+new compositions, but also new genres, literary techniques and styles.11 This
+extensive literary production was closely linked to an academic institution, the
+Edubba,12 where the literate elite of Mesopotamia was trained.13
+Scribal and scholarly education in the Old Babylonian period was centred
+on mastering the cuneiform script and Sumerian language, as well as studying
+and enhancing Sumerian cultural heritage.14 As a result studying inscriptions of
+past rulers in the period was of great interest and was most likely part of the
+scribal curriculum. Many of the extant copies of royal inscriptions come from
+buildings identified as schoolhouses, like No. 7, Quiet Street in Ur.15
+In spite of the fact that the reproduction of royal inscriptions and the pro-
+duction of collections may have been a school assignment, no two of the extant
+multiple-text manuscripts16 share form and content. It appears that apprentice
+||
+10 Just when the Sumerian language ceased to have native speakers is under debate, and
+dated approximately between 2000 and 1600 BCE, see Cooper 1973; Sallaberger 1999, 129–131;
+Michalowski 2004; Sallaberger 2004; Woods 2006; and Michalowski 2020. Also under debate is
+to what extent Old Babylonian Sumerian literary manuscripts were based on ancient models or
+an oral tradition originating from the third millennium BCE.
+11 For instance, Brisch 2007 outlined the innovative aspects of the royal hymnody related to
+the kings of Larsa. This dynasty reigned in the Old Babylonian period, thus its court poetry is
+indeed rooted in this period.
+12 The Sumerian term for the institution is usually translated as school or scribal school.
+13 The role of this institution in the intellectual life of the Old Babylonian period was subject
+to many studies, some key studies are Sjöberg 1975; Vanstiphout 1979; Tinney 1999; Charpin
+2010; Delnero 2012 and Proust 2017. On the archaeological remains of an Old Babylonian
+school in Nippur, see Robson 2001.
+14 Though during the Old Babylonian period no native speakers of Sumerian existed, scholars
+continued contributing to the Sumerian literary corpus. The extent of this activity cannot be
+ascertained since older compositions were also copied and redacted in this era. However,
+Sumerian hymns praising rulers of the Old Babylonian period are clear evidence of literary
+activity in Sumerian.
+15 For more information on this building and the manuscripts found within, see Charpin 1986,
+27–93.
+16 Multiple-text manuscripts ‘are made up of more than one text and have been planned and
+realized for a single project with one consistent intention; as a result, they are usually made of
+a single production unit’ (Bausi, Friedrich and Maniaci 2002, vii). Sumerian collections of royal
+inscriptions are multiple-text manuscripts according to this definition which is founded on the
+A Collector’s Edition of the Past | 451
+scribes enjoyed great freedom in performing this task. This variance in the form
+and content of royal inscription collections indicates the students were not
+working from master copies on hand in the schoolhouse and shared by other
+pupils but from the originals, likely chosen freely from the many written arte-
+facts accessible in local temples. Furthermore, the diversity of the multiple-text
+manuscripts implies the copies were intended for personal use.
+3 The corpus: Old Babylonian collections of royal
+inscriptions – and their originals
+In Mesopotamia, the two most important materials used as writing support were
+stone and clay. Inscriptions were also common on metal objects, however, only
+few have survived to the present day. Wooden boards covered with wax were
+also used, as a portable writing device in particular, and thus intended for
+drafts and notices, rarely used in southern Mesopotamia, but more widespread
+in the north.17
+In the Mesopotamian lowlands stone was expensive and therefore reserved
+for high-quality artefacts intended for long-term preservation. Inscriptions on
+stone are mostly official and display texts, i.e. law codes, votive or royal inscrip-
+tions. Metals also appear to have been reserved for such purposes. Clay, howev-
+er, was in abundance and easy to write on and reuseable. Clay tablets were
+usually sun-dried, but even oven-dried when intended for longer preservation
+such as library copies.18 Thus, clay suited all other purposes; from ephemeral
+school exercises to sales contracts kept for future reference for several genera-
+tions. Clay was, therefore, used for all forms of practical texts (letters, contracts,
+inventories, accounts, notices, drawings and plans or maps, etc.), scholarly and
+literary texts and even to some extent for official and display texts (annals, vo-
+tive texts, treaties etc.).19
+Inscriptions of rulers were written not only on stelae and statues, but also
+on parts of buildings, for example on bricks or door sockets, foundation tablets
+||
+thematic coherence of the collections and the brief time span in which it is possible to inscribe
+a clay tablet. Clay tablets are usually made of a single production unit.
+17 To the sporadic use of wooden boards as writing support from the third millennium BCE on
+see Cammarosano et al. 2019 and Michalowski 2021.
+18 On the durability of clay as writing support see Michel 2021, 94–95.
+19 For more details on this text typology see https://cdli.ox.ac.uk/wiki/doku.php?id=text_
+typologies.
+452 | Szilvia Sövegjártó
+and pegs buried in the course of the actual building processes. The material
+used is also multifaceted, containing stone, clay and metal objects. Various
+votive objects, such as vessels, mace-heads and other cultic objects, were de-
+posited or set up in temples. Most copies are based on inscriptions that be-
+longed to a temple context. Although inscriptions can be found on boundary
+stones as well as cylinder seals, they were not included in collections of copies.
+Votive or dedicatory inscriptions buried during building activities were rarely
+copied as they were inaccessible, save when unearthed during renovations.
+Such objects gain sporadic mention in the inscriptions of later rulers but are not
+accurately reproduced. Inscriptions subject to reproduction and thus entering
+collections were, by contrast, visible: they were set up in temples and they were
+accessible to visitors, or at least to members of the temple household.20
+Stone had to be imported from the mountains, making it a precious building
+material and therefore was often reused – unless it bore inscriptions. The de-
+struction of any predecessors’ inscribed artefacts was forbidden21 and as the
+continuity of a building had some form of guarantee, inscriptions and inscribed
+votive objects could be accumulated for longer periods. This was certainly the
+case in the temples of some Mesopotamian centres.
+The most important centre for the present study is the city of Nippur where
+the Ekur was located, the temple of Enlil, head of the Sumerian pantheon.
+Though most of the extant copies of royal inscriptions come from Nippur, other
+centres like Ur and Sippar also yielded some important manuscripts. Votive
+||
+20 Beyond inscriptions, also letters of rulers of the Ur III Dynasty were copied and collected by
+Old Babylonian scribes, however, it cannot be ascertained whether or not all these letters date
+back to the originals of an Ur III date, Michalowski 2011 argues for, and Huber 2001 against this
+proposal. Nevertheless, manuscript Vatican City, BAV, Vat. 8515 (VS 17 41) is a multiple-text
+manuscript from Larsa containing a royal inscription (RIME 4.2.9.1) copied from a statue as
+well as two letters written to that statue, this material is certainly authentic, though all the
+contents date to the Old Babylonian period, the terminus post quem is the reign of Sîn-iddinam
+in the eighteenth century BCE.
+21 Longer inscriptions even contained curses against a destroyer or usurper of a royal monu-
+ment. An example of such a curse formula from a bilingual Sumerian-Akkadian inscription of
+Sargon is as follows: ‘Whoever obliterates this inscription, may Šamaš tear out his foundation
+and may he pluck out his seed’ (RIME 2.01.01.01, ll. 95–101). However, the practice was also
+extended to written artefacts without any curse formulae, the written name of a former ruler
+had to be protected in most circumstances. One exception would be when a ruler had presum-
+ably lost the support of the gods if, for instance, he had died in battle, his name would then be
+wiped out and usually remained unmentioned by his successors.
+A Collector’s Edition of the Past | 453
+offerings containing shorter or longer inscriptions22 were deposited there by
+rulers of various city-states from the third millennium on. Apparently, during
+the first half of the second millennium, some of these votive offerings were still
+in situ and thus they could be viewed, read and copied by apprentice scribes
+who had access to these public or semi-public places.23
+The practice of copying royal inscriptions is not an Old Babylonian inven-
+tion: seven manuscripts dated earlier have been verified thus far. However, the
+Old Babylonian period yielded not only a significantly larger number of copies,
+numbering ninety-three published manuscripts to date, but this is the first in
+which several original inscriptions were collected and copied to a multiple-text
+manuscript. Twenty-five such collections are known today. In the following, the
+focus will be solely on multiple-text manuscripts.
+Royal inscriptions included in these collections have been edited by several
+scholars,24 however, all these editions have a philological focus for which rea-
+son in most cases the materials contained in multiple-text manuscripts have not
+been kept together. Clay tablets featuring royal inscriptions are a marginal phe-
+nomenon and as copies were considered secondary to their originals, they are
+usually arranged in the editions as duplicates. Moreover, Sumerian royal in-
+scriptions were rarely studied beyond their relevance to philological concerns.
+Dietz Otto Edzard (1980) briefly discusses copies of royal inscriptions in his
+article ‘Königsinschriften’ (royal inscriptions) in the Reallexikon der Assyriologie
+und Vorderasiatischen Archäologie that includes a list of some relevant tablets.25
+He comments both on the potential use of copies and their formal characteris-
+tics in relation to the originals in a very concise form. Edzard concludes that
+copies of royal inscriptions may well be inventories of public or stored monu-
+ments, but also forwards that the number of such manuscripts is not sufficient
+||
+22 At least the name of the donor was inscribed on the votive offering. As an example, a votive
+mace head (Ki 765, P212432) from Kish dated to the twenty-fourth–twenty-third century BCE
+bears the following inscription: ĝeš-ḫum, a-na den-ki, i3-li2-sa-liq, dumu ku-ku, a mu-ru, ‘Mace
+head for Enki. Ilī-šāliq, son of Kuku dedicated it’.
+23 Temples in ancient Mesopotamia were not open to the public, however, certain areas such
+as the courts that had royal statues erected, permitted at least during important festivals. Other
+parts of the temple, especially the site for the deposit of royal votive offerings, were inaccessi-
+ble to the general public, though probably accessible to apprentice scribes trained by temple
+household professionals.
+24 The most comprehensive edition of Sumerian royal inscriptions is to be found in the vol-
+umes of The Royal Inscriptions of Mesopotamia: Early Periods (Toronto, 1990–2008) by
+Douglas R. Frayne. Most of the relevant material is contained in The Electronic Text Corpus of
+Sumerian Royal Inscriptions (2008–) by Gábor Zólyomi.
+25 Edzard 1980, 64–65 in §6. Abschriften (copies).
+454 | Szilvia Sövegjártó
+to postulate any systematic activity carried out at regular intervals. Edzard sug-
+gests scribal education as a potential setting. However, collections of royal in-
+scriptions, were not treated separately by Edzard nor in the Sammeltafel entry
+(collective tablet) written by Martin Worthington.26 Most recently Eva Cancik-
+Kirschbaum and Jochem Kahl discussed copies and collections of royal inscrip-
+tions regarding the contents preserved in the colophons as indices of ancient
+epigraphic practices.27
+The reasons why these collections are particularly interesting for the pre-
+sent study are threefold. Firstly, while single-text manuscripts featuring inscrip-
+tions of Old Babylonian rulers may also be drafts, multiple-text manuscripts
+certainly contain copies of inscriptions, thus a methodological problem can be
+eliminated. Secondly, these multiple-text manuscripts contain copies of at least
+two to more than twenty inscriptions. Those containing a higher number of
+compositions are especially innovative for their visual organization, as collec-
+tions with so many compositions are exceptional even in the contemporary
+literary corpus and thus no formatting rules for such tablets were established.
+As a result, scribal practices can be examined in their formative phase (see be-
+low).
+The intended use of a copy may be manifold and in most cases its precise
+use cannot be decided.28 Antiquarian interest in the original written artefact,
+may have played a role in the emergence of a certain number of these multiple-
+text manuscripts, with its content revealing the ancient rulers’ deeds, or per-
+haps the orthographic and grammatical peculiarities of those more ancient
+cuneiform inscriptions. But these collections may also have been of practical
+use as reference works for scholars working on assignments related to royal
+inscriptions, e.g. composing or reading them. Collections compiled by an indi-
+vidual reflect the individual’s needs or skills and reveal more about the function
+and use of these manuscripts than tablets containing only a single text. The
+||
+26 Worthington 2006.
+27 See Cancik-Kirschbaum and Kahl 2018, 269–275. Further to the Old Babylonian practice of
+copying royal inscriptions, they also refer to later practices, e.g. clay imprints of stone monu-
+ments as well as rulers collecting ancient inscriptions. Cancik-Kirschbaum and Kahl 2018, 151–
+157 is devoted to series and multiple-text manuscripts, but does not focus in particular on
+copies of royal inscriptions.
+28 On the practice of copying in ancient Mesopotamia see Cancik-Kirschbaum and Kahl 2018,
+180–192 (on the practice in general) and 269–271 (copies of inscriptions). This practice is, how-
+ever, not restricted to ancient Mesopotamia, for an interdisciplinary volume on copying see
+Brita et al. 2020.
+A Collector’s Edition of the Past | 455
+praxeology of collections of royal inscriptions will be discussed in the next sec-
+tion.
+4 By one’s own hand, for one’s own use
+Of the ninety-three manuscripts mentioned above twenty-five are collections of
+royal inscriptions. Most, that is to say, nineteen tablets, come from Nippur, three
+from Ur, one from Isin and one from Sippar each with one’s origins remaining
+unknown.29 Old Babylonian scribes were either mainly interested in copying
+inscriptions from the late third millennium, particularly from monuments of the
+Agade (twelve manuscripts) and Ur III dynasties (eleven manuscripts), or the
+inscriptions of earlier rulers from the Early Dynastic period (c. 2900–2350 BCE)
+were not accessible or preserved any longer once the copies had been made. As
+to more recent dynasties, a mere five from the twenty-five manuscripts contain
+inscriptions of an Old Babylonian date, all referring to rulers of the Isin Dynasty
+(1953–1717 BCE), the direct successors of the Ur III empire. Copies of later rulers’
+inscriptions also exist, but as single-text manuscripts only.
+Scribes produced multiple-text manuscripts featuring collections of inscrip-
+tions for their private use. This may well be one reason accounting for the preserva-
+tion of so few of these manuscripts: in the cuneiform manuscript culture, tablets
+intended for personal rather than institutional use usually had a shorter life-
+cycle and were disposed of either by the owner or his successors once their
+function had been fulfilled. Personal libraries and archives were occasionally
+sorted out to make room for new documents and those manuscripts in better
+condition.30
+In the following, the arguments will be assessed regarding the private pro-
+duction and use of collections of royal inscriptions based on the structure of the
+||
+29 A detailed overview of the multiple-text manuscripts is provided in Appendix 1. The prove-
+nances of all ninety-three manuscripts are more diverse: up to forty-three come from Nippur,
+eighteen from Ur, one from Isin, up to five from Larsa, up to seven from Sippar, two from Baby-
+lon, six from Mari, one probably from Buzuran near Mari, one from Alalah, one from Tell Har-
+mal, and at least eight of unknown provenance.
+30 This activity can be ascertained on the basis of the archaeological context of cuneiform
+manuscripts. A substantial number of related documents and thematically coherent manu-
+scripts come from a single find spot, though certainly from a secondary context, e.g. from a
+rubbish heap or a filling in a building floor. Documents of an administrative nature bearing a
+date testify quite clearly that tablets were discarded on a regular basis. This practice is percep-
+tible from the archaic period on, see Nissen, Damerow and Englund 1993, 6.
+456 | Szilvia Sövegjártó
+collections, the formal aspects of the manuscripts and the paratextual additions
+in some manuscripts. Following which the attempt will be made to determine
+what use these collections had for their producers, that is to say their scribes,
+or, more likely, apprentice scribes of second millennium BCE Mesopotamia.
+4.1 Structure
+Collections in Mesopotamia are always organized according to one or more
+principles deduced from certain characteristics of the cuneiform script. In the
+early second millennium BCE, however, collections were by no means standard-
+ized.31 In producing collections, such as thematic lexical lists or sign lists,
+scribes were free to choose from a set of elements and combine them according
+to organizing principles suiting their preferences or needs. Manuscripts fabri-
+cated from this production process resemble each other closely, although they
+also exhibit variations reflecting the interests, skills and the compiler’s level of
+knowledge.
+Collections of royal inscriptions contain a personal selection of monumen-
+tal inscriptions. Even in Nippur, from which a relatively high number of compa-
+rable multiple-text manuscripts originate, there are no traces of a basic curricu-
+lar collection.32 Such freedom of choice is characteristic of the more advanced
+phases of scribal education in which pupils worked individually and inde-
+pendently, very probably in the framework of a more differentiated professional
+training.
+The inscriptions included in a collection either centred on (1) a single ruler
+or (2) several rulers of a dynasty, or compared inscriptions of (3) two rulers of
+two different dynasties.33 These collections were not random assemblages of
+inscriptions found in a given temple context but planned and well-structured
+compilations.
+||
+31 This quality holds true specifically for the Old Babylonian period. Lexical lists in the third
+millennium were highly standardized and the process of canonization and serialization gath-
+ered momentum after the Old Babylonian period resulting in series of various contents, from
+omens to pieces of literature.
+32 By contrast, in the literary corpus there is a set of fourteen compositions that probably
+served as the elementary curriculum.
+33 All three types are fairly common. Among the presently known collections thirteen contain
+inscriptions of a single ruler, seven of multiple rulers of a dynasty, and five compare inscrip-
+tions of two rulers of two different dynasties.
+A Collector’s Edition of the Past | 457
+Chronology was certainly one of the most important organizing principles.
+Whereas collections with inscriptions of multiple dynasties may well include
+inscriptions of Agade and Ur III rulers as well as of Ur III and Isin rulers, no
+collections featuring Agade and Isin period inscriptions exist, nor have any
+collections featuring all three dynasties been attested.
+Studying and compiling original royal inscriptions found in their primary
+setting, namely in diverse locations in temples, was certainly no exercise for
+beginners. Advanced apprentice scribes apparently enjoyed more freedom
+when selecting the material they engaged with, and the scribal practices ap-
+plied in their work. Therefore, the collections of royal inscriptions may be re-
+garded as the scribe’s own individual achievement: they prepared the manu-
+scripts for their personal use.
+4.2 Formal aspects
+The question therefore arises as to just exactly what scribes were able to learn
+from royal inscriptions aside from gaining information on the deeds of past
+rulers. One would assume royal inscriptions were useful education tools far
+beyond their actual content, for orthography, palaeography, layout and lan-
+guage use were also substantial knowledge gains for future scribes. As the for-
+mal features of the manuscripts show, scribes did indeed not simply focus on
+copying the text, but set out to mirror the original’s other qualities.
+Aside from keeping to the inscriptions’ archaic orthography, scribes also
+tended to reflect the original’s layout in the copy. Monumental inscriptions
+apply the short-line format, that is, they use rather narrow columns. Not only
+the multiple-column layout, but the short-line format was also kept in most of
+the copies resulting in an archaic visual appearance.34 In rare cases, however,
+the scribe did not provide a line-to-line copy of the original inscription but
+brought syntactical units together in longer lines which were kept apart in the
+original. This adjustment reflects the Old Babylonian practice in which a text
+line contained a single sentence. Whenever a royal monument featured reliefs,
+captions were added to identify the persons depicted. Copies also included
+||
+34 The short-line format is rather unusual on clay in the Old Babylonian period, however, it
+was the standard format in the third millennium BCE regardless of the writing support. Howev-
+er, monumental inscriptions were still produced in this format during the second millennium
+BCE.
+458 | Szilvia Sövegjártó
+these captions, adding them at the end of the copies divided by rulings (see
+§4.3).
+Other aspects of layout techniques, such as column breaks, were not re-
+flected in the copies. Nor did scribes consider the palaeography of the inscrip-
+tions worth imitating applying standard Old Babylonian sign forms instead. It
+may come as a surprise that the originals’ palaeography, i.e. the lapidary form
+of the cuneiform signs, was of no importance to the copyists, at least not to the
+extent of providing reproductions of stone monuments on clay. There is one
+exception, however, the manuscript N 202 + N 4007 + N 4930 which is a palaeo-
+graphically correct copy of Narām-Sîn-inscriptions (see Fig. 1).35
+Fig. 1: Obverse of the manuscript N 202 + N 4007 + N 4930 holding palaeographically correct
+copies of Narām-Sîn-inscriptions. Image courtesy of University of Pennsylvania, Museum of
+Archeology and Anthropology, Curators of the Near East Section.
+||
+35 Michalowski refers to the palaeography of this manuscript as ‘archaizing script’, see
+Michalowski 1980, 239.
+A Collector’s Edition of the Past | 459
+In most cases, however, lapidary cuneiform script intended for stone36 was kept
+apart from the cuneiform script used on clay even in the advanced phase of
+scribal training. It is assumed that stone carvers of ancient Mesopotamia had a
+different education to scribes and had but limited literacy. Apprentice scribes,
+by contrast, only had to master the handwriting applied on clay but their read-
+ing skills included the lapidary sign forms.
+4.3 Paratextual additions
+In many cases, paratextual additions have also been preserved in the manu-
+scripts. Glosses and translations, wherever added, are proof scribes studied and
+discussed the text, but this practice is only detectable in single not multiple-text
+manuscripts. Another unique manuscript exists, featuring a single composition,
+with the Sumerian text rendered in syllabic orthography facilitating the compo-
+sition’s pronunciation or memorization, but ignoring the orthographical con-
+ventions of the alleged original. The fact that such learning aids are restricted to
+manuscripts with a single text suggest that collections of royal inscriptions had
+a different function to single-text manuscripts of the same type of content.
+Paratextual additions in collections of royal inscriptions are restricted to
+captions and colophons. Captions are scribal remarks recording the position of
+parts of the inscription on the original monument or provide information on the
+visual programme. Captions thus attempt to capture some physical features of
+the original artefact. These remarks always follow the part of the inscription
+they refer to and are usually demarcated by rulings. Here are a few examples
+from the collection of twenty-two royal inscriptions on the manuscript CBS 13972+
+(see Fig. 2):
+mu-sar-ra ki-gal-ba, ‘inscription on its (= statue) base’ (o. iv 44–45)
+mu-sar-ra murgu lugal-zag-ge-si, ‘inscription on Lugalzagesi’s shoulder’ (o. x 58–59)
+mu-sar-ra alan-na ki-gal-bi nu-sar, ‘inscription of a statue; its base was uninscribed’ (o. vi
+48–49 passim)
+mu-sar-ra ki-gal-ba igi lugal-zag-ge-si-še3 a-ab-sar, ‘inscription of its base; it was written in
+front of (the ruler) Lugalzagesi’ (o. ix 48–49)
+mu-sar-ra urudušen za-ḫum-ma, ‘inscription on a copper cauldron’ (r. xiv 29)
+||
+36 Preliminarily, inscriptions on metal objects could also serve as models for the collections,
+as the original artefacts could not be reconstructed in every case. The visual organization of
+royal inscriptions written on stone and clay is similar.
+460 | Szilvia Sövegjártó
+Fig. 2: Obverse of the manuscript CBS 13972 + CBS 14545, a multiple-text manuscript with
+inscriptions of various rulers of the Agade dynasty. Image courtesy of University of Pennsylva-
+nia, Museum of Archeology and Anthropology, Curators of the Near East Section.
+In comparing these captions, it becomes clear that the wording was chosen
+freely by the scribe, but they are always quite laconic. As a royal inscription was
+not restricted to a single monument but could be applied to several statues or
+A Collector’s Edition of the Past | 461
+other artefacts, these brief remarks are most likely mnemonic devices useful
+only to the copyist in recalling the original artefact he copied. However, for
+those with access to the monuments of past rulers, these brief remarks may
+have even been sufficient for identifying the monument with a degree of certain-
+ty.
+Demarcated by double ruling, colophons always appear at the end of a
+manuscript, and convey information on the original artefacts. Here is an exam-
+ple from tablet BT 2+ illustrating how most of these colophons were formulated:
+dub mu-sar-ra 3 alan e-er-ri-du-pi-zi-ir, ‘inscribed tablet: 3 statues of Erridu-pizir’ (r. vi 6–8)
+The second example here contains a quite unique remark: a three-line colophon
+was added to the manuscript CBS 2344+ at the end of the last column, after
+double ruling referring to the inscriptions of Rīmuš in the collection, probably
+copied from copper statues (Colophon 1). Thereafter, without visual separation,
+two lines follow (Colophon 2) which use the space after the last two columns in
+the tablet:
+šag4 kisal-a-ka al-ĝar, ‘set up within the courtyard’ (r. vii’4’)
+šag4 kisal e2-kur-ra, ‘within the courtyard of the Ekur’ (r. vii’ 5’)
+Apparently, these two lines also contain two separate entries for the second line
+of the two repeats the content of the first line partially and because the second
+line was added later when the tablet was dry and less easy to write on. The con-
+tent of the two entries is almost the same, but the second identifies the temple
+in which the original monument was located. Therefore, it is possible that at the
+time of copying the scribe felt it obvious to which temple the inscription be-
+longed, but at a later moment considered it necessary to add the temple’s name.
+The reason why such addendum was required remains hypothetical: this may
+be explained by the mobility of scribes as well as clay tablets, but may also re-
+sult from the abundance of Nippur sanctuaries. Another possibility may have
+been the scribe’s striving for completeness. Nevertheless, this case proves that
+not even colophons followed strict rules but were personal mnemonic devices,
+formulated and adjusted according to the scribes’ preferences.
+Another remarkable fact is that paratextual additions in these multiple-text
+manuscripts are always in Sumerian. Akkadian glosses and colophons are at-
+tested in a number of Sumerian manuscripts, mostly of literary content, both
+from educational as well as scholarly contexts. It should thus be noted that
+scribes compiling copies of royal inscriptions adhered to the Sumerian language
+even for paratextual additions. This may also reflect the context of advanced
+462 | Szilvia Sövegjártó
+scribal education in which the language was actually not chosen freely by the
+scribe, or, at the very least, Sumerian was the clear preference to Akkadian.37
+4.4 The use of the collections
+In the previous sections the intention was to provide detailed information on
+the characteristics of multiple-text manuscripts containing royal inscriptions
+and show how these manuscripts were produced according to the individual
+needs and skills of the scribes, for they were intended for personal use. Now, in
+the following, just what this personal use may have been is to be specified.
+The compilations prepared by apprentice scribes were most probably in-
+tended for independent learning, initially for learning about the past. The basic
+interest in the past during the Old Babylonian period is detectable through other
+sources such as collections of year names38 enumerating past rulers and dynas-
+ties, or the transmission of literary compositions with a historical background
+such as the Sumerian King List, the Curse of Agade or laments over the destruc-
+tion of some important cities.39 When studying history, apprentice scribes in the
+Old Babylonian period were still able and indeed did rely on original sources,
+i.e. on the inscriptions of former rulers.
+Aside from being reliable sources for the studying of the history of events,
+collections of royal inscriptions were sources for studies of style, language or
+royal propaganda. Collections centred on the inscriptions of a single ruler had
+the potential of enabling the study of palaeography, orthography and grammar,
+as well as royal propaganda characteristics in the lifetime of a specific ruler. By
+contrast, collections that featured the inscriptions of several rulers or even rul-
+ers of two subsequent dynasties enabled comparative studies between tradi-
+tions with a focus on orthography, palaeography, grammar or content, includ-
+ing shifts in the self-representation and propaganda of past rulers.
+Since the provenance of the collections suggests the manuscripts were pro-
+duced by apprentice scribes trained in the Old Babylonian school, their produc-
+tion and use can be compared to other relevant manuscripts related to this insti-
+tution and scribal education.
+||
+37 This fact is also reflected in Sumerian proverbs and short stories depicting the life of ap-
+prentice scribes. These stories report how scribes not only read and wrote Sumerian, but also
+communicated in the school using Sumerian. See Cohen and Kedar 2011, 230.
+38 For an overview of early Mesopotamian year names see Sigrist and Damerow 2001.
+39 For a publication of these compositions see Black et al. 1998– or Glassner 2004.
+A Collector’s Edition of the Past | 463
+Steve Tinney suggested pupils in the Old Babylonian Edubba underwent
+two main phases of scribal and scholarly training.40 In the elementary phase,
+they learned to write and count, copying and memorizing lexical lists and ele-
+mentary literary compositions. Students were probably taught in groups in this
+phase. During the second, advanced phase, their apprenticeship training had a
+specific, professional focus. The materials copied and studied were similar with
+mathematical exercises and literary compositions probably still being core as-
+signments. However, the compilation and study of the material took place more
+independently, guided by a professional’s instructions. The second phase in-
+volved most probably the reproduction and compilation of monumental inscrip-
+tions. In several cases the manuscripts’ features indicate an apprentice scribe
+had prepared them for his personal use.41
+The apprentice scribes’ antiquarian interest played an important role in the
+preservation of these manuscripts. Although multiple-text manuscripts were
+compiled as an advanced school exercise, the tablets were prepared skillfully
+and with great care. It was most certainly deemed a privilege to enter the in-
+nermost of a temple and consult the monuments of past rulers in person. Con-
+sequently, the manuscripts created by this sophisticated task were held in es-
+teem by their producers and owners and were not to be discarded but in fact
+entered their personal library. The first tablets of a professional’s personal li-
+brary was probably made up of tablets accumulated during the advanced phase
+of his professional training.
+Yet another question arises, namely why the task of studying and copying
+royal monuments was assigned to apprentice scribes and just what may have
+been the practical use of this exercise. First of all, apprentice scribes were prob-
+ably required to acquire the skill of reading monumental inscriptions only, but
+not of producing – or reproducing – them. This skill, may well have been of
+some practical use in the course of a Mesopotamian scholar’s career. Skill in
+reading more ancient cuneiform texts was vital in Mesopotamia for the identify-
+ing and deciphering of former rulers’ foundation inscriptions unearthed, for
+instance during temple building renovations. Furthermore, scholars may have
+had the responsibility of composing inscriptions for contemporary rulers, and
+||
+40 Tinney 2011, 589–591.
+41 Of particular note is the contrast between copies of historical inscriptions and copies of
+elementary literary compositions. Elementary literary compositions are known from a higher
+number of duplicates and their reproduction by apprentice scribes are more standard in both
+form and content. This latter aspect was probably due to it being a part of the elementary phase
+of the scribal curriculum and not copies made as part of specialized individual training but by
+numbers of scribes instructed and trained together in groups.
+464 | Szilvia Sövegjártó
+knowledge of earlier inscriptions was probably not only advantageous but even
+necessary for their successful accomplishment. Thus, collections of inscriptions
+accessed in their personal libraries would have certainly been useful tools for
+consultation in carrying out such a task. Further to being a sophisticated practi-
+cal exercise, the assignment of copying and compiling inscriptions from royal
+monuments was also a preparation for certain tasks qualified scholars would
+undertake later on in their career.
+5 Conclusions
+Comparing the literary and scholarly manuscript production of the third and
+second millennium BCE, the main peculiarity of the Old Babylonian period is the
+emergence of individual styles. The focus shifted from the collective to the indi-
+vidual which can be explicitly perceived from colophons and confirmed by many
+implicit features of the period’s manuscript architecture. There is no other peri-
+od in which variation was as common in the Sumerian manuscript tradition as
+the early second millennium BCE. These characteristics of Old Babylonian man-
+uscript production are also reflected in the collections discussed in this paper.
+When copying royal inscriptions, Old Babylonian scribes developed their
+own methods for reflecting certain features of the originals, i.e. those of im-
+portance for their professional development or which they chose to reflect based
+on their own personal choice, taste or individual skills. Apprentice scribes did
+not follow established patterns when producing these copies, they were proba-
+bly not instructed as to what they had to include in the collection and how to
+carry out this task. This production process resulted in unique manuscripts in
+terms of both content and manuscript architecture.
+Also, as is apparent from single-text manuscripts, scribes were free to add
+annotations and remarks and also applied such aids when studying an inscrip-
+tion, but did not do so when producing collections. In this case, paratextual
+additions were restricted to captions and colophons implying these collections
+had a different function to exercise tablets featuring a single inscription. The
+contents’ interpretation was no longer a challenge for the scribes, they focused
+on more complex elements and patterns. Nonetheless, the manuscripts reflect
+the compiler’s choices both in their form and content.
+Copies of royal inscriptions emerged as learning tools and were thus ephemer-
+al. However, multiple-text manuscripts in particular, were probably designed
+for a considerably longer life-cycle. Royal monuments were accessible in Nippur
+and other scribal training centres, and if required, could be consulted there.
+A Collector’s Edition of the Past | 465
+Integration of the inscriptions of past rulers in the scribal curriculum was based
+on the copying of original monuments of relevance for the city in which the
+scribal school was located and in so doing apprentice scribes were familiarizing
+themselves with local traditions and local history. Moreover, apprentice scribes
+were free to compile their own personal collection of historical accounts while
+carrying out this task.
+Aside from being useful study tools, clay copies increased the mobility of
+these unique objects enabling them to be included in scholars’ libraries or sent
+to other centres of learning. Moreover, clay proved, in many instances, to be far
+more durable than copper or stone. It is quite exceptional that not only the copy
+of an inscription, but the original artefact also survives to enable direct compar-
+ison. The prominent models of these collections have perished, or have been
+destroyed and recycled, or perhaps not yet discovered, while their copies have
+been preserved and unearthed by chance. The collections, however, convey not
+only the rulers’ fame, the inscriptions once honoured, but also the craftsman-
+ship of scribes reproducing them on clay and including them in their personal
+collection, deeming them worthy enough to be preserved for eternity.
+Acknowledgements
+The research for this article was funded by the Deutsche Forschungsgemein-
+schaft (DFG, German Research Foundation) under Germany’s Excellence Strate-
+gy – EXC 2176 ‘Understanding Written Artefacts: Material, Interaction and
+Transmission in Manuscript Cultures’, project no. 390893796. The research was
+conducted within the scope of the Centre for the Study of Manuscript Cultures
+(CSMC) at Universität Hamburg.
+Abbreviations
+CDLI = Cuneiform Digital Library Initiative, <https://cdli.ucla.edu/> (accessed on 16 December
+2022).
+RIME = Royal Inscriptions of Mesopotamia, Early Periods (see Edzard 1997 and Frayne 1990–
+2008).
+466 | Szilvia Sövegjártó
+References
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Bausi, Alessandro, Michael Friedrich and Marilena Maniaci (2020), ‘Preface’, in Alessandro
+Bausi, Michael Friedrich and Marilena Maniaci (eds), The Emergence of Multiple-Text
+Manuscripts (Studies in Manuscript Cultures, 17), Berlin: De Gruyter, vii–xii.
+Beaulieu, Paul-Alain (2013), ‘Mesopotamian Antiquarianism from Sumer to Babylon’, in Alain
+Schnapp (ed.), with Lothar von Falkenhausen, Peter N. Miller and Tim Murray, World Anti-
+quarianism: Comparative Perspectives, Los Angeles: Getty Research Institute, 121–139.
+Biggs, Robert D. (1974), Inscriptions from Tell Abu Salabikh (Oriental Institute Publications,
+99), Chicago: The Oriental Institute.
+Black, Jeremy et al. (1998–), The Electronic Text Corpus of Sumerian Literature, <http://etcsl.
+orinst.ox.ac.uk/> (accessed on 20 April 2021).
+Bonatz, Dominik (2002), ‘Die Macht der Erinnerung: Ein Beitrag zur zeitgenössischen Rezepti-
+on altorientalischer Bildwerke’, in Marlies Heinz and Dominik Bonatz (eds), Bild, Macht,
+Geschichte: Visuelle Kommunikation im Alten Orient, Berlin: Reimer, 179–206.
+Brisch, Nicole (2007), Tradition and the Poetics of Innovation: Sumerian Court Literature of the
+Larsa Dynasty (c. 2003–1763 BCE) (Alter Orient und Altes Testament, 339), Münster: Ugarit
+Verlag.
+Brita, Antonella, Giovanni Cotti, Florinda De Simini and Amneris Roselli (eds) (2020), Copying
+Manuscripts: Textual and Material Craftsmanship, Naples: Unior Press.
+Cammarosano, Michele, Katja Weirauch, Feline Maruhn, Gert Jendritzki and Patrick L. Kohl
+(2019), ‘They wrote on wax. Wax boards in the Ancient Near East’, Mesopotamia, 54: 121–
+180.
+Cancik-Kirschbaum, Eva and Jochem Kahl (2018), Erste Philologien: Archäologie einer Disziplin
+vom Tigris bis zum Nil, Tübingen: Mohr Siebeck.
+Charpin, Dominique (1986), Le clergé d’Ur au siècle d’Hammurabi: XIXe–XVIIIe siècles av. J.-C.,
+Geneva: Droz.
+Charpin, Dominique (2010), Reading and Writing in Babylon, Cambridge: Harvard University
+Press.
+Cohen, Yoram and Sivan Kedar (2011), ‘Teacher-Student Relationships: Two Case Studies’, in
+Karen Radner and Eleanor Robson (eds), The Oxford Handbook of Cuneiform Culture, Ox-
+ford: Oxford University Press, 229–247.
+Cooper, Jerrold S. (1973), ‘Sumerian and Akkadian in Sumer and Akkad’, Orientalia, 42: 239–
+246.
+Deimel, Anton (1923), Die Inschriften von Fara, vol. 2: Schultexte aus Fara, Leipzig: J.C. Hin-
+richs.
+Delnero, Paul (2012), The Textual Criticism of Sumerian Literature (Journal of Cuneiform Studies
+Supplementary Series, 3), Boston: American Schools of Oriental Research.
+Edzard, Dietz Otto (1980), ‘Königsinschriften. A. Sumerisch’, in Reallexikon der Assyriologie
+und Vorderasiatischen Archäologie, vol. 6, Berlin: De Gruyter, 62–65.
+Edzard, Dietz Otto (1997), Gudea and his Dynasty (The Royal Inscriptions of Mesopotamia:
+Early Periods, 3/1), Toronto: University of Toronto Press.
+Frayne, Douglas R. (1990), Old Babylonian Period (2003–1595) (The Royal Inscriptions of Mes-
+opotamia: Early Periods, 4), Toronto: University of Toronto Press.
+Frayne, Douglas R. (1993), Sargonic and Gutian Periods (2234–2113) (The Royal Inscriptions of
+Mesopotamia: Early Periods, 2), Toronto: University of Toronto Press.
+A Collector’s Edition of the Past | 467
+Frayne, Douglas R. (1997), Ur III Period (2112–2004) (The Royal Inscriptions of Mesopotamia:
+Early Periods, 3/2), Toronto: University of Toronto Press.
+Frayne, Douglas R. (2008), Presargonic Period (2700–2350) (The Royal Inscriptions of Mesopo-
+tamia: Early Periods, 1), Toronto: University of Toronto Press.
+Glassner, Jean-Jacques (2004), Mesopotamian Chronicles (Writings from the Ancient World,
+19), Atlanta: Society of Biblical Literature.
+Huber, Fabienne (2001), ‘La Correspondance Royale d’Ur, un corpus apocryphe’, Zeitschrift für
+Assyriologie und Vorderasiatische Archäologie, 91: 169–206.
+Jestin, Raymond (1937), Tablettes sumériennes de Šuruppak conservées au Musée de Stamboul
+(Mémoires de l’Institut français d’archéologie de Stamboul, 3), Paris: de Boccard.
+Jestin, Raymond (1957), Nouvelles Tablettes sumériennes de Šuruppak au Musée d’Istanbul
+(Bibliothèque archéologique et historique de l’Institut français d’archéologie d’Istanbul,
+2), Paris: Maisonneuve.
+Krebernik, Manfred (1984), Die Beschwörungen aus Fara und Ebla: Untersuchungen zur ältes-
+ten keilschriftlichen Beschwörungsliteratur (Texte und Studien zur Orientalistik, 2), Hil-
+desheim: Olms.
+Krebernik, Manfred (1992), ‘Mesopotamian Myths at Ebla: ARET 5, 6 and ARET 5, 7’, in Pelio
+Fronzaroli (ed.), Literature and Literary Language at Ebla (Quaderni di Semitistica, 18),
+Florence: Università di Firenze, 63–149.
+Michalowski, Piotr (1980), ‘New Sources concerning the Reign of Naram-Sin’, Journal of Cunei-
+form Studies, 32: 233–246.
+Michalowski, Piotr (2004), ‘Sumerian’, in Roger D. Woodward (ed.), The Cambridge Encyclope-
+dia of the World’s Ancient Languages, Cambridge: Cambridge University Press, 19–59.
+Michalowski, Piotr (2011), The Correspondence of the Kings of Ur: An Epistolary History of an
+Ancient Mesopotamian Kingdom (Mesopotamian Civilizations, 15), Winona Lake: Ei-
+senbrauns.
+Michalowski, Piotr (2020), ‘Sumerian’, in Rebecca Hasselbach-Andee (ed.), A Companion to
+Ancient Near Eastern Languages, Hoboken, NJ: Wiley Blackwell, 83–105.
+Michalowski, Piotr (2021), ‘They Wrote on Clay, Wax, and Stone: Some Thoughts on Early Mes-
+opotamian Writind’, in Quenzer (ed.) 2021, 67–88.
+Michel, Cécile (2021), ‘What about 3D Manuscripts? The Case of the Cuneiform Clay Tablets’, in
+Quenzer (ed.) 2021, 89–113.
+Nissen, Hans J., Peter Damerow and Robert K. Englund (1993), Archaic Bookkeeping: Writing
+and Techniques of Economic Administration in the Ancient Near East, Chicago: University
+of Chicago Press.
+Proust, Christine (2017), ‘La chanson des mathématiques dans l’Edubba’, in M. C. Bustamante
+(ed.), Scientific Writings and Orality (Archives Internationales d’Histoire des Sciences,
+65/2), Turnhout: Brepols, 19–49.
+Quenzer, Jörg B. (ed.) (2021), Exploring Written Artefacts. Objects, Methods, and Concepts
+(Studies in Manuscript Cultures, 25), Berlin: De Gruyter.
+Radner, Karen (2005), Die Macht des Namens: Altorientalische Strategien zur Selbsterhaltung
+(SANTAG – Arbeiten und Untersuchungen zur Keilschriftkunde, 8), Wiesbaden: Harrasso-
+witz.
+Robson, Eleanor (2001), ‘The Tablet House: A Scribal School in Old Babylonian Nippur’, Revue
+d’assyriologie et d’archéologie orientale, 95: 39–66.
+Rubio, Gonzalo (2009), ‘Scribal Secrets and Antiquarian Nostalgia: Tradition and Scholarship
+in Ancient Mesopotamia’, in Diego A. Barreira Fracaroli and Gregorio del Olmo Lete (eds),
+468 | Szilvia Sövegjártó
+Reconstructing a Distant Past: Ancient Near Eastern Essays in Tribute to Jorge R. Silva Cas-
+tillo, Barcelona: Editorial AUSA, 155–182.
+Sallaberger, Walther (1999), ‘Ur III-Zeit’, in Walther Sallaberger and Aage Westenholz, Mesopo-
+tamien. Akkade-Zeit und Ur III-Zeit (Orbis Biblicus et Orientalis, 160/3), Freiburg, Schweiz:
+Universitätsverlag / Göttingen: Vandenhoeck & Ruprecht, 119–390.
+Sallaberger, Walther (2004), ‘Das Ende des Sumerischen. Tod und Nachleben einer altmesopo-
+tamischen Sprache’, in Peter Schrijver and Peter-Arnold Mumm (eds), Sprachtod und
+Sprachgeburt, Bremen: Hempen Verlag, 108–140.
+Sigrist, Marcel and Peter Damerow (2001), Mesopotamian Year Names: Neo-Sumerian and Old
+Babylonian Year Formulae, <https://cdli.ucla.edu/tools/yearnames/yn_index.html> (ac-
+cessed on 18 March 2021).
+Sjöberg, Åke (1975), ‘The Old Babylonian Eduba’, in Stephen J. Lieberman (ed.), Sumerological
+Studies in Honor of Thorkild Jacobsen on His Seventieth Birthday, June 7, 1974 (Assyriolog-
+ical Studies, 20), Chicago: University of Chicago Press, 159–179.
+Suter, Claudia E. (2012), ‘Gudea of Lagash: Iconoclasm or Tooth of Time?’, in Natalie Naomi
+May (ed.), Iconoclasm and Text Destruction in the Ancient Near East and Beyond (Oriental
+Institute Seminars, 8), Chicago: The Oriental Institute, 57–87.
+Tinney, Steve (1999), ‘On the Curricular Setting of Sumerian Literature’, Iraq, 61: 159–172.
+Tinney, Steve (2011), ‘Tablets of Schools and Scholars: A Portrait of the Old Babylonian Cor-
+pus’, in Karen Radner and Eleanor Robson (eds), The Oxford Handbook of Cuneiform Cul-
+ture, Oxford: Oxford University Press, 577–596.
+Vanstiphout, Hermann L. J. (1979), ‘How Did They Learn Sumerian?’, Journal of Cuneiform Stud-
+ies, 31: 118–126.
+Vita, Juan-Pablo (ed.) (2021), History of the Akkadian Language (Handbook of Oriental Studies.
+Section 1: The Near and the Middle East, 152), Leiden: Brill.
+Winter, Irene (2000), ‘Babylonian Archeologists of The(ir) Mesopotamian Past’, in Paolo Mat-
+thiae et. al. (eds), Proceedings of the First International Congress on the Archaeology of
+the Ancient Near East, Roma: Università degli Studi di Roma “La Sapienza”, 1785–1789.
+Woods, Christopher (2006), ‘Bilingualism, scribal learning, and the death of Sumerian’, in Seth
+L. Sanders (ed.), Margins of Writing. Origins of Cultures (Oriental Institute Seminars, 2),
+Chicago: The Oriental Institute, 91–120.
+Worthington, Martin (2006), ‘Sammeltafel. A. Mesopotamien’, in Reallexikon der Assyriologie
+und Vorderasiatischen Archäologie, vol. 11, Berlin: De Gruyter, 625–627.
+A Collector’s Edition of the Past | 469
+Appendix 1: Old Babylonian multiple-text
+manuscripts with copies of royal inscriptions
+Museum Prove- RIME Corpus Ruler(s) Dynasty No. of CDLI No.
+No. nance no. inscrip-
+tions on
+tablet
+AO 5474 Nippur 2.01.04.01 Naram-Sîn Agade 2 P216557
+2.01.04.1001
+BT 1 Nippur 2.01.04.06 Naram-Sîn Agade 6 P227520
+2.01.04.11
+2.01.04.20
+2.01.04.23
+2.01.04.47–48
+BT 2 + BT Nippur 2.02.01.01–03 Erridu-pizir Gutium 3 P227536
+3
+BT 4 + Nippur 3/2.01.04.03 Šu-Sîn Ur III 3 P226527
+HS 2009 + 3/2.01.04.05
+HS 2985 3/2.01.04.07
+CBS 2344 Nippur 2.01.02.07 Rīmuš Agade 4 P227513
++ 2.01.02.18 Naram-Sîn
+N 3539 + 2.01.04.03
+CBS 2.01.04.06
+14547
+CBS Nippur 3/2.01.04.06 Šu-Sîn Ur III 2 P227070
+12694 4.01.06.02 Ur-Ninurta Isin
+CBS Nippur 2.01.01.01–03 Sargon Agade 22 P227509
+13972 2.01.01.06–09 Rīmuš
+2.01.01.11–13 Man-ištūšu
+2.01.01.15
+2.01.02.01–07
+2.01.02.09
+2.01.02.18
+2.01.03.01–02
+CBS Nippur 4.01.04.06 Išme- Isin uncer- P268989
+13996 Dagan tain
+HS 1954 + Nippur 2.01.04.02 Naram-Sîn Agade 2 P227517
+HS 1955 + 2.01.04.03
+HS 2499 +
+HS 2506
+470 | Szilvia Sövegjártó
+Museum Prove- RIME Corpus Ruler(s) Dynasty No. of CDLI No.
+No. nance no. inscrip-
+tions on
+tablet
+N 202 + Nippur 2.01.04.12 Naram-Sîn Agade 4 P227521
+N 4007 + 2.01.04.50
+N 4930 2.01.04.1002
+2.01.04.1003
+N 2230 + Nippur 3/2.01.01.52 Ur-Namma Ur III 16 P227135
+N 4006 3/2.01.02.36 Šulgi
+3/2.01.02.37
+3/2.01.02.81
+3/2.01.02.84
+3/2.01.02.204
+9–2059
+N 3152 + Nippur 3/2.01.04.01 Šu-Sîn Ur III 3 P227137
+N 3180 + 3/2.01.04.08
+N 4240 + 3/2.01.04.09
+N 4241 +
+N 5144 +
+N 6718 +
+Ni 4394 +
+UM 29-15-
+556 + UM
+29-16-611
+N 6266 Nippur 2.01.01.05 Sargon Agade 4 P227511
+2.01.03.02 Man-ištūšu
+2.x00.00.1011 Uncertain
+2.x00.00.1012
+Ni 3200 Nippur 2.01.01.01–03 Sargon Agade 19 P227510
+2.01.01.09 Rīmuš
+2.01.01.11–15 Man-ištūšu
+2.01.02.01–07
+2.01.02.09
+2.01.01.01–02
+Ni 4167 Nippur 2.13.06.04 Utu-ḫeĝal Uruk 2 P227540
+2.13.06.05
+Ni 9654 Nippur 2.01.04.1004 Naram-Sîn Agade 3 P227529
+3/2.01.04.01 Šu-Sîn Ur III
+3/2.01.04.02
+Ni 9662 Nippur 3/2.01.04.01 Šu-Sîn Ur III 2 P226583
+3/2.01.04.09
+A Collector’s Edition of the Past | 471
+Museum Prove- RIME Corpus Ruler(s) Dynasty No. of CDLI No.
+No. nance no. inscrip-
+tions on
+tablet
+UM 29-16- Nippur 3/2.01.04.04 Šu-Sîn Ur III 2 P227139
+42 4.01.10.08 Enlil-bāni Isin
+UM L-29- Nippur 4.01.03.03 Iddin- Isin 2 P342802
+578 4.01.10.11 Dagan
+Enlil-bāni
+IM 85670 Ur 2.01.04.05 Naram-Sîn Agade 2 P223659
+2.01.04.26
+U 7725 Ur 2.01.03.01 Man-ištūšu Agade 2 P227523
+2.01.04.25 Naram-Sîn
+U 7737 Ur 2.01.01.16 Sargon Agade 3 P226450
+(UET 1 3/2.01.05.02 Ibbi- Sîn Ur III
+210) 3/2.01.05.03
+IB 1537 Isin 3/2.01.01.29 Ur-Namma Ur III 2 P227419
+4.01.04.09 Išme- Isin (?)
+Dagan (?)
+BM 78681 Sippar 3/2.01.02.25 Šulgi Ur III 5 P226630
++ 3/2.01.02.26
+BM 3/2.01.02.35
+139969 3/2.01.02.64
+3/2.01.02.204
+3
+BM uncertain 3/2.01.04.33 Šu-Sîn Ur III Likely P226726
+110424 com-
+bines
+two
+inscrip-
+tions
+472 | Szilvia Sövegjártó
+Appendix 2: Text sample
+BT 4 + HS 2009 + HS 298542
+obverse
+col. i–vii 16 (copy of a royal inscription of Šū-Suen)
+col. vii
+17–18 colophon:
+mu-sar-ra ki-gal-ba
+Inscription on its socle.
+19–29 (copy of a royal inscription of Šū-Suen)
+30
+mu-sar-ra ĝiri-na
+3
+Inscription on his foot.
+31–34 caption:
+zi-ri-in-gu, en[si], ma-[da], za-ab-ša-l[i]ki
+2 2
+Ziringu, gover[nor] of the la[nd] of Zabšal[i].
+35–37 colophon:
+mu-sar-ra, zag zi-ri-in-gu, lugal šaga
+2
+Inscription on the shoulder of Ziringu, the oppressed king.
+col. viii (copy of a royal inscription of Šū-Suen)
+reverse
+col. i
+1–30 (copy of a royal inscription of Šū-Suen, continuation of the obverse)
+||
+42 The present sample intends to illustrate the visual organization and function of captions,
+colophons and further scribal annotations in a multiple-text manuscript. A complete edition of
+the inscriptions considering all known sources is available in the RIME 3/2 volume (Frayne
+1997) under the numbers RIME 3/2.01.04.03, RIME 3/2.01.04.05 and RIME 3/2.01.04.07.
+A Collector’s Edition of the Past | 473
+31–33 colophon:
+mu-sar-ra, ur in-da-su, lugal šaga
+2
+Inscription on the limb of Indasu, the oppressed king.
+34–36 caption:
+in-da-su, ensi, za-ab-ša-liki
+2 2
+Indasu, governor of Zabšali.
+37–38 colophon:
+mu-sar-ra, zag-ga-na
+Inscription on his shoulder.
+col. ii
+1–8 caption:
+dšu-dsuen, ki-aĝ den-lil-la, lugal den-lil-le,
+2 2 2 2
+ki-aĝ šag -ga-na, in-pad, lugal kalag-ga, lugal uriki-ma,
+2 4 3 5
+lugal an-ub-da limmu-ba
+2
+Šū-Suen, beloved of (the god) Enlil, the king whom Enlil lovingly chose
+in his heart, mighty king, king of Ur, king of the four quarters.
+9–13 colophon:
+mu-s[ar]-ra, murgu x-KI, lu in-da-su, lugal šaga, ĝiri an-us-sa
+2 2 3 2
+In[sc]ription on the shoulder of x-KI, man of Indasu, the oppressed king,
+with (Šū-Suen’s) foot stepping upon him.
+14–16 caption:
+ti-ti, ensi, nu-šu-uš-ma-arki
+2
+Titi, governor of Nušušmar.
+17–18 colophon:
+mu-sar-ra, zag zi-da-na
+Inscription on his right shoulder.
+19–21 caption:
+s[a-a]m-ri, [en]si , x-x-li-[x]ki
+2
+S[a]mri, [gove]rnor of […]
+22–23 colophon:
+[mu-s]ar-ra, ĝi[ri-n]a
+3
+[Ins]cription on hi[s fo]ot.
+474 | Szilvia Sövegjártó
+24–26 caption:
+nu-[x]-li, [en]si, a-lu-m[i-i]d-d[a]-tim
+2
+Nu[…]li, governor of Alum[i]d[a]tum.
+27–28 colophon:
+mu-sar-ra, gaba-[na]
+Inscription on [his] chest.
+29–31 caption:
+bu-ni-i[r]-ni, [en]si, [s]i-ig-ri-iški
+2 2
+Buni[r]ni, [gov]ernor of [S]igriš.
+32–34 colophon:
+[m]u-sar-ra, zag gub-bu, egir-ra-na
+3
+[In]scription on the left shoulder, behind him.
+col. iii
+1–3 caption:
+ba-ri-ḫi-za, ensi, a-ra?-ḫi-irki
+2
+Barihiza, governor of Arahir.
+4–5 colophon:
+mu-sar-ra, egir zag gub-bu-na
+3
+Inscription behind his left shoulder.
+6–8 caption:
+wa-bur-tum, [en]si, [lu?]-lu-bi-im[ki]
+2
+Waburtum, [gov]ernor of [Lu]llubum.
+9–10 colophon:
+m[u-sar-r]a, zag gub-bu-n[a]
+3
+In[scrip]tion on h[is] left shoulder.
+11–12 annotation:
+6 lu šu-du -a-me-eš a-ab-sar
+2 8
+6 lu en-nu-ug-bi nu-ub-sar
+2 3
+Six captive men which are inscribed.
+Their six watchmen which are not inscribed.
+A Collector’s Edition of the Past | 475
+13–15 caption:
+ne-ni-ib-zu, ensi, zi-zi-ir-tumki
+2 2
+Nenibzu, governor of Zizirtum.
+16–17 colophon:
+mu-sar-ra, egir zi-da-na
+Inscription behind his right side.
+18–20 caption:
+ti-ru-b[i]-u, ensi, nu-uš-ga-ne-l[u]-umki
+2 2
+Tirub[i]’u, governor of Nušganel[u]m.
+21–22 colophon:
+m[u-s]ar-r[a], eg[ir] zag z[i]-da-ni
+In[sc]ripti[on] behi[nd] his r[i]ght shoulder.
+23–25 caption:
+x-am-ti, ensi, ga-ar-taki
+2
+x-amti, governor of Garta.
+26–27 colophon:
+mu-sar-ra, zag-si zi-da-ni
+Inscription on his right limb.
+28–30 caption:
+dun-ga-at, [e]nsi, ni-[bu-ul-m]a-[atki]
+2 2
+Dungat, [go]vernor of Ni[bulm]a[t].
+31–32 colophon:
+mu-sar-ra, za[g-s]i [zi]-da-ni
+Inscription on his [rig]ht l[im]b.
+col. iv
+1–10 annotation:
+[4 lu šu-du -a-me]-eš [a-a]b-sar
+2 8
+[4 lu en-n]u-ug-bi [nu-ub-sar]
+2 3
+[igi-na] egir-ra-na, z[i-d]a gu[b-b]u-na
+3
+(broken)
+[Four captive me]n which [are] inscribed.
+476 | Szilvia Sövegjártó
+Their [four watchm]en [which are not inscribed].
+[In front of him], behind him, on his r[ig]ht and l[ef]t […]
+11–15 concluding colophon:
+m[u-sa]r-ra, lug[al ša]ga-me-eš, u [dš]u-dsuen,
+3
+[lu] in-da-su, [ĝi]ri an-us-sa
+2 3 2
+In[scr]iption on the oppres[sed k]ings and on [Š]u-Suen [who st]epped on
+Indasu.
+16–37 (copy of the socle inscription)
+col. v
+1–21 (copy of the socle inscription, continuation of the previous column)
+22–24 colophon:
+mu-sar-ra, ki-gal d[šu-dsu]en, alan-na-kam
+4
+Inscription on the socle of [Šu-Su]en’s stone statue.
+25–31 (copy of the shoulder inscription)
+col. vi
+1–3 (copy of the shoulder inscription, continuation of the previous column)
+4–6 colophon:
+mu-sar-ra, zag zi-da-ni, alan-na
+4
+Inscription: right shoulder of a stone statue.
+7–10 concluding colophon (after double ruling):
+dub mu-sa[r-ra], 3 dub alan, dšu-dsuen, u ki-gal 2-bi
+3
+Tablet of inscripti[ons]. Three statues of Šū-Suen and their two socles.
+

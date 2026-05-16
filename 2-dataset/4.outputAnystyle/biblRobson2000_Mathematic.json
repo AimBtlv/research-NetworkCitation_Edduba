@@ -1,0 +1,1149 @@
+[
+  {
+    "author": [
+      {
+        "family": "Al-Fouadi",
+        "given": "A.H."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "Lenticular Exercise School Texts, I (Texts in the Iraq Museum 10/1"
+    ],
+    "location": [
+      "Baghdad"
+    ],
+    "publisher": [
+      "Republic of Iraq Ministry of Culture and Arts"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alster",
+        "given": "Bendt"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Proverbs of Ancient Sumer: The World’s Oldest Proverb Collections"
+    ],
+    "location": [
+      "Bethesda, MD"
+    ],
+    "publisher": [
+      "CDL Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Baqir",
+        "given": "Taha"
+      }
+    ],
+    "date": [
+      "1951"
+    ],
+    "title": [
+      "Some More Mathematical Texts from Tell Harmal"
+    ],
+    "volume": [
+      "7"
+    ],
+    "pages": [
+      "28–45"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sumer"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bregstein",
+        "given": "L.B."
+      },
+      {
+        "family": "Schneider",
+        "given": "T.J."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Nippur Bibliography"
+    ],
+    "container-title": [
+      "Nippur at the Centennial: Papers Read at the 35e RAJ, Philadelphia 1988"
+    ],
+    "editor": [
+      {
+        "family": "Ellis",
+        "given": "M.",
+        "particle": "deJong"
+      }
+    ],
+    "pages": [
+      "337–365",
+      "14"
+    ],
+    "publisher": [
+      "Occasional Publications of the Samuel Noah Kramer Fund",
+      "University Museum"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Duchesne-Guillemin",
+        "given": "Marcelle"
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "title": [
+      "A Hurrian Musical Score from Ugarit: The Discovery of Mesopotamian Music. Sources from the Ancient Near East 2/2"
+    ],
+    "location": [
+      "Malibu"
+    ],
+    "publisher": [
+      "Undena Publications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fisher",
+        "given": "Clarence S."
+      }
+    ],
+    "date": [
+      "1907"
+    ],
+    "title": [
+      "Excavations at Nippur: Plans, Details and Photographs of the Buildings, with Numerous Objects Found in Them during the Excavations of 1889, 1890, 1893–1896, 1899–1900"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "K. Curtius"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Friberg",
+        "given": "Jöran"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "On the Big 6-Place Tables of Reciprocals and Squares from Seleucid Babylon and Uruk and Their Old Babylonian and Sumerian Predecessors"
+    ],
+    "volume": [
+      "42"
+    ],
+    "pages": [
+      "81–87"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sumer"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Geere",
+        "given": "H.V."
+      }
+    ],
+    "date": [
+      "1904"
+    ],
+    "title": [
+      "By Nile and Euphrates: A Record of Discovery and Adventure"
+    ],
+    "location": [
+      "Edinburgh"
+    ],
+    "publisher": [
+      "T. & T. Clark"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gerardi",
+        "given": "Pamela"
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "title": [
+      "A Bibliography of the Tablet Collections of the University Museum"
+    ],
+    "volume": [
+      "8"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University Museum"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Occasional Publications of the Babylonian Fund"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Goetze",
+        "given": "Albrecht"
+      }
+    ],
+    "date": [
+      "1951"
+    ],
+    "title": [
+      "A Mathematical Compendium from Tell Harmal"
+    ],
+    "volume": [
+      "7"
+    ],
+    "pages": [
+      "126–155"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sumer"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gordon",
+        "given": "Edmund I."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "title": [
+      "Sumerian Proverbs: Glimpses of Everyday Life in Ancient Mesopotamia"
+    ],
+    "volume": [
+      "19"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University Museum"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Museum Monographs"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hilprecht",
+        "given": "Hermann V."
+      }
+    ],
+    "date": [
+      "1903"
+    ],
+    "title": [
+      "Die Ausgrabungen der Universität von Pennsylvania im Bel-Tempel zu Nippur: Ein Vortrag"
+    ],
+    "location": [
+      "Leipzig"
+    ],
+    "publisher": [
+      "J. C. Hinrichs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hilprecht",
+        "given": "Hermann V."
+      }
+    ],
+    "date": [
+      "1906"
+    ],
+    "title": [
+      "Mathematical, Metrological and Chronological Tablets from the Temple Library of Nippur"
+    ],
+    "container-title": [
+      "Babylonian Expedition of the University of Pennsylvania, Series A: Cuneiform Texts 20/1"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University of Pennsylvania"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hilprecht",
+        "given": "Hermann V."
+      }
+    ],
+    "date": [
+      "1908"
+    ],
+    "title": [
+      "The So-Called Peters–Hilprecht Controversy"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "A. J. Holman & Co"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Horowitz",
+        "given": "Wayne"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "The Reverse of the Neo-Assyrian Planisphere CT 33, 11"
+    ],
+    "container-title": [
+      "Die Rolle der Astronomie in Kulturen Mesopotamiens",
+      "Grazer Morgenländische Studien"
+    ],
+    "editor": [
+      {
+        "family": "Galter",
+        "given": "H.D."
+      }
+    ],
+    "pages": [
+      "149–159"
+    ],
+    "volume": [
+      "3"
+    ],
+    "location": [
+      "Graz"
+    ],
+    "publisher": [
+      "RM Druck- und Verlagsgesellschaft"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Høyrup",
+        "given": "Jens"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Algebra and Naive Geometry"
+    ],
+    "volume": [
+      "17"
+    ],
+    "pages": [
+      "27–69, 262–354"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Altorientalische Forschungen"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Høyrup",
+        "given": "Jens"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "The Finer Structure of the Old Babylonian Mathematical Corpus"
+    ],
+    "container-title": [
+      "Assyriologica et Semitica",
+      "117–177. AOAT 252"
+    ],
+    "editor": [
+      {
+        "family": "Marzahn",
+        "given": "J."
+      },
+      {
+        "family": "Neumann",
+        "given": "H."
+      }
+    ],
+    "location": [
+      "Kevelaer / Neukirchen-Vluyn"
+    ],
+    "publisher": [
+      "Butzon & Bercker / Neukirchener Verlag"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Høyrup",
+        "given": "Jens Forthcoming"
+      }
+    ],
+    "title": [
+      "Lengths, Widths, Surfaces: A Portrait of Old Babylonian Algebra and Its Kin"
+    ],
+    "note": [
+      "Unpublished manuscript."
+    ],
+    "type": "manuscript"
+  },
+  {
+    "author": [
+      {
+        "family": "Kilmer",
+        "given": "Anne D."
+      }
+    ],
+    "date": [
+      "1960"
+    ],
+    "title": [
+      "Two New Lists of Key Numbers for Mathematical Operations"
+    ],
+    "volume": [
+      "29"
+    ],
+    "pages": [
+      "273–308"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Orientalia"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kilmer",
+        "given": "Anne D."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "title": [
+      "Leier"
+    ],
+    "container-title": [
+      "Reallexikon der Assyriologie und Vorderasiatischen Archäologie"
+    ],
+    "volume": [
+      "6"
+    ],
+    "editor": [
+      {
+        "family": "Edzard",
+        "given": "D.O."
+      }
+    ],
+    "pages": [
+      "571–576"
+    ],
+    "location": [
+      "Berlin/New York"
+    ],
+    "publisher": [
+      "de Gruyter"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuklick",
+        "given": "Bruce"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Puritans in Babylon: The Ancient Near East and American Intellectual Life, 1880–1930"
+    ],
+    "location": [
+      "Princeton"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Liverani",
+        "given": "Mario"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "The Shape of Neo-Sumerian Fields"
+    ],
+    "volume": [
+      "5"
+    ],
+    "pages": [
+      "147–186"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin of Sumerian Agriculture"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "McCown",
+        "given": "Donald E."
+      },
+      {
+        "family": "Haines",
+        "given": "Richard C."
+      },
+      {
+        "family": "Hansen",
+        "given": "Donald P."
+      }
+    ],
+    "date": [
+      "1967"
+    ],
+    "title": [
+      "Nippur I: Temple of Enlil, Scribal Quarter and Soundings"
+    ],
+    "volume": [
+      "78"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Oriental Institute Publications"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Muroi",
+        "given": "Kazuo"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Extraction of Cube Roots in Babylonian Mathematics"
+    ],
+    "volume": [
+      "31"
+    ],
+    "pages": [
+      "181–188"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Centaurus"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Myer",
+        "given": "Charles F."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Joseph Andrew Meyer, Jr.: Architect at Niffer"
+    ],
+    "container-title": [
+      "Nippur at the Centennial"
+    ],
+    "editor": [
+      {
+        "family": "Ellis",
+        "given": "M.",
+        "particle": "deJong"
+      }
+    ],
+    "pages": [
+      "137–150"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University Museum"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Neugebauer",
+        "given": "Otto"
+      }
+    ],
+    "date": [
+      "1935"
+    ],
+    "title": [
+      "Mathematische Keilschrift-Texte I–III"
+    ],
+    "volume": [
+      "A3"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Quellen und Studien"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Neugebauer",
+        "given": "Otto"
+      },
+      {
+        "family": "Sachs",
+        "given": "Abraham J."
+      }
+    ],
+    "date": [
+      "1945"
+    ],
+    "title": [
+      "Mathematical Cuneiform Texts"
+    ],
+    "volume": [
+      "29"
+    ],
+    "location": [
+      "New Haven"
+    ],
+    "publisher": [
+      "American Oriental Society"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "American Oriental Series"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Neugebauer",
+        "given": "Otto"
+      },
+      {
+        "family": "Sachs",
+        "given": "Abraham J."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "title": [
+      "Mathematical and Metrological Texts"
+    ],
+    "volume": [
+      "36"
+    ],
+    "pages": [
+      "243–251"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nissen",
+        "given": "Hans J."
+      },
+      {
+        "family": "Damerow",
+        "given": "Peter"
+      },
+      {
+        "family": "Englund",
+        "given": "Robert K."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Archaic Bookkeeping"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Peters",
+        "given": "John P."
+      }
+    ],
+    "date": [
+      "1897"
+    ],
+    "title": [
+      "Nippur, or Explorations and Adventures on the Euphrates"
+    ],
+    "location": [
+      "New York/London"
+    ],
+    "publisher": [
+      "G. P. Putnam’s Sons"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Peters",
+        "given": "John P."
+      }
+    ],
+    "date": [
+      "1905"
+    ],
+    "title": [
+      "The Nippur Library"
+    ],
+    "volume": [
+      "26"
+    ],
+    "pages": [
+      "145–164"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of the American Oriental Society"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Powell",
+        "given": "Marvin A."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Maße und Gewichte"
+    ],
+    "container-title": [
+      "Reallexikon der Assyriologie"
+    ],
+    "volume": [
+      "7"
+    ],
+    "editor": [
+      {
+        "family": "Edzard",
+        "given": "D.O."
+      }
+    ],
+    "pages": [
+      "457–530"
+    ],
+    "location": [
+      "Berlin/New York"
+    ],
+    "publisher": [
+      "de Gruyter"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Counting in Cuneiform"
+    ],
+    "volume": [
+      "28"
+    ],
+    "pages": [
+      "1–8"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mathematics in School"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Mesopotamian Mathematics, 2100–1600 BC. Oxford Editions of Cuneiform Texts 14"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Clarendon Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rochberg-Halton",
+        "given": "Francesca"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Stellar Distances in Early Babylonian Astronomy"
+    ],
+    "volume": [
+      "42"
+    ],
+    "pages": [
+      "209–217"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Near Eastern Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sachs",
+        "given": "Abraham J."
+      }
+    ],
+    "date": [
+      "1947"
+    ],
+    "title": [
+      "Babylonian Mathematical Texts I"
+    ],
+    "volume": [
+      "1"
+    ],
+    "pages": [
+      "219–240"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Steele",
+        "given": "Francis R."
+      }
+    ],
+    "date": [
+      "1951"
+    ],
+    "title": [
+      "Writing and History: The New Tablets from Nippur"
+    ],
+    "volume": [
+      "16"
+    ],
+    "pages": [
+      "21–27"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "University Museum Bulletin"
+    ],
+    "issue": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stone",
+        "given": "Elizabeth C."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Nippur Neighborhoods"
+    ],
+    "genre": [
+      "SAOC 44."
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "Oriental Institute"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Vanstiphout",
+        "given": "H.L.J."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "School Dialogues"
+    ],
+    "container-title": [
+      "The Context of Scripture I"
+    ],
+    "editor": [
+      {
+        "family": "Hallo",
+        "given": "W.W."
+      }
+    ],
+    "pages": [
+      "588–593"
+    ],
+    "location": [
+      "Leiden"
+    ],
+    "publisher": [
+      "Brill"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Elementary Education in Nippur"
+    ],
+    "genre": [
+      "PhD diss.,"
+    ],
+    "publisher": [
+      "University of Groningen"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Westenholz",
+        "given": "Aage"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "The Early Excavators of Nippur"
+    ],
+    "container-title": [
+      "Nippur at the Centennial"
+    ],
+    "editor": [
+      {
+        "family": "Ellis",
+        "given": "M.",
+        "particle": "deJong"
+      }
+    ],
+    "pages": [
+      "291–296"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University Museum"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Zettler",
+        "given": "Richard L."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Excavations at Nippur"
+    ],
+    "container-title": [
+      "Nippur at the Centennial"
+    ],
+    "editor": [
+      {
+        "family": "Ellis",
+        "given": "M.",
+        "particle": "deJong"
+      }
+    ],
+    "pages": [
+      "325–335"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University Museum"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Zettler",
+        "given": "Richard L."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Nippur"
+    ],
+    "container-title": [
+      "The Oxford Encyclopedia of Archaeology in the Near East"
+    ],
+    "volume": [
+      "4"
+    ],
+    "editor": [
+      {
+        "family": "Meyers",
+        "given": "E.M."
+      }
+    ],
+    "pages": [
+      "148–152"
+    ],
+    "location": [
+      "New York/Oxford"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "type": "chapter"
+  }
+]

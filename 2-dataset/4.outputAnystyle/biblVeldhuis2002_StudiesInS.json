@@ -1,0 +1,995 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alster",
+        "given": "Bendt"
+      },
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Proverbs of Ancient Sumer: The World’s Earliest Proverb Collections"
+    ],
+    "location": [
+      "Bethesda, MD"
+    ],
+    "publisher": [
+      "CDL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Archi",
+        "given": "Alfonso"
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "title": [
+      "From Enki’s Headaches to Phonology"
+    ],
+    "volume": [
+      "32"
+    ],
+    "pages": [
+      "57–61"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Near Eastern Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Archi",
+        "given": "Alfonso"
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "The ‘Sign-list’ from Ebla"
+    ],
+    "volume": [
+      "1"
+    ],
+    "pages": [
+      "91–113"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Eblaitica"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bauer",
+        "given": "Josef"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "The Farmer’s Instructions: A Sumerian Agricultural Manual"
+    ],
+    "volume": [
+      "5"
+    ],
+    "location": [
+      "Sabadell (Barcelona"
+    ],
+    "publisher": [
+      "AUSA"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Aula Orientalis Supplementa"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bauer",
+        "given": "Josef"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Der vorsargonische Abschnitt der mesopotamischen Geschichte"
+    ],
+    "container-title": [
+      "Mesopotamien. Späturuk-Zeit und Frühdynastische Zeit"
+    ],
+    "editor": [
+      {
+        "family": "Attinger",
+        "given": "Peter"
+      },
+      {
+        "family": "Wäfler",
+        "given": "Markus"
+      }
+    ],
+    "pages": [
+      "431–585"
+    ],
+    "genre": [
+      "OBO 160/1."
+    ],
+    "location": [
+      "Fribourg"
+    ],
+    "publisher": [
+      "Universitätsverlag"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Bauer",
+        "given": "Josef"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "The Forerunners of Maru and Hamtu in Old Babylonian"
+    ],
+    "container-title": [
+      "Riches Hidden in Secret Places: Ancient Near Eastern Studies in Memory of Thorkild Jacobsen"
+    ],
+    "editor": [
+      {
+        "family": "Abusch",
+        "given": "Tzvi"
+      }
+    ],
+    "pages": [
+      "63–71"
+    ],
+    "location": [
+      "Winona Lake, IN"
+    ],
+    "publisher": [
+      "Eisenbrauns"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1961"
+    ],
+    "title": [
+      "The Home of the Fish: A New Sumerian Literary Composition"
+    ],
+    "volume": [
+      "23"
+    ],
+    "pages": [
+      "154–175"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "Lexicography"
+    ],
+    "container-title": [
+      "Sumerological Studies in Honor of Thorkild Jacobsen",
+      "Assyriological Studies 20"
+    ],
+    "editor": [
+      {
+        "family": "Lieberman",
+        "given": "S.J."
+      }
+    ],
+    "pages": [
+      "123–157"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "Mark E."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "title": [
+      "Literary Texts from the Andrews University Archaeological Museum"
+    ],
+    "volume": [
+      "70"
+    ],
+    "pages": [
+      "129–144"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revue d’Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "Mark E."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "The Canonical Lamentations of Ancient Mesopotamia"
+    ],
+    "location": [
+      "Potomac, MD"
+    ],
+    "publisher": [
+      "CDL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooper",
+        "given": "Jerrold S."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "The Curse of Agade"
+    ],
+    "location": [
+      "Baltimore"
+    ],
+    "publisher": [
+      "Johns Hopkins University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maaijer",
+        "given": "R.",
+        "particle": "De"
+      }
+    ],
+    "date": [
+      "1999",
+      "1999/92"
+    ],
+    "title": [
+      "IB.TUR = Tummal"
+    ],
+    "publisher": [
+      "NABU"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Englund",
+        "given": "Robert K."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "There’s a Rat in My Soup!"
+    ],
+    "volume": [
+      "22"
+    ],
+    "pages": [
+      "37–55"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Archiv für Orientforschung"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Farber",
+        "given": "Walter"
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "title": [
+      "Beschwörungsrituale an Ištar und Dumuzi"
+    ],
+    "location": [
+      "Wiesbaden"
+    ],
+    "publisher": [
+      "Steiner"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Finkel",
+        "given": "Irving L."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "A Study in Scarlet: Incantations against Samana"
+    ],
+    "container-title": [
+      "Festschrift für Rykle Borger zu seinem 65. Geburtstag am 24. Mai 1994",
+      "Cuneiform Monographs"
+    ],
+    "editor": [
+      {
+        "family": "Maul",
+        "given": "Stefan M."
+      }
+    ],
+    "pages": [
+      "71–106"
+    ],
+    "volume": [
+      "10"
+    ],
+    "location": [
+      "Groningen"
+    ],
+    "publisher": [
+      "Styx"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Geller",
+        "given": "Mark J."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Forerunners to Udug-Hul: Sumerian Exorcistic Incantations"
+    ],
+    "volume": [
+      "12"
+    ],
+    "location": [
+      "Stuttgart"
+    ],
+    "publisher": [
+      "Steiner"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "FAOS"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "George",
+        "given": "Andrew R."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "The Dogs of Ninkilim: Magic against Field Pests in Ancient Mesopotamia"
+    ],
+    "container-title": [
+      "Landwirtschaft im alten Orient"
+    ],
+    "editor": [
+      {
+        "family": "Klengel",
+        "given": "Horst"
+      },
+      {
+        "family": "Renger",
+        "given": "Johannes"
+      }
+    ],
+    "pages": [
+      "291–299"
+    ],
+    "genre": [
+      "BBVO 18."
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Dietrich Reimer"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hallo",
+        "given": "William W."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "title": [
+      "The Cultic Setting of Sumerian Poetry"
+    ],
+    "container-title": [
+      "Actes de la XVIIe Rencontre Assyriologique Internationale"
+    ],
+    "editor": [
+      {
+        "family": "Finet",
+        "given": "André"
+      }
+    ],
+    "pages": [
+      "116–134"
+    ],
+    "location": [
+      "Brussels"
+    ],
+    "note": [
+      "/ Ham-sur-Heure: Comité belge de recherches en Mésopotamie."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Heimpel",
+        "given": "Wolfgang"
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "title": [
+      "Tierbilder in der sumerischen Literatur"
+    ],
+    "volume": [
+      "2"
+    ],
+    "location": [
+      "Rome"
+    ],
+    "publisher": [
+      "Pontificium Institutum Biblicum"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Studia Pohl"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobsen",
+        "given": "Thorkild"
+      },
+      {
+        "family": "Alster",
+        "given": "Bendt"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Ningiszida’s Boat-Ride to Hades"
+    ],
+    "container-title": [
+      "Wisdom, Gods and Literature: Studies in Assyriology in Honour of W. G. Lambert"
+    ],
+    "editor": [
+      {
+        "family": "George",
+        "given": "Andrew R."
+      },
+      {
+        "family": "Finkel",
+        "given": "Irving L."
+      }
+    ],
+    "pages": [
+      "315–344"
+    ],
+    "location": [
+      "Winona Lake, IN"
+    ],
+    "publisher": [
+      "Eisenbrauns"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Krebernik",
+        "given": "Manfred"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Zu Syllabar und Orthographie der lexikalischen Texte aus Ebla. Teil 2 (Glossar"
+    ],
+    "volume": [
+      "73"
+    ],
+    "pages": [
+      "1–47"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Krebernik",
+        "given": "Manfred"
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "title": [
+      "Die Beschwörungen aus Fara und Ebla: Untersuchungen zur ältesten keilschriftlichen Beschwörungsliteratur"
+    ],
+    "volume": [
+      "2"
+    ],
+    "location": [
+      "Hildesheim"
+    ],
+    "publisher": [
+      "Olms"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Texte und Studien zur Orientalistik"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Krecher",
+        "given": "Joachim"
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "title": [
+      "Sumerische Kultlyrik"
+    ],
+    "location": [
+      "Wiesbaden"
+    ],
+    "publisher": [
+      "Harrassowitz"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Krecher",
+        "given": "Joachim"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Eine unorthographische sumerische Wortliste aus Ebla"
+    ],
+    "volume": [
+      "22"
+    ],
+    "pages": [
+      "179–189"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Orientalia Nova Series"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Krispijn",
+        "given": "Theo J.H."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Die Identifikation zweier lexikalischen Texte aus Ebla MEE III Nr. 62 und 63"
+    ],
+    "volume": [
+      "27"
+    ],
+    "pages": [
+      "47–59"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "JEOL"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Landsberger",
+        "given": "Benno"
+      }
+    ],
+    "date": [
+      "1934"
+    ],
+    "title": [
+      "Die Fauna des alten Mesopotamien nach der 14. Tafel der Serie Har-ra = hubullu"
+    ],
+    "volume": [
+      "42"
+    ],
+    "location": [
+      "Leipzig"
+    ],
+    "publisher": [
+      "Hirzel"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "ASAW"
+    ],
+    "issue": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Litke",
+        "given": "Richard L."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "A Reconstruction of the Assyro-Babylonian God-Lists AN = dA-nu-um and AN: Anum"
+    ],
+    "volume": [
+      "3"
+    ],
+    "location": [
+      "New Haven"
+    ],
+    "publisher": [
+      "Yale Babylonian Collection"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Texts from the Babylonian Collection"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Owen",
+        "given": "David I."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Of Birds, Eggs and Turtles"
+    ],
+    "volume": [
+      "71"
+    ],
+    "pages": [
+      "29–47"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rubio",
+        "given": "Gonzalo Forthcoming"
+      }
+    ],
+    "title": [
+      "Orthography and Grammar of the Ur III Sumerian Literary Texts"
+    ],
+    "volume": [
+      "22"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Acta Sumerologica"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Salonen",
+        "given": "Armas"
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "title": [
+      "Vögel und Vogelfang im alten Mesopotamien. AASF B 180"
+    ],
+    "location": [
+      "Helsinki"
+    ],
+    "publisher": [
+      "Academia Scientiarum Fennica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schretter",
+        "given": "Manfred K."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Emesal-Studien: Sprach- und literaturgeschichtliche Untersuchungen zur sogenannten Frauensprache des Sumerischen. Innsbrucker Beiträge zur Kulturwissenschaft, Sonderheft 69"
+    ],
+    "location": [
+      "Innsbruck"
+    ],
+    "publisher": [
+      "Institut für Sprachwissenschaft der Universität Innsbruck"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sjӧberg",
+        "given": "Åke W."
+      }
+    ],
+    "date": [
+      "1960"
+    ],
+    "title": [
+      "Der Mondgott Nanna-Suen in der sumerischen Überlieferung. Teil 1: Texte"
+    ],
+    "location": [
+      "Stockholm"
+    ],
+    "publisher": [
+      "Almqvist & Wiksell"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sjӧberg",
+        "given": "Åke W."
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "title": [
+      "The Collection of the Sumerian Temple Hymns"
+    ],
+    "volume": [
+      "3"
+    ],
+    "location": [
+      "Locust Valley, NY"
+    ],
+    "publisher": [
+      "Augustin"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "TCS"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sjӧberg",
+        "given": "Åke W."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "title": [
+      "‘He Is a Good Seed of a Dog’ and ‘Engardu, the Fool.’"
+    ],
+    "volume": [
+      "24"
+    ],
+    "pages": [
+      "107–119"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Steinkeller",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "title": [
+      "The Sumerian Verb lugx (LUL"
+    ],
+    "volume": [
+      "1"
+    ],
+    "pages": [
+      "5–17"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Studi Epigrafici e Linguistici"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Steinkeller",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "New Light on the Hydrology and Topography of Southern Babylonia in the Third Millennium"
+    ],
+    "volume": [
+      "91"
+    ],
+    "pages": [
+      "22–84"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek C."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "A Nippur Emesal Vocabulary"
+    ],
+    "volume": [
+      "18"
+    ],
+    "pages": [
+      "229–234"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Acta Sumerologica"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wilcke",
+        "given": "Claus"
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "title": [
+      "Das Lugalbandaepos"
+    ],
+    "location": [
+      "Wiesbaden"
+    ],
+    "publisher": [
+      "Harrassowitz"
+    ],
+    "type": "book"
+  }
+]

@@ -1,0 +1,605 @@
+# METADATA
+author: Matthews R.J.
+source_id:Matthews1991_FragmentsO
+title: Fragments Of Officialdom From Fara
+Year: 1991
+Source_ID:  Matthews1991_FragmentsO
+Source_Type: Article in Book:
+Source_Role,Step_distance:2 ,3,4 
+Pages: 1-15
+Web:
+Published: British Institute for the Study of Iraq   
+
+# TEXT
+
+Fragments of Officialdom from Fara
+Author(s): R. J. Matthews
+Source: Iraq, 1991, Vol. 53 (1991), pp. 1-15
+Published by: British Institute for the Study of Iraq
+Stable URL: https://www.jstor.org/stable/4200331
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+British Institute for the Study of Iraq is collaborating with JSTOR to digitize, preserve and
+extend access to Iraq
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+FRAGMENTS OF OFFICIALDOM FROM FARA
+By R. J. MATTHEWS
+Introduction
+The site of Fara, ancient Shuruppak, lies approximately halfway between Nippur and
+Uruk at the very core of the Sumerian urban heartland. The city was renowned as the home
+of Utnapishtim who survived the flood and went to live in Dilmun where he was visited by
+Gilgamesh. As was the case with so many Mesopotamian mounds excavated early this
+century, Fara was investigated in a less than ideal manner. Almost thirty years passed
+between the first season of excavations by the Deutsche Orient-Gesellschaft in 1902-3 and its
+publication (Heinrich 1931), while a second season by the University of Pennsylvania in 1931
+received only brief coverage in print (Schmidt 1931). A great many of these inadequacies
+have been rectified with the recent publication of H. Martin's book on Fara (Martin 1988),
+the culmination of her earlier work on the site (Martin 1975; 1983), in which she has
+presented and discussed a considerable amount of new information concerning these early
+excavations, particularly with regard to the provenances of artifacts. Martin has also
+established the chronology of occupation at the site, with a foundation in the Jemdet Nasr
+period, extensive Early Dynastic I-IIIa occupation, a fairly rapid decline thereafter and a
+virtual abandonment at the end of the Ur III period (Martin 1983). In the present study of
+Early Dynastic administration at Fara the extent to which I have made use of Dr. Martin's
+work will be readily apparent. Additionally, this study is founded on a spell of research
+carried out by the writer at the Vorderasiatische Museum of the Staatliche Museen zu Berlin
+in July 1987 during which 1,015 Fara sealings were examined.
+Method of study
+The purpose of this study is firstly to provide a detailed analysis of functional and
+contextual aspects of clay sealings from Fara, and secondly to discuss the results thereby
+obtained within a wider framework of society and administration at Fara and contemporary
+Sumerian sites. Given the difficulties associated with identification of the ED II period in
+Mesopotamia, I have chosen to treat the ED period, as attested at Fara, as consisting of two
+phases, I and Ilia, without discussing the question at any length here.
+The methodology of sealing analysis involves firstly the examination of reverse faces of
+clay sealings in order to identify the items, be it store-room doors or containers of various
+kinds, originally sealed by the lumps of clay which bear seal impressions on their obverse
+faces. Pioneering work in this field was done by E. Fiandra (1975) and has been expanded
+upon by several subsequent researchers (Charv?t 1988; Zettler 1987). Secondly, the
+methodology involves searches for correlations between iconographie and functional aspects
+of sealings (as discussed in full in Matthews 1989).
+Clay sealings from Fara
+Along with the 840 Early Dynastic tablets from the site, the corpus of Fara clay sealings
+stands out as one of the most important, and neglected, sources of information on Sumerian
+administrative practices. Martin has amply covered iconographie aspects of the Fara
+sealings (Martin 1988, 64?81), while recognising the importance of studying sealing reverse
+sides with a view to establishing their original functions. In the present study, emphasis is laid
+upon the significance of a functional and contextual analysis of sealing reverses and, at the
+same time, upon the value of correlating functional and iconographie information in order
+to reconstruct Early Dynastic administrative practices.
+The vast majority of Fara sealings comes from the 1902-3 season, principally from two
+provenances: a rubbish dump around trenches Id/le at the north-eastern edge of the mound,
+of at least ED I date, and a large house of ED Illa date in trenches XIIIf-i in the south-
+eastern corner of the mound.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+I R. J. MATTHEWS
+Early Dynastic I evidence
+Id/le dump : functional analysis
+Large collections of clay sealings from ancient dumps are well known in Mesopotamia, for
+example from the Seal Impression Strata at Ur (Legrain 1936), the Ash Tip at Abu Salabikh
+(Matthews nd) and the 4C88 dump at Jemdet Nasr (Matthews 1990). At least 838 sealings
+were excavated from the Id/le dump (Martin 1988, 66) of which 404 can now be identified.
+Their seal impressions are characterised by Martin as spanning Jemdet Nasr to ED II in date
+(Martin 1988, 67). For the purposes of this paper we will consider the dump to be essentially
+of ED I date.
+O O
+DO?QOC
+Fig. 1. Operation of door peg sealing.
+Of the 404 sealings 83 are of indeterminable function due to their fragmentary nature. Of
+the remaining 321, 283, or 88-17%, had originally been applied to door pegs, thus securing
+store-room doors in a manner well understood since Fiandra's work (1975) and illustrated in
+Fig. 1. A close examination of the door peg sealings reveals two distinct groups of door peg
+types. Ninety-three door peg sealings have come from pegs with a distinctive profile,
+averaging 3-49 cm in diameter at the middle, flaring at both head and base, and with a very
+smooth, featureless texture suggestive of stone or polished wood (Fig. 2: 1). Many of these
+sealings may have been applied, sequentially, to the same door peg. A smaller group of 21
+sealings have straighter, narrower peg impressions averaging 2*83 cm in diameter, many
+with markings of vegetable matter such as palm frond mid-ribs or reeds (Fig. 2: 2).
+Only 28, or 8-72%, of the 321 functionally identifiable sealings have come from
+containers. Pot and leather bag sealings (Fig. 3: 1-2) are best represented, with eight and
+seven sealings respectively. Ten of the 321 sealings are flat tongues of clay with single cylinder
+rollings, probably test or sample rollings of seals.
+The functional distribution of the Id/le dump sealings, then, indicates a high degree of
+door sealing, and a low degree of container sealing, in the building or buildings from which
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+FRAGMENTS OF OFFICIALDOM FROM FARA
+? S
+?
+C/2
+b?
+rt
+?
+rt
+O
+Oh
+3
+XJ
+b?
+b?
+Oh
+5-1
+O
+O
+Oh
+bp
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+4 R. J. MATTHEWS
+the dump took its fill. Closely similar functional distributions of large sealing groups are
+attested in the material from the Seal Impression Strata at Ur (Matthews 1989) and the Ash
+Tip at Abu Salabikh (Matthews nd), where door sealing predominates to a similar extent. In
+all three cases we can envisage the sealings arriving in the dump by means of periodic
+clearings out of rubbish from a nearby building. In the cases of the Seal Impression Strata at
+Ur and the Ash Tip at Abu Salabikh other artifacts associated with the sealings encourage
+the view that the rubbish originated from buildings of a supra-domestic function, probably
+temples. Beyond the presence of 14 unidentifiable tablets, however, almost nothing is known
+of artifacts associated with the Id/le dump sealings (Martin 1988, 82), which renders
+precarious any identification of the original architectural context of the dump's contents as
+temple, palace or private household.
+Id/le dump: obverse/reverse correlations
+The 404 sealings known to have come from the dump bear 70 different seal impressions,
+all from cylinder seals, with no stamp impressions in evidence. Indeed, no stamp seal
+impressions at all are known from Fara despite the finding of 19 stamp seals in both the
+German and American excavations (Martin 1988, 69). This presence of stamp seals coupled
+with a complete absence of their impressions is only one of several unexplained aspects of
+early sealing practices in general. Stamp seals and their impressions are, however, found at
+EDI Ur (Legrain 1936) and ED III Abu Salabikh (Postgate 1980, 92).
+Of the 70 different seal impressions featured on the 404 Id/le dump sealings, 27 are found
+on more than one sealing. Several of these groups of sealings with duplicated seal impressions
+are now examined as an opportunity to test the proposition that particular seals were
+consistently used for specific purposes.
+Id/le duplicate group 1
+Eighty-seven sealings share the seal impression illustrated in Fig. 4: 1, classified by Martin
+as "elegant style" (Martin 1988, 73). Fifteen are functionally unidentifiable. The remaining
+72 are, without exception, from door pegs with no container sealings attested. Strikingly
+demonstrated here is the absolutely exclusive use on door pegs of the cylinder seal depicted
+in Fig. 4: 1. It is safe to affirm that the seal in question was very much native to Fara, as the
+Fig. 4. Id/le dump seal impressions. Martin 1988 nos. 256, 250, 554, 24. Scale 1:1.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+FRAGMENTS OF OFFICIALDOM FROM FARA 0
+door pegs must have been, and that there is every justification in typifying its iconography as
+the "Fara style" (Martin 1988, 72). Furthermore, the owner of this seal clearly had an
+important role to play concerning door opening and closing. Such an official had control
+over a storage facility of some sort and was not involved in the sealing of portable goods in
+containers. It is likely that the goods stored in the rooms of the building from which the Id/
+le dump originated were unsealed goods, possibly quantities of some bulk commodity, such
+as grain.
+It is worth looking in more detail at these door peg sealings in duplicate group 1, in terms
+of their peg and string impressions. The peg impressions have an average central diameter of
+3-46 cm. Almost all the impressions show a type 1 peg with flared top and base, with a very
+smooth texture suggestive of stone or polished wood. It is probable that many, or all, of
+these sealings had been applied to the same peg over a period of time.
+The evidence of the string impressions reinforces the picture of uniformity of function
+within the group. In all detectable cases, the string fibre is of hair, probably goat.
+Furthermore, in all 44 instances where the string spin direction can be determined, the string
+is Z-spun with no occurrences of S-spun string. Other string dimensions show similar
+regularity.
+In sum, the 87 sealings of Id/le dump duplicate group 1 form a very coherent,
+homogeneous assemblage, with peg and string impressions supporting the idea that the seal
+impressed on all these sealings was employed by an official exclusively for door peg sealing.
+It is further suggested that many of these sealings had been applied to the same peg,
+reflecting multiple openings and closings of a single storage room.
+Id/le duplicate group 2
+There are 60 sealings which share the seal impression illustrated in Fig. 4: 2, again of the
+"elegant style". Of the 49 functionally identifiable sealings 40, or 81-63%, are from door
+pegs, eight, or 16-33%, from containers, and one is a test rolling strip. Thus, although door
+peg sealing predominates in this group, it is not the sole function of the seal in question. A
+noteworthy proportion consists of container sealings, principally from leather bags.
+The door pegs attested by the reverse impressions are, as with duplicate group 1,
+extremely uniform, showing a type 1 peg with an average central diameter of 3-52 cm, with
+flared top and base, and smooth texture. Again the string impressions reinforce the
+uniformity, with 20 instances of Z-spun string and only one of S-spun. Given the similarities
+between the peg and string impressions on sealings from duplicate groups 1 and 2, it may be
+the case that sealings from both groups were used to seal the same store-room, indicating
+that more than one official had control over a particular room, or that one official possessed
+more than one seal.
+Id/le duplicate group 3
+An interesting group is formed by the nine sealings which bear impressions of the seal
+shown in Fig. 4: 3, a boating and banqueting scene. Five of the group come from door pegs,
+with impressions of flared peg profiles and Z-spun string. There are three container sealings,
+one each from a split-reed matting bundle, a wooden box and a leather bag. The official in
+possession of this seal thus had some involvement in the movement of sealed goods as well as
+in the control of access to storage space.
+Id/le duplicate group 4
+There are five sealings which have the impression shown in Fig. 4: 4, an animal and tree
+design perhaps of Jemdet Nasr date (Martin 1988, 69), therefore predating the many
+"elegant style" sealings discussed above. Four of this group are from door pegs, while one is
+functionally unidentifiable. It is noteworthy that the door pegs attested on the peg sealings
+differ from the flared, smooth pegs of the "elegant style" sealings. Here the peg impressions
+have straight profiles with an average diameter of 4-0 cm. The texture is faintly bumpy, but
+the peg material is hard to identify. They may be wooden or baked clay pegs.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+R. J. MATTHEWS
+Corpus Doors Containers
+404 sealings 283 sealings 28 sealings
+100
+75-
+Per
+50-
+cent
+25-
+Impression category:
+Hero & Deity or Mise,
+JN design animal banquet animal Pictographic
+Type:
+Fig. 5. Id/le dump function and iconography.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+FRAGMENTS OF OFFICIALDOM FROM FARA /
+IdIle dump: functional types and iconography
+The above study of duplicate groups has revealed considerable consistency of sealing
+function for specific seals. Another approach is to correlate a functional typology against an
+iconographie typology, as depicted in Fig. 5. Here we see that on door sealings, seals of
+iconographie type 2, with hero and animal scenes, predominate over all other types of seal
+impression. On container sealings type 2 seals are still in the majority, but there is a far more
+even distribution of iconographie types, with a substantially greater representation of design
+seals and deity/banquet scene seals. It thus transpires that door sealing is closely correlated
+with specific iconography, while container sealing involves a greater multiplicity of
+iconography, a distinction which is likely to reflect, on the one hand, the manifold nature of
+the sources of container sealings prior to their arrival at the Id/le dump and, on the other
+hand, the site specific nature of the door sealings from that same dump.
+Early Dynastic I society and administration
+In reviewing the question of the nature of social structure and administration at Fara we
+can begin by considering the sealing evidence, as presented above, in the light of other types
+of material evidence, and their associations, from the site. For the ED I period, during which
+the Id/le dump accumulated, little supportive evidence can be had from Fara itself. A
+handful of archaic, i.e. pre-ED III, tablets were found in the course of both German and
+American excavations, including at least 14 from the Id/le dump, but they are too poorly
+provenanced and published to be of any assistance (Martin 1988, 82).
+The IIIa-c building, of sprawling plan (Martin 1988, Fig. 28), contained artifacts
+exclusively of Jemdet Nasr to ED I date, including imitation shell core beads, but there is
+uncertainty about the dating of the architecture. In any case, no tablets and very few sealings
+were found in this structure, which has been interpreted as a probable temple (Martin 1988,
+127). Despite the paucity of excavated Jemdet Nasr and EDI structures at Fara, surface
+finds indicate that it was at this time that the city reached its greatest spread, attaining to at
+least 70 hectares (Martin 1983, 26). The large dump in Id/le, with its substantial collection
+of clay sealings, is likely to be evidence of extensive, perhaps public, administration of a now
+undefinable nature. We should note that no fewer than 70 different seals are impressed on the
+Id/le dump sealings, so that if these sealings originate from one building they are evidence of
+a very sizable corps of administrative officials functioning within that building, with most of
+them having control over access to storerooms.
+The picture of ED I society and administration is not greatly enhanced by recourse to
+other Sumerian sites. The only significant corpus of ED I tablets comes from the Seal
+Impression Strata at Ur, again an association of archaic tablets with large quantities of
+sealings in a dump which has been interpreted as originating from a temple (Legrain 1936).
+Analysis of the Ur texts, which relate to agricultural production, indicates that the
+administration and economy of ED I Ur were dominated by a single centralised institution
+with extensive redistributive powers (Charv?t 1979; Wright 1969). The fact that many of
+the Seal Impression Strata sealings associated with the tablets bear symbols representing the
+names of at least ten Sumerian cities reveals the participation of Ur in some wider
+relationship, whether defensive (Jacobsen 1957, 109), social (Charv?t 1979, 16) or economic
+(Wright 1969, 32). It is in any case remarkable that at this time the site of Ur covered
+only some 20 hectares (Wright 1969, 33)?contemporary Uruk, for example, reaching
+400 hectares (Adams and Nissen 1972)?and we may surmise that whatever the institution
+was which controlled ED I society and administration at Ur it was important enough of
+itself to propel the city into the top league of Early Dynastic Sumerian cities, and to lay the
+political foundations for the immense wealth and prestige of the city attested by the Royal
+Cemetery a few centuries later.
+Despite the undoubted importance of the ED I period in the history of early
+Mesopotamian urbanism, remains of this period have not been extensively excavated
+(although recently restarted excavations at al-Hiba promise to redress the balance). A small
+area of ED I architecture, the Early House Stratum, was uncovered in the Y sounding at
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+8 R. J. MATTHEWS
+Kish, and there are indications that the Kish chariot burials may also date to ED I (Algaze
+1983-4, 150). The Early House Stratum buildings appear largely domestic in function
+although some of the larger sets of rooms may belong to more communal structures. In a
+sounding at Eridu there are suggestions of an ED I palace underlying the ED III building
+(Safar et al. 1981, 304), while on the West Mound at Abu Salabikh four large enclosures
+provide evidence of an ED I city quarter perhaps consisting of substantial households
+(Postgate 1980, 99). ED I temples are known at Nippur (Wilson 1986) and at Khafaje and
+Tell Asmar in the Diyala region (Delougaz and Lloyd 1942). Away from the Sumerian
+heartland, ED I developments reflect the apparent tensions of the times, with the construc-
+tion of imposing circular structures, probably for defensive purposes, in the Hamrin region
+at Gubba (Fujii 1981), Razuk (Gibson 1981) and Madhhur (Roaf 1982) and, slightly later,
+in northern Mesopotamia too, at Tell al-Raqa'i (Curvers and Schwartz 1990).
+There remains, then, almost everything to learn about ED I society at Fara and beyond.
+For now we can say that a prominent feature of the ED I period in the Sumerian heartland,
+and probably beyond, was the importance of centralised institutions with extensive
+administrative functions such as are attested by the sealings, and few tablets, from the Id/le
+dump.
+0 5 10m
+Fig. 6. XIIIf-i house plan.
+Early Dynastic III evidence
+XHIf?i house: functional analysis
+Of the at least 243 sealings established by Martin (1988, 66) as coming from this house,
+whose plan is shown in Fig. 6, we can identify 125. From Heinrich's plan (Heinrich 1931,
+PI. 12) it appears that most of these sealings were found in the central courtyard of the house,
+which is dated by its tablets to ED Ilia. Martin has pointed out (1988, 94) that were it not
+for the shared provenance of these sealings one would not assume them, on stylistic grounds,
+to be contemporary, as a great range of glyptic styles is present. Given the low height to
+which walls of the XIIIf-i house survived (well illustrated in Andrae 1903, Fig. 6), we may
+justly wonder whether some of the sealings in fact were excavated from sub-floor layers
+predating the occupation of the house. For the present, however, we accept the assumption
+that these sealings do relate to the lifespan of the XIIIf-i house.
+Of the 70 functionally identifiable sealings 53, or 75-72%, are from door pegs, 14, or
+20-00%, from containers, and 3 are test rollings. This functional make-up reflects a more
+heterogeneous range of administrative activities than is attested by the Id/le dump sealing
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+FRAGMENTS OF OFFICIALDOM FROM FARA y
+evidence, and suggests that the residents of the XlIIf?i house had responsibility for the
+receipt and storage of sealed goods in sealed rooms.
+Both types of door peg are again attested, one with flared top and base, central diameter
+averaging 3-80 cm, and smooth texture (Fig. 7: 1), the other straight with grain marks from
+palm frond mid-ribs or large reeds averaging 2-55 cm in diameter. Amongst the container
+sealings it is notable that the only type found in significant numbers, ten in all, had sealed
+split-reed matting bundles, illustrated in Fig. 7: 2, which are likely to have contained bulky
+commodities such as textiles.
+XIIIf-i house: obverse/reverse correlations
+The 125 sealings known to have come from the XIIIf-i house bear 20 different seal
+impressions, all from cylinders, and all taken to be of ED Ilia date, therefore postdating the
+Id/le dump sealings examined above. There are seven duplicate groups amongst the 20 seal
+impressions, four of which are analysed below.
+XIIIf-i duplicate group 1
+Thirty-six sealings have the seal impression shown in Fig. 8: 1. Of the 20 sealings of
+identifiable function 17, or 85-00%, are from door pegs, and 3, or 15-00%, from containers.
+The high proportion of door sealings indicates that the seal, of ED Illa Anzud Sud style, is
+sealing reverse
+sealing
+reverse
+Fig. 7. XIIIf-i house door peg and reed mat sealing.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+10 R. J. MATTHEWS
+(' >?
+Fig. 8. XIIIf-i house seal impressions. Martin 1988 nos. 454, 539, 84, 441. Scale 1:1.
+very much local to Fara. Both types of door peg are attested, and several of the sealings have
+level bases with fine striations indicating adhesion to a flat wooden surface into which the
+peg had been affixed. In all cases the string is of a coarse hair carelessly, yet distinctively,
+twined. The three container sealings, one each from a split-reed matting bundle, a wooden
+box and a pot, reveal a limited amount of movement of sealed goods under the control of the
+official in possession of the seal shown in Fig. 8: 1, whose principal concern was the sealing of
+at least two doors in the XIIIf-i house.
+XIIIf-i duplicate group 2
+Forty-seven sealings have the seal impression shown in Fig. 8: 4, again of ED Illa Anzud
+Sud style (Martin 1988, 78). Of the 23 functionally identifiable sealings 17, or 73-91% are
+from door pegs and 6, or 26-09%, from containers. Only type 1 pegs are attested. All six
+container sealings come from split-reed matting bundles which may have held bulky items,
+such as textiles or hides, sealed and stored in a room itself sealed by the same official.
+XIIIf-i duplicate group 3
+There are four sealings with the seal impression shown in Fig. 8: 3, a geometric design. A
+wide functional range is reflected with two door peg sealings, one from split-reed matting
+and one test rolling. As with other duplicate groups from the XIIIf-i house, this group is
+evidence for an official having control over portable goods as well as over room access.
+XIIIf-i duplicate group 4
+A small group of five sealings share the seal impression shown in Fig. 8: 2, a distinctive
+banqueting scene in two registers. Of the five pieces two are from split-reed matting bundles,
+one from a basket (one of only two basket sealings in the entire Fara corpus) formed of palm
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+FRAGMENTS OF OFFICIALDOM FROM FARA 1 1
+leaflets, and two are probably from door pegs. The indications are that the holder of this seal
+was concerned more with portable goods than with store-rooms, a fact that may well be
+connected with the distinctive iconography of the seal. Rathje's hypothesis (1977) that Ur
+banqueting seals were used by a court elite may indicate that Fara banqueting scene sealings
+sealed prestigious commodities moving between a large household and some other
+institution.
+In sum, the XIIIf-i house duplicate groups show much less of a correlation between
+function and specific seal impressions than was demonstrated for the Id/le dump groups,
+with little exclusive use of specific seals for door peg sealing, suggesting multiplicity of
+bureaucratic function for the official or officials using the XIIIf-i house.
+XIIIf-i house: functional types and iconography
+By correlating an iconographie typology, with four types, against a functional typology
+(Fig. 9), it can be seen that there is no close relationship. Iconographie type 2, the Anzud
+Sud style, is consistently dominant across the functional range. Even the rare iconographie
+type 3, the elongated "master of animals" style, of which there are only three provenanced
+sealings, includes both a door and a container sealing. These results further enhance the
+picture of multiplicity of function for particular seal-bearing officials, almost certainly
+householders, in ED Illa Fara.
+Early Dynastic III society and administration
+By ED III times there is considerably more evidence, textual and archaeological, upon
+which to base theories concerning the nature of Sumerian society, although the principally
+administrative content of ED III texts means that we are still barely out of proto-history.
+Some of the most informative evidence comes from Fara itself, as we have intended to show
+with the detailed sealings analyses presented above. The significance of the 840 ED III
+tablets from Fara has long been recognised, but it is only with Martin's work on their
+provenances (Martin 1975) that their true worth has been realised. The distribution of the
+tablets across several locations is of interest in itself, but it is unfortunate that so few other
+artifacts can be securely provenanced. The more important tablet provenances include; the
+Tablet House in XVh, perhaps a specialised large institution dealing in up to 9,660 donkeys
+and 1,200 men; the XVa?d house with two courtyards and texts revealing ownership of 250
+acres of land; the IXa-c house which yielded exclusively lexical and literary texts; the
+XVIIc-d house, a large building with many small rooms, with tablets concerning up to
+6,580 workers including some from other cities, such as Uruk, Adab, Nippur, Lagash,
+Umma and Kish; and the XIIIf-i house, where tablets were found principally in an office
+suite of three rooms near the front door (Martin 1988, 93). The provenance distribution of
+the tablets across at least 25 locations has suggested the existence of separate economic units,
+or households, with a family nucleus controlling semi-free workers (Martin 1975, 178). A
+prosopographical study, however, has led to the view that, although deposited separately,
+the Fara tablets originated from one large organisation which controlled almost all the
+economy, perhaps allotting archive divisions on the basis of city quarters (Pomponio 1983).
+Another study, this time of the individual Anzud Sud, whose name features on both tablets
+and sealings from the XIIIf-i house, sees a dual role for Fara citizens, firstly within a family,
+household framework, and secondly within the wider Fara community (Charv?t 1986). The
+sealing evidence from the XIIIf-i house, discussed above, supports the view of Fara
+householders as executing administrative tasks within their own homes, sealing commodities
+within store-rooms. It cannot be excluded, however, that some or all of this activity may
+have been undertaken as part of the wider functioning of a larger institution. The fact that 20
+different seal impressions, presumably representing 20 officials, are attested on the XIIIf-i
+house sealings may indicate that use of the store-rooms was not restricted to inhabitants of
+the house. Tablets from the house, however, make no direct reference to an external
+institution, such as a temple (Edzard 1979).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+12 R. J. MATTHEWS
+Corpus Doors Containers
+125 sealings 53 sealings 14 sealings
+100
+75-
+Per
+50-
+cent
+25-
+Impression category:
+Master of
+Design Anzud Sud animals Banquet
+Type: 12 3 4
+Fig. 9. XIIIf-i house function and iconography.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+FRAGMENTS OF OFFICIALDOM FROM FARA 13
+Our lack of knowledge of associated artifacts from the XIIIf-i house renders difficult any
+attempt at understanding the social layout of the house, such as has been carried out on
+ED III architecture in the Diyala region (Henrickson 1981; and even where full provenance
+knowledge is possessed, the difficulties in reconstructing social order from household artifact
+distributions are well addressed by Roaf 1989). The movement of textiles attested in the
+Anzud Sud tablets (Charv?t 1986, 48) may, however, be associated with the significant
+quantity of reed mat bundle sealings from the XIIIf-i house, bundles ideally suited for
+wrapping textiles. The Anzud Sud tablets illustrate the wide-ranging economic activities of
+an apparently private individual at Fara (Charv?t 1986) and although doubts have been
+expressed as to the existence of private entrepreneurship in the ED III period (Nissen 1987,
+290), some ED III texts do seem to reflect economic activity of a distinctly private and
+speculative nature (Powell 1973, 103). The inscribing of personal names, such as Anzud Sud,
+on cylinder seals is likely to be an affirmation of the role of the individual within Fara society
+in ED Ilia. At the other extreme, the texts from the XVIIc-d house, naming workers from
+several Sumerian cities, indicate the integration of Fara within a Sumerian city grouping
+likely to be a functional sequel to the ED I, and earlier, league attested by seal impressions
+from Ur, Uruk and Jemdet Nasr.
+The Sumerian temple state theory has for some time now been viewed with extreme
+caution (Foster 1981). The basis for the theory, and its refutation, has been the huge corpus
+of largely unprovenanced ED III texts from Tello, part of the city-state of Lagash. Other
+evidence, from Ur, has been taken to indicate an increasing secularisation of power through
+the course of the ED period (Charv?t 1982), while Japanese scholars, to the contrary, have
+postulated a process of decreasing secularisation of power, at least at ED III Lagash, where
+texts are interpreted as showing a gradual loss of control by secular leaders over religious
+elements (Maekawa 1973-4; Yamamoto 1980; 1981). Another angle has been to emphasise
+the role of the household, in its various forms, in the everyday functioning of Mesopotamian
+society (Diakonoff 1963; Gelb 1965; 1979).
+If we look at Fara for architectural corollaries of these theories, we must bear in mind that
+much of the site remains unexcavated. Although the Tablet House, the XVIIc-d house and
+the IIIa-c building all have elements suggestive of a supra-domestic role, there are no really
+clear-cut candidates at Fara for either a temple or, more particularly, a palace such as those
+in evidence at Kish (Moorey 1964; 1978), Tell al-Wilayah (Madhlum 1960), Eridu (Safar et
+al. 1981), Mari (Margueron 1982), the Area C building at al-Hiba (Hansen 1973) and now
+probably on the South Mound at Abu Salabikh (Postgate 1990), all of ED III date. The
+Fara evidence, architectural and other, supports the view of discrete or semi-discrete
+households as being the fundamental unit of society and administration at ED III Fara,
+while larger-scale communal activities are attested by inter-city co-operation and by
+structures such as the immense silos, probably for grain storage, found at several points on
+the mound (Martin 1988, 42). The detailed sealing evidence presented above at least adds a
+new dimension to the vexing question of the nature of Sumerian society and administration.
+Acknowledgements
+To Dr. H. Martin for permission to include copies of seal impression illustrations from her 1988 book; to
+Dr. L. Jakob-Rost and Dr. E. Klengel-Brandt for permission to study Fara sealings in the Vorderasiatische
+Museum, Berlin; to Mr. J. N. Postgate for supervising my Ph.D. thesis of which this article is a much-altered part;
+and to St. John's College, Cambridge for financial assistance with a visit to Berlin in 1987.
+Bibliography
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Adams, R. McG. and Nissen, H. J., 1972. The Uruk countryside. The natural setting of urban societies. Chicago,
+University of Chicago Press.
+Algaze, G., 1983-4. Private houses and graves at Ingharra, a reconsideration. Mesopotamia 18-19, 135-93.
+Andrae, W., 1903. Ausgrabungen in Fara und Abu Hatab. Mitteilungen der Deutschen Orient-Gesellschaft 17, 4-35.
+Charv?t, P., 1979. Early Ur. Archiv Orient?ln? 47', 15-20.
+Charv?t, P., 1982. Early Ur?war chiefs and kings of Early Dynastic III. Altorientalische Forschungen 9, 43-59.
+Charv?t, P., 1986. The name Anzu-dS?d in the texts from Fara. In Hecker, K. and Sommerfeld, W. (eds.)
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+14 R. J. MATTHEWS
+Keilschriftliche Literaturen. (Ausgew?hlte Vortr?ge der XXXII. Rencontre Assyriologique Inter-
+nationale, M?nster). Berlin, Dietrich Reimer, 45-53.
+Charv?t, P., 1988. Archaeology and social history: the Susa sealings, ca. 4000-2340 b.c. Pal?orient 14, 57-63.
+Curvers, H. H. and Schwartz, G. M., 1990. Excavations at Tell al-Riq?'i: a small rural site of early urban
+northern Mesopotamia. American Journal of Archaeology 94, 3-23.
+Delougaz, P. and Lloyd, S., 1942. Pre-Sargonid temples in the Diyala region. (Oriental Institute Publications 58).
+Chicago, University of Chicago Press.
+Diakonoff, I. M., 1963. The commune in the ancient Near East as treated in the works of Soviet researchers.
+Soviet Anthropology and Archeology 2, 32-46.
+Edzard, D. O., 1979. Die Archive von Suruppag (Fara): Umfang und Grenzen der Auswertbarkeit. In Lipinski,
+E. (ed.) State and temple economy in the ancient Near East I. Leuven, Departement Ori?ntalistiek, 153-69.
+Fiandra, E., 1975. Ancora a proposito delle cretule di Fest?s: connessione tra i sistemi amministrativi
+centralizzati e l'uso delle cretule nell'et? del bronzo. Bollettino d'Arte 1-2, 1?25.
+Foster, ?., 1981. A new look at the Sumerian tempje state. Journal of the Economie and Social History of the Orient 24,
+225-41.
+Fujii, ?., (ed.) 1981. Preliminary report of excavations at Gubba and Songor. Al-Rafidain Journal of Western
+Asiatic Studies 2, 3-242.
+Gelb, I. J., 1965. The ancient Mesopotamian ration system. Journal of Near Eastern Studies 24, 230-43.
+Gelb, I. J., 1979. Household and family in early Mesopotamia. In Lipinski, E. (ed.) State and temple economy in the
+ancient Near East I. Leuven, Departement Ori?ntalistiek, 1-97.
+Gibson, McG., (ed.) 1981. Uch Tepe I. Tell Razuk, Tell Ahmed al-Mughir, Tell Ajamat. Oriental Institute Chicago,
+University of Chicago Press.
+Hansen, D. P., 1973. Al-Hiba, 1970-1971: a preliminary report. Artibus Asiae 35, 62-78.
+Heinrich, E., 1931. Fara: Ergebnisse der Ausgrabungen der Deutschen Orient Gesellschaft in Fara und Abu Hatab 1902/03.
+Berlin, Staatliche Museen zu Berlin.
+Henrickson, E. F., 1981. Non-religious residential settlement patterning in the late Early Dynastic of the Diyala
+region. Mesopotamia 16, 43-140.
+Jacobsen, T., 1957. Early political development in Mesopotamia. Zeitschrift f?r Assyriologie und Vorderasiatische
+Arch?ologie 52, 91-140.
+Legrain, L., 1936. Ur excavations III. Archaic seal impressions. London, British Musesum.
+Madhlum, ?. ?., 1960. The excavations at Tell al-Wilayah (in Arabic). Sumer 16, 62-92.
+Maekawa, K., 1973-4. The development of the ?-MI in Lagash during Early Dynastic III. Mesopotamia 8-9,
+77-144.
+Margueron, J., 1982. Recherches sur les palais m?sopotamiens de l'?ge du bronze. Paris, Paul Geuthner.
+Martin, H. P., 1975. The tablets of Shuruppak. In Le temple et le culte. (XXe Rencontre Assyriologique
+Internationale, Leiden). Leiden, Nederlands Historisch-Archeologisch Instituut te Istambul, 173-82.
+Martin, H. P., 1983. Settlement patterns at Shuruppak. Iraq 45, 24-31.
+Martin, H. P., 1988. Fara: a reconstruction of the ancient Mesopotamian city of Shuruppak. Birmingham, Chris Martin
+and Associates.
+Matthews, R. J., 1989. Clay sealings in Early Dynastic Mesopotamia: a functional and contextual approach. Ph.D. thesis.
+University of Cambridge.
+Matthews, R. J., 1990. Excavations at Jemdet Nasr, 1989. Iraq 52, 25-39.
+Matthews, R. J., n.d. Abu Salabikh ash tip sealings: functional and contextual analyses. Forthcoming.
+Moorey, P. R. S., 1964. The "plano-convex building" at Kish and early Mesopotamian palaces. Iraq 26, 83-98.
+Moorey, P. R. S., 1978. Kish excavations 1923-1933. Oxford, Clarendon Press.
+Nissen, H. J., 1987. The urban revolution of Mesopotamia reconsidered. In Manzanilla, L. (ed.) Studies in the
+Neolithic and urban revolutions. (The V. Gordon Childe Colloquium, Mexico, 1986, BAR International
+Series 349). Oxford, BAR., 287-94.
+Pomponio, F., 1983. "Archives" and the prosopography of Fara. Acta Sumerologica 5, 127-45.
+Postgate, J. ?., 1980. Excavations at Abu Salabikh, 1978-79. Iraq 42, 87-104.
+Postgate, J. N., 1990. Excavations at Abu Salabikh, 1988-89. Iraq 52, 95-106.
+Powell, ?. ?., 1973. Review of Sollberger, E., 1972. Cuneiform texts from Babylonian tablets in the British Museum L
+(pre-Sargonic and Sargonic texts). London, British Museum, Zeitschrift f?r Assyriologie und Vorderasia-
+tische Arch?ologie 63, 99-106.
+Rathje, W. L., 1977. New tricks for old seals: a progress report. In Gibson, McG. and Biggs, R. D. (eds.) Seals and
+sealing in the ancient Near East. (Bibliotheca Mesopotamica 6). Malibu, Undena, 25-32.
+Roaf, M., 1982. The Hamrin sites. In Curtis, J. E. (ed.) Fifty years of Mesopotamian discovery. London, British
+School of Archaeology in Iraq, 40-7.
+Roaf, M., 1989. Social organization and social activities at Tell Madhhur. In Henrickson, E. F. and Thuesen, I.
+(eds.) Upon this foundation?the 'Ubaid reconsidered. (Proceedings from the 'Ubaid Symposium, Elsinore
+May 30th-June 1st 1988). Carsten Niebuhr Institute, 91-146.
+Safar, F., Mustafa, M. A. and Lloyd, S., 1981. Eridu. Baghdad, State Organization of Antiquities and Heritage.
+Schmidt, E., 1931. Excavations at Fara, 1931. University of Pennsylvania Museum Journal 22, 193-245.
+Wilson, K. L., 1986. Nippur: the definition of a Mesopotamian Gamdat Nasr assemblage. In Finkbeiner, U. and
+R?llig, W. (eds.) Gamdat Nasr period or regional style? Wiesbaden, Ludwig Reichert, 57?89.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+FRAGMENTS OF OFFICIALDOM FROM FARA 15
+Wright, H. T., 1969. The administration of rural production in an early Mesopotamian town. (University of Michigan
+Anthropology Papers 38). Ann Arbor, University of Michigan Press.
+Yamamoto, S., 1980. The "agricultural year" in pre-Sargonic Girsu-Lagash (II). Acta Sumerologica 2, 169-87.
+Yamamoto, S., 1981. The l?-KUR6-dab5-ba people in the ?-m?-?d Ba-? in pre-Sargonic Lagash. Acta Sumerologica
+3, 93-110.
+Zettler, R. L., 1987. Sealings as artifacts of institutional administration in ancient Mesopotamia. Journal of
+Cuneiform Studies 39, 197-240.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)37.163.249.155 on Sat, 07 Oct 2023 11:46:30 +00:00(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+

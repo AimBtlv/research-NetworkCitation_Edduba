@@ -1,0 +1,1373 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ali",
+        "given": "Faraj A."
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "title": [
+      "Sumerian Letters: Two Collections from the Old Babylonian Schools"
+    ],
+    "genre": [
+      "PhD diss.,"
+    ],
+    "publisher": [
+      "University of Pennsylvania"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "Jeremy A."
+      },
+      {
+        "family": "Cunningham",
+        "given": "Graham"
+      },
+      {
+        "family": "Flückiger-Hawker",
+        "given": "Eleanor"
+      },
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      },
+      {
+        "family": "Taylor",
+        "given": "Jon"
+      },
+      {
+        "family": "Zólyomi",
+        "given": "Gábor"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "The Electronic Text Corpus of Sumerian Literature"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Oriental Institute"
+    ],
+    "url": [
+      "http://www-etcsl.orient.ox.ac.uk/"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cavigneaux",
+        "given": "Antoine"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Uruk: Altbabylonische Texte aus dem Planquadrat Pe XV1–4/5 nach Kopien von Adam Falkenstein"
+    ],
+    "container-title": [
+      "Ausgrabungen in Uruk-Warka, Endberichte 23"
+    ],
+    "location": [
+      "Mainz"
+    ],
+    "publisher": [
+      "Philipp von Zabern"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavigneaux",
+        "given": "Antoine"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "A Scholar’s Library in Meturan? With an Edition of the Tablet H 72 (Textes de Tell Haddad VII"
+    ],
+    "container-title": [
+      "Mesopotamian Magic: Textual, Historical, and Interpretative Perspectives",
+      "Ancient Magic and Divination"
+    ],
+    "editor": [
+      {
+        "family": "Abusch",
+        "given": "Tzvi"
+      },
+      {
+        "family": "Toorn",
+        "given": "Karel",
+        "particle": "van der"
+      }
+    ],
+    "pages": [
+      "73–"
+    ],
+    "volume": [
+      "1"
+    ],
+    "location": [
+      "Groningen"
+    ],
+    "publisher": [
+      "Styx"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavigneaux",
+        "given": "Antoine"
+      },
+      {
+        "family": "Renger",
+        "given": "Johannes"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Ein altbabylonischer Gilgameš-Text aus Nippur"
+    ],
+    "container-title": [
+      "Wisdom, Gods and Literature: Studies in Assyriology in Honour of W. G. Lambert"
+    ],
+    "editor": [
+      {
+        "family": "George",
+        "given": "A.R."
+      },
+      {
+        "family": "Finkel",
+        "given": "I.L."
+      }
+    ],
+    "pages": [
+      "91–105"
+    ],
+    "location": [
+      "Winona Lake, IN"
+    ],
+    "publisher": [
+      "Eisenbrauns"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Charpin",
+        "given": "Dominique"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Le clergé d’Ur au siècle d’Hammurabi (XIXe–XVIIe siècles av"
+    ],
+    "volume": [
+      "22"
+    ],
+    "location": [
+      "Geneva"
+    ],
+    "publisher": [
+      "Librairie Droz"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "J.-C.). Hautes Études Orientales"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Charpin",
+        "given": "Dominique"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Un quartier de Nippur et le problème des écoles à l’époque paléo-babylonienne"
+    ],
+    "volume": [
+      "83",
+      "84"
+    ],
+    "pages": [
+      "97–112",
+      "1–16"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revue d’Assyriologie et d’Archéologie Orientale"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "Ea A = naqu, Aa A = naqu, with Their Forerunners and Related Texts"
+    ],
+    "volume": [
+      "14"
+    ],
+    "location": [
+      "Rome"
+    ],
+    "publisher": [
+      "Pontifical Biblical Institute"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Materials for the Sumerian Lexicon"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "title": [
+      "Les limites de l’information textuelle"
+    ],
+    "container-title": [
+      "L’archéologie de l’Irak du début de l’époque néolithique à 333 avant notre ère",
+      "Colloques internationaux du CNRS 580"
+    ],
+    "editor": [
+      {
+        "family": "Barrelet",
+        "given": "M."
+      }
+    ],
+    "pages": [
+      "225–232"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "publisher": [
+      "CNRS"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Ancient Mesopotamian Lexicography"
+    ],
+    "container-title": [
+      "Civilizations of the Ancient Near East"
+    ],
+    "editor": [
+      {
+        "family": "Sasson",
+        "given": "Jack"
+      }
+    ],
+    "pages": [
+      "2305–2314"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Scribner"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Dekiere",
+        "given": "Luc"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "La généalogie d’Ur-Utu, gala-mah à Sippar-Amnanum"
+    ],
+    "container-title": [
+      "Cinquante-deux réflexions sur le Proche-Orient ancien offertes à Léon de Meyer",
+      "Mesopotamian History and Environment, Occasional Publications"
+    ],
+    "editor": [
+      {
+        "family": "Gasche",
+        "given": "H."
+      },
+      {
+        "others": true
+      }
+    ],
+    "pages": [
+      "125–141"
+    ],
+    "volume": [
+      "2"
+    ],
+    "location": [
+      "Leuven"
+    ],
+    "publisher": [
+      "Peeters"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Faivre",
+        "given": "Xavier"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Le recyclage des tablettes cunéiformes"
+    ],
+    "volume": [
+      "89"
+    ],
+    "pages": [
+      "57–66"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revue d’Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gadd",
+        "given": "Cyril J."
+      },
+      {
+        "family": "Kramer",
+        "given": "Samuel Noah"
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "title": [
+      "Literary and Religious Texts: Second Part"
+    ],
+    "volume": [
+      "6"
+    ],
+    "location": [
+      "London and Philadelphia"
+    ],
+    "publisher": [
+      "Joint Expedition of the British Museum and the University Museum"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ur Excavations, Texts"
+    ],
+    "issue": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gasche",
+        "given": "Hermann"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "La Babylonie au XVIIe siècle avant notre ère. Mesopotamian History and Environment, Series II, Memoirs 1"
+    ],
+    "location": [
+      "Ghent"
+    ],
+    "publisher": [
+      "University of Ghent"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gasche",
+        "given": "Hermann"
+      },
+      {
+        "family": "Armstrong",
+        "given": "John A."
+      },
+      {
+        "family": "Cole",
+        "given": "Steven W."
+      },
+      {
+        "family": "Gurzadyan",
+        "given": "Vahe G."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Dating the Fall of Babylon: A Reappraisal of Second-Millennium Chronology"
+    ],
+    "volume": [
+      "1"
+    ],
+    "location": [
+      "Ghent"
+    ],
+    "publisher": [
+      "University of Ghent"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mesopotamian History and Environment, Series I, Memoirs"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gasche",
+        "given": "Hermann"
+      },
+      {
+        "family": "Dekiere",
+        "given": "Luc"
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "À propos de la durée de vie d’une maison paléo-babylonienne en briques crues"
+    ],
+    "volume": [
+      "1991"
+    ],
+    "pages": [
+      "16–18"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "NABU"
+    ],
+    "issue": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gesche",
+        "given": "Petra"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Schulunterricht in Babylonien im ersten Jahrtausend v"
+    ],
+    "volume": [
+      "275"
+    ],
+    "location": [
+      "Münster"
+    ],
+    "publisher": [
+      "Ugarit-Verlag"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Chr. Alter Orient und Altes Testament"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gibson",
+        "given": "McGuire"
+      },
+      {
+        "family": "Hansen",
+        "given": "Donald P."
+      },
+      {
+        "family": "Zettler",
+        "given": "Richard L."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Nippur B. Archäologisch"
+    ],
+    "container-title": [
+      "Reallexikon der Assyriologie und Vorderasiatischen Archäologie"
+    ],
+    "volume": [
+      "9"
+    ],
+    "editor": [
+      {
+        "family": "Edzard",
+        "given": "D.O."
+      }
+    ],
+    "pages": [
+      "546–565"
+    ],
+    "location": [
+      "Berlin/New York"
+    ],
+    "publisher": [
+      "de Gruyter"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gordon",
+        "given": "Edmund I."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "title": [
+      "Sumerian Proverbs: Glimpses of Everyday Life in Ancient Mesopotamia"
+    ],
+    "volume": [
+      "4"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University of Pennsylvania"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Museum Monographs"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Heimerdinger",
+        "given": "J.W."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "Sumerian Literary Fragments from Nippur. Occasional Publications of the Babylonian Fund 4"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University Museum"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Janssen",
+        "given": "Caroline"
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "e’iltam patarum: awat hade!"
+    ],
+    "container-title": [
+      "Mesopotamie et Élam, CRRAI"
+    ],
+    "volume": [
+      "36"
+    ],
+    "pages": [
+      "77–107"
+    ],
+    "location": [
+      "Ghent"
+    ],
+    "publisher": [
+      "University of Ghent"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Janssen",
+        "given": "Caroline"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Inanna-mansum et ses fils"
+    ],
+    "volume": [
+      "86"
+    ],
+    "pages": [
+      "19–52"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revue d’Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Janssen",
+        "given": "Caroline"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "When the House Is on Fire and the Children Are Gone"
+    ],
+    "container-title": [
+      "Houses and Households in Ancient Mesopotamia"
+    ],
+    "editor": [
+      {
+        "family": "Veenhof",
+        "given": "K.R."
+      }
+    ],
+    "pages": [
+      "237–246"
+    ],
+    "location": [
+      "Istanbul"
+    ],
+    "publisher": [
+      "Nederlands Historisch-Archaeologisch Instituut"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Janssen",
+        "given": "Caroline"
+      },
+      {
+        "family": "Gasche",
+        "given": "Hermann"
+      },
+      {
+        "family": "Tanret",
+        "given": "Michel"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Du chantier à la tablette"
+    ],
+    "container-title": [
+      "Cinquante-deux réflexions sur le Proche-Orient ancien"
+    ],
+    "pages": [
+      "91–123"
+    ],
+    "location": [
+      "Leuven"
+    ],
+    "publisher": [
+      "Peeters"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kramer",
+        "given": "Samuel Noah"
+      }
+    ],
+    "date": [
+      "1949"
+    ],
+    "title": [
+      "Schooldays: A Sumerian Composition Relating to the Education of a Scribe"
+    ],
+    "volume": [
+      "69"
+    ],
+    "pages": [
+      "199–215"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of the American Oriental Society"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "McCown",
+        "given": "Donald E."
+      },
+      {
+        "family": "Haines",
+        "given": "Richard C."
+      }
+    ],
+    "date": [
+      "1967"
+    ],
+    "title": [
+      "Nippur I: Temple of Enlil, Scribal Quarter, and Soundings"
+    ],
+    "volume": [
+      "78"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Oriental Institute Publications"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pearce",
+        "given": "Laurie E."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "The Scribes and Scholars of Ancient Mesopotamia"
+    ],
+    "container-title": [
+      "Civilizations of the Ancient Near East"
+    ],
+    "editor": [
+      {
+        "family": "Sasson",
+        "given": "Jack"
+      }
+    ],
+    "pages": [
+      "2265–2278"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Scribner"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Postgate",
+        "given": "J.Nicholas"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Archaeology and the Texts—Bridging the Gap"
+    ],
+    "volume": [
+      "80"
+    ],
+    "pages": [
+      "228–240"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Mesopotamian Mathematics, 2100–1600 BCE"
+    ],
+    "volume": [
+      "1"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Clarendon Press"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Oxford Editions of Cuneiform Texts"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "More than Metrology"
+    ],
+    "container-title": [
+      "Under One Sky",
+      "AOAT"
+    ],
+    "editor": [
+      {
+        "family": "Imhausen",
+        "given": "A."
+      },
+      {
+        "family": "Steele",
+        "given": "J."
+      }
+    ],
+    "pages": [
+      "325–365"
+    ],
+    "volume": [
+      "297"
+    ],
+    "location": [
+      "Münster"
+    ],
+    "publisher": [
+      "Ugarit-Verlag"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Stone",
+        "given": "Elizabeth C."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Nippur Neighborhoods"
+    ],
+    "genre": [
+      "SAOC 44."
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "Oriental Institute"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Tanret",
+        "given": "Michel"
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "title": [
+      "Les tablettes scolaires découvertes à Tell ed-Der"
+    ],
+    "volume": [
+      "27"
+    ],
+    "pages": [
+      "46–49"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Akkadica"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tanret",
+        "given": "Michel"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Per aspera ad astra"
+    ],
+    "volume": [
+      "Series III, Texts 3"
+    ],
+    "location": [
+      "Ghent"
+    ],
+    "publisher": [
+      "University of Ghent"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mesopotamian History and Environment"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tanret",
+        "given": "Michel"
+      },
+      {
+        "family": "Lerberghe",
+        "given": "Karel",
+        "particle": "Van"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Rituals and Profits in the Ur-Utu Archive"
+    ],
+    "container-title": [
+      "Ritual and Sacrifice in the Ancient Near East"
+    ],
+    "editor": [
+      {
+        "family": "Quaegebeur",
+        "given": "J."
+      }
+    ],
+    "pages": [
+      "435–449"
+    ],
+    "genre": [
+      "OLA 55."
+    ],
+    "location": [
+      "Leuven"
+    ],
+    "publisher": [
+      "Peeters"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Tinney",
+        "given": "Steve J."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Texts, Tablets, and Teaching"
+    ],
+    "volume": [
+      "40"
+    ],
+    "pages": [
+      "40–50"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Expedition"
+    ],
+    "issue": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tinney",
+        "given": "Steve J."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "On the Curricular Setting of Sumerian Literature"
+    ],
+    "volume": [
+      "59"
+    ],
+    "pages": [
+      "159–172"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Iraq"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Driel",
+        "particle": "Van"
+      },
+      {
+        "given": "Govert"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Old Babylonian Nippur"
+    ],
+    "volume": [
+      "47"
+    ],
+    "pages": [
+      "559–577"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bibliotheca Orientalis"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lerberghe",
+        "particle": "Van"
+      },
+      {
+        "family": "Karel"
+      },
+      {
+        "family": "Voet",
+        "given": "Gert"
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Sippar-Amnanum: The Ur-Utu Archive. Mesopotamian History and Environment, Series III, Texts 1"
+    ],
+    "location": [
+      "Ghent"
+    ],
+    "publisher": [
+      "University of Ghent"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Elementary Education at Nippur: The Lists of Trees and Wooden Objects"
+    ],
+    "genre": [
+      "PhD diss.,"
+    ],
+    "publisher": [
+      "University of Groningen"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Review of Cavigneaux 1996"
+    ],
+    "volume": [
+      "44–45"
+    ],
+    "pages": [
+      "360–363"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Archiv für Orientforschung"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Sumerian Proverbs in Their Curricular Context"
+    ],
+    "volume": [
+      "120"
+    ],
+    "pages": [
+      "383–399"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of the American Oriental Society"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Volk",
+        "given": "Konrad"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Methoden altmesopotamischer Erziehung"
+    ],
+    "volume": [
+      "47"
+    ],
+    "pages": [
+      "178–216"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Saeculum"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Volk",
+        "given": "Konrad"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Edubba’a und Edubba’a-Literatur"
+    ],
+    "volume": [
+      "90"
+    ],
+    "pages": [
+      "1–30"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Walker",
+        "given": "Christopher B.F."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Mesopotamian Chronology"
+    ],
+    "container-title": [
+      "Ancient Near Eastern Art"
+    ],
+    "editor": [
+      {
+        "family": "Collon",
+        "given": "Dominique"
+      }
+    ],
+    "pages": [
+      "230–238"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "British Museum Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilcke",
+        "given": "Claus"
+      }
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "title": [
+      "Wer las und schrieb in Babylonien und Assyrien"
+    ],
+    "publisher": [
+      "Sitzungsberichte der Bayerischen Akademie der Wissenschaften"
+    ],
+    "volume": [],
+    "location": [
+      "Munich"
+    ],
+    "issue": [
+      "6"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zettler",
+        "given": "Richard L."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Nippur"
+    ],
+    "container-title": [
+      "The Oxford Encyclopedia of Archaeology in the Near East"
+    ],
+    "volume": [
+      "4"
+    ],
+    "editor": [
+      {
+        "family": "Meyers",
+        "given": "Eric M."
+      }
+    ],
+    "pages": [
+      "148–152"
+    ],
+    "location": [
+      "New York/Oxford"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "type": "chapter"
+  }
+]

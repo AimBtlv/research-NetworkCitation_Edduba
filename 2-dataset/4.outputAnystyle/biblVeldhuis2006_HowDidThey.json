@@ -1,0 +1,857 @@
+[
+  {
+    "author": [
+      {
+        "family": "Biggs",
+        "given": "Robert D."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "title": [
+      "Inscriptions from Tell Abū Ṣalābīkh"
+    ],
+    "genre": [
+      "OIP 99."
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "The Sign LAK 384"
+    ],
+    "volume": [
+      "52"
+    ],
+    "pages": [
+      "233–240"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Orientalia n.s"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "Mark E."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "title": [
+      "The Name Nintinugga with a Note on the Possible Identification of Tell Abu Salabikh"
+    ],
+    "volume": [
+      "28"
+    ],
+    "pages": [
+      "82–92"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Englund",
+        "given": "Robert K."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Texts from the Late Uruk Period"
+    ],
+    "container-title": [
+      "Mesopotamien: Späturuk-Zeit und Frühdynastische Zeit. Annäherungen 1"
+    ],
+    "editor": [
+      {
+        "family": "Attinger",
+        "given": "Peter"
+      },
+      {
+        "family": "Wäfler",
+        "given": "Markus"
+      }
+    ],
+    "pages": [
+      "15–233"
+    ],
+    "genre": [
+      "OBO 160/1."
+    ],
+    "location": [
+      "Fribourg"
+    ],
+    "publisher": [
+      "Universitätsverlag"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Englund",
+        "given": "Robert K."
+      },
+      {
+        "family": "Nissen",
+        "given": "Hans J."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Die lexikalischen Listen der archaischen Texte aus Uruk"
+    ],
+    "volume": [
+      "3"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Gebr. Mann"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "ATU"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Farber-Flügge",
+        "given": "Gerlinde"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Kleiner Leitfaden zum Silbenvokabular A"
+    ],
+    "container-title": [
+      "Munuscula Mesopotamica: Festschrift für Johannes Renger",
+      "and Thomas Richter, 117–133. AOAT 267"
+    ],
+    "editor": [
+      {
+        "family": "Böck",
+        "given": "Beate"
+      },
+      {
+        "family": "Cancik-Kirschbaum",
+        "given": "Eva"
+      }
+    ],
+    "location": [
+      "Münster"
+    ],
+    "publisher": [
+      "Ugarit-Verlag"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gelb",
+        "given": "Ignace J."
+      },
+      {
+        "family": "Steinkeller",
+        "given": "Piotr"
+      },
+      {
+        "family": "Whiting",
+        "given": "Robert M."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Earliest Land Tenure Systems in the Near East: Ancient Kudurrus"
+    ],
+    "volume": [
+      "104"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "Oriental Institute of the University of Chicago"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "OIP"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Green",
+        "given": "Margaret W."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "The Construction and Implementation of the Cuneiform Writing System"
+    ],
+    "volume": [
+      "15"
+    ],
+    "pages": [
+      "345–372"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Visible Writing"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Green",
+        "given": "Margaret W."
+      },
+      {
+        "family": "Nissen",
+        "given": "Hans J."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Zeichenliste der archaischen Texte aus Uruk"
+    ],
+    "volume": [
+      "2"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Gebr. Mann"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "ATU"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Krebernik",
+        "given": "Manfred"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Die Texte aus Fāra und Tell Abū Ṣalābīḫ"
+    ],
+    "container-title": [
+      "Mesopotamien: Späturuk-Zeit und Frühdynastische Zeit. Annäherungen 1"
+    ],
+    "editor": [
+      {
+        "family": "Attinger",
+        "given": "Peter"
+      },
+      {
+        "family": "Wäfler",
+        "given": "Markus"
+      }
+    ],
+    "pages": [
+      "237–427"
+    ],
+    "genre": [
+      "OBO 160/1."
+    ],
+    "location": [
+      "Fribourg"
+    ],
+    "publisher": [
+      "Universitätsverlag"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Krispijn",
+        "given": "Theo J.H."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "The Early Mesopotamian Lexical Lists and the Dawn of Linguistics"
+    ],
+    "volume": [
+      "32"
+    ],
+    "pages": [
+      "12–22"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "JEOL"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ludwig",
+        "given": "Marie-Claude"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Untersuchungen zu den Hymnen des Išme-Dagan von Isin"
+    ],
+    "genre": [
+      "SANTAG 2."
+    ],
+    "location": [
+      "Wiesbaden"
+    ],
+    "publisher": [
+      "Otto Harrassowitz"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Michalowski",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Writing and Literacy in Early States: A Mesopotamianist Perspective"
+    ],
+    "container-title": [
+      "Literacy: Interdisciplinary Conversations"
+    ],
+    "editor": [
+      {
+        "family": "Keller-Cohen",
+        "given": "Deborah"
+      }
+    ],
+    "pages": [
+      "49–70"
+    ],
+    "location": [
+      "Cresskill, NJ"
+    ],
+    "publisher": [
+      "Hampton Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Nissen",
+        "given": "Hans J."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Die Verwendung der Schrift im frühen Babylonien"
+    ],
+    "container-title": [
+      "Von Sumer nach Ebla und zurück: Festschrift Giovanni Pettinato"
+    ],
+    "editor": [
+      {
+        "family": "Waetzoldt",
+        "given": "Hartmut"
+      }
+    ],
+    "pages": [
+      "217–220"
+    ],
+    "genre": [
+      "HSAO 9."
+    ],
+    "location": [
+      "Heidelberg"
+    ],
+    "publisher": [
+      "Heidelberger Orientverlag"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Oppenheim",
+        "given": "A.Leo"
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "title": [
+      "Ancient Mesopotamia: Portrait of a Dead Civilization"
+    ],
+    "edition": [
+      "2nd ed., revis"
+    ],
+    "container-title": [
+      "by Erica Reiner"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Pearce",
+        "given": "Laurie E."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "The Number-Syllabary Texts"
+    ],
+    "volume": [
+      "116"
+    ],
+    "pages": [
+      "453–474"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of the American Oriental Society"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Steinkeller",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "1990",
+      "1990/12"
+    ],
+    "title": [
+      "The Value sur of ÉREN in Third Millennium Sources"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "NABU"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Steinkeller",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Review of Zeichenliste der archaischen Texte aus Uruk, by Margaret W"
+    ],
+    "volume": [
+      "52"
+    ],
+    "pages": [
+      "689–713"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Green and Hans J. Nissen. Bibliotheca Orientalis"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Steinkeller",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "A Building Inscription of Sîn-iddinam and Other Inscribed Materials from Abu Duwari"
+    ],
+    "container-title": [
+      "The Anatomy of a Mesopotamian City"
+    ],
+    "editor": [
+      {
+        "family": "Stone",
+        "given": "Elizabeth C."
+      },
+      {
+        "family": "Zimansky",
+        "given": "Paul"
+      }
+    ],
+    "pages": [
+      "135–152"
+    ],
+    "location": [
+      "Winona Lake, IN"
+    ],
+    "publisher": [
+      "Eisenbrauns"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Steinkeller",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Studies in Third Millennium Paleography, 4: Sign KI"
+    ],
+    "volume": [
+      "94"
+    ],
+    "pages": [
+      "175–185"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tanret",
+        "given": "Michel"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Per aspera ad astra: L’apprentissage du cunéiforme à Sippar-Amnanum pendant la période paléobabylonienne tardive"
+    ],
+    "container-title": [
+      "MHET I/2"
+    ],
+    "location": [
+      "Ghent"
+    ],
+    "publisher": [
+      "University of Ghent"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Vanstiphout",
+        "given": "Herman L.J."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "How Did They Learn Sumerian?"
+    ],
+    "volume": [
+      "31"
+    ],
+    "pages": [
+      "118–126"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vanstiphout",
+        "given": "Herman L.J."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Repetition and Structure in the Aratta Cycle"
+    ],
+    "container-title": [
+      "Mesopotamian Epic Literature: Oral or Aural"
+    ],
+    "editor": [
+      {
+        "family": "Vogelzang",
+        "given": "Mieke E."
+      },
+      {
+        "family": "Vanstiphout",
+        "given": "Herman L.J."
+      }
+    ],
+    "pages": [
+      "247–264"
+    ],
+    "location": [
+      "Lewiston"
+    ],
+    "publisher": [
+      "Edwin Mellen Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek C."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Religion, Literature, and Scholarship: The Sumerian Composition “Nanše and the Birds"
+    ],
+    "container-title": [
+      "with a Catalogue of Sumerian Bird Names"
+    ],
+    "volume": [
+      "CM 22"
+    ],
+    "location": [
+      "Leiden"
+    ],
+    "publisher": [
+      "Brill–Styx"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek C."
+      },
+      {
+        "family": "Hilprecht",
+        "given": "Hermann V."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Model Texts and Exercises from the Temple School of Nippur: BE 19"
+    ],
+    "volume": [
+      "50"
+    ],
+    "pages": [
+      "28–49"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Altorientalische Forschungen"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Soden",
+        "particle": "von"
+      },
+      {
+        "given": "Wolfram"
+      }
+    ],
+    "date": [
+      "1936",
+      "1965"
+    ],
+    "title": [
+      "Leistung und Grenze sumerischer und babylonischer Wissenschaft"
+    ],
+    "volume": [
+      "2"
+    ],
+    "pages": [
+      "411–464, 509–557"
+    ],
+    "note": [
+      "Reprint with Benno Landsberger."
+    ],
+    "location": [
+      "Darmstadt"
+    ],
+    "publisher": [
+      "Wissenschaftliche Buchgesellschaft"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Die Welt als Geschichte"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Westenholz",
+        "given": "Joan"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Thoughts on Esoteric Knowledge and Secret Lore"
+    ],
+    "container-title": [
+      "Intellectual Life of the Ancient Near East"
+    ],
+    "editor": [
+      {
+        "family": "Prosecký",
+        "given": "Jiří"
+      }
+    ],
+    "pages": [
+      "451–462"
+    ],
+    "location": [
+      "Prague"
+    ],
+    "publisher": [
+      "Academy of Sciences of the Czech Republic"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilcke",
+        "given": "Claus"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Die Inschrift der ‘Figure aux plumes’"
+    ],
+    "container-title": [
+      "Beiträge zur Kulturgeschichte Vorderasiens"
+    ],
+    "editor": [
+      {
+        "family": "Finkbeiner",
+        "given": "Ute"
+      },
+      {
+        "family": "Dittmann",
+        "given": "Reinhard"
+      },
+      {
+        "family": "Hauptmann",
+        "given": "Harald"
+      }
+    ],
+    "pages": [
+      "669–674"
+    ],
+    "location": [
+      "Mainz am Rhein"
+    ],
+    "publisher": [
+      "Philipp von Zabern"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilcke",
+        "given": "Claus"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Early Ancient Near Eastern Law: A History of Its Beginnings"
+    ],
+    "container-title": [
+      "SBAW 2003/2"
+    ],
+    "location": [
+      "Munich"
+    ],
+    "publisher": [
+      "C. H. Beck"
+    ],
+    "type": "chapter"
+  }
+]

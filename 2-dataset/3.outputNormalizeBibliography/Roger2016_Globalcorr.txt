@@ -1,0 +1,27 @@
+Bedford, Timothy, and Roger M. Cooke. 2002. “Vines: A New Graphical Model for Dependent Random Variables.” Annals of Statistics 30 (4): 1031–1068.
+
+Cooke, Roger M. 1997. “Markov and Entropy Properties of Tree- and Vine-Dependent Variables.” In Proceedings of the Section on Bayesian Statistical Science, 78–83. Alexandria, VA: American Statistical Association.
+
+Cooke, Roger M., Carolyn Kousky, and Harry Joe. 2011. “Microcorrelations and Tail Dependence.” In Dependence Modeling, 89–112. Hackensack, NJ: World Scientific.
+
+Hanea, Anca M., and George F. Nane. 2016. “The Asymptotic Distribution of the Determinant of a Random Correlation Matrix.” Preprint. https://arxiv.org/abs/1309.7268
+
+Holmes, Randall B. 1991. “On Random Correlation Matrices.” SIAM Journal on Matrix Analysis and Applications 12 (2): 239–272.
+
+Hotelling, Harold. 1936. “Relations between Two Sets of Variates.” Biometrika 28 (3–4): 321–377.
+
+Houghton, Richard A., Forrest Hall, and Scott J. Goetz. 2009. “Importance of Biomass in the Global Carbon Cycle.” Journal of Geophysical Research: Biogeosciences 114 (G2).
+
+Joe, Harry. 2006. “Generating Random Correlation Matrices Based on Partial Correlations.” Journal of Multivariate Analysis 97 (10): 2177–2189.
+
+Kendall, Maurice G., and Alan Stuart. 1967. The Advanced Theory of Statistics. Vol. 2: Inference and Relationship. 2nd ed. New York: Hafner Publishing.
+
+Koch, Gary G. 2006. “Intraclass Correlation Coefficient.” In Encyclopedia of Statistical Sciences, vol. 6. New York: John Wiley & Sons.
+
+Kousky, Carolyn, and Roger M. Cooke. 2011. “The Limits of Securitization: Micro-correlations, Fat Tails and Tail Dependence.” In Re-Thinking Risk Measurement and Reporting: Uncertainty, Bayesian Analysis and Expert Judgement, edited by Klaus Böcker, 295–330. London: Risk Books.
+
+Lewandowski, Daniel, Dorota Kurowicka, and Harry Joe. 2009. “Generating Random Correlation Matrices Based on Vines and Extended Onion Method.” Journal of Multivariate Analysis 100 (9): 1989–2001.
+
+Nguyen, Hoi H., and Van Vu. 2014. “Random Matrices: Law of the Determinant.” Annals of Probability 42 (1): 146–167.
+
+Weisbin, Charles R., William Lincoln, and Sassan Saatchi. 2014. “A Systems Engineering Approach to Estimating Uncertainty in Above-Ground Biomass Derived from Remote-Sensing Data.” Systems Engineering 17 (3): 361–373.

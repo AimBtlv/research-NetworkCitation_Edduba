@@ -1,0 +1,540 @@
+[
+  {
+    "editor": [
+      {
+        "family": "Anderson",
+        "given": "Roger"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "note": [
+      "Special Issue of Studies in Second Language Acquisition 12."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Behrens",
+        "given": "Heike"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Temporal Reference in German Child Language"
+    ],
+    "genre": [
+      "PhD diss.,"
+    ],
+    "publisher": [
+      "University of Amsterdam"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Birdsong",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Ultimate Attainment in Second Language Acquisition"
+    ],
+    "volume": [
+      "68"
+    ],
+    "pages": [
+      "706–755"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Language"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bowerman",
+        "given": "Melissa"
+      },
+      {
+        "family": "Choi",
+        "given": "Soonja"
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Cognition"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Broeder",
+        "given": "Peter"
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Processes in the Developing Lexicon"
+    ],
+    "genre": [
+      "Final Report."
+    ],
+    "location": [
+      "Strasbourg"
+    ],
+    "publisher": [
+      "European Science Foundation"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Chomsky",
+        "given": "Noam"
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Knowledge of Language"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Praeger"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dietrich",
+        "given": "Rainer"
+      },
+      {
+        "family": "Klein",
+        "given": "Wolfgang"
+      },
+      {
+        "family": "Noyau",
+        "given": "Colette"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Temporality in Second Language Acquisition"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "publisher": [
+      "John Benjamins"
+    ],
+    "type": "book"
+  },
+  {
+    "editor": [
+      {
+        "family": "Fletcher",
+        "given": "Paul"
+      },
+      {
+        "family": "Garman",
+        "given": "Peter"
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "title": [
+      "First Language Acquisition"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Heidelberger Forschungsprojekt “Pidgin-Deutsch",
+      "Sprache und Kommunikation ausländischer Arbeiter"
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "Kronberg"
+    ],
+    "publisher": [
+      "Scriptor"
+    ],
+    "type": "book"
+  },
+  {
+    "editor": [
+      {
+        "family": "Kellerman",
+        "given": "Eric"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Crosslinguistic Influence in Second Language Acquisition"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Pergamon"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Klein",
+        "given": "Wolfgang"
+      },
+      {
+        "family": "Perdue",
+        "given": "Clive"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Utterance Structure"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "publisher": [
+      "John Benjamins"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lamendella",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "title": [
+      "General Principles of Neurofunctional Organization and Their Manifestation in Primary and Non-Primary Language Acquisition"
+    ],
+    "volume": [
+      "27"
+    ],
+    "pages": [
+      "155–196"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Language Learning"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lenneberg",
+        "given": "Eric H."
+      }
+    ],
+    "date": [
+      "1967"
+    ],
+    "title": [
+      "Biological Foundations of Language"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Long",
+        "given": "Michael"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Maturational Constraints on Language Development"
+    ],
+    "volume": [
+      "12"
+    ],
+    "pages": [
+      "251–285"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Studies in Second Language Acquisition"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Neufeld",
+        "given": "Gerald"
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "Towards a Theory of Language Learning Ability"
+    ],
+    "volume": [
+      "29"
+    ],
+    "pages": [
+      "227–241"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Language Learning"
+    ]
+  },
+  {
+    "editor": [
+      {
+        "family": "Perdue",
+        "given": "Clive"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Adult Second Language Acquisition"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pulvermüller",
+        "given": "Friedemann"
+      },
+      {
+        "family": "Schumann",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Neurobiological Mechanisms of Language Acquisition"
+    ],
+    "genre": [
+      "Unpublished manuscript,"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "location": [
+      "Los Angeles"
+    ],
+    "type": "manuscript"
+  },
+  {
+    "author": [
+      {
+        "family": "Roche",
+        "given": "Jörg"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Xenolekte"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "de Gruyter"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schumann",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "title": [
+      "The Pidginization Process"
+    ],
+    "location": [
+      "Rowley, MA"
+    ],
+    "publisher": [
+      "Newbury House"
+    ],
+    "type": "book"
+  },
+  {
+    "editor": [
+      {
+        "family": "Slobin",
+        "given": "Dan I."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "The Crosslinguistic Study of Language Acquisition"
+    ],
+    "location": [
+      "Hillsdale, NJ"
+    ],
+    "publisher": [
+      "Erlbaum"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stutterheim",
+        "particle": "von"
+      },
+      {
+        "given": "Christiane"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Temporalität in der Zweitsprache"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "de Gruyter"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Weist",
+        "given": "Richard M."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "title": [
+      "Tense and Aspect"
+    ],
+    "container-title": [
+      "Language Acquisition"
+    ],
+    "editor": [
+      {
+        "family": "Fletcher",
+        "given": "Paul"
+      },
+      {
+        "family": "Garman",
+        "given": "Michael"
+      }
+    ],
+    "pages": [
+      "356–374"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "editor": [
+      {
+        "family": "Weissenborn",
+        "given": "Jürgen"
+      },
+      {
+        "family": "Goodluck",
+        "given": "Helen"
+      },
+      {
+        "family": "Roeper",
+        "given": "Thomas"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Theoretical Issues in Language Acquisition"
+    ],
+    "location": [
+      "Hillsdale, NJ"
+    ],
+    "publisher": [
+      "Erlbaum"
+    ],
+    "type": "book"
+  }
+]

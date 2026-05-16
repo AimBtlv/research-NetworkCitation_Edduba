@@ -1,0 +1,148 @@
+# METADATA
+Author: Steele M.J.
+Title: TheCultsofUrukandBabylon:TheTempleRitualTextsasEvidence for Hellenistic Cult Practice by Marc J.H.Linssen
+Year: 2004
+Source_ID: Steele2004_TheCultsof
+Source_Type: Monographs: Cuneiform Monographs 25. Leiden:Brill--Styx, 2004.  ISBN 90--04--12402--0.Cloth ¤106.00
+Source_Role,Step_distance: 2 ,3,4 
+Pages: Pp.xv+343.
+Web: 
+
+# TEXT
+
+TheCultsofUrukandBabylon:TheTempleRitualTextsasEvidence
+for Hellenistic Cult Practice by Marc J.H.Linssen
+Cuneiform Monographs 25. Leiden:Brill--Styx, 2004. Pp.xv+343.
+ISBN 90--04--12402--0.Cloth ¤106.00
+Reviewed by
+John M.Steele
+University of Durham
+j.m.steele@durham.ac.uk
+The study of Mesopotamian cultic practice in the Hellenistic period
+has largely been based upon a dozen or so temple ritual texts which
+prescribe the preparations and actions to be undertaken as part of
+the ceremonial process. However, these texts are copies of older orig-
+inal compositions, and therefore may not provide an accurate por-
+trait of Hellenistic ritual practice. To address this potential problem,
+Marc Linssen has undertaken a detailed comparison of the activities
+prescribed in the temple ritual texts with information on ritual prac-
+tice recorded in contemporary documents, in particular the so-called
+‘astronomicaldiaries’[seeSachsandHunger1988--1996]. Inthisinter-
+estingbook,hehasshownthat,despitethechangesinMesopotamian
+societyaftertheGreekconquestofBabyloniabyAlexandertheGreat,
+the Babylonian cults continued to play an important and active part
+of life in Mesopotamia. Furthermore, the temple ritual texts appar-
+ently reflect actual cultic practice accurately.
+In Mesopotamian religion, many gods were represented by an
+anthropomorphic statue which was not only regarded as an image
+of the god, but also as an extension of the god’s personality, like a
+living being. Thus, many rituals involved the preparation of food
+for this living statue, the ritual clothing of the statue, and the pro-
+cession of the statue into his temple. Basic rituals were performed
+every day; other more elaborate rituals were performed in monthly
+or annual cycles, or on special occasions such as during eclipses or at
+the rebuilding of a temple.
+Many of the rituals performed in Hellenistic Mesopotamia have
+at least a broad link to astronomy through the use of the lunisolar
+calendar throughout Babylonia. Perhaps the most important event
+(cid:13) C 2005InstituteforResearchinClassicalPhilosophyandScience
+Allrightsreserved
+ISSN1549–4497(online) ISSN1549–4470(print) ISSN1549–4489(CD-ROM)
+Aestimatio2(2005)7--10
+JOHNM.STEELE 8
+intheculticcalendarwastheNewYear(ak¯ıtu)festival. Infact,there
+weretwoNewYearfestivals,oneheldinthefirstmonthNisannu,the
+beginning of the civil year, the other in the seventh month Tašr¯ıtu,
+the beginning of the cultic year. In order to prepare for these festi-
+vals, foreknowledgeofwhetheranintercalarymonthistobeinserted
+would be extremely helpful, as would any advance information on
+the day of first visibility of the lunar crescent which marked the be-
+ginning of the month. This demand of the ritual calendar may have
+beenoneofthereasonsforthedevelopmentandcontinuedpracticeof
+astronomy within the temple environment. In the Hellenistic period
+we know, for example, that at least some of the astronomers were
+employed in the Esagila temple in Babylon and the Reš sanctuary in
+Uruk [see Rochberg 2000].
+The eclipse-of-the-moon festival has a direct astronomical con-
+text. Lunareclipsesweretraditionallyseenasthemostsignificantof
+celestial omens. In the Neo-Assyrian period, for example, we know
+of many occurrences of the so-called ‘substitute king (šar pu¯hi) rit-
+˘
+ual’,wherebyasubstitutewasplacedonthethroneduringaneclipse
+which portended the death of the king [see Parpola 1983, xxii--xxxii].
+However, duringtheHellenisticperiod, therewasnoindigenousking
+tobeaffectedbythisritual. Butwedofinddescriptionsofotherritu-
+als, involving the playing of kettle-drums, the performance of lamen-
+tations, processions, and so forth, from this period. Some parts of
+theritualsweretobeperformedatdifferentstagesoftheeclipseand,
+as Linssen and David Brown have noted in an earlier paper [Brown
+and Linssen 1997], there is a direct link between the terminology
+used to describe eclipses in astronomical texts and the terminology
+of the ritual texts.
+The first half of Linssen’s book contains a detailed description
+of the evidence for the various rituals attested at Babylon and Uruk
+in the Hellenistic period. When possible, he compares the rituals as
+prescribedintempletextswithreferencestoritualsmentionedinthe
+astronomicaldiaries. Byandlargehefindsgoodagreement,implying
+that the ritual texts accurately reflect Hellenistic cultic practice. Of
+particular interest in this part of the book is a reconstruction of the
+culticcalendarsofUrukandBabylon[88--91]. Itisinterestingtonote
+that no specific rituals are attested for the 30th day of the month;
+whetherthisisduetoadeliberateavoidanceofthisdaybecauseonly
+9 Aestimatio
+about half of the months of the lunar year will have a 30th day, or
+whether this is an accident of preservation, is not known, however.
+The remainder of the book contains new editions and transla-
+tionsofallknownritualtextsfromtheHellenisticperiod,includinga
+few new examples identified by the author. Collecting all these texts
+in one place with consistent English translations makes this book ex-
+tremely useful. Many of the texts contain colophons identifying the
+scribes and owners of these tablets. Several interesting conclusions
+concerning the intellectual activity of the scribes of the Hellenistic
+period can be made on the basis of this information. For example,
+many of the scribes are known also to have written or owned astro-
+nomical tablets, chronicle texts, and to have appeared as witnesses
+on legal and business documents. Anu-b¯elšunu, son of Nidintu-Anu
+of the Sîn-l¯eqe-unn¯ıni family, who owned the ritual tablets TU45
+and TU46 (appendix F), is a particularly well known Uruk scribe
+who owned several astronomical tablets, including the interesting
+text A3405 which contains a collection of planetary and lunar phe-
+nomenacalculatedusingtheso-calledACTmethodsofmathematical
+astronomy [see Steele 2000], a mathematical text, and an illustrated
+astrological text [see Pearce and Doty 2000]; and he is one of the few
+identifiable natives for whom we possess his horoscope [see Beaulieu
+and Rochberg 1996].
+In summary, this book makes an important contribution to our
+understanding of intellectual practice in Hellenistic Babylonia. It is
+lucidly written, carefully typeset, and an extremely useful resource
+for future study of this important period and region in both Mesopo-
+tamian and Classical history.
+bibliography
+
+# FIGURE
+
+# BIBLIOGRAPHY
+
+Beaulieu, P.-A.and Rochberg, F.1996.‘The Horoscope of Anu-
+b¯elšunu’.Journal of Cuneiform Studies 48:89--94.
+Brown, D.and Linssen, M.J.H.1997.‘BM 134701=1966--10--14, 1
+and the Hellenistic Period Eclipse Ritual from Uruk’.Revue
+d’Assyriologie 91:147--166.
+Parpola, S.1983.ed.Letters from Assyrian Scholars to the Kings
+Esarhaddon and Assurbanipal:Part II.Commentary and Appen-
+dices.Kevelaer.
+JOHNM.STEELE 10
+Pearce, L.E.and Doty, L.T.2000.‘The Activities of Anu-b¯elšunu,
+Seleucid Scribe’.Pp.331--341 in J.Marzahn and H.Neumann
+edd.Assyriologia et Semitica:Festschrift für Joachim Oelsner
+anläßich seines 65.Geburstages am 18.Februar 1977.Münster.
+Rochberg, F.2000.‘Scribes and Scholars:The t.upš¯ar Enu¯ma Anu
+Enlil’.Pp.359--375 in J.Marzahn and H.Neumann edd.Assyri-
+ologia et Semitica:Festschrift für Joachim Oelsner anläßich
+seines 65.Geburstages am 18.Februar 1977.Münster.
+Sachs, A.J.and Hunger, H.1988--1996.Astronomical Diaries and
+Related Texts from Babylonia:Diaries from 652 BC to 61 BC.
+3 vols.Vienna.
+Steele, J.M.2000.‘A3405:An Unusual Astronomical Text from
+Uruk’.Archive for History of Exact Science 55:103--135.
+

@@ -1,0 +1,209 @@
+[
+  {
+    "author": [
+      {
+        "family": "Beaulieu",
+        "given": "Paul-Alain"
+      },
+      {
+        "family": "Rochberg",
+        "given": "Francesca"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "The Horoscope of Anu-bēlšunu"
+    ],
+    "volume": [
+      "48"
+    ],
+    "pages": [
+      "89–94"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "David"
+      },
+      {
+        "family": "Linssen",
+        "given": "M.J.H."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "BM 134701 = 1966-10-14, 1 and the Hellenistic Period Eclipse Ritual from Uruk"
+    ],
+    "volume": [
+      "91"
+    ],
+    "pages": [
+      "147–166"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revue d’Assyriologie"
+    ]
+  },
+  {
+    "editor": [
+      {
+        "family": "Parpola",
+        "given": "Simo"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Letters from Assyrian Scholars to the Kings Esarhaddon and Assurbanipal. Part II: Commentary and Appendices"
+    ],
+    "location": [
+      "Kevelaer"
+    ],
+    "publisher": [
+      "Butzon & Bercker"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pearce",
+        "given": "Laurie E."
+      },
+      {
+        "family": "Doty",
+        "given": "Lisa T."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "The Activities of Anu-bēlšunu, Seleucid Scribe"
+    ],
+    "container-title": [
+      "Assyriologia et Semitica: Festschrift für Joachim Oelsner anlässlich seines 65. Geburtstages am 18. Februar 1997"
+    ],
+    "editor": [
+      {
+        "family": "Marzahn",
+        "given": "Joachim"
+      },
+      {
+        "family": "Neumann",
+        "given": "Hans"
+      }
+    ],
+    "pages": [
+      "331–341"
+    ],
+    "location": [
+      "Münster"
+    ],
+    "publisher": [
+      "Ugarit-Verlag"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Rochberg",
+        "given": "Francesca"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Scribes and Scholars: The ṭupšār Enūma Anu Enlil"
+    ],
+    "container-title": [
+      "Assyriologia et Semitica: Festschrift für Joachim Oelsner anlässlich seines 65. Geburtstages am 18. Februar 1997"
+    ],
+    "editor": [
+      {
+        "family": "Marzahn",
+        "given": "Joachim"
+      },
+      {
+        "family": "Neumann",
+        "given": "Hans"
+      }
+    ],
+    "pages": [
+      "359–375"
+    ],
+    "location": [
+      "Münster"
+    ],
+    "publisher": [
+      "Ugarit-Verlag"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sachs",
+        "given": "Abraham J."
+      },
+      {
+        "family": "Hunger",
+        "given": "Hermann"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Astronomical Diaries and Related Texts from Babylonia: Diaries from 652 BC to 61 BC"
+    ],
+    "volume": [
+      "3"
+    ],
+    "location": [
+      "Vienna"
+    ],
+    "publisher": [
+      "Verlag der Österreichischen Akademie der Wissenschaften"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Steele",
+        "given": "John M."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "A3405: An Unusual Astronomical Text from Uruk"
+    ],
+    "volume": [
+      "55"
+    ],
+    "pages": [
+      "103–135"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Archive for History of Exact Sciences"
+    ]
+  }
+]

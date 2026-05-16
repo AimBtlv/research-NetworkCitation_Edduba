@@ -1,0 +1,903 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alster",
+        "given": "Bendt"
+      },
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Proverbs of Ancient Sumer"
+    ],
+    "location": [
+      "Bethesda, MD"
+    ],
+    "publisher": [
+      "CDL Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alster",
+        "given": "Bendt"
+      },
+      {
+        "family": "Civil",
+        "given": "Miguel"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Enlil and Ninlil: The Marriage of Sud"
+    ],
+    "container-title": [
+      "Studies in Literature from the Ancient Near East Dedicated to Samuel Noah Kramer",
+      "= Journal of the American Oriental Society"
+    ],
+    "editor": [
+      {
+        "family": "Sasson",
+        "given": "Jack M."
+      }
+    ],
+    "pages": [
+      "43–66"
+    ],
+    "collection-title": [
+      "American Oriental Series 65"
+    ],
+    "volume": [
+      "103"
+    ],
+    "location": [
+      "New Haven"
+    ],
+    "publisher": [
+      "American Oriental Society"
+    ],
+    "type": "article-journal",
+    "issue": [
+      "1)"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "André-Salvini",
+        "given": "Béatrice"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Les tablettes cunéiformes de Qalʿat al-Bahreïn"
+    ],
+    "container-title": [
+      "Bahreïn. La civilisation des deux mers"
+    ],
+    "editor": [
+      {
+        "family": "Lombard",
+        "given": "Pierre"
+      }
+    ],
+    "pages": [
+      "126–128"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "publisher": [
+      "Institut du monde arabe"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "Jeremy A."
+      },
+      {
+        "family": "Cunningham",
+        "given": "Graham"
+      },
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      },
+      {
+        "family": "Zólyomi",
+        "given": "Gábor"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "The Electronic Text Corpus of Sumerian Literature"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "url": [
+      "http://etcsl.orinst.ox.ac.uk"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "Jeremy A."
+      },
+      {
+        "family": "Cunningham",
+        "given": "Graham"
+      },
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      },
+      {
+        "family": "Zólyomi",
+        "given": "Gábor"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "The Farmer’s Instructions"
+    ],
+    "location": [
+      "Sabadell–Barcelona"
+    ],
+    "publisher": [
+      "AUSA"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "Jeremy A."
+      },
+      {
+        "family": "Cunningham",
+        "given": "Graham"
+      },
+      {
+        "family": "Robson",
+        "given": "Eleanor"
+      },
+      {
+        "family": "Zólyomi",
+        "given": "Gábor"
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Sumerian Riddles: A Corpus"
+    ],
+    "volume": [
+      "5"
+    ],
+    "pages": [
+      "17–37"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Aula Orientalis"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cavigneaux",
+        "given": "Antoine"
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Textes scolaires du temple de Nabû à Ḫarrê"
+    ],
+    "location": [
+      "Baghdad"
+    ],
+    "publisher": [
+      "Ministry of Culture of Iraq"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cole",
+        "given": "Steven W."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Nippur in Late Assyrian Times. State Archives of Assyria Studies 4"
+    ],
+    "location": [
+      "Helsinki"
+    ],
+    "publisher": [
+      "Helsinki University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooper",
+        "given": "Jerrold S."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Miettes de l’edubba"
+    ],
+    "container-title": [
+      "Tablettes et images aux pays de Sumer et d’Akkad. Mélanges offerts à Monsieur Limet"
+    ],
+    "editor": [
+      {
+        "family": "Dijk",
+        "given": "J.J.A.",
+        "particle": "van"
+      },
+      {
+        "family": "Özgüç",
+        "given": "Tunca"
+      },
+      {
+        "family": "Deheselle",
+        "given": "D."
+      }
+    ],
+    "pages": [
+      "11–26"
+    ],
+    "location": [
+      "Liège"
+    ],
+    "publisher": [
+      "Université de Liège"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooper",
+        "given": "Jerrold S."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "title": [
+      "The Return of Ninurta to Nippur"
+    ],
+    "volume": [
+      "52"
+    ],
+    "location": [
+      "Rome"
+    ],
+    "publisher": [
+      "Pontificium Institutum Biblicum"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Analecta Orientalia"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dijk",
+        "particle": "van"
+      },
+      {
+        "family": "A",
+        "given": "Jan J."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "LUGAL UD ME-LAM-bi NIR-GAL: Le récit épique et didactique des Travaux de Ninurta, du Déluge et de la Nouvelle Création"
+    ],
+    "location": [
+      "Leiden"
+    ],
+    "publisher": [
+      "Brill"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Eidem",
+        "given": "Jesper"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Cuneiform Inscriptions"
+    ],
+    "container-title": [
+      "Qalaʿat al-Bahrain",
+      "The Central Monumental Buildings"
+    ],
+    "volume": [
+      "2"
+    ],
+    "editor": [
+      {
+        "family": "Højlund",
+        "given": "Flemming"
+      },
+      {
+        "family": "Andersen",
+        "given": "H.H."
+      }
+    ],
+    "pages": [
+      "76–80"
+    ],
+    "publisher": [
+      "Jutland Archaeological Society Publications",
+      "Aarhus University Press"
+    ],
+    "edition": [
+      "XXX:2"
+    ],
+    "location": [
+      "Aarhus"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Falkowitz",
+        "given": "Richard S."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Round Old Babylonian School Tablets from Nippur"
+    ],
+    "volume": [
+      "29"
+    ],
+    "pages": [
+      "18–45"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Archiv für Orientforschung"
+    ],
+    "issue": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Finkel",
+        "given": "Irving L."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "On the Series of Sidu"
+    ],
+    "volume": [
+      "76"
+    ],
+    "pages": [
+      "250–253"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "George",
+        "given": "Andrew R."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "The Epic of Gilgamesh"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Penguin"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gordon",
+        "given": "Edmund I."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "title": [
+      "Sumerian Proverbs: Glimpses of Everyday Life in Ancient Mesopotamia"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University Museum"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hilgert",
+        "given": "Markus"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Drehem Administrative Documents from the Reign of Šulgi"
+    ],
+    "volume": [
+      "115"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Oriental Institute Publications"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koldewey",
+        "given": "Robert"
+      }
+    ],
+    "date": [
+      "1908"
+    ],
+    "title": [
+      "Aus den Berichten Professor Dr. Koldeweys aus Babylon"
+    ],
+    "volume": [
+      "38"
+    ],
+    "pages": [
+      "5–21"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mitteilungen der Deutschen Orient-Gesellschaft"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kraus",
+        "given": "Fritz R."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Mittelbabylonische Opferschauprotokolle"
+    ],
+    "volume": [
+      "37"
+    ],
+    "pages": [
+      "127–128"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Litke",
+        "given": "Richard L."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "A Reconstruction of the Assyro-Babylonian God Lists An = Anum and An = Anu ša amēli"
+    ],
+    "location": [
+      "New Haven"
+    ],
+    "publisher": [
+      "Yale University Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "McEwan",
+        "given": "Graham J.P."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Review of Jean-Marie Durand, Textes babyloniens d’époque récente"
+    ],
+    "volume": [
+      "55"
+    ],
+    "pages": [
+      "85–89"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Orientalia Nova Series"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Michalowski",
+        "given": "Piotr"
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "An Old Babylonian Literary Fragment Concerning the Kassites"
+    ],
+    "volume": [
+      "41"
+    ],
+    "pages": [
+      "385–389"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Annali dell’Istituto Orientale di Napoli"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pedersén",
+        "given": "Olof"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Archives and Libraries in the Ancient Near East, 1500–300 BC"
+    ],
+    "location": [
+      "Bethesda, MD"
+    ],
+    "publisher": [
+      "CDL Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pedersén",
+        "given": "Olof"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Zu den altbabylonischen Archiven aus Babylon"
+    ],
+    "volume": [
+      "25"
+    ],
+    "pages": [
+      "328–338"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Altorientalische Forschungen"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reiner",
+        "given": "Erica"
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "On the Early History of the Eršahunga Prayer"
+    ],
+    "volume": [
+      "39"
+    ],
+    "pages": [
+      "37–48"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Cuneiform Studies"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reiner",
+        "given": "Erica"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Literature as a Source of Lexical Inspiration: Some Notes on a Hymn to the Goddess Inanna"
+    ],
+    "container-title": [
+      "Written on Clay and Stone",
+      "Cuneiform Monographs"
+    ],
+    "editor": [
+      {
+        "family": "Maul",
+        "given": "Stefan M."
+      }
+    ],
+    "pages": [
+      "65–73"
+    ],
+    "volume": [
+      "9"
+    ],
+    "location": [
+      "Groningen"
+    ],
+    "publisher": [
+      "Styx"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Sassmannshausen",
+        "given": "Leonhard"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Ein ungewöhnliches mittelbabylonisches Urkundenfragment aus Nippur"
+    ],
+    "volume": [
+      "25"
+    ],
+    "pages": [
+      "447–457"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Baghdader Mitteilungen"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sjöberg",
+        "given": "Åke W."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "In-nin ma-gur4-ra: A Hymn to the Goddess Inanna by the En-Priestess Enheduanna"
+    ],
+    "volume": [
+      "65"
+    ],
+    "pages": [
+      "161–253"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Zeitschrift für Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sladek",
+        "given": "William R."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "title": [
+      "Inanna’s Descent to the Netherworld"
+    ],
+    "genre": [
+      "PhD diss.,"
+    ],
+    "publisher": [
+      "Johns Hopkins University"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Stol",
+        "given": "Marten"
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "title": [
+      "Leder(industrie"
+    ],
+    "volume": [
+      "6"
+    ],
+    "pages": [
+      "527–543"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Reallexikon der Assyriologie"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tigay",
+        "given": "Jeffrey H."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "title": [
+      "The Evolution of the Gilgamesh Epic"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University of Pennsylvania Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek C."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Review of Simo Parpola, The Standard Babylonian Epic of Gilgamesh"
+    ],
+    "volume": [
+      "56"
+    ],
+    "pages": [
+      "388–392"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bibliotheca Orientalis"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuis",
+        "given": "Niek C."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Sumerian Proverbs in Their Curricular Context"
+    ],
+    "volume": [
+      "120"
+    ],
+    "pages": [
+      "383–399"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of the American Oriental Society"
+    ]
+  }
+]

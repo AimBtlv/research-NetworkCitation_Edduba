@@ -1,0 +1,131 @@
+[
+  {
+    "author": [
+      {
+        "family": "Astour",
+        "given": "Michael C."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Ugarit and the Great Powers"
+    ],
+    "container-title": [
+      "Ugarit in Retrospect"
+    ],
+    "editor": [
+      {
+        "family": "Young",
+        "given": "Gordon D."
+      }
+    ],
+    "pages": [
+      "3–20"
+    ],
+    "location": [
+      "Winona Lake, IN"
+    ],
+    "publisher": [
+      "Eisenbrauns"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Curtis",
+        "given": "Adrian"
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Ugarit (Ras Shamra"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Lutterworth Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Garr",
+        "given": "Randall"
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "A Population Estimate of Ancient Ugarit"
+    ],
+    "volume": [
+      "266"
+    ],
+    "pages": [
+      "31–43"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin of the American Schools of Oriental Research"
+    ],
+    "issue": [
+      "May"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yon",
+        "given": "Marguerite"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Ugarit: The Urban Habitat, the Present State of the Archaeological Picture"
+    ],
+    "volume": [
+      "286"
+    ],
+    "pages": [
+      "19–34"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin of the American Schools of Oriental Research"
+    ],
+    "issue": [
+      "May"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yon",
+        "given": "Marguerite"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "The City of Ugarit at Tell Ras Shamra"
+    ],
+    "location": [
+      "Winona Lake, IN"
+    ],
+    "publisher": [
+      "Eisenbrauns"
+    ],
+    "type": "book"
+  }
+]
