@@ -32,7 +32,7 @@ Each publication carries:
 | `matched` | Binary (Boolean) | Whether the citation was successfully matched to a known source ID via AnyStyle extraction |
 | `direction` | Implicit (directed) | Edge is directed: `citing → cited`, encoding the flow of knowledge from a newer work toward an older one |
 | `step-crossing type` | Derived (ordinal pair) | The epistemic layer the edge crosses, defined by the `step_distance` of the source and target nodes (e.g. Step 2 → Step 1 = empirical anchoring; Step 3 → Step 3 = intra-authority reinforcement) |
-| `triangle membership` | Derived (binary) | Whether the edge is part of a closed trust triangle — computed in H5 analysis |
+| `triangle membership` | Derived (binary) | Whether the edge is part of a closed trust triangle computed in H5 analysis |
 
 **Role of edges in the analysis:**
 An edge `A → B` means *A cites B*, i.e. knowledge flows from B toward A.
