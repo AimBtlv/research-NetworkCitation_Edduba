@@ -6,8 +6,6 @@
 How knowledge about scribal schools circulates within academic discourse? 
 This project analyses the epistemic structure of academic scholarship on Edubba scribal schools of the Old Babylonian period through citation network analysis.
 *****
-**Project Status:**
-**🟡 in Process** / 🟢 Complete / 🔴 On a Wait
 ##### About Project: 
 This project demonstrates that directed citation network analysis can reveal structural properties of scholarly knowledge that are not accessible through traditional bibliometric or close-reading approaches. By modelling a corpus of 2,103 publications on Edubba scribal schools as a directed graph and applying standard network-theoretic measures, the study identifies five structural findings of methodological significance.
 The network is not hierarchical but sparse and fragmented, with a single dominant epistemic community and 202 micro-clusters. Primary archaeological sources are structurally isolated from the canonical literature, connected only through a bottleneck of 37 mediators. Epistemic influence, as measured by eigenvector centrality, is concentrated in Step 3 authorities rather than primary data. And reliable sources — defined by the composite Trust Triangle criterion — are structurally rare and belong to the mediator layer, not the authority layer.
