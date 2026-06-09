@@ -14,8 +14,8 @@ These findings challenge the assumption that citation frequency is a valid proxy
 
 ***
 ##### Research Questions and Hypotheses:
-- **RQ1** How is scholarly knowledge about Edubba schools structurally organised within the academic citation network and what role do primary archaeological sources play within this structure?
-- **RQ2** Which sources can be identified as epistemically reliable based on their structural position relative to primary data  and do the most reliable sources coincide with the most cited ones?
+- **RQ1:** How is scholarly knowledge structurally organised within the citation network, and what role do primary sources play?
+- **RQ2:** Which sources are the most reliable sources based on their proximity to primary sources?
 
 ---
 **H1 Network Topology Hypothesis**    
